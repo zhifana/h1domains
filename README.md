@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 23 17:31:50 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov 23 17:42:38 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -476,8 +476,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -1918,8 +1918,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
 *.tmall.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -2625,9 +2625,9 @@ marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.gs.de
-*.folioinstitutional.com
-*.folioclient.com
 *.gs.com
+*.folioclient.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3354,9 +3354,9 @@ rt.playcanvas.com
 snappublisher.snapchat.com
 store.snapchat.com
 my.snapchat.com
-business.snapchat.com
 app.snapchat.com
 playcanvas.com
+business.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
@@ -3676,9 +3676,9 @@ ctf.hacker101.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 app.pullrequest.com
-b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 errors.hackerone.net
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
