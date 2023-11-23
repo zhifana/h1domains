@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 23 17:57:03 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov 23 18:22:08 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -1308,8 +1308,8 @@ redditforbusiness.com
 matrix.redditspace.com
 accounts.reddit.com
 oauth.reddit.com
-www.reddit.com
 mod.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2607,7 +2607,6 @@ apigw.foliofn.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
-*.gspublishing.com
 goldmansachsindices.com
 *.goldmanpfm.com
 *.finlifepartners.com
@@ -2618,6 +2617,7 @@ goldmansachsindices.com
 *.global-liquidity.gs.com
 *.finlife.com
 *.nextcapital.com
+*.gspublishing.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com
@@ -2625,9 +2625,9 @@ marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.gs.de
-*.folioinstitutional.com
-*.folioclient.com
 *.gs.com
+*.folioclient.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3526,8 +3526,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 *.twimg.com
 gnip.com
 *.twitter.com
@@ -3657,9 +3657,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
+hackerone-user-content.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
