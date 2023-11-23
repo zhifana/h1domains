@@ -15,13 +15,12 @@ jobs:
     - name: Display updated files
       run: |
         echo "Updated files:"
-        git diff --name-only ${{ github.event.before }} ${{ github.sha }}
+        # Use github.event.before if available, otherwise use github.sha
+        BEFORE_COMMIT=${{ github.event.before || github.sha }}
+        git diff --name-only $BEFORE_COMMIT ${{ github.sha }}
 
     - name: Send notification
       run: |
         # Replace this with the notification method of your choice
         # This example uses a simple echo statement, you might use an API call, email, etc.
         echo "New commits! Check the updated files."
-
-# Add additional steps here for the notification method of your choice
-# For example, you could send an email, use a messaging service, or create an issue in the repository.
