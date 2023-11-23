@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 23 18:55:04 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov 23 19:14:44 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -476,8 +476,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -2488,9 +2488,9 @@ www.swiftfinancial.com
 swiftfinancial.com
 *.paylution.com
 py.pl
-*.braintree-api.com
 *.xoom.com
 *.braintreepayments.com
+*.braintree-api.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -3319,9 +3319,9 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
+admin.shopify.com
 *.shopify.com
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3657,8 +3657,8 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 hackerone-user-content.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
