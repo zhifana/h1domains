@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 23 21:26:30 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov 23 21:41:22 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -2908,8 +2908,8 @@ chatdate.app
 zodia.studio
 eu1.badoo.com
 bma.badoo.com
-badoocdn.com
 heyfiesta.com
+badoocdn.com
 ccardseu1.badoo.com
 www.bumble.com
 badoo.com
@@ -3319,9 +3319,9 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
+admin.shopify.com
 *.shopify.com
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
