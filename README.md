@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 23 20:56:13 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov 23 21:17:10 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -98,8 +98,8 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-cicd.io
 *.gocardless-staging.io
-www.gocardless.com
 manage-sandbox.gocardless.com
+www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -476,8 +476,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -534,8 +534,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -1256,8 +1256,8 @@ www.elastic.co
 cloud.elastic.co
 *.reckoproduction.com
 *.stripe.com
-*.link.co
 *.recko.io
+*.link.co
 *.touchtechpayments.com
 js.stripe.com
 app.taxjar.com
@@ -2625,9 +2625,9 @@ marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.gs.de
-*.gs.com
 *.folioinstitutional.com
 *.gsam.com
+*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
