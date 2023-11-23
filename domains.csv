@@ -7736,8 +7736,8 @@ magic-bbp,api.magic.link,True
 magic-bbp,dashboard.fortmatic.com,True
 magic-bbp,api.fortmatic.com,True
 magic-bbp,fortmatic.com,True
-magic-bbp,auth.magic.link,True
 magic-bbp,dashboard.magic.link,True
+magic-bbp,auth.magic.link,True
 magic-bbp,x2.fortmatic.com,True
 magic-bbp,careers.fortmatic.com,True
 magic-bbp,api.fortmatic.com,True
@@ -9419,9 +9419,9 @@ goldmansachs,marquee.gs.com,True
 goldmansachs,api.foliofn.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,*.gs.de,True
-goldmansachs,*.gs.com,True
-goldmansachs,*.folioclient.com,True
 goldmansachs,*.folioinstitutional.com,True
+goldmansachs,*.folioclient.com,True
+goldmansachs,*.gs.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -9923,8 +9923,8 @@ starbucks,www.starbucks.com.sg,True
 starbucks,cart.starbucks.co.jp,True
 starbucks,openapi.starbucks.com,True
 starbucks,secureui.starbucks.com,True
-blockchain,api.blockchain.info,True
 blockchain,ws.blockchain.info,True
+blockchain,api.blockchain.info,True
 blockchain,www.blockchain.info,True
 blockchain,*.blockchain.com,True
 blockchain,*.blockchain.com,True
@@ -10674,8 +10674,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,api.hackerone.com,True
 security,hackerone.com,True
+security,api.hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
