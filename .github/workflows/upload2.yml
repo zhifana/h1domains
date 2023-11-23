@@ -1,0 +1,27 @@
+name: update-notification
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  notify-updates:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out code
+      uses: actions/checkout@v2
+
+    - name: Display updated files
+      run: |
+        echo "Updated files:"
+        git diff --name-only ${{ github.event.before }} ${{ github.sha }}
+
+    - name: Send notification
+      run: |
+        # Replace this with the notification method of your choice
+        # This example uses a simple echo statement, you might use an API call, email, etc.
+        echo "New commits! Check the updated files."
+
+# Add additional steps here for the notification method of your choice
+# For example, you could send an email, use a messaging service, or create an issue in the repository.
