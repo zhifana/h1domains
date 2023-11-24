@@ -1,14 +1,14 @@
 experiences.booking.com
 careers.booking.com
 supplier.auth.toag.booking.com
-flights.booking.com
 booking.com
+flights.booking.com
 metasearch-api.booking.com
 taxi.booking.com
 widget.rentalcars.com
 cars.booking.com
-account.booking.com
 secure.booking.com
+account.booking.com
 booking.com
 secure.booking.com
 careers.booking.com
@@ -2916,8 +2916,8 @@ preprod1.grindr.com
 web.grindr.com
 *.dev.grindr.io
 preprod1.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -10579,8 +10579,8 @@ intensedebate.com
 safe.tumblr.com
 t.umblr.com
 mailpoet.com
-www.tumblr.com
 *.tumblr.com
+www.tumblr.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
