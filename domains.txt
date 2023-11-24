@@ -2916,8 +2916,8 @@ preprod1.grindr.com
 web.grindr.com
 *.dev.grindr.io
 preprod1.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -4518,8 +4518,8 @@ www.mycustomcase.com
 *.simplytoimpress.com
 www.photoaffections.com
 iseeme.com
-www.simplytoimpress.com
 www.cafepress.com
+www.simplytoimpress.com
 *.photoaffections.com
 www.canvasworld.com
 *.gifts.com
