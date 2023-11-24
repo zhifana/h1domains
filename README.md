@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 24 06:55:48 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 24 07:17:19 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -445,8 +445,8 @@ new-order.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
 *.indriver.com
 priority.eu-east-1.indriverapp.com
-watchdocs.indriverapp.com
 *.indriverapp.com
+watchdocs.indriverapp.com
 super-services.indriverapp.com
 wga.volans.tech
 volans.tech
