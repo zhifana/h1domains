@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 24 11:56:35 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 24 12:28:43 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -568,7 +568,6 @@ user-profile.8x8.com
 *.wavecell.com
 sms.8x8.com
 *.8x8cloud.net
-pay.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -2002,8 +2001,8 @@ maria.casino
 www.32red.com
 gatewaydsaptst2.marriott.com
 sso.marriott.com
-mgs.marriott.com
 www.marriott.com
+mgs.marriott.com
 reservations.all-inclusive.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
@@ -2604,9 +2603,9 @@ apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
 *.gsselect.com
-*.goldman.com
 *.ayco.com
 *.marcus.co.uk
+*.goldman.com
 goldmansachsindices.com
 *.goldmanpfm.com
 *.finlifepartners.com
@@ -3319,8 +3318,8 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopify.com
 *.shopifykloud.com
