@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 24 04:56:01 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 24 05:18:25 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -476,8 +476,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -964,8 +964,8 @@ shoppers.instacart.com
 docs.databricks.com
 demo.cloud.databricks.com
 databricks.com
-accounts.cloud.databricks.com
 academy.databricks.com
+accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
 labs.databricks.com
@@ -2604,9 +2604,9 @@ apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
 *.gsselect.com
-*.marcus.co.uk
 *.goldman.com
 *.ayco.com
+*.marcus.co.uk
 goldmansachsindices.com
 *.goldmanpfm.com
 *.finlifepartners.com
@@ -3319,9 +3319,9 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
