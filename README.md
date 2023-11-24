@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 24 13:57:10 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 24 14:18:08 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -10,8 +10,8 @@ supplier.auth.toag.booking.com
 booking.com
 flights.booking.com
 metasearch-api.booking.com
-taxi.booking.com
 widget.rentalcars.com
+taxi.booking.com
 cars.booking.com
 secure.booking.com
 account.booking.com
@@ -3318,8 +3318,8 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopify.com
 *.shopifykloud.com
