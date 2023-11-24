@@ -7348,9 +7348,9 @@ watson_group,www20.watsons.co.th,True
 watson_group,www.watsons.co.id,True
 watson_group,www.marionnaud.fr,True
 watson_group,www.watsons.com.ph,True
-watson_group,www.watsons.com.tr,True
 watson_group,www.marionnaud.ro,True
 watson_group,www.iciparisxl.lu,True
+watson_group,www.watsons.com.tr,True
 watson_group,www.kruidvat.nl,True
 watson_group,www.kruidvat.be,True
 watson_group,app.marionnaud.cz,True
@@ -10206,8 +10206,8 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
