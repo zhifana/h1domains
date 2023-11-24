@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 24 15:17:32 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 24 15:30:57 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
