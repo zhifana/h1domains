@@ -2610,8 +2610,8 @@ goldmansachsindices.com
 *.global-liquidity.gs.com
 *.finlife.com
 *.nextcapital.com
-*.gspublishing.com
 *.goldmansachs.com
+*.gspublishing.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com

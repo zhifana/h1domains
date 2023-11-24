@@ -4518,8 +4518,8 @@ www.mycustomcase.com
 *.simplytoimpress.com
 www.photoaffections.com
 iseeme.com
-www.simplytoimpress.com
 www.cafepress.com
+www.simplytoimpress.com
 *.photoaffections.com
 www.canvasworld.com
 *.gifts.com
@@ -9409,8 +9409,8 @@ goldmansachsindices.com
 *.global-liquidity.gs.com
 *.finlife.com
 *.nextcapital.com
-*.gspublishing.com
 *.goldmansachs.com
+*.gspublishing.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com
