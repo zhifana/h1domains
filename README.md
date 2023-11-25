@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov 25 17:16:03 UTC 2023)
+## Domains with Bounties (Last Updated Sat Nov 25 17:41:15 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -40,8 +40,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -475,8 +475,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -533,8 +533,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -3675,8 +3675,8 @@ profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 app.pullrequest.com
 errors.hackerone.net
-b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
