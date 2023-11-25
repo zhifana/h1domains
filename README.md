@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov 25 03:30:01 UTC 2023)
+## Domains with Bounties (Last Updated Sat Nov 25 03:40:24 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -1554,11 +1554,11 @@ tiktok.com
 live-backstage.tiktok.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
-business.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
 *.tiktok.com
+business.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
