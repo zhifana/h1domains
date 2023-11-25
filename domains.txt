@@ -4524,8 +4524,8 @@ www.canvasworld.com
 *.iseeme.com
 *.canvasworld.com
 *.personalcreations.com
-www.gifts.com
 *.cafepress.com
+www.gifts.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -10203,8 +10203,8 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopify.com
 *.shopifykloud.com
