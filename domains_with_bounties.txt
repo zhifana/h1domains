@@ -1763,10 +1763,10 @@ wallets.api.playstation.com
 social.playstation.com
 api.direct.playstation.com
 transact.playstation.com
-*.sonyentertainmentnetwork.com
 *.api.playstation.com
 store.playstation.com
 direct.playstation.com
+*.sonyentertainmentnetwork.com
 my.playstation.com
 my.account.sony.com
 *.playstation.net
