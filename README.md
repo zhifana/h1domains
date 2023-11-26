@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 26 10:16:34 UTC 2023)
+## Domains with Bounties (Last Updated Sun Nov 26 10:41:12 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -40,8 +40,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -475,8 +475,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -1286,13 +1286,13 @@ gql.reddit.com
 app.spiketrap.io
 ads.reddit.com
 old.reddit.com
-new.reddit.com
 meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com
 sh.reddit.com
 *.redditinc.com
 *.snooguts.net
+new.reddit.com
 s.reddit.com
 gateway.reddit.com
 www.spiketrap.io
