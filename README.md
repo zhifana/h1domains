@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 26 14:40:37 UTC 2023)
+## Domains with Bounties (Last Updated Sun Nov 26 15:17:29 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -659,10 +659,10 @@ www.cheaptickets.com
 www.lastminute.co.nz
 www.lastminute.com.au
 www.travelocity.ca
-www.carrentals.com
 www.bookabach.co.nz
 www.fewo-direkt.de
 www.expedia.com
+www.carrentals.com
 www.expediapartnercentral.com
 www.ebookers.fi
 www.stayz.com.au
@@ -1557,8 +1557,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-business.tiktok.com
 *.tiktok.com
+business.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -1810,8 +1810,8 @@ faucet.polygon.technology
 *.xiaomi.com
 *.miui.com
 *.xiaomiyoupin.com
-*.miwifi.com
 *.mi.com
+*.miwifi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -1924,8 +1924,8 @@ www.alibabagroup.com
 *.alimama.com
 *.Daraz.com
 *.aliexpress.com
-*.1688.com
 *.aliyun.com
+*.1688.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3230,8 +3230,8 @@ secure-dfadmin.deriv.com
 *.deriv.com
 *.binary.com
 *.deriv.cloud
-app.deriv.com
 oauth.deriv.com
+app.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
