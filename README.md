@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 26 02:07:03 UTC 2023)
+## Domains with Bounties (Last Updated Sun Nov 26 02:46:39 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -3227,8 +3227,8 @@ api.deriv.com
 smarttrader.deriv.com
 *.derivws.com
 secure-dfadmin.deriv.com
-*.binary.com
 *.deriv.com
+*.binary.com
 *.deriv.cloud
 oauth.deriv.com
 app.deriv.com

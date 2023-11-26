@@ -3221,8 +3221,8 @@ api.deriv.com
 smarttrader.deriv.com
 *.derivws.com
 secure-dfadmin.deriv.com
-*.binary.com
 *.deriv.com
+*.binary.com
 *.deriv.cloud
 oauth.deriv.com
 app.deriv.com
