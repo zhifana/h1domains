@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 26 03:41:35 UTC 2023)
+## Domains with Bounties (Last Updated Sun Nov 26 04:20:18 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -1256,8 +1256,8 @@ cloud.elastic.co
 *.stripe.com
 *.recko.io
 *.link.co
-*.touchtechpayments.com
 js.stripe.com
+*.touchtechpayments.com
 app.taxjar.com
 api.taxjar.com
 *.reckostaging.com
@@ -1810,8 +1810,8 @@ faucet.polygon.technology
 *.xiaomi.com
 *.miui.com
 *.xiaomiyoupin.com
-*.mi.com
 *.miwifi.com
+*.mi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -1922,9 +1922,9 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.aliyun.com
 *.Daraz.com
 *.aliexpress.com
+*.aliyun.com
 *.1688.com
 *.taobao.com
 *.alibaba.com
@@ -3317,8 +3317,8 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopify.com
 *.shopifykloud.com
