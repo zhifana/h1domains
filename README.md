@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 26 02:46:39 UTC 2023)
+## Domains with Bounties (Last Updated Sun Nov 26 03:17:22 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -1809,9 +1809,9 @@ open-api.polygon.technology
 faucet.polygon.technology
 *.xiaomi.com
 *.miui.com
-*.miwifi.com
 *.xiaomiyoupin.com
 *.mi.com
+*.miwifi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -1921,11 +1921,11 @@ www.alibabagroup.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
-*.1688.com
 *.alimama.com
 *.aliyun.com
 *.Daraz.com
 *.aliexpress.com
+*.1688.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
