@@ -970,8 +970,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -1450,8 +1450,8 @@ aven.com
 aven.com
 my.aven.com
 notary.aven.com
-*.service-now.com
 *.servicenow.com
+*.service-now.com
 *.servicenow.com
 *.service-now.com
 api.shi.com
@@ -2915,8 +2915,8 @@ preprod1.grindr.com
 web.grindr.com
 *.dev.grindr.io
 preprod1.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -7094,11 +7094,11 @@ launchpad.37signals.com
 world.hey.com
 *developer.cloud.com
 api.sharefile.com
-accounts.cloud.com
 (yoursubdomain).sharefile.com
 sf-rp-eu.sharefile.com
 *.browser.cloud.com
 www.cloud.com
+accounts.cloud.com
 eu.cloud.com
 onboarding.cloud.com
 (yoursubdomain).sf-api.com
@@ -7161,8 +7161,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 business.tiktok.com
+*.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -7701,8 +7701,8 @@ www.alibabagroup.com
 *.alimama.com
 *.Daraz.com
 *.aliexpress.com
-*.1688.com
 *.aliyun.com
+*.1688.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
