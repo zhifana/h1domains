@@ -1083,8 +1083,8 @@ http://rei.com/rei-garage
 http://rei.com/adventures
 http://rei.com/learn/expert-advice
 http://rei.com/events
-www.coinhako.com
 help.coinhako.com
+www.coinhako.com
 www.coinhako.com
 help.coinhako.com
 api.facemojikeyboard.com
@@ -1346,7 +1346,6 @@ bettersolutions.com.ph
 cleanergy.ph
 veco.com.ph
 *.enerzone.com.ph
-*.davaolight.com
 *.oilbu.com
 aboitizpower.info
 adventenergy.com.ph
@@ -1354,6 +1353,7 @@ retailelectricity.com.ph
 snaboitizpower.com
 *.visayanelectric.com
 *.aboitizpower.com
+*.davaolight.com
 *.apps.sofa.csg.aboitizpower.org
 aboitizpower.org
 aboitizpower.net
@@ -2915,8 +2915,8 @@ preprod1.grindr.com
 web.grindr.com
 *.dev.grindr.io
 preprod1.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
