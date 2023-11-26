@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 26 08:41:06 UTC 2023)
+## Domains with Bounties (Last Updated Sun Nov 26 09:15:21 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -40,8 +40,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -329,9 +329,9 @@ prd-ring-web-us.prd.rings.solutions
 *.blinkforhome.com/*
 login.tide.co
 api.tideplatform.in
-api.tide.co
 www.tide.co
 web.tide.co
+api.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
