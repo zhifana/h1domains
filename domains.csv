@@ -68,7 +68,6 @@ frontegg,portal.au.frontegg.com,True
 frontegg,api.au.frontegg.com,True
 frontegg,api.au.frontegg.com,True
 frontegg,portal.au.frontegg.com,True
-cbre,*.cbrecap.com,False
 cbre,*.cbreclarion.com,False
 cbre,*.cbreresidential.es,False
 cbre,*.cbrichardellis.com,False
@@ -113,6 +112,7 @@ cbre,acc.gallileo-frankfurt.com,False
 cbre,adfs.gallileo-frankfurt.com,False
 cbre,ag.gallileo-frankfurt.com,False
 cbre,autoconfig.gallileo-frankfurt.com,False
+cbre,backoffice.gallileo-frankfurt.com,False
 cbre,*.mainstreamsasp.com,False
 cbre,*.bovis.es,False
 cbre,*.cbreglobalinvestors.com,False
@@ -963,8 +963,8 @@ cbre,flatfileui.brokerhub.cbre.com,False
 cbre,flooredproducts.cbre.com,False
 cbre,fmdashboard.cbre.com,False
 cbre,fmsdemo-aws.dev.gcso.cbre.com,False
-fronthq,app.frontapp.com,True
 fronthq,*.front.com,True
+fronthq,app.frontapp.com,True
 fronthq,help.front.com,True
 fronthq,api2.frontapp.com,True
 fronthq,*.front.com,True
@@ -7560,8 +7560,8 @@ polygon-technology,faucet.polygon.technology,True
 xiaomi,*.xiaomi.com,True
 xiaomi,*.miui.com,True
 xiaomi,*.xiaomiyoupin.com,True
-xiaomi,*.mi.com,True
 xiaomi,*.miwifi.com,True
+xiaomi,*.mi.com,True
 xiaomi,*.mi.com,True
 xiaomi,*.xiaomi.com,True
 xiaomi,*.miui.com,True
