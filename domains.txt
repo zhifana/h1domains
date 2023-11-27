@@ -962,8 +962,8 @@ flatfileui.brokerhub.cbre.com
 flooredproducts.cbre.com
 fmdashboard.cbre.com
 fmsdemo-aws.dev.gcso.cbre.com
-*.front.com
 app.frontapp.com
+*.front.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -2915,8 +2915,8 @@ preprod1.grindr.com
 web.grindr.com
 *.dev.grindr.io
 preprod1.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -3121,10 +3121,10 @@ work-staging.8x8.com
 *.chalet.8x8.com
 uc.8x8pilot.com
 *.8x8.id
-*.jit.si
 user-profile-staging.8x8.com
 platform.8x8pilot.com
 cloud8.8x8.com
+*.jit.si
 *.8x8staging.com
 platform.8x8.com
 voapi.8x8.com
@@ -7701,8 +7701,8 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.1688.com
 *.aliyun.com
+*.1688.com
 *.aliexpress.com
 *.Daraz.com
 *.taobao.com
@@ -8100,9 +8100,9 @@ accountmanager.8x8.com
 *.ucverse.com
 work-staging.8x8.com
 express.8x8.com
-*.jit.si
 *.wavecell.com
 *.packet8.net
+*.jit.si
 *.ucverse.com
 *.8x8.com
 *.packet8.net
