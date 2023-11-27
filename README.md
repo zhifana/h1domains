@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 27 03:19:36 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 27 03:40:22 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -475,8 +475,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -3222,8 +3222,8 @@ secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.com
 *.deriv.cloud
-oauth.deriv.com
 app.deriv.com
+oauth.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3435,8 +3435,8 @@ next.airbnb.com
 *.byairbnb.com
 *.muscache.com
 *.hoteltonight-test.com
-www.hoteltonight.com
 *.airbnb.com
+www.hoteltonight.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
