@@ -2735,8 +2735,8 @@ shutterfly_vdp,snapfish.co.nz,False
 shutterfly_vdp,preschoolsmiles.com,False
 shutterfly_vdp,tinyprints.com,False
 shutterfly_vdp,blog.spoonflower.com,False
-shutterfly_vdp,*.shutterfly.com,False
 shutterfly_vdp,www.spoonflower.com,False
+shutterfly_vdp,*.shutterfly.com,False
 shutterfly_vdp,*.shutterfly.com,False
 shutterfly_vdp,*.snapfish.com,False
 shutterfly_vdp,lifetouch.com,False
@@ -6346,8 +6346,8 @@ reddit,*.reddithelp.com,True
 reddit,matrix.redditspace.com,True
 reddit,accounts.reddit.com,True
 reddit,oauth.reddit.com,True
-reddit,mod.reddit.com,True
 reddit,www.reddit.com,True
+reddit,mod.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -9828,8 +9828,8 @@ rockstargames,circolocorecords.com/,True
 rockstargames,lifeinvader.com,True
 rockstargames,store.rockstargames.com,True
 rockstargames,support.rockstargames.com,True
-rockstargames,prod.ros.rockstargames.com,True
 rockstargames,socialclub.rockstargames.com,True
+rockstargames,prod.ros.rockstargames.com,True
 rockstargames,socialclub.rockstargames.com,True
 rockstargames,prod.ros.rockstargames.com,True
 rockstargames,support.rockstargames.com,True
@@ -10208,8 +10208,8 @@ snapchat,create.snapchat.com,True
 snapchat,businesshelp.snapchat.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,forum.playcanvas.com,True
-snapchat,accounts.snapchat.com,True
 snapchat,ads.snapchat.com,True
+snapchat,accounts.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,blog.playcanvas.com,True
 snapchat,relay.playcanvas.com,True
@@ -10421,8 +10421,8 @@ adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,marketo.com,False
 adobe,firefly.adobe.com,False
 airbnb,m.airbnb.com,True
-airbnb,*.airbnb-aws.com,True
 airbnb,*.luxuryretreats.com,True
+airbnb,*.airbnb-aws.com,True
 airbnb,support-api.airbnb.com,True
 airbnb,omgpro.airbnb.com,True
 airbnb,*.atairbnb.com,True

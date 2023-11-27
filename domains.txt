@@ -2734,8 +2734,8 @@ snapfish.co.nz
 preschoolsmiles.com
 tinyprints.com
 blog.spoonflower.com
-*.shutterfly.com
 www.spoonflower.com
+*.shutterfly.com
 *.shutterfly.com
 *.snapfish.com
 lifetouch.com
@@ -6345,8 +6345,8 @@ redditforbusiness.com
 matrix.redditspace.com
 accounts.reddit.com
 oauth.reddit.com
-mod.reddit.com
 www.reddit.com
+mod.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -9827,8 +9827,8 @@ circolocorecords.com/
 lifeinvader.com
 store.rockstargames.com
 support.rockstargames.com
-prod.ros.rockstargames.com
 socialclub.rockstargames.com
+prod.ros.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -10207,8 +10207,8 @@ create.snapchat.com
 businesshelp.snapchat.com
 msg.playcanvas.com
 forum.playcanvas.com
-accounts.snapchat.com
 ads.snapchat.com
+accounts.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 relay.playcanvas.com
@@ -10420,8 +10420,8 @@ nicetryapril.na1.echosignsandbox.com
 marketo.com
 firefly.adobe.com
 m.airbnb.com
-*.airbnb-aws.com
 *.luxuryretreats.com
+*.airbnb-aws.com
 support-api.airbnb.com
 omgpro.airbnb.com
 *.atairbnb.com

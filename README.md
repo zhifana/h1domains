@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 27 16:49:53 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 27 17:18:34 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -1308,8 +1308,8 @@ redditforbusiness.com
 matrix.redditspace.com
 accounts.reddit.com
 oauth.reddit.com
-mod.reddit.com
 www.reddit.com
+mod.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2997,8 +2997,8 @@ circolocorecords.com/
 lifeinvader.com
 store.rockstargames.com
 support.rockstargames.com
-prod.ros.rockstargames.com
 socialclub.rockstargames.com
+prod.ros.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3331,8 +3331,8 @@ create.snapchat.com
 businesshelp.snapchat.com
 msg.playcanvas.com
 forum.playcanvas.com
-accounts.snapchat.com
 ads.snapchat.com
+accounts.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 relay.playcanvas.com
@@ -3425,8 +3425,8 @@ magentolive.com
 account.magento.com
 accounts.magento.cloud
 m.airbnb.com
-*.airbnb-aws.com
 *.luxuryretreats.com
+*.airbnb-aws.com
 support-api.airbnb.com
 omgpro.airbnb.com
 *.atairbnb.com
