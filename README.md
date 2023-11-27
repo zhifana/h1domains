@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 27 03:40:22 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 27 04:21:13 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -2047,8 +2047,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3214,13 +3214,13 @@ www.algolia.com
 *.algolianet.com
 www.algolia.com
 cashier.deriv.com
-derivws.com
 api.deriv.com
+derivws.com
 smarttrader.deriv.com
 *.derivws.com
 secure-dfadmin.deriv.com
-*.binary.com
 *.deriv.com
+*.binary.com
 *.deriv.cloud
 app.deriv.com
 oauth.deriv.com
