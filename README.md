@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 27 19:16:21 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 27 19:42:37 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -205,8 +205,8 @@ bq.visa.com
 www.visa.com.kh
 visa.co.ni
 www.cardinalcommerce.com
-usa.visa.com
 www.visa.co.il
+usa.visa.com
 bm.visa.com
 visa.com.au
 www.visa.co.ke
@@ -475,8 +475,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -1924,8 +1924,8 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.1688.com
 *.aliyun.com
+*.1688.com
 *.aliexpress.com
 *.Daraz.com
 *.taobao.com
@@ -3437,8 +3437,8 @@ next.airbnb.com
 *.byairbnb.com
 *.hoteltonight-test.com
 *.airbnb.com
-www.hoteltonight.com
 *.muscache.com
+www.hoteltonight.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
@@ -3624,8 +3624,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
