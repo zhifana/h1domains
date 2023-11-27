@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 27 14:43:57 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 27 15:19:56 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -856,8 +856,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-exnessaffiliates.com
 my.exness.com
+exnessaffiliates.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -1924,8 +1924,8 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.1688.com
 *.aliyun.com
+*.1688.com
 *.aliexpress.com
 *.Daraz.com
 *.taobao.com
@@ -2599,7 +2599,6 @@ apigw.foliofn.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
-goldmansachsindices.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
@@ -2610,6 +2609,7 @@ goldmansachsindices.com
 *.nextcapital.com
 *.gspublishing.com
 *.goldmansachs.com
+goldmansachsindices.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com
@@ -3331,8 +3331,8 @@ create.snapchat.com
 businesshelp.snapchat.com
 msg.playcanvas.com
 forum.playcanvas.com
-accounts.snapchat.com
 ads.snapchat.com
+accounts.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 relay.playcanvas.com
@@ -3347,8 +3347,8 @@ snappublisher.snapchat.com
 business.snapchat.com
 my.snapchat.com
 store.snapchat.com
-playcanvas.com
 app.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
