@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 27 12:59:34 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 27 13:23:11 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -13,8 +13,8 @@ metasearch-api.booking.com
 taxi.booking.com
 widget.rentalcars.com
 cars.booking.com
-account.booking.com
 secure.booking.com
+account.booking.com
 booking.com
 secure.booking.com
 careers.booking.com
@@ -1240,8 +1240,8 @@ main.trafficfactory.biz
 *.elasticnet.co
 *.eops.nl
 *.swiftype.com
-cloud.elastic.co
 *.elstc.co
+cloud.elastic.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -1557,8 +1557,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-business.tiktok.com
 *.tiktok.com
+business.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -3345,8 +3345,8 @@ snappublisher.snapchat.com
 business.snapchat.com
 my.snapchat.com
 store.snapchat.com
-app.snapchat.com
 playcanvas.com
+app.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
