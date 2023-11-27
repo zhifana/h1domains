@@ -1353,8 +1353,8 @@ aboitizpower_corporation,adventenergy.com.ph,False
 aboitizpower_corporation,retailelectricity.com.ph,False
 aboitizpower_corporation,snaboitizpower.com,False
 aboitizpower_corporation,*.visayanelectric.com,False
-aboitizpower_corporation,*.aboitizpower.com,False
 aboitizpower_corporation,*.davaolight.com,False
+aboitizpower_corporation,*.aboitizpower.com,False
 aboitizpower_corporation,*.apps.sofa.csg.aboitizpower.org,False
 aboitizpower_corporation,aboitizpower.org,False
 aboitizpower_corporation,aboitizpower.net,False
@@ -2999,6 +2999,7 @@ s-pankki,online.s-pankki.fi,True
 s-pankki,api.sokos.fi,True
 s-pankki,mobile.s-pankki.fi,True
 s-pankki,digili.s-cloud.fi,True
+s-pankki,cfapi.voikukka.fi,True
 s-pankki,extranet.s-pankki.fi,True
 s-pankki,www.prisma.fi,True
 s-pankki,www.s-pankki.fi,True
@@ -3016,6 +3017,7 @@ s-pankki,digili.s-cloud.fi,True
 s-pankki,www.prisma.fi,True
 s-pankki,www.sokos.fi,True
 s-pankki,api.sokos.fi,True
+s-pankki,cfapi.voikukka.fi,True
 kiwicom,jobs.kiwi.com,True
 kiwicom,auth.skypicker.com,True
 kiwicom,*.skypicker.com,True
@@ -4365,7 +4367,6 @@ mars,*.royalcanin.com,False
 mars,*.royalcanin.pl,False
 mars,*.mms.com,False
 mars,*.vcahospitals.com,False
-mars,*.royalcanin.ca,False
 mars,*.moncse-royalcanin-siege.com,False
 mars,*.monespaceveto.com,False
 mars,*.royalcanin.cz,False
@@ -4374,6 +4375,7 @@ mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,banfieldfoundation.org,False
 mars,*.pedigree.com,False
+mars,*.royalcanin.ca,False
 mars,*.marschocolate.com,False
 mars,*.dovechocolate.com,False
 mars,*.royal-canin.com,False
@@ -4514,8 +4516,8 @@ planetart,ai.planetart.com,False
 planetart,www.personalcreations.com,False
 planetart,www.mycustomcase.com,False
 planetart,*.mycustomcase.com,False
-planetart,www.photoaffections.com,False
 planetart,*.simplytoimpress.com,False
+planetart,www.photoaffections.com,False
 planetart,iseeme.com,False
 planetart,www.simplytoimpress.com,False
 planetart,www.cafepress.com,False
@@ -7162,8 +7164,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
+tiktok,*.tiktok.com,True
 tiktok,shop.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
@@ -10187,8 +10189,8 @@ shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
-shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10211,10 +10213,10 @@ snapchat,accounts.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,blog.playcanvas.com,True
 snapchat,relay.playcanvas.com,True
-snapchat,playcanv.as,True
 snapchat,store.playcanvas.com,True
 snapchat,login.playcanvas.com,True
 snapchat,code.playcanvas.com,True
+snapchat,playcanv.as,True
 snapchat,map.snapchat.com,True
 snapchat,www.bitmoji.com,True
 snapchat,rt.playcanvas.com,True

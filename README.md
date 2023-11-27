@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 27 13:23:11 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 27 13:42:31 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -514,6 +514,7 @@ online.s-pankki.fi
 api.sokos.fi
 mobile.s-pankki.fi
 digili.s-cloud.fi
+cfapi.voikukka.fi
 extranet.s-pankki.fi
 www.prisma.fi
 www.s-pankki.fi
@@ -531,6 +532,7 @@ digili.s-cloud.fi
 www.prisma.fi
 www.sokos.fi
 api.sokos.fi
+cfapi.voikukka.fi
 jobs.kiwi.com
 auth.skypicker.com
 *.skypicker.com
@@ -1557,8 +1559,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 business.tiktok.com
+*.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -3310,8 +3312,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3334,10 +3336,10 @@ accounts.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 relay.playcanvas.com
-playcanv.as
 store.playcanvas.com
 login.playcanvas.com
 code.playcanvas.com
+playcanv.as
 map.snapchat.com
 www.bitmoji.com
 rt.playcanvas.com
