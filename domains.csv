@@ -1451,8 +1451,8 @@ aven_response,*.aven.com,False
 aven_response,aven.com,False
 aven_response,my.aven.com,False
 aven_response,notary.aven.com,False
-servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
+servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
 shi_vdp,api.shi.com,False
@@ -9103,7 +9103,6 @@ hyatt,www.cheapcaribbean.com,True
 hyatt,login.www.vaxvacationaccess.com,True
 hyatt,assets.hyatt.com,True
 hyatt,roominglist.hyatt.com,True
-hyatt,sso.oft.hyatt.com,True
 hyatt,upsell.hyatt.com,True
 hyatt,res.breathlessresorts.com,True
 hyatt,res.skyteam.com,True
@@ -9118,6 +9117,7 @@ hyatt,www.blueskytours.com,True
 hyatt,vacations.outrigger.com,True
 hyatt,world.hyatt.com,True
 hyatt,book.extraholidaysvacations.com,True
+hyatt,sso.oft.hyatt.com,True
 hyatt,hyatt.com,True
 hyatt,www.hyatt.com,True
 hyatt,world.hyatt.com,True
@@ -9828,8 +9828,8 @@ rockstargames,circolocorecords.com/,True
 rockstargames,lifeinvader.com,True
 rockstargames,store.rockstargames.com,True
 rockstargames,support.rockstargames.com,True
-rockstargames,socialclub.rockstargames.com,True
 rockstargames,prod.ros.rockstargames.com,True
+rockstargames,socialclub.rockstargames.com,True
 rockstargames,socialclub.rockstargames.com,True
 rockstargames,prod.ros.rockstargames.com,True
 rockstargames,support.rockstargames.com,True
@@ -10017,8 +10017,8 @@ moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
 moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
-github,api.github.com,True
 github,npmjs.com,True
+github,api.github.com,True
 github,classroom.github.com,True
 github,*.githubapp.com,True
 github,education.github.com,True
@@ -10230,11 +10230,11 @@ snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,spectacles.com,True
 snapchat,web.snapchat.com,True
-snapchat,kit.snapchat.com,True
 snapchat,developer.playcanvas.com,True
 snapchat,launch.playcanvas.com,True
 snapchat,www.bitstrips.com,True
 snapchat,*.sc-core.net,True
+snapchat,kit.snapchat.com,True
 snapchat,accounts.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,*.sc-core.net,True

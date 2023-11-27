@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 27 20:18:39 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 27 20:43:04 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -2317,7 +2317,6 @@ www.cheapcaribbean.com
 login.www.vaxvacationaccess.com
 assets.hyatt.com
 roominglist.hyatt.com
-sso.oft.hyatt.com
 upsell.hyatt.com
 res.breathlessresorts.com
 res.skyteam.com
@@ -2332,6 +2331,7 @@ www.blueskytours.com
 vacations.outrigger.com
 world.hyatt.com
 book.extraholidaysvacations.com
+sso.oft.hyatt.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -2997,8 +2997,8 @@ circolocorecords.com/
 lifeinvader.com
 store.rockstargames.com
 support.rockstargames.com
-socialclub.rockstargames.com
 prod.ros.rockstargames.com
+socialclub.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3142,8 +3142,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 education.github.com
@@ -3353,11 +3353,11 @@ geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
 web.snapchat.com
-kit.snapchat.com
 developer.playcanvas.com
 launch.playcanvas.com
 www.bitstrips.com
 *.sc-core.net
+kit.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
