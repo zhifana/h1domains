@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 28 22:16:37 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 28 22:39:42 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -2644,8 +2644,8 @@ apigw.foliofn.com
 *.nextcapital.com
 *.gspublishing.com
 goldmansachsindices.com
-*.goldmansachs.com
 *.finlife.com
+*.goldmansachs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com
@@ -3448,8 +3448,8 @@ careers.ui.com
 ispdesign.ui.com
 ca.store.ui.com
 me.store.ui.com
-magento.com
 repo.magento.com
+magento.com
 magentolive.com
 marketplace.magento.com
 magentocommerce.com
@@ -3556,8 +3556,8 @@ www.greenhouse.io
 *.vine.co
 x.com
 *.twitter.com
-grok.x.ai
 *.twimg.com
+grok.x.ai
 gnip.com
 api.x.ai
 ide.x.ai
