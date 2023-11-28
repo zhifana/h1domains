@@ -1631,9 +1631,9 @@ visa,www.practicalmoneyskills.com,True
 visa,www.practicalbusinessskills.org,True
 visa,www.practicalmoneyskills.org,True
 daimler_truck,*omniplus.com,False
-daimler_truck,*.setra.de,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*exceleratorparts.com,False
+daimler_truck,*.setra.de,False
 daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
@@ -3119,8 +3119,8 @@ kkr_vdp,ksam.com,False
 8x8-bounty,work.8x8.com,True
 8x8-bounty,sso.8x8.com,True
 8x8-bounty,*.jitsi.net,True
-8x8-bounty,connect.8x8.com,True
 8x8-bounty,*.8x8.vc,True
+8x8-bounty,connect.8x8.com,True
 8x8-bounty,work-staging.8x8.com,True
 8x8-bounty,*.chalet.8x8.com,True
 8x8-bounty,uc.8x8pilot.com,True
@@ -4777,9 +4777,9 @@ alohi,www.alohi.com,False
 anywhererealestate,*.trgc.com,False
 anywhererealestate,*.cartus.com,False
 anywhererealestate,*.leadrouter.com,False
-anywhererealestate,*.century21.*,False
 anywhererealestate,*.era.com,False
 anywhererealestate,*.bhgre.*,False
+anywhererealestate,*.century21.*,False
 anywhererealestate,*.nrtllc.*,False
 anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.corcoran.*,False
@@ -5896,6 +5896,7 @@ john-deere,work-dispatcher-mobile.qual.us.e01.c01.johndeerecloud.com,False
 john-deere,vistaar.tal.deere.com,False
 john-deere,citratest.deere.com,False
 john-deere,ims.tcms.tal.deere.com,False
+john-deere,advance.deere.com,False
 john-deere,agrisync.com,False
 john-deere,api.agrisync.com,False
 john-deere,app.agrisync.com,False
@@ -7705,8 +7706,8 @@ alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
-alibaba,*.1688.com,True
 alibaba,*.aliyun.com,True
+alibaba,*.1688.com,True
 alibaba,*.aliexpress.com,True
 alibaba,*.Daraz.com,True
 alibaba,*.taobao.com,True
@@ -10527,12 +10528,12 @@ greenhouse,interseller.io,True
 greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
-x,*.twitter.com,True
 x,twitterflightschool.com,False
+x,*.twitter.com,True
 x,x.com,True
 x,t.co,False
-x,grok.x.ai,True
 x,*.twimg.com,True
+x,grok.x.ai,True
 x,gnip.com,True
 x,api.x.ai,True
 x,ide.x.ai,True

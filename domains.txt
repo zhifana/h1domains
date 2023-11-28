@@ -1630,9 +1630,9 @@ www.practicalmoneyskills.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
 *omniplus.com
-*.setra.de
 *.mercedes-benz-trucks.com
 *exceleratorparts.com
+*.setra.de
 *detroitconnect.com
 *.daimlertruck.com
 *.westernstar.com
@@ -3118,8 +3118,8 @@ ksam.com
 work.8x8.com
 sso.8x8.com
 *.jitsi.net
-connect.8x8.com
 *.8x8.vc
+connect.8x8.com
 work-staging.8x8.com
 *.chalet.8x8.com
 uc.8x8pilot.com
@@ -4776,9 +4776,9 @@ www.alohi.com
 *.trgc.com
 *.cartus.com
 *.leadrouter.com
-*.century21.*
 *.era.com
 *.bhgre.*
+*.century21.*
 *.nrtllc.*
 *.sothebysrealty.*
 *.corcoran.*
@@ -5895,6 +5895,7 @@ work-dispatcher-mobile.qual.us.e01.c01.johndeerecloud.com
 vistaar.tal.deere.com
 citratest.deere.com
 ims.tcms.tal.deere.com
+advance.deere.com
 agrisync.com
 api.agrisync.com
 app.agrisync.com
@@ -7704,8 +7705,8 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.1688.com
 *.aliyun.com
+*.1688.com
 *.aliexpress.com
 *.Daraz.com
 *.taobao.com
@@ -10526,12 +10527,12 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 twitterflightschool.com
+*.twitter.com
 x.com
 t.co
-grok.x.ai
 *.twimg.com
+grok.x.ai
 gnip.com
 api.x.ai
 ide.x.ai
