@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 28 09:20:27 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 28 09:41:36 UTC 2023)
 ```
 www.temu.com
 www.temu.com
@@ -551,8 +551,8 @@ jobs.kiwi.com
 work.8x8.com
 sso.8x8.com
 *.jitsi.net
-*.8x8.vc
 connect.8x8.com
+*.8x8.vc
 work-staging.8x8.com
 *.chalet.8x8.com
 uc.8x8pilot.com
@@ -1926,8 +1926,8 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.aliyun.com
 *.1688.com
+*.aliyun.com
 *.aliexpress.com
 *.Daraz.com
 *.taobao.com
@@ -1979,8 +1979,8 @@ unibet.me
 *.unibet.fr
 maria.casino
 *.kindredext.net
-*.unibet.com
 *.mariacasino.com
+*.unibet.com
 *.storspiller.com
 *.ottokasino.com
 www.32red.com
