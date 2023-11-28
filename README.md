@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 28 08:43:16 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 28 09:20:27 UTC 2023)
 ```
 www.temu.com
 www.temu.com
@@ -477,8 +477,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -550,9 +550,9 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 sso.8x8.com
-connect.8x8.com
 *.jitsi.net
 *.8x8.vc
+connect.8x8.com
 work-staging.8x8.com
 *.chalet.8x8.com
 uc.8x8pilot.com
@@ -1926,8 +1926,8 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.1688.com
 *.aliyun.com
+*.1688.com
 *.aliexpress.com
 *.Daraz.com
 *.taobao.com
