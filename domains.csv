@@ -3575,8 +3575,8 @@ deribit,insights.deribit.com,True
 deribit,pb.deribit.com,True
 deribit,tools.deribit.com,True
 deribit,metrics.deribit.com,True
-abercrombie_fitch,hollisterco.com,False
 abercrombie_fitch,corporate.abercrombie.com,False
+abercrombie_fitch,hollisterco.com,False
 abercrombie_fitch,abercrombie.com,False
 abercrombie_fitch,abercrombie.com,False
 abercrombie_fitch,hollisterco.com,False
@@ -7708,8 +7708,8 @@ alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
-alibaba,*.aliyun.com,True
 alibaba,*.1688.com,True
+alibaba,*.aliyun.com,True
 alibaba,*.aliexpress.com,True
 alibaba,*.Daraz.com,True
 alibaba,*.taobao.com,True
@@ -9404,8 +9404,8 @@ goldmansachs,*.global-liquidity.gs.com,True
 goldmansachs,*.nextcapital.com,True
 goldmansachs,*.gspublishing.com,True
 goldmansachs,goldmansachsindices.com,True
-goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.finlife.com,True
+goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs-mosaic.qa.gs.com,True
 goldmansachs,*.qaglobal-liquidity.gs.com,True
 goldmansachs,research.gs.com,True
@@ -10167,8 +10167,8 @@ radancy,devmaximum.com,True
 coursera,www.coursera.org,False
 coursera,www.coursera.org,False
 zendesk,developer.zendesk.com,True
-zendesk,h1-your-domain.zendesk.com,True
 zendesk,smooch.io,True
+zendesk,h1-your-domain.zendesk.com,True
 zendesk,apps.zendesk.com,True
 zendesk,www.zendesk.com,True
 zendesk,api.smooch.io,True
@@ -10201,8 +10201,8 @@ shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
-shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10534,8 +10534,8 @@ x,twitterflightschool.com,False
 x,x.com,True
 x,*.twitter.com,True
 x,t.co,False
-x,grok.x.ai,True
 x,*.twimg.com,True
+x,grok.x.ai,True
 x,gnip.com,True
 x,api.x.ai,True
 x,ide.x.ai,True
