@@ -3514,10 +3514,10 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
-grok.x.ai
+x.com
 *.twimg.com
+grok.x.ai
 gnip.com
 api.x.ai
 ide.x.ai
