@@ -2915,8 +2915,8 @@ preprod1.grindr.com
 web.grindr.com
 *.dev.grindr.io
 preprod1.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -10518,8 +10518,8 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 x.com
-*.twitter.com
 twitterflightschool.com
+*.twitter.com
 t.co
 *.twimg.com
 grok.x.ai
