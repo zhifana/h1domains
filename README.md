@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 27 23:42:05 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 28 01:04:38 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -475,8 +475,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -1464,8 +1464,8 @@ netlify-rum.netlify.app
 netlify-cdp-loader.netlify.app
 supportal.netlify.app
 *.services-prod.nsvcs.net
-*.infra-prod.nsvcs.net
 screenshot-proxy.netlify.app
+*.infra-prod.nsvcs.net
 *.onegraph.com
 *.ops.netlify.com
 list-v2--netlify-plugins.netlify.app
@@ -1924,8 +1924,8 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.1688.com
 *.aliyun.com
+*.1688.com
 *.aliexpress.com
 *.Daraz.com
 *.taobao.com
@@ -3436,9 +3436,9 @@ next.airbnb.com
 *.airbnbcitizen.com
 *.byairbnb.com
 *.hoteltonight-test.com
-*.airbnb.com
 *.muscache.com
 www.hoteltonight.com
+*.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
