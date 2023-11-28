@@ -4532,8 +4532,8 @@ planetart,*.gifts.com,False
 planetart,*.iseeme.com,False
 planetart,*.personalcreations.com,False
 planetart,*.canvasworld.com,False
-planetart,www.gifts.com,False
 planetart,*.cafepress.com,False
+planetart,www.gifts.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -10167,8 +10167,8 @@ radancy,devmaximum.com,True
 coursera,www.coursera.org,False
 coursera,www.coursera.org,False
 zendesk,developer.zendesk.com,True
-zendesk,smooch.io,True
 zendesk,h1-your-domain.zendesk.com,True
+zendesk,smooch.io,True
 zendesk,apps.zendesk.com,True
 zendesk,www.zendesk.com,True
 zendesk,api.smooch.io,True
@@ -10673,8 +10673,8 @@ yahoo,onepush.query.yahoo.com,True
 yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
-security,hackerone-user-content.com,True
 security,api.hackerone.com,True
+security,hackerone-user-content.com,True
 security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
