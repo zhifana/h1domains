@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 28 11:18:11 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 28 11:41:12 UTC 2023)
 ```
 www.temu.com
 www.temu.com
@@ -2610,8 +2610,8 @@ apigw.foliofn.com
 *.nextcapital.com
 *.gspublishing.com
 goldmansachsindices.com
-*.goldmansachs.com
 *.finlife.com
+*.goldmansachs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com
