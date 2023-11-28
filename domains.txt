@@ -4523,8 +4523,8 @@ iseeme.com
 www.simplytoimpress.com
 www.cafepress.com
 www.canvasworld.com
-*.gifts.com
 *.photoaffections.com
+*.gifts.com
 *.iseeme.com
 *.personalcreations.com
 *.cafepress.com
@@ -4775,9 +4775,9 @@ www.alohi.com
 *.trgc.com
 *.cartus.com
 *.leadrouter.com
-*.bhgre.*
-*.century21.*
 *.era.com
+*.century21.*
+*.bhgre.*
 *.nrtllc.*
 *.sothebysrealty.*
 *.corcoran.*
@@ -7703,8 +7703,8 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.1688.com
 *.aliyun.com
+*.1688.com
 *.aliexpress.com
 *.Daraz.com
 *.taobao.com
@@ -7737,8 +7737,8 @@ api.magic.link
 dashboard.fortmatic.com
 api.fortmatic.com
 fortmatic.com
-auth.magic.link
 dashboard.magic.link
+auth.magic.link
 x2.fortmatic.com
 careers.fortmatic.com
 api.fortmatic.com
@@ -8945,8 +8945,8 @@ chain.link
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.priceline.com
 www.getaroom.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -10182,9 +10182,9 @@ www.udemy.com
 yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
-shop.app
 linkpop.com
 *.shopifycloud.com
+shop.app
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
