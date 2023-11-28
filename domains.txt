@@ -9391,9 +9391,9 @@ apigw.foliofn.com
 *.foliofirst.com
 *.gsselect.com
 *.marcus.co.uk
-*.goldman.com
 *.ayco.com
 *.foliofn.com
+*.goldman.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
@@ -10166,8 +10166,8 @@ devmaximum.com
 www.coursera.org
 www.coursera.org
 developer.zendesk.com
-smooch.io
 h1-your-domain.zendesk.com
+smooch.io
 apps.zendesk.com
 www.zendesk.com
 api.smooch.io
@@ -10200,8 +10200,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -10533,8 +10533,8 @@ twitterflightschool.com
 x.com
 *.twitter.com
 t.co
-*.twimg.com
 grok.x.ai
+*.twimg.com
 gnip.com
 api.x.ai
 ide.x.ai

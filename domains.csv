@@ -9392,9 +9392,9 @@ goldmansachs,apigw.foliofn.com,True
 goldmansachs,*.foliofirst.com,True
 goldmansachs,*.gsselect.com,True
 goldmansachs,*.marcus.co.uk,True
-goldmansachs,*.goldman.com,True
 goldmansachs,*.ayco.com,True
 goldmansachs,*.foliofn.com,True
+goldmansachs,*.goldman.com,True
 goldmansachs,*.goldmanpfm.com,True
 goldmansachs,*.finlifepartners.com,True
 goldmansachs,*.foliodigitalwealth.com,True
@@ -10167,8 +10167,8 @@ radancy,devmaximum.com,True
 coursera,www.coursera.org,False
 coursera,www.coursera.org,False
 zendesk,developer.zendesk.com,True
-zendesk,smooch.io,True
 zendesk,h1-your-domain.zendesk.com,True
+zendesk,smooch.io,True
 zendesk,apps.zendesk.com,True
 zendesk,www.zendesk.com,True
 zendesk,api.smooch.io,True
@@ -10201,8 +10201,8 @@ shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10534,8 +10534,8 @@ x,twitterflightschool.com,False
 x,x.com,True
 x,*.twitter.com,True
 x,t.co,False
-x,*.twimg.com,True
 x,grok.x.ai,True
+x,*.twimg.com,True
 x,gnip.com,True
 x,api.x.ai,True
 x,ide.x.ai,True
