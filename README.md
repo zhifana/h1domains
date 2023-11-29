@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 29 03:42:47 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 29 04:22:57 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -375,8 +375,8 @@ api.tideplatform.in
 www.tide.co
 firefox.settings.services.mozilla.com
 crash-stats.allizom.org
-accounts.firefox.com
 firefox-ci-tc.services.mozilla.com
+accounts.firefox.com
 merino.services.mozilla.com
 push.services.mozilla.com
 sync.services.mozilla.com
@@ -2632,9 +2632,9 @@ apigw.foliofn.com
 *.foliofirst.com
 *.gsselect.com
 *.marcus.co.uk
-*.ayco.com
 *.foliofn.com
 *.goldman.com
+*.ayco.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
@@ -3556,8 +3556,8 @@ www.greenhouse.io
 *.vine.co
 x.com
 *.twitter.com
-grok.x.ai
 *.twimg.com
+grok.x.ai
 gnip.com
 api.x.ai
 ide.x.ai
