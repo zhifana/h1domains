@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 29 15:21:55 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 29 15:43:13 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -1880,11 +1880,11 @@ faucet.polygon.technology
 *.securityservices.io
 *.skybettest.net
 *.sportinglife.com
-*.betfair.it
 *.skybingo.com
 *.skyvegas.com
 *.skybet.com
 *.betfair.com
+*.betfair.it
 *.betfair.se
 *.skygamingcontent.com
 *.skypoker.com
@@ -2742,9 +2742,9 @@ testnet-croeseid-4.crypto.org
 crypto.org
 merchant.crypto.com
 tax.crypto.com
-pay.crypto.com
 app.mona.co
 js.crypto.com
+pay.crypto.com
 www.crypto.com
 https://crypto.com/exchange
 app.mona.co
@@ -3364,9 +3364,9 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3722,8 +3722,8 @@ reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
-www.hackerone.com
 hackerone-ext-content.com
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 errors.hackerone.net
