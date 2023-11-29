@@ -1543,8 +1543,8 @@ api.sharefile.com
 (yoursubdomain).sharefile.com
 sf-rp-eu.sharefile.com
 *.browser.cloud.com
-www.cloud.com
 accounts.cloud.com
+www.cloud.com
 eu.cloud.com
 onboarding.cloud.com
 (yoursubdomain).sf-api.com
@@ -2666,7 +2666,7 @@ api.foliofn.com
 *.gsam.com
 *.gs.de
 *.folioinstitutional.com
-*.folioclient.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
