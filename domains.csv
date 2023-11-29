@@ -9486,8 +9486,8 @@ valve,help.steampowered.com,True
 valve,developer.valvesoftware.com,True
 valve,storefront.steampowered.com,False
 valve,wiki.teamfortress.com,False
-crypto,www.crypto.com,True
 crypto,auth.crypto.com,True
+crypto,www.crypto.com,True
 crypto,testnet-croeseid-4.crypto.org,True
 crypto,crypto.org,True
 crypto,merchant.crypto.com,True
@@ -10536,8 +10536,8 @@ x,twitterflightschool.com,False
 x,x.com,True
 x,*.twitter.com,True
 x,t.co,False
-x,*.twimg.com,True
 x,grok.x.ai,True
+x,*.twimg.com,True
 x,gnip.com,True
 x,api.x.ai,True
 x,ide.x.ai,True
