@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 29 11:16:53 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 29 11:42:12 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -46,8 +46,8 @@ flights.booking.com
 admin.booking.com
 booking.com
 metasearch-api.booking.com
-distribution-xml.booking.com
 accommodations.booking.com
+distribution-xml.booking.com
 portal.taxi.booking.com
 taxi.booking.com
 widget.rentalcars.com
@@ -3365,8 +3365,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3573,8 +3573,8 @@ www.greenhouse.io
 *.vine.co
 *.twitter.com
 x.com
-grok.x.ai
 *.twimg.com
+grok.x.ai
 gnip.com
 api.x.ai
 ide.x.ai
