@@ -9,8 +9,8 @@ www.mercadopago.com.pe
 www.mercadopago.com.co
 www.mercadolibre.com.ar
 www.mercadopago.com.ar
-www.mercadolibre.com.co
 api.mercadopago.com
+www.mercadolibre.com.co
 www.mercadopago.com.mx
 www.mercadopago.com.br
 api.mercadolibre.com
@@ -40,8 +40,8 @@ flights.booking.com
 admin.booking.com
 booking.com
 metasearch-api.booking.com
-distribution-xml.booking.com
 accommodations.booking.com
+distribution-xml.booking.com
 portal.taxi.booking.com
 taxi.booking.com
 widget.rentalcars.com
@@ -10296,8 +10296,8 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
@@ -10630,8 +10630,8 @@ www.greenhouse.io
 twitterflightschool.com
 x.com
 t.co
-*.twimg.com
 grok.x.ai
+*.twimg.com
 gnip.com
 api.x.ai
 ide.x.ai
