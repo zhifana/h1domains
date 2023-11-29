@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 29 17:18:03 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 29 17:42:15 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -46,8 +46,8 @@ flights.booking.com
 admin.booking.com
 booking.com
 metasearch-api.booking.com
-distribution-xml.booking.com
 accommodations.booking.com
+distribution-xml.booking.com
 portal.taxi.booking.com
 taxi.booking.com
 widget.rentalcars.com
@@ -526,8 +526,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -756,6 +756,12 @@ magiceden.io
 *.magiceden.io
 *.magiceden.dev
 *.magiceden.workers.dev
+zerobounce.in
+zerobounce.net
+api.zerobounce.in
+zerobounce.in
+api.zerobounce.in
+zerobounce.net
 *.gravitational.com
 *.teleport.dev
 *.gravitational.co
@@ -1010,9 +1016,9 @@ admin.instacart.com
 shoppers.instacart.com
 docs.databricks.com
 demo.cloud.databricks.com
-academy.databricks.com
 databricks.com
 accounts.cloud.databricks.com
+academy.databricks.com
 kb.databricks.com
 support.databricks.com
 labs.databricks.com
@@ -3565,8 +3571,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 *.twimg.com
 grok.x.ai
 gnip.com
