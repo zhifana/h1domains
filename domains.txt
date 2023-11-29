@@ -40,8 +40,8 @@ flights.booking.com
 admin.booking.com
 booking.com
 metasearch-api.booking.com
-accommodations.booking.com
 distribution-xml.booking.com
+accommodations.booking.com
 portal.taxi.booking.com
 taxi.booking.com
 widget.rentalcars.com
@@ -3117,8 +3117,8 @@ api.sokos.fi
 cfapi.voikukka.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -4625,9 +4625,9 @@ www.canvasworld.com
 *.gifts.com
 *.iseeme.com
 *.canvasworld.com
-www.gifts.com
 *.cafepress.com
 *.personalcreations.com
+www.gifts.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -10125,8 +10125,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 education.github.com
@@ -10630,8 +10630,8 @@ www.greenhouse.io
 twitterflightschool.com
 x.com
 t.co
-grok.x.ai
 *.twimg.com
+grok.x.ai
 gnip.com
 api.x.ai
 ide.x.ai
