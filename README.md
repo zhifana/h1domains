@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 29 16:48:40 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 29 17:18:03 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -756,12 +756,6 @@ magiceden.io
 *.magiceden.io
 *.magiceden.dev
 *.magiceden.workers.dev
-zerobounce.in
-zerobounce.net
-api.zerobounce.in
-zerobounce.in
-api.zerobounce.in
-zerobounce.net
 *.gravitational.com
 *.teleport.dev
 *.gravitational.co
@@ -3365,8 +3359,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

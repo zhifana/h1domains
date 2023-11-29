@@ -750,12 +750,6 @@ magiceden.io
 *.magiceden.io
 *.magiceden.dev
 *.magiceden.workers.dev
-zerobounce.in
-zerobounce.net
-api.zerobounce.in
-zerobounce.in
-api.zerobounce.in
-zerobounce.net
 *.gravitational.com
 *.teleport.dev
 *.gravitational.co
@@ -3359,8 +3353,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

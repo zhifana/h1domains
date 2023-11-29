@@ -3493,12 +3493,6 @@ varonis,blog.varonis.br,False
 varonis,blog.varonis.ru,False
 varonis,blog.varonis.es,False
 varonis,varonis.net,False
-zerobounce,zerobounce.in,True
-zerobounce,zerobounce.net,True
-zerobounce,api.zerobounce.in,True
-zerobounce,zerobounce.in,True
-zerobounce,api.zerobounce.in,True
-zerobounce,zerobounce.net,True
 teleport,*.gravitational.com,True
 teleport,*.teleport.dev,True
 teleport,*.gravitational.co,True
@@ -10298,8 +10292,8 @@ shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
