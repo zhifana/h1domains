@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 30 13:22:17 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov 30 13:42:03 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -46,8 +46,8 @@ flights.booking.com
 admin.booking.com
 booking.com
 metasearch-api.booking.com
-accommodations.booking.com
 distribution-xml.booking.com
+accommodations.booking.com
 portal.taxi.booking.com
 taxi.booking.com
 widget.rentalcars.com
@@ -1456,8 +1456,8 @@ api.remitano.com
 www.remitano.com
 api.remitano.com
 socket.remitano.com
-nvio.mx
 nvio.ar
+nvio.mx
 api.bitso.com
 bitso.com
 bitso.com
@@ -1689,27 +1689,24 @@ hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
 app.marionnaud.hu
+www.iciparisxl.lu
+www.marionnaud.ro
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
+www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
 www.marionnaud.fr
-www.watsons.com.ph
-www.marionnaud.ro
-www.iciparisxl.lu
 www.watsons.com.tr
-www.kruidvat.nl
-www.kruidvat.be
 app.marionnaud.cz
 app.marionnaud.it
 app.marionnaud.ro
-www.marionnaud.sk
-www.pns.hk
 api.watsons.com.tw
 api.watsons.com.ph
-www10.watsons.com.my
+api.watsons.com.hk
+api.watsons.co.id
 app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
@@ -2671,8 +2668,8 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.gs.de
 *.gsam.com
+*.gs.com
 *.folioinstitutional.com
-*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
