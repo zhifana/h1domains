@@ -41,8 +41,8 @@ bookingcom,flights.booking.com,True
 bookingcom,admin.booking.com,True
 bookingcom,booking.com,True
 bookingcom,metasearch-api.booking.com,True
-bookingcom,accommodations.booking.com,True
 bookingcom,distribution-xml.booking.com,True
+bookingcom,accommodations.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,taxi.booking.com,True
 bookingcom,widget.rentalcars.com,True
@@ -2936,8 +2936,8 @@ grindr,*.grindr.mobi,True
 grindr,web.grindr.com,True
 grindr,*.dev.grindr.io,False
 grindr,preprod1.grindr.com,False
-skinport,api.skinport.com,True
 skinport,app.skinport.com,True
+skinport,api.skinport.com,True
 skinport,skinport.com,True
 skinport,skinport.com,True
 skinport,app.skinport.com,True
@@ -2950,7 +2950,6 @@ miro,miro.com,True
 miro,api.miro.com,True
 miro,http://miro.com/blog,True
 abb,*.cylon.com,False
-abb,*.abb.com.cn,False
 abb,*.busch-jaeger.*,False
 abb,*.it.abb.com,False
 abb,*.ru.abb.com,False
@@ -2960,6 +2959,7 @@ abb,*.abb.cn,False
 abb,*.abb.fr,False
 abb,*.abb.se,False
 abb,*.br-automation.com,False
+abb,*.abb.com.cn,False
 abb,*.tnb.com,False
 abb,*.busch-jaeger.nu,False
 abb,*.xc.abb.com,False
@@ -10628,8 +10628,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,*.twitter.com,True
 x,x.com,True
+x,*.twitter.com,True
 x,t.co,False
 x,*.twimg.com,True
 x,grok.x.ai,True
@@ -10745,8 +10745,8 @@ slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,*.quip.com,True
 slack,app.slack.com,True
+slack,*.quip.com,True
 slack,edgeapi.slack.com,True
 slack,slack-imgs.com,True
 slack,slack.com,True
