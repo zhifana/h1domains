@@ -2984,8 +2984,8 @@ abb,*.cn.abb.com,False
 abb,*.de.abb.com,False
 abb,*.abb.nl,False
 abb,*.abb.in,False
-abb,*.abb,False
 abb,*.abb-drives.com,False
+abb,*.abb,False
 abb,*.stratus.abb.com,False
 abb,*.cirrus.abb.com,False
 abb,*.ch.abb.com,False
@@ -3582,11 +3582,11 @@ resmed,resmed.es,False
 resmed,www.citushealth.com,False
 resmed,careers.resmed.com,False
 resmed,myair.resmed.com,False
-resmed,airview.resmed.com,False
 resmed,resmed.hk,False
 resmed,resmed.de,False
 resmed,myair.resmed.eu,False
 resmed,resmed-healthcare.de,False
+resmed,airview.resmed.com,False
 resmed,u-sleep.umbian.com,False
 resmed,narval-easy.resmed.eu,False
 resmed,resmed.mx,False
@@ -7998,8 +7998,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.roblox.com,True
 roblox,*.guilded.gg,True
+roblox,*.roblox.com,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -8195,8 +8195,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,sso.8x8.com,False
 8x8,platform.8x8.com,False
 8x8,www.8x8.com,False
-8x8,*.jitsi.net,False
 8x8,pay.8x8.com,False
+8x8,*.jitsi.net,False
 8x8,accountmanager.8x8.com,False
 8x8,*.contactnow.8x8.com,False
 8x8,*.mycontactual.com,False
@@ -9490,8 +9490,8 @@ goldmansachs,*.foliofirst.com,True
 goldmansachs,*.gsselect.com,True
 goldmansachs,*.marcus.co.uk,True
 goldmansachs,*.foliofn.com,True
-goldmansachs,*.goldman.com,True
 goldmansachs,*.ayco.com,True
+goldmansachs,*.goldman.com,True
 goldmansachs,*.goldmanpfm.com,True
 goldmansachs,*.finlifepartners.com,True
 goldmansachs,*.foliodigitalwealth.com,True
@@ -10628,11 +10628,11 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
-x,*.twimg.com,True
 x,grok.x.ai,True
+x,*.twimg.com,True
 x,gnip.com,True
 x,api.x.ai,True
 x,ide.x.ai,True
@@ -10745,8 +10745,8 @@ slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,app.slack.com,True
 slack,*.quip.com,True
+slack,app.slack.com,True
 slack,edgeapi.slack.com,True
 slack,slack-imgs.com,True
 slack,slack.com,True
