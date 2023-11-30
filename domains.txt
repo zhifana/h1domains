@@ -1013,8 +1013,8 @@ flatfileui.brokerhub.cbre.com
 flooredproducts.cbre.com
 fmdashboard.cbre.com
 fmsdemo-aws.dev.gcso.cbre.com
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -2935,8 +2935,8 @@ preprod1.grindr.com
 web.grindr.com
 *.dev.grindr.io
 preprod1.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -4615,8 +4615,8 @@ ai.planetart.com
 www.personalcreations.com
 www.mycustomcase.com
 *.mycustomcase.com
-*.simplytoimpress.com
 www.photoaffections.com
+*.simplytoimpress.com
 iseeme.com
 www.simplytoimpress.com
 www.cafepress.com
@@ -10404,8 +10404,8 @@ firefly.adobe.com
 nicetryapril.na1.echosignsandbox.com
 repo.magento.com
 magento.com
-auth.services.adobe.com
 *.adobe.com
+auth.services.adobe.com
 *.tt.omtrdc.net
 *.omniture.com
 *.typekit.com
@@ -10606,8 +10606,8 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 twitterflightschool.com
-*.twitter.com
 x.com
+*.twitter.com
 t.co
 grok.x.ai
 *.twimg.com
