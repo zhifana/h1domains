@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 30 09:19:00 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov 30 09:42:34 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -2990,18 +2990,6 @@ api.sonantic.io
 app.sonantic.io
 label-studio-public.sonantic.io
 backstage.io
-api.dashlane.com
-logs.dashlane.com
-www.dashlane.com
-app.dashlane.com
-console.dashlane.com
-ws1.dashlane.com
-ws1.dashlane.com
-www.dashlane.com
-console.dashlane.com
-app.dashlane.com
-logs.dashlane.com
-api.dashlane.com
 planet.wordpress.org
 *.wordpress.org
 wordpressfoundation.org
@@ -3571,10 +3559,10 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
-grok.x.ai
+*.twitter.com
 *.twimg.com
+grok.x.ai
 gnip.com
 api.x.ai
 ide.x.ai
@@ -4085,6 +4073,18 @@ help.unikrn.com
 promotions.unikrn.com
 unikrn.ly
 static.unkrn.com
+api.dashlane.com
+logs.dashlane.com
+www.dashlane.com
+app.dashlane.com
+console.dashlane.com
+ws1.dashlane.com
+ws1.dashlane.com
+www.dashlane.com
+console.dashlane.com
+app.dashlane.com
+logs.dashlane.com
+api.dashlane.com
 www.alvosec.com
 dns.alvosec.com
 cloud.alvosec.com
