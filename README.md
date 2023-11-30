@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 30 17:17:58 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov 30 17:42:10 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -176,11 +176,11 @@ www.leather.io
 www.leather.io
 api.wisdomtreeprimeapp.com
 api.wisdomtreeprimeapp.com
-testapi.redoxengine.com
 fhir.redoxengine.com
 clientcert.gamma.redoxstage.com
 launch.gamma.redoxstage.com
 www.redoxengine.com
+testapi.redoxengine.com
 eets-sftp-listener.gamma.redoxstage.com
 dashboard.gamma.redoxstage.com
 blob.gamma.redoxstage.com
@@ -526,8 +526,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -2099,8 +2099,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3065,12 +3065,6 @@ try.discourse.org
 try.discourse.org
 *.quora.com
 *.quora.com
-*.robinhood.com
-*.robinhood.net
-*.rhinternal.net
-*.robinhood.com
-*.robinhood.net
-*.rhinternal.net
 forum.portswigger.net
 portswigger.net
 portswigger.net
@@ -4090,6 +4084,12 @@ dns.alvosec.com
 cloud.alvosec.com
 mail.alvosec.com
 proton-api.alvosec.com
+*.robinhood.com
+*.robinhood.net
+*.rhinternal.net
+*.robinhood.com
+*.robinhood.net
+*.rhinternal.net
 www.legalrobot-test.com
 app.legalrobot.com
 www.legalrobot.com
