@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec  1 02:50:40 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec  1 03:17:39 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -83,8 +83,8 @@ portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-*.front.com
 app.frontapp.com
+*.front.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -2663,13 +2663,13 @@ goldmansachsindices.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com
-marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.gs.de
 *.gsam.com
 *.folioinstitutional.com
 *.folioclient.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3375,12 +3375,12 @@ store.playcanvas.com
 map.snapchat.com
 www.bitmoji.com
 rt.playcanvas.com
-snappublisher.snapchat.com
 my.snapchat.com
 store.snapchat.com
 business.snapchat.com
 playcanvas.com
 app.snapchat.com
+snappublisher.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
@@ -3662,8 +3662,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack.com
 slack-imgs.com
