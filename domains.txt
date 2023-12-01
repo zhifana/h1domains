@@ -2753,8 +2753,8 @@ snapfish.co.nz
 preschoolsmiles.com
 tinyprints.com
 blog.spoonflower.com
-www.spoonflower.com
 *.shutterfly.com
+www.spoonflower.com
 *.shutterfly.com
 *.snapfish.com
 lifetouch.com
@@ -6293,8 +6293,8 @@ supportcommunity.zebra.com
 *.zams.zebra.com
 *.profitect.com
 downloads.zebra.com
-cmm01.sl.zebra.com
 reflexisinc.com/
+cmm01.sl.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -7798,9 +7798,9 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.1688.com
-*.aliexpress.com
 *.Daraz.com
 *.aliyun.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
