@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec  1 17:41:58 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec  1 18:21:55 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -2490,8 +2490,8 @@ m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
 tvg.com
-*.fanduel.com
 *racing.fanduel.com
+*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3365,10 +3365,10 @@ shopifyinbox.com
 story.snapchat.com
 create.snapchat.com
 msg.playcanvas.com
-forum.playcanvas.com
 ads.snapchat.com
 businesshelp.snapchat.com
 accounts.snapchat.com
+forum.playcanvas.com
 scan.snapchat.com
 blog.playcanvas.com
 relay.playcanvas.com
