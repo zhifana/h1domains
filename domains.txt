@@ -130,9 +130,7 @@ portal.au.frontegg.com
 *.spacespot.com
 asb.cbreesi.com
 bms.cbreesi.com
-conductor.cbreesi.com
 iopleasant.cbreesi.com
-mosaic-bff.cbreesi.com
 lp1.cbreinvestors.com
 lp3.cbreinvestors.com
 pcg.cbre.com.au
@@ -163,6 +161,8 @@ developer.gallileo-frankfurt.com
 download.gallileo-frankfurt.com
 gitlab.gallileo-frankfurt.com
 hosting.gallileo-frankfurt.com
+mailgate.gallileo-frankfurt.com
+mailserver.gallileo-frankfurt.com
 *.mainstreamsasp.com
 *.bovis.es
 *.cbreglobalinvestors.com
@@ -10042,11 +10042,11 @@ usercontent.apps.nextcloud.com
 projects.nextcloud.com
 lookup.nextcloud.com
 static.apps.nextcloud.com
-apps.nextcloud.com
 portal.nextcloud.com
 logs.nextcloud.com
 stats.nextcloud.com
 help.nextcloud.com
+apps.nextcloud.com
 knowledge.nextcloud.com
 updates.nextcloud.com
 support.nextcloud.com

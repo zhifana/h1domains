@@ -131,9 +131,7 @@ cbre,*.norlandprojects.co.uk,False
 cbre,*.spacespot.com,False
 cbre,asb.cbreesi.com,False
 cbre,bms.cbreesi.com,False
-cbre,conductor.cbreesi.com,False
 cbre,iopleasant.cbreesi.com,False
-cbre,mosaic-bff.cbreesi.com,False
 cbre,lp1.cbreinvestors.com,False
 cbre,lp3.cbreinvestors.com,False
 cbre,pcg.cbre.com.au,False
@@ -164,6 +162,8 @@ cbre,developer.gallileo-frankfurt.com,False
 cbre,download.gallileo-frankfurt.com,False
 cbre,gitlab.gallileo-frankfurt.com,False
 cbre,hosting.gallileo-frankfurt.com,False
+cbre,mailgate.gallileo-frankfurt.com,False
+cbre,mailserver.gallileo-frankfurt.com,False
 cbre,*.mainstreamsasp.com,False
 cbre,*.bovis.es,False
 cbre,*.cbreglobalinvestors.com,False
@@ -10043,11 +10043,11 @@ nextcloud,usercontent.apps.nextcloud.com,False
 nextcloud,projects.nextcloud.com,False
 nextcloud,lookup.nextcloud.com,False
 nextcloud,static.apps.nextcloud.com,False
-nextcloud,apps.nextcloud.com,False
 nextcloud,portal.nextcloud.com,False
 nextcloud,logs.nextcloud.com,False
 nextcloud,stats.nextcloud.com,False
 nextcloud,help.nextcloud.com,False
+nextcloud,apps.nextcloud.com,False
 nextcloud,knowledge.nextcloud.com,False
 nextcloud,updates.nextcloud.com,False
 nextcloud,support.nextcloud.com,False
