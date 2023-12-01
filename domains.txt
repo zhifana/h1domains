@@ -2780,8 +2780,8 @@ staging.spoonflower.com
 blog.spoonflower.com
 www.six-group.com
 www.six-group.com
-*.msd.com
 *.merck.com
+*.msd.com
 *.merck.com
 *.msd.com
 mail1.wspsecure.co.uk
