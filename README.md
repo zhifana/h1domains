@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec  1 11:17:13 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec  1 11:42:05 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -2250,8 +2250,8 @@ app.command.cysiv.com
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.getaroom.com
 www.priceline.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
