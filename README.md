@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec  1 15:19:55 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec  1 15:42:59 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -585,8 +585,8 @@ api.sokos.fi
 cfapi.voikukka.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -1691,8 +1691,8 @@ www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
-www.marionnaud.fr
 www.watsons.com.tr
+www.marionnaud.fr
 app.marionnaud.cz
 app.marionnaud.it
 app.marionnaud.ro
@@ -2753,8 +2753,8 @@ insights.eu.newrelic.com
 infrastructure.eu.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
-rpm.newrelic.com
 developer.newrelic.com
+rpm.newrelic.com
 *.nr-data.net
 *.nr-ops.net
 insights.newrelic.com
