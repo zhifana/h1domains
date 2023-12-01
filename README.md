@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec  1 21:41:42 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec  1 22:17:47 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -541,8 +541,8 @@ http://miro.com/blog
 *.mb-cosmos.com
 cloud.malwarebytes.com
 *.mwbsys.com
-my.malwarebytes.com
 *.cloud.malwarebytes.com
+my.malwarebytes.com
 *.mbamupdates.com
 *.threatdown.com
 *.mwb-threatintel.com

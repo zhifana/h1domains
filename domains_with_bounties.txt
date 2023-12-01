@@ -535,8 +535,8 @@ http://miro.com/blog
 *.mb-cosmos.com
 cloud.malwarebytes.com
 *.mwbsys.com
-my.malwarebytes.com
 *.cloud.malwarebytes.com
+my.malwarebytes.com
 *.mbamupdates.com
 *.threatdown.com
 *.mwb-threatintel.com
