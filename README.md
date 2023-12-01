@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec  1 09:19:50 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec  1 09:43:06 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -3666,8 +3666,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack.com
 slack-imgs.com
