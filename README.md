@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec  1 08:42:49 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec  1 09:19:50 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -43,12 +43,12 @@ careers.booking.com
 chat.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
-booking.com
 admin.booking.com
+booking.com
 metasearch-api.booking.com
 distribution-xml.booking.com
-portal.taxi.booking.com
 accommodations.booking.com
+portal.taxi.booking.com
 taxi.booking.com
 autocomplete.booking.com
 secure-supply-xml.booking.com
@@ -147,9 +147,9 @@ pay-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-cicd.io
-www.gocardless.com
 manage-sandbox.gocardless.com
 *.gocardless-staging.io
+www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -525,8 +525,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -2659,9 +2659,9 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.gs.de
 *.gsam.com
-marquee.gs.com
+*.folioclient.com
 *.folioinstitutional.com
-*.gs.com
+marquee.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3666,8 +3666,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack.com
 slack-imgs.com
