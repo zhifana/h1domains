@@ -3529,8 +3529,8 @@ avalara,*.impendulo.com,False
 avalara,*.avalara.io,False
 avalara,*.avalara.net,False
 avalara,*.davosalestax.com,False
-avalara,*.track1099.com,False
 avalara,*.ttrus.com,False
+avalara,*.track1099.com,False
 avalara,*.inposia.com,False
 avalara,*.3ce.com,False
 avalara,*.avalara.com,False
@@ -10285,8 +10285,8 @@ shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
-shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True

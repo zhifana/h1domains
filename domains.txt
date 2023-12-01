@@ -3528,8 +3528,8 @@ www.divvyhomes.com
 *.avalara.io
 *.avalara.net
 *.davosalestax.com
-*.track1099.com
 *.ttrus.com
+*.track1099.com
 *.inposia.com
 *.3ce.com
 *.avalara.com
@@ -10284,8 +10284,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
