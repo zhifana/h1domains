@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec  1 15:42:59 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec  1 16:25:31 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -607,8 +607,8 @@ uc.8x8pilot.com
 *.8x8.id
 user-profile-staging.8x8.com
 platform.8x8pilot.com
-cloud8.8x8.com
 *.jit.si
+cloud8.8x8.com
 *.8x8staging.com
 platform.8x8.com
 voapi.8x8.com
@@ -3704,9 +3704,9 @@ profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-ctf.hacker101.com
 hackerone-ext-content.com
 www.hackerone.com
+ctf.hacker101.com
 profile-photos-us-east-2.hackerone-user-content.com
 errors.hackerone.net
 app.pullrequest.com

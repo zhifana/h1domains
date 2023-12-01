@@ -601,8 +601,8 @@ uc.8x8pilot.com
 *.8x8.id
 user-profile-staging.8x8.com
 platform.8x8pilot.com
-cloud8.8x8.com
 *.jit.si
+cloud8.8x8.com
 *.8x8staging.com
 platform.8x8.com
 voapi.8x8.com
@@ -3698,9 +3698,9 @@ profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-ctf.hacker101.com
 hackerone-ext-content.com
 www.hackerone.com
+ctf.hacker101.com
 profile-photos-us-east-2.hackerone-user-content.com
 errors.hackerone.net
 app.pullrequest.com
