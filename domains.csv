@@ -41,9 +41,9 @@ bookingcom,flights.booking.com,True
 bookingcom,admin.booking.com,True
 bookingcom,booking.com,True
 bookingcom,metasearch-api.booking.com,True
-bookingcom,distribution-xml.booking.com,True
 bookingcom,accommodations.booking.com,True
 bookingcom,portal.taxi.booking.com,True
+bookingcom,distribution-xml.booking.com,True
 bookingcom,taxi.booking.com,True
 bookingcom,autocomplete.booking.com,True
 bookingcom,secure-supply-xml.booking.com,True
@@ -2971,8 +2971,8 @@ abb,*.in.abb.com,False
 abb,abb.com.br,False
 abb,*.cms.abb,False
 abb,*.abb.at,False
-abb,*.abb.com,False
 abb,*.pl.abb.com,False
+abb,*.abb.com,False
 abb,*.busch-jaeger.nl,False
 abb,*.fi.abb.com,False
 abb,*.motors.abb.com.cn,False
@@ -7793,8 +7793,8 @@ amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
 alibaba,www.alibabagroup.com,True
 alibaba,*.tmall.com,True
-alibaba,*.alibabacloud.com,True
 alibaba,*.alibaba.com,True
+alibaba,*.alibabacloud.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
@@ -10084,8 +10084,8 @@ nextcloud,nextcloud.com,False
 nextcloud,download.nextcloud.com,False
 nextcloud,pushfeed.nextcloud.com,False
 nextcloud,newsletter.nextcloud.com,False
-pornhub,www.thumbzilla.com,True
 pornhub,*.tube8.com,True
+pornhub,www.thumbzilla.com,True
 pornhub,www.modelhub.com,True
 pornhub,www.redtube.com,True
 pornhub,www.pornhub.com,True
