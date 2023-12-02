@@ -3043,8 +3043,8 @@ abb,abb.com.br,False
 malwarebytes,*.mb-cosmos.com,True
 malwarebytes,cloud.malwarebytes.com,True
 malwarebytes,*.mwbsys.com,True
-malwarebytes,*.cloud.malwarebytes.com,True
 malwarebytes,my.malwarebytes.com,True
+malwarebytes,*.cloud.malwarebytes.com,True
 malwarebytes,*.mbamupdates.com,True
 malwarebytes,*.threatdown.com,True
 malwarebytes,forums.malwarebytes.com,False
@@ -9383,9 +9383,9 @@ paypal,api.loanbuilder.com,True
 paypal,prequal.swiftfinancial.com,True
 paypal,decision.swiftfinancial.com,True
 paypal,loanbuilder.com,True
-paypal,paypalobjects.com,True
 paypal,*.paypalcorp.com,True
 paypal,*.braintreegateway.com,True
+paypal,paypalobjects.com,True
 paypal,www.paypal-*.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True

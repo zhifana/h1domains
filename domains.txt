@@ -3042,8 +3042,8 @@ abb.com.br
 *.mb-cosmos.com
 cloud.malwarebytes.com
 *.mwbsys.com
-*.cloud.malwarebytes.com
 my.malwarebytes.com
+*.cloud.malwarebytes.com
 *.mbamupdates.com
 *.threatdown.com
 forums.malwarebytes.com
@@ -9382,9 +9382,9 @@ api.loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 loanbuilder.com
-paypalobjects.com
 *.paypalcorp.com
 *.braintreegateway.com
+paypalobjects.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
