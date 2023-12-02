@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec  2 10:40:42 UTC 2023)
+## Domains with Bounties (Last Updated Sat Dec  2 11:14:21 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -2902,8 +2902,8 @@ grab.careers
 *.grabtaxi.com
 gifts.grab.com
 wiki.grab.com
-*.grabpay.com
 *.grab-sure.com
+*.grabpay.com
 xtramile.grabpay.com
 *.myteksi.com
 *.grab.co

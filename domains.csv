@@ -9783,8 +9783,8 @@ grab,grab.careers,True
 grab,*.grabtaxi.com,True
 grab,gifts.grab.com,True
 grab,wiki.grab.com,True
-grab,*.grabpay.com,True
 grab,*.grab-sure.com,True
+grab,*.grabpay.com,True
 grab,xtramile.grabpay.com,True
 grab,*.myteksi.com,True
 grab,*.grab.co,True
