@@ -7196,11 +7196,11 @@ launchpad.37signals.com
 world.hey.com
 *developer.cloud.com
 api.sharefile.com
-(yoursubdomain).sharefile.com
 sf-rp-eu.sharefile.com
 *.browser.cloud.com
 accounts.cloud.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 eu.cloud.com
 onboarding.cloud.com
 (yoursubdomain).sf-api.com
