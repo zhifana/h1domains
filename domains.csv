@@ -1539,11 +1539,11 @@ redox_bbp,webhooks.gamma.redoxstage.com,True
 redox_bbp,testapp.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
-redox_bbp,explore.redoxengine.com,True
 redox_bbp,api.gamma.redoxstage.com,True
 redox_bbp,gamma.redoxstage.com,True
 redox_bbp,sftp.gamma.redoxstage.com,True
 redox_bbp,evening-earth.gamma.redoxstage.com,True
+redox_bbp,explore.redoxengine.com,True
 redox_bbp,app.gamma.redoxstage.com,True
 redox_bbp,10x.redoxengine.com,True
 redox_bbp,testapp.redoxengine.com,True
