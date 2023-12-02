@@ -3364,8 +3364,8 @@ www.lastminute.com.au
 www.travelocity.ca
 www.bookabach.co.nz
 www.fewo-direkt.de
-www.expedia.com
 www.carrentals.com
+www.expedia.com
 www.expediapartnercentral.com
 www.ebookers.fi
 www.stayz.com.au
@@ -7059,8 +7059,8 @@ federalist-docs.18f.gov
 *.ecpic.gov
 *.facadatabase.gov
 *.gsa.gov
-nvio.ar
 nvio.mx
+nvio.ar
 api.bitso.com
 bitso.com
 bitso.com

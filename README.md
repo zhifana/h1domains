@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec  2 20:41:24 UTC 2023)
+## Domains with Bounties (Last Updated Sat Dec  2 21:15:08 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -713,8 +713,8 @@ www.lastminute.com.au
 www.travelocity.ca
 www.bookabach.co.nz
 www.fewo-direkt.de
-www.expedia.com
 www.carrentals.com
+www.expedia.com
 www.expediapartnercentral.com
 www.ebookers.fi
 www.stayz.com.au
@@ -1449,8 +1449,8 @@ fetlife.com
 *.fetlife.com
 *.fetlife.com
 fetlife.com
-nvio.ar
 nvio.mx
+nvio.ar
 api.bitso.com
 bitso.com
 bitso.com
