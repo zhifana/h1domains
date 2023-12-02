@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec  2 17:41:03 UTC 2023)
+## Domains with Bounties (Last Updated Sat Dec  2 18:20:04 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -47,8 +47,8 @@ admin.booking.com
 booking.com
 metasearch-api.booking.com
 accommodations.booking.com
-portal.taxi.booking.com
 distribution-xml.booking.com
+portal.taxi.booking.com
 taxi.booking.com
 autocomplete.booking.com
 secure-supply-xml.booking.com
@@ -2761,8 +2761,8 @@ rpm.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
-*.newrelic.com
 one.newrelic.com
+*.newrelic.com
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
@@ -3260,9 +3260,9 @@ secure-dfadmin.deriv.com
 *.binary.com
 smarttrader.deriv.com
 *.deriv.com
-*.deriv.cloud
 oauth.deriv.com
 app.deriv.com
+*.deriv.cloud
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
