@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec  2 01:55:03 UTC 2023)
+## Domains with Bounties (Last Updated Sat Dec  2 02:26:44 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -1314,9 +1314,9 @@ cloud.elastic.co
 js.stripe.com
 app.taxjar.com
 *.reckostaging.com
-*.getbouncer.com
 api.taxjar.com
 api.stripe.com
+*.getbouncer.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1598,8 +1598,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 partner.tiktokshop.com
-tiktok.com
 live-backstage.tiktok.com
+tiktok.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
