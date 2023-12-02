@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec  2 20:16:58 UTC 2023)
+## Domains with Bounties (Last Updated Sat Dec  2 20:41:24 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -955,9 +955,9 @@ tapi-real.etoro.com
 charts.etoro.com
 candle.etoro.com
 push-d-gw.cloud.etoro.com
-r.etoro.com
 partners.etoro.com
 rankings.etoro.com
+r.etoro.com
 billing-pci.etoro.com
 candle-src.etoro.com
 push-demo-hk-lightstreamer.cloud.etoro.com
@@ -2092,8 +2092,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
