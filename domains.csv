@@ -4464,8 +4464,8 @@ mars,*.royalcaninconcorsi.it,False
 mars,*.royalcanin-vouchers.com,False
 mars,banfieldexchange.com,False
 mars,*.banfieldassets.com,False
-mars,*.royalcanin.pl,False
 mars,*.royalcanin.com,False
+mars,*.royalcanin.pl,False
 mars,*.mms.com,False
 mars,*.vcahospitals.com,False
 mars,*.moncse-royalcanin-siege.com,False
@@ -10287,9 +10287,9 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10323,8 +10323,8 @@ snapchat,store.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
 snapchat,playcanvas.com,True
-snapchat,business.snapchat.com,True
 snapchat,www.bitmoji.com,True
+snapchat,business.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,spectacles.com,True
