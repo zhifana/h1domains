@@ -2,11 +2,11 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec  4 14:19:33 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec  4 14:43:43 UTC 2023)
 ```
 www.mercadopago.com.uy
-www.mercadopago.cl
 www.mercadolibre.com.pe
+www.mercadopago.cl
 www.mercadolibre.com.uy
 www.mercadolibre.com.mx
 www.mercadolivre.com.br
@@ -178,9 +178,9 @@ api.wisdomtreeprimeapp.com
 api.wisdomtreeprimeapp.com
 fhir.redoxengine.com
 clientcert.gamma.redoxstage.com
-launch.gamma.redoxstage.com
 www.redoxengine.com
 testapi.redoxengine.com
+launch.gamma.redoxstage.com
 eets-sftp-listener.gamma.redoxstage.com
 blob.gamma.redoxstage.com
 dashboard.gamma.redoxstage.com
@@ -1875,8 +1875,8 @@ faucet.polygon.technology
 *.skybingo.com
 *.skyvegas.com
 *.skybet.com
-*.betfair.com
 *.betfair.it
+*.betfair.com
 *.betfair.se
 *.skygamingcontent.com
 *.skypoker.com
@@ -3189,8 +3189,8 @@ education.github.com
 npmjs.org
 gist.github.com
 *.github.net
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3350,9 +3350,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
