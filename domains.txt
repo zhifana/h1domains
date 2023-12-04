@@ -1167,8 +1167,8 @@ bakimonarim.shaya.com.tr
 shayakahve.com.tr
 bathandbodyworks.ro/
 bathandbodyworks.ro
-*.mothercare.com.eg
 *.americaneagle.com.kw
+*.mothercare.com.eg
 boysweb.shaya.com.tr
 kw.hm.com
 kw.cosstores.com
