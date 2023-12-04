@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec  4 16:45:18 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec  4 17:17:07 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -55,8 +55,8 @@ secure-supply-xml.booking.com
 widget.rentalcars.com
 secure.booking.com
 webhooks.booking.com
-cars.booking.com
 account.booking.com
+cars.booking.com
 booking.com
 secure.booking.com
 careers.booking.com
@@ -187,8 +187,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-testapp.redoxengine.com
 10x.redoxengine.com
+testapp.redoxengine.com
 docs.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
@@ -1098,9 +1098,9 @@ wonderboxdev.com
 *.bcbits.com
 fortnite.com
 capturingreality.com
-*.jellychat.com
 fallguys.com
 *.unrealtournament.com
+*.jellychat.com
 *.3lateral.com
 *.bcbits.com
 *.hmxwebservices.com
@@ -1340,8 +1340,8 @@ api.reddit.com
 gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
-old.reddit.com
 ads.reddit.com
+old.reddit.com
 meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -3189,8 +3189,8 @@ education.github.com
 npmjs.org
 gist.github.com
 *.github.net
-*.githubusercontent.com
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -3380,7 +3380,6 @@ code.playcanvas.com
 playcanv.as
 store.playcanvas.com
 map.snapchat.com
-www.bitmoji.com
 rt.playcanvas.com
 my.snapchat.com
 store.snapchat.com
@@ -3388,6 +3387,7 @@ app.snapchat.com
 snappublisher.snapchat.com
 playcanvas.com
 business.snapchat.com
+www.bitmoji.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
