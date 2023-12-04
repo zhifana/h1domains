@@ -49,8 +49,8 @@ secure-supply-xml.booking.com
 widget.rentalcars.com
 secure.booking.com
 webhooks.booking.com
-account.booking.com
 cars.booking.com
+account.booking.com
 booking.com
 secure.booking.com
 careers.booking.com
@@ -1111,9 +1111,9 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless.com
 *.gocardless-cicd.io
-manage-sandbox.gocardless.com
 www.gocardless.com
 *.gocardless-staging.io
+manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -3354,8 +3354,8 @@ www.expediaagents.com
 www.expediapartnersolutions.com
 www.orbitz.com
 www.hotels.com
-www.expediagroup.com
 www.abritel.fr
+www.expediagroup.com
 www.flights.com
 www.travelocity.com
 www.ebookers.com
@@ -10415,8 +10415,8 @@ nicetryapril.na1.echosignsandbox.com
 repo.magento.com
 magento.com
 auth.services.adobe.com
-exchange.adobe.com
 *.adobe.com
+exchange.adobe.com
 *.tt.omtrdc.net
 *.omniture.com
 *.typekit.com
@@ -10708,8 +10708,8 @@ custody.coinbase.com
 paradex.io
 *.cbhq.net
 prime.coinbase.com
-*.coinbase.com
 pro.coinbase.com
+*.coinbase.com
 cloud.coinbase.com
 api.coinbase.com
 api.custody.coinbase.com
