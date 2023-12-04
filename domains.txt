@@ -1403,8 +1403,8 @@ adventenergy.com.ph
 retailelectricity.com.ph
 snaboitizpower.com
 *.davaolight.com
-*.visayanelectric.com
 *.aboitizpower.com
+*.visayanelectric.com
 *.apps.sofa.csg.aboitizpower.org
 aboitizpower.org
 aboitizpower.net
