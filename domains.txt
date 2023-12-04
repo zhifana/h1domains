@@ -2972,8 +2972,8 @@ http://miro.com/blog
 abb.com.br
 *.cms.abb
 *.abb.at
-*.abb.com
 *.pl.abb.com
+*.abb.com
 *.busch-jaeger.nl
 *.fi.abb.com
 *.motors.abb.com.cn
@@ -9506,8 +9506,8 @@ api.foliofn.com
 *.gs.de
 *.gsam.com
 *.folioclient.com
-*.gs.com
 marquee.gs.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
