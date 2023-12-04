@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec  4 11:43:45 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec  4 12:28:46 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -217,8 +217,8 @@ explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
 www.mobile-phantom.com
-*.palm.tech
 www.tecno-mobile.com
+*.palm.tech
 security.tecno.com
 *.palm.tech
 www.tecno-mobile.com
@@ -3042,8 +3042,8 @@ circolocorecords.com/
 lifeinvader.com
 store.rockstargames.com
 prod.ros.rockstargames.com
-socialclub.rockstargames.com
 support.rockstargames.com
+socialclub.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
