@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec  4 09:42:43 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec  4 10:22:45 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -1544,8 +1544,8 @@ api.sharefile.com
 sf-rp-eu.sharefile.com
 *.browser.cloud.com
 www.cloud.com
-(yoursubdomain).sharefile.com
 accounts.cloud.com
+(yoursubdomain).sharefile.com
 eu.cloud.com
 onboarding.cloud.com
 (yoursubdomain).sf-api.com
