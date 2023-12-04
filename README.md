@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec  4 03:18:43 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec  4 03:41:15 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -2094,8 +2094,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
