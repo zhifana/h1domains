@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec  4 19:42:02 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec  4 20:18:24 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -618,8 +618,8 @@ voapi.8x8.com
 sso.8x8pilot.com
 *.p8t.us
 user-profile.8x8.com
-*.wavecell.com
 sms.8x8.com
+*.wavecell.com
 admin.8x8.com
 *.8x8.vc
 *.jit.si
@@ -3643,8 +3643,8 @@ custody.coinbase.com
 paradex.io
 *.cbhq.net
 prime.coinbase.com
-pro.coinbase.com
 *.coinbase.com
+pro.coinbase.com
 cloud.coinbase.com
 api.coinbase.com
 api.custody.coinbase.com

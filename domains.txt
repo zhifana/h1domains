@@ -3231,8 +3231,8 @@ voapi.8x8.com
 sso.8x8pilot.com
 *.p8t.us
 user-profile.8x8.com
-*.wavecell.com
 sms.8x8.com
+*.wavecell.com
 admin.8x8.com
 *.8x8.vc
 *.jit.si
@@ -8199,9 +8199,9 @@ accountmanager.8x8.com
 *.ucverse.com
 work-staging.8x8.com
 express.8x8.com
-*.wavecell.com
 *.packet8.net
 *.jit.si
+*.wavecell.com
 *.ucverse.com
 *.8x8.com
 *.packet8.net
@@ -10708,8 +10708,8 @@ custody.coinbase.com
 paradex.io
 *.cbhq.net
 prime.coinbase.com
-pro.coinbase.com
 *.coinbase.com
+pro.coinbase.com
 cloud.coinbase.com
 api.coinbase.com
 api.custody.coinbase.com

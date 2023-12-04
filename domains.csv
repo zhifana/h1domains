@@ -3232,8 +3232,8 @@ kkr_vdp,ksam.com,False
 8x8-bounty,sso.8x8pilot.com,True
 8x8-bounty,*.p8t.us,True
 8x8-bounty,user-profile.8x8.com,True
-8x8-bounty,*.wavecell.com,True
 8x8-bounty,sms.8x8.com,True
+8x8-bounty,*.wavecell.com,True
 8x8-bounty,admin.8x8.com,True
 8x8-bounty,*.8x8.vc,True
 8x8-bounty,*.jit.si,True
@@ -8200,9 +8200,9 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.ucverse.com,False
 8x8,work-staging.8x8.com,False
 8x8,express.8x8.com,False
-8x8,*.wavecell.com,False
 8x8,*.packet8.net,False
 8x8,*.jit.si,False
+8x8,*.wavecell.com,False
 8x8,*.ucverse.com,False
 8x8,*.8x8.com,False
 8x8,*.packet8.net,False
@@ -10709,8 +10709,8 @@ coinbase,custody.coinbase.com,True
 coinbase,paradex.io,True
 coinbase,*.cbhq.net,True
 coinbase,prime.coinbase.com,True
-coinbase,pro.coinbase.com,True
 coinbase,*.coinbase.com,True
+coinbase,pro.coinbase.com,True
 coinbase,cloud.coinbase.com,True
 coinbase,api.coinbase.com,True
 coinbase,api.custody.coinbase.com,True
