@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec  5 17:18:19 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec  5 17:40:53 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -54,8 +54,8 @@ autocomplete.booking.com
 secure-supply-xml.booking.com
 widget.rentalcars.com
 webhooks.booking.com
-cars.booking.com
 secure.booking.com
+cars.booking.com
 account.booking.com
 booking.com
 secure.booking.com
@@ -187,8 +187,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-testapp.redoxengine.com
 10x.redoxengine.com
+testapp.redoxengine.com
 docs.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
@@ -1608,9 +1608,9 @@ www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
-business.tiktok.com
 *.tiktokv.com
 *.tiktok.com
+business.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -3234,8 +3234,8 @@ api.grofers.com
 blinkit.com
 winecellar.zomato.com
 *.zdev.net
-*.zomato.com
 *.zomans.com
+*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net

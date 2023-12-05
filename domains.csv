@@ -49,8 +49,8 @@ bookingcom,autocomplete.booking.com,True
 bookingcom,secure-supply-xml.booking.com,True
 bookingcom,widget.rentalcars.com,True
 bookingcom,webhooks.booking.com,True
-bookingcom,cars.booking.com,True
 bookingcom,secure.booking.com,True
+bookingcom,cars.booking.com,True
 bookingcom,account.booking.com,True
 bookingcom,booking.com,True
 bookingcom,secure.booking.com,True
@@ -1536,8 +1536,8 @@ redox_bbp,dashboard.gamma.redoxstage.com,True
 redox_bbp,help.redoxengine.com,True
 redox_bbp,eets.gamma.redoxstage.com,True
 redox_bbp,webhooks.gamma.redoxstage.com,True
-redox_bbp,testapp.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
+redox_bbp,testapp.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
 redox_bbp,api.gamma.redoxstage.com,True
 redox_bbp,gamma.redoxstage.com,True
@@ -6076,6 +6076,7 @@ john-deere,adzone.deere.com,False
 john-deere,advertising.deere.com,False
 john-deere,vision-devl.deere.com/,False
 john-deere,operationscenter.deere.com,False
+john-deere,pages.deere.com,False
 john-deere,satpredictor2.deere.com,False
 stripe,*.reckoproduction.com,True
 stripe,*.stripe.com,True
@@ -7294,9 +7295,9 @@ tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,careers.tiktok.com,True
-tiktok,business.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,*.tiktok.com,True
+tiktok,business.tiktok.com,True
 tiktok,shop.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
@@ -10200,8 +10201,8 @@ zomato,*.hyperpure.com,True
 zomato,blinkit.com,True
 zomato,winecellar.zomato.com,True
 zomato,*.zdev.net,True
-zomato,*.zomato.com,True
 zomato,*.zomans.com,True
+zomato,*.zomato.com,True
 zomato,*.runnr.in,True
 zomato,*.zomato.com,True
 zomato,*.zdev.net,True
