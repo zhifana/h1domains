@@ -33,9 +33,9 @@ mercadolibre,www.mercadolibre.cl,True
 mercadolibre,www.mercadopago.cl,True
 temu,www.temu.com,True
 temu,www.temu.com,True
-bookingcom,experiences.booking.com,True
 bookingcom,chat.booking.com,True
 bookingcom,careers.booking.com,True
+bookingcom,experiences.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,admin.booking.com,True
@@ -7213,10 +7213,10 @@ citrix,secure.sharefile.com,True
 citrix,sf-rp-us.sharefile.com,True
 citrix,ap-s.cloud.com,True
 citrix,(yoursubdomain).eu.iws.cloud.com,True
-citrix,secure.sharefile.eu,True
 citrix,accounts-internal.cloud.com,True
 citrix,(youriwssubdomain).cloud.com,True
 citrix,adm.cloud.com,True
+citrix,secure.sharefile.eu,True
 citrix,launch.cloud.com,True
 citrix,api.adm.cloud.com,True
 citrix,api.sharefile.eu,True
