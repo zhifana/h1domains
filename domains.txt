@@ -7230,9 +7230,9 @@ world.hey.com
 api.sharefile.com
 sf-rp-eu.sharefile.com
 *.browser.cloud.com
-www.cloud.com
 accounts.cloud.com
 (yoursubdomain).sharefile.com
+www.cloud.com
 eu.cloud.com
 onboarding.cloud.com
 (yoursubdomain).sf-api.com
