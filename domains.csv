@@ -7104,8 +7104,8 @@ lark_technologies,caldav.larksuite.com,True
 lark_technologies,passport.larksuite.com,True
 lark_technologies,internal-api-drive-stream.larksuite.com,True
 lark_technologies,hackers_chosendomain.larksuite.com,True
-lark_technologies,internal-api.larksuite.com,True
 lark_technologies,larksuite.com,True
+lark_technologies,internal-api.larksuite.com,True
 lark_technologies,api.larksuite.com,True
 lark_technologies,internal-api-lark-api.larksuite.com,True
 lark_technologies,open.larksuite.com,True
@@ -7851,9 +7851,9 @@ alibaba,www.alibabagroup.com,True
 bmwgroup,www.mini.de,True
 bmwgroup,configure.bmw.de,True
 bmwgroup,www.bmw.de,True
-bmwgroup,www.bmw-motorrad.de,True
 bmwgroup,konfigurator.bmw-motorrad.de,True
 bmwgroup,configure.mini.de,True
+bmwgroup,www.bmw-motorrad.de,True
 bmwgroup,www.bmw.de,True
 bmwgroup,www.mini.de,True
 bmwgroup,www.bmw-motorrad.de,True
