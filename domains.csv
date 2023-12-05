@@ -50,8 +50,8 @@ bookingcom,secure-supply-xml.booking.com,True
 bookingcom,widget.rentalcars.com,True
 bookingcom,webhooks.booking.com,True
 bookingcom,secure.booking.com,True
-bookingcom,cars.booking.com,True
 bookingcom,account.booking.com,True
+bookingcom,cars.booking.com,True
 bookingcom,booking.com,True
 bookingcom,secure.booking.com,True
 bookingcom,careers.booking.com,True
@@ -1536,8 +1536,8 @@ redox_bbp,dashboard.gamma.redoxstage.com,True
 redox_bbp,help.redoxengine.com,True
 redox_bbp,eets.gamma.redoxstage.com,True
 redox_bbp,webhooks.gamma.redoxstage.com,True
-redox_bbp,10x.redoxengine.com,True
 redox_bbp,testapp.redoxengine.com,True
+redox_bbp,10x.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
 redox_bbp,api.gamma.redoxstage.com,True
 redox_bbp,gamma.redoxstage.com,True
@@ -2985,8 +2985,8 @@ abb,*.de.abb.com,False
 abb,*.abb.nl,False
 abb,*.abb.in,False
 abb,*.abb-drives.com,False
-abb,*.ability.abb,False
 abb,*.abb,False
+abb,*.ability.abb,False
 abb,*.stratus.abb.com,False
 abb,*.cirrus.abb.com,False
 abb,*.ch.abb.com,False
@@ -8690,8 +8690,8 @@ mtn_group,progressivetech.holdings,False
 mtn_group,ayo.ba,False
 datastax,downloads.datastax.com,True
 datastax,www.datastax.com,True
-datastax,astra.datastax.com,True
 datastax,docs.datastax.com,True
+datastax,astra.datastax.com,True
 datastax,www.datastax.com,True
 datastax,downloads.datastax.com,True
 datastax,docs.datastax.com,True
@@ -10741,8 +10741,8 @@ coinbase,*.cbhq.net,True
 coinbase,prime.coinbase.com,True
 coinbase,pro.coinbase.com,True
 coinbase,*.coinbase.com,True
-coinbase,cloud.coinbase.com,True
 coinbase,api.coinbase.com,True
+coinbase,cloud.coinbase.com,True
 coinbase,api.custody.coinbase.com,True
 coinbase,institutional.coinbase.com,True
 coinbase,*.base.org,True
