@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec  5 05:19:13 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec  5 05:40:05 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -399,12 +399,12 @@ merino.services.mozilla.com
 push.services.mozilla.com
 sync.services.mozilla.com
 bugzilla.mozilla.org
-contile.services.mozilla.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 hg.mozilla.org
 addons.allizom.org
 aus5.mozilla.org
+contile.services.mozilla.com
 crash-reports.allizom.org
 location.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
