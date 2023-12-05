@@ -9038,8 +9038,8 @@ chain.link
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.priceline.com
 www.getaroom.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -10411,8 +10411,8 @@ nicetryapril.na1.echosignsandbox.com
 repo.magento.com
 magento.com
 auth.services.adobe.com
-*.adobe.com
 exchange.adobe.com
+*.adobe.com
 *.tt.omtrdc.net
 *.omniture.com
 *.typekit.com
