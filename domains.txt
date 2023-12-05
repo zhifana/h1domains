@@ -4911,10 +4911,10 @@ support.databricks.com
 labs.databricks.com
 marketplace.databricks.com
 community.databricks.com
-partners.databricks.com
 advocates.databricks.com
 help.databricks.com
 customer-academy.databricks.com
+partners.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
