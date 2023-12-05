@@ -6320,12 +6320,12 @@ greece.zebra.com
 zsbsupport.zebra.com
 *.zebrasports.com
 *.zams-eu.zebra.com
-*.zams.zebra.com
 *.profitect.com
 downloads.zebra.com
 reflexisinc.com/
 cmm01.sl.zebra.com
 supportcommunity.zebra.com
+*.zams.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -10226,8 +10226,8 @@ secure-dfadmin.deriv.com
 *.deriv.com
 *.binary.com
 oauth.deriv.com
-app.deriv.com
 *.deriv.cloud
+app.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
