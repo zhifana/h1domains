@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec  5 22:41:57 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec  5 23:17:07 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -1408,10 +1408,10 @@ customers.mattermost.com
 customers.mattermost.com
 *.chimecard.com
 www.chime.com
-*.chimepayments.com
 wp-dev3.chime.com
 wp-integ.chime.com
 wp-dev1.chime.com
+*.chimepayments.com
 wp-dev4.chime.com
 wp-qa.chime.com
 *.chime.com
