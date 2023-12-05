@@ -4,14 +4,14 @@ mercadolibre,www.mercadopago.cl,True
 mercadolibre,www.mercadolibre.com.pe,True
 mercadolibre,www.mercadolibre.com.mx,True
 mercadolibre,www.mercadolivre.com.br,True
-mercadolibre,www.mercadolibre.cl,True
 mercadolibre,www.mercadolibre.com.uy,True
+mercadolibre,www.mercadolibre.cl,True
 mercadolibre,www.mercadopago.com.pe,True
 mercadolibre,www.mercadopago.com.co,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadolibre.com.co,True
-mercadolibre,www.mercadolibre.com.ar,True
 mercadolibre,www.mercadopago.com.ar,True
+mercadolibre,www.mercadolibre.com.ar,True
 mercadolibre,www.mercadopago.com.mx,True
 mercadolibre,api.mercadolibre.com,True
 mercadolibre,www.mercadopago.com.br,True
@@ -41,9 +41,9 @@ bookingcom,admin.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,booking.com,True
 bookingcom,metasearch-api.booking.com,True
-bookingcom,accommodations.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
+bookingcom,accommodations.booking.com,True
 bookingcom,taxi.booking.com,True
 bookingcom,autocomplete.booking.com,True
 bookingcom,secure-supply-xml.booking.com,True

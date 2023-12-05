@@ -2,21 +2,21 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec  5 19:42:49 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec  5 20:20:31 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
 www.mercadolibre.com.pe
 www.mercadolibre.com.mx
 www.mercadolivre.com.br
-www.mercadolibre.cl
 www.mercadolibre.com.uy
+www.mercadolibre.cl
 www.mercadopago.com.pe
 www.mercadopago.com.co
 api.mercadopago.com
 www.mercadolibre.com.co
-www.mercadolibre.com.ar
 www.mercadopago.com.ar
+www.mercadolibre.com.ar
 www.mercadopago.com.mx
 api.mercadolibre.com
 www.mercadopago.com.br
@@ -46,9 +46,9 @@ admin.booking.com
 flights.booking.com
 booking.com
 metasearch-api.booking.com
-accommodations.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
+accommodations.booking.com
 taxi.booking.com
 autocomplete.booking.com
 secure-supply-xml.booking.com
