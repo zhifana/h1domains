@@ -2614,8 +2614,8 @@ biologyfinder.com
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
-yourdomain.freshchat.com
 yourdomain.myfreshworks.com
+yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -4930,11 +4930,11 @@ new.myzap.com
 *.mycbdesk.com
 *.anywhere.re
 new.myzap.com
-docs.databricks.com
 demo.cloud.databricks.com
 academy.databricks.com
 databricks.com
 accounts.cloud.databricks.com
+docs.databricks.com
 kb.databricks.com
 support.databricks.com
 labs.databricks.com
@@ -6456,8 +6456,8 @@ api.reddit.com
 gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
-old.reddit.com
 ads.reddit.com
+old.reddit.com
 meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com
