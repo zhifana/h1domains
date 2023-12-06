@@ -3119,8 +3119,8 @@ s-pankki,api.sokos.fi,True
 s-pankki,cfapi.voikukka.fi,True
 kiwicom,jobs.kiwi.com,True
 kiwicom,auth.skypicker.com,True
-kiwicom,*.kiwi.com,True
 kiwicom,*.skypicker.com,True
+kiwicom,*.kiwi.com,True
 kiwicom,www.kiwi.com,True
 kiwicom,tequila.kiwi.com,True
 kiwicom,*.kiwi.com,True
@@ -9486,10 +9486,10 @@ goldmansachs,apigw.foliofn.com,True
 goldmansachs,*.foliofirst.com,True
 goldmansachs,*.gsselect.com,True
 goldmansachs,*.marcus.co.uk,True
-goldmansachs,*.foliofn.com,True
 goldmansachs,*.ayco.com,True
 goldmansachs,*.goldman.com,True
 goldmansachs,*.unitedcp.com,True
+goldmansachs,*.foliofn.com,True
 goldmansachs,*.goldmanpfm.com,True
 goldmansachs,*.finlifepartners.com,True
 goldmansachs,*.foliodigitalwealth.com,True
@@ -10319,10 +10319,10 @@ snapchat,rt.playcanvas.com,True
 snapchat,store.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
-snapchat,www.bitmoji.com,True
 snapchat,playcanvas.com,True
 snapchat,my.snapchat.com,True
 snapchat,business.snapchat.com,True
+snapchat,www.bitmoji.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,spectacles.com,True

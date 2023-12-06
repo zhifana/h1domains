@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec  6 22:41:38 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec  6 23:19:15 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -587,8 +587,8 @@ api.sokos.fi
 cfapi.voikukka.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -2643,10 +2643,10 @@ apigw.foliofn.com
 *.foliofirst.com
 *.gsselect.com
 *.marcus.co.uk
-*.foliofn.com
 *.ayco.com
 *.goldman.com
 *.unitedcp.com
+*.foliofn.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
@@ -3383,10 +3383,10 @@ rt.playcanvas.com
 store.snapchat.com
 app.snapchat.com
 snappublisher.snapchat.com
-www.bitmoji.com
 playcanvas.com
 my.snapchat.com
 business.snapchat.com
+www.bitmoji.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
