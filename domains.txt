@@ -10364,13 +10364,13 @@ map.snapchat.com
 story.snapchat.com
 *.sc-corp.net
 *.ubnt.com
-training.ui.com
 store.ui.com
 ir.ui.com
 ispdesign.ui.com
 ca.store.ui.com
 community.ui.com
 blog.ui.com
+training.ui.com
 careers.ui.com
 dev-training.ui.com
 wiki.ui.com
