@@ -1392,8 +1392,8 @@ www.coinspot.com.au
 www.coinspot.com.au
 global-api.citymapper.com
 global-api.citymapper.com
-*.scopely.com
 *.withbuddies.com
+*.scopely.com
 *.scopely.io
 *.scopely.io
 *.scopely.com

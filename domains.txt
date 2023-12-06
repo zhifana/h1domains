@@ -2984,8 +2984,8 @@ abb.com.br
 *.abb.nl
 *.abb.in
 *.abb
-*.ability.abb
 *.abb-drives.com
+*.ability.abb
 *.stratus.abb.com
 *.cirrus.abb.com
 *.ch.abb.com
@@ -6484,8 +6484,8 @@ global-api.citymapper.com
 on-app-backend.on-running.com
 *.on-running.com
 on-app-backend.on-running.com
-*.scopely.com
 *.withbuddies.com
+*.scopely.com
 *.scopely.io
 *.scopely.io
 *.scopely.com

@@ -2985,8 +2985,8 @@ abb,*.de.abb.com,False
 abb,*.abb.nl,False
 abb,*.abb.in,False
 abb,*.abb,False
-abb,*.ability.abb,False
 abb,*.abb-drives.com,False
+abb,*.ability.abb,False
 abb,*.stratus.abb.com,False
 abb,*.cirrus.abb.com,False
 abb,*.ch.abb.com,False
@@ -6485,8 +6485,8 @@ on,*.on-running.com,False
 on,on-app-backend.on-running.com,False
 on,*.on-running.com,False
 on,on-app-backend.on-running.com,False
-scopely,*.scopely.com,True
 scopely,*.withbuddies.com,True
+scopely,*.scopely.com,True
 scopely,*.scopely.io,True
 scopely,*.scopely.io,True
 scopely,*.scopely.com,True

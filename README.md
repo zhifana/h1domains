@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec  6 09:19:09 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec  6 09:42:03 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -1398,8 +1398,8 @@ www.coinspot.com.au
 www.coinspot.com.au
 global-api.citymapper.com
 global-api.citymapper.com
-*.scopely.com
 *.withbuddies.com
+*.scopely.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
