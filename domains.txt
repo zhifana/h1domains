@@ -7758,9 +7758,9 @@ track.amazon.com
 chat.amazon.com
 affiliate-program.amazon.com
 manufacturing.amazon.com
-apay-us.amazon.com
 music.amazon.com
 api.amazon.com
+apay-us.amazon.com
 smile.amazon.*
 flex.amazon.*
 logistics.amazon.*
