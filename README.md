@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec  6 03:40:00 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec  6 04:19:46 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -701,10 +701,10 @@ www.hotwirepartnercentral.com
 www.mrjet.se
 www.expediaagents.com
 www.expediapartnersolutions.com
-www.orbitz.com
 www.hotels.com
 www.abritel.fr
 www.expediagroup.com
+www.orbitz.com
 www.flights.com
 www.travelocity.com
 www.ebookers.com
