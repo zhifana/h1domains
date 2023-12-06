@@ -2985,8 +2985,8 @@ abb,*.de.abb.com,False
 abb,*.abb.nl,False
 abb,*.abb.in,False
 abb,*.abb,False
-abb,*.abb-drives.com,False
 abb,*.ability.abb,False
+abb,*.abb-drives.com,False
 abb,*.stratus.abb.com,False
 abb,*.cirrus.abb.com,False
 abb,*.ch.abb.com,False
@@ -5289,6 +5289,7 @@ mondelez,vyhrajschutou.sk,False
 mondelez,worldclass.cadburyfc.com,False
 mondelez,nabiscoholiday.com,False
 mondelez,posters.cadbury.com.au,False
+mondelez,sourpatchkids.gg,False
 mondelez,https://milka.ru,False
 mondelez,https://alpengold.me,False
 mondelez,https://oreo.ru,False
@@ -7791,8 +7792,8 @@ amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
 alibaba,www.alibabagroup.com,True
 alibaba,*.tmall.com,True
-alibaba,*.alibaba.com,True
 alibaba,*.alibabacloud.com,True
+alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
