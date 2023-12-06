@@ -2615,8 +2615,8 @@ clarivate,biologyfinder.com,False
 freshworks,yourdomain.freshcaller.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshdesk.com,True
-freshworks,yourdomain.myfreshworks.com,True
 freshworks,yourdomain.freshchat.com,True
+freshworks,yourdomain.myfreshworks.com,True
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshchat.com,True
@@ -2985,8 +2985,8 @@ abb,*.de.abb.com,False
 abb,*.abb.nl,False
 abb,*.abb.in,False
 abb,*.abb,False
-abb,*.abb-drives.com,False
 abb,*.ability.abb,False
+abb,*.abb-drives.com,False
 abb,*.stratus.abb.com,False
 abb,*.cirrus.abb.com,False
 abb,*.ch.abb.com,False
