@@ -1679,9 +1679,9 @@ www.practicalmoneyskills.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
 *omniplus.com
-*.mercedes-benz-trucks.com
 *exceleratorparts.com
 *.setra.de
+*.mercedes-benz-trucks.com
 *detroitconnect.com
 *.daimlertruck.com
 *.westernstar.com
@@ -3467,8 +3467,8 @@ thailand.airasiago.com
 http://www.cruiseshipcenters.com/api/searchcenter
 eng.magiceden.io
 *.magiceden.workers.dev
-*.magiceden.io
 eng.magiceden.dev
+*.magiceden.io
 *.magiceden.dev
 magiceden.io
 magiceden.io
