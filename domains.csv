@@ -2894,8 +2894,8 @@ fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
-indrive,cargo.indrive.com,True
 indrive,*.indrive.com,True
+indrive,cargo.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
@@ -3119,8 +3119,8 @@ s-pankki,api.sokos.fi,True
 s-pankki,cfapi.voikukka.fi,True
 kiwicom,jobs.kiwi.com,True
 kiwicom,auth.skypicker.com,True
-kiwicom,*.skypicker.com,True
 kiwicom,*.kiwi.com,True
+kiwicom,*.skypicker.com,True
 kiwicom,www.kiwi.com,True
 kiwicom,tequila.kiwi.com,True
 kiwicom,*.kiwi.com,True
@@ -10758,9 +10758,9 @@ yahoo,onepush.query.yahoo.com,True
 yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
-security,hackerone-user-content.com,True
 security,api.hackerone.com,True
 security,hackerone.com,True
+security,hackerone-user-content.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
