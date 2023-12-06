@@ -37,8 +37,8 @@ careers.booking.com
 experiences.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
-admin.booking.com
 booking.com
+admin.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -3467,8 +3467,8 @@ thailand.airasiago.com
 http://www.cruiseshipcenters.com/api/searchcenter
 eng.magiceden.io
 *.magiceden.workers.dev
-eng.magiceden.dev
 *.magiceden.io
+eng.magiceden.dev
 *.magiceden.dev
 magiceden.io
 magiceden.io
@@ -9065,8 +9065,8 @@ www.bookingholdings.com
 *.capitalone360.com
 *.bluetarp.com
 *.capitalone.co.uk
-*.capitaloneshopping.com
 *.capitalone.com
+*.capitaloneshopping.com
 *.capitalonecards.com
 *.capitalonebank.com
 *.capitalone.ca

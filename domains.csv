@@ -38,8 +38,8 @@ bookingcom,careers.booking.com,True
 bookingcom,experiences.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,flights.booking.com,True
-bookingcom,admin.booking.com,True
 bookingcom,booking.com,True
+bookingcom,admin.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
@@ -3468,8 +3468,8 @@ expediagroup,thailand.airasiago.com,False
 expediagroup,http://www.cruiseshipcenters.com/api/searchcenter,False
 magic-eden,eng.magiceden.io,False
 magic-eden,*.magiceden.workers.dev,True
-magic-eden,eng.magiceden.dev,False
 magic-eden,*.magiceden.io,True
+magic-eden,eng.magiceden.dev,False
 magic-eden,*.magiceden.dev,True
 magic-eden,magiceden.io,True
 magic-eden,magiceden.io,True
@@ -9066,8 +9066,8 @@ capital-one,*.theunioncard.com,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitalone.co.uk,False
-capital-one,*.capitaloneshopping.com,False
 capital-one,*.capitalone.com,False
+capital-one,*.capitaloneshopping.com,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
