@@ -8167,8 +8167,8 @@ get8x8.com
 *.thinkingphones.com
 admin.8x8.com
 *.8x8.com
-*.8x8cloud.net
 connect.8x8.com
+*.8x8cloud.net
 *.fuze.com
 *.thinkingphones.net
 sms.8x8.com
@@ -9039,8 +9039,8 @@ chain.link
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.getaroom.com
 www.priceline.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
