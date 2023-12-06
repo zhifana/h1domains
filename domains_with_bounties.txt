@@ -49,8 +49,8 @@ secure-supply-xml.booking.com
 widget.rentalcars.com
 webhooks.booking.com
 cars.booking.com
-account.booking.com
 secure.booking.com
+account.booking.com
 booking.com
 secure.booking.com
 careers.booking.com
@@ -141,9 +141,9 @@ pay-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-cicd.io
-www.gocardless.com
 manage-sandbox.gocardless.com
 *.gocardless-staging.io
+www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io

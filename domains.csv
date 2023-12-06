@@ -50,8 +50,8 @@ bookingcom,secure-supply-xml.booking.com,True
 bookingcom,widget.rentalcars.com,True
 bookingcom,webhooks.booking.com,True
 bookingcom,cars.booking.com,True
-bookingcom,account.booking.com,True
 bookingcom,secure.booking.com,True
+bookingcom,account.booking.com,True
 bookingcom,booking.com,True
 bookingcom,secure.booking.com,True
 bookingcom,careers.booking.com,True
@@ -1112,9 +1112,9 @@ gocardless_bbp,xero-sandbox.gocardless.com,True
 gocardless_bbp,oauth-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.com,False
 gocardless_bbp,*.gocardless-cicd.io,True
-gocardless_bbp,www.gocardless.com,True
 gocardless_bbp,manage-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless-staging.io,True
+gocardless_bbp,www.gocardless.com,True
 gocardless_bbp,*.gocardless.io,True
 gocardless_bbp,*.gocardless-banking.io,True
 gocardless_bbp,*.gocardless-cicd.io,True
@@ -3793,15 +3793,11 @@ fossil,*.dieseltimeframes.de,False
 fossil,*.dieseltimeframes.kr,False
 fossil,*.fossi.com,False
 fossil,*.fossil.cl,False
-fossil,*.fossil.co.kr,False
 fossil,*.fossil.com.hk,False
 fossil,*.fossil.com.lk,False
 fossil,*.fossil.com.mx,False
-fossil,*.fossil.in,False
 fossil,*.fossil.vn,False
-fossil,*.fossilcanada.ca,False
 fossil,*.fossilcare.com,False
-fossil,*.fossilchina.cn,False
 fossil,*.fossilfootwear.cn,False
 fossil,*.fossilfootwear.co.uk,False
 fossil,*.fossilfootwear.sg,False
@@ -3819,7 +3815,6 @@ fossil,*.fossilshoe.pk,False
 fossil,*.fossilshoe.tw,False
 fossil,*.fossilshoes.com.au,False
 fossil,*.fossilshoes.in,False
-fossil,*.fossilsingapore.com.sg,False
 fossil,*.fossilsingapore.sg,False
 fossil,*.fossilstores.ca,False
 fossil,*.karlwatches.com,False
@@ -3827,6 +3822,11 @@ fossil,*.maketimeforgood.com,False
 fossil,*.metroservicecentrecanada.ca,False
 fossil,*.michele.asia,False
 fossil,*.michele.eu,False
+fossil,*.michele.mobi,False
+fossil,*.michelewatch.de,False
+fossil,*.misfit.com,False
+fossil,*.modernwatchco.com,False
+fossil,*.mwmichele.com,False
 fossil,*.cdgfossil.com,False
 fossil,*.linkplatforms.com,False
 fossil,*.cdgcitizen.com,False
@@ -4364,6 +4364,8 @@ fossil,*.zodiac.co,False
 fossil,*.zodiacbrand.com,False
 fossil,*.zodiacbrand.net,False
 fossil,*.zodiacwatches.mobi,False
+fossil,*.fossil.com.br,False
+fossil,*.fossilsg.com,False
 fossil,shard.wwwfeo.fossil.com.edgekey.net,False
 fossil,m.fossil.co.jp,False
 fossil,m.fossil.co.uk,False

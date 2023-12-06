@@ -49,8 +49,8 @@ secure-supply-xml.booking.com
 widget.rentalcars.com
 webhooks.booking.com
 cars.booking.com
-account.booking.com
 secure.booking.com
+account.booking.com
 booking.com
 secure.booking.com
 careers.booking.com
@@ -1111,9 +1111,9 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless.com
 *.gocardless-cicd.io
-www.gocardless.com
 manage-sandbox.gocardless.com
 *.gocardless-staging.io
+www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -3792,15 +3792,11 @@ www.fossil.co.id
 *.dieseltimeframes.kr
 *.fossi.com
 *.fossil.cl
-*.fossil.co.kr
 *.fossil.com.hk
 *.fossil.com.lk
 *.fossil.com.mx
-*.fossil.in
 *.fossil.vn
-*.fossilcanada.ca
 *.fossilcare.com
-*.fossilchina.cn
 *.fossilfootwear.cn
 *.fossilfootwear.co.uk
 *.fossilfootwear.sg
@@ -3818,7 +3814,6 @@ www.fossil.co.id
 *.fossilshoe.tw
 *.fossilshoes.com.au
 *.fossilshoes.in
-*.fossilsingapore.com.sg
 *.fossilsingapore.sg
 *.fossilstores.ca
 *.karlwatches.com
@@ -3826,6 +3821,11 @@ www.fossil.co.id
 *.metroservicecentrecanada.ca
 *.michele.asia
 *.michele.eu
+*.michele.mobi
+*.michelewatch.de
+*.misfit.com
+*.modernwatchco.com
+*.mwmichele.com
 *.cdgfossil.com
 *.linkplatforms.com
 *.cdgcitizen.com
@@ -4363,6 +4363,8 @@ www.fossil.co.id
 *.zodiacbrand.com
 *.zodiacbrand.net
 *.zodiacwatches.mobi
+*.fossil.com.br
+*.fossilsg.com
 shard.wwwfeo.fossil.com.edgekey.net
 m.fossil.co.jp
 m.fossil.co.uk
