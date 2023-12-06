@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec  6 09:42:03 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec  6 10:18:28 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -15,8 +15,8 @@ www.mercadopago.com.pe
 www.mercadopago.com.co
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
-www.mercadopago.com.ar
 api.mercadopago.com
+www.mercadopago.com.ar
 www.mercadopago.com.mx
 api.mercadolibre.com
 www.mercadopago.com.br
@@ -542,9 +542,9 @@ api.miro.com
 http://miro.com/blog
 *.mb-cosmos.com
 *.mwbsys.com
-my.malwarebytes.com
 *.cloud.malwarebytes.com
 cloud.malwarebytes.com
+my.malwarebytes.com
 *.mbamupdates.com
 *.threatdown.com
 *.mwb-threatintel.com
@@ -2024,8 +2024,8 @@ unibet.me
 *.unibet.fr
 maria.casino
 *.kindredext.net
-*.mariacasino.com
 *.unibet.com
+*.mariacasino.com
 *.storspiller.com
 *.ottokasino.com
 www.32red.com
@@ -2255,8 +2255,8 @@ app.command.cysiv.com
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.getaroom.com
 www.priceline.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
