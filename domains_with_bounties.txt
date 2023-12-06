@@ -2517,6 +2517,7 @@ fanduel.design
 *.flickr.com
 matomo.cloud
 matomo.cloud
+https://github.com/matomo-org/docker
 www.swiftfinancial.com
 swiftfinancial.com
 *.paylution.com
@@ -3338,9 +3339,9 @@ your-store.myshopify.com
 linkpop.com
 shop.app
 *.shopifycloud.com
-*.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
+*.shopifykloud.com
 shopify.plus
 admin.shopify.com
 *.shopify.com
