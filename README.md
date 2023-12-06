@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec  6 12:30:21 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec  6 12:57:36 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -601,8 +601,8 @@ jobs.kiwi.com
 work.8x8.com
 sso.8x8.com
 connect.8x8.com
-*.jitsi.net
 *.8x8.vc
+*.jitsi.net
 work-staging.8x8.com
 *.chalet.8x8.com
 uc.8x8pilot.com
@@ -1965,8 +1965,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
 *.tmall.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -2096,8 +2096,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
