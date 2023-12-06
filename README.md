@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec  6 10:18:28 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec  6 10:42:03 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -55,8 +55,8 @@ secure-supply-xml.booking.com
 widget.rentalcars.com
 webhooks.booking.com
 cars.booking.com
-secure.booking.com
 account.booking.com
+secure.booking.com
 booking.com
 secure.booking.com
 careers.booking.com
@@ -1965,8 +1965,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
 *.tmall.com
-*.alibabacloud.com
 *.alibaba.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -2024,8 +2024,8 @@ unibet.me
 *.unibet.fr
 maria.casino
 *.kindredext.net
-*.unibet.com
 *.mariacasino.com
+*.unibet.com
 *.storspiller.com
 *.ottokasino.com
 www.32red.com

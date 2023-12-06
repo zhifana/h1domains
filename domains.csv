@@ -50,8 +50,8 @@ bookingcom,secure-supply-xml.booking.com,True
 bookingcom,widget.rentalcars.com,True
 bookingcom,webhooks.booking.com,True
 bookingcom,cars.booking.com,True
-bookingcom,secure.booking.com,True
 bookingcom,account.booking.com,True
+bookingcom,secure.booking.com,True
 bookingcom,booking.com,True
 bookingcom,secure.booking.com,True
 bookingcom,careers.booking.com,True
@@ -7792,8 +7792,8 @@ amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
 alibaba,www.alibabagroup.com,True
 alibaba,*.tmall.com,True
-alibaba,*.alibabacloud.com,True
 alibaba,*.alibaba.com,True
+alibaba,*.alibabacloud.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
@@ -7918,8 +7918,8 @@ kindred_group,*.bingo.com,True
 kindred_group,*.unibet.fr,True
 kindred_group,maria.casino,True
 kindred_group,*.kindredext.net,True
-kindred_group,*.unibet.com,True
 kindred_group,*.mariacasino.com,True
+kindred_group,*.unibet.com,True
 kindred_group,*.storspiller.com,True
 kindred_group,*.ottokasino.com,True
 kindred_group,www.32red.com,True
