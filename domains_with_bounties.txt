@@ -715,8 +715,8 @@ www.expediapartnercentral.com
 www.ebookers.fi
 www.stayz.com.au
 www.wotif.com
-www.hotwire.com
 www.expediacruises.com
+www.hotwire.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -3377,9 +3377,9 @@ store.snapchat.com
 app.snapchat.com
 snappublisher.snapchat.com
 www.bitmoji.com
-business.snapchat.com
 playcanvas.com
 my.snapchat.com
+business.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com

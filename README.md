@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec  6 01:03:02 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec  6 02:02:57 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -721,8 +721,8 @@ www.expediapartnercentral.com
 www.ebookers.fi
 www.stayz.com.au
 www.wotif.com
-www.hotwire.com
 www.expediacruises.com
+www.hotwire.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -3383,9 +3383,9 @@ store.snapchat.com
 app.snapchat.com
 snappublisher.snapchat.com
 www.bitmoji.com
-business.snapchat.com
 playcanvas.com
 my.snapchat.com
+business.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
