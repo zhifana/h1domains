@@ -1108,8 +1108,8 @@ api-sandbox.gocardless.com
 pay-sandbox.gocardless.com
 *.gocardless.dev
 xero-sandbox.gocardless.com
-oauth-sandbox.gocardless.com
 *.gocardless.com
+oauth-sandbox.gocardless.com
 *.gocardless-cicd.io
 *.gocardless-staging.io
 www.gocardless.com
@@ -1535,8 +1535,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-10x.redoxengine.com
 testapp.redoxengine.com
+10x.redoxengine.com
 docs.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
