@@ -7856,9 +7856,9 @@ developers.cloudways.com
 cloud.digitalocean.com
 marketplace.digitalocean.com
 169.254.169.254
-api.cloudways.com
 *.digitalocean.com
 api.digitalocean.com
+api.cloudways.com
 www.cloudways.com
 do.co
 hackathon-tracker.digitalocean.com
@@ -10221,8 +10221,8 @@ shopifyinbox.com
 partners.shopify.com
 *.shopifykloud.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
@@ -10708,8 +10708,8 @@ reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 ctf.hacker101.com
 www.hackerone.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone-ext-content.com
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 profile-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
 hackerone.live
