@@ -5364,8 +5364,8 @@ krisp,help.krisp.ai,False
 krisp,jobs.krisp.ai,False
 krisp,url5145.krisp.ai,False
 krisp,upld.krisp.ai,True
-krisp,*.krisp.ai,True
 krisp,account.krisp.ai,True
+krisp,*.krisp.ai,True
 krisp,teams.krisp.ai,True
 krisp,api.krisp.ai,True
 krisp,download.krisp.ai,True

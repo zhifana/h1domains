@@ -1045,8 +1045,8 @@ marketplace.databricks.com
 *.payoneer.com
 analytics.krisp.ai
 upld.krisp.ai
-*.krisp.ai
 account.krisp.ai
+*.krisp.ai
 teams.krisp.ai
 api.krisp.ai
 download.krisp.ai

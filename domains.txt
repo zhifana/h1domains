@@ -5363,8 +5363,8 @@ help.krisp.ai
 jobs.krisp.ai
 url5145.krisp.ai
 upld.krisp.ai
-*.krisp.ai
 account.krisp.ai
+*.krisp.ai
 teams.krisp.ai
 api.krisp.ai
 download.krisp.ai
