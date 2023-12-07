@@ -1536,8 +1536,8 @@ redox_bbp,dashboard.gamma.redoxstage.com,True
 redox_bbp,help.redoxengine.com,True
 redox_bbp,eets.gamma.redoxstage.com,True
 redox_bbp,webhooks.gamma.redoxstage.com,True
-redox_bbp,testapp.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
+redox_bbp,testapp.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
 redox_bbp,api.gamma.redoxstage.com,True
 redox_bbp,gamma.redoxstage.com,True
@@ -6303,7 +6303,6 @@ zebra_vdp,mwwprod.zebra.engineering,False
 zebra_vdp,*.zebramwe.com,False
 zebra_vdp,fs.viq.zebra.com,False
 zebra_vdp,*.antuit.ai,False
-zebra_vdp,connect.zebra.com,False
 zebra_vdp,global.zebra.com,False
 zebra_vdp,hcm.zebra.com,False
 zebra_vdp,test-marketing-api.zebra.com,False
@@ -6313,6 +6312,7 @@ zebra_vdp,zsl.zebra.com,False
 zebra_vdp,wfc.zebra.com,False
 zebra_vdp,*.cto-si.zebra.com,False
 zebra_vdp,*.fetchcore-cloud.com,False
+zebra_vdp,stage-www.zebra.com,False
 zebra_vdp,*.cto-si.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
@@ -7831,8 +7831,8 @@ magic-bbp,api.magic.link,True
 magic-bbp,dashboard.fortmatic.com,True
 magic-bbp,api.fortmatic.com,True
 magic-bbp,fortmatic.com,True
-magic-bbp,dashboard.magic.link,True
 magic-bbp,auth.magic.link,True
+magic-bbp,dashboard.magic.link,True
 magic-bbp,x2.fortmatic.com,True
 magic-bbp,careers.fortmatic.com,True
 magic-bbp,api.fortmatic.com,True
