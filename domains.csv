@@ -38,8 +38,8 @@ bookingcom,careers.booking.com,True
 bookingcom,experiences.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,flights.booking.com,True
-bookingcom,booking.com,True
 bookingcom,admin.booking.com,True
+bookingcom,booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
@@ -1109,8 +1109,8 @@ gocardless_bbp,*.gocardless-lab.io,True
 gocardless_bbp,pay-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.dev,False
 gocardless_bbp,xero-sandbox.gocardless.com,True
-gocardless_bbp,*.gocardless.com,False
 gocardless_bbp,oauth-sandbox.gocardless.com,True
+gocardless_bbp,*.gocardless.com,False
 gocardless_bbp,*.gocardless-cicd.io,True
 gocardless_bbp,*.gocardless-staging.io,True
 gocardless_bbp,www.gocardless.com,True
@@ -8305,7 +8305,6 @@ mtn_group,mtn.co.sz,False
 mtn_group,mtn.co.ug,False
 mtn_group,mtnzambia.co.zm,False
 mtn_group,mtnbusiness.com.ng,False
-mtn_group,mtnblog.co.za,False
 mtn_group,mtnplay.co.za,False
 mtn_group,mtnzakhele.co.za,False
 mtn_group,mtnselfcare.co.zm,False
@@ -8555,8 +8554,6 @@ mtn_group,ac1-mymtn-db-01.mtngh.root.net,False
 mtn_group,ac1-mymtn-db-02.mtngh.root.net,False
 mtn_group,ac2-mymtn-app05.mtngh.root.net,False
 mtn_group,ac2-mymtn-app04.mtngh.root.net,False
-mtn_group,www.evod.co.za,False
-mtn_group,https://www.evod.co.za/,False
 mtn_group,developer.ayoba.me,False
 mtn_group,microapps.ayoba.me,False
 mtn_group,feed.ayoba.me,False
@@ -10134,8 +10131,8 @@ deriv,api.deriv.com,True
 deriv,*.derivws.com,True
 deriv,smarttrader.deriv.com,True
 deriv,secure-dfadmin.deriv.com,True
-deriv,*.binary.com,True
 deriv,*.deriv.com,True
+deriv,*.binary.com,True
 deriv,oauth.deriv.com,True
 deriv,*.deriv.cloud,True
 deriv,app.deriv.com,True
@@ -10220,8 +10217,8 @@ udemy,yourcompany.udemy.com,True
 shopify,arrive-server.shopifycloud.com,True
 shopify,your-store.myshopify.com,True
 shopify,linkpop.com,True
-shopify,shop.app,True
 shopify,*.shopifycloud.com,True
+shopify,shop.app,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,*.shopifykloud.com,True
@@ -10677,8 +10674,8 @@ slack,slack-redir.net,True
 slack,*.quip.com,True
 slack,app.slack.com,True
 slack,edgeapi.slack.com,True
-slack,slack.com,True
 slack,slack-imgs.com,True
+slack,slack.com,True
 slack,www.quip.com,True
 slack,slack.com,True
 slack,api.slack.com,True
