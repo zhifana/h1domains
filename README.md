@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec  7 04:20:16 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec  7 04:42:40 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -543,8 +543,8 @@ http://miro.com/blog
 *.mb-cosmos.com
 *.mwbsys.com
 *.cloud.malwarebytes.com
-cloud.malwarebytes.com
 my.malwarebytes.com
+cloud.malwarebytes.com
 *.mbamupdates.com
 *.threatdown.com
 *.mwb-threatintel.com
@@ -3389,8 +3389,8 @@ business.snapchat.com
 www.bitmoji.com
 geofilters.snapchat.com
 *.sc-corp.net
-spectacles.com
 web.snapchat.com
+spectacles.com
 developer.playcanvas.com
 launch.playcanvas.com
 www.bitstrips.com
@@ -3706,8 +3706,8 @@ profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 ctf.hacker101.com
-www.hackerone.com
 hackerone-ext-content.com
+www.hackerone.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 profile-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
