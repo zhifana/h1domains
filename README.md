@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec  7 20:42:25 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec  7 21:17:28 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -13,10 +13,10 @@ www.mercadolibre.cl
 www.mercadolivre.com.br
 www.mercadopago.com.pe
 www.mercadopago.com.co
-www.mercadolibre.com.co
 www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
+www.mercadolibre.com.co
 www.mercadopago.com.mx
 www.mercadopago.com.br
 api.mercadolibre.com
@@ -187,8 +187,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-10x.redoxengine.com
 testapp.redoxengine.com
+10x.redoxengine.com
 docs.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
@@ -3184,8 +3184,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 education.github.com
@@ -3643,7 +3643,6 @@ irc.irccloud.com
 team-irc.irccloud.com
 blog.irccloud.com
 custody.coinbase.com
-paradex.io
 *.cbhq.net
 prime.coinbase.com
 pro.coinbase.com
@@ -3664,7 +3663,6 @@ institutional.coinbase.com
 api.coinbase.com
 api.custody.coinbase.com
 cloud.coinbase.com
-paradex.io
 *.base.org
 status.slack.com
 spaces.pm
