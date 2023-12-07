@@ -1403,8 +1403,8 @@ adventenergy.com.ph
 retailelectricity.com.ph
 snaboitizpower.com
 *.davaolight.com
-*.aboitizpower.com
 *.visayanelectric.com
+*.aboitizpower.com
 *.apps.sofa.csg.aboitizpower.org
 aboitizpower.org
 aboitizpower.net
@@ -9580,11 +9580,15 @@ storefront.steampowered.com
 wiki.teamfortress.com
 auth.crypto.com
 www.crypto.com
-merchant.crypto.com
+*.mona.co
+*.crypto.com
 tax.crypto.com
+merchant.crypto.com
 app.mona.co
 js.crypto.com
 pay.crypto.com
+*.crypto.com
+*.mona.co
 www.crypto.com
 https://crypto.com/exchange
 app.mona.co

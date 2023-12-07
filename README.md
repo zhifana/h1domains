@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec  7 08:20:47 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec  7 08:42:48 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -2733,11 +2733,15 @@ help.steampowered.com
 developer.valvesoftware.com
 auth.crypto.com
 www.crypto.com
-merchant.crypto.com
+*.mona.co
+*.crypto.com
 tax.crypto.com
+merchant.crypto.com
 app.mona.co
 js.crypto.com
 pay.crypto.com
+*.crypto.com
+*.mona.co
 www.crypto.com
 https://crypto.com/exchange
 app.mona.co
