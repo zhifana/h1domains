@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec  7 21:17:28 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec  7 21:42:16 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -187,8 +187,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-testapp.redoxengine.com
 10x.redoxengine.com
+testapp.redoxengine.com
 docs.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
@@ -3089,8 +3089,8 @@ card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
 app.starbucks.com
-www.starbucks.com.sg
 www.starbucks.com
+www.starbucks.com.sg
 www.starbucks.co.jp
 www.starbucks.co.kr
 www.starbucks.com.cn
@@ -3652,6 +3652,7 @@ api.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
 *.base.org
+coinbase.com
 commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net
@@ -3663,6 +3664,8 @@ institutional.coinbase.com
 api.coinbase.com
 api.custody.coinbase.com
 cloud.coinbase.com
+coinbase.com
+http://coinbase.com
 *.base.org
 status.slack.com
 spaces.pm
@@ -3712,11 +3715,11 @@ www.hackerone.com
 hackerone-ext-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 profile-photos-us-east-2.hackerone-user-content.com
-app.pullrequest.com
 hackerone.live
 b5s.hackerone-ext-content.com
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
