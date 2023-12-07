@@ -148,7 +148,6 @@ cbre,www.callawaydesigngroup.com,False
 cbre,help.facilitysource.com,False
 cbre,mta-sts.mail1.facilitysource.com,False
 cbre,cbreproperties.cz,False
-cbre,cbre-marketplace.com,False
 cbre,cbrelive.com,False
 cbre,www.navesylogisticacbre.com,False
 cbre,dev.www.cartonspleins.fr,False
@@ -162,8 +161,9 @@ cbre,mailgate.gallileo-frankfurt.com,False
 cbre,mailserver.gallileo-frankfurt.com,False
 cbre,ns1.gallileo-frankfurt.com,False
 cbre,post.gallileo-frankfurt.com,False
-cbre,prod.gallileo-frankfurt.com,False
 cbre,pop.fmpilot2.org,False
+cbre,www.fmpilot2.org,False
+cbre,ftp.fmpilot2.net,False
 cbre,*.mainstreamsasp.com,False
 cbre,*.bovis.es,False
 cbre,*.cbreglobalinvestors.com,False
