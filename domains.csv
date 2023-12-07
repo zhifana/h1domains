@@ -1109,8 +1109,8 @@ gocardless_bbp,*.gocardless-lab.io,True
 gocardless_bbp,pay-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.dev,False
 gocardless_bbp,xero-sandbox.gocardless.com,True
-gocardless_bbp,oauth-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.com,False
+gocardless_bbp,oauth-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless-cicd.io,True
 gocardless_bbp,*.gocardless-staging.io,True
 gocardless_bbp,www.gocardless.com,True
@@ -2961,11 +2961,11 @@ abb,*.abb.fr,False
 abb,*.abb.se,False
 abb,*.br-automation.com,False
 abb,*.abb.com.cn,False
-abb,*.tnb.com,False
 abb,*.busch-jaeger.nu,False
 abb,*.xc.abb.com,False
 abb,*.evcharging.abb.com,False
 abb,*.gb.abb.com,False
+abb,*.tnb.com,False
 abb,*.baldor.com,False
 abb,*.abb.com.tr,False
 abb,*.busch-jaeger.at,False
