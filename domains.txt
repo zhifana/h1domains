@@ -3779,7 +3779,6 @@ royal.checksw.com
 shard.wwwfeo.fossil.com.edgekey.net
 *.cdgfossil.com
 *.abacuswatches.com
-*.cmdportfolio.com
 *.dieseltimeframes.co.uk
 *.dieseltimeframes.de
 *.dieseltimeframes.kr
@@ -3826,6 +3825,7 @@ shard.wwwfeo.fossil.com.edgekey.net
 *.skagen-designs.de
 *.skagen.co.uk
 *.skagen.co.za
+*.skagen.es
 *.cdgfossil.com
 *.linkplatforms.com
 *.cdgcitizen.com
