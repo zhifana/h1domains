@@ -3468,8 +3468,8 @@ expediagroup,thailand.airasiago.com,False
 expediagroup,http://www.cruiseshipcenters.com/api/searchcenter,False
 magic-eden,eng.magiceden.io,False
 magic-eden,*.magiceden.workers.dev,True
-magic-eden,eng.magiceden.dev,False
 magic-eden,*.magiceden.io,True
+magic-eden,eng.magiceden.dev,False
 magic-eden,*.magiceden.dev,True
 magic-eden,magiceden.io,True
 magic-eden,magiceden.io,True
@@ -10263,8 +10263,8 @@ snapchat,business.snapchat.com,True
 snapchat,www.bitmoji.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
-snapchat,web.snapchat.com,True
 snapchat,spectacles.com,True
+snapchat,web.snapchat.com,True
 snapchat,developer.playcanvas.com,True
 snapchat,launch.playcanvas.com,True
 snapchat,www.bitstrips.com,True

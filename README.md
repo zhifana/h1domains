@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec  7 11:17:30 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec  7 11:41:27 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -3393,8 +3393,8 @@ business.snapchat.com
 www.bitmoji.com
 geofilters.snapchat.com
 *.sc-corp.net
-web.snapchat.com
 spectacles.com
+web.snapchat.com
 developer.playcanvas.com
 launch.playcanvas.com
 www.bitstrips.com

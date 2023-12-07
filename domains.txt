@@ -3467,8 +3467,8 @@ thailand.airasiago.com
 http://www.cruiseshipcenters.com/api/searchcenter
 eng.magiceden.io
 *.magiceden.workers.dev
-eng.magiceden.dev
 *.magiceden.io
+eng.magiceden.dev
 *.magiceden.dev
 magiceden.io
 magiceden.io
@@ -10262,8 +10262,8 @@ business.snapchat.com
 www.bitmoji.com
 geofilters.snapchat.com
 *.sc-corp.net
-web.snapchat.com
 spectacles.com
+web.snapchat.com
 developer.playcanvas.com
 launch.playcanvas.com
 www.bitstrips.com
