@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec  7 18:22:53 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec  7 18:41:49 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -3350,8 +3350,8 @@ linkpop.com
 *.shopifycloud.com
 shop.app
 shopifyinbox.com
-partners.shopify.com
 *.shopifykloud.com
+partners.shopify.com
 shopify.plus
 *.shopify.com
 accounts.shopify.com
@@ -3648,8 +3648,8 @@ paradex.io
 prime.coinbase.com
 pro.coinbase.com
 *.coinbase.com
-api.coinbase.com
 cloud.coinbase.com
+api.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
 *.base.org

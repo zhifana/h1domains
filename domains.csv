@@ -10219,8 +10219,8 @@ shopify,linkpop.com,True
 shopify,*.shopifycloud.com,True
 shopify,shop.app,True
 shopify,shopifyinbox.com,True
-shopify,partners.shopify.com,True
 shopify,*.shopifykloud.com,True
+shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
@@ -10646,8 +10646,8 @@ coinbase,*.cbhq.net,True
 coinbase,prime.coinbase.com,True
 coinbase,pro.coinbase.com,True
 coinbase,*.coinbase.com,True
-coinbase,api.coinbase.com,True
 coinbase,cloud.coinbase.com,True
+coinbase,api.coinbase.com,True
 coinbase,api.custody.coinbase.com,True
 coinbase,institutional.coinbase.com,True
 coinbase,*.base.org,True

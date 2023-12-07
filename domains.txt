@@ -10218,8 +10218,8 @@ linkpop.com
 *.shopifycloud.com
 shop.app
 shopifyinbox.com
-partners.shopify.com
 *.shopifykloud.com
+partners.shopify.com
 shopify.plus
 *.shopify.com
 accounts.shopify.com
@@ -10645,8 +10645,8 @@ paradex.io
 prime.coinbase.com
 pro.coinbase.com
 *.coinbase.com
-api.coinbase.com
 cloud.coinbase.com
+api.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
 *.base.org
