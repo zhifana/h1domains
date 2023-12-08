@@ -1168,8 +1168,8 @@ alshaya,bathandbodyworks.ro,False
 alshaya,*.americaneagle.com.kw,False
 alshaya,shayakahve.com.tr,False
 alshaya,*.mothercare.com.eg,False
-alshaya,*.starbuckscardtr.com,False
 alshaya,*.victoriassecret.com.qa,False
+alshaya,*.starbuckscardtr.com,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,kw.hm.com,False
 alshaya,kw.cosstores.com,False
@@ -1566,8 +1566,8 @@ redox_bbp,explore.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
 tecno,www.mobile-phantom.com,True
-tecno,www.tecno-mobile.com,True
 tecno,*.palm.tech,True
+tecno,www.tecno-mobile.com,True
 tecno,security.tecno.com,True
 tecno,*.palm.tech,True
 tecno,www.tecno-mobile.com,True
@@ -6581,8 +6581,8 @@ emoney-advisor,api.getincentive.com,False
 emoney-advisor,home.getincentive.com,False
 emoney-advisor,wealth.emaplan.com,False
 emoney-advisor,www.getincentive.com,False
-emoney-advisor,*.emaplan.com,False
 emoney-advisor,*.emoneyadvisor.com,False
+emoney-advisor,*.emaplan.com,False
 emoney-advisor,*.emaplan.com,False
 emoney-advisor,*.emoneyadvisor.com,False
 emoney-advisor,wealth.emaplan.com,False
@@ -9320,9 +9320,9 @@ paypal,api.loanbuilder.com,True
 paypal,prequal.swiftfinancial.com,True
 paypal,decision.swiftfinancial.com,True
 paypal,loanbuilder.com,True
-paypal,*.paypalcorp.com,True
 paypal,*.braintreegateway.com,True
 paypal,paypalobjects.com,True
+paypal,*.paypalcorp.com,True
 paypal,www.paypal-*.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True

@@ -1167,8 +1167,8 @@ bathandbodyworks.ro
 *.americaneagle.com.kw
 shayakahve.com.tr
 *.mothercare.com.eg
-*.starbuckscardtr.com
 *.victoriassecret.com.qa
+*.starbuckscardtr.com
 boysweb.shaya.com.tr
 kw.hm.com
 kw.cosstores.com
@@ -1565,8 +1565,8 @@ explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
 www.mobile-phantom.com
-www.tecno-mobile.com
 *.palm.tech
+www.tecno-mobile.com
 security.tecno.com
 *.palm.tech
 www.tecno-mobile.com
@@ -6580,8 +6580,8 @@ api.getincentive.com
 home.getincentive.com
 wealth.emaplan.com
 www.getincentive.com
-*.emaplan.com
 *.emoneyadvisor.com
+*.emaplan.com
 *.emaplan.com
 *.emoneyadvisor.com
 wealth.emaplan.com
@@ -9319,9 +9319,9 @@ api.loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 loanbuilder.com
-*.paypalcorp.com
 *.braintreegateway.com
 paypalobjects.com
+*.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
