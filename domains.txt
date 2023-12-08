@@ -1161,7 +1161,6 @@ devimages.alshaya.com
 suppliertraining.alshaya.com
 sa.hm.com
 kw.boots.com
-*.victoriassecret.com.qa
 bakimonarim.shaya.com.tr
 bathandbodyworks.ro/
 bathandbodyworks.ro
@@ -1169,6 +1168,7 @@ bathandbodyworks.ro
 shayakahve.com.tr
 *.mothercare.com.eg
 *.starbuckscardtr.com
+*.victoriassecret.com.qa
 boysweb.shaya.com.tr
 kw.hm.com
 kw.cosstores.com
@@ -1535,8 +1535,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-testapp.redoxengine.com
 10x.redoxengine.com
+testapp.redoxengine.com
 docs.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
