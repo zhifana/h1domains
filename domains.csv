@@ -2894,8 +2894,8 @@ fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
-indrive,*.indrive.com,True
 indrive,cargo.indrive.com,True
+indrive,*.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
@@ -10710,8 +10710,8 @@ security,reviewer.pullrequest.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,ctf.hacker101.com,True
 security,hackerone-ext-content.com,True
-security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,www.hackerone.com,True
+security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.live,True
 security,b5s.hackerone-ext-content.com,True
