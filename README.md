@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec  8 21:40:09 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec  8 22:17:54 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -39,8 +39,8 @@ www.mercadopago.cl
 www.temu.com
 www.temu.com
 chat.booking.com
-careers.booking.com
 experiences.booking.com
+careers.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
 admin.booking.com
@@ -3675,8 +3675,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
