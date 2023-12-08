@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec  8 17:16:57 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec  8 17:41:01 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -2870,8 +2870,8 @@ www.lahitapiola.fi
 *.tapiola.fi
 www.tapiola.fi
 asiointi.lahitapiola.fi
-*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3385,11 +3385,11 @@ store.playcanvas.com
 map.snapchat.com
 rt.playcanvas.com
 store.snapchat.com
-app.snapchat.com
 snappublisher.snapchat.com
 my.snapchat.com
 business.snapchat.com
 www.bitmoji.com
+app.snapchat.com
 playcanvas.com
 geofilters.snapchat.com
 *.sc-corp.net
@@ -3710,16 +3710,16 @@ a5s.hackerone-ext-content.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
-ctf.hacker101.com
 hackerone-ext-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.hackerone.com
+ctf.hacker101.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 b5s.hackerone-ext-content.com
-errors.hackerone.net
 cover-photos.hackerone-user-content.com
 app.pullrequest.com
+errors.hackerone.net
 hackerone.com
 api.hackerone.com
 www.hackerone.com
