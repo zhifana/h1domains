@@ -11,9 +11,9 @@ api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
-www.mercadopago.com.mx
 www.mercadopago.com.br
 api.mercadolibre.com
+www.mercadopago.com.mx
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -10552,8 +10552,8 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 twitterflightschool.com
-*.twitter.com
 x.com
+*.twitter.com
 t.co
 grok.x.ai
 *.twimg.com
