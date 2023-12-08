@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec  8 08:42:17 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec  8 09:18:06 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -1354,8 +1354,8 @@ sh.reddit.com
 s.reddit.com
 gateway.reddit.com
 www.spiketrap.io
-*.reddit.com
 ads-api.reddit.com
+*.reddit.com
 *.redditblog.com
 reddit.secure.force.com
 amp.reddit.com
