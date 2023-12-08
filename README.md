@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec  8 16:46:08 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec  8 17:16:57 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -55,8 +55,8 @@ secure-supply-xml.booking.com
 widget.rentalcars.com
 webhooks.booking.com
 cars.booking.com
-secure.booking.com
 account.booking.com
+secure.booking.com
 booking.com
 secure.booking.com
 careers.booking.com
@@ -1318,9 +1318,9 @@ cloud.elastic.co
 js.stripe.com
 app.taxjar.com
 *.reckostaging.com
-api.stripe.com
 *.getbouncer.com
 api.taxjar.com
+api.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -3089,8 +3089,8 @@ card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
 app.starbucks.com
-www.starbucks.com
 www.starbucks.com.sg
+www.starbucks.com
 www.starbucks.co.jp
 www.starbucks.co.kr
 www.starbucks.com.cn
