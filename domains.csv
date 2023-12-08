@@ -1014,8 +1014,8 @@ cbre,flatfileui.brokerhub.cbre.com,False
 cbre,flooredproducts.cbre.com,False
 cbre,fmdashboard.cbre.com,False
 cbre,fmsdemo-aws.dev.gcso.cbre.com,False
-fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
+fronthq,*.front.com,True
 fronthq,help.front.com,True
 fronthq,api2.frontapp.com,True
 fronthq,*.front.com,True
@@ -5758,8 +5758,8 @@ john-deere,vpn.kreiselelectric.com,False
 john-deere,ghost.harvestprofit.com,False
 john-deere,stellarsupport.deere.com,False
 john-deere,work-dispatcher-mobile.cert.us.e01.c01.johndeerecloud.com,False
-john-deere,parts.waratah.com,False
 john-deere,citratest.deere.com,False
+john-deere,ims.tcms.tal.deere.com,False
 john-deere,partsadvisor.deere.com,False
 john-deere,jdisonline.com,False
 john-deere,myjohndeere.deere.com,False
