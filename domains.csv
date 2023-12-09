@@ -5729,7 +5729,6 @@ john-deere,connections.deere.com,False
 john-deere,machinereports.deere.com,False
 john-deere,notifications.deere.com,False
 john-deere,registration.deere.com,False
-john-deere,rewards.deere.com,False
 john-deere,powerplan.deere.com,False
 john-deere,crm.surefireag.com,False
 john-deere,support.surefireag.com,False
@@ -5760,6 +5759,7 @@ john-deere,stellarsupport.deere.com,False
 john-deere,work-dispatcher-mobile.cert.us.e01.c01.johndeerecloud.com,False
 john-deere,citratest.deere.com,False
 john-deere,ims.tcms.tal.deere.com,False
+john-deere,parts.deere.africa,False
 john-deere,partsadvisor.deere.com,False
 john-deere,jdisonline.com,False
 john-deere,myjohndeere.deere.com,False
