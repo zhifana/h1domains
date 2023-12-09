@@ -3338,8 +3338,8 @@ yourcompany.udemy.com
 www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
-your-store.myshopify.com
 arrive-server.shopifycloud.com
+your-store.myshopify.com
 linkpop.com
 *.shopifycloud.com
 shop.app
