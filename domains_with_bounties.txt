@@ -1089,7 +1089,6 @@ api.evernote.com
 *.audicagame.com
 harmonixmusic.com
 wonderboxdev.com
-*.popjam.com
 *.mediatonic.co.uk
 *.bcbits.com
 fortnite.com
@@ -1097,6 +1096,7 @@ fallguys.com
 *.unrealtournament.com
 *.jellychat.com
 capturingreality.com
+*.popjam.com
 *.3lateral.com
 *.bcbits.com
 *.hmxwebservices.com
@@ -2897,8 +2897,8 @@ privatetarget-1-www.zigzag
 *.scatec.io
 *.myinsights.io
 *.sellzone.com
-grab.careers
 *.grabtaxi.com
+grab.careers
 gifts.grab.com
 wiki.grab.com
 *.grab-sure.com

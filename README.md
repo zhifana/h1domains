@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec  9 17:16:18 UTC 2023)
+## Domains with Bounties (Last Updated Sat Dec  9 17:41:20 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -1095,7 +1095,6 @@ api.evernote.com
 *.audicagame.com
 harmonixmusic.com
 wonderboxdev.com
-*.popjam.com
 *.mediatonic.co.uk
 *.bcbits.com
 fortnite.com
@@ -1103,6 +1102,7 @@ fallguys.com
 *.unrealtournament.com
 *.jellychat.com
 capturingreality.com
+*.popjam.com
 *.3lateral.com
 *.bcbits.com
 *.hmxwebservices.com
@@ -2903,8 +2903,8 @@ privatetarget-1-www.zigzag
 *.scatec.io
 *.myinsights.io
 *.sellzone.com
-grab.careers
 *.grabtaxi.com
+grab.careers
 gifts.grab.com
 wiki.grab.com
 *.grab-sure.com

@@ -5454,7 +5454,6 @@ epicgames,*.rukkaz.com,True
 epicgames,*.audicagame.com,True
 epicgames,harmonixmusic.com,True
 epicgames,wonderboxdev.com,True
-epicgames,*.popjam.com,True
 epicgames,*.mediatonic.co.uk,True
 epicgames,*.bcbits.com,True
 epicgames,fortnite.com,True
@@ -5462,6 +5461,7 @@ epicgames,fallguys.com,True
 epicgames,*.unrealtournament.com,True
 epicgames,*.jellychat.com,True
 epicgames,capturingreality.com,True
+epicgames,*.popjam.com,True
 epicgames,*.3lateral.com,True
 epicgames,forum.sketchfab.com,False
 epicgames,*.bcbits.com,True
@@ -9716,8 +9716,8 @@ bitwarden,identity.bitwarden.com,False
 bitwarden,vault.bitwarden.com,False
 bitwarden,help.bitwarden.com,False
 bitwarden,v4.passwordless.dev,False
-grab,grab.careers,True
 grab,*.grabtaxi.com,True
+grab,grab.careers,True
 grab,gifts.grab.com,True
 grab,wiki.grab.com,True
 grab,*.grab-sure.com,True

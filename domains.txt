@@ -5453,7 +5453,6 @@ api.stage.evernote.com
 *.audicagame.com
 harmonixmusic.com
 wonderboxdev.com
-*.popjam.com
 *.mediatonic.co.uk
 *.bcbits.com
 fortnite.com
@@ -5461,6 +5460,7 @@ fallguys.com
 *.unrealtournament.com
 *.jellychat.com
 capturingreality.com
+*.popjam.com
 *.3lateral.com
 forum.sketchfab.com
 *.bcbits.com
@@ -9715,8 +9715,8 @@ identity.bitwarden.com
 vault.bitwarden.com
 help.bitwarden.com
 v4.passwordless.dev
-grab.careers
 *.grabtaxi.com
+grab.careers
 gifts.grab.com
 wiki.grab.com
 *.grab-sure.com
