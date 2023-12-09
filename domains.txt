@@ -1090,8 +1090,8 @@ brightspeed.service-now.com
 brightspeedtsm.service-now.com
 gobrightspeed.net
 prismalabsteam.com
-lensa-ai.com
 prisma-ai.com
+lensa-ai.com
 neuralprisma.com
 appapi.neuralprisma.com
 neuralprisma.com
