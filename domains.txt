@@ -1392,11 +1392,11 @@ fertittaentertainmentinc.com
 1882energyventures.net
 aboitizenergysolutions.com
 aboitizpowercorporation.ph
-aesi.com.ph
 bettersolutions.com.ph
 cleanergy.ph
 veco.com.ph
 *.enerzone.com.ph
+aesi.com.ph
 *.oilbu.com
 aboitizpower.info
 adventenergy.com.ph
@@ -7947,8 +7947,8 @@ www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
 jobs.marriott.com
-gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
+gatewaydsaptst1.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 www.ritzcarlton.com
