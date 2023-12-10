@@ -3749,8 +3749,8 @@ a4k.amazon.com
 blueprints.amazon.com
 creator.amazon.com
 alexaanswers.amazon.com
-alexa.amazon.com
 read.amazon.com
+alexa.amazon.com
 skills-store.amazon.com
 read.amazon.com
 alexaanswers.amazon.com
@@ -10312,8 +10312,8 @@ careers.ui.com
 dev-training.ui.com
 wiki.ui.com
 rma.ui.com
-account.ui.com
 help.ui.com
+account.ui.com
 fw-update.ubnt.com
 uisp.com
 *.ubnt.com
