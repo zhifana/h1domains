@@ -5329,8 +5329,8 @@ tvarenewables.com
 *.tvaenergyrightsolutions.com
 myenergyrightadvisor.com
 energyright.efficientchoice.com
-tvars.com
 *.tva.com
+tvars.com
 *.mytva.com
 tvawcm.com
 *.tva.gov
