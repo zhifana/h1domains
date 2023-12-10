@@ -1411,8 +1411,8 @@ aboitizpower.net
 enerzone.com.ph
 sustainablephilippines.com
 *.snaboitiz.com
-*.cotabatolight.com
 1882energyventures.com
+*.cotabatolight.com
 aboitizpower.com.ph
 aboitizpowercorporation.com.ph
 aboitiztrading.com
