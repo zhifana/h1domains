@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 10 11:39:12 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec 10 12:25:33 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -1971,10 +1971,10 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.Daraz.com
 *.aliexpress.com
 *.1688.com
 *.aliyun.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2667,7 +2667,7 @@ api.foliofn.com
 marquee.gs.com
 *.folioclient.com
 *.gs.com
-*.folioinstitutional.com
+*.gs.de
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3373,8 +3373,8 @@ create.snapchat.com
 msg.playcanvas.com
 businesshelp.snapchat.com
 ads.snapchat.com
-forum.playcanvas.com
 accounts.snapchat.com
+forum.playcanvas.com
 scan.snapchat.com
 blog.playcanvas.com
 relay.playcanvas.com
