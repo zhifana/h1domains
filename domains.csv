@@ -3578,10 +3578,10 @@ resmed,app.medifox-therapie.de/,False
 resmed,app.citushealth.com/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
-resmed,resmed.com.cn,False
 resmed,resmed.es,False
 resmed,www.citushealth.com,False
 resmed,careers.resmed.com,False
+resmed,resmed.com.cn,False
 resmed,myair.resmed.com,False
 resmed,resmed.hk,False
 resmed,resmed.de,False
@@ -9443,7 +9443,7 @@ goldmansachs,*.gsam.com,True
 goldmansachs,marquee.gs.com,True
 goldmansachs,*.folioclient.com,True
 goldmansachs,*.gs.com,True
-goldmansachs,*.folioinstitutional.com,True
+goldmansachs,*.gs.de,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
