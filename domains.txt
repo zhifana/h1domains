@@ -4451,13 +4451,13 @@ banfield.us
 *.jornadasroyalcanin.com.ar
 *.monespaceeleveur.fr
 *.myroyalcanin.hu
-*.royalcanin.co.uk
 *.royalcaninconcorsi.it
 *.royalcanin-vouchers.com
 banfieldexchange.com
-*.royalcanin.com
 *.banfieldassets.com
 *.royalcanin.pl
+*.royalcanin.com
+*.royalcanin.co.uk
 *.mms.com
 *.vcahospitals.com
 *.moncse-royalcanin-siege.com
@@ -7266,9 +7266,9 @@ www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 business.tiktok.com
 *.tiktokv.com
-careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktok.com
+careers.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
