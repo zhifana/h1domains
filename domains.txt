@@ -2626,8 +2626,8 @@ app.kolesa.kz
 id.kolesa.kz
 api.kolesa.kz
 app.avtoelon.uz
-m.krisha.kz
 avtoelon.uz
+m.krisha.kz
 id.avtoelon.uz
 kolesa.kz
 m.avtoelon.uz
@@ -2983,9 +2983,9 @@ abb.com.br
 *.de.abb.com
 *.abb.nl
 *.abb.in
-*.abb
 *.abb-drives.com
 *.ability.abb
+*.abb
 *.stratus.abb.com
 *.cirrus.abb.com
 *.ch.abb.com
@@ -7264,8 +7264,8 @@ academy-outbound-ads.tiktok.com
 business.tiktok.com
 *.tiktokv.com
 creatormarketplace.tiktok.com
-*.tiktok.com
 careers.tiktok.com
+*.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com

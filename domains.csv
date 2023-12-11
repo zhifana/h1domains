@@ -2627,8 +2627,8 @@ kolesagroup,app.kolesa.kz,True
 kolesagroup,id.kolesa.kz,True
 kolesagroup,api.kolesa.kz,True
 kolesagroup,app.avtoelon.uz,True
-kolesagroup,m.krisha.kz,True
 kolesagroup,avtoelon.uz,True
+kolesagroup,m.krisha.kz,True
 kolesagroup,id.avtoelon.uz,True
 kolesagroup,kolesa.kz,True
 kolesagroup,m.avtoelon.uz,True
@@ -2984,9 +2984,9 @@ abb,*.cn.abb.com,False
 abb,*.de.abb.com,False
 abb,*.abb.nl,False
 abb,*.abb.in,False
-abb,*.abb,False
 abb,*.abb-drives.com,False
 abb,*.ability.abb,False
+abb,*.abb,False
 abb,*.stratus.abb.com,False
 abb,*.cirrus.abb.com,False
 abb,*.ch.abb.com,False
@@ -7265,8 +7265,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,creatormarketplace.tiktok.com,True
-tiktok,*.tiktok.com,True
 tiktok,careers.tiktok.com,True
+tiktok,*.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,shop.tiktok.com,True
