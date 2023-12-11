@@ -2893,8 +2893,8 @@ manage.fastly.com
 api.fastly.com
 docs.fastly.com
 ab-platform-api.eu-east-1.indriverapp.com
-*.indrive.com
 cargo.indrive.com
+*.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -4613,9 +4613,9 @@ www.mycustomcase.com
 *.mycustomcase.com
 *.simplytoimpress.com
 www.photoaffections.com
-iseeme.com
 www.simplytoimpress.com
 www.cafepress.com
+iseeme.com
 www.canvasworld.com
 *.photoaffections.com
 *.gifts.com
@@ -7264,10 +7264,10 @@ partner.tiktokshop.com
 tiktok.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
-creatormarketplace.tiktok.com
 business.tiktok.com
 *.tiktokv.com
 careers.tiktok.com
+creatormarketplace.tiktok.com
 *.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -7764,8 +7764,8 @@ affiliate-program.amazon.com
 chat.amazon.com
 manufacturing.amazon.com
 apay-us.amazon.com
-music.amazon.com
 api.amazon.com
+music.amazon.com
 smile.amazon.*
 flex.amazon.*
 logistics.amazon.*
