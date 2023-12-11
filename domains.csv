@@ -7612,8 +7612,8 @@ playstation,store.playstation.com,True
 playstation,direct.playstation.com,True
 playstation,my.playstation.com,True
 playstation,*.playstation.net,True
-playstation,ca.account.sony.com,True
 playstation,my.account.sony.com,True
+playstation,ca.account.sony.com,True
 playstation,*.playstation.net,True
 playstation,*.sonyentertainmentnetwork.com,True
 playstation,*.api.playstation.com,True
@@ -9443,7 +9443,7 @@ goldmansachs,*.gsam.com,True
 goldmansachs,marquee.gs.com,True
 goldmansachs,*.folioclient.com,True
 goldmansachs,*.gs.com,True
-goldmansachs,*.folioinstitutional.com,True
+goldmansachs,*.gs.de,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
