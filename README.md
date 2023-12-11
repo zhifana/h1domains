@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec 11 20:46:54 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec 11 21:17:12 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -18,8 +18,8 @@ api.mercadopago.com
 www.mercadolibre.com.ar
 www.mercadopago.com.ar
 www.mercadopago.com.mx
-api.mercadolibre.com
 www.mercadopago.com.br
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -488,8 +488,8 @@ hiltonhotels.jp
 https://www.okx.com/docs-v5/en/#market-maker-program
 https://www.okx.com/docs/en/
 ab-platform-api.eu-east-1.indriverapp.com
-*.indrive.com
 cargo.indrive.com
+*.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -1106,7 +1106,6 @@ capturingreality.com
 *.3lateral.com
 *.bcbits.com
 *.hmxwebservices.com
-*.bandcamp.com
 *.bcbits.com
 *.rocketleague.com
 *.psynet.gg
