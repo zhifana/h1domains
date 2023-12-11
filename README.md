@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec 11 12:29:37 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec 11 12:56:47 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -1939,8 +1939,8 @@ affiliate-program.amazon.com
 chat.amazon.com
 manufacturing.amazon.com
 apay-us.amazon.com
-api.amazon.com
 music.amazon.com
+api.amazon.com
 smile.amazon.*
 flex.amazon.*
 logistics.amazon.*

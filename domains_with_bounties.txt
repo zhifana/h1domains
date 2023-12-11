@@ -1933,8 +1933,8 @@ affiliate-program.amazon.com
 chat.amazon.com
 manufacturing.amazon.com
 apay-us.amazon.com
-api.amazon.com
 music.amazon.com
+api.amazon.com
 smile.amazon.*
 flex.amazon.*
 logistics.amazon.*
