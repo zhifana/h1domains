@@ -2893,8 +2893,8 @@ manage.fastly.com
 api.fastly.com
 docs.fastly.com
 ab-platform-api.eu-east-1.indriverapp.com
-cargo.indrive.com
 *.indrive.com
+cargo.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -7948,8 +7948,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
+gatewaydsaptst1.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
@@ -8065,7 +8065,6 @@ vanilla.topcoder-dev.com
 accounts-auth0.topcoder.com
 www.topcoder.com
 cognitive.topcoder.com
-community.topcoder.com
 community-app.topcoder.com
 dna.topcoder.com
 innovation.topcoder.com
@@ -8081,6 +8080,7 @@ veterans.topcoder.com
 webhooks.topcoder.com
 wordpress.topcoder.com
 app.topcoder.com
+community.topcoder.com
 arena.topcoder.com
 bugzilla.topcoder.com
 demo.topcoder.com
@@ -10674,8 +10674,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
