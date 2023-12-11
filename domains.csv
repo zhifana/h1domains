@@ -2844,12 +2844,12 @@ paystack-vdp,api.paystack.co,False
 paystack-vdp,dashboard.paystack.com,False
 paystack-vdp,standard.paystack.co,False
 apnic,* IPv6 addresses,False
-apnic,*.apnic.foundation,False
 apnic,*.isif.asia,False
 apnic,*.seedalliance.net,False
 apnic,* IPv4 addresses,False
 apnic,aso.apnic.net,False
 apnic,*.apnic.net,False
+apnic,*.apnic.foundation,False
 apnic,*.apidt.org,False
 apnic,stats.labs.apnic.net,False
 apnic,nori.apnic.net,False
@@ -4900,8 +4900,8 @@ anywhererealestate,new.myzap.com,False
 databricks,demo.cloud.databricks.com,True
 databricks,academy.databricks.com,True
 databricks,docs.databricks.com,True
-databricks,accounts.cloud.databricks.com,True
 databricks,databricks.com,True
+databricks,accounts.cloud.databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
 databricks,marketplace.databricks.com,True
@@ -7255,8 +7255,8 @@ citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
-tiktok,tiktok.com,True
 tiktok,partner.tiktokshop.com,True
+tiktok,tiktok.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
@@ -7759,8 +7759,8 @@ amazonvrp,affiliate-program.amazon.com,True
 amazonvrp,chat.amazon.com,True
 amazonvrp,manufacturing.amazon.com,True
 amazonvrp,apay-us.amazon.com,True
-amazonvrp,music.amazon.com,True
 amazonvrp,api.amazon.com,True
+amazonvrp,music.amazon.com,True
 amazonvrp,smile.amazon.*,True
 amazonvrp,flex.amazon.*,True
 amazonvrp,logistics.amazon.*,True
@@ -10216,8 +10216,8 @@ udemy,yourcompany.udemy.com,True
 shopify,arrive-server.shopifycloud.com,True
 shopify,your-store.myshopify.com,True
 shopify,linkpop.com,True
-shopify,shop.app,True
 shopify,*.shopifycloud.com,True
+shopify,shop.app,True
 shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True

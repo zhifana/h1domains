@@ -2843,12 +2843,12 @@ api.paystack.co
 dashboard.paystack.com
 standard.paystack.co
 * IPv6 addresses
-*.apnic.foundation
 *.isif.asia
 *.seedalliance.net
 * IPv4 addresses
 aso.apnic.net
 *.apnic.net
+*.apnic.foundation
 *.apidt.org
 stats.labs.apnic.net
 nori.apnic.net
@@ -4899,8 +4899,8 @@ new.myzap.com
 demo.cloud.databricks.com
 academy.databricks.com
 docs.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
 marketplace.databricks.com
@@ -7254,8 +7254,8 @@ api.adm.cloud.com
 *developer.cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
@@ -7758,8 +7758,8 @@ affiliate-program.amazon.com
 chat.amazon.com
 manufacturing.amazon.com
 apay-us.amazon.com
-music.amazon.com
 api.amazon.com
+music.amazon.com
 smile.amazon.*
 flex.amazon.*
 logistics.amazon.*
@@ -10215,8 +10215,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 linkpop.com
-shop.app
 *.shopifycloud.com
+shop.app
 shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
