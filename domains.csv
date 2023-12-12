@@ -1014,8 +1014,8 @@ cbre,flatfileui.brokerhub.cbre.com,False
 cbre,flooredproducts.cbre.com,False
 cbre,fmdashboard.cbre.com,False
 cbre,fmsdemo-aws.dev.gcso.cbre.com,False
-fronthq,app.frontapp.com,True
 fronthq,*.front.com,True
+fronthq,app.frontapp.com,True
 fronthq,help.front.com,True
 fronthq,api2.frontapp.com,True
 fronthq,*.front.com,True
@@ -4739,8 +4739,8 @@ shein,*.romwe.com,True
 shein,*.shein.com,True
 shein,*.romwe.com,True
 shein,*.sheingsp.com,True
-exness,exnessaffiliates.com,True
 exness,my.exness.com,True
+exness,exnessaffiliates.com,True
 exness,pay.ibex.exchange,True
 exness,exness.com,True
 exness,pwapi.ex2b.com,True
@@ -4797,10 +4797,10 @@ etoro_bbp,streams.etoro.com,True
 etoro_bbp,tapi-real.etoro.com,True
 etoro_bbp,charts.etoro.com,True
 etoro_bbp,push-d-gw.cloud.etoro.com,True
-etoro_bbp,partners.etoro.com,True
 etoro_bbp,rankings.etoro.com,True
 etoro_bbp,candle.etoro.com,True
 etoro_bbp,r.etoro.com,True
+etoro_bbp,partners.etoro.com,True
 etoro_bbp,billing-pci.etoro.com,True
 etoro_bbp,candle-src.etoro.com,True
 etoro_bbp,push-demo-hk-lightstreamer.cloud.etoro.com,True
@@ -6470,8 +6470,8 @@ reddit,app.spiketrap.io,True
 reddit,www.spiketrap.io,True
 coinspot,www.coinspot.com.au,True
 coinspot,www.coinspot.com.au,True
-ridewithvia,remix.com,True
 ridewithvia,platform.remix.com,True
+ridewithvia,remix.com,True
 ridewithvia,eu.remix.com,True
 ridewithvia,global-api.citymapper.com,True
 ridewithvia,global-api.citymapper.com,True
@@ -8970,8 +8970,8 @@ chainlink,chain.link,False
 priceline,admin.rezserver.com,True
 priceline,reservations.rezserver.com,True
 priceline,www.bookingholdings.com,True
-priceline,www.getaroom.com,True
 priceline,www.priceline.com,True
+priceline,www.getaroom.com,True
 priceline,api.rezserver.com,True
 priceline,secure.rezserver.com,True
 priceline,flyiin.com,True
@@ -10550,8 +10550,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,*.twitter.com,True
 x,x.com,True
+x,*.twitter.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True
