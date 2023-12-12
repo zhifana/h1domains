@@ -2,15 +2,15 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 12 19:40:23 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 12 20:20:08 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
 www.lemonaidhealth.com
 clinic.lemonaidhealth.com
-pd-api.polkadoc.com
-store.23andme.com
 education.23andme.com
+store.23andme.com
+pd-api.polkadoc.com
 sapi-live.lh.us-west-2.prd.23andme.us
 blog.23andme.com
 auth.23andme.com
@@ -215,8 +215,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-testapp.redoxengine.com
 10x.redoxengine.com
+testapp.redoxengine.com
 docs.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
@@ -1202,8 +1202,8 @@ app.recordedfuture.com
 api.recordedfuture.com
 hatching.io
 securitytrails.com
-www.recordedfuture.com
 geminiadvisory.io
+www.recordedfuture.com
 id.recordedfuture.com
 tria.ge
 www.recordedfuture.com
@@ -2085,8 +2085,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
+gatewaydsaptst1.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
@@ -3216,8 +3216,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 education.github.com
