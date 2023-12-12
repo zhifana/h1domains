@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 12 10:44:03 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 12 11:16:56 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -487,8 +487,8 @@ hiltonhotels.jp
 *.okx.com
 https://www.okx.com/docs-v5/en/#market-maker-program
 https://www.okx.com/docs/en/
-cargo.indrive.com
 *.indrive.com
+cargo.indrive.com
 ab-platform-api.eu-east-1.indriverapp.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
@@ -606,11 +606,11 @@ sso.8x8.com
 work-staging.8x8.com
 *.chalet.8x8.com
 uc.8x8pilot.com
-*.8x8.id
 user-profile-staging.8x8.com
 platform.8x8pilot.com
 *.jit.si
 cloud8.8x8.com
+*.8x8.id
 *.8x8staging.com
 platform.8x8.com
 voapi.8x8.com
@@ -2257,8 +2257,8 @@ app.command.cysiv.com
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.priceline.com
 www.getaroom.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
