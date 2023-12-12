@@ -1162,8 +1162,8 @@ http://rei.com/rei-garage
 http://rei.com/adventures
 http://rei.com/learn/expert-advice
 http://rei.com/events
-help.coinhako.com
 www.coinhako.com
+help.coinhako.com
 www.coinhako.com
 help.coinhako.com
 api.facemojikeyboard.com
@@ -7974,8 +7974,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
+gatewaydsaptst1.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
