@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 12 05:17:07 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 12 05:40:50 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -487,8 +487,8 @@ hiltonhotels.jp
 *.okx.com
 https://www.okx.com/docs-v5/en/#market-maker-program
 https://www.okx.com/docs/en/
-*.indrive.com
 cargo.indrive.com
+*.indrive.com
 ab-platform-api.eu-east-1.indriverapp.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
@@ -600,9 +600,9 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 connect.8x8.com
-*.8x8.vc
 *.jitsi.net
 sso.8x8.com
+*.8x8.vc
 work-staging.8x8.com
 *.chalet.8x8.com
 uc.8x8pilot.com
@@ -2671,8 +2671,8 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.gsam.com
 marquee.gs.com
-*.gs.de
 *.folioinstitutional.com
+*.gs.de
 *.gs.com
 *.goldmansachs.com
 *.gs.com
@@ -3272,8 +3272,8 @@ secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.com
 *.deriv.cloud
-oauth.deriv.com
 app.deriv.com
+oauth.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com

@@ -2893,8 +2893,8 @@ fastly-vdp,*.fanout.io,False
 fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
-indrive,*.indrive.com,True
 indrive,cargo.indrive.com,True
+indrive,*.indrive.com,True
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
@@ -3214,9 +3214,9 @@ kkr_vdp,kinfra.com,False
 kkr_vdp,ksam.com,False
 8x8-bounty,work.8x8.com,True
 8x8-bounty,connect.8x8.com,True
-8x8-bounty,*.8x8.vc,True
 8x8-bounty,*.jitsi.net,True
 8x8-bounty,sso.8x8.com,True
+8x8-bounty,*.8x8.vc,True
 8x8-bounty,work-staging.8x8.com,True
 8x8-bounty,*.chalet.8x8.com,True
 8x8-bounty,uc.8x8pilot.com,True
@@ -9444,8 +9444,8 @@ goldmansachs,api.foliofn.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,*.gsam.com,True
 goldmansachs,marquee.gs.com,True
-goldmansachs,*.gs.de,True
 goldmansachs,*.folioinstitutional.com,True
+goldmansachs,*.gs.de,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
@@ -10136,8 +10136,8 @@ deriv,secure-dfadmin.deriv.com,True
 deriv,*.binary.com,True
 deriv,*.deriv.com,True
 deriv,*.deriv.cloud,True
-deriv,oauth.deriv.com,True
 deriv,app.deriv.com,True
+deriv,oauth.deriv.com,True
 deriv,*.deriv.com,True
 deriv,*.deriv.cloud,True
 deriv,*.derivws.com,True
