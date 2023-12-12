@@ -9,8 +9,8 @@ handle,domain,eligible_for_bounty
 23andme_bbp,sapi-live.lh.us-west-2.prd.23andme.us,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,api.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,auth.23andme.com,True
+23andme_bbp,you.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -9747,8 +9747,8 @@ bitwarden,help.bitwarden.com,False
 bitwarden,v4.passwordless.dev,False
 grab,*.grabtaxi.com,True
 grab,grab.careers,True
-grab,gifts.grab.com,True
 grab,wiki.grab.com,True
+grab,gifts.grab.com,True
 grab,*.grab-sure.com,True
 grab,*.grabpay.com,True
 grab,xtramile.grabpay.com,True
@@ -10582,8 +10582,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,*.twitter.com,True
 x,x.com,True
+x,*.twitter.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True

@@ -8,8 +8,8 @@ pd-api.polkadoc.com
 sapi-live.lh.us-west-2.prd.23andme.us
 blog.23andme.com
 api.23andme.com
-you.23andme.com
 auth.23andme.com
+you.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -9746,8 +9746,8 @@ help.bitwarden.com
 v4.passwordless.dev
 *.grabtaxi.com
 grab.careers
-gifts.grab.com
 wiki.grab.com
+gifts.grab.com
 *.grab-sure.com
 *.grabpay.com
 xtramile.grabpay.com
@@ -10581,8 +10581,8 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 twitterflightschool.com
-*.twitter.com
 x.com
+*.twitter.com
 t.co
 grok.x.ai
 *.twimg.com
