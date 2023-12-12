@@ -7,10 +7,10 @@ www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.com.pe
 www.mercadopago.com.co
-api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadolibre.com.ar
 www.mercadolibre.com.co
+api.mercadopago.com
 www.mercadopago.com.mx
 www.mercadopago.com.br
 api.mercadolibre.com
@@ -1146,7 +1146,6 @@ boyswebtest.shaya.com.tr
 opsassistbrandedsolutions.shaya.com.tr
 pmp.shaya.com.tr
 kw.shopjustice.me
-card.starbucks.com.kz
 *.aloyoga.com.kw
 *.americaneagle.com.bh
 *.westelm.com.kw
@@ -1169,6 +1168,7 @@ shayakahve.com.tr
 *.starbuckscardtr.com
 *.alshayaenterprises.com
 *.americaneagle.com.kw
+card.starbucks.com.kz
 boysweb.shaya.com.tr
 kw.hm.com
 kw.cosstores.com
@@ -6481,8 +6481,8 @@ platform.remix.com
 on-app-backend.on-running.com
 *.on-running.com
 on-app-backend.on-running.com
-*.scopely.com
 *.withbuddies.com
+*.scopely.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
@@ -8969,8 +8969,8 @@ chain.link
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.priceline.com
 www.getaroom.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -10694,9 +10694,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone.com
 hackerone-user-content.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
