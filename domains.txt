@@ -1163,12 +1163,12 @@ kw.boots.com
 bakimonarim.shaya.com.tr
 bathandbodyworks.ro/
 bathandbodyworks.ro
-*.americaneagle.com.kw
 shayakahve.com.tr
 *.mothercare.com.eg
 *.victoriassecret.com.qa
 *.starbuckscardtr.com
 *.alshayaenterprises.com
+*.americaneagle.com.kw
 boysweb.shaya.com.tr
 kw.hm.com
 kw.cosstores.com
@@ -2614,8 +2614,8 @@ biologyfinder.com
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshchat.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -2892,8 +2892,8 @@ api.fastly.com
 manage.fastly.com
 api.fastly.com
 docs.fastly.com
-*.indrive.com
 cargo.indrive.com
+*.indrive.com
 ab-platform-api.eu-east-1.indriverapp.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
@@ -6306,8 +6306,8 @@ artifactory-us.zebra.com
 zsl.zebra.com
 wfc.zebra.com
 *.cto-si.zebra.com
-*.fetchcore-cloud.com
 stage-www.zebra.com
+www.matrox.com
 *.cto-si.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
@@ -8975,8 +8975,8 @@ chain.link
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.priceline.com
 www.getaroom.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -9443,8 +9443,8 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.gsam.com
 marquee.gs.com
-*.gs.de
 *.folioinstitutional.com
+*.gs.de
 *.gs.com
 *.goldmansachs.com
 *.gs.com
@@ -10353,8 +10353,8 @@ nicetryapril.na1.echosignsandbox.com
 repo.magento.com
 magento.com
 exchange.adobe.com
-*.adobe.com
 auth.services.adobe.com
+*.adobe.com
 *.tt.omtrdc.net
 *.omniture.com
 *.typekit.com
@@ -10555,8 +10555,8 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 twitterflightschool.com
-x.com
 *.twitter.com
+x.com
 t.co
 grok.x.ai
 *.twimg.com
