@@ -327,8 +327,8 @@ www.practicalmoneyskills.org
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
-yourdomain.freshchat.com
 yourdomain.myfreshworks.com
+yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -2255,8 +2255,8 @@ app.command.cysiv.com
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.getaroom.com
 www.priceline.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com

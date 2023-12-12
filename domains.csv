@@ -2615,8 +2615,8 @@ clarivate,biologyfinder.com,False
 freshworks,yourdomain.freshcaller.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshdesk.com,True
-freshworks,yourdomain.freshchat.com,True
 freshworks,yourdomain.myfreshworks.com,True
+freshworks,yourdomain.freshchat.com,True
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshchat.com,True
@@ -8976,8 +8976,8 @@ chainlink,chain.link,False
 priceline,admin.rezserver.com,True
 priceline,reservations.rezserver.com,True
 priceline,www.bookingholdings.com,True
-priceline,www.getaroom.com,True
 priceline,www.priceline.com,True
+priceline,www.getaroom.com,True
 priceline,api.rezserver.com,True
 priceline,secure.rezserver.com,True
 priceline,flyiin.com,True
