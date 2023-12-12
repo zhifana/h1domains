@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 12 15:19:11 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 12 15:43:02 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -912,8 +912,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-my.exness.com
 exnessaffiliates.com
+my.exness.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -1822,8 +1822,8 @@ api.direct.playstation.com
 transact.playstation.com
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
-store.playstation.com
 direct.playstation.com
+store.playstation.com
 my.playstation.com
 *.playstation.net
 my.account.sony.com
@@ -1840,6 +1840,7 @@ direct.playstation.com
 api.direct.playstation.com
 ca.account.sony.com
 my.account.sony.com
+portal.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
 burn.polygon.technology
@@ -1858,6 +1859,7 @@ mapper.polygon.technology
 watchgod.polygon.technology
 open-api.polygon.technology
 faucet.polygon.technology
+portal.polygon.technology
 *.xiaomi.com
 *.miui.com
 *.xiaomiyoupin.com
@@ -2055,8 +2057,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-reservations.all-inclusive.marriott.com
 gatewaydsaptst1.marriott.com
+reservations.all-inclusive.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
@@ -2257,8 +2259,8 @@ app.command.cysiv.com
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.getaroom.com
 www.priceline.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -2276,8 +2278,8 @@ press.priceline.com
 www.bookingholdings.com
 developers.smartsheet.com
 help.smartsheet.com
-app.smartsheet.com
 admin.smartsheet.com
+app.smartsheet.com
 app.smartsheet.com
 http://api.smartsheet.com/2.0
 admin.smartsheet.com
