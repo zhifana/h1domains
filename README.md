@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 12 01:04:55 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 12 02:05:40 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -709,9 +709,9 @@ www.flights.com
 www.travelocity.com
 www.vrbo.com
 www.ebookers.com
-www.cheaptickets.com
 www.lastminute.co.nz
 www.lastminute.com.au
+www.cheaptickets.com
 www.travelocity.ca
 www.fewo-direkt.de
 www.carrentals.com
@@ -1710,6 +1710,7 @@ api.watsons.com.hk
 app.watsons.com.tr
 api.iciparisxl.lu
 www.kruidvat.nl
+www.kruidvat.be
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2058,8 +2059,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-reservations.all-inclusive.marriott.com
 gatewaydsaptst1.marriott.com
+reservations.all-inclusive.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
@@ -2771,8 +2772,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
 one.newrelic.com
-*.nr-ops.net
 *.newrelic.com
+*.nr-ops.net
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
@@ -3378,8 +3379,8 @@ create.snapchat.com
 msg.playcanvas.com
 businesshelp.snapchat.com
 ads.snapchat.com
-accounts.snapchat.com
 forum.playcanvas.com
+accounts.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 relay.playcanvas.com
@@ -3565,8 +3566,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com
@@ -3717,10 +3718,10 @@ a5s.hackerone-ext-content.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
 www.hackerone.com
 hackerone-ext-content.com
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 errors.hackerone.net
