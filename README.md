@@ -2,8 +2,36 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 12 16:47:00 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 12 17:19:23 UTC 2023)
 ```
+research.23andme.com
+mediacenter.23andme.com
+www.lemonaidhealth.com
+clinic.lemonaidhealth.com
+pd-api.polkadoc.com
+education.23andme.com
+store.23andme.com
+sapi-live.lh.us-west-2.prd.23andme.us
+you.23andme.com
+blog.23andme.com
+auth.23andme.com
+api.23andme.com
+therapeutics.23andme.com
+medical.23andme.com
+api.23andme.com
+auth.23andme.com
+blog.23andme.com
+education.23andme.com
+mediacenter.23andme.com
+medical.23andme.com
+store.23andme.com
+therapeutics.23andme.com
+you.23andme.com
+clinic.lemonaidhealth.com
+www.lemonaidhealth.com
+sapi-live.lh.us-west-2.prd.23andme.us
+pd-api.polkadoc.com
+research.23andme.com
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
 www.mercadopago.cl
@@ -2057,8 +2085,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
+gatewaydsaptst1.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
