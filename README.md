@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 12 12:28:42 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 12 12:57:21 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -1019,9 +1019,9 @@ admin.instacart.com
 shoppers.instacart.com
 demo.cloud.databricks.com
 academy.databricks.com
-docs.databricks.com
 databricks.com
 accounts.cloud.databricks.com
+docs.databricks.com
 kb.databricks.com
 support.databricks.com
 marketplace.databricks.com
@@ -1399,8 +1399,8 @@ global-api.citymapper.com
 remix.com
 eu.remix.com
 platform.remix.com
-*.withbuddies.com
 *.scopely.com
+*.withbuddies.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
@@ -2055,8 +2055,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
+gatewaydsaptst1.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
@@ -3562,8 +3562,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 grok.x.ai
 *.twimg.com
 gnip.com
@@ -3702,9 +3702,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
+hackerone.com
 hackerone-user-content.com
 api.hackerone.com
-hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com

@@ -4896,9 +4896,9 @@ anywhererealestate,*.anywhere.re,False
 anywhererealestate,new.myzap.com,False
 databricks,demo.cloud.databricks.com,True
 databricks,academy.databricks.com,True
-databricks,docs.databricks.com,True
 databricks,databricks.com,True
 databricks,accounts.cloud.databricks.com,True
+databricks,docs.databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
 databricks,marketplace.databricks.com,True
@@ -6482,8 +6482,8 @@ on,*.on-running.com,False
 on,on-app-backend.on-running.com,False
 on,*.on-running.com,False
 on,on-app-backend.on-running.com,False
-scopely,*.withbuddies.com,True
 scopely,*.scopely.com,True
+scopely,*.withbuddies.com,True
 scopely,*.scopely.io,True
 scopely,*.scopely.io,True
 scopely,*.scopely.com,True
@@ -7944,8 +7944,8 @@ marriott,mgs.marriott.com,True
 marriott,www.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,activities.marriott.com,True
-marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
+marriott,gatewaydsaptst1.marriott.com,True
 marriott,jobs.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
@@ -10342,7 +10342,6 @@ adobe,theblog.adobe.com,False
 adobe,accounts.frame.io,False
 adobe,app.frame.io,False
 adobe,stream.frame.io,False
-adobe,*.adobeaemcloud.com,False
 adobe,firefly.adobe.com,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,repo.magento.com,True
@@ -10350,6 +10349,7 @@ adobe,magento.com,True
 adobe,exchange.adobe.com,False
 adobe,auth.services.adobe.com,False
 adobe,*.adobe.com,False
+adobe,*.adobeaemcloud.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.omniture.com,False
 adobe,*.typekit.com,False
@@ -10550,8 +10550,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,*.twitter.com,True
 x,x.com,True
+x,*.twitter.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True
@@ -10695,9 +10695,9 @@ yahoo,onepush.query.yahoo.com,True
 yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
+security,hackerone.com,True
 security,hackerone-user-content.com,True
 security,api.hackerone.com,True
-security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
