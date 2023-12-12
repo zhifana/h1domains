@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 12 04:21:35 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 12 04:41:06 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -2059,8 +2059,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-reservations.all-inclusive.marriott.com
 gatewaydsaptst1.marriott.com
+reservations.all-inclusive.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
@@ -2671,8 +2671,8 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.gsam.com
 marquee.gs.com
-*.gs.de
 *.folioinstitutional.com
+*.gs.de
 *.gs.com
 *.goldmansachs.com
 *.gs.com
@@ -2916,12 +2916,12 @@ wiki.grab.com
 *.grab-sure.com
 *.grabpay.com
 xtramile.grabpay.com
-*.myteksi.com
 *.grab.co
 manage.grab.co
 p.grabtaxi.com
 api.grabpay.com
 *.grab.com
+*.myteksi.com
 gamma.grab.co
 jira.grab.com
 kartaview.org
@@ -3707,8 +3707,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 api.hackerone.com
-hackerone-user-content.com
 hackerone.com
+hackerone-user-content.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
