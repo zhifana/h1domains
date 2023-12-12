@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 12 19:16:15 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 12 19:40:23 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
@@ -3124,9 +3124,9 @@ app.starbucks.com
 www.starbucks.com
 www.starbucks.com.sg
 www.starbucks.co.jp
-www.starbucks.co.kr
 login.starbucks.co.jp
 www.starbucks.com.cn
+www.starbucks.co.kr
 openapi.starbucks.com
 www.starbucks.ca
 gift.starbucks.co.jp
@@ -3420,9 +3420,9 @@ store.snapchat.com
 snappublisher.snapchat.com
 www.bitmoji.com
 playcanvas.com
+my.snapchat.com
 app.snapchat.com
 business.snapchat.com
-my.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
@@ -3732,9 +3732,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
+hackerone.com
 hackerone-user-content.com
 api.hackerone.com
-hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com

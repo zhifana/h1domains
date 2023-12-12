@@ -9943,9 +9943,9 @@ starbucks,app.starbucks.com,True
 starbucks,www.starbucks.com,True
 starbucks,www.starbucks.com.sg,True
 starbucks,www.starbucks.co.jp,True
-starbucks,www.starbucks.co.kr,True
 starbucks,login.starbucks.co.jp,True
 starbucks,www.starbucks.com.cn,True
+starbucks,www.starbucks.co.kr,True
 starbucks,openapi.starbucks.com,True
 starbucks,www.starbucks.ca,True
 starbucks,gift.starbucks.co.jp,True
@@ -10285,9 +10285,9 @@ snapchat,store.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
 snapchat,www.bitmoji.com,True
 snapchat,playcanvas.com,True
+snapchat,my.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,business.snapchat.com,True
-snapchat,my.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,spectacles.com,True
@@ -10726,9 +10726,9 @@ yahoo,onepush.query.yahoo.com,True
 yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
+security,hackerone.com,True
 security,hackerone-user-content.com,True
 security,api.hackerone.com,True
-security,hackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,www.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
