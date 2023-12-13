@@ -1551,8 +1551,8 @@ aven.com
 aven.com
 my.aven.com
 notary.aven.com
-*.servicenow.com
 *.service-now.com
+*.servicenow.com
 *.servicenow.com
 *.service-now.com
 durango.shi.com
@@ -4916,9 +4916,9 @@ www.alohi.com
 *.trgc.com
 *.cartus.com
 *.leadrouter.com
-*.era.com
 *.bhgre.*
 *.century21.*
+*.era.com
 *.nrtllc.*
 *.sothebysrealty.*
 *.corcoran.*
@@ -7996,8 +7996,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
+gatewaydsaptst1.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
@@ -8857,10 +8857,10 @@ wotctech.com
 *.redeverdeamarela.com.br
 *equifax.co.in
 HOURLY-JOBS.NET
-JOBALINE.COM
 *.bvsnet.com.br
 *.efficientforms.com
 register.alertxpress.com
+JOBALINE.COM
 *equifax.cl
 *equifax.hn
 *equifax.co.nz
@@ -10272,9 +10272,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -10749,8 +10749,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com

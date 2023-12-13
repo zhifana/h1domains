@@ -1552,8 +1552,8 @@ aven_response,*.aven.com,False
 aven_response,aven.com,False
 aven_response,my.aven.com,False
 aven_response,notary.aven.com,False
-servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
+servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
 shi_vdp,durango.shi.com,False
@@ -4917,9 +4917,9 @@ alohi,www.alohi.com,False
 anywhererealestate,*.trgc.com,False
 anywhererealestate,*.cartus.com,False
 anywhererealestate,*.leadrouter.com,False
-anywhererealestate,*.era.com,False
 anywhererealestate,*.bhgre.*,False
 anywhererealestate,*.century21.*,False
+anywhererealestate,*.era.com,False
 anywhererealestate,*.nrtllc.*,False
 anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.corcoran.*,False
@@ -7997,8 +7997,8 @@ marriott,mgs.marriott.com,True
 marriott,www.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,activities.marriott.com,True
-marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
+marriott,gatewaydsaptst1.marriott.com,True
 marriott,jobs.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
@@ -8858,10 +8858,10 @@ equifax,*.konduto.com,False
 equifax,*.redeverdeamarela.com.br,False
 equifax,*equifax.co.in,False
 equifax,HOURLY-JOBS.NET,False
-equifax,JOBALINE.COM,False
 equifax,*.bvsnet.com.br,False
 equifax,*.efficientforms.com,False
 equifax,register.alertxpress.com,False
+equifax,JOBALINE.COM,False
 equifax,*equifax.cl,False
 equifax,*equifax.hn,False
 equifax,*equifax.co.nz,False
@@ -10273,9 +10273,9 @@ shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10750,8 +10750,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,hackerone.com,True
 security,api.hackerone.com,True
+security,hackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,www.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
