@@ -2,11 +2,11 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 13 09:19:28 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec 13 09:43:37 UTC 2023)
 ```
 research.23andme.com
-www.lemonaidhealth.com
 mediacenter.23andme.com
+www.lemonaidhealth.com
 clinic.lemonaidhealth.com
 education.23andme.com
 store.23andme.com
@@ -73,10 +73,10 @@ kyc-onboarding.booking.com
 careers.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
-booking.com
 admin.booking.com
 supply-xml.booking.com
 *.booking.com
+booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -1449,8 +1449,8 @@ global-api.citymapper.com
 remix.com
 eu.remix.com
 platform.remix.com
-*.scopely.com
 *.withbuddies.com
+*.scopely.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
@@ -2107,8 +2107,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-reservations.all-inclusive.marriott.com
 gatewaydsaptst1.marriott.com
+reservations.all-inclusive.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
