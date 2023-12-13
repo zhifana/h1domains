@@ -63,9 +63,9 @@ temu,www.temu.com,True
 temu,www.temu.com,True
 bookingcom,chat.booking.com,True
 bookingcom,experiences.booking.com,True
-bookingcom,careers.booking.com,True
 bookingcom,indicative-pricing.taxi.booking.com,True
 bookingcom,kyc-onboarding.booking.com,True
+bookingcom,careers.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,booking.com,True
@@ -1218,8 +1218,8 @@ alshaya,*.mothercare.com.eg,False
 alshaya,*.victoriassecret.com.qa,False
 alshaya,*.americaneagle.com.kw,False
 alshaya,card.starbucks.com.kz,False
-alshaya,*.starbuckscardtr.com,False
 alshaya,*.alshayaenterprises.com,False
+alshaya,*.starbuckscardtr.com,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,kw.hm.com,False
 alshaya,kw.cosstores.com,False
@@ -7997,8 +7997,8 @@ marriott,mgs.marriott.com,True
 marriott,www.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,activities.marriott.com,True
-marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
+marriott,gatewaydsaptst1.marriott.com,True
 marriott,jobs.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
