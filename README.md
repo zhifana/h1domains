@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 13 01:04:18 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec 13 02:04:45 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
@@ -14,8 +14,8 @@ pd-api.polkadoc.com
 sapi-live.lh.us-west-2.prd.23andme.us
 blog.23andme.com
 api.23andme.com
-auth.23andme.com
 you.23andme.com
+auth.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -1318,11 +1318,11 @@ main.trafficfactory.biz
 www.trafficfactory.com
 main.trafficfactory.biz
 *.found.io
-*.elasticnet.co
 *.eops.nl
 *.swiftype.com
 *.elstc.co
 cloud.elastic.co
+*.elasticnet.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -1364,9 +1364,9 @@ www.urbanclap.com
 api.reddit.com
 *.redditmedia.com
 app.spiketrap.io
-ads.reddit.com
 gql.reddit.com
 old.reddit.com
+ads.reddit.com
 meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -3510,9 +3510,9 @@ next.airbnb.com
 *.byairbnb.com
 *.hoteltonight-test.com
 *.airbnbcitizen.com
-*.muscache.com
 www.hoteltonight.com
 *.airbnb.com
+*.muscache.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
@@ -3732,9 +3732,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone.com
 hackerone-user-content.com
 api.hackerone.com
+hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
