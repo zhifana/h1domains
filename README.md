@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 13 11:16:13 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec 13 11:42:34 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
@@ -82,8 +82,8 @@ portal.taxi.booking.com
 distribution-xml.booking.com
 accommodations.booking.com
 phone-validation.taxi.booking.com
-*.rentalcars.com
 taxis.booking.com
+*.rentalcars.com
 taxi.booking.com
 autocomplete.booking.com
 secure-supply-xml.booking.com
@@ -198,8 +198,8 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-cicd.io
 *.gocardless-staging.io
-manage-sandbox.gocardless.com
 www.gocardless.com
+manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -2107,8 +2107,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
+gatewaydsaptst1.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
@@ -3271,8 +3271,8 @@ registry.gitlab.com
 *.gitlab.net
 design.gitlab.com
 advisories.gitlab.com
-customers.gitlab.com
 *.gitlap.com
+customers.gitlab.com
 docs.gitlab.com
 about.gitlab.com
 *.gitlab.org
