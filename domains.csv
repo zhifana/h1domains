@@ -77,9 +77,9 @@ bookingcom,autocomplete.booking.com,True
 bookingcom,secure-supply-xml.booking.com,True
 bookingcom,widget.rentalcars.com,True
 bookingcom,webhooks.booking.com,True
-bookingcom,cars.booking.com,True
 bookingcom,secure.booking.com,True
 bookingcom,account.booking.com,True
+bookingcom,cars.booking.com,True
 bookingcom,booking.com,True
 bookingcom,secure.booking.com,True
 bookingcom,careers.booking.com,True
@@ -2835,8 +2835,8 @@ hilton,*.hiltonbusinessonline.com,True
 hilton,hiltonhotels.jp,True
 hilton,hilton.io,True
 hilton,hiltonbusinessonline.com,True
-hilton,*.hilton.com.tr,True
 hilton,hiltonlocalbiz.com,True
+hilton,*.hilton.com.tr,True
 hilton,*.hiltonlocalbiz.com,True
 hilton,hilton.com,True
 hilton,hilton.com.tr,True
