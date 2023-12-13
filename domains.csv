@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
 23andme_bbp,research.23andme.com,True
-23andme_bbp,mediacenter.23andme.com,True
 23andme_bbp,www.lemonaidhealth.com,True
 23andme_bbp,clinic.lemonaidhealth.com,True
+23andme_bbp,mediacenter.23andme.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
 23andme_bbp,pd-api.polkadoc.com,True
@@ -9472,7 +9472,7 @@ goldmansachs,marquee.gs.com,True
 goldmansachs,*.gs.de,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.folioclient.com,True
-goldmansachs,*.folioinstitutional.com,True
+goldmansachs,*.gsam.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
