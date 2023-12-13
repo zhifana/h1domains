@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
 23andme_bbp,mediacenter.23andme.com,True
 23andme_bbp,www.lemonaidhealth.com,True
-23andme_bbp,clinic.lemonaidhealth.com,True
 23andme_bbp,research.23andme.com,True
+23andme_bbp,clinic.lemonaidhealth.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
 23andme_bbp,pd-api.polkadoc.com,True
@@ -41,8 +41,8 @@ mercadolibre,www.mercadolibre.com.ar,True
 mercadolibre,www.mercadolibre.com.co,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.mx,True
-mercadolibre,www.mercadopago.com.br,True
 mercadolibre,api.mercadolibre.com,True
+mercadolibre,www.mercadopago.com.br,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,www.mercadopago.com.br,True
@@ -2769,8 +2769,8 @@ mozilla_core_services,relay.firefox.com,True
 mozilla_core_services,support.mozilla.org,True
 mozilla_core_services,hg.mozilla.org,True
 mozilla_core_services,developer.mozilla.org,True
-mozilla_core_services,www.mozilla.org,True
 mozilla_core_services,monitor.firefox.com,True
+mozilla_core_services,www.mozilla.org,True
 mozilla_core_services,profiler.firefox.com,True
 mozilla_core_services,community-tc.services.mozilla.com,True
 mozilla_core_services,api.profiler.firefox.com,True
@@ -4507,7 +4507,6 @@ mars,*.royalcanin.pl,False
 mars,*.royalcanin.co.uk,False
 mars,*.royalcanin.com,False
 mars,*.mms.com,False
-mars,*.vcahospitals.com,False
 mars,*.moncse-royalcanin-siege.com,False
 mars,*.monespaceveto.com,False
 mars,*.royalcanin.cz,False
@@ -4517,6 +4516,7 @@ mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,banfieldfoundation.org,False
 mars,*.royalcanin.ca,False
 mars,*.pedigree.com,False
+mars,*.vcahospitals.com,False
 mars,*.marschocolate.com,False
 mars,*.dovechocolate.com,False
 mars,*.royal-canin.com,False
@@ -5379,9 +5379,9 @@ tennessee-valley-authority,myenergyrightadvisor.com,False
 tennessee-valley-authority,energyright.efficientchoice.com,False
 tennessee-valley-authority,*.tva.com,False
 tennessee-valley-authority,tvars.com,False
-tennessee-valley-authority,*.mytva.com,False
 tennessee-valley-authority,tvawcm.com,False
 tennessee-valley-authority,*.tva.gov,False
+tennessee-valley-authority,*.mytva.com,False
 tennessee-valley-authority,mytva.com,False
 tennessee-valley-authority,tvawcma.com,False
 tennessee-valley-authority,*.tva.gov,False
