@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 13 10:42:02 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec 13 11:16:13 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
@@ -14,8 +14,8 @@ pd-api.polkadoc.com
 sapi-live.lh.us-west-2.prd.23andme.us
 api.23andme.com
 blog.23andme.com
-you.23andme.com
 auth.23andme.com
+you.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -42,9 +42,9 @@ www.mercadolivre.com.br
 www.mercadopago.com.pe
 www.mercadopago.com.co
 www.mercadopago.com.ar
-api.mercadopago.com
 www.mercadolibre.com.ar
 www.mercadolibre.com.co
+api.mercadopago.com
 www.mercadopago.com.mx
 www.mercadopago.com.br
 api.mercadolibre.com
@@ -2019,8 +2019,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
 *.tmall.com
-*.alibabacloud.com
 *.alibaba.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
