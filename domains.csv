@@ -4,8 +4,8 @@ handle,domain,eligible_for_bounty
 23andme_bbp,www.lemonaidhealth.com,True
 23andme_bbp,clinic.lemonaidhealth.com,True
 23andme_bbp,education.23andme.com,True
-23andme_bbp,store.23andme.com,True
 23andme_bbp,pd-api.polkadoc.com,True
+23andme_bbp,store.23andme.com,True
 23andme_bbp,sapi-live.lh.us-west-2.prd.23andme.us,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -8009,8 +8009,8 @@ marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
 marriott,www.ritzcarlton.com,True
 marriott,cpp.marriott.com,True
-marriott,marriottfranchisetransactions.marriott.com,True
 marriott,all-inclusive.marriott.com,True
+marriott,marriottfranchisetransactions.marriott.com,True
 marriott,homes-and-villas.marriott.com,True
 marriott,gatewaydsapdev2.marriott.com,True
 marriott,*uat.marriott.com,True
