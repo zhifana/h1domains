@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
 23andme_bbp,mediacenter.23andme.com,True
 23andme_bbp,research.23andme.com,True
-23andme_bbp,clinic.lemonaidhealth.com,True
 23andme_bbp,www.lemonaidhealth.com,True
+23andme_bbp,clinic.lemonaidhealth.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
 23andme_bbp,pd-api.polkadoc.com,True
@@ -7997,8 +7997,8 @@ marriott,mgs.marriott.com,True
 marriott,www.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,activities.marriott.com,True
-marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
+marriott,gatewaydsaptst1.marriott.com,True
 marriott,jobs.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
@@ -9350,8 +9350,8 @@ paypal,swiftfinancial.com,True
 paypal,*.paylution.com,True
 paypal,py.pl,True
 paypal,*.braintreepayments.com,True
-paypal,*.braintree-api.com,True
 paypal,*.xoom.com,True
+paypal,*.braintree-api.com,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
 paypal,swiftcapital.com,True
@@ -9962,9 +9962,9 @@ starbucks,www.starbucks.com.br,True
 starbucks,card.starbucks.com.sg,True
 starbucks,secureui.starbucks.com,True
 starbucks,www.starbucks.de,True
-starbucks,app.starbucks.com,True
 starbucks,www.starbucks.com.sg,True
 starbucks,www.starbucks.com,True
+starbucks,app.starbucks.com,True
 starbucks,www.starbucks.co.jp,True
 starbucks,login.starbucks.co.jp,True
 starbucks,www.starbucks.com.cn,True
@@ -10274,8 +10274,8 @@ shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10305,12 +10305,12 @@ snapchat,store.playcanvas.com,True
 snapchat,map.snapchat.com,True
 snapchat,rt.playcanvas.com,True
 snapchat,store.snapchat.com,True
-snapchat,snappublisher.snapchat.com,True
 snapchat,www.bitmoji.com,True
 snapchat,playcanvas.com,True
 snapchat,my.snapchat.com,True
 snapchat,business.snapchat.com,True
 snapchat,app.snapchat.com,True
+snapchat,snappublisher.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,spectacles.com,True
