@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 13 08:42:04 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec 13 09:19:28 UTC 2023)
 ```
 research.23andme.com
 www.lemonaidhealth.com
@@ -82,8 +82,8 @@ portal.taxi.booking.com
 distribution-xml.booking.com
 accommodations.booking.com
 phone-validation.taxi.booking.com
-*.rentalcars.com
 taxis.booking.com
+*.rentalcars.com
 taxi.booking.com
 autocomplete.booking.com
 secure-supply-xml.booking.com
@@ -398,8 +398,8 @@ app.avtoelon.uz
 avtoelon.uz
 m.krisha.kz
 id.avtoelon.uz
-kolesa.kz
 m.avtoelon.uz
+kolesa.kz
 m.kolesa.kz
 app.krisha.kz
 api.avtoelon.uz

@@ -77,8 +77,8 @@ bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
 bookingcom,accommodations.booking.com,True
 bookingcom,phone-validation.taxi.booking.com,True
-bookingcom,*.rentalcars.com,True
 bookingcom,taxis.booking.com,True
+bookingcom,*.rentalcars.com,True
 bookingcom,taxi.booking.com,True
 bookingcom,autocomplete.booking.com,True
 bookingcom,secure-supply-xml.booking.com,True
@@ -1737,8 +1737,8 @@ daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
-daimler_truck,*.freightliner.com,False
 daimler_truck,*.bharatbenz.com,False
+daimler_truck,*.freightliner.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*fleetboard.com,False
@@ -2680,8 +2680,8 @@ kolesagroup,app.avtoelon.uz,True
 kolesagroup,avtoelon.uz,True
 kolesagroup,m.krisha.kz,True
 kolesagroup,id.avtoelon.uz,True
-kolesagroup,kolesa.kz,True
 kolesagroup,m.avtoelon.uz,True
+kolesagroup,kolesa.kz,True
 kolesagroup,m.kolesa.kz,True
 kolesagroup,app.krisha.kz,True
 kolesagroup,api.avtoelon.uz,True
@@ -4515,8 +4515,8 @@ mars,*.royalcanin.fr,False
 mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,banfieldfoundation.org,False
-mars,*.pedigree.com,False
 mars,*.royalcanin.ca,False
+mars,*.pedigree.com,False
 mars,*.marschocolate.com,False
 mars,*.dovechocolate.com,False
 mars,*.royal-canin.com,False
