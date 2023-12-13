@@ -2682,8 +2682,8 @@ kolesagroup,m.krisha.kz,True
 kolesagroup,id.avtoelon.uz,True
 kolesagroup,m.avtoelon.uz,True
 kolesagroup,kolesa.kz,True
-kolesagroup,m.kolesa.kz,True
 kolesagroup,app.krisha.kz,True
+kolesagroup,m.kolesa.kz,True
 kolesagroup,api.avtoelon.uz,True
 kolesagroup,krisha.kz,True
 kolesagroup,kolesa.kz,True
@@ -10139,8 +10139,8 @@ gitlab,*.gitlap.com,True
 gitlab,customers.gitlab.com,True
 gitlab,docs.gitlab.com,True
 gitlab,about.gitlab.com,True
-gitlab,*.gitlab.org,True
 gitlab,gitlab.com,True
+gitlab,*.gitlab.org,True
 gitlab,*.gitlab.net,True
 gitlab,*.gitlab.org,True
 gitlab,*.gitlap.com,True
@@ -10273,9 +10273,9 @@ shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10604,8 +10604,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True
@@ -10769,8 +10769,8 @@ security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
 security,app.pullrequest.com,True
 security,cover-photos.hackerone-user-content.com,True
-security,hackerone.live,True
 security,errors.hackerone.net,True
+security,hackerone.live,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True

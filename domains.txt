@@ -2681,8 +2681,8 @@ m.krisha.kz
 id.avtoelon.uz
 m.avtoelon.uz
 kolesa.kz
-m.kolesa.kz
 app.krisha.kz
+m.kolesa.kz
 api.avtoelon.uz
 krisha.kz
 kolesa.kz
@@ -10138,8 +10138,8 @@ advisories.gitlab.com
 customers.gitlab.com
 docs.gitlab.com
 about.gitlab.com
-*.gitlab.org
 gitlab.com
+*.gitlab.org
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -10272,9 +10272,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -10603,8 +10603,8 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 twitterflightschool.com
-x.com
 *.twitter.com
+x.com
 t.co
 grok.x.ai
 *.twimg.com
@@ -10768,8 +10768,8 @@ profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
-hackerone.live
 errors.hackerone.net
+hackerone.live
 hackerone.com
 api.hackerone.com
 www.hackerone.com
