@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 13 05:18:22 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec 13 05:40:32 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
@@ -83,8 +83,8 @@ secure-supply-xml.booking.com
 widget.rentalcars.com
 webhooks.booking.com
 secure.booking.com
-cars.booking.com
 account.booking.com
+cars.booking.com
 booking.com
 secure.booking.com
 careers.booking.com
@@ -421,8 +421,8 @@ api.tideplatform.in
 www.tide.co
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
-accounts.firefox.com
 firefox.settings.services.mozilla.com
+accounts.firefox.com
 merino.services.mozilla.com
 push.services.mozilla.com
 sync.services.mozilla.com
