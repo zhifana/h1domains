@@ -1,7 +1,7 @@
 research.23andme.com
 mediacenter.23andme.com
-www.lemonaidhealth.com
 clinic.lemonaidhealth.com
+www.lemonaidhealth.com
 education.23andme.com
 store.23andme.com
 pd-api.polkadoc.com
@@ -76,8 +76,8 @@ portal.taxi.booking.com
 distribution-xml.booking.com
 accommodations.booking.com
 phone-validation.taxi.booking.com
-taxis.booking.com
 *.rentalcars.com
+taxis.booking.com
 taxi.booking.com
 autocomplete.booking.com
 secure-supply-xml.booking.com
@@ -86,9 +86,9 @@ paymentcomponent.booking.com
 paynotifications.booking.com
 webhooks.booking.com
 secure.booking.com
-cars.booking.com
 paybridge.booking.com
 account.booking.com
+cars.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -2942,9 +2942,9 @@ api.fastly.com
 manage.fastly.com
 api.fastly.com
 docs.fastly.com
-cargo.indrive.com
 ab-platform-api.eu-east-1.indriverapp.com
 *.indrive.com
+cargo.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -7996,8 +7996,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
+gatewaydsaptst1.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
