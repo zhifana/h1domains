@@ -1,7 +1,7 @@
 mediacenter.23andme.com
 research.23andme.com
-www.lemonaidhealth.com
 clinic.lemonaidhealth.com
+www.lemonaidhealth.com
 education.23andme.com
 store.23andme.com
 pd-api.polkadoc.com
