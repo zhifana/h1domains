@@ -1,7 +1,7 @@
 research.23andme.com
 www.lemonaidhealth.com
-clinic.lemonaidhealth.com
 mediacenter.23andme.com
+clinic.lemonaidhealth.com
 education.23andme.com
 store.23andme.com
 pd-api.polkadoc.com
@@ -2079,8 +2079,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
+gatewaydsaptst1.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
