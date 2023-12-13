@@ -9,8 +9,8 @@ handle,domain,eligible_for_bounty
 23andme_bbp,sapi-live.lh.us-west-2.prd.23andme.us,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,blog.23andme.com,True
-23andme_bbp,auth.23andme.com,True
 23andme_bbp,you.23andme.com,True
+23andme_bbp,auth.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -4528,7 +4528,7 @@ mars,*.rcpracownik.pl,False
 mars,*.royalcanin.sk,False
 mars,*.tradetermsrc.com,False
 mars,*.wikichien.fr,False
-mars,*.plataformaurinary.com,False
+mars,*.bluepearlvet.com,False
 mars,*.mars.com,False
 mars,*.marschocolate.com,False
 mars,*.mms.com,False
