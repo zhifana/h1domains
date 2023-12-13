@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 13 19:42:14 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec 13 20:19:40 UTC 2023)
 ```
 mediacenter.23andme.com
 research.23andme.com
@@ -2107,8 +2107,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-reservations.all-inclusive.marriott.com
 gatewaydsaptst1.marriott.com
+reservations.all-inclusive.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
@@ -2360,8 +2360,8 @@ developers.smartsheet.com
 blog.creditkarma.com
 support.creditkarma.ca
 accounts.creditkarma.com
-www.creditkarma.ca
 api.creditkarma.com
+www.creditkarma.ca
 accounts.creditkarma.com
 www.creditkarma.ca
 api.creditkarma.com
@@ -3408,8 +3408,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 *.shopify.com
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

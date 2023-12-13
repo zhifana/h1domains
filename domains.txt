@@ -4493,7 +4493,6 @@ banfield.us
 *.individualis.com
 *.royalcanin.pt
 *.banfield.com
-*.orbitgum.com
 *.extragum.com
 *.monespaceeleveur.fr
 *.myroyalcanin.hu
@@ -4505,6 +4504,7 @@ banfieldexchange.com
 *.royalcanin.co.uk
 *.jornadasroyalcanin.com.ar
 *.royalcanin.com
+*.orbitgum.com
 *.mms.com
 *.moncse-royalcanin-siege.com
 *.monespaceveto.com
@@ -5878,6 +5878,7 @@ registration.deere.com
 rewards.deere.com
 work-planner.deere.com
 techpubs.deere.com
+anubhutiapis.channel-dss-r1-anubhuti-prod-vpn.ap.e06.c01.johndeerecloud.com
 dealerlocator.deere.com
 powerplan.deere.com
 products.deere.com
@@ -6007,9 +6008,11 @@ learn.harvestprofit.com
 swag.harvestprofit.com
 www.harvestprofit.com
 parts.waratah.com
+anubhutiapi.deere.com
 equipment.deere.com
 contest.deere.com
 vision.johndeere.com
+simfrontend.channel-dss-r1-anubhuti-devl-vpn.ap.e06.c01.johndeerecloud.com
 site.marksman.surefireag.com
 surefireag.surefireag.com
 toolbox.surefireag.com
@@ -6017,6 +6020,7 @@ site.staging.marksman.surepointag.com
 staging.core.surepointag.com
 staging.marksman.surepointag.com
 www.surepointelectronics.com
+anubhutiuat.deere.com
 vision-staging.johndeere.com
 droneci.deere.com
 dev-qdrant.isg-aa-comp-vision-training-devl-standalone2.us.e01.c01.johndeerecloud.com
@@ -6086,6 +6090,7 @@ vision-devl.deere.com/
 operationscenter.deere.com
 pages.deere.com
 satpredictor2.deere.com
+anubhutiuatapis.deere.com
 *.reckoproduction.com
 *.stripe.com
 *.recko.io
@@ -7996,8 +8001,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-reservations.all-inclusive.marriott.com
 gatewaydsaptst1.marriott.com
+reservations.all-inclusive.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
@@ -9114,8 +9119,8 @@ www.starlingbank.com
 blog.creditkarma.com
 support.creditkarma.ca
 accounts.creditkarma.com
-www.creditkarma.ca
 api.creditkarma.com
+www.creditkarma.ca
 accounts.creditkarma.com
 www.creditkarma.ca
 api.creditkarma.com
@@ -10273,8 +10278,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 *.shopify.com
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
