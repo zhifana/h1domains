@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 14 02:01:40 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec 14 02:29:11 UTC 2023)
 ```
 research.23andme.com
 clinic.lemonaidhealth.com
