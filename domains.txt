@@ -14,8 +14,8 @@ pd-api.polkadoc.com
 sapi-live.lh.us-west-2.prd.23andme.us
 api.23andme.com
 auth.23andme.com
-you.23andme.com
 blog.23andme.com
+you.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -3060,13 +3060,13 @@ abb.com.br
 *.abb
 *.stratus.abb.com
 *.cirrus.abb.com
-*.ch.abb.com
 *.motion.abb.com
 *.abb.de
 *.abb.ca
 *.abb.net
 *.abb.pl
 *.busch-jaeger.de
+*.ch.abb.com
 *.abb.com
 *.abb
 *.tnb.com
@@ -10299,9 +10299,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
