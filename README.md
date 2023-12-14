@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 14 18:42:37 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec 14 19:16:54 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
@@ -2564,8 +2564,8 @@ m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
 *racing.fanduel.com
-*.fanduel.com
 tvg.com
+*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
