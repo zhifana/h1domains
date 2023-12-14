@@ -5,8 +5,8 @@ reader.vdp-egress.com
 switch.vdp-egress.com
 www.egress.com
 research.23andme.com
-mediacenter.23andme.com
 www.lemonaidhealth.com
+mediacenter.23andme.com
 clinic.lemonaidhealth.com
 education.23andme.com
 store.23andme.com
@@ -4512,9 +4512,9 @@ banfield.us
 *.myroyalcanin.gr
 *.royalcanin.be
 *.mivetshop.com.ar
-*.individualis.com
 *.royalcanin.pt
 *.banfield.com
+*.individualis.com
 *.extragum.com
 *.monespaceeleveur.fr
 *.myroyalcanin.hu
