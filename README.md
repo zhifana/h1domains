@@ -2,11 +2,11 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 14 23:18:59 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec 14 23:40:08 UTC 2023)
 ```
 research.23andme.com
-www.lemonaidhealth.com
 mediacenter.23andme.com
+www.lemonaidhealth.com
 clinic.lemonaidhealth.com
 pd-api.polkadoc.com
 education.23andme.com
@@ -1673,10 +1673,10 @@ tiktok.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 business.tiktok.com
-*.tiktokv.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktok.com
+*.tiktokv.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -3769,9 +3769,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone-user-content.com
 api.hackerone.com
 hackerone.com
+hackerone-user-content.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
