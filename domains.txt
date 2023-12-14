@@ -3629,8 +3629,8 @@ patient.propellerhealth.biz
 resmed.co.in
 resmed.es
 www.citushealth.com
-careers.resmed.com
 resmed.com.cn
+careers.resmed.com
 myair.resmed.com
 resmed.hk
 resmed.de
@@ -8001,8 +8001,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
+gatewaydsaptst1.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
