@@ -10144,8 +10144,8 @@ gitlab,*.gitlap.com,True
 gitlab,customers.gitlab.com,True
 gitlab,docs.gitlab.com,True
 gitlab,about.gitlab.com,True
-gitlab,gitlab.com,True
 gitlab,*.gitlab.org,True
+gitlab,gitlab.com,True
 gitlab,*.gitlab.net,True
 gitlab,*.gitlab.org,True
 gitlab,*.gitlap.com,True
@@ -10608,9 +10608,9 @@ greenhouse,interseller.io,True
 greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
-x,twitterflightschool.com,False
 x,*.twitter.com,True
 x,x.com,True
+x,twitterflightschool.com,False
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True
@@ -10755,8 +10755,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,hackerone.com,True
 security,api.hackerone.com,True
+security,hackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,www.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
