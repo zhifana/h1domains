@@ -2,20 +2,20 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 14 21:17:48 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec 14 21:40:25 UTC 2023)
 ```
-www.lemonaidhealth.com
 research.23andme.com
 mediacenter.23andme.com
 clinic.lemonaidhealth.com
+www.lemonaidhealth.com
 pd-api.polkadoc.com
 education.23andme.com
 store.23andme.com
 sapi-live.lh.us-west-2.prd.23andme.us
 api.23andme.com
 auth.23andme.com
-you.23andme.com
 blog.23andme.com
+you.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -1378,9 +1378,9 @@ cloud.elastic.co
 js.stripe.com
 app.taxjar.com
 *.reckostaging.com
-*.getbouncer.com
 api.taxjar.com
 api.stripe.com
+*.getbouncer.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
