@@ -1215,11 +1215,11 @@ alshaya,bathandbodyworks.ro/,False
 alshaya,bathandbodyworks.ro,False
 alshaya,shayakahve.com.tr,False
 alshaya,*.mothercare.com.eg,False
-alshaya,*.victoriassecret.com.qa,False
 alshaya,*.americaneagle.com.kw,False
 alshaya,*.alshayaenterprises.com,False
 alshaya,*.starbuckscardtr.com,False
 alshaya,card.starbucks.com.kz,False
+alshaya,*.victoriassecret.com.qa,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,kw.hm.com,False
 alshaya,kw.cosstores.com,False
@@ -8002,8 +8002,8 @@ marriott,mgs.marriott.com,True
 marriott,www.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,activities.marriott.com,True
-marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
+marriott,gatewaydsaptst1.marriott.com,True
 marriott,jobs.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
@@ -10298,8 +10298,8 @@ snapchat,create.snapchat.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,businesshelp.snapchat.com,True
 snapchat,ads.snapchat.com,True
-snapchat,forum.playcanvas.com,True
 snapchat,accounts.snapchat.com,True
+snapchat,forum.playcanvas.com,True
 snapchat,scan.snapchat.com,True
 snapchat,blog.playcanvas.com,True
 snapchat,relay.playcanvas.com,True

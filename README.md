@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 14 02:29:11 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec 14 02:46:05 UTC 2023)
 ```
 research.23andme.com
 clinic.lemonaidhealth.com
@@ -2107,8 +2107,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
+gatewaydsaptst1.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
@@ -3427,8 +3427,8 @@ create.snapchat.com
 msg.playcanvas.com
 businesshelp.snapchat.com
 ads.snapchat.com
-forum.playcanvas.com
 accounts.snapchat.com
+forum.playcanvas.com
 scan.snapchat.com
 blog.playcanvas.com
 relay.playcanvas.com

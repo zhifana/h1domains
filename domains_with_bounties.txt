@@ -2101,8 +2101,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
+gatewaydsaptst1.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
@@ -3421,8 +3421,8 @@ create.snapchat.com
 msg.playcanvas.com
 businesshelp.snapchat.com
 ads.snapchat.com
-forum.playcanvas.com
 accounts.snapchat.com
+forum.playcanvas.com
 scan.snapchat.com
 blog.playcanvas.com
 relay.playcanvas.com
