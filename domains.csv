@@ -42,10 +42,10 @@ mercadolibre,www.mercadolibre.com.uy,True
 mercadolibre,www.mercadolivre.com.br,True
 mercadolibre,www.mercadopago.com.pe,True
 mercadolibre,www.mercadopago.com.co,True
-mercadolibre,www.mercadolibre.com.ar,True
 mercadolibre,www.mercadolibre.com.co,True
 mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,api.mercadopago.com,True
+mercadolibre,www.mercadolibre.com.ar,True
 mercadolibre,www.mercadopago.com.mx,True
 mercadolibre,api.mercadolibre.com,True
 mercadolibre,www.mercadopago.com.br,True
@@ -3191,8 +3191,8 @@ s-pankki,api.sokos.fi,True
 s-pankki,cfapi.voikukka.fi,True
 kiwicom,jobs.kiwi.com,True
 kiwicom,auth.skypicker.com,True
-kiwicom,*.kiwi.com,True
 kiwicom,*.skypicker.com,True
+kiwicom,*.kiwi.com,True
 kiwicom,www.kiwi.com,True
 kiwicom,tequila.kiwi.com,True
 kiwicom,*.kiwi.com,True
@@ -3306,7 +3306,6 @@ kkr_vdp,ksam.com,False
 8x8-bounty,user-profile.8x8.com,True
 8x8-bounty,sms.8x8.com,True
 8x8-bounty,*.wavecell.com,True
-8x8-bounty,admin.8x8.com,True
 8x8-bounty,*.8x8.vc,True
 8x8-bounty,*.jit.si,True
 8x8-bounty,*.jitsi.net,True
@@ -10789,9 +10788,9 @@ security,profile-photos.hackerone-user-content.com,True
 security,reviewer.pullrequest.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
-security,ctf.hacker101.com,True
 security,www.hackerone.com,True
 security,hackerone-ext-content.com,True
+security,ctf.hacker101.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
 security,hackerone.live,True
