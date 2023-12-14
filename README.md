@@ -2,11 +2,11 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 14 02:46:05 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec 14 03:19:30 UTC 2023)
 ```
 research.23andme.com
-clinic.lemonaidhealth.com
 mediacenter.23andme.com
+clinic.lemonaidhealth.com
 www.lemonaidhealth.com
 pd-api.polkadoc.com
 store.23andme.com
@@ -1660,8 +1660,8 @@ academy-outbound-ads.tiktok.com
 business.tiktok.com
 *.tiktokv.com
 creatormarketplace.tiktok.com
-careers.tiktok.com
 *.tiktok.com
+careers.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -2107,8 +2107,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-reservations.all-inclusive.marriott.com
 gatewaydsaptst1.marriott.com
+reservations.all-inclusive.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
