@@ -3295,8 +3295,8 @@ kkr_vdp,ksam.com,False
 8x8-bounty,user-profile-staging.8x8.com,True
 8x8-bounty,platform.8x8pilot.com,True
 8x8-bounty,*.jit.si,True
-8x8-bounty,cloud8.8x8.com,True
 8x8-bounty,*.8x8.id,True
+8x8-bounty,cloud8.8x8.com,True
 8x8-bounty,*.8x8staging.com,True
 8x8-bounty,platform.8x8.com,True
 8x8-bounty,voapi.8x8.com,True
@@ -6172,10 +6172,10 @@ homebargains,hackerone-m1rtuq8orz.hbstaging.website,True
 aig,www-264.aig.com,False
 aig,www.vfis.com,False
 aig,www.glatfelters.com,False
-aig,www.layahealthcare.ie,False
 aig,www.lifeandretirement.aig.com,False
 aig,*.corebridgefinancial.com,False
 aig,www.rapidcover.ie,False
+aig,www.layahealthcare.ie,False
 aig,*.myretirementmanager.com,False
 aig,www-1008.aig.com,False
 aig,www.travelguard.com,False
@@ -8242,10 +8242,10 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,get8x8.com,False
 8x8,*.easycontactnow.com,False
 8x8,*.thinkingphones.com,False
-8x8,admin.8x8.com,False
 8x8,connect.8x8.com,False
 8x8,*.8x8cloud.net,False
 8x8,*.8x8.com,False
+8x8,admin.8x8.com,False
 8x8,*.fuze.com,False
 8x8,*.thinkingphones.net,False
 8x8,sms.8x8.com,False
@@ -9387,8 +9387,8 @@ paypal,scrutiny.swiftfinancial.com,True
 paypal,paypal.me,True
 paypal,*.hyperwallet.com,True
 paypal,my.loanbuilder.com,True
-paypal,*.paypal.com,True
 paypal,*.venmo.com,True
+paypal,*.paypal.com,True
 paypal,pigeon.swiftfinancial.com,True
 paypal,*.paydiant.com,True
 paypal,*.braintree.tools,True
