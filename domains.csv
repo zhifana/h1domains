@@ -70,8 +70,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,admin.booking.com,True
-bookingcom,*.booking.com,True
 bookingcom,booking.com,True
+bookingcom,*.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
@@ -2679,9 +2679,9 @@ kolesagroup,id.kolesa.kz,True
 kolesagroup,app.avtoelon.uz,True
 kolesagroup,avtoelon.uz,True
 kolesagroup,m.krisha.kz,True
-kolesagroup,id.avtoelon.uz,True
 kolesagroup,m.avtoelon.uz,True
 kolesagroup,kolesa.kz,True
+kolesagroup,id.avtoelon.uz,True
 kolesagroup,app.krisha.kz,True
 kolesagroup,m.kolesa.kz,True
 kolesagroup,api.avtoelon.uz,True
@@ -7441,8 +7441,8 @@ figma,www.figma.com,True
 figma,api.figma.com,True
 cs_money,wiki.cs.money,True
 cs_money,support.cs.money,True
-cs_money,3d.cs.money,True
 cs_money,cs.money,True
+cs_money,3d.cs.money,True
 cs_money,cs.money,True
 cs_money,support.cs.money,True
 cs_money,wiki.cs.money,True

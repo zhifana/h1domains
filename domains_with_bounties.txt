@@ -69,8 +69,8 @@ supplier.auth.toag.booking.com
 flights.booking.com
 supply-xml.booking.com
 admin.booking.com
-*.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -391,9 +391,9 @@ id.kolesa.kz
 app.avtoelon.uz
 avtoelon.uz
 m.krisha.kz
-id.avtoelon.uz
 m.avtoelon.uz
 kolesa.kz
+id.avtoelon.uz
 app.krisha.kz
 m.kolesa.kz
 api.avtoelon.uz
@@ -1702,8 +1702,8 @@ www.figma.com
 api.figma.com
 wiki.cs.money
 support.cs.money
-3d.cs.money
 cs.money
+3d.cs.money
 cs.money
 support.cs.money
 wiki.cs.money
