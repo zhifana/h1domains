@@ -6,8 +6,8 @@ switch.vdp-egress.com
 www.egress.com
 research.23andme.com
 mediacenter.23andme.com
-www.lemonaidhealth.com
 clinic.lemonaidhealth.com
+www.lemonaidhealth.com
 store.23andme.com
 education.23andme.com
 pd-api.polkadoc.com
@@ -6356,7 +6356,6 @@ brand.zebra.com
 creative.zebra.com
 greece.zebra.com
 zsbsupport.zebra.com
-*.zebrasports.com
 *.zams-eu.zebra.com
 downloads.zebra.com
 *.zams.zebra.com
@@ -6364,6 +6363,7 @@ supportcommunity.zebra.com
 cmm01.sl.zebra.com
 *.profitect.com
 reflexisinc.com/
+*.zebrasports.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
