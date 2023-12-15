@@ -132,8 +132,8 @@ bybit_fintech,*.bybit.com,True
 bybit_fintech,*.bybit.com,True
 navient_solutions,myaccount.navirefi.com,False
 navient_solutions,wsmb2bresv.navient.com,False
-navient_solutions,www.pamcollections.com,False
 navient_solutions,admin.msbnexus.navient.com,False
+navient_solutions,www.pamcollections.com,False
 navient_solutions,sandiegoadmin.dsmyportal.com,False
 navient_solutions,payments.msbpay.navient.com,False
 navient_solutions,www.msbpay.com,False
@@ -8068,8 +8068,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.roblox.com,True
 roblox,*.guilded.gg,True
+roblox,*.roblox.com,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
