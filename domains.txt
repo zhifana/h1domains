@@ -5,9 +5,9 @@ reader.vdp-egress.com
 switch.vdp-egress.com
 www.egress.com
 research.23andme.com
-clinic.lemonaidhealth.com
 mediacenter.23andme.com
 www.lemonaidhealth.com
+clinic.lemonaidhealth.com
 pd-api.polkadoc.com
 education.23andme.com
 store.23andme.com
@@ -2960,8 +2960,8 @@ ingest.clairvoyance.indrive.tech
 new-order.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
 *.indriver.com
-ci.indrive.dev
 argocd.indrive.dev
+ci.indrive.dev
 priority.eu-east-1.indriverapp.com
 *.indriverapp.com
 watchdocs.indriverapp.com
@@ -3190,8 +3190,8 @@ api.sokos.fi
 cfapi.voikukka.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
