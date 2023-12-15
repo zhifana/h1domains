@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec 15 10:43:14 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec 15 11:16:33 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
-www.lemonaidhealth.com
 clinic.lemonaidhealth.com
+www.lemonaidhealth.com
 pd-api.polkadoc.com
 education.23andme.com
 store.23andme.com
@@ -549,8 +549,8 @@ ingest.clairvoyance.indrive.tech
 new-order.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
 *.indriver.com
-argocd.indrive.dev
 ci.indrive.dev
+argocd.indrive.dev
 priority.eu-east-1.indriverapp.com
 *.indriverapp.com
 watchdocs.indriverapp.com
@@ -3541,8 +3541,8 @@ next.airbnb.com
 *.hoteltonight-test.com
 *.airbnbcitizen.com
 *.muscache.com
-*.airbnb.com
 www.hoteltonight.com
+*.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
