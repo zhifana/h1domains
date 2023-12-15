@@ -4657,8 +4657,8 @@ wiki.1337.or.id
 we.windstream.com
 *broadviewnet.com
 paetec.net
-*.windstreamsmallbusiness.com
 www.windstream.com
+*.windstreamsmallbusiness.com
 *.windstreamsmallbusiness.com
 *broadviewnet.com
 https://www.windstream.com/gokinetic
@@ -10299,8 +10299,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 *.shopify.com
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
