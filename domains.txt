@@ -9,8 +9,8 @@ mediacenter.23andme.com
 www.lemonaidhealth.com
 clinic.lemonaidhealth.com
 store.23andme.com
-education.23andme.com
 pd-api.polkadoc.com
+education.23andme.com
 sapi-live.lh.us-west-2.prd.23andme.us
 api.23andme.com
 blog.23andme.com
