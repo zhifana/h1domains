@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec 15 05:18:04 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec 15 05:40:35 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
@@ -35,10 +35,10 @@ research.23andme.com
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
 www.mercadopago.cl
-www.mercadolibre.com.mx
 www.mercadolibre.cl
 www.mercadolibre.com.uy
 www.mercadolivre.com.br
+www.mercadolibre.com.mx
 www.mercadopago.com.pe
 www.mercadopago.com.co
 www.mercadolibre.com.co
@@ -549,8 +549,8 @@ ingest.clairvoyance.indrive.tech
 new-order.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
 *.indriver.com
-argocd.indrive.dev
 ci.indrive.dev
+argocd.indrive.dev
 priority.eu-east-1.indriverapp.com
 *.indriverapp.com
 watchdocs.indriverapp.com
@@ -1890,9 +1890,9 @@ transact.playstation.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
-*.playstation.net
 my.account.sony.com
 ca.account.sony.com
+*.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com

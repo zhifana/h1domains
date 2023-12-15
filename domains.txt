@@ -35,10 +35,10 @@ research.23andme.com
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
 www.mercadopago.cl
-www.mercadolibre.com.mx
 www.mercadolibre.cl
 www.mercadolibre.com.uy
 www.mercadolivre.com.br
+www.mercadolibre.com.mx
 www.mercadopago.com.pe
 www.mercadopago.com.co
 www.mercadolibre.com.co
@@ -2960,8 +2960,8 @@ ingest.clairvoyance.indrive.tech
 new-order.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
 *.indriver.com
-argocd.indrive.dev
 ci.indrive.dev
+argocd.indrive.dev
 priority.eu-east-1.indriverapp.com
 *.indriverapp.com
 watchdocs.indriverapp.com
@@ -7684,9 +7684,9 @@ transact.playstation.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
-*.playstation.net
 my.account.sony.com
 ca.account.sony.com
+*.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
