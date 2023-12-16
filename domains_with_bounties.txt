@@ -1,7 +1,7 @@
 research.23andme.com
 mediacenter.23andme.com
-education.23andme.com
 store.23andme.com
+education.23andme.com
 api.23andme.com
 blog.23andme.com
 auth.23andme.com
@@ -3396,10 +3396,10 @@ rt.playcanvas.com
 store.snapchat.com
 www.bitmoji.com
 my.snapchat.com
-snappublisher.snapchat.com
 business.snapchat.com
 app.snapchat.com
 playcanvas.com
+snappublisher.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com

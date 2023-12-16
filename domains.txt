@@ -6,8 +6,8 @@ switch.vdp-egress.com
 www.egress.com
 research.23andme.com
 mediacenter.23andme.com
-education.23andme.com
 store.23andme.com
+education.23andme.com
 api.23andme.com
 blog.23andme.com
 auth.23andme.com
@@ -6353,9 +6353,9 @@ downloads.zebra.com
 *.zams.zebra.com
 supportcommunity.zebra.com
 cmm01.sl.zebra.com
+*.zebrasports.com
 *.profitect.com
 reflexisinc.com/
-*.zebrasports.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -10280,10 +10280,10 @@ rt.playcanvas.com
 store.snapchat.com
 www.bitmoji.com
 my.snapchat.com
-snappublisher.snapchat.com
 business.snapchat.com
 app.snapchat.com
 playcanvas.com
+snappublisher.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
