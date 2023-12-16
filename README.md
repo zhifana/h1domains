@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec 16 03:40:20 UTC 2023)
+## Domains with Bounties (Last Updated Sat Dec 16 04:18:59 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
@@ -541,8 +541,8 @@ ingest.clairvoyance.indrive.tech
 new-order.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
 *.indriver.com
-ci.indrive.dev
 argocd.indrive.dev
+ci.indrive.dev
 priority.eu-east-1.indriverapp.com
 *.indriverapp.com
 watchdocs.indriverapp.com
