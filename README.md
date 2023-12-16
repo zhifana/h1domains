@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec 16 10:38:57 UTC 2023)
+## Domains with Bounties (Last Updated Sat Dec 16 11:14:43 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
@@ -2114,9 +2114,9 @@ www.marriott.com
 gatewaydsaptst2.marriott.com
 activities.marriott.com
 jobs.marriott.com
-gatewaydsaptst1.marriott.com
 dcfgatewaytst1.marriott.com
 reservations.all-inclusive.marriott.com
+gatewaydsaptst1.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 www.ritzcarlton.com
