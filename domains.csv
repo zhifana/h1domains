@@ -1584,8 +1584,8 @@ redox_bbp,dashboard.gamma.redoxstage.com,True
 redox_bbp,help.redoxengine.com,True
 redox_bbp,eets.gamma.redoxstage.com,True
 redox_bbp,webhooks.gamma.redoxstage.com,True
-redox_bbp,testapp.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
+redox_bbp,testapp.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
 redox_bbp,api.gamma.redoxstage.com,True
 redox_bbp,gamma.redoxstage.com,True
@@ -4940,8 +4940,8 @@ anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.corcoran.*,False
 anywhererealestate,*.realogy.*,False
 anywhererealestate,*.mycbdesk.com,False
-anywhererealestate,*.cbcworldwide.*,False
 anywhererealestate,*.coldwellbanker.*,False
+anywhererealestate,*.cbcworldwide.*,False
 anywhererealestate,new.myzap.com,False
 anywhererealestate,*.anywhere.re,False
 anywhererealestate,*.realogy.*,False
@@ -6319,8 +6319,8 @@ aktia,mobile-auth.aktia.fi,False
 aktia,*.aktiawallet.fi,False
 aktia,investors.aktia.com,False
 aktia,impakti.fi,False
-aktia,*.aktia.fi,False
 aktia,www.aktiawallet.fi,False
+aktia,*.aktia.fi,False
 aktia,varainhoito.aktia.fi,False
 aktia,aktiawallet.fi,False
 aktia,store.aktiawallet.fi,False
@@ -7869,8 +7869,8 @@ alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
 alibaba,*.aliexpress.com,True
 alibaba,*.1688.com,True
-alibaba,*.aliyun.com,True
 alibaba,*.Daraz.com,True
+alibaba,*.aliyun.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True

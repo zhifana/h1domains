@@ -1583,8 +1583,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-testapp.redoxengine.com
 10x.redoxengine.com
+testapp.redoxengine.com
 docs.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
@@ -4939,8 +4939,8 @@ www.alohi.com
 *.corcoran.*
 *.realogy.*
 *.mycbdesk.com
-*.cbcworldwide.*
 *.coldwellbanker.*
+*.cbcworldwide.*
 new.myzap.com
 *.anywhere.re
 *.realogy.*
@@ -6318,8 +6318,8 @@ mobile-auth.aktia.fi
 *.aktiawallet.fi
 investors.aktia.com
 impakti.fi
-*.aktia.fi
 www.aktiawallet.fi
+*.aktia.fi
 varainhoito.aktia.fi
 aktiawallet.fi
 store.aktiawallet.fi
@@ -7868,8 +7868,8 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.com
 *.1688.com
-*.aliyun.com
 *.Daraz.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
