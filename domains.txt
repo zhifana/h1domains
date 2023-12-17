@@ -10374,9 +10374,9 @@ nicetryapril.na1.echosignsandbox.com
 repo.magento.com
 magento.com
 exchange.adobe.com
-*.adobeaemcloud.com
 auth.services.adobe.com
 *.adobe.com
+*.adobeaemcloud.com
 *.tt.omtrdc.net
 *.omniture.com
 *.typekit.com
