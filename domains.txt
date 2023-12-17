@@ -3429,8 +3429,8 @@ www.cheaptickets.com
 www.travelocity.ca
 www.carrentals.com
 www.bookabach.co.nz
-www.expedia.com
 www.fewo-direkt.de
+www.expedia.com
 www.expediapartnercentral.com
 www.ebookers.fi
 www.stayz.com.au
@@ -3530,8 +3530,8 @@ thailand.airasiago.com
 http://www.cruiseshipcenters.com/api/searchcenter
 eng.magiceden.io
 *.magiceden.workers.dev
-*.magiceden.io
 eng.magiceden.dev
+*.magiceden.io
 magiceden.io
 *.magiceden.dev
 magiceden.io

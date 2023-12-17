@@ -3430,8 +3430,8 @@ expediagroup_bbp,www.cheaptickets.com,True
 expediagroup_bbp,www.travelocity.ca,True
 expediagroup_bbp,www.carrentals.com,True
 expediagroup_bbp,www.bookabach.co.nz,True
-expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,www.fewo-direkt.de,True
+expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,www.expediapartnercentral.com,True
 expediagroup_bbp,www.ebookers.fi,True
 expediagroup_bbp,www.stayz.com.au,True
@@ -3531,8 +3531,8 @@ expediagroup,thailand.airasiago.com,False
 expediagroup,http://www.cruiseshipcenters.com/api/searchcenter,False
 magic-eden,eng.magiceden.io,False
 magic-eden,*.magiceden.workers.dev,True
-magic-eden,*.magiceden.io,True
 magic-eden,eng.magiceden.dev,False
+magic-eden,*.magiceden.io,True
 magic-eden,magiceden.io,True
 magic-eden,*.magiceden.dev,True
 magic-eden,magiceden.io,True
