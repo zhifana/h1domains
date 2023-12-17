@@ -10376,8 +10376,8 @@ repo.magento.com
 magento.com
 exchange.adobe.com
 auth.services.adobe.com
-*.adobe.com
 *.adobeaemcloud.com
+*.adobe.com
 *.tt.omtrdc.net
 *.omniture.com
 *.typekit.com

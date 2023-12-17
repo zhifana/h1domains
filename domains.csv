@@ -10377,8 +10377,8 @@ adobe,repo.magento.com,True
 adobe,magento.com,True
 adobe,exchange.adobe.com,False
 adobe,auth.services.adobe.com,False
-adobe,*.adobe.com,False
 adobe,*.adobeaemcloud.com,False
+adobe,*.adobe.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.omniture.com,False
 adobe,*.typekit.com,False
