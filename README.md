@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 17 16:19:35 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec 17 16:43:14 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
@@ -12,8 +12,8 @@ you.23andme.com
 auth.23andme.com
 api.23andme.com
 blog.23andme.com
-therapeutics.23andme.com
 medical.23andme.com
+therapeutics.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -3494,8 +3494,8 @@ next.airbnb.com
 *.airbnbcitizen.com
 *.muscache.com
 www.hoteltonight.com
-*.hoteltonight-test.com
 *.airbnb.com
+*.hoteltonight-test.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
