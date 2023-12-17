@@ -9974,11 +9974,11 @@ www.starbucksreserve.com
 www.starbucks.co.uk
 www.starbucks.com.br
 card.starbucks.com.sg
-secureui.starbucks.com
 www.starbucks.de
 www.starbucks.com.sg
 www.starbucks.com
 app.starbucks.com
+secureui.starbucks.com
 www.starbucks.co.jp
 login.starbucks.co.jp
 www.starbucks.com.cn
