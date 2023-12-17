@@ -8023,8 +8023,8 @@ lawmanager.marriott.com
 giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 cpp.marriott.com
-all-inclusive.marriott.com
 www.ritzcarlton.com
+all-inclusive.marriott.com
 *uat.marriott.com
 passwordchallenge.marriott.com
 marrtool.com
@@ -10491,8 +10491,8 @@ next.airbnb.com
 *.airbnbcitizen.com
 *.muscache.com
 www.hoteltonight.com
-*.airbnb.com
 *.hoteltonight-test.com
+*.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com

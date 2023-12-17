@@ -8024,8 +8024,8 @@ marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
 marriott,marriottfranchisetransactions.marriott.com,True
 marriott,cpp.marriott.com,True
-marriott,all-inclusive.marriott.com,True
 marriott,www.ritzcarlton.com,True
+marriott,all-inclusive.marriott.com,True
 marriott,*uat.marriott.com,True
 marriott,passwordchallenge.marriott.com,True
 marriott,marrtool.com,True
@@ -10492,8 +10492,8 @@ airbnb,*.byairbnb.com,True
 airbnb,*.airbnbcitizen.com,True
 airbnb,*.muscache.com,True
 airbnb,www.hoteltonight.com,True
-airbnb,*.airbnb.com,True
 airbnb,*.hoteltonight-test.com,True
+airbnb,*.airbnb.com,True
 airbnb,assets.airbnb.com,True
 airbnb,open.airbnb.com,True
 airbnb,callbacks.airbnb.com,True
