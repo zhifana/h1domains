@@ -12,8 +12,8 @@ api.23andme.com
 blog.23andme.com
 you.23andme.com
 auth.23andme.com
-medical.23andme.com
 therapeutics.23andme.com
+medical.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -1061,8 +1061,8 @@ flatfileui.brokerhub.cbre.com
 flooredproducts.cbre.com
 fmdashboard.cbre.com
 fmsdemo-aws.dev.gcso.cbre.com
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -6353,9 +6353,9 @@ downloads.zebra.com
 *.zams.zebra.com
 supportcommunity.zebra.com
 cmm01.sl.zebra.com
+*.zebrasports.com
 *.profitect.com
 reflexisinc.com/
-*.zebrasports.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -9583,9 +9583,9 @@ www.crypto.com
 *.crypto.com
 tax.crypto.com
 merchant.crypto.com
-app.mona.co
 js.crypto.com
 pay.crypto.com
+app.mona.co
 *.crypto.com
 *.mona.co
 www.crypto.com

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec 18 06:23:16 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec 18 06:42:04 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
@@ -12,8 +12,8 @@ api.23andme.com
 blog.23andme.com
 you.23andme.com
 auth.23andme.com
-medical.23andme.com
 therapeutics.23andme.com
+medical.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -125,8 +125,8 @@ portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -2792,9 +2792,9 @@ www.crypto.com
 *.crypto.com
 tax.crypto.com
 merchant.crypto.com
-app.mona.co
 js.crypto.com
 pay.crypto.com
+app.mona.co
 *.crypto.com
 *.mona.co
 www.crypto.com
