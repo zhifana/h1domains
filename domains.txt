@@ -10123,8 +10123,8 @@ classroom.github.com
 education.github.com
 npmjs.org
 *.github.net
-*.githubusercontent.com
 gist.github.com
+*.githubusercontent.com
 github.com
 github.com
 api.github.com
