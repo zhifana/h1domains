@@ -8,10 +8,10 @@ mediacenter.23andme.com
 research.23andme.com
 education.23andme.com
 store.23andme.com
+you.23andme.com
+blog.23andme.com
 api.23andme.com
 auth.23andme.com
-blog.23andme.com
-you.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -1214,9 +1214,9 @@ shayakahve.com.tr
 *.americaneagle.com.kw
 *.alshayaenterprises.com
 card.starbucks.com.kz
-*.victoriassecret.com.qa
 *.footlocker.com.eg
 *.starbuckscardtr.com
+*.victoriassecret.com.qa
 boysweb.shaya.com.tr
 kw.hm.com
 kw.cosstores.com
@@ -6023,6 +6023,7 @@ learn.harvestprofit.com
 swag.harvestprofit.com
 www.harvestprofit.com
 parts.waratah.com
+solutionviewer.deere.com
 anubhutiapi.deere.com
 equipment.deere.com
 contest.deere.com

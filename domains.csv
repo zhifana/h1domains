@@ -9,10 +9,10 @@ egress-vdp,www.egress.com,False
 23andme_bbp,research.23andme.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
+23andme_bbp,you.23andme.com,True
+23andme_bbp,blog.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
-23andme_bbp,blog.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -1215,9 +1215,9 @@ alshaya,*.mothercare.com.eg,False
 alshaya,*.americaneagle.com.kw,False
 alshaya,*.alshayaenterprises.com,False
 alshaya,card.starbucks.com.kz,False
-alshaya,*.victoriassecret.com.qa,False
 alshaya,*.footlocker.com.eg,False
 alshaya,*.starbuckscardtr.com,False
+alshaya,*.victoriassecret.com.qa,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,kw.hm.com,False
 alshaya,kw.cosstores.com,False
@@ -6024,6 +6024,7 @@ john-deere,learn.harvestprofit.com,False
 john-deere,swag.harvestprofit.com,False
 john-deere,www.harvestprofit.com,False
 john-deere,parts.waratah.com,False
+john-deere,solutionviewer.deere.com,False
 john-deere,anubhutiapi.deere.com,False
 john-deere,equipment.deere.com,False
 john-deere,contest.deere.com,False
