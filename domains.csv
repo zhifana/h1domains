@@ -7,14 +7,14 @@ egress-vdp,switch.vdp-egress.com,False
 egress-vdp,www.egress.com,False
 23andme_bbp,mediacenter.23andme.com,True
 23andme_bbp,research.23andme.com,True
-23andme_bbp,store.23andme.com,True
 23andme_bbp,education.23andme.com,True
+23andme_bbp,store.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,you.23andme.com,True
-23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
+23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,blog.23andme.com,True
@@ -1523,8 +1523,8 @@ nba-vdp,stats-trafficcop-prod.nba.com,False
 nba-vdp,content-api-prod.nba.com,False
 nba-vdp,identity.nba.com,False
 nba-vdp,teamportal.nba.com,False
-nba-vdp,2kleague.nba.com,False
 nba-vdp,gleague.nba.com,False
+nba-vdp,2kleague.nba.com,False
 nba-vdp,core-api.nba.com,False
 nba-vdp,wnba.com,False
 nba-vdp,nba.com,False
@@ -5494,8 +5494,8 @@ judgeme,woocommerce-adapter.judge.me,True
 judgeme,bigcommerce-adapter.judge.me,True
 judgeme,cache.judge.me,True
 mtb,*.wilmingtontrust.com,False
-mtb,*.mtb.com,False
 mtb,*.leafnow.com,False
+mtb,*.mtb.com,False
 mtb,*.trustnota.com,False
 mtb,*.mtb.com,False
 mtb,*.wilmingtontrust.com,False
@@ -6501,8 +6501,8 @@ reddit,sh.reddit.com,True
 reddit,s.reddit.com,True
 reddit,gateway.reddit.com,True
 reddit,www.spiketrap.io,True
-reddit,*.reddit.com,True
 reddit,ads-api.reddit.com,True
+reddit,*.reddit.com,True
 reddit,*.redditblog.com,True
 reddit,reddit.secure.force.com,True
 reddit,amp.reddit.com,True
@@ -7336,8 +7336,8 @@ tiktok,*.tiktokv.com,True
 tiktok,careers.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,developers.tiktok.com,True
-tiktok,shop.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
+tiktok,shop.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True

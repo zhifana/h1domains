@@ -2,18 +2,18 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec 18 19:15:40 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec 18 19:41:58 UTC 2023)
 ```
 mediacenter.23andme.com
 research.23andme.com
-store.23andme.com
 education.23andme.com
+store.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
 you.23andme.com
-therapeutics.23andme.com
 medical.23andme.com
+therapeutics.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -1406,8 +1406,8 @@ sh.reddit.com
 s.reddit.com
 gateway.reddit.com
 www.spiketrap.io
-*.reddit.com
 ads-api.reddit.com
+*.reddit.com
 *.redditblog.com
 reddit.secure.force.com
 amp.reddit.com
@@ -1670,8 +1670,8 @@ creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktok.com
 developers.tiktok.com
-shop.tiktok.com
 effecthouse.tiktok.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
