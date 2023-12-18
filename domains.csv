@@ -3058,8 +3058,8 @@ abb,*.abb.de,False
 abb,*.abb.ca,False
 abb,*.abb.net,False
 abb,*.abb.pl,False
-abb,*.ch.abb.com,False
 abb,*.busch-jaeger.de,False
+abb,*.ch.abb.com,False
 abb,*.abb.com,False
 abb,*.abb,False
 abb,*.tnb.com,False
@@ -6354,9 +6354,9 @@ zebra_vdp,downloads.zebra.com,False
 zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,cmm01.sl.zebra.com,False
-zebra_vdp,*.zebrasports.com,False
 zebra_vdp,*.profitect.com,False
 zebra_vdp,reflexisinc.com/,False
+zebra_vdp,*.zebrasports.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
