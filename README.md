@@ -2,16 +2,16 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec 18 08:21:44 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec 18 08:44:05 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
 store.23andme.com
 education.23andme.com
 api.23andme.com
-blog.23andme.com
-you.23andme.com
 auth.23andme.com
+you.23andme.com
+blog.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -1878,9 +1878,9 @@ social.playstation.com
 api.direct.playstation.com
 transact.playstation.com
 *.api.playstation.com
-direct.playstation.com
 store.playstation.com
 *.sonyentertainmentnetwork.com
+direct.playstation.com
 my.playstation.com
 my.account.sony.com
 ca.account.sony.com
