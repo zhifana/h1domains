@@ -6353,9 +6353,9 @@ downloads.zebra.com
 *.zams.zebra.com
 supportcommunity.zebra.com
 cmm01.sl.zebra.com
-*.zebrasports.com
 *.profitect.com
 reflexisinc.com/
+*.zebrasports.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -7861,8 +7861,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
 *.tmall.com
-*.alibabacloud.com
 *.alibaba.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
