@@ -6353,8 +6353,8 @@ downloads.zebra.com
 *.zams.zebra.com
 supportcommunity.zebra.com
 cmm01.sl.zebra.com
-*.zebrasports.com
 reflexisinc.com/
+*.zebrasports.com
 *.profitect.com
 zebratradeinprogram.com
 docs.zebra.com
@@ -7354,7 +7354,6 @@ www.pangleglobal.com
 *.lukwerks.com
 buy.logitech.com
 outage.logitech.com
-www.logitech.com.cn
 www.logitechstore.com.br
 alert.logitech.com
 *.crossclip.com
@@ -7362,6 +7361,7 @@ alert.logitech.com
 *.myharmony.com
 www.logitechg.com
 *.logitech.com
+www.logitech.com.cn
 *.streamlabscharity.com
 www.ultimateears.com
 logilife.logitech.com
@@ -10735,9 +10735,9 @@ profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-hackerone-ext-content.com
 ctf.hacker101.com
 www.hackerone.com
+hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 errors.hackerone.net

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec 18 16:23:07 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec 18 16:45:26 UTC 2023)
 ```
 mediacenter.23andme.com
 research.23andme.com
@@ -1686,8 +1686,8 @@ shop.tiktok.com
 live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
 www.pangleglobal.com
-www.logitech.com.cn
 www.logitechg.com
+www.logitech.com.cn
 www.ultimateears.com
 circle.logi.com
 id.logi.com
@@ -3727,9 +3727,9 @@ profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-hackerone-ext-content.com
 ctf.hacker101.com
 www.hackerone.com
+hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 errors.hackerone.net
