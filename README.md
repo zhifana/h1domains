@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec 18 07:18:10 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec 18 07:40:35 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
@@ -66,9 +66,9 @@ careers.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
 admin.booking.com
-booking.com
 *.booking.com
 supply-xml.booking.com
+booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -3575,8 +3575,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com
@@ -3912,9 +3912,9 @@ https://github.com/evolveum/midpoint
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 magentolive.com
 accounts.magento.cloud
-account.magento.com
 repo.magento.com
 magentocommerce.com
+account.magento.com
 u.magento.com
 imagine.magento.com
 magento.com
