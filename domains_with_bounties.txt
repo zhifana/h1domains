@@ -61,8 +61,8 @@ supplier.auth.toag.booking.com
 flights.booking.com
 admin.booking.com
 supply-xml.booking.com
-booking.com
 *.booking.com
+booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -3608,8 +3608,8 @@ simplenote.com
 gravatar.com
 assets.tumblr.com
 intensedebate.com
-wordpress.com
 api.tumblr.com
+wordpress.com
 safe.tumblr.com
 mailpoet.com
 t.umblr.com
