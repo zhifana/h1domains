@@ -6354,8 +6354,8 @@ downloads.zebra.com
 *.zams.zebra.com
 supportcommunity.zebra.com
 cmm01.sl.zebra.com
-reflexisinc.com/
 *.zebrasports.com
+reflexisinc.com/
 *.profitect.com
 zebratradeinprogram.com
 docs.zebra.com
@@ -10198,8 +10198,8 @@ secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.com
 *.deriv.cloud
-oauth.deriv.com
 app.deriv.com
+oauth.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -10247,9 +10247,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 admin.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
