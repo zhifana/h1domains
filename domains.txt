@@ -7870,8 +7870,8 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.com
 *.1688.com
-*.Daraz.com
 *.aliyun.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -8268,8 +8268,8 @@ accountmanager.8x8.com
 work-staging.8x8.com
 express.8x8.com
 *.packet8.net
-*.wavecell.com
 *.jit.si
+*.wavecell.com
 *.ucverse.com
 *.8x8.com
 *.packet8.net
