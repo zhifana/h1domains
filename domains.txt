@@ -65,10 +65,10 @@ kyc-onboarding.booking.com
 careers.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
-admin.booking.com
 supply-xml.booking.com
 *.booking.com
 booking.com
+admin.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -2682,8 +2682,8 @@ id.avtoelon.uz
 kolesa.kz
 app.krisha.kz
 m.kolesa.kz
-api.avtoelon.uz
 krisha.kz
+api.avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -7928,6 +7928,7 @@ osd.myndr.nl
 www.myndr.nl
 developers.cloudways.com
 cloud.digitalocean.com
+unified.cloudways.com
 marketplace.digitalocean.com
 169.254.169.254
 api.cloudways.com
@@ -7952,6 +7953,7 @@ api.cloudways.com
 developers.cloudways.com
 platform.cloudways.com
 www.cloudways.com
+unified.cloudways.com
 content-discovery.picsart.io
 video-api.picsart.io
 demo.sdk.picsart.io
@@ -9100,8 +9102,8 @@ www.bookingholdings.com
 *.capitaloneshopping.com
 developers.smartsheet.com
 help.smartsheet.com
-admin.smartsheet.com
 app.smartsheet.com
+admin.smartsheet.com
 app.smartsheet.com
 http://api.smartsheet.com/2.0
 admin.smartsheet.com

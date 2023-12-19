@@ -66,10 +66,10 @@ bookingcom,kyc-onboarding.booking.com,True
 bookingcom,careers.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,flights.booking.com,True
-bookingcom,admin.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,booking.com,True
+bookingcom,admin.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
@@ -2683,8 +2683,8 @@ kolesagroup,id.avtoelon.uz,True
 kolesagroup,kolesa.kz,True
 kolesagroup,app.krisha.kz,True
 kolesagroup,m.kolesa.kz,True
-kolesagroup,api.avtoelon.uz,True
 kolesagroup,krisha.kz,True
+kolesagroup,api.avtoelon.uz,True
 kolesagroup,kolesa.kz,True
 kolesagroup,m.kolesa.kz,True
 kolesagroup,krisha.kz,True
@@ -7929,6 +7929,7 @@ myndr,osd.myndr.nl,False
 myndr,www.myndr.nl,False
 digitalocean,developers.cloudways.com,False
 digitalocean,cloud.digitalocean.com,False
+digitalocean,unified.cloudways.com,False
 digitalocean,marketplace.digitalocean.com,False
 digitalocean,169.254.169.254,False
 digitalocean,api.cloudways.com,False
@@ -7953,6 +7954,7 @@ digitalocean,api.cloudways.com,False
 digitalocean,developers.cloudways.com,False
 digitalocean,platform.cloudways.com,False
 digitalocean,www.cloudways.com,False
+digitalocean,unified.cloudways.com,False
 picsart,content-discovery.picsart.io,False
 picsart,video-api.picsart.io,False
 picsart,demo.sdk.picsart.io,False
@@ -9101,8 +9103,8 @@ capital-one,*.teamstercardnow.com,False
 capital-one,*.capitaloneshopping.com,False
 smartsheet,developers.smartsheet.com,True
 smartsheet,help.smartsheet.com,True
-smartsheet,admin.smartsheet.com,True
 smartsheet,app.smartsheet.com,True
+smartsheet,admin.smartsheet.com,True
 smartsheet,app.smartsheet.com,True
 smartsheet,http://api.smartsheet.com/2.0,True
 smartsheet,admin.smartsheet.com,True
