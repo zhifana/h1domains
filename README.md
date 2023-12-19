@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 19 23:14:45 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 19 23:39:59 UTC 2023)
 ```
 mediacenter.23andme.com
 research.23andme.com
@@ -1709,8 +1709,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
