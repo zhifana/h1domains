@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 19 09:19:24 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 19 09:42:00 UTC 2023)
 ```
 mediacenter.23andme.com
 research.23andme.com
@@ -2157,8 +2157,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
