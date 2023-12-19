@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 19 18:17:59 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 19 18:40:51 UTC 2023)
 ```
 mediacenter.23andme.com
 research.23andme.com
@@ -229,8 +229,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-10x.redoxengine.com
 testapp.redoxengine.com
+10x.redoxengine.com
 docs.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
@@ -3574,8 +3574,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com
