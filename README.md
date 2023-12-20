@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 20 19:40:59 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec 20 20:19:26 UTC 2023)
 ```
 mediacenter.23andme.com
 research.23andme.com
@@ -3342,8 +3342,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 admin.shopify.com
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
