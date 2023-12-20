@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 20 10:18:39 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec 20 10:42:49 UTC 2023)
 ```
 mediacenter.23andme.com
 research.23andme.com
-education.23andme.com
 store.23andme.com
+education.23andme.com
 api.23andme.com
 blog.23andme.com
 auth.23andme.com
@@ -3524,9 +3524,9 @@ donations.livestream.com
 api.vimeo.com
 vimeo.magisto.com
 *.magisto.com
-vhx.tv
 *.livestream.com
 api.vhx.tv
+vhx.tv
 *.new.livestream.com
 checkout.vimeo.com
 staging.magisto.com

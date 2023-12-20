@@ -1,7 +1,7 @@
 mediacenter.23andme.com
 research.23andme.com
-education.23andme.com
 store.23andme.com
+education.23andme.com
 api.23andme.com
 blog.23andme.com
 auth.23andme.com
@@ -3518,9 +3518,9 @@ donations.livestream.com
 api.vimeo.com
 vimeo.magisto.com
 *.magisto.com
-vhx.tv
 *.livestream.com
 api.vhx.tv
+vhx.tv
 *.new.livestream.com
 checkout.vimeo.com
 staging.magisto.com
