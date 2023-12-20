@@ -9597,8 +9597,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
 *.newrelic.com
-one.newrelic.com
 *.nr-ops.net
+one.newrelic.com
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
@@ -10629,9 +10629,9 @@ custody.coinbase.com
 prime.coinbase.com
 pro.coinbase.com
 *.coinbase.com
-cloud.coinbase.com
 international.coinbase.com
 api.coinbase.com
+cloud.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
 *.base.org
