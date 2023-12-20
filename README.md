@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 20 17:40:28 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec 20 18:22:47 UTC 2023)
 ```
 mediacenter.23andme.com
 research.23andme.com
@@ -1667,8 +1667,8 @@ academy-outbound-ads.tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
