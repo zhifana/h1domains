@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 20 18:41:03 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec 20 19:16:13 UTC 2023)
 ```
 mediacenter.23andme.com
 research.23andme.com
@@ -471,8 +471,8 @@ shavar.services.mozilla.com
 phabricator.allizom.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 relay.firefox.com
-support.mozilla.org
 hg.mozilla.org
+support.mozilla.org
 developer.mozilla.org
 monitor.firefox.com
 www.mozilla.org
@@ -2820,8 +2820,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
 *.newrelic.com
-*.nr-ops.net
 one.newrelic.com
+*.nr-ops.net
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
@@ -3208,32 +3208,6 @@ harvestapp.com
 forecastapp.com
 id.getharvest.com
 getharvest.com
-*.tube8.com
-www.thumbzilla.com
-www.modelhub.com
-www.pornhub.com
-www.redtube.com
-www.pornhubpremium.com
-www.redtubepremium.com
-www.youpornpremium.com
-www.youporn.com
-api.pornhub.com
-www.pornmd.com
-ht.pornhub.com
-mobile.pornhub.com
-*.tube8.com
-www.pornhub.com
-mobile.pornhub.com
-api.pornhub.com
-ht.pornhub.com
-www.pornhubpremium.com
-www.pornmd.com
-www.modelhub.com
-www.thumbzilla.com
-www.redtube.com
-www.redtubepremium.com
-www.youporn.com
-www.youpornpremium.com
 moneybird.com
 moneybirdstorage.com
 moneybird.com
@@ -3402,9 +3376,9 @@ store.snapchat.com
 www.bitmoji.com
 my.snapchat.com
 business.snapchat.com
-app.snapchat.com
 snappublisher.snapchat.com
 playcanvas.com
+app.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
@@ -3574,8 +3548,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 grok.x.ai
 *.twimg.com
 gnip.com
@@ -3619,8 +3593,8 @@ wordpress.com
 safe.tumblr.com
 mailpoet.com
 t.umblr.com
-*.tumblr.com
 www.tumblr.com
+*.tumblr.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
