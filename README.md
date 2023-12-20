@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 20 04:19:15 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec 20 04:40:56 UTC 2023)
 ```
 mediacenter.23andme.com
 research.23andme.com
@@ -1938,8 +1938,8 @@ portal.polygon.technology
 *.skybingo.com
 *.skyvegas.com
 *.betfair.it
-*.betfair.com
 *.skybet.com
+*.betfair.com
 *.betfair.se
 *.skygamingcontent.com
 *.skypoker.com
@@ -3574,8 +3574,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 grok.x.ai
 *.twimg.com
 gnip.com

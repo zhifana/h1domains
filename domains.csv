@@ -7749,8 +7749,8 @@ flutteruki,*.sportinglife.com,True
 flutteruki,*.skybingo.com,True
 flutteruki,*.skyvegas.com,True
 flutteruki,*.betfair.it,True
-flutteruki,*.betfair.com,True
 flutteruki,*.skybet.com,True
+flutteruki,*.betfair.com,True
 flutteruki,*.betfair.se,True
 flutteruki,*.skygamingcontent.com,True
 flutteruki,*.skypoker.com,True
@@ -10583,8 +10583,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,*.twitter.com,True
 x,x.com,True
+x,*.twitter.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True

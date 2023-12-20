@@ -7748,8 +7748,8 @@ portal.polygon.technology
 *.skybingo.com
 *.skyvegas.com
 *.betfair.it
-*.betfair.com
 *.skybet.com
+*.betfair.com
 *.betfair.se
 *.skygamingcontent.com
 *.skypoker.com
@@ -10582,8 +10582,8 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 twitterflightschool.com
-*.twitter.com
 x.com
+*.twitter.com
 t.co
 grok.x.ai
 *.twimg.com
