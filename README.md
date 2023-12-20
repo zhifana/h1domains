@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 20 02:17:23 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec 20 02:40:15 UTC 2023)
 ```
 mediacenter.23andme.com
 research.23andme.com
@@ -2032,10 +2032,10 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.aliexpress.com
 *.1688.com
 *.Daraz.com
 *.aliyun.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
