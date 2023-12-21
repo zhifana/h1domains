@@ -749,8 +749,8 @@ www.ebookers.fi
 www.stayz.com.au
 www.expediacruises.com
 www.expediapartnercentral.com
-www.wotif.com
 www.hotwire.com
+www.wotif.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -3191,8 +3191,8 @@ education.github.com
 npmjs.org
 *.github.net
 gist.github.com
-*.githubusercontent.com
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
