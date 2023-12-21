@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 21 11:15:30 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec 21 11:40:57 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
@@ -221,9 +221,9 @@ api.wisdomtreeprimeapp.com
 api.wisdomtreeprimeapp.com
 fhir.redoxengine.com
 launch.gamma.redoxstage.com
-www.redoxengine.com
 testapi.redoxengine.com
 clientcert.gamma.redoxstage.com
+www.redoxengine.com
 eets-sftp-listener.gamma.redoxstage.com
 blob.gamma.redoxstage.com
 dashboard.gamma.redoxstage.com
@@ -3342,9 +3342,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 accounts.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
