@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 21 21:16:32 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec 21 21:41:45 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
@@ -275,8 +275,8 @@ www.visa.com.kh
 visa.co.ni
 www.cardinalcommerce.com
 www.visa.co.il
-usa.visa.com
 aw.visa.com
+usa.visa.com
 bm.visa.com
 visa.com.au
 www.visa.co.ke
