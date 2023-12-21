@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 21 10:43:16 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec 21 11:15:30 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
@@ -384,9 +384,9 @@ yourdomain.freshchat.com
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
 api.krisha.kz
-api.kolesa.kz
 app.kolesa.kz
 id.kolesa.kz
+api.kolesa.kz
 avtoelon.uz
 m.krisha.kz
 app.avtoelon.uz
@@ -3141,11 +3141,11 @@ www.starbucksreserve.com
 www.starbucks.co.uk
 www.starbucks.com.br
 card.starbucks.com.sg
-www.starbucks.de
 www.starbucks.com.sg
 app.starbucks.com
 secureui.starbucks.com
 www.starbucks.com
+www.starbucks.de
 www.starbucks.co.jp
 login.starbucks.co.jp
 www.starbucks.com.cn

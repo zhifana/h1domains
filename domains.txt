@@ -2672,9 +2672,9 @@ yourdomain.freshchat.com
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
 api.krisha.kz
-api.kolesa.kz
 app.kolesa.kz
 id.kolesa.kz
+api.kolesa.kz
 avtoelon.uz
 m.krisha.kz
 app.avtoelon.uz
@@ -9961,11 +9961,11 @@ www.starbucksreserve.com
 www.starbucks.co.uk
 www.starbucks.com.br
 card.starbucks.com.sg
-www.starbucks.de
 www.starbucks.com.sg
 app.starbucks.com
 secureui.starbucks.com
 www.starbucks.com
+www.starbucks.de
 www.starbucks.co.jp
 login.starbucks.co.jp
 www.starbucks.com.cn
