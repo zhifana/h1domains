@@ -1408,11 +1408,11 @@ reddit.secure.force.com
 amp.reddit.com
 redditforbusiness.com
 mod.reddit.com
-accounts.reddit.com
 matrix.redditspace.com
 www.reddit.com
 *.reddithelp.com
 oauth.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1704,8 +1704,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-api.figma.com
 www.figma.com
+api.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
