@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 21 01:58:25 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec 21 02:30:45 UTC 2023)
 ```
 mediacenter.23andme.com
 research.23andme.com
@@ -383,9 +383,9 @@ yourdomain.freshchat.com
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
 api.krisha.kz
-app.kolesa.kz
 api.kolesa.kz
 id.kolesa.kz
+app.kolesa.kz
 avtoelon.uz
 m.krisha.kz
 app.avtoelon.uz
@@ -1920,8 +1920,8 @@ portal.polygon.technology
 *.xiaomi.com
 *.miui.com
 *.xiaomiyoupin.com
-*.miwifi.com
 *.mi.com
+*.miwifi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -2820,8 +2820,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
 *.newrelic.com
-*.nr-ops.net
 one.newrelic.com
+*.nr-ops.net
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
