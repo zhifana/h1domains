@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 21 19:13:37 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec 21 19:39:37 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
@@ -3510,9 +3510,9 @@ onboarding.greenhouse.io
 api.greenhouse.io
 support.greenhouse.io
 jss.greenhouse.io
-app.greenhouse.io
 interseller.io
 boards.greenhouse.io
+app.greenhouse.io
 www.greenhouse.io
 app.interseller.io
 app.greenhouse.io
