@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 21 21:41:45 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec 21 22:17:29 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
@@ -2675,9 +2675,9 @@ apigw.foliofn.com
 *.gsselect.com
 *.marcus.co.uk
 *.foliofn.com
-*.goldman.com
 *.unitedcp.com
 *.ayco.com
+*.goldman.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
@@ -2797,8 +2797,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
 *.newrelic.com
-one.newrelic.com
 *.nr-ops.net
+one.newrelic.com
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
@@ -3449,8 +3449,8 @@ www.hoteltonight.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
-api.airbnb.com
 www.airbnb.com
+api.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3474,10 +3474,10 @@ www.hoteltonight.com
 donations.livestream.com
 api.vimeo.com
 vimeo.magisto.com
-*.magisto.com
 *.livestream.com
 vhx.tv
 api.vhx.tv
+*.magisto.com
 *.new.livestream.com
 checkout.vimeo.com
 staging.magisto.com
