@@ -1,3 +1,4 @@
+https://passport.eufy.com/?app=eufy-us
 switch.vdp-egress.com
 reader.vdp-egress.com
 www.egress.com

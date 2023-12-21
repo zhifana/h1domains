@@ -1,4 +1,5 @@
 handle,domain,eligible_for_bounty
+eufy_security,https://passport.eufy.com/?app=eufy-us,True
 egress-vdp,switch.vdp-egress.com,False
 egress-vdp,reader.vdp-egress.com,False
 egress-vdp,www.egress.com,False
