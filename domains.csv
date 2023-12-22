@@ -68,9 +68,9 @@ bookingcom,experiences.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,admin.booking.com,True
-bookingcom,booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,supply-xml.booking.com,True
+bookingcom,booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
@@ -7653,8 +7653,8 @@ playstation,transact.playstation.com,True
 playstation,api.direct.playstation.com,True
 playstation,store.playstation.com,True
 playstation,*.sonyentertainmentnetwork.com,True
-playstation,direct.playstation.com,True
 playstation,*.api.playstation.com,True
+playstation,direct.playstation.com,True
 playstation,my.playstation.com,True
 playstation,my.account.sony.com,True
 playstation,ca.account.sony.com,True
