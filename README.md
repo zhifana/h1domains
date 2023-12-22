@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec 22 04:42:16 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec 22 05:18:44 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
@@ -1897,8 +1897,8 @@ portal.polygon.technology
 *.xiaomi.com
 *.miui.com
 *.xiaomiyoupin.com
-*.miwifi.com
 *.mi.com
+*.miwifi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -2797,8 +2797,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
 *.newrelic.com
-*.nr-ops.net
 one.newrelic.com
+*.nr-ops.net
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com

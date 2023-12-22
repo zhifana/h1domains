@@ -7704,8 +7704,8 @@ polygon-technology,portal.polygon.technology,True
 xiaomi,*.xiaomi.com,True
 xiaomi,*.miui.com,True
 xiaomi,*.xiaomiyoupin.com,True
-xiaomi,*.miwifi.com,True
 xiaomi,*.mi.com,True
+xiaomi,*.miwifi.com,True
 xiaomi,*.mi.com,True
 xiaomi,*.xiaomi.com,True
 xiaomi,*.miui.com,True
@@ -9572,8 +9572,8 @@ newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
 newrelic,infrastructure.newrelic.com,True
 newrelic,*.newrelic.com,True
-newrelic,*.nr-ops.net,True
 newrelic,one.newrelic.com,True
+newrelic,*.nr-ops.net,True
 newrelic,synthetics.eu.newrelic.com,True
 newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
