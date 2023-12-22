@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec 22 15:16:50 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec 22 15:42:16 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
@@ -1852,8 +1852,8 @@ mkapi.mackeeper.com
 mackeeper.com
 wallets.api.playstation.com
 social.playstation.com
-api.direct.playstation.com
 transact.playstation.com
+api.direct.playstation.com
 store.playstation.com
 *.sonyentertainmentnetwork.com
 direct.playstation.com
@@ -2796,8 +2796,8 @@ rpm.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
-*.newrelic.com
 one.newrelic.com
+*.newrelic.com
 *.nr-ops.net
 synthetics.eu.newrelic.com
 support.newrelic.com
@@ -3189,8 +3189,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 education.github.com
