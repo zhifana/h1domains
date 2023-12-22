@@ -7839,8 +7839,8 @@ https://amazonpay.amazon.in/*
 *.alibaba.com
 www.alibabagroup.com
 *.tmall.com
-*.alibaba-inc.com
 *.aliexpress.ru
+*.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
 *.1688.com
@@ -9571,8 +9571,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
 *.newrelic.com
-one.newrelic.com
 *.nr-ops.net
+one.newrelic.com
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
