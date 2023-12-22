@@ -10425,8 +10425,8 @@ next.airbnb.com
 *.airbnbcitizen.com
 *.muscache.com
 *.hoteltonight-test.com
-*.airbnb.com
 www.hoteltonight.com
+*.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com

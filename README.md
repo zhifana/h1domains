@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec 22 12:54:13 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec 22 13:21:13 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
@@ -3444,8 +3444,8 @@ next.airbnb.com
 *.airbnbcitizen.com
 *.muscache.com
 *.hoteltonight-test.com
-*.airbnb.com
 www.hoteltonight.com
+*.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
