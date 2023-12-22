@@ -361,8 +361,8 @@ avtoelon.uz
 m.krisha.kz
 app.avtoelon.uz
 m.avtoelon.uz
-kolesa.kz
 id.avtoelon.uz
+kolesa.kz
 app.krisha.kz
 m.kolesa.kz
 api.avtoelon.uz
