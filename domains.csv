@@ -210,10 +210,10 @@ cbre,mailserver.gallileo-frankfurt.com,False
 cbre,ns1.gallileo-frankfurt.com,False
 cbre,post.gallileo-frankfurt.com,False
 cbre,pop.fmpilot2.org,False
-cbre,www.fmpilot2.org,False
 cbre,ftp.fmpilot2.net,False
 cbre,smtp.fmpilot2.net,False
 cbre,gameflex.gallileo-frankfurt.com,False
+cbre,getsimnum.gallileo-frankfurt.com,False
 cbre,*.mainstreamsasp.com,False
 cbre,*.bovis.es,False
 cbre,*.cbreglobalinvestors.com,False
@@ -10050,8 +10050,8 @@ moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
 moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
-github,npmjs.com,True
 github,api.github.com,True
+github,npmjs.com,True
 github,classroom.github.com,True
 github,*.githubapp.com,True
 github,education.github.com,True
