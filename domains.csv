@@ -7846,8 +7846,8 @@ alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
 alibaba,*.1688.com,True
 alibaba,*.Daraz.com,True
-alibaba,*.aliyun.com,True
 alibaba,*.aliexpress.com,True
+alibaba,*.aliyun.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -10050,8 +10050,8 @@ moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
 moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
-github,npmjs.com,True
 github,api.github.com,True
+github,npmjs.com,True
 github,classroom.github.com,True
 github,*.githubapp.com,True
 github,education.github.com,True
