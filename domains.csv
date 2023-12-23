@@ -68,9 +68,9 @@ bookingcom,experiences.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,admin.booking.com,True
-bookingcom,supply-xml.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,booking.com,True
+bookingcom,supply-xml.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
@@ -1550,8 +1550,8 @@ shi_vdp,https://www.cxmlorderservice.shi.com/cxmlorderreceiptservice/cxmlorderre
 redox_bbp,fhir.redoxengine.com,True
 redox_bbp,launch.gamma.redoxstage.com,True
 redox_bbp,clientcert.gamma.redoxstage.com,True
-redox_bbp,www.redoxengine.com,True
 redox_bbp,testapi.redoxengine.com,True
+redox_bbp,www.redoxengine.com,True
 redox_bbp,eets-sftp-listener.gamma.redoxstage.com,True
 redox_bbp,blob.gamma.redoxstage.com,True
 redox_bbp,dashboard.gamma.redoxstage.com,True
@@ -4490,11 +4490,11 @@ mars,*.royalcaninconcorsi.it,False
 mars,*.royalcanin-vouchers.com,False
 mars,banfieldexchange.com,False
 mars,*.banfieldassets.com,False
-mars,*.royalcanin.pl,False
 mars,*.royalcanin.co.uk,False
 mars,*.royalcanin.com,False
 mars,*.jornadasroyalcanin.com.ar,False
 mars,*.orbitgum.com,False
+mars,*.royalcanin.pl,False
 mars,*.mms.com,False
 mars,*.moncse-royalcanin-siege.com,False
 mars,*.monespaceveto.com,False
@@ -4683,8 +4683,8 @@ metamask,snaps.metamask.io,True
 metamask,snaps.metamask.io,True
 metamask,portfolio.metamask.io,True
 oanda,*.tms.pl,False
-oanda,*.oanda.jp,False
 oanda,*.oanda.com,False
+oanda,*.oanda.jp,False
 oanda,*.tmsbrokers.com,False
 oanda,*.oanda.com,False
 oanda,*.oanda.jp,False
@@ -9334,8 +9334,8 @@ paypal,scrutiny.swiftfinancial.com,True
 paypal,paypal.me,True
 paypal,*.hyperwallet.com,True
 paypal,my.loanbuilder.com,True
-paypal,*.venmo.com,True
 paypal,*.paypal.com,True
+paypal,*.venmo.com,True
 paypal,pigeon.swiftfinancial.com,True
 paypal,*.paydiant.com,True
 paypal,*.braintree.tools,True
@@ -10050,8 +10050,8 @@ moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
 moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
-github,api.github.com,True
 github,npmjs.com,True
+github,api.github.com,True
 github,classroom.github.com,True
 github,*.githubapp.com,True
 github,education.github.com,True
@@ -10670,8 +10670,8 @@ security,reviewer.pullrequest.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,ctf.hacker101.com,True
-security,hackerone-ext-content.com,True
 security,www.hackerone.com,True
+security,hackerone-ext-content.com,True
 security,profile-photos.hackerone-user-content.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
