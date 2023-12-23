@@ -5012,7 +5012,6 @@ mondelez,lacta.gr,False
 mondelez,marabou.dk,False
 mondelez,marabou.fi,False
 mondelez,milka.cl,False
-mondelez,milka.com.tr,False
 mondelez,mondelezgrowthprogram.com,False
 mondelez,futisviikonloppu.marabou.fi,False
 mondelez,giveasmile.belvitasnacks.com,False
@@ -5034,6 +5033,7 @@ mondelez,fattorieosella.it,False
 mondelez,milka.bg,False
 mondelez,milka.cz,False
 mondelez,cadburyworld.co.uk,False
+mondelez,secretsanta.cadbury.co.uk,False
 mondelez,mondelezinternational.com,False
 mondelez,ir.mondelezinternational.com,False
 mondelez,cadbury.co.uk,False
@@ -9468,7 +9468,7 @@ goldmansachs,marquee.gs.com,True
 goldmansachs,*.gsam.com,True
 goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.gs.de,True
-goldmansachs,*.gs.com,True
+goldmansachs,*.folioclient.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -10050,8 +10050,8 @@ moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
 moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
-github,api.github.com,True
 github,npmjs.com,True
+github,api.github.com,True
 github,classroom.github.com,True
 github,*.githubapp.com,True
 github,education.github.com,True
