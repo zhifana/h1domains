@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec 23 15:41:19 UTC 2023)
+## Domains with Bounties (Last Updated Sat Dec 23 16:18:38 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
@@ -2526,8 +2526,8 @@ m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
 *racing.fanduel.com
-*.fanduel.com
 tvg.com
+*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3525,8 +3525,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com
@@ -3609,8 +3609,8 @@ team-irc.irccloud.com
 blog.irccloud.com
 custody.coinbase.com
 *.cbhq.net
-prime.coinbase.com
 pro.coinbase.com
+prime.coinbase.com
 *.coinbase.com
 international.coinbase.com
 api.coinbase.com
