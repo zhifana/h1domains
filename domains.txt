@@ -3726,10 +3726,10 @@ www.monarchmoney.com
 app.monarchmoney.com
 www.monarchmoney.com
 www.fireglass.com
-www.interflex.de
 www.yonomi.com
 www.gainsboroughhardware.com.au
 www.cisa.com
+www.interflex.de
 www.trelock.com
 www.simons-voss.com
 www.allegion.co.uk
@@ -4608,8 +4608,8 @@ www.trendyol-milla.com
 *.skyhighsecurity.com
 *.sidefx.com
 *.sidefx.com
-*.tokensvc.com
 token.com
+*.tokensvc.com
 blog.token.com
 *.tokensvc.com
 token.com
@@ -4912,9 +4912,9 @@ www.alohi.com
 *.sothebysrealty.*
 *.corcoran.*
 *.realogy.*
-*.mycbdesk.com
 *.coldwellbanker.*
 *.cbcworldwide.*
+*.mycbdesk.com
 new.myzap.com
 *.anywhere.re
 *.realogy.*
@@ -10049,8 +10049,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-npmjs.com
 api.github.com
+npmjs.com
 classroom.github.com
 *.githubapp.com
 education.github.com
