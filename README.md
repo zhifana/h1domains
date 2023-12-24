@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 24 19:39:39 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec 24 20:16:20 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -2407,12 +2407,12 @@ res.vacations.seaworld.com
 www.beachbound.com
 shop.wyndhamvacationownership.trisept.travel
 holidays-hk.fijiairways.com
-vacations.velasvallarta.com
 www.blueskytours.com
 world.hyatt.com
 book.extraholidaysvacations.com
 sso.oft.hyatt.com
 vacations.united.com
+vacations.velasvallarta.com
 soaext.oft.hyatt.com
 vacations.vallarta.grandvelas.com
 book.cheapcaribbean.com
@@ -2737,9 +2737,9 @@ api.foliofn.com
 *.foliofirst.com
 *.folioinvesting.com
 playartifact.com
-developer.valvesoftware.com
 help.steampowered.com
 store.steampowered.com
+developer.valvesoftware.com
 partner.steampowered.com
 partner.steamgames.com
 www.teamfortress.com

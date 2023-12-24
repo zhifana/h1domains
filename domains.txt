@@ -1200,7 +1200,6 @@ sa.cosstores.com
 *.americaneagle.com.eg
 *.americaneagle.com.sa
 *.thebodyshop.pl
-*.thebodyshop.com.eg
 *.starbucks.com.tr
 *.shakeshack.co.uk
 *.potterybarn.com.sa
@@ -1210,6 +1209,7 @@ sa.cosstores.com
 *.debenhams.ae
 *.bathandbodyworks.jo
 *.carrier.alshaya.com
+customercare.alshaya.com
 *.shaya.com.tr
 *.starbucks.com.kz
 *.aloyoga.ae
@@ -9168,12 +9168,12 @@ res.vacations.seaworld.com
 www.beachbound.com
 shop.wyndhamvacationownership.trisept.travel
 holidays-hk.fijiairways.com
-vacations.velasvallarta.com
 www.blueskytours.com
 world.hyatt.com
 book.extraholidaysvacations.com
 sso.oft.hyatt.com
 vacations.united.com
+vacations.velasvallarta.com
 soaext.oft.hyatt.com
 vacations.vallarta.grandvelas.com
 book.cheapcaribbean.com
@@ -9507,9 +9507,9 @@ api.foliofn.com
 *.folioinvesting.com
 *.claritymoney.com
 playartifact.com
-developer.valvesoftware.com
 help.steampowered.com
 store.steampowered.com
+developer.valvesoftware.com
 partner.steampowered.com
 partner.steamgames.com
 www.teamfortress.com
