@@ -10079,8 +10079,8 @@ mapbox,api.mapbox.com,True
 mapbox,www.mapbox.com,True
 mapbox,https://docs.mapbox.com/api/,True
 mapbox,api.mapbox.com,True
-gitlab,registry.gitlab.com,True
 gitlab,*.gitlab.net,True
+gitlab,registry.gitlab.com,True
 gitlab,design.gitlab.com,True
 gitlab,advisories.gitlab.com,True
 gitlab,*.gitlap.com,True
