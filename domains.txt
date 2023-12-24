@@ -1371,10 +1371,10 @@ http://vdp.kahootz.com
 *.new10.com
 dungeonofdoomkemah.com
 thepostoak.com
-galvestonholidayinn.com
 r-u-i.com
 wildwoodcasino.net
 sanluisresort.com
+galvestonholidayinn.com
 hunttinginn.com
 fertittaentertainmentinc.com
 goldennugget.com
@@ -10511,8 +10511,8 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 twitterflightschool.com
-*.twitter.com
 x.com
+*.twitter.com
 t.co
 grok.x.ai
 *.twimg.com
