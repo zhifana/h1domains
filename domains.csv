@@ -12,8 +12,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,education.23andme.com,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,api.23andme.com,True
-23andme_bbp,auth.23andme.com,True
 23andme_bbp,you.23andme.com,True
+23andme_bbp,auth.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -3022,9 +3022,9 @@ abb,*.de.abb.com,False
 abb,*.abb.nl,False
 abb,*.abb.in,False
 abb,*.abb-drives.com,False
-abb,*.ability.abb,False
 abb,*.abb,False
 abb,*.busch-jaeger.nl,False
+abb,*.ability.abb,False
 abb,*.stratus.abb.com,False
 abb,*.cirrus.abb.com,False
 abb,*.motion.abb.com,False
@@ -10605,8 +10605,8 @@ coinbase,pro.coinbase.com,True
 coinbase,prime.coinbase.com,True
 coinbase,*.coinbase.com,True
 coinbase,international.coinbase.com,True
-coinbase,api.coinbase.com,True
 coinbase,cloud.coinbase.com,True
+coinbase,api.coinbase.com,True
 coinbase,api.custody.coinbase.com,True
 coinbase,institutional.coinbase.com,True
 coinbase,*.base.org,True
