@@ -1742,7 +1742,6 @@ compumark.co.uk
 compumark.de
 compumark.es
 compumark.eu
-compumark.fr
 compumark.info
 compumark.jp
 compumarks.com
@@ -1783,6 +1782,7 @@ endnote360.com
 endnote.fi
 endnote.in
 endnote.jp
+endnote.ru
 cpaglobal.ru
 authorconnect-webofscience.com
 authorconnectwebofscience.com
