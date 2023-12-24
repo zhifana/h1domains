@@ -4911,10 +4911,10 @@ www.alohi.com
 *.nrtllc.*
 *.sothebysrealty.*
 *.corcoran.*
-*.realogy.*
 *.coldwellbanker.*
 *.cbcworldwide.*
 *.mycbdesk.com
+*.realogy.*
 new.myzap.com
 *.anywhere.re
 *.realogy.*
@@ -7703,8 +7703,8 @@ portal.polygon.technology
 *.xiaomi.com
 *.miui.com
 *.xiaomiyoupin.com
-*.mi.com
 *.miwifi.com
+*.mi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
