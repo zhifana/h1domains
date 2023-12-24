@@ -3363,9 +3363,9 @@ share.doppler.com
 *.REWARDSFORJUSTICE.NET
 *.onezerobank.com
 *.onezerobank.com
-*.otherside.xyz
 *.mdvmm.xyz
 *.yuga.com
+*.otherside.xyz
 *.meebits.app
 *.10ktf.com
 *.cryptopunks.app
