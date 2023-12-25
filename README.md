@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec 25 15:41:21 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec 25 16:19:26 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
@@ -1040,8 +1040,8 @@ rankings.etoro.com
 delta.app
 bullsheet.me
 api.instacart.com
-www.instacart.com
 *.instacart.tools
+www.instacart.com
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.com
@@ -2087,8 +2087,8 @@ maria.casino
 www.32red.com
 sso.marriott.com
 mgs.marriott.com
-www.marriott.com
 gatewaydsaptst2.marriott.com
+www.marriott.com
 reservations.all-inclusive.marriott.com
 jobs.marriott.com
 gatewaydsaptst1.marriott.com
@@ -3666,8 +3666,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
