@@ -2001,12 +2001,12 @@ www.alibabagroup.com
 *.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
-*.aliyun-inc.com
 *.alimama.com
 *.1688.com
 *.Daraz.com
 *.aliexpress.com
 *.aliyun.com
+*.aliyun-inc.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
