@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec 25 19:16:29 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec 25 19:41:13 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
@@ -446,10 +446,10 @@ firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 phabricator.allizom.org
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 hg.mozilla.org
 support.mozilla.org
 relay.firefox.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 developer.mozilla.org
 monitor.firefox.com
 www.mozilla.org
@@ -946,8 +946,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-exnessaffiliates.com
 my.exness.com
+exnessaffiliates.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
