@@ -5729,9 +5729,9 @@ trafficfactory,main.trafficfactory.biz,True
 elastic,*.found.io,True
 elastic,*.eops.nl,True
 elastic,*.swiftype.com,True
-elastic,*.elstc.co,True
 elastic,*.elasticnet.co,True
 elastic,cloud.elastic.co,True
+elastic,*.elstc.co,True
 elastic,www.elastic.co,True
 elastic,*.elastic.co,True
 elastic,*.elastic.co,True
