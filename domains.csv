@@ -7264,10 +7264,10 @@ citrix,api.adm.cloud.com,True
 citrix,api.sharefile.eu,True
 citrix,sf-rp.sharefile.com,True
 citrix,us.cloud.com,True
-citrix,*.citrixworkspacesapi.net,True
 citrix,(yoursubdomain).us.iws.cloud.com,True
 citrix,(yoursubdomain).ap.iws.cloud.com,True
 citrix,citrix.cloud.com,True
+citrix,*.citrixworkspacesapi.net,True
 citrix,citrix.cloud.com,True
 citrix,www.cloud.com,True
 citrix,ap-s.cloud.com,True
@@ -10512,8 +10512,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True
