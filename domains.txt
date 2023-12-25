@@ -68,8 +68,8 @@ supplier.auth.toag.booking.com
 flights.booking.com
 supply-xml.booking.com
 booking.com
-admin.booking.com
 *.booking.com
+admin.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -3391,8 +3391,8 @@ www.expediaagents.com
 www.expediapartnersolutions.com
 www.hotels.com
 www.orbitz.com
-www.expediagroup.com
 www.abritel.fr
+www.expediagroup.com
 www.flights.com
 www.travelocity.com
 www.ebookers.com
@@ -10511,8 +10511,8 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 twitterflightschool.com
-*.twitter.com
 x.com
+*.twitter.com
 t.co
 grok.x.ai
 *.twimg.com
