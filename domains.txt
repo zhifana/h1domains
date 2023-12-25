@@ -11,8 +11,8 @@ store.23andme.com
 education.23andme.com
 api.23andme.com
 you.23andme.com
-auth.23andme.com
 blog.23andme.com
+auth.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -68,8 +68,8 @@ supplier.auth.toag.booking.com
 flights.booking.com
 supply-xml.booking.com
 booking.com
-*.booking.com
 admin.booking.com
+*.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -9788,8 +9788,8 @@ bma.badoo.com
 badoocdn.com
 heyfiesta.com
 ccardseu1.badoo.com
-badoo.com
 www.bumble.com
+badoo.com
 mus1.badoo.com
 translate.badoo.com
 www.bumble.com
@@ -9879,11 +9879,11 @@ gutenberg.run
 rockstarnorth.com
 *.rockstargames.com
 circolocorecords.com/
-lifeinvader.com
 store.rockstargames.com
 support.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
+lifeinvader.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -9936,8 +9936,8 @@ card.starbucks.com.sg
 www.starbucks.com.sg
 app.starbucks.com
 secureui.starbucks.com
-www.starbucks.com
 www.starbucks.de
+www.starbucks.com
 www.starbucks.co.jp
 login.starbucks.co.jp
 www.starbucks.com.cn
@@ -10511,8 +10511,8 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 twitterflightschool.com
-x.com
 *.twitter.com
+x.com
 t.co
 grok.x.ai
 *.twimg.com
