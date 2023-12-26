@@ -2005,8 +2005,8 @@ www.alibabagroup.com
 *.1688.com
 *.Daraz.com
 *.aliexpress.com
-*.aliyun-inc.com
 *.aliyun.com
+*.aliyun-inc.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
