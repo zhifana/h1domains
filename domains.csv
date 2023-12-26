@@ -12,8 +12,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,education.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,blog.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,auth.23andme.com,True
+23andme_bbp,you.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -7107,8 +7107,8 @@ lark_technologies,caldav.larksuite.com,True
 lark_technologies,passport.larksuite.com,True
 lark_technologies,internal-api-drive-stream.larksuite.com,True
 lark_technologies,hackers_chosendomain.larksuite.com,True
-lark_technologies,larksuite.com,True
 lark_technologies,internal-api.larksuite.com,True
+lark_technologies,larksuite.com,True
 lark_technologies,api.larksuite.com,True
 lark_technologies,internal-api-lark-api.larksuite.com,True
 lark_technologies,open.larksuite.com,True
