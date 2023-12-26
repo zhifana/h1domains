@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 26 18:41:46 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 26 19:16:25 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
@@ -39,8 +39,8 @@ www.mercadolibre.com.ar
 www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.mx
-api.mercadolibre.com
 www.mercadopago.com.br
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -3354,8 +3354,8 @@ www.bitmoji.com
 my.snapchat.com
 business.snapchat.com
 snappublisher.snapchat.com
-playcanvas.com
 app.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
