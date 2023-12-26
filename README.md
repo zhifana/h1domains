@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 26 12:52:06 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 26 13:18:42 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -290,10 +290,10 @@ www.visa.co.ve
 bd.visa.com
 cw.visa.com
 ht.visa.com
-www.visa.com.az
 www.visa.com.kz
 www.visa.com.lk
 www.visa.com.ng
+www.visa.com.tr
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -360,9 +360,9 @@ yourdomain.freshchat.com
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
 api.krisha.kz
-id.kolesa.kz
 app.kolesa.kz
 api.kolesa.kz
+id.kolesa.kz
 avtoelon.uz
 m.krisha.kz
 app.avtoelon.uz
@@ -3525,8 +3525,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 grok.x.ai
 *.twimg.com
 gnip.com
