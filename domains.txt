@@ -6334,15 +6334,14 @@ fs.viq.zebra.com
 zsbportal.zebra.com
 global.zebra.com
 hcm.zebra.com
-test-marketing-api.zebra.com
 dcs-polarion.zebra.com
 artifactory-us.zebra.com
 zsl.zebra.com
 wfc.zebra.com
 *.cto-si.zebra.com
-stage-www.zebra.com
 www.matrox.com
 connect.zebra.com
+*.zebra.com/mobicontrol
 *.cto-si.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
@@ -8645,8 +8644,8 @@ app.nordpass.com
 *.pubg.com
 *.pubg.com
 *.pubgesports.com
-*.line.me
 *.line-apps.com
+*.line.me
 *.line.biz
 *.line.naver.jp
 *.line.me

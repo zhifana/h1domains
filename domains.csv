@@ -6335,15 +6335,14 @@ zebra_vdp,*.antuit.ai,False
 zebra_vdp,zsbportal.zebra.com,False
 zebra_vdp,global.zebra.com,False
 zebra_vdp,hcm.zebra.com,False
-zebra_vdp,test-marketing-api.zebra.com,False
 zebra_vdp,dcs-polarion.zebra.com,False
 zebra_vdp,artifactory-us.zebra.com,False
 zebra_vdp,zsl.zebra.com,False
 zebra_vdp,wfc.zebra.com,False
 zebra_vdp,*.cto-si.zebra.com,False
-zebra_vdp,stage-www.zebra.com,False
 zebra_vdp,www.matrox.com,False
 zebra_vdp,connect.zebra.com,False
+zebra_vdp,*.zebra.com/mobicontrol,False
 zebra_vdp,*.cto-si.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
@@ -8646,8 +8645,8 @@ pubg,*.pubgesports.com,False
 pubg,*.pubg.com,False
 pubg,*.pubg.com,False
 pubg,*.pubgesports.com,False
-line,*.line.me,True
 line,*.line-apps.com,True
+line,*.line.me,True
 line,*.line.biz,True
 line,*.line.naver.jp,True
 line,*.line.me,True
