@@ -10550,10 +10550,10 @@ automattic,api.tumblr.com,True
 automattic,wordpress.com,True
 automattic,intensedebate.com,True
 automattic,safe.tumblr.com,True
-automattic,mailpoet.com,True
 automattic,t.umblr.com,True
 automattic,www.tumblr.com,True
 automattic,*.tumblr.com,True
+automattic,mailpoet.com,True
 automattic,secure.tumblr.com,True
 automattic,*.tumblr.com,True
 automattic,*.srvcs.tumblr.com,True
