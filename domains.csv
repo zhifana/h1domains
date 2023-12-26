@@ -4934,10 +4934,10 @@ anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,*.anywhere.re,False
 anywhererealestate,new.myzap.com,False
 databricks,demo.cloud.databricks.com,True
-databricks,academy.databricks.com,True
 databricks,docs.databricks.com,True
 databricks,accounts.cloud.databricks.com,True
 databricks,databricks.com,True
+databricks,academy.databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
 databricks,marketplace.databricks.com,True
@@ -9173,8 +9173,8 @@ hyatt,www.blueskytours.com,True
 hyatt,world.hyatt.com,True
 hyatt,book.extraholidaysvacations.com,True
 hyatt,sso.oft.hyatt.com,True
-hyatt,vacations.united.com,True
 hyatt,vacations.velasvallarta.com,True
+hyatt,vacations.united.com,True
 hyatt,soaext.oft.hyatt.com,True
 hyatt,vacations.vallarta.grandvelas.com,True
 hyatt,book.cheapcaribbean.com,True

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec 25 23:40:05 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 26 01:01:13 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
@@ -1052,10 +1052,10 @@ www.instacart.com
 admin.instacart.com
 shoppers.instacart.com
 demo.cloud.databricks.com
-academy.databricks.com
 docs.databricks.com
 accounts.cloud.databricks.com
 databricks.com
+academy.databricks.com
 kb.databricks.com
 support.databricks.com
 marketplace.databricks.com
@@ -2411,8 +2411,8 @@ www.blueskytours.com
 world.hyatt.com
 book.extraholidaysvacations.com
 sso.oft.hyatt.com
-vacations.united.com
 vacations.velasvallarta.com
+vacations.united.com
 soaext.oft.hyatt.com
 vacations.vallarta.grandvelas.com
 book.cheapcaribbean.com
