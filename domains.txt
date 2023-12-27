@@ -135,11 +135,11 @@ dsparkingportal.com
 temp.msbpay.com
 apply2.navirefi.com
 www.pampayments.com
-www.pamcollectionsin.com
 onlineserviceshub.com
 temp.msbnexus.com
 www.navirefi.com
 sandiego.dsmyportal.com
+www.pamcollectionsin.com
 www.msbnexus.com
 duncan.imageenforcement.com
 myaccount.navirefi.com
@@ -7299,8 +7299,8 @@ careers.tiktok.com
 *.tiktokv.com
 *.tiktok.com
 effecthouse.tiktok.com
-shop.tiktok.com
 developers.tiktok.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
