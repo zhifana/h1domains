@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 27 07:39:59 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec 27 08:19:54 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
@@ -75,8 +75,8 @@ portal.taxi.booking.com
 distribution-xml.booking.com
 accommodations.booking.com
 phone-validation.taxi.booking.com
-taxis.booking.com
 *.rentalcars.com
+taxis.booking.com
 taxi.booking.com
 secure-supply-xml.booking.com
 paynotifications.booking.com
@@ -369,8 +369,8 @@ app.avtoelon.uz
 m.avtoelon.uz
 kolesa.kz
 id.avtoelon.uz
-app.krisha.kz
 m.kolesa.kz
+app.krisha.kz
 api.avtoelon.uz
 krisha.kz
 kolesa.kz
@@ -2571,8 +2571,8 @@ scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
-*.paypal.com
 *.venmo.com
+*.paypal.com
 pigeon.swiftfinancial.com
 *.paydiant.com
 *.braintree.tools
@@ -3319,9 +3319,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
