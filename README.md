@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 27 16:20:18 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec 27 16:43:47 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
@@ -206,8 +206,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-10x.redoxengine.com
 testapp.redoxengine.com
+10x.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
 sftp.gamma.redoxstage.com
@@ -3337,8 +3337,8 @@ create.snapchat.com
 msg.playcanvas.com
 forum.playcanvas.com
 ads.snapchat.com
-accounts.snapchat.com
 businesshelp.snapchat.com
+accounts.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 relay.playcanvas.com
