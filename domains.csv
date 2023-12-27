@@ -12,8 +12,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,education.23andme.com,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,you.23andme.com,True
-23andme_bbp,auth.23andme.com,True
 23andme_bbp,api.23andme.com,True
+23andme_bbp,auth.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -8207,13 +8207,13 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,admin.8x8.com,False
 8x8,*.8x8.com,False
 8x8,connect.8x8.com,False
-8x8,*.fuze.com,False
 8x8,*.thinkingphones.net,False
 8x8,sms.8x8.com,False
 8x8,*.8x8staging.com,False
 8x8,user-profile.8x8.com,False
 8x8,supersite.8x8.com,False
 8x8,cloud8.8x8.com,False
+8x8,*.fuze.com,False
 8x8,*.8x8pilot.com,False
 8x8,*.8x8.uk,False
 8x8,*.adgjmp.net,False
