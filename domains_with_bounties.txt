@@ -7,8 +7,8 @@ auth.23andme.com
 blog.23andme.com
 api.23andme.com
 you.23andme.com
-therapeutics.23andme.com
 medical.23andme.com
+therapeutics.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -1419,8 +1419,8 @@ app.spiketrap.io
 www.spiketrap.io
 www.coinspot.com.au
 www.coinspot.com.au
-remix.com
 platform.remix.com
+remix.com
 eu.remix.com
 global-api.citymapper.com
 global-api.citymapper.com
