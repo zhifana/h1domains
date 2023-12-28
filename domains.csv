@@ -10500,8 +10500,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,*.twitter.com,True
 x,x.com,True
+x,*.twitter.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True
@@ -10545,8 +10545,8 @@ automattic,simplenote.com,True
 automattic,gravatar.com,True
 automattic,assets.tumblr.com,True
 automattic,api.tumblr.com,True
-automattic,wordpress.com,True
 automattic,intensedebate.com,True
+automattic,wordpress.com,True
 automattic,safe.tumblr.com,True
 automattic,t.umblr.com,True
 automattic,www.tumblr.com,True
