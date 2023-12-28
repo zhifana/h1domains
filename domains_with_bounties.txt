@@ -60,10 +60,10 @@ careers.booking.com
 experiences.booking.com
 supplier.auth.toag.booking.com
 supply-xml.booking.com
-booking.com
 admin.booking.com
-*.booking.com
 flights.booking.com
+*.booking.com
+booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -80,8 +80,8 @@ paymentcomponent.booking.com
 webhooks.booking.com
 paybridge.booking.com
 cars.booking.com
-secure.booking.com
 account.booking.com
+secure.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -3311,8 +3311,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 admin.shopify.com
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

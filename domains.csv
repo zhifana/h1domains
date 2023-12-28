@@ -67,10 +67,10 @@ bookingcom,careers.booking.com,True
 bookingcom,experiences.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,supply-xml.booking.com,True
-bookingcom,booking.com,True
 bookingcom,admin.booking.com,True
-bookingcom,*.booking.com,True
 bookingcom,flights.booking.com,True
+bookingcom,*.booking.com,True
+bookingcom,booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
@@ -87,8 +87,8 @@ bookingcom,paymentcomponent.booking.com,True
 bookingcom,webhooks.booking.com,True
 bookingcom,paybridge.booking.com,True
 bookingcom,cars.booking.com,True
-bookingcom,secure.booking.com,True
 bookingcom,account.booking.com,True
+bookingcom,secure.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
@@ -1426,8 +1426,8 @@ aboitizpower_corporation,adventenergy.com.ph,False
 aboitizpower_corporation,retailelectricity.com.ph,False
 aboitizpower_corporation,snaboitizpower.com,False
 aboitizpower_corporation,*.davaolight.com,False
-aboitizpower_corporation,*.visayanelectric.com,False
 aboitizpower_corporation,*.aboitizpower.com,False
+aboitizpower_corporation,*.visayanelectric.com,False
 aboitizpower_corporation,*.apps.sofa.csg.aboitizpower.org,False
 aboitizpower_corporation,aboitizpower.org,False
 aboitizpower_corporation,aboitizpower.net,False
@@ -4494,9 +4494,9 @@ mars,*.royalcanin.fr,False
 mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,banfieldfoundation.org,False
-mars,*.royalcanin.ca,False
 mars,*.pedigree.com,False
 mars,*.vcahospitals.com,False
+mars,*.royalcanin.ca,False
 mars,*.dovechocolate.com,False
 mars,*.royal-canin.com,False
 mars,*.bibliotecarc.cl,False
@@ -10170,8 +10170,8 @@ shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,admin.shopify.com,True
-shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
