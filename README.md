@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 28 09:18:37 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec 28 09:40:25 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -756,8 +756,8 @@ www.ebookers.fi
 www.stayz.com.au
 www.expediacruises.com
 www.wotif.com
-www.hotwire.com
 www.expediapartnercentral.com
+www.hotwire.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
