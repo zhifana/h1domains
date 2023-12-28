@@ -4486,7 +4486,6 @@ banfieldexchange.com
 *.jornadasroyalcanin.com.ar
 *.orbitgum.com
 *.royalcanin.pl
-*.mms.com
 *.moncse-royalcanin-siege.com
 *.monespaceveto.com
 *.royalcanin.cz
@@ -4497,6 +4496,7 @@ banfieldfoundation.org
 *.pedigree.com
 *.vcahospitals.com
 *.royalcanin.ca
+*.mms.com
 *.dovechocolate.com
 *.royal-canin.com
 *.bibliotecarc.cl

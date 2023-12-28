@@ -4487,7 +4487,6 @@ mars,*.royalcanin.com,False
 mars,*.jornadasroyalcanin.com.ar,False
 mars,*.orbitgum.com,False
 mars,*.royalcanin.pl,False
-mars,*.mms.com,False
 mars,*.moncse-royalcanin-siege.com,False
 mars,*.monespaceveto.com,False
 mars,*.royalcanin.cz,False
@@ -4498,6 +4497,7 @@ mars,banfieldfoundation.org,False
 mars,*.pedigree.com,False
 mars,*.vcahospitals.com,False
 mars,*.royalcanin.ca,False
+mars,*.mms.com,False
 mars,*.dovechocolate.com,False
 mars,*.royal-canin.com,False
 mars,*.bibliotecarc.cl,False
