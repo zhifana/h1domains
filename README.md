@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 28 22:17:42 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec 28 22:41:06 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -66,10 +66,10 @@ careers.booking.com
 experiences.booking.com
 supplier.auth.toag.booking.com
 supply-xml.booking.com
-admin.booking.com
 flights.booking.com
-booking.com
 *.booking.com
+booking.com
+admin.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
