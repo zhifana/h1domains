@@ -1712,8 +1712,8 @@ daimler_truck,*fleetboard.de,False
 daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
 daimler_truck,*evobus.com,False
-daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*fleetboard.com,False
+daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -6330,8 +6330,8 @@ zebra_vdp,domore.zebra.com,False
 zebra_vdp,mwwprod.zebra.engineering,False
 zebra_vdp,*.zebramwe.com,False
 zebra_vdp,fs.viq.zebra.com,False
-zebra_vdp,*.antuit.ai,False
 zebra_vdp,zsbportal.zebra.com,False
+zebra_vdp,*.antuit.ai,False
 zebra_vdp,global.zebra.com,False
 zebra_vdp,hcm.zebra.com,False
 zebra_vdp,dcs-polarion.zebra.com,False
@@ -9434,8 +9434,8 @@ goldmansachs,*.gsselect.com,True
 goldmansachs,*.marcus.co.uk,True
 goldmansachs,*.foliofn.com,True
 goldmansachs,*.unitedcp.com,True
-goldmansachs,*.goldman.com,True
 goldmansachs,*.ayco.com,True
+goldmansachs,*.goldman.com,True
 goldmansachs,*.goldmanpfm.com,True
 goldmansachs,*.finlifepartners.com,True
 goldmansachs,*.foliodigitalwealth.com,True
