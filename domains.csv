@@ -5482,13 +5482,13 @@ epicgames,*.rukkaz.com,True
 epicgames,*.audicagame.com,True
 epicgames,harmonixmusic.com,True
 epicgames,wonderboxdev.com,True
-epicgames,*.mediatonic.co.uk,True
 epicgames,fortnite.com,True
 epicgames,fallguys.com,True
 epicgames,*.unrealtournament.com,True
 epicgames,*.jellychat.com,True
 epicgames,*.popjam.com,True
 epicgames,capturingreality.com,True
+epicgames,*.mediatonic.co.uk,True
 epicgames,*.3lateral.com,True
 epicgames,forum.sketchfab.com,False
 epicgames,*.hmxwebservices.com,True
@@ -9560,8 +9560,8 @@ newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
 newrelic,infrastructure.newrelic.com,True
 newrelic,one.newrelic.com,True
-newrelic,*.newrelic.com,True
 newrelic,*.nr-ops.net,True
+newrelic,*.newrelic.com,True
 newrelic,synthetics.eu.newrelic.com,True
 newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
