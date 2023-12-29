@@ -5384,11 +5384,11 @@ tvawcma.com
 myenergyrightadvisor.com
 energyright.efficientchoice.com
 help-jp.krisp.ai
-analytics.krisp.ai
 help.krisp.ai
 jobs.krisp.ai
 url5145.krisp.ai
 resources.krisp.ai
+analytics.krisp.ai
 upld.krisp.ai
 account.krisp.ai
 *.krisp.ai
@@ -9440,8 +9440,8 @@ api.foliofn.com
 marquee.gs.com
 *.gsam.com
 *.folioinstitutional.com
-*.folioclient.com
 *.gs.de
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
