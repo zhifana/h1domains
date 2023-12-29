@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec 29 12:52:27 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec 29 13:20:11 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -966,7 +966,6 @@ sts.etoro.com
 watchlistapi.etoro.com
 delta.app
 www.etoro.com
-aggregator.etoro.com
 cashier.etoro.com
 cashier-src.etoro.com
 kyc-src.etoro.com
@@ -974,6 +973,7 @@ tapi-demo.etoro.com
 uapi-front.etoro.com
 wallet.etoro.com
 etoropartners.com
+aggregator.etoro.com
 billing.etoro.com
 push-hap.cloud.etoro.com
 push-n-hap.cloud.etoro.com
@@ -3673,10 +3673,10 @@ hackerone-ext-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
-cover-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 app.pullrequest.com
 errors.hackerone.net
+cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
