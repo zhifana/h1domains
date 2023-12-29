@@ -4637,8 +4637,8 @@ ai.planetart.com
 www.personalcreations.com
 www.mycustomcase.com
 *.mycustomcase.com
-*.simplytoimpress.com
 www.photoaffections.com
+*.simplytoimpress.com
 www.simplytoimpress.com
 www.cafepress.com
 iseeme.com
