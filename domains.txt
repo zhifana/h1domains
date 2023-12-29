@@ -5481,13 +5481,13 @@ api.stage.evernote.com
 *.audicagame.com
 harmonixmusic.com
 wonderboxdev.com
-fortnite.com
 fallguys.com
 *.unrealtournament.com
 *.jellychat.com
 *.popjam.com
 capturingreality.com
 *.mediatonic.co.uk
+fortnite.com
 *.3lateral.com
 forum.sketchfab.com
 *.hmxwebservices.com
