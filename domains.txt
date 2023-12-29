@@ -8809,7 +8809,6 @@ app.command.cysiv.com
 *equifax.sv
 *equifax.com.py
 *equifax.pt
-www.equifax.com
 *.mapcity.com
 chaodeudas.cl
 *.accountscore.com
@@ -8832,8 +8831,8 @@ register.alertxpress.com
 JOBALINE.COM
 JOBALINECI.COM
 *.datacredito.com.do
+www.equifax.com
 *equifax.cl
-*equifax.hn
 *equifax.co.nz
 *equifax.es
 *.dicom.cl
@@ -8857,6 +8856,7 @@ ntcusa.com
 *.healthefx.net
 *equifax.co.uk
 *.employersedge.com
+*.wageverify.com
 *.idwatchdog.com
 *.mercury.com.au
 *.ntcusa.com

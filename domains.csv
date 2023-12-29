@@ -8810,7 +8810,6 @@ equifax,*equifax.com,False
 equifax,*equifax.sv,False
 equifax,*equifax.com.py,False
 equifax,*equifax.pt,False
-equifax,www.equifax.com,False
 equifax,*.mapcity.com,False
 equifax,chaodeudas.cl,False
 equifax,*.accountscore.com,False
@@ -8833,8 +8832,8 @@ equifax,register.alertxpress.com,False
 equifax,JOBALINE.COM,False
 equifax,JOBALINECI.COM,False
 equifax,*.datacredito.com.do,False
+equifax,www.equifax.com,False
 equifax,*equifax.cl,False
-equifax,*equifax.hn,False
 equifax,*equifax.co.nz,False
 equifax,*equifax.es,False
 equifax,*.dicom.cl,False
@@ -8858,6 +8857,7 @@ equifax,*.acertandosuascontas.com.br,False
 equifax,*.healthefx.net,False
 equifax,*equifax.co.uk,False
 equifax,*.employersedge.com,False
+equifax,*.wageverify.com,False
 equifax,*.idwatchdog.com,False
 equifax,*.mercury.com.au,False
 equifax,*.ntcusa.com,False
