@@ -1557,8 +1557,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-testapp.redoxengine.com
 10x.redoxengine.com
+testapp.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
 sftp.gamma.redoxstage.com
@@ -4495,8 +4495,8 @@ banfieldexchange.com
 banfieldfoundation.org
 *.pedigree.com
 *.vcahospitals.com
-*.mms.com
 *.royalcanin.ca
+*.mms.com
 *.dovechocolate.com
 *.royal-canin.com
 *.bibliotecarc.cl
@@ -5741,7 +5741,6 @@ stage-api.agrisync.com
 stage-app.agrisync.com
 stage-vhb.agrisync.com
 vnd.agrisync.com
-map.deere.com
 us-central-1.r4.abc.expertconnect.support
 us-central-1.r4.xyz.expertconnect.support
 johndeeretours.deere.com
@@ -5782,6 +5781,7 @@ parts.deere.africa
 marksman.surepointag.com
 johndeereinnovation.com
 parts.waratah.com
+rewards.deere.com
 partsadvisor.deere.com
 jdisonline.com
 myjohndeere.deere.com
