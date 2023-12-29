@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec 29 00:52:01 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec 29 01:46:42 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -235,15 +235,6 @@ fhir.redoxengine.com
 explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
-www.mobile-phantom.com
-*.palm.tech
-www.tecno-mobile.com
-security.tecno.com
-*.palm.tech
-www.tecno-mobile.com
-www.boomplay.com
-security.tecno.com
-www.mobile-phantom.com
 www.visa.com.cn
 www.visa.com.hk
 www.visa.com.lc
@@ -2008,10 +1999,10 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.Daraz.com
 *.aliexpress.com
-*.aliyun-inc.com
 *.aliyun.com
-*.1688.com
 *.alimama.com
+*.1688.com
+*.aliyun-inc.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2088,11 +2079,11 @@ sso.marriott.com
 mgs.marriott.com
 gatewaydsaptst2.marriott.com
 www.marriott.com
-reservations.all-inclusive.marriott.com
 jobs.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
 gatewaydsaptst1.marriott.com
+reservations.all-inclusive.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 all-inclusive.marriott.com
@@ -2133,8 +2124,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
