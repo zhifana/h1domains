@@ -7,8 +7,8 @@ switch.vdp-egress.com
 www.egress.com
 mediacenter.23andme.com
 research.23andme.com
-education.23andme.com
 store.23andme.com
+education.23andme.com
 blog.23andme.com
 api.23andme.com
 auth.23andme.com
@@ -2929,10 +2929,10 @@ profile-api.eu-east-1.indriverapp.com
 argocd.indrive.dev
 ci.indrive.dev
 priority.eu-east-1.indriverapp.com
-watchdocs.indriverapp.com
 auth2.indrive.tech
 debug.clairvoyance.indrive.tech
 *.indriverapp.com
+watchdocs.indriverapp.com
 wga.volans.tech
 super-services.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
@@ -5579,8 +5579,8 @@ hatching.io
 securitytrails.com
 geminiadvisory.io
 www.recordedfuture.com
-id.recordedfuture.com
 tria.ge
+id.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -9511,8 +9511,8 @@ developer.valvesoftware.com
 storefront.steampowered.com
 wiki.teamfortress.com
 *.mona.co
-www.crypto.com
 auth.crypto.com
+www.crypto.com
 *.crypto.com
 tax.crypto.com
 merchant.crypto.com

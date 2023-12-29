@@ -8,8 +8,8 @@ egress-vdp,switch.vdp-egress.com,False
 egress-vdp,www.egress.com,False
 23andme_bbp,mediacenter.23andme.com,True
 23andme_bbp,research.23andme.com,True
-23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
+23andme_bbp,education.23andme.com,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
@@ -2930,10 +2930,10 @@ indrive,*.indriver.com,True
 indrive,argocd.indrive.dev,True
 indrive,ci.indrive.dev,True
 indrive,priority.eu-east-1.indriverapp.com,True
-indrive,watchdocs.indriverapp.com,True
 indrive,auth2.indrive.tech,True
 indrive,debug.clairvoyance.indrive.tech,True
 indrive,*.indriverapp.com,True
+indrive,watchdocs.indriverapp.com,True
 indrive,wga.volans.tech,True
 indrive,super-services.indriverapp.com,True
 indrive,file-storage-front.eu-east-1.indriverapp.com,True
@@ -5580,8 +5580,8 @@ recorded-future,hatching.io,True
 recorded-future,securitytrails.com,True
 recorded-future,geminiadvisory.io,True
 recorded-future,www.recordedfuture.com,True
-recorded-future,id.recordedfuture.com,True
 recorded-future,tria.ge,True
+recorded-future,id.recordedfuture.com,True
 recorded-future,www.recordedfuture.com,True
 recorded-future,api.recordedfuture.com,True
 recorded-future,app.recordedfuture.com,True
@@ -9512,8 +9512,8 @@ valve,developer.valvesoftware.com,True
 valve,storefront.steampowered.com,False
 valve,wiki.teamfortress.com,False
 crypto,*.mona.co,True
-crypto,www.crypto.com,True
 crypto,auth.crypto.com,True
+crypto,www.crypto.com,True
 crypto,*.crypto.com,True
 crypto,tax.crypto.com,True
 crypto,merchant.crypto.com,True
