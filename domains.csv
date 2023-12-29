@@ -69,8 +69,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,admin.booking.com,True
-bookingcom,booking.com,True
 bookingcom,*.booking.com,True
+bookingcom,booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
@@ -3388,7 +3388,6 @@ yuga_labs,*.10ktf.com,True
 yuga_labs,*.wenewmoments.com,True
 yuga_labs,dookeydash.com,True
 yuga_labs,hv-mtl.com,True
-expediagroup_bbp,www.hotwirepartnercentral.com,True
 expediagroup_bbp,www.mrjet.se,True
 expediagroup_bbp,www.expediaagents.com,True
 expediagroup_bbp,www.expediapartnersolutions.com,True
@@ -3396,6 +3395,7 @@ expediagroup_bbp,www.hotels.com,True
 expediagroup_bbp,www.orbitz.com,True
 expediagroup_bbp,www.abritel.fr,True
 expediagroup_bbp,www.expediagroup.com,True
+expediagroup_bbp,www.hotwirepartnercentral.com,True
 expediagroup_bbp,www.flights.com,True
 expediagroup_bbp,www.travelocity.com,True
 expediagroup_bbp,www.ebookers.com,True
@@ -6519,8 +6519,8 @@ on,*.on-running.com,False
 on,on-app-backend.on-running.com,False
 on,*.on-running.com,False
 on,on-app-backend.on-running.com,False
-scopely,*.withbuddies.com,True
 scopely,*.scopely.com,True
+scopely,*.withbuddies.com,True
 scopely,*.scopely.io,True
 scopely,*.scopely.io,True
 scopely,*.scopely.com,True
@@ -7989,10 +7989,10 @@ marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
-marriott,all-inclusive.marriott.com,True
 marriott,marriottfranchisetransactions.marriott.com,True
 marriott,cpp.marriott.com,True
 marriott,www.ritzcarlton.com,True
+marriott,all-inclusive.marriott.com,True
 marriott,*uat.marriott.com,True
 marriott,passwordchallenge.marriott.com,True
 marriott,marrtool.com,True
