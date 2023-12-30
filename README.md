@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec 30 15:41:38 UTC 2023)
+## Domains with Bounties (Last Updated Sat Dec 30 16:21:18 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -68,8 +68,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 admin.booking.com
-*.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -2077,8 +2077,8 @@ maria.casino
 www.32red.com
 sso.marriott.com
 gatewaydsaptst2.marriott.com
-www.marriott.com
 mgs.marriott.com
+www.marriott.com
 jobs.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
@@ -3309,8 +3309,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

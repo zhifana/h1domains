@@ -68,8 +68,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 admin.booking.com
-*.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -7965,8 +7965,8 @@ www.32red.com
 relaxcdn.unibet.com
 sso.marriott.com
 gatewaydsaptst2.marriott.com
-www.marriott.com
 mgs.marriott.com
+www.marriott.com
 jobs.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
@@ -10155,8 +10155,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
