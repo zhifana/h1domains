@@ -7965,8 +7965,8 @@ www.32red.com
 relaxcdn.unibet.com
 sso.marriott.com
 gatewaydsaptst2.marriott.com
-mgs.marriott.com
 www.marriott.com
+mgs.marriott.com
 jobs.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
@@ -8829,9 +8829,9 @@ register.alertxpress.com
 JOBALINE.COM
 JOBALINECI.COM
 *.datacredito.com.do
-www.equifax.com
 *equifax.co.in
 *.bvsnet.com.br
+www.equifax.com
 *equifax.cl
 *equifax.co.nz
 *equifax.es
@@ -10190,8 +10190,8 @@ www.bitmoji.com
 my.snapchat.com
 snappublisher.snapchat.com
 playcanvas.com
-business.snapchat.com
 app.snapchat.com
+business.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 web.snapchat.com

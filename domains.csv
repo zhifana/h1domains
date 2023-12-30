@@ -7966,8 +7966,8 @@ kindred_group,www.32red.com,True
 kindred_group,relaxcdn.unibet.com,False
 marriott,sso.marriott.com,True
 marriott,gatewaydsaptst2.marriott.com,True
-marriott,mgs.marriott.com,True
 marriott,www.marriott.com,True
+marriott,mgs.marriott.com,True
 marriott,jobs.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,activities.marriott.com,True
@@ -8830,9 +8830,9 @@ equifax,register.alertxpress.com,False
 equifax,JOBALINE.COM,False
 equifax,JOBALINECI.COM,False
 equifax,*.datacredito.com.do,False
-equifax,www.equifax.com,False
 equifax,*equifax.co.in,False
 equifax,*.bvsnet.com.br,False
+equifax,www.equifax.com,False
 equifax,*equifax.cl,False
 equifax,*equifax.co.nz,False
 equifax,*equifax.es,False
@@ -10191,8 +10191,8 @@ snapchat,www.bitmoji.com,True
 snapchat,my.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
 snapchat,playcanvas.com,True
-snapchat,business.snapchat.com,True
 snapchat,app.snapchat.com,True
+snapchat,business.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,web.snapchat.com,True
