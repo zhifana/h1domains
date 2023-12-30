@@ -39,8 +39,8 @@ api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadolibre.com.co
 www.mercadopago.com.mx
-api.mercadolibre.com
 www.mercadopago.com.br
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -4895,9 +4895,9 @@ www.alohi.com
 *.cartus.com
 *.trgc.com
 *.leadrouter.com
-*.bhgre.*
 *.century21.*
 *.era.com
+*.bhgre.*
 *.nrtllc.*
 *.sothebysrealty.*
 *.corcoran.*
