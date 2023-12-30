@@ -2753,8 +2753,8 @@ www.crypto.com
 tax.crypto.com
 merchant.crypto.com
 js.crypto.com
-pay.crypto.com
 app.mona.co
+pay.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
