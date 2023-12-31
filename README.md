@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 31 15:12:36 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec 31 15:39:26 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -343,8 +343,8 @@ www.practicalmoneyskills.org
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshchat.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -3603,8 +3603,8 @@ prime.coinbase.com
 pro.coinbase.com
 *.coinbase.com
 international.coinbase.com
-cloud.coinbase.com
 api.coinbase.com
+cloud.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
 coinbase.com
