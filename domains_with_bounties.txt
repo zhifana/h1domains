@@ -3342,8 +3342,8 @@ app.snapchat.com
 business.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
-web.snapchat.com
 spectacles.com
+web.snapchat.com
 developer.playcanvas.com
 launch.playcanvas.com
 www.bitstrips.com
@@ -3593,9 +3593,9 @@ team-irc.irccloud.com
 blog.irccloud.com
 custody.coinbase.com
 *.cbhq.net
-*.coinbase.com
 prime.coinbase.com
 pro.coinbase.com
+*.coinbase.com
 international.coinbase.com
 cloud.coinbase.com
 api.coinbase.com
