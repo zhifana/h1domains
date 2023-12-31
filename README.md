@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 31 10:16:11 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec 31 10:39:40 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -937,8 +937,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-my.exness.com
 exnessaffiliates.com
+my.exness.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -1124,9 +1124,9 @@ fallguys.com
 *.unrealtournament.com
 *.jellychat.com
 *.popjam.com
-capturingreality.com
 *.mediatonic.co.uk
 fortnite.com
+capturingreality.com
 *.3lateral.com
 *.hmxwebservices.com
 *.rocketleague.com
@@ -3337,7 +3337,6 @@ login.playcanvas.com
 code.playcanvas.com
 store.playcanvas.com
 playcanv.as
-map.snapchat.com
 rt.playcanvas.com
 store.snapchat.com
 www.bitmoji.com
@@ -3346,6 +3345,7 @@ snappublisher.snapchat.com
 playcanvas.com
 app.snapchat.com
 business.snapchat.com
+map.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
