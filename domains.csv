@@ -2825,8 +2825,8 @@ floqast,*.floqast.app,True
 floqast,api-eu.floqast.app,True
 hilton,*.hilton.io,True
 hilton,*.hiltonhotels.jp,True
-hilton,hiltonhotels.jp,True
 hilton,*.hiltonbusinessonline.com,True
+hilton,hiltonhotels.jp,True
 hilton,hilton.io,True
 hilton,hiltonbusinessonline.com,True
 hilton,hiltonlocalbiz.com,True
@@ -4733,8 +4733,8 @@ ro,http://ro.co/spermkit,False
 kayak,www.mundi.com.br,True
 kayak,www.momondo.com,True
 kayak,www.hotelscombined.com,True
-kayak,business.kayak.com,True
 kayak,www.checkfelix.com,True
+kayak,business.kayak.com,True
 kayak,www.swoodoo.com,True
 kayak,www.cheapflights.com,True
 kayak,www.kayak.com,True
@@ -5578,8 +5578,8 @@ recorded-future,app.recordedfuture.com,True
 recorded-future,api.recordedfuture.com,True
 recorded-future,hatching.io,True
 recorded-future,securitytrails.com,True
-recorded-future,geminiadvisory.io,True
 recorded-future,www.recordedfuture.com,True
+recorded-future,geminiadvisory.io,True
 recorded-future,tria.ge,True
 recorded-future,id.recordedfuture.com,True
 recorded-future,www.recordedfuture.com,True
@@ -10155,9 +10155,9 @@ shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
