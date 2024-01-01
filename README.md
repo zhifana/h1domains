@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan  1 08:40:47 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan  1 09:18:44 UTC 2024)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -791,11 +791,11 @@ zerobounce.in
 api.zerobounce.in
 zerobounce.net
 *.gravitational.com
-*.teleport.dev
 *.gravitational.co
 cloud.gravitational.io
 *.teleportinfra.sh
 askpam.ai
+*.teleport.dev
 teleport.sh
 *.gravitational.io
 h1-your-domain.teleport.sh
@@ -2035,8 +2035,8 @@ api.fortmatic.com
 fortmatic.com
 auth.magic.link
 dashboard.magic.link
-x2.fortmatic.com
 careers.fortmatic.com
+x2.fortmatic.com
 api.fortmatic.com
 x2.fortmatic.com
 careers.fortmatic.com
@@ -3607,8 +3607,8 @@ api.coinbase.com
 cloud.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
-coinbase.com
 *.base.org
+coinbase.com
 commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net
