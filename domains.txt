@@ -1187,10 +1187,10 @@ bathandbodyworks.ro
 *.americaneagle.com.bh
 *.victoriassecret.com.qa
 *.americaneagle.com.kw
-card.starbucks.com.kz
 kw.boots.com
 *.westelm.com.kw
 shayakahve.com.tr
+card.starbucks.com.kz
 boysweb.shaya.com.tr
 kw.hm.com
 kw.cosstores.com
@@ -7811,8 +7811,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 www.alibabagroup.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.Daraz.com
