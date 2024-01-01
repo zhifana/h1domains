@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan  1 08:21:50 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan  1 08:40:47 UTC 2024)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -28,10 +28,10 @@ research.23andme.com
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
 www.mercadopago.cl
-www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadolibre.com.mx
 www.mercadolivre.com.br
+www.mercadolibre.com.uy
 www.mercadopago.com.pe
 www.mercadopago.com.co
 www.mercadolibre.com.ar
@@ -3607,8 +3607,8 @@ api.coinbase.com
 cloud.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
-*.base.org
 coinbase.com
+*.base.org
 commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net
