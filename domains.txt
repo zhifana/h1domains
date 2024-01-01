@@ -1,7 +1,7 @@
 https://passport.eufy.com/?app=eufy-us
 switch.vdp-egress.com
-www.egress.com
 reader.vdp-egress.com
+www.egress.com
 reader.vdp-egress.com
 switch.vdp-egress.com
 www.egress.com
@@ -1188,9 +1188,9 @@ bathandbodyworks.ro
 *.victoriassecret.com.qa
 *.americaneagle.com.kw
 kw.boots.com
-*.westelm.com.kw
 shayakahve.com.tr
 card.starbucks.com.kz
+*.westelm.com.kw
 boysweb.shaya.com.tr
 kw.hm.com
 kw.cosstores.com
@@ -3624,9 +3624,9 @@ resmed.sg
 resmed.ch
 resmed.la
 airview.resmed.eu
-propellerhealth.com
 mealtracker.com
 onlinestore.resmed.com
+propellerhealth.com
 resmed.lat
 resmed.vn
 resmed.pt
@@ -9818,8 +9818,8 @@ profiles.wordpress.org
 lists.wordpress.org
 irclogs.wordpress.org
 gutenberg.run
-*.wordpress.net
 api.wordpress.org
+*.wordpress.net
 mercantile.wordpress.org
 doaction.org
 *.trac.wordpress.org
@@ -10431,8 +10431,8 @@ api.vimeo.com
 vimeo.magisto.com
 vhx.tv
 api.vhx.tv
-*.livestream.com
 *.magisto.com
+*.livestream.com
 *.new.livestream.com
 checkout.vimeo.com
 staging.magisto.com
@@ -10485,8 +10485,8 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 twitterflightschool.com
-*.twitter.com
 x.com
+*.twitter.com
 t.co
 grok.x.ai
 *.twimg.com
@@ -10582,8 +10582,8 @@ api.coinbase.com
 cloud.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
-coinbase.com
 *.base.org
+coinbase.com
 commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net
@@ -10888,8 +10888,8 @@ cms-backend.jimdosite.com
 ns1.jimdo.com
 ns12.jimdo.com
 *.jimdo.systems
-dash.e.jimdo.com
 *.jimdosite.com
+dash.e.jimdo.com
 cms.e.jimdo.com
 business-profile-service.jimdosite.com
 ns2.jimdo.com

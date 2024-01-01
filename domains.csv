@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
 eufy_security,https://passport.eufy.com/?app=eufy-us,True
 egress-vdp,switch.vdp-egress.com,False
-egress-vdp,www.egress.com,False
 egress-vdp,reader.vdp-egress.com,False
+egress-vdp,www.egress.com,False
 egress-vdp,reader.vdp-egress.com,False
 egress-vdp,switch.vdp-egress.com,False
 egress-vdp,www.egress.com,False
@@ -1189,9 +1189,9 @@ alshaya,*.americaneagle.com.bh,False
 alshaya,*.victoriassecret.com.qa,False
 alshaya,*.americaneagle.com.kw,False
 alshaya,kw.boots.com,False
-alshaya,*.westelm.com.kw,False
 alshaya,shayakahve.com.tr,False
 alshaya,card.starbucks.com.kz,False
+alshaya,*.westelm.com.kw,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,kw.hm.com,False
 alshaya,kw.cosstores.com,False
@@ -3625,9 +3625,9 @@ resmed,resmed.sg,False
 resmed,resmed.ch,False
 resmed,resmed.la,False
 resmed,airview.resmed.eu,False
-resmed,propellerhealth.com,False
 resmed,mealtracker.com,False
 resmed,onlinestore.resmed.com,False
+resmed,propellerhealth.com,False
 resmed,resmed.lat,False
 resmed,resmed.vn,False
 resmed,resmed.pt,False
@@ -9819,8 +9819,8 @@ wordpress,*.wordcamp.org,True
 wordpress,lists.wordpress.org,True
 wordpress,irclogs.wordpress.org,True
 wordpress,gutenberg.run,True
-wordpress,*.wordpress.net,True
 wordpress,api.wordpress.org,True
+wordpress,*.wordpress.net,True
 wordpress,mercantile.wordpress.org,True
 wordpress,doaction.org,True
 wordpress,*.trac.wordpress.org,True
@@ -10432,8 +10432,8 @@ vimeo,api.vimeo.com,True
 vimeo,vimeo.magisto.com,True
 vimeo,vhx.tv,True
 vimeo,api.vhx.tv,True
-vimeo,*.livestream.com,True
 vimeo,*.magisto.com,True
+vimeo,*.livestream.com,True
 vimeo,*.new.livestream.com,True
 vimeo,checkout.vimeo.com,True
 vimeo,staging.magisto.com,True
@@ -10486,8 +10486,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,*.twitter.com,True
 x,x.com,True
+x,*.twitter.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True
@@ -10583,8 +10583,8 @@ coinbase,api.coinbase.com,True
 coinbase,cloud.coinbase.com,True
 coinbase,api.custody.coinbase.com,True
 coinbase,institutional.coinbase.com,True
-coinbase,coinbase.com,True
 coinbase,*.base.org,True
+coinbase,coinbase.com,True
 coinbase,commerce.coinbase.com,True
 coinbase,*.coinbase.com,True
 coinbase,*.cbhq.net,True
@@ -10889,8 +10889,8 @@ jimdo,cms-backend.jimdosite.com,False
 jimdo,ns1.jimdo.com,False
 jimdo,ns12.jimdo.com,False
 jimdo,*.jimdo.systems,False
-jimdo,dash.e.jimdo.com,False
 jimdo,*.jimdosite.com,False
+jimdo,dash.e.jimdo.com,False
 jimdo,cms.e.jimdo.com,False
 jimdo,business-profile-service.jimdosite.com,False
 jimdo,ns2.jimdo.com,False

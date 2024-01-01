@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan  1 16:44:09 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan  1 17:17:55 UTC 2024)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -3028,8 +3028,8 @@ profiles.wordpress.org
 lists.wordpress.org
 irclogs.wordpress.org
 gutenberg.run
-*.wordpress.net
 api.wordpress.org
+*.wordpress.net
 mercantile.wordpress.org
 doaction.org
 *.trac.wordpress.org
@@ -3466,8 +3466,8 @@ api.vimeo.com
 vimeo.magisto.com
 vhx.tv
 api.vhx.tv
-*.livestream.com
 *.magisto.com
+*.livestream.com
 *.new.livestream.com
 checkout.vimeo.com
 staging.magisto.com
@@ -3515,8 +3515,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 grok.x.ai
 *.twimg.com
 gnip.com
@@ -3607,8 +3607,8 @@ api.coinbase.com
 cloud.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
-coinbase.com
 *.base.org
+coinbase.com
 commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net
