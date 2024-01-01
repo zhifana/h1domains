@@ -3548,8 +3548,8 @@ teleport,*.teleport.dev,True
 teleport,teleport.sh,True
 teleport,*.gravitational.io,True
 teleport,h1-your-domain.teleport.sh,True
-teleport,*.goteleport.com,True
 teleport,platform.teleport.sh,True
+teleport,*.goteleport.com,True
 teleport,*.goteleport.com,True
 teleport,*.gravitational.com,True
 teleport,*.teleport.dev,True
