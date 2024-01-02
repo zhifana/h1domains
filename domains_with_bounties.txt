@@ -3430,10 +3430,10 @@ store.snapchat.com
 www.bitmoji.com
 my.snapchat.com
 snappublisher.snapchat.com
-business.snapchat.com
-map.snapchat.com
 playcanvas.com
 app.snapchat.com
+map.snapchat.com
+business.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
