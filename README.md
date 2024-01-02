@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  2 19:17:02 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan  2 19:43:36 UTC 2024)
 ```
 payments.hostinger.com
 hpanel.hostinger.com
-cpanel.hosting24.com
 www.niagahoster.co.id
+cpanel.hosting24.com
 payments.hosting24.com
 www.hosting24.com
 *.000webhost.com
@@ -3436,10 +3436,10 @@ store.snapchat.com
 www.bitmoji.com
 my.snapchat.com
 snappublisher.snapchat.com
-playcanvas.com
 map.snapchat.com
 business.snapchat.com
 app.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
@@ -3727,8 +3727,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack.com
 slack-imgs.com
+slack.com
 www.quip.com
 slack.com
 api.slack.com
