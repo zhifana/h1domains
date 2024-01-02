@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  2 19:43:36 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan  2 20:22:08 UTC 2024)
 ```
 payments.hostinger.com
 hpanel.hostinger.com
@@ -10,9 +10,9 @@ www.niagahoster.co.id
 cpanel.hosting24.com
 payments.hosting24.com
 www.hosting24.com
-*.000webhost.com
 hpanel.hosting24.com
 www.hostinger.com
+*.000webhost.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
@@ -1427,9 +1427,9 @@ new.reddit.com
 *.redditinc.com
 s.reddit.com
 gateway.reddit.com
-www.spiketrap.io
 ads-api.reddit.com
 *.reddit.com
+www.spiketrap.io
 *.redditblog.com
 reddit.secure.force.com
 amp.reddit.com
@@ -2686,7 +2686,6 @@ api-staging.airtable.com
 *.staging.airtable.com
 staging.airtable.com
 api-staging.airtable.com
-https://staging.airtable.com/admin
 shop.shipt.com
 staging-api.shipt.com
 admin.shipt.com
@@ -3763,8 +3762,8 @@ ctf.hacker101.com
 profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackathon-photos.hackerone-user-content.com
-hackerone-ext-content.com
 www.hackerone.com
+hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 b5s.hackerone-ext-content.com
