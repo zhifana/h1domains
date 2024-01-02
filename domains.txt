@@ -1448,8 +1448,8 @@ aboitizpower.ph
 mactanenerzone.com
 snap-res.com
 *.hedcor.com
-visayanelectric.ph
 visayanelectric.com.ph
+visayanelectric.ph
 *.aboitizpower.com
 *.snaboitiz.com
 *.enerzone.com.ph
