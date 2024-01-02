@@ -2997,8 +2997,8 @@ abb,*.abb.co.in,False
 abb,*.abb.fr,False
 abb,*.abb.se,False
 abb,*.br-automation.com,False
-abb,*.it.abb.com,False
 abb,*.abb.com.cn,False
+abb,*.it.abb.com,False
 abb,*.busch-jaeger.nu,False
 abb,*.xc.abb.com,False
 abb,*.evcharging.abb.com,False
@@ -9298,8 +9298,8 @@ paypal,swiftfinancial.com,True
 paypal,*.paylution.com,True
 paypal,py.pl,True
 paypal,*.braintreepayments.com,True
-paypal,*.braintree-api.com,True
 paypal,*.xoom.com,True
+paypal,*.braintree-api.com,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
 paypal,swiftcapital.com,True
