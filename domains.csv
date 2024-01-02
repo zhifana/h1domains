@@ -6,8 +6,8 @@ hostinger,cpanel.hosting24.com,True
 hostinger,payments.hosting24.com,True
 hostinger,www.hosting24.com,True
 hostinger,hpanel.hosting24.com,True
-hostinger,www.hostinger.com,True
 hostinger,*.000webhost.com,True
+hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,logo.zyro.com,True
 hostinger,partner.niagahoster.co.id,True
@@ -41,11 +41,11 @@ egress-vdp,www.egress.com,False
 23andme_bbp,store.23andme.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,api.23andme.com,True
-23andme_bbp,auth.23andme.com,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,you.23andme.com,True
-23andme_bbp,medical.23andme.com,True
+23andme_bbp,auth.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
+23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,blog.23andme.com,True
@@ -60,9 +60,9 @@ mercadolibre,www.mercadopago.com.uy,True
 mercadolibre,www.mercadolibre.com.pe,True
 mercadolibre,www.mercadopago.cl,True
 mercadolibre,www.mercadolibre.cl,True
-mercadolibre,www.mercadolibre.com.mx,True
 mercadolibre,www.mercadolivre.com.br,True
 mercadolibre,www.mercadolibre.com.uy,True
+mercadolibre,www.mercadolibre.com.mx,True
 mercadolibre,www.mercadopago.com.pe,True
 mercadolibre,www.mercadopago.com.co,True
 mercadolibre,www.mercadolibre.com.ar,True
