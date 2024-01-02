@@ -3606,8 +3606,8 @@ teleport,*.gravitational.com,True
 teleport,teleport.sh,True
 teleport,*.gravitational.io,True
 teleport,h1-your-domain.teleport.sh,True
-teleport,*.goteleport.com,True
 teleport,platform.teleport.sh,True
+teleport,*.goteleport.com,True
 teleport,*.goteleport.com,True
 teleport,*.gravitational.com,True
 teleport,*.teleport.dev,True
@@ -10512,8 +10512,8 @@ airbnb,*.airbnb.com,True
 airbnb,assets.airbnb.com,True
 airbnb,open.airbnb.com,True
 airbnb,callbacks.airbnb.com,True
-airbnb,api.airbnb.com,True
 airbnb,www.airbnb.com,True
+airbnb,api.airbnb.com,True
 airbnb,www.airbnb.com,True
 airbnb,next.airbnb.com,True
 airbnb,api.airbnb.com,True
