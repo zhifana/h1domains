@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  2 21:18:06 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan  2 21:41:11 UTC 2024)
 ```
 payments.hostinger.com
 hpanel.hostinger.com
@@ -757,8 +757,8 @@ api.doppler.com
 dashboard.doppler.com
 share.doppler.com
 *.mdvmm.xyz
-*.yuga.com
 *.otherside.xyz
+*.yuga.com
 *.meebits.app
 *.10ktf.com
 *.cryptopunks.app

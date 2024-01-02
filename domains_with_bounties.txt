@@ -751,8 +751,8 @@ api.doppler.com
 dashboard.doppler.com
 share.doppler.com
 *.mdvmm.xyz
-*.yuga.com
 *.otherside.xyz
+*.yuga.com
 *.meebits.app
 *.10ktf.com
 *.cryptopunks.app
