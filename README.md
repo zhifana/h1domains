@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  2 18:22:24 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan  2 18:43:51 UTC 2024)
 ```
 payments.hostinger.com
 hpanel.hostinger.com
@@ -95,11 +95,11 @@ kyc-onboarding.booking.com
 careers.booking.com
 experiences.booking.com
 supplier.auth.toag.booking.com
-supply-xml.booking.com
 flights.booking.com
 admin.booking.com
 *.booking.com
 booking.com
+supply-xml.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -2982,8 +2982,8 @@ privatetarget-1-www.zigzag
 grab.careers
 wiki.grab.com
 gifts.grab.com
-*.grab-sure.com
 *.grabpay.com
+*.grab-sure.com
 xtramile.grabpay.com
 *.grab.co
 manage.grab.co
@@ -3437,9 +3437,9 @@ www.bitmoji.com
 my.snapchat.com
 snappublisher.snapchat.com
 playcanvas.com
-app.snapchat.com
 map.snapchat.com
 business.snapchat.com
+app.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
