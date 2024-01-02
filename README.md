@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  2 13:42:22 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan  2 14:19:11 UTC 2024)
 ```
 cpanel.hosting24.com
 www.niagahoster.co.id
@@ -164,8 +164,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -3395,9 +3395,9 @@ www.udemy.com
 yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
-*.shopifycloud.com
 linkpop.com
 shop.app
+*.shopifycloud.com
 shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com

@@ -158,8 +158,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -3389,9 +3389,9 @@ www.udemy.com
 yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
-*.shopifycloud.com
 linkpop.com
 shop.app
+*.shopifycloud.com
 shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
