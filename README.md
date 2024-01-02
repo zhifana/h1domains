@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  2 22:40:51 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan  2 23:17:07 UTC 2024)
 ```
 payments.hostinger.com
 hpanel.hostinger.com
@@ -1691,9 +1691,9 @@ careers.tiktok.com
 business.tiktok.com
 *.tiktokv.com
 *.tiktok.com
-developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
+developers.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -3118,9 +3118,9 @@ rockstarnorth.com
 circolocorecords.com/
 store.rockstargames.com
 support.rockstargames.com
-socialclub.rockstargames.com
 prod.ros.rockstargames.com
 lifeinvader.com
+socialclub.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3166,9 +3166,9 @@ www.starbucks.de
 www.starbucks.com.sg
 www.starbucks.com
 www.starbucks.co.jp
-login.starbucks.co.jp
 www.starbucks.com.cn
 www.starbucks.co.kr
+login.starbucks.co.jp
 openapi.starbucks.com
 www.starbucks.ca
 gift.starbucks.co.jp
