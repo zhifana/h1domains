@@ -2,8 +2,38 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  2 12:55:35 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan  2 13:21:26 UTC 2024)
 ```
+cpanel.hosting24.com
+www.niagahoster.co.id
+hpanel.hostinger.com
+payments.hostinger.com
+payments.hosting24.com
+hpanel.hosting24.com
+www.hosting24.com
+*.000webhost.com
+www.hostinger.com
+cpanel.hostinger.com
+logo.zyro.com
+partner.niagahoster.co.id
+editor.zyro.com
+backend.zyro.com
+www.zyro.com
+*.000webhost.com
+www.hostinger.com
+cpanel.hostinger.com
+hpanel.hostinger.com
+payments.hostinger.com
+www.zyro.com
+backend.zyro.com
+editor.zyro.com
+logo.zyro.com
+www.hosting24.com
+hpanel.hosting24.com
+cpanel.hosting24.com
+payments.hosting24.com
+www.niagahoster.co.id
+partner.niagahoster.co.id
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
 research.23andme.com
@@ -1391,10 +1421,10 @@ old.reddit.com
 meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com
-new.reddit.com
 *.redditinc.com
 sh.reddit.com
 *.snooguts.net
+new.reddit.com
 s.reddit.com
 gateway.reddit.com
 www.spiketrap.io
