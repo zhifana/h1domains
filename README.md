@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  2 13:21:26 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan  2 13:42:22 UTC 2024)
 ```
 cpanel.hosting24.com
 www.niagahoster.co.id
@@ -40,9 +40,9 @@ research.23andme.com
 store.23andme.com
 education.23andme.com
 api.23andme.com
-blog.23andme.com
 you.23andme.com
 auth.23andme.com
+blog.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -1416,8 +1416,8 @@ api.reddit.com
 app.spiketrap.io
 gql.reddit.com
 *.redditmedia.com
-ads.reddit.com
 old.reddit.com
+ads.reddit.com
 meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com
