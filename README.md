@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  2 06:22:28 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan  2 06:42:40 UTC 2024)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -134,8 +134,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -1844,10 +1844,10 @@ wallets.api.playstation.com
 social.playstation.com
 transact.playstation.com
 api.direct.playstation.com
-store.playstation.com
 *.api.playstation.com
 *.sonyentertainmentnetwork.com
 direct.playstation.com
+store.playstation.com
 my.playstation.com
 ca.account.sony.com
 *.playstation.net
