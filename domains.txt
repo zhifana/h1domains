@@ -3022,8 +3022,8 @@ abb.com.br
 *.abb-drives.com
 *.busch-jaeger.nl
 *.ability.abb
-*.motors.abb.com
 *.abb
+*.motors.abb.com
 *.stratus.abb.com
 *.cirrus.abb.com
 *.motion.abb.com

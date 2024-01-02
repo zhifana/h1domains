@@ -3023,8 +3023,8 @@ abb,*.abb.in,False
 abb,*.abb-drives.com,False
 abb,*.busch-jaeger.nl,False
 abb,*.ability.abb,False
-abb,*.motors.abb.com,False
 abb,*.abb,False
+abb,*.motors.abb.com,False
 abb,*.stratus.abb.com,False
 abb,*.cirrus.abb.com,False
 abb,*.motion.abb.com,False
