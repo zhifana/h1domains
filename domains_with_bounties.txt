@@ -101,12 +101,12 @@ accommodations.booking.com
 phone-validation.taxi.booking.com
 taxis.booking.com
 *.rentalcars.com
-taxi.booking.com
 secure-supply-xml.booking.com
 paynotifications.booking.com
 autocomplete.booking.com
 widget.rentalcars.com
 paymentcomponent.booking.com
+taxi.booking.com
 webhooks.booking.com
 paybridge.booking.com
 secure.booking.com

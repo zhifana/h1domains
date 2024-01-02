@@ -108,12 +108,12 @@ bookingcom,accommodations.booking.com,True
 bookingcom,phone-validation.taxi.booking.com,True
 bookingcom,taxis.booking.com,True
 bookingcom,*.rentalcars.com,True
-bookingcom,taxi.booking.com,True
 bookingcom,secure-supply-xml.booking.com,True
 bookingcom,paynotifications.booking.com,True
 bookingcom,autocomplete.booking.com,True
 bookingcom,widget.rentalcars.com,True
 bookingcom,paymentcomponent.booking.com,True
+bookingcom,taxi.booking.com,True
 bookingcom,webhooks.booking.com,True
 bookingcom,paybridge.booking.com,True
 bookingcom,secure.booking.com,True

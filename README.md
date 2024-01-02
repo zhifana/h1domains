@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  2 21:41:11 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan  2 22:17:09 UTC 2024)
 ```
 payments.hostinger.com
 hpanel.hostinger.com
@@ -107,12 +107,12 @@ accommodations.booking.com
 phone-validation.taxi.booking.com
 taxis.booking.com
 *.rentalcars.com
-taxi.booking.com
 secure-supply-xml.booking.com
 paynotifications.booking.com
 autocomplete.booking.com
 widget.rentalcars.com
 paymentcomponent.booking.com
+taxi.booking.com
 webhooks.booking.com
 paybridge.booking.com
 secure.booking.com
