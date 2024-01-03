@@ -2848,6 +2848,8 @@ snapfish.it
 snapfish.fr
 snapfish.ie
 photo.walgreens.com
+*.lifetouch.com
+*.photoccino.com
 snapfish.de
 prestigeportraits.com
 lifetouch.com
@@ -2859,6 +2861,7 @@ snapfish.com
 *.snapfish.com
 admin.spoonflower.com
 wgwebservices.snapfish.com
+*.sbs.shutterfly.com
 snapfish.co.uk
 snapfish.com.au
 snapfish.co.nz
@@ -2870,6 +2873,9 @@ www.spoonflower.com
 *.shutterfly.com
 *.snapfish.com
 *.sf-cdn.com
+*.lifetouch.com
+*.photoccino.com
+*.sbs.shutterfly.com
 lifetouch.com
 jcpportraits.com
 prestigeportraits.com
@@ -2886,12 +2892,12 @@ snapfish.co.uk
 snapfish.com.au
 snapfish.co.nz
 photo.walgreens.com
-http://www.cvs.com/photo/
 www.spoonflower.com
 admin.spoonflower.com
 staging.spoonflower.com
 blog.spoonflower.com
 wgwebservices.snapfish.com
+https://www.cvs.com/photo/
 www.six-group.com
 www.six-group.com
 *.merck.com
@@ -4571,9 +4577,9 @@ banfield.us
 *.mivetshop.com.ar
 *.royalcanin.pt
 *.individualis.com
-*.royalcanin.nl
 *.miroyalcanin.com.ar
 *.banfield.com
+*.royalcanin.nl
 *.extragum.com
 *.monespaceeleveur.fr
 *.myroyalcanin.hu
@@ -7986,9 +7992,9 @@ cloud.digitalocean.com
 unified.cloudways.com
 marketplace.digitalocean.com
 169.254.169.254
-api.cloudways.com
 api.digitalocean.com
 *.digitalocean.com
+api.cloudways.com
 www.cloudways.com
 do.co
 hackathon-tracker.digitalocean.com
@@ -9861,9 +9867,9 @@ hotornot.com
 m.badoo.com
 meu1.badoo.com
 ccardsus1.badoo.com
-chatdate.app
 us1.badoo.com
 zodia.studio
+chatdate.app
 eu1.badoo.com
 bma.badoo.com
 badoocdn.com
@@ -10336,9 +10342,9 @@ my.snapchat.com
 snappublisher.snapchat.com
 map.snapchat.com
 business.snapchat.com
-playcanvas.com
 app.snapchat.com
 www.bitmoji.com
+playcanvas.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com

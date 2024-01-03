@@ -2849,6 +2849,8 @@ shutterfly_vdp,snapfish.it,False
 shutterfly_vdp,snapfish.fr,False
 shutterfly_vdp,snapfish.ie,False
 shutterfly_vdp,photo.walgreens.com,False
+shutterfly_vdp,*.lifetouch.com,False
+shutterfly_vdp,*.photoccino.com,False
 shutterfly_vdp,snapfish.de,False
 shutterfly_vdp,prestigeportraits.com,False
 shutterfly_vdp,lifetouch.com,False
@@ -2860,6 +2862,7 @@ shutterfly_vdp,snapfish.com,False
 shutterfly_vdp,*.snapfish.com,False
 shutterfly_vdp,admin.spoonflower.com,False
 shutterfly_vdp,wgwebservices.snapfish.com,False
+shutterfly_vdp,*.sbs.shutterfly.com,False
 shutterfly_vdp,snapfish.co.uk,False
 shutterfly_vdp,snapfish.com.au,False
 shutterfly_vdp,snapfish.co.nz,False
@@ -2871,6 +2874,9 @@ shutterfly_vdp,*.shutterfly.com,False
 shutterfly_vdp,*.shutterfly.com,False
 shutterfly_vdp,*.snapfish.com,False
 shutterfly_vdp,*.sf-cdn.com,False
+shutterfly_vdp,*.lifetouch.com,False
+shutterfly_vdp,*.photoccino.com,False
+shutterfly_vdp,*.sbs.shutterfly.com,False
 shutterfly_vdp,lifetouch.com,False
 shutterfly_vdp,jcpportraits.com,False
 shutterfly_vdp,prestigeportraits.com,False
@@ -2887,12 +2893,12 @@ shutterfly_vdp,snapfish.co.uk,False
 shutterfly_vdp,snapfish.com.au,False
 shutterfly_vdp,snapfish.co.nz,False
 shutterfly_vdp,photo.walgreens.com,False
-shutterfly_vdp,http://www.cvs.com/photo/,False
 shutterfly_vdp,www.spoonflower.com,False
 shutterfly_vdp,admin.spoonflower.com,False
 shutterfly_vdp,staging.spoonflower.com,False
 shutterfly_vdp,blog.spoonflower.com,False
 shutterfly_vdp,wgwebservices.snapfish.com,False
+shutterfly_vdp,https://www.cvs.com/photo/,False
 six-group,www.six-group.com,True
 six-group,www.six-group.com,True
 msd,*.merck.com,False
@@ -4572,9 +4578,9 @@ mars,*.royalcanin.be,False
 mars,*.mivetshop.com.ar,False
 mars,*.royalcanin.pt,False
 mars,*.individualis.com,False
-mars,*.royalcanin.nl,False
 mars,*.miroyalcanin.com.ar,False
 mars,*.banfield.com,False
+mars,*.royalcanin.nl,False
 mars,*.extragum.com,False
 mars,*.monespaceeleveur.fr,False
 mars,*.myroyalcanin.hu,False
@@ -7987,9 +7993,9 @@ digitalocean,cloud.digitalocean.com,False
 digitalocean,unified.cloudways.com,False
 digitalocean,marketplace.digitalocean.com,False
 digitalocean,169.254.169.254,False
-digitalocean,api.cloudways.com,False
 digitalocean,api.digitalocean.com,False
 digitalocean,*.digitalocean.com,False
+digitalocean,api.cloudways.com,False
 digitalocean,www.cloudways.com,False
 digitalocean,do.co,False
 digitalocean,hackathon-tracker.digitalocean.com,False
@@ -9862,9 +9868,9 @@ bumble,hotornot.com,True
 bumble,m.badoo.com,True
 bumble,meu1.badoo.com,True
 bumble,ccardsus1.badoo.com,True
-bumble,chatdate.app,True
 bumble,us1.badoo.com,True
 bumble,zodia.studio,True
+bumble,chatdate.app,True
 bumble,eu1.badoo.com,True
 bumble,bma.badoo.com,True
 bumble,badoocdn.com,True
@@ -10337,9 +10343,9 @@ snapchat,my.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
 snapchat,map.snapchat.com,True
 snapchat,business.snapchat.com,True
-snapchat,playcanvas.com,True
 snapchat,app.snapchat.com,True
 snapchat,www.bitmoji.com,True
+snapchat,playcanvas.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,spectacles.com,True
