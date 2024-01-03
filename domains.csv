@@ -7372,8 +7372,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,business.tiktok.com,True
-tiktok,*.tiktok.com,True
 tiktok,*.tiktokv.com,True
+tiktok,*.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -10644,9 +10644,9 @@ automattic,simperium.com,True
 automattic,simplenote.com,True
 automattic,gravatar.com,True
 automattic,assets.tumblr.com,True
-automattic,api.tumblr.com,True
 automattic,intensedebate.com,True
 automattic,wordpress.com,True
+automattic,api.tumblr.com,True
 automattic,safe.tumblr.com,True
 automattic,t.umblr.com,True
 automattic,www.tumblr.com,True
