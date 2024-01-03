@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan  3 22:41:01 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan  3 23:18:23 UTC 2024)
 ```
 payments.hostinger.com
 cpanel.hosting24.com
@@ -1290,8 +1290,8 @@ logs-platform.fr.cloud.gov
 opslogin.fr.cloud.gov
 www.fedramp.gov
 federalist-docs.18f.gov
-inventory.data.gov
 *.login.gov
+inventory.data.gov
 ci.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov

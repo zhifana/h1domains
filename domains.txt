@@ -5727,8 +5727,8 @@ logs-platform.fr.cloud.gov
 opslogin.fr.cloud.gov
 www.fedramp.gov
 federalist-docs.18f.gov
-inventory.data.gov
 *.login.gov
+inventory.data.gov
 ci.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov

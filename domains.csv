@@ -5728,8 +5728,8 @@ gsa_bbp,logs-platform.fr.cloud.gov,True
 gsa_bbp,opslogin.fr.cloud.gov,True
 gsa_bbp,www.fedramp.gov,True
 gsa_bbp,federalist-docs.18f.gov,True
-gsa_bbp,inventory.data.gov,True
 gsa_bbp,*.login.gov,True
+gsa_bbp,inventory.data.gov,True
 gsa_bbp,ci.fr.cloud.gov,True
 gsa_bbp,federalist-proxy.app.cloud.gov,True
 gsa_bbp,account.fr.cloud.gov,True
