@@ -6,8 +6,8 @@ hostinger,www.niagahoster.co.id,True
 hostinger,payments.hosting24.com,True
 hostinger,hpanel.hosting24.com,True
 hostinger,www.hosting24.com,True
-hostinger,*.000webhost.com,True
 hostinger,www.hostinger.com,True
+hostinger,*.000webhost.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,logo.zyro.com,True
 hostinger,partner.niagahoster.co.id,True
@@ -5465,8 +5465,8 @@ krisp,teams.krisp.ai,True
 krisp,api.krisp.ai,True
 krisp,download.krisp.ai,True
 krisp,contact.krisp.ai,False
-krisp,krisp.ai,True
 krisp,whatsnew.krisp.ai,False
+krisp,krisp.ai,True
 krisp,*.krisp.ai,True
 krisp,krisp.ai,True
 krisp,account.krisp.ai,True
@@ -6528,8 +6528,8 @@ reddit,strapi.reddit.com,True
 reddit,m.reddit.com,True
 reddit,sh.reddit.com,True
 reddit,*.snooguts.net,True
-reddit,new.reddit.com,True
 reddit,*.redditinc.com,True
+reddit,new.reddit.com,True
 reddit,s.reddit.com,True
 reddit,gateway.reddit.com,True
 reddit,ads-api.reddit.com,True
