@@ -97,9 +97,9 @@ experiences.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
 admin.booking.com
-*.booking.com
 supply-xml.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -9386,9 +9386,9 @@ api.loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 loanbuilder.com
-*.paypalcorp.com
 paypalobjects.com
 *.braintreegateway.com
+*.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -10506,8 +10506,8 @@ next.airbnb.com
 *.airbnbcitizen.com
 www.hoteltonight.com
 *.muscache.com
-*.hoteltonight-test.com
 *.airbnb.com
+*.hoteltonight-test.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
