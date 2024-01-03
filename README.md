@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan  3 16:21:05 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan  3 16:46:40 UTC 2024)
 ```
 payments.hostinger.com
 cpanel.hosting24.com
@@ -43,8 +43,8 @@ you.23andme.com
 blog.23andme.com
 auth.23andme.com
 api.23andme.com
-therapeutics.23andme.com
 medical.23andme.com
+therapeutics.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
