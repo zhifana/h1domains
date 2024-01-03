@@ -63,8 +63,8 @@ api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadolibre.com.co
 www.mercadopago.com.mx
-www.mercadopago.com.br
 api.mercadolibre.com
+www.mercadopago.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -3742,8 +3742,8 @@ yimg.com
 hackerone-user-content.com
 api.hackerone.com
 hackerone.com
-mta-sts.wearehackerone.com
 www.wearehackerone.com
+mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 a5s.hackerone-ext-content.com

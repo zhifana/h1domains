@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan  3 22:17:51 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan  3 22:41:01 UTC 2024)
 ```
 payments.hostinger.com
 cpanel.hosting24.com
@@ -69,8 +69,8 @@ api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadolibre.com.co
 www.mercadopago.com.mx
-www.mercadopago.com.br
 api.mercadolibre.com
+www.mercadopago.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -3748,8 +3748,8 @@ yimg.com
 hackerone-user-content.com
 api.hackerone.com
 hackerone.com
-mta-sts.wearehackerone.com
 www.wearehackerone.com
+mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 a5s.hackerone-ext-content.com
