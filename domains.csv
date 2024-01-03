@@ -3793,8 +3793,8 @@ resmed,app.citushealth.ca,False
 deribit,pb.deribit.com,True
 deribit,test.deribit.com,True
 deribit,insights.deribit.com,True
-deribit,metrics.deribit.com,True
 deribit,tools.deribit.com,True
+deribit,metrics.deribit.com,True
 deribit,*.deribit.com,True
 deribit,*.deribit.com,True
 deribit,test.deribit.com,True
@@ -10141,8 +10141,8 @@ github,education.github.com,True
 github,npmjs.org,True
 github,*.github.net,True
 github,gist.github.com,True
-github,github.com,True
 github,*.githubusercontent.com,True
+github,github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True

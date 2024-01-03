@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan  3 23:18:23 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan  3 23:41:10 UTC 2024)
 ```
 payments.hostinger.com
 cpanel.hosting24.com
@@ -865,8 +865,8 @@ askpam.ai
 pb.deribit.com
 test.deribit.com
 insights.deribit.com
-metrics.deribit.com
 tools.deribit.com
+metrics.deribit.com
 *.deribit.com
 *.deribit.com
 test.deribit.com
@@ -3237,8 +3237,8 @@ education.github.com
 npmjs.org
 *.github.net
 gist.github.com
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
