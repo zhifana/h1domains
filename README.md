@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan  3 14:17:06 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan  3 14:43:01 UTC 2024)
 ```
 payments.hostinger.com
 cpanel.hosting24.com
@@ -11,8 +11,8 @@ hpanel.hostinger.com
 payments.hosting24.com
 hpanel.hosting24.com
 www.hosting24.com
-www.hostinger.com
 *.000webhost.com
+www.hostinger.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
@@ -318,10 +318,10 @@ www.visa.com.sg
 bq.visa.com
 www.visa.com.kh
 visa.co.ni
-www.cardinalcommerce.com
 www.visa.co.il
 aw.visa.com
 usa.visa.com
+www.cardinalcommerce.com
 bm.visa.com
 visa.com.au
 www.visa.co.ke

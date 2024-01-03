@@ -5,8 +5,8 @@ hpanel.hostinger.com
 payments.hosting24.com
 hpanel.hosting24.com
 www.hosting24.com
-www.hostinger.com
 *.000webhost.com
+www.hostinger.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
@@ -312,10 +312,10 @@ www.visa.com.sg
 bq.visa.com
 www.visa.com.kh
 visa.co.ni
-www.cardinalcommerce.com
 www.visa.co.il
 aw.visa.com
 usa.visa.com
+www.cardinalcommerce.com
 bm.visa.com
 visa.com.au
 www.visa.co.ke

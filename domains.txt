@@ -5,8 +5,8 @@ hpanel.hostinger.com
 payments.hosting24.com
 hpanel.hosting24.com
 www.hosting24.com
-www.hostinger.com
 *.000webhost.com
+www.hostinger.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
@@ -1682,10 +1682,10 @@ www.visa.com.sg
 bq.visa.com
 www.visa.com.kh
 visa.co.ni
-www.cardinalcommerce.com
 www.visa.co.il
 aw.visa.com
 usa.visa.com
+www.cardinalcommerce.com
 bm.visa.com
 visa.com.au
 www.visa.co.ke
@@ -8273,7 +8273,6 @@ supersite.8x8.com
 cloud8.8x8.com
 *.fuze.com
 *.8x8staging.com
-*.8x8pilot.com
 *.8x8.uk
 *.adgjmp.net
 work.8x8.com
@@ -8286,6 +8285,7 @@ pay.8x8.com
 sso.8x8.com
 *.jitsi.org
 www.8x8.com
+*.8x8pilot.com
 accountmanager.8x8.com
 *.contactnow.8x8.com
 *.mycontactual.com

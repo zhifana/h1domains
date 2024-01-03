@@ -6,8 +6,8 @@ hostinger,hpanel.hostinger.com,True
 hostinger,payments.hosting24.com,True
 hostinger,hpanel.hosting24.com,True
 hostinger,www.hosting24.com,True
-hostinger,www.hostinger.com,True
 hostinger,*.000webhost.com,True
+hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,logo.zyro.com,True
 hostinger,partner.niagahoster.co.id,True
@@ -1683,10 +1683,10 @@ visa,www.visa.com.sg,True
 visa,bq.visa.com,True
 visa,www.visa.com.kh,True
 visa,visa.co.ni,True
-visa,www.cardinalcommerce.com,True
 visa,www.visa.co.il,True
 visa,aw.visa.com,True
 visa,usa.visa.com,True
+visa,www.cardinalcommerce.com,True
 visa,bm.visa.com,True
 visa,visa.com.au,True
 visa,www.visa.co.ke,True
@@ -8274,7 +8274,6 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,cloud8.8x8.com,False
 8x8,*.fuze.com,False
 8x8,*.8x8staging.com,False
-8x8,*.8x8pilot.com,False
 8x8,*.8x8.uk,False
 8x8,*.adgjmp.net,False
 8x8,work.8x8.com,False
@@ -8287,6 +8286,7 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,sso.8x8.com,False
 8x8,*.jitsi.org,False
 8x8,www.8x8.com,False
+8x8,*.8x8pilot.com,False
 8x8,accountmanager.8x8.com,False
 8x8,*.contactnow.8x8.com,False
 8x8,*.mycontactual.com,False
