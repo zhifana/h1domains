@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan  3 10:20:39 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan  3 10:41:02 UTC 2024)
 ```
 payments.hostinger.com
-hpanel.hostinger.com
 cpanel.hosting24.com
 www.niagahoster.co.id
+hpanel.hostinger.com
 payments.hosting24.com
 hpanel.hosting24.com
 www.hosting24.com
@@ -156,8 +156,8 @@ portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
