@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan  3 17:17:11 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan  3 17:40:34 UTC 2024)
 ```
 payments.hostinger.com
 cpanel.hosting24.com
@@ -1942,8 +1942,8 @@ portal.polygon.technology
 *.xiaomi.com
 *.miui.com
 *.xiaomiyoupin.com
-*.miwifi.com
 *.mi.com
+*.miwifi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
