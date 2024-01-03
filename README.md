@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan  3 19:17:32 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan  3 19:42:43 UTC 2024)
 ```
 payments.hostinger.com
 cpanel.hosting24.com
@@ -2602,11 +2602,11 @@ matomo.cloud
 https://github.com/matomo-org/docker
 www.swiftfinancial.com
 swiftfinancial.com
-*.paylution.com
 py.pl
 *.braintreepayments.com
 *.xoom.com
 *.braintree-api.com
+*.paylution.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
