@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan  3 20:18:10 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan  3 20:40:38 UTC 2024)
 ```
 payments.hostinger.com
 cpanel.hosting24.com
@@ -1685,8 +1685,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 business.tiktok.com
-*.tiktokv.com
 *.tiktok.com
+*.tiktokv.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
