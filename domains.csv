@@ -117,8 +117,8 @@ bookingcom,taxi.booking.com,True
 bookingcom,webhooks.booking.com,True
 bookingcom,paybridge.booking.com,True
 bookingcom,cars.booking.com,True
-bookingcom,secure.booking.com,True
 bookingcom,account.booking.com,True
+bookingcom,secure.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
@@ -3467,11 +3467,11 @@ expediagroup_bbp,www.bookabach.co.nz,True
 expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,www.fewo-direkt.de,True
 expediagroup_bbp,www.ebookers.fi,True
-expediagroup_bbp,www.stayz.com.au,True
 expediagroup_bbp,www.expediacruises.com,True
 expediagroup_bbp,www.expediapartnercentral.com,True
 expediagroup_bbp,www.wotif.com,True
 expediagroup_bbp,www.hotwire.com,True
+expediagroup_bbp,www.stayz.com.au,True
 expediagroup_bbp,www.hotels.com,True
 expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,www.expediapartnercentral.com,True
@@ -9837,8 +9837,8 @@ bumble,bma.badoo.com,True
 bumble,badoocdn.com,True
 bumble,heyfiesta.com,True
 bumble,ccardseu1.badoo.com,True
-bumble,www.bumble.com,True
 bumble,badoo.com,True
+bumble,www.bumble.com,True
 bumble,mus1.badoo.com,True
 bumble,translate.badoo.com,True
 bumble,www.bumble.com,True
@@ -10305,8 +10305,8 @@ snapchat,snappublisher.snapchat.com,True
 snapchat,map.snapchat.com,True
 snapchat,business.snapchat.com,True
 snapchat,playcanvas.com,True
-snapchat,www.bitmoji.com,True
 snapchat,app.snapchat.com,True
+snapchat,www.bitmoji.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,spectacles.com,True
