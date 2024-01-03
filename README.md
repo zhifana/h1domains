@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan  3 19:42:43 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan  3 20:18:10 UTC 2024)
 ```
 payments.hostinger.com
 cpanel.hosting24.com
@@ -10,9 +10,9 @@ www.niagahoster.co.id
 hpanel.hostinger.com
 payments.hosting24.com
 www.hosting24.com
-www.hostinger.com
 hpanel.hosting24.com
 *.000webhost.com
+www.hostinger.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
@@ -156,14 +156,10 @@ portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-*.front.com
-app.frontapp.com
-help.front.com
-api2.frontapp.com
-*.front.com
 app.frontapp.com
 api2.frontapp.com
-http://help.front.com
+app.frontapp.com
+api2.frontapp.com
 *.booztlet.com
 *.boozt.com
 *.boozt.com
@@ -2627,8 +2623,8 @@ prequal.swiftfinancial.com
 decision.swiftfinancial.com
 loanbuilder.com
 *.braintreegateway.com
-*.paypalcorp.com
 paypalobjects.com
+*.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
