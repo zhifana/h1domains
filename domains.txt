@@ -1,7 +1,7 @@
 payments.hostinger.com
-hpanel.hostinger.com
 cpanel.hosting24.com
 www.niagahoster.co.id
+hpanel.hostinger.com
 payments.hosting24.com
 hpanel.hosting24.com
 *.000webhost.com
@@ -10292,13 +10292,13 @@ store.playcanvas.com
 playcanv.as
 rt.playcanvas.com
 store.snapchat.com
-www.bitmoji.com
 my.snapchat.com
 snappublisher.snapchat.com
 map.snapchat.com
 business.snapchat.com
 playcanvas.com
 app.snapchat.com
+www.bitmoji.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
