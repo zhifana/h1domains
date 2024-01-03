@@ -3138,10 +3138,10 @@ abb.com.br
 *.abb.net
 abb.com.br
 *.mb-cosmos.com
-*.mwbsys.com
 *.cloud.malwarebytes.com
 my.malwarebytes.com
 cloud.malwarebytes.com
+*.mwbsys.com
 *.mbamupdates.com
 *.threatdown.com
 forums.malwarebytes.com
@@ -7371,8 +7371,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 business.tiktok.com
-*.tiktokv.com
 *.tiktok.com
+*.tiktokv.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -7705,8 +7705,8 @@ direct.playstation.com
 store.playstation.com
 my.playstation.com
 ca.account.sony.com
-*.playstation.net
 my.account.sony.com
+*.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -7894,8 +7894,8 @@ www.alibabagroup.com
 *.alimama.com
 *.1688.com
 *.aliyun-inc.com
-*.Daraz.com
 *.aliyun.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -10304,8 +10304,8 @@ snappublisher.snapchat.com
 map.snapchat.com
 business.snapchat.com
 playcanvas.com
-app.snapchat.com
 www.bitmoji.com
+app.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
