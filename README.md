@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan  3 15:43:10 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan  3 16:21:05 UTC 2024)
 ```
 payments.hostinger.com
 cpanel.hosting24.com
@@ -11,8 +11,8 @@ hpanel.hostinger.com
 payments.hosting24.com
 hpanel.hosting24.com
 www.hosting24.com
-*.000webhost.com
 www.hostinger.com
+*.000webhost.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
@@ -1785,6 +1785,7 @@ api.watsons.com.hk
 api.iciparisxl.lu
 www.kruidvat.nl
 www.kruidvat.be
+www.marionnaud.sk
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2049,8 +2050,8 @@ https://amazonpay.amazon.in/*
 www.alibabagroup.com
 *.alibaba.com
 *.alibabacloud.com
-*.aliexpress.ru
 *.alibaba-inc.com
+*.aliexpress.ru
 *.aliexpress.com
 *.alimama.com
 *.1688.com
@@ -3163,8 +3164,8 @@ card.starbucks.com.sg
 app.starbucks.com
 secureui.starbucks.com
 www.starbucks.de
-www.starbucks.com.sg
 www.starbucks.com
+www.starbucks.com.sg
 www.starbucks.co.jp
 www.starbucks.com.cn
 www.starbucks.co.kr
@@ -3240,8 +3241,8 @@ education.github.com
 npmjs.org
 *.github.net
 gist.github.com
-*.githubusercontent.com
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -3532,8 +3533,8 @@ www.hoteltonight.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
-www.airbnb.com
 api.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
