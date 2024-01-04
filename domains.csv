@@ -6430,9 +6430,9 @@ zebra_vdp,downloads.zebra.com,False
 zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,*.zebrasports.com,False
 zebra_vdp,reflexisinc.com/,False
-zebra_vdp,*.profitect.com,False
 zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,cmm01.sl.zebra.com,False
+zebra_vdp,*.profitect.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -9430,8 +9430,8 @@ paypal,prequal.swiftfinancial.com,True
 paypal,decision.swiftfinancial.com,True
 paypal,loanbuilder.com,True
 paypal,*.braintreegateway.com,True
-paypal,*.paypalcorp.com,True
 paypal,paypalobjects.com,True
+paypal,*.paypalcorp.com,True
 paypal,www.paypal-*.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True

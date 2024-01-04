@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan  4 06:41:34 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jan  4 07:17:37 UTC 2024)
 ```
 cpanel.hosting24.com
 www.niagahoster.co.id
@@ -2623,8 +2623,8 @@ prequal.swiftfinancial.com
 decision.swiftfinancial.com
 loanbuilder.com
 *.braintreegateway.com
-*.paypalcorp.com
 paypalobjects.com
+*.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com

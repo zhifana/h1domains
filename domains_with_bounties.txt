@@ -2617,8 +2617,8 @@ prequal.swiftfinancial.com
 decision.swiftfinancial.com
 loanbuilder.com
 *.braintreegateway.com
-*.paypalcorp.com
 paypalobjects.com
+*.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
