@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan  4 22:39:51 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jan  4 23:19:37 UTC 2024)
 ```
 cpanel.hosting24.com
 www.niagahoster.co.id
@@ -1756,8 +1756,8 @@ account.acronis.com
 beta-cloud.acronis.com
 account.acronis.com
 helpcenter.affirm.com
-hackerone.affirm-odin.com
 helpcenter.affirm.ca
+hackerone.affirm-odin.com
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
@@ -3523,8 +3523,8 @@ next.airbnb.com
 *.airbnbcitizen.com
 www.hoteltonight.com
 *.muscache.com
-*.hoteltonight-test.com
 *.airbnb.com
+*.hoteltonight-test.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
