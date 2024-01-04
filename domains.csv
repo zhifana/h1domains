@@ -6,8 +6,8 @@ hostinger,hpanel.hostinger.com,True
 hostinger,payments.hosting24.com,True
 hostinger,hpanel.hosting24.com,True
 hostinger,www.hosting24.com,True
-hostinger,*.000webhost.com,True
 hostinger,www.hostinger.com,True
+hostinger,*.000webhost.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,logo.zyro.com,True
 hostinger,partner.niagahoster.co.id,True
@@ -9538,11 +9538,11 @@ goldmansachs,*.qaglobal-liquidity.gs.com,True
 goldmansachs,research.gs.com,True
 goldmansachs,api.foliofn.com,True
 goldmansachs,marquee.gs.com,True
-goldmansachs,*.gsam.com,True
 goldmansachs,*.gs.de,True
 goldmansachs,*.folioclient.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,*.gs.com,True
+goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -10015,8 +10015,8 @@ starbucks,www.starbucks.com.sg,True
 starbucks,www.starbucks.com,True
 starbucks,www.starbucks.co.jp,True
 starbucks,www.starbucks.com.cn,True
-starbucks,www.starbucks.co.kr,True
 starbucks,login.starbucks.co.jp,True
+starbucks,www.starbucks.co.kr,True
 starbucks,openapi.starbucks.com,True
 starbucks,www.starbucks.ca,True
 starbucks,gift.starbucks.co.jp,True
