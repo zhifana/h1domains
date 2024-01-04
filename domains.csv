@@ -2710,8 +2710,8 @@ clarivate,biologyfinder.com,False
 freshworks,yourdomain.freshcaller.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshdesk.com,True
-freshworks,yourdomain.freshchat.com,True
 freshworks,yourdomain.myfreshworks.com,True
+freshworks,yourdomain.freshchat.com,True
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshchat.com,True
@@ -6421,9 +6421,9 @@ zebra_vdp,downloads.zebra.com,False
 zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,*.zebrasports.com,False
 zebra_vdp,reflexisinc.com/,False
-zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,*.profitect.com,False
 zebra_vdp,cmm01.sl.zebra.com,False
+zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -9807,8 +9807,8 @@ bitwarden,api.bitwarden.com,False
 bitwarden,vault.bitwarden.com,False
 bitwarden,help.bitwarden.com,False
 bitwarden,identity.bitwarden.com,False
-bitwarden,bitwarden.com,False
 bitwarden,v4.passwordless.dev,False
+bitwarden,bitwarden.com,False
 bitwarden,bitwarden.com,False
 bitwarden,api.bitwarden.com,False
 bitwarden,identity.bitwarden.com,False
@@ -10296,8 +10296,8 @@ shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True

@@ -2709,8 +2709,8 @@ biologyfinder.com
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
-yourdomain.freshchat.com
 yourdomain.myfreshworks.com
+yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -6420,9 +6420,9 @@ downloads.zebra.com
 supportcommunity.zebra.com
 *.zebrasports.com
 reflexisinc.com/
-*.zams.zebra.com
 *.profitect.com
 cmm01.sl.zebra.com
+*.zams.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -9806,8 +9806,8 @@ api.bitwarden.com
 vault.bitwarden.com
 help.bitwarden.com
 identity.bitwarden.com
-bitwarden.com
 v4.passwordless.dev
+bitwarden.com
 bitwarden.com
 api.bitwarden.com
 identity.bitwarden.com
@@ -10295,8 +10295,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
