@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan  4 15:19:22 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jan  4 15:43:32 UTC 2024)
 ```
 cpanel.hosting24.com
 www.niagahoster.co.id
@@ -1685,8 +1685,8 @@ academy-outbound-ads.tiktok.com
 careers.tiktok.com
 business.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 creatormarketplace.tiktok.com
+*.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -3115,9 +3115,9 @@ rockstarnorth.com
 circolocorecords.com/
 store.rockstargames.com
 support.rockstargames.com
-prod.ros.rockstargames.com
 lifeinvader.com
 socialclub.rockstargames.com
+prod.ros.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
