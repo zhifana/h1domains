@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan  4 21:41:07 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jan  4 22:16:55 UTC 2024)
 ```
 cpanel.hosting24.com
 www.niagahoster.co.id
@@ -11,8 +11,8 @@ payments.hostinger.com
 payments.hosting24.com
 hpanel.hosting24.com
 www.hosting24.com
-www.hostinger.com
 *.000webhost.com
+www.hostinger.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
@@ -40,9 +40,9 @@ research.23andme.com
 education.23andme.com
 store.23andme.com
 api.23andme.com
-blog.23andme.com
 auth.23andme.com
 you.23andme.com
+blog.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -2072,8 +2072,8 @@ www.mini.de
 configure.bmw.de
 www.bmw.de
 konfigurator.bmw-motorrad.de
-www.bmw-motorrad.de
 configure.mini.de
+www.bmw-motorrad.de
 www.bmw.de
 www.mini.de
 www.bmw-motorrad.de
@@ -2144,9 +2144,9 @@ marriottfranchisetransactions.marriott.com
 *uat.marriott.com
 passwordchallenge.marriott.com
 gatewaydsapdev2.marriott.com
-hotel-deals.marriott.com
 marrtool.com
 homes-and-villas.marriott.com
+hotel-deals.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
