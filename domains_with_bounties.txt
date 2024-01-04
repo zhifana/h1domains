@@ -4,8 +4,8 @@ payments.hostinger.com
 hpanel.hostinger.com
 payments.hosting24.com
 hpanel.hosting24.com
-www.hosting24.com
 www.hostinger.com
+www.hosting24.com
 *.000webhost.com
 cpanel.hostinger.com
 logo.zyro.com
@@ -250,8 +250,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-testapp.redoxengine.com
 10x.redoxengine.com
+testapp.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
 sftp.gamma.redoxstage.com
@@ -2616,8 +2616,8 @@ api.loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 loanbuilder.com
-*.paypalcorp.com
 paypalobjects.com
+*.paypalcorp.com
 *.braintreegateway.com
 www.paypal-*.com
 *.xoom.com
