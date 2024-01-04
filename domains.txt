@@ -5,8 +5,8 @@ payments.hostinger.com
 payments.hosting24.com
 hpanel.hosting24.com
 www.hosting24.com
-*.000webhost.com
 www.hostinger.com
+*.000webhost.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
@@ -6421,8 +6421,8 @@ supportcommunity.zebra.com
 *.zebrasports.com
 cmm01.sl.zebra.com
 *.zams.zebra.com
-reflexisinc.com/
 *.profitect.com
+reflexisinc.com/
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -10721,8 +10721,8 @@ api.coinbase.com
 cloud.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
-*.base.org
 coinbase.com
+*.base.org
 commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net

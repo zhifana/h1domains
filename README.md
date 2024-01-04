@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan  4 20:43:01 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jan  4 21:16:24 UTC 2024)
 ```
 cpanel.hosting24.com
 www.niagahoster.co.id
@@ -11,8 +11,8 @@ payments.hostinger.com
 payments.hosting24.com
 hpanel.hosting24.com
 www.hosting24.com
-*.000webhost.com
 www.hostinger.com
+*.000webhost.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
@@ -3696,8 +3696,8 @@ api.coinbase.com
 cloud.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
-*.base.org
 coinbase.com
+*.base.org
 commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net
