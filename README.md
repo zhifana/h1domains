@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan  4 04:41:24 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jan  4 05:18:06 UTC 2024)
 ```
 cpanel.hosting24.com
 www.niagahoster.co.id
@@ -248,8 +248,8 @@ api.wisdomtreeprimeapp.com
 fhir.redoxengine.com
 launch.gamma.redoxstage.com
 testapi.redoxengine.com
-clientcert.gamma.redoxstage.com
 www.redoxengine.com
+clientcert.gamma.redoxstage.com
 eets-sftp-listener.gamma.redoxstage.com
 blob.gamma.redoxstage.com
 dashboard.gamma.redoxstage.com

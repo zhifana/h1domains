@@ -242,8 +242,8 @@ api.wisdomtreeprimeapp.com
 fhir.redoxengine.com
 launch.gamma.redoxstage.com
 testapi.redoxengine.com
-clientcert.gamma.redoxstage.com
 www.redoxengine.com
+clientcert.gamma.redoxstage.com
 eets-sftp-listener.gamma.redoxstage.com
 blob.gamma.redoxstage.com
 dashboard.gamma.redoxstage.com
