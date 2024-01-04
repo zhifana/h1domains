@@ -41,8 +41,8 @@ education.23andme.com
 store.23andme.com
 you.23andme.com
 blog.23andme.com
-auth.23andme.com
 api.23andme.com
+auth.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -6232,9 +6232,9 @@ www-264.aig.com
 www.vfis.com
 www.glatfelters.com
 www.lifeandretirement.aig.com
-*.corebridgefinancial.com
 www.rapidcover.ie
 www.layahealthcare.ie
+*.corebridgefinancial.com
 *.myretirementmanager.com
 www-1008.aig.com
 www.travelguard.com
@@ -9540,8 +9540,8 @@ marquee.gs.com
 *.gs.de
 *.folioclient.com
 *.advisorsolutions.gs.com
+*.gsam.com
 *.gs.com
-*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com

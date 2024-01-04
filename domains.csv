@@ -42,8 +42,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,store.23andme.com,True
 23andme_bbp,you.23andme.com,True
 23andme_bbp,blog.23andme.com,True
-23andme_bbp,auth.23andme.com,True
 23andme_bbp,api.23andme.com,True
+23andme_bbp,auth.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -6233,9 +6233,9 @@ aig,www-264.aig.com,False
 aig,www.vfis.com,False
 aig,www.glatfelters.com,False
 aig,www.lifeandretirement.aig.com,False
-aig,*.corebridgefinancial.com,False
 aig,www.rapidcover.ie,False
 aig,www.layahealthcare.ie,False
+aig,*.corebridgefinancial.com,False
 aig,*.myretirementmanager.com,False
 aig,www-1008.aig.com,False
 aig,www.travelguard.com,False
@@ -9541,8 +9541,8 @@ goldmansachs,marquee.gs.com,True
 goldmansachs,*.gs.de,True
 goldmansachs,*.folioclient.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
+goldmansachs,*.gsam.com,True
 goldmansachs,*.gs.com,True
-goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
