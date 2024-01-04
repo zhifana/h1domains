@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan  3 23:41:10 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jan  4 01:02:29 UTC 2024)
 ```
 payments.hostinger.com
 cpanel.hosting24.com
@@ -1081,8 +1081,8 @@ rankings.etoro.com
 delta.app
 bullsheet.me
 api.instacart.com
-www.instacart.com
 *.instacart.tools
+www.instacart.com
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.com
