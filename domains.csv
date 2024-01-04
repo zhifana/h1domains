@@ -5686,9 +5686,9 @@ recorded-future,therecord.media,True
 recorded-future,app.recordedfuture.com,True
 recorded-future,api.recordedfuture.com,True
 recorded-future,hatching.io,True
-recorded-future,securitytrails.com,True
 recorded-future,www.recordedfuture.com,True
 recorded-future,geminiadvisory.io,True
+recorded-future,securitytrails.com,True
 recorded-future,tria.ge,True
 recorded-future,id.recordedfuture.com,True
 recorded-future,www.recordedfuture.com,True
@@ -10215,8 +10215,8 @@ deriv,secure-dfadmin.deriv.com,True
 deriv,*.binary.com,True
 deriv,*.deriv.com,True
 deriv,*.deriv.cloud,True
-deriv,oauth.deriv.com,True
 deriv,app.deriv.com,True
+deriv,oauth.deriv.com,True
 deriv,*.deriv.com,True
 deriv,*.deriv.cloud,True
 deriv,*.derivws.com,True

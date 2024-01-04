@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan  4 06:21:27 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jan  4 06:41:34 UTC 2024)
 ```
 cpanel.hosting24.com
 www.niagahoster.co.id
@@ -1248,9 +1248,9 @@ therecord.media
 app.recordedfuture.com
 api.recordedfuture.com
 hatching.io
-securitytrails.com
 www.recordedfuture.com
 geminiadvisory.io
+securitytrails.com
 tria.ge
 id.recordedfuture.com
 www.recordedfuture.com
@@ -3311,8 +3311,8 @@ secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.com
 *.deriv.cloud
-oauth.deriv.com
 app.deriv.com
+oauth.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
