@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan  4 21:16:24 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jan  4 21:41:07 UTC 2024)
 ```
 cpanel.hosting24.com
 www.niagahoster.co.id
@@ -39,10 +39,10 @@ mediacenter.23andme.com
 research.23andme.com
 education.23andme.com
 store.23andme.com
-you.23andme.com
-blog.23andme.com
 api.23andme.com
+blog.23andme.com
 auth.23andme.com
+you.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -3399,8 +3399,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
