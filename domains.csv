@@ -1570,8 +1570,8 @@ greenfly,portal.greenfly.com,False
 greenfly,api.greenfly.com,False
 greenfly,api.greenfly.com,False
 greenfly,portal.greenfly.com,False
-aven_response,my.aven.com,False
 aven_response,*.aven.com,False
+aven_response,my.aven.com,False
 aven_response,notary.aven.com,False
 aven_response,aven.com,False
 aven_response,*.aven.com,False
