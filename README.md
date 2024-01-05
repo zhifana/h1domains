@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan  5 12:55:35 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan  5 13:20:22 UTC 2024)
 ```
 cpanel.hosting24.com
 hpanel.hostinger.com
@@ -17,8 +17,8 @@ cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
 editor.zyro.com
-backend.zyro.com
 www.zyro.com
+backend.zyro.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -1771,8 +1771,8 @@ www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.com.tr
 www.marionnaud.fr
-www.watsons.co.id
 www.marionnaud.ro
+www.watsons.co.id
 app.marionnaud.cz
 app.marionnaud.it
 app.marionnaud.ro

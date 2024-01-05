@@ -11,8 +11,8 @@ cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
 editor.zyro.com
-backend.zyro.com
 www.zyro.com
+backend.zyro.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -1765,8 +1765,8 @@ www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.com.tr
 www.marionnaud.fr
-www.watsons.co.id
 www.marionnaud.ro
+www.watsons.co.id
 app.marionnaud.cz
 app.marionnaud.it
 app.marionnaud.ro
