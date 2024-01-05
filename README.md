@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan  5 07:40:41 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan  5 08:21:49 UTC 2024)
 ```
 cpanel.hosting24.com
 www.niagahoster.co.id
@@ -3307,9 +3307,9 @@ derivws.com
 api.deriv.com
 *.derivws.com
 smarttrader.deriv.com
+secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.com
-secure-dfadmin.deriv.com
 *.deriv.cloud
 oauth.deriv.com
 app.deriv.com
@@ -3745,8 +3745,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 api.hackerone.com
-hackerone.com
 hackerone-user-content.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
