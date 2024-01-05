@@ -3251,9 +3251,9 @@ tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
 win.stanford.edu
-cardinalprintcenter.stanford.edu
 campusmap.stanford.edu
 authority.stanford.edu
+cardinalprintcenter.stanford.edu
 iron.stanford.edu
 mydevices.stanford.edu
 who.stanford.edu
