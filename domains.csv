@@ -2999,8 +2999,8 @@ fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
-indrive,*.indrive.com,True
 indrive,cargo.indrive.com,True
+indrive,*.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,external.indrive.dev,True
@@ -10132,8 +10132,8 @@ github,education.github.com,True
 github,npmjs.org,True
 github,*.github.net,True
 github,gist.github.com,True
-github,github.com,True
 github,*.githubusercontent.com,True
+github,github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
@@ -10202,9 +10202,9 @@ deriv,derivws.com,True
 deriv,api.deriv.com,True
 deriv,*.derivws.com,True
 deriv,smarttrader.deriv.com,True
-deriv,secure-dfadmin.deriv.com,True
 deriv,*.binary.com,True
 deriv,*.deriv.com,True
+deriv,secure-dfadmin.deriv.com,True
 deriv,*.deriv.cloud,True
 deriv,oauth.deriv.com,True
 deriv,app.deriv.com,True

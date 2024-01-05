@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan  5 02:46:27 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan  5 03:17:31 UTC 2024)
 ```
 cpanel.hosting24.com
 www.niagahoster.co.id
@@ -548,8 +548,8 @@ hiltonhotels.jp
 https://www.okx.com/docs-v5/en/#market-maker-program
 https://www.okx.com/docs/en/
 ab-platform-api.eu-east-1.indriverapp.com
-*.indrive.com
 cargo.indrive.com
+*.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 external.indrive.dev
@@ -3237,8 +3237,8 @@ education.github.com
 npmjs.org
 *.github.net
 gist.github.com
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3307,9 +3307,9 @@ derivws.com
 api.deriv.com
 *.derivws.com
 smarttrader.deriv.com
-secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.com
+secure-dfadmin.deriv.com
 *.deriv.cloud
 oauth.deriv.com
 app.deriv.com
