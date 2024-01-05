@@ -9216,11 +9216,11 @@ hyatt,res.marival.globalbookingsolutions.com,True
 hyatt,res.vacations.discoverycove.com,True
 hyatt,vacations.universalstudioshollywood.com,True
 hyatt,res.vacations.buschgardens.com,True
-hyatt,res.universalorlandovacations.com,True
 hyatt,book.beachbound.com,True
 hyatt,vacations.us.palladiumhotelgroup.com,True
 hyatt,reservations.wynnvacations.com,True
 hyatt,www.wynnvacations.com,True
+hyatt,res.universalorlandovacations.com,True
 hyatt,confluence.hyattdev.com,True
 hyatt,ebsext.oft.hyatt.com,True
 hyatt,newsroom.images.hyatt.com,True
@@ -10770,9 +10770,9 @@ yahoo,onepush.query.yahoo.com,True
 yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
-security,hackerone-user-content.com,True
 security,api.hackerone.com,True
 security,hackerone.com,True
+security,hackerone-user-content.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
