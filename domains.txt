@@ -4,9 +4,9 @@ hpanel.hostinger.com
 payments.hostinger.com
 payments.hosting24.com
 hpanel.hosting24.com
-www.hosting24.com
 *.000webhost.com
 www.hostinger.com
+www.hosting24.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
@@ -2721,8 +2721,8 @@ app.kolesa.kz
 api.kolesa.kz
 id.kolesa.kz
 avtoelon.uz
-m.krisha.kz
 app.avtoelon.uz
+m.krisha.kz
 m.avtoelon.uz
 id.avtoelon.uz
 kolesa.kz
@@ -2845,10 +2845,10 @@ www.borrowlenses.com
 shutterfly.com
 jcpportraits.com
 snapfish.com
-*.snapfish.com
 admin.spoonflower.com
 wgwebservices.snapfish.com
 *.sbs.shutterfly.com
+*.snapfish.com
 snapfish.co.uk
 snapfish.com.au
 snapfish.co.nz
@@ -10131,8 +10131,8 @@ education.github.com
 npmjs.org
 *.github.net
 gist.github.com
-*.githubusercontent.com
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -10770,8 +10770,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 api.hackerone.com
-hackerone.com
 hackerone-user-content.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
