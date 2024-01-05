@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan  5 07:17:58 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan  5 07:40:41 UTC 2024)
 ```
 cpanel.hosting24.com
 www.niagahoster.co.id
@@ -1081,8 +1081,8 @@ rankings.etoro.com
 delta.app
 bullsheet.me
 api.instacart.com
-*.instacart.tools
 www.instacart.com
+*.instacart.tools
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.com
@@ -3237,8 +3237,8 @@ education.github.com
 npmjs.org
 *.github.net
 gist.github.com
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3745,8 +3745,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 api.hackerone.com
-hackerone-user-content.com
 hackerone.com
+hackerone-user-content.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
