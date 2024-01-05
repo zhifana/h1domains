@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan  5 05:41:37 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan  5 06:21:43 UTC 2024)
 ```
 cpanel.hosting24.com
 www.niagahoster.co.id
@@ -3151,23 +3151,23 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
-www.starbucks.fr
 www.starbucksreserve.com
+www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
-card.starbucks.com.sg
-app.starbucks.com
-secureui.starbucks.com
+cart.starbucks.co.jp
 www.starbucks.de
-www.starbucks.com.sg
 www.starbucks.com
-www.starbucks.com.cn
-login.starbucks.co.jp
+app.starbucks.com
+card.starbucks.com.sg
+www.starbucks.com.sg
+secureui.starbucks.com
 www.starbucks.co.kr
+login.starbucks.co.jp
 www.starbucks.co.jp
-openapi.starbucks.com
+www.starbucks.com.cn
 www.starbucks.ca
+openapi.starbucks.com
 gift.starbucks.co.jp
 www.starbucksreserve.com
 gift.starbucks.co.jp
@@ -3555,8 +3555,8 @@ api.vimeo.com
 vimeo.magisto.com
 vhx.tv
 api.vhx.tv
-*.livestream.com
 *.magisto.com
+*.livestream.com
 *.new.livestream.com
 checkout.vimeo.com
 staging.magisto.com
