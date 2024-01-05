@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan  5 09:40:35 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan  5 10:20:12 UTC 2024)
 ```
 cpanel.hosting24.com
 www.niagahoster.co.id
@@ -1434,8 +1434,8 @@ mod.reddit.com
 matrix.redditspace.com
 *.reddithelp.com
 accounts.reddit.com
-oauth.reddit.com
 www.reddit.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -3237,8 +3237,8 @@ education.github.com
 npmjs.org
 *.github.net
 gist.github.com
-*.githubusercontent.com
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
