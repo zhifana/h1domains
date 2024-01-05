@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan  5 14:42:09 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan  5 15:17:49 UTC 2024)
 ```
 cpanel.hosting24.com
 hpanel.hostinger.com
@@ -11,8 +11,8 @@ www.niagahoster.co.id
 payments.hosting24.com
 hpanel.hosting24.com
 www.hosting24.com
-www.hostinger.com
 *.000webhost.com
+www.hostinger.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
@@ -1938,8 +1938,8 @@ portal.polygon.technology
 *.xiaomi.com
 *.miui.com
 *.xiaomiyoupin.com
-*.mi.com
 *.miwifi.com
+*.mi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -2130,11 +2130,11 @@ sso.marriott.com
 gatewaydsaptst2.marriott.com
 mgs.marriott.com
 www.marriott.com
-jobs.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 activities.marriott.com
+jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 cpp.marriott.com
@@ -2893,8 +2893,8 @@ api.blockscore.com
 production.plaid.com
 plaid.com
 secure.quovo.com
-cdn.plaid.com
 manage.blockscore.com
+cdn.plaid.com
 production.plaid.com
 dashboard.plaid.com
 cdn.plaid.com
@@ -3398,9 +3398,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 admin.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
