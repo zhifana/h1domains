@@ -4,10 +4,10 @@ hostinger,hpanel.hostinger.com,True
 hostinger,payments.hostinger.com,True
 hostinger,www.niagahoster.co.id,True
 hostinger,payments.hosting24.com,True
-hostinger,hpanel.hosting24.com,True
 hostinger,www.hosting24.com,True
-hostinger,*.000webhost.com,True
+hostinger,hpanel.hosting24.com,True
 hostinger,www.hostinger.com,True
+hostinger,*.000webhost.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,logo.zyro.com,True
 hostinger,partner.niagahoster.co.id,True
@@ -36,14 +36,14 @@ egress-vdp,www.egress.com,False
 egress-vdp,reader.vdp-egress.com,False
 egress-vdp,switch.vdp-egress.com,False
 egress-vdp,www.egress.com,False
-23andme_bbp,mediacenter.23andme.com,True
 23andme_bbp,research.23andme.com,True
+23andme_bbp,mediacenter.23andme.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,blog.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,auth.23andme.com,True
+23andme_bbp,you.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -1224,7 +1224,6 @@ alshaya,opsassistbrandedsolutions.shaya.com.tr,False
 alshaya,pmp.shaya.com.tr,False
 alshaya,kw.shopjustice.me,False
 alshaya,*.thebodyshop.com.kw,False
-alshaya,*.muji.qa,False
 alshaya,*.debenhams.sa,False
 alshaya,dev.alshaya.com,False
 alshaya,devimages.alshaya.com,False
@@ -1246,6 +1245,7 @@ alshaya,card.starbucks.com.kz,False
 alshaya,kw.boots.com,False
 alshaya,*.bathandbodyworks.com.kw,False
 alshaya,*.westelm.com.kw,False
+alshaya,*.muji.qa,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,kw.cosstores.com,False
 alshaya,sa.cosstores.com,False
@@ -8065,10 +8065,10 @@ kindred_group,unibet.me,True
 kindred_group,maria.casino,True
 kindred_group,www.32red.com,True
 kindred_group,relaxcdn.unibet.com,False
-marriott,sso.marriott.com,True
 marriott,gatewaydsaptst2.marriott.com,True
 marriott,mgs.marriott.com,True
 marriott,www.marriott.com,True
+marriott,sso.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
@@ -8738,8 +8738,8 @@ line,*.line.me,True
 line,*.line-apps.com,True
 line,*.line.naver.jp,True
 line,*.line.biz,True
-stripo,stripo.email,False
 stripo,my.stripo.email,False
+stripo,stripo.email,False
 stripo,my.stripo.email,False
 stripo,stripo.email,False
 oasisprotocol,wallet.oasis.io,True

@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan  5 15:42:06 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan  5 16:22:10 UTC 2024)
 ```
 cpanel.hosting24.com
 hpanel.hostinger.com
 payments.hostinger.com
 www.niagahoster.co.id
 payments.hosting24.com
-hpanel.hosting24.com
 www.hosting24.com
-*.000webhost.com
+hpanel.hosting24.com
 www.hostinger.com
+*.000webhost.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
@@ -35,14 +35,14 @@ payments.hosting24.com
 www.niagahoster.co.id
 partner.niagahoster.co.id
 https://passport.eufy.com/?app=eufy-us
-mediacenter.23andme.com
 research.23andme.com
+mediacenter.23andme.com
 education.23andme.com
 store.23andme.com
 api.23andme.com
 blog.23andme.com
-you.23andme.com
 auth.23andme.com
+you.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -2126,10 +2126,10 @@ www.32red.com
 unibet.me
 maria.casino
 www.32red.com
-sso.marriott.com
 gatewaydsaptst2.marriott.com
 mgs.marriott.com
 www.marriott.com
+sso.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
