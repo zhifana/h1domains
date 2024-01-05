@@ -6618,8 +6618,8 @@ platform.remix.com
 on-app-backend.on-running.com
 *.on-running.com
 on-app-backend.on-running.com
-*.scopely.com
 *.withbuddies.com
+*.scopely.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
@@ -9517,10 +9517,10 @@ apigw.foliofn.com
 *.foliofirst.com
 *.gsselect.com
 *.marcus.co.uk
-*.foliofn.com
 *.unitedcp.com
 *.ayco.com
 *.goldman.com
+*.foliofn.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
