@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan  5 03:17:31 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan  5 03:41:57 UTC 2024)
 ```
 cpanel.hosting24.com
 www.niagahoster.co.id
@@ -97,9 +97,9 @@ experiences.booking.com
 supplier.auth.toag.booking.com
 admin.booking.com
 supply-xml.booking.com
-booking.com
 flights.booking.com
 *.booking.com
+booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -116,8 +116,8 @@ taxi.booking.com
 webhooks.booking.com
 paybridge.booking.com
 secure.booking.com
-account.booking.com
 cars.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -3237,8 +3237,8 @@ education.github.com
 npmjs.org
 *.github.net
 gist.github.com
-*.githubusercontent.com
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -3523,8 +3523,8 @@ next.airbnb.com
 *.airbnbcitizen.com
 www.hoteltonight.com
 *.muscache.com
-*.airbnb.com
 *.hoteltonight-test.com
+*.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
