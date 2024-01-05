@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan  5 16:22:10 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan  5 16:48:09 UTC 2024)
 ```
 cpanel.hosting24.com
 hpanel.hostinger.com
@@ -2837,8 +2837,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
 one.newrelic.com
-*.newrelic.com
 *.nr-ops.net
+*.newrelic.com
 synthetics.eu.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
@@ -3398,9 +3398,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 accounts.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3554,9 +3554,9 @@ donations.livestream.com
 api.vimeo.com
 vimeo.magisto.com
 vhx.tv
-api.vhx.tv
 *.magisto.com
 *.livestream.com
+api.vhx.tv
 *.new.livestream.com
 checkout.vimeo.com
 staging.magisto.com
