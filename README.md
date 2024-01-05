@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan  5 06:21:43 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan  5 06:41:16 UTC 2024)
 ```
 cpanel.hosting24.com
 www.niagahoster.co.id
@@ -3157,11 +3157,11 @@ www.starbucks.co.uk
 www.starbucks.com.br
 cart.starbucks.co.jp
 www.starbucks.de
-www.starbucks.com
 app.starbucks.com
 card.starbucks.com.sg
 www.starbucks.com.sg
 secureui.starbucks.com
+www.starbucks.com
 www.starbucks.co.kr
 login.starbucks.co.jp
 www.starbucks.co.jp
@@ -3237,8 +3237,8 @@ education.github.com
 npmjs.org
 *.github.net
 gist.github.com
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
