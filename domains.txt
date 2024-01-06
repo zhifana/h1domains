@@ -37,8 +37,8 @@ switch.vdp-egress.com
 www.egress.com
 mediacenter.23andme.com
 research.23andme.com
-store.23andme.com
 education.23andme.com
+store.23andme.com
 blog.23andme.com
 auth.23andme.com
 you.23andme.com
@@ -3104,9 +3104,9 @@ abb.com.br
 *.abb.in
 *.abb-drives.com
 *.busch-jaeger.nl
-*.abb
 *.ability.abb
 *.motors.abb.com
+*.abb
 *.stratus.abb.com
 *.cirrus.abb.com
 *.motion.abb.com
