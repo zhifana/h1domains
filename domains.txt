@@ -35,8 +35,8 @@ www.egress.com
 reader.vdp-egress.com
 switch.vdp-egress.com
 www.egress.com
-mediacenter.23andme.com
 research.23andme.com
+mediacenter.23andme.com
 education.23andme.com
 store.23andme.com
 blog.23andme.com
@@ -8066,8 +8066,8 @@ www.32red.com
 relaxcdn.unibet.com
 gatewaydsaptst2.marriott.com
 mgs.marriott.com
-sso.marriott.com
 www.marriott.com
+sso.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
