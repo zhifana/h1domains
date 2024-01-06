@@ -3624,10 +3624,10 @@ zerobounce,api.zerobounce.in,True
 zerobounce,zerobounce.net,True
 teleport,*.gravitational.co,True
 teleport,cloud.gravitational.io,True
-teleport,*.teleportinfra.sh,True
 teleport,askpam.ai,True
 teleport,*.teleport.dev,True
 teleport,*.gravitational.com,True
+teleport,*.teleportinfra.sh,True
 teleport,teleport.sh,True
 teleport,*.gravitational.io,True
 teleport,h1-your-domain.teleport.sh,True

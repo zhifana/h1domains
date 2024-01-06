@@ -3623,10 +3623,10 @@ api.zerobounce.in
 zerobounce.net
 *.gravitational.co
 cloud.gravitational.io
-*.teleportinfra.sh
 askpam.ai
 *.teleport.dev
 *.gravitational.com
+*.teleportinfra.sh
 teleport.sh
 *.gravitational.io
 h1-your-domain.teleport.sh
