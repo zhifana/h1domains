@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan  6 19:14:21 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jan  6 19:41:30 UTC 2024)
 ```
 payments.hostinger.com
 www.niagahoster.co.id
@@ -3697,8 +3697,8 @@ api.coinbase.com
 cloud.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
-*.base.org
 coinbase.com
+*.base.org
 commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net
