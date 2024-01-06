@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan  6 16:42:45 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jan  6 17:16:50 UTC 2024)
 ```
 cpanel.hosting24.com
 payments.hostinger.com
@@ -11,8 +11,8 @@ hpanel.hostinger.com
 payments.hosting24.com
 www.hosting24.com
 hpanel.hosting24.com
-*.000webhost.com
 www.hostinger.com
+*.000webhost.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
@@ -40,9 +40,9 @@ research.23andme.com
 education.23andme.com
 store.23andme.com
 blog.23andme.com
-auth.23andme.com
 you.23andme.com
 api.23andme.com
+auth.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -2138,9 +2138,9 @@ jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 cpp.marriott.com
-www.ritzcarlton.com
 all-inclusive.marriott.com
 marriottfranchisetransactions.marriott.com
+www.ritzcarlton.com
 *uat.marriott.com
 passwordchallenge.marriott.com
 gatewaydsapdev2.marriott.com
