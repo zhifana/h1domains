@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan  6 14:41:21 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jan  6 15:16:00 UTC 2024)
 ```
 cpanel.hosting24.com
 payments.hostinger.com
@@ -1491,12 +1491,12 @@ wp-dev1.chime.com
 wp-dev4.chime.com
 wp-qa.chime.com
 *.chime.com
-*.1debit.com
 *.chmfin.com
 wp-dev2.chime.com
 wp-dev5.chime.com
 *.chimebank.com
 app.chime.com
+*.1debit.com
 wp-ci.chime.com
 *.1debit.com
 *.chimebank.com
