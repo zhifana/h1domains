@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
 hostinger,www.niagahoster.co.id,True
-hostinger,hpanel.hostinger.com,True
 hostinger,payments.hostinger.com,True
 hostinger,cpanel.hosting24.com,True
+hostinger,hpanel.hostinger.com,True
 hostinger,payments.hosting24.com,True
 hostinger,www.hosting24.com,True
 hostinger,hpanel.hosting24.com,True
@@ -7386,11 +7386,11 @@ tiktok,live-backstage.tiktok.com,True
 tiktok,tiktok.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
-tiktok,careers.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,*.tiktok.com,True
+tiktok,careers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,shop.tiktok.com,True
