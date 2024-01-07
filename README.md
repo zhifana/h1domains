@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan  7 16:20:09 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jan  7 16:42:47 UTC 2024)
 ```
 www.niagahoster.co.id
 payments.hostinger.com
