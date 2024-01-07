@@ -1443,8 +1443,8 @@ fertitta_entertainment,aqbeerfest.com,False
 fertitta_entertainment,chefsdinners.com,False
 fertitta_entertainment,lilliesasiancuisine.com,False
 fertitta_entertainment,muer.com,False
-fertitta_entertainment,shoppostoak.com,False
 fertitta_entertainment,aqwine.com,False
+fertitta_entertainment,shoppostoak.com,False
 fertitta_entertainment,aqbeerfest.com,False
 fertitta_entertainment,aqwine.com,False
 fertitta_entertainment,boardwalkfantasea.com,False
@@ -7911,10 +7911,10 @@ alibaba,*.alibaba-inc.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alimama.com,True
 alibaba,*.aliyun-inc.com,True
-alibaba,*.Daraz.com,True
 alibaba,*.aliyun.com,True
 alibaba,*.aliexpress.com,True
 alibaba,*.1688.com,True
+alibaba,*.Daraz.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True

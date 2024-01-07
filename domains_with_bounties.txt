@@ -2044,10 +2044,10 @@ www.alibabagroup.com
 *.aliexpress.ru
 *.alimama.com
 *.aliyun-inc.com
-*.Daraz.com
 *.aliyun.com
 *.aliexpress.com
 *.1688.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
