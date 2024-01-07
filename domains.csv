@@ -70,8 +70,8 @@ mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,www.mercadolibre.com.co,True
 mercadolibre,www.mercadolibre.com.ar,True
 mercadolibre,www.mercadopago.com.mx,True
-mercadolibre,api.mercadolibre.com,True
 mercadolibre,www.mercadopago.com.br,True
+mercadolibre,api.mercadolibre.com,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,www.mercadopago.com.br,True
@@ -9740,8 +9740,8 @@ ed,securitytxt.org,False
 ed,edoverflow.com,False
 ed,bugbountyguide.com,False
 localtapiola,verkkopalvelu.tapiola.fi,True
-localtapiola,yrityspalvelu.tapiola.fi,True
 localtapiola,sijoitusvakuutus.lahitapiola.fi,True
+localtapiola,yrityspalvelu.tapiola.fi,True
 localtapiola,ext-gw.lahitapiola.fi,True
 localtapiola,privatetarget-2-secure.zigzag,True
 localtapiola,tunnistus.lahitapiola.fi,True
