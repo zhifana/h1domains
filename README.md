@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan  7 08:39:29 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jan  7 09:17:53 UTC 2024)
 ```
 www.niagahoster.co.id
 hpanel.hostinger.com
@@ -1893,8 +1893,8 @@ mkapi.mackeeper.com
 mackeeper.com
 wallets.api.playstation.com
 social.playstation.com
-transact.playstation.com
 api.direct.playstation.com
+transact.playstation.com
 *.api.playstation.com
 direct.playstation.com
 store.playstation.com
