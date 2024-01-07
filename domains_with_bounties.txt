@@ -3231,8 +3231,8 @@ education.github.com
 *.github.net
 gist.github.com
 *.githubusercontent.com
-github.com
 npmjs.org
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3749,12 +3749,12 @@ cover-photos-us-east-2.hackerone-user-content.com
 a5s.hackerone-ext-content.com
 *.vpn.hackerone.net
 reviewer.pullrequest.com
-ctf.hacker101.com
 profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackathon-photos.hackerone-user-content.com
 www.hackerone.com
 hackerone-ext-content.com
+ctf.hacker101.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 cover-photos.hackerone-user-content.com

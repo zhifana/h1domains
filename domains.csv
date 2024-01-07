@@ -8290,9 +8290,9 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.easycontactnow.com,False
 8x8,*.thinkingphones.com,False
 8x8,admin.8x8.com,False
-8x8,*.8x8.com,False
 8x8,connect.8x8.com,False
 8x8,*.8x8cloud.net,False
+8x8,*.8x8.com,False
 8x8,*.thinkingphones.net,False
 8x8,sms.8x8.com,False
 8x8,user-profile.8x8.com,False
@@ -9106,8 +9106,8 @@ capital-one,*.paribus.co,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitalone.co.uk,False
-capital-one,*.capitaloneshopping.com,False
 capital-one,*.capitalone.com,False
+capital-one,*.capitaloneshopping.com,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
@@ -10132,8 +10132,8 @@ github,education.github.com,True
 github,*.github.net,True
 github,gist.github.com,True
 github,*.githubusercontent.com,True
-github,github.com,True
 github,npmjs.org,True
+github,github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
@@ -10781,12 +10781,12 @@ security,cover-photos-us-east-2.hackerone-user-content.com,True
 security,a5s.hackerone-ext-content.com,True
 security,*.vpn.hackerone.net,True
 security,reviewer.pullrequest.com,True
-security,ctf.hacker101.com,True
 security,profile-photos.hackerone-user-content.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,www.hackerone.com,True
 security,hackerone-ext-content.com,True
+security,ctf.hacker101.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.live,True
 security,cover-photos.hackerone-user-content.com,True
