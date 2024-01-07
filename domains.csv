@@ -4718,8 +4718,8 @@ windstream,we.windstream.com,False
 windstream,www.windstream.com,False
 windstream,paetec.net,False
 fidelity,*.fidelity.com,False
-fidelity,*.mystreetscape.com,False
 fidelity,*.advisorchannel.com,False
+fidelity,*.mystreetscape.com,False
 fidelity,*.wealthscape.com,False
 fidelity,*.streetscape.com,False
 fidelity,*.streetscape.com,False
@@ -8066,9 +8066,9 @@ kindred_group,maria.casino,True
 kindred_group,www.32red.com,True
 kindred_group,relaxcdn.unibet.com,False
 marriott,gatewaydsaptst2.marriott.com,True
-marriott,mgs.marriott.com,True
 marriott,sso.marriott.com,True
 marriott,www.marriott.com,True
+marriott,mgs.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True

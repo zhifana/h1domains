@@ -4717,8 +4717,8 @@ we.windstream.com
 www.windstream.com
 paetec.net
 *.fidelity.com
-*.mystreetscape.com
 *.advisorchannel.com
+*.mystreetscape.com
 *.wealthscape.com
 *.streetscape.com
 *.streetscape.com
@@ -8065,9 +8065,9 @@ maria.casino
 www.32red.com
 relaxcdn.unibet.com
 gatewaydsaptst2.marriott.com
-mgs.marriott.com
 sso.marriott.com
 www.marriott.com
+mgs.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
