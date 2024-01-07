@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan  7 07:40:18 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jan  7 08:20:22 UTC 2024)
 ```
 www.niagahoster.co.id
 hpanel.hostinger.com
@@ -2052,8 +2052,8 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.Daraz.com
 *.aliyun.com
-*.1688.com
 *.aliexpress.com
+*.1688.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
