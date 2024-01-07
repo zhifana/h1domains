@@ -2038,8 +2038,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 www.alibabagroup.com
-*.alibabacloud.com
 *.alibaba.com
+*.alibabacloud.com
 *.alibaba-inc.com
 *.aliexpress.ru
 *.alimama.com

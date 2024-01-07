@@ -4718,8 +4718,8 @@ windstream,we.windstream.com,False
 windstream,www.windstream.com,False
 windstream,paetec.net,False
 fidelity,*.fidelity.com,False
-fidelity,*.advisorchannel.com,False
 fidelity,*.mystreetscape.com,False
+fidelity,*.advisorchannel.com,False
 fidelity,*.wealthscape.com,False
 fidelity,*.streetscape.com,False
 fidelity,*.streetscape.com,False
@@ -7913,8 +7913,8 @@ amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
 alibaba,*.tmall.com,True
 alibaba,www.alibabagroup.com,True
-alibaba,*.alibabacloud.com,True
 alibaba,*.alibaba.com,True
+alibaba,*.alibabacloud.com,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alimama.com,True

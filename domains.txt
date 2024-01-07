@@ -4717,8 +4717,8 @@ we.windstream.com
 www.windstream.com
 paetec.net
 *.fidelity.com
-*.advisorchannel.com
 *.mystreetscape.com
+*.advisorchannel.com
 *.wealthscape.com
 *.streetscape.com
 *.streetscape.com
@@ -7912,8 +7912,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 www.alibabagroup.com
-*.alibabacloud.com
 *.alibaba.com
+*.alibabacloud.com
 *.alibaba-inc.com
 *.aliexpress.ru
 *.alimama.com
