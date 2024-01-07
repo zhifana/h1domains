@@ -8074,9 +8074,9 @@ www.ritzcarlton.com
 *uat.marriott.com
 passwordchallenge.marriott.com
 gatewaydsapdev2.marriott.com
-marrtool.com
 homes-and-villas.marriott.com
 hotel-deals.marriott.com
+marrtool.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
