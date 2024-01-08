@@ -3165,8 +3165,8 @@ abb.com.br
 *.mb-cosmos.com
 *.cloud.malwarebytes.com
 cloud.malwarebytes.com
-*.mwbsys.com
 my.malwarebytes.com
+*.mwbsys.com
 *.mbamupdates.com
 *.threatdown.com
 forums.malwarebytes.com
@@ -7388,8 +7388,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 business.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -8923,8 +8923,8 @@ JOBALINECI.COM
 *equifax.co.in
 www.equifax.com
 *.bvsnet.com.br
-*.konduto.com
 *.efficientforms.com
+*.konduto.com
 *equifax.cl
 *equifax.co.nz
 *equifax.es
@@ -9071,8 +9071,8 @@ chain.link
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.getaroom.com
 www.priceline.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
