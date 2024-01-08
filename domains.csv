@@ -1776,9 +1776,9 @@ fifth_third_bank_vdp,ztc.nube.53.com,False
 fifth_third_bank_vdp,locations.53.com,False
 fifth_third_bank_vdp,zta.nube.53.com,False
 fifth_third_bank_vdp,www.53.com,False
-fifth_third_bank_vdp,*53.com,False
 fifth_third_bank_vdp,express.53.com,False
 fifth_third_bank_vdp,onlinebanking.53.com,False
+fifth_third_bank_vdp,*53.com,False
 fifth_third_bank_vdp,*53.com,False
 fifth_third_bank_vdp,express.53.com,False
 fifth_third_bank_vdp,https://ablreporter.53.com/,False
@@ -8070,8 +8070,8 @@ marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
 marriott,cpp.marriott.com,True
 marriott,marriottfranchisetransactions.marriott.com,True
-marriott,all-inclusive.marriott.com,True
 marriott,www.ritzcarlton.com,True
+marriott,all-inclusive.marriott.com,True
 marriott,*uat.marriott.com,True
 marriott,gatewaydsapdev2.marriott.com,True
 marriott,homes-and-villas.marriott.com,True
