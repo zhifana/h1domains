@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan  8 18:23:50 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan  8 18:44:00 UTC 2024)
 ```
 www.niagahoster.co.id
 cpanel.hosting24.com
@@ -43,8 +43,8 @@ blog.23andme.com
 api.23andme.com
 you.23andme.com
 auth.23andme.com
-medical.23andme.com
 therapeutics.23andme.com
+medical.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -116,8 +116,8 @@ widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
 cars.booking.com
-secure.booking.com
 account.booking.com
+secure.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -3493,6 +3493,7 @@ careers.ui.com
 rma.ui.com
 account.ui.com
 fw-update.ubnt.com
+uisp.com
 *.ubnt.com
 *.ui.com
 community.ui.com
