@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan  8 04:22:02 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan  8 04:41:43 UTC 2024)
 ```
 www.niagahoster.co.id
 cpanel.hosting24.com
@@ -1685,8 +1685,8 @@ academy-outbound-ads.tiktok.com
 *.tiktokv.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
-*.tiktok.com
 business.tiktok.com
+*.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -2051,9 +2051,9 @@ www.alibabagroup.com
 *.alimama.com
 *.aliyun-inc.com
 *.aliexpress.com
-*.1688.com
 *.Daraz.com
 *.aliyun.com
+*.1688.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
