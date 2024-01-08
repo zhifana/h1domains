@@ -1577,8 +1577,8 @@ aven.com
 aven.com
 my.aven.com
 notary.aven.com
-*.service-now.com
 *.servicenow.com
+*.service-now.com
 *.servicenow.com
 *.service-now.com
 durango.shi.com
@@ -7414,11 +7414,11 @@ outage.logitech.com
 www.logitechstore.com.br
 *.crossclip.com
 *.logi.com
-www.logitechg.com
 www.logitech.com.cn
 *.myharmony.com
 alert.logitech.com
 *.logitech.com
+www.logitechg.com
 *.streamlabscharity.com
 logilife.logitech.com
 *.uesmartradio.com
