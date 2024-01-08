@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan  8 11:41:42 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan  8 12:30:42 UTC 2024)
 ```
 www.niagahoster.co.id
 payments.hostinger.com
@@ -2056,8 +2056,8 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.aliexpress.com
 *.Daraz.com
-*.1688.com
 *.aliyun.com
+*.1688.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2149,8 +2149,8 @@ www.ritzcarlton.com
 gatewaydsapdev2.marriott.com
 homes-and-villas.marriott.com
 hotel-deals.marriott.com
-passwordchallenge.marriott.com
 marrtool.com
+passwordchallenge.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -3436,8 +3436,8 @@ business.snapchat.com
 playcanvas.com
 geofilters.snapchat.com
 spectacles.com
-*.sc-corp.net
 web.snapchat.com
+*.sc-corp.net
 developer.playcanvas.com
 launch.playcanvas.com
 www.bitstrips.com
