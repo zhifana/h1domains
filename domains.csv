@@ -4963,8 +4963,8 @@ etoro_bbp,rankings.etoro.com,True
 etoro_bbp,delta.app,True
 etoro_bbp,bullsheet.me,True
 instacart,*.instacart.tools,True
-instacart,www.instacart.com,True
 instacart,api.instacart.com,True
+instacart,www.instacart.com,True
 instacart,shoppers.instacart.com,True
 instacart,admin.instacart.com,True
 instacart,*.instacart.com,True
@@ -7925,8 +7925,8 @@ alibaba,*.alimama.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.Daraz.com,True
 alibaba,*.aliyun.com,True
-alibaba,*.1688.com,True
 alibaba,*.aliexpress.com,True
+alibaba,*.1688.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -10300,8 +10300,8 @@ shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,admin.shopify.com,True
-shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10776,8 +10776,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,hackerone.com,True
 security,api.hackerone.com,True
+security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
