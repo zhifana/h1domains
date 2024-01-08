@@ -44,8 +44,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,you.23andme.com,True
-23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
+23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,blog.23andme.com,True
@@ -5011,8 +5011,8 @@ anywhererealestate,new.myzap.com,False
 databricks,demo.cloud.databricks.com,True
 databricks,docs.databricks.com,True
 databricks,academy.databricks.com,True
-databricks,databricks.com,True
 databricks,accounts.cloud.databricks.com,True
+databricks,databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
 databricks,marketplace.databricks.com,True
@@ -10183,12 +10183,6 @@ zomato,winecellar.zomato.com,True
 zomato,api.grofers.com,True
 zomato,api2.grofers.com,True
 zomato,blinkit.com,True
-algolia,*.algolianet.com,True
-algolia,*.algolia.net,True
-algolia,www.algolia.com,True
-algolia,*.algolia.net,True
-algolia,*.algolianet.com,True
-algolia,www.algolia.com,True
 deriv,cashier.deriv.com,True
 deriv,derivws.com,True
 deriv,api.deriv.com,True
@@ -11466,6 +11460,12 @@ kiwi-ki,mobile.kiwi.ki,True
 kiwi-ki,api.kiwi.ki,True
 kiwi-ki,mobile.kiwi.ki,True
 kiwi-ki,portal.kiwi.ki,True
+algolia,*.algolianet.com,True
+algolia,*.algolia.net,True
+algolia,www.algolia.com,True
+algolia,*.algolia.net,True
+algolia,*.algolianet.com,True
+algolia,www.algolia.com,True
 codeigniter,www.codeigniter.com,False
 codeigniter,www.codeigniter.com,False
 ok,ok.ru,False

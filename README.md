@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan  8 08:23:17 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan  8 08:43:06 UTC 2024)
 ```
 www.niagahoster.co.id
 cpanel.hosting24.com
@@ -43,8 +43,8 @@ blog.23andme.com
 auth.23andme.com
 api.23andme.com
 you.23andme.com
-therapeutics.23andme.com
 medical.23andme.com
+therapeutics.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -1095,8 +1095,8 @@ shoppers.instacart.com
 demo.cloud.databricks.com
 docs.databricks.com
 academy.databricks.com
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 kb.databricks.com
 support.databricks.com
 marketplace.databricks.com
@@ -3296,12 +3296,6 @@ winecellar.zomato.com
 api.grofers.com
 api2.grofers.com
 blinkit.com
-*.algolianet.com
-*.algolia.net
-www.algolia.com
-*.algolia.net
-*.algolianet.com
-www.algolia.com
 cashier.deriv.com
 derivws.com
 api.deriv.com
@@ -4158,6 +4152,12 @@ mobile.kiwi.ki
 api.kiwi.ki
 mobile.kiwi.ki
 portal.kiwi.ki
+*.algolianet.com
+*.algolia.net
+www.algolia.com
+*.algolia.net
+*.algolianet.com
+www.algolia.com
 provider.enter.health
 api.enter.health
 login.enter.health
