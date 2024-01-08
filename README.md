@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan  8 19:42:16 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan  8 20:24:44 UTC 2024)
 ```
-www.niagahoster.co.id
 cpanel.hosting24.com
 payments.hostinger.com
 hpanel.hostinger.com
+www.niagahoster.co.id
 hpanel.hosting24.com
 payments.hosting24.com
 www.hosting24.com
@@ -677,8 +677,8 @@ jobs.kiwi.com
 work.8x8.com
 connect.8x8.com
 *.8x8.vc
-*.jitsi.net
 sso.8x8.com
+*.jitsi.net
 work-staging.8x8.com
 uc.8x8pilot.com
 user-profile-staging.8x8.com
@@ -3397,8 +3397,8 @@ yourcompany.udemy.com
 www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
-arrive-server.shopifycloud.com
 your-store.myshopify.com
+arrive-server.shopifycloud.com
 linkpop.com
 shop.app
 *.shopifycloud.com
@@ -3493,7 +3493,6 @@ careers.ui.com
 rma.ui.com
 account.ui.com
 fw-update.ubnt.com
-uisp.com
 *.ubnt.com
 *.ui.com
 community.ui.com
