@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan  8 02:06:02 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan  8 02:36:30 UTC 2024)
 ```
 www.niagahoster.co.id
 payments.hostinger.com
@@ -116,8 +116,8 @@ widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
 cars.booking.com
-account.booking.com
 secure.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
