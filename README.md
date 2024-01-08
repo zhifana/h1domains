@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan  8 10:20:38 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan  8 10:45:04 UTC 2024)
 ```
 www.niagahoster.co.id
 cpanel.hosting24.com
@@ -10,8 +10,8 @@ payments.hostinger.com
 hpanel.hostinger.com
 hpanel.hosting24.com
 payments.hosting24.com
-www.hostinger.com
 www.hosting24.com
+www.hostinger.com
 *.000webhost.com
 cpanel.hostinger.com
 logo.zyro.com
@@ -116,8 +116,8 @@ widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
 cars.booking.com
-account.booking.com
 secure.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -1251,8 +1251,8 @@ hatching.io
 www.recordedfuture.com
 geminiadvisory.io
 securitytrails.com
-id.recordedfuture.com
 tria.ge
+id.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1412,8 +1412,8 @@ app.spiketrap.io
 *.redditmedia.com
 ads.reddit.com
 gql.reddit.com
-api.reddit.com
 old.reddit.com
+api.reddit.com
 meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -2044,16 +2044,16 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 www.alibabagroup.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.alibaba-inc.com
 *.aliexpress.ru
 *.alimama.com
 *.aliyun-inc.com
 *.aliexpress.com
 *.Daraz.com
-*.aliyun.com
 *.1688.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2777,9 +2777,9 @@ api.foliofn.com
 *.foliofirst.com
 *.folioinvesting.com
 playartifact.com
-developer.valvesoftware.com
 store.steampowered.com
 help.steampowered.com
+developer.valvesoftware.com
 www.teamfortress.com
 www.counter-strike.net
 www.valvesoftware.com
@@ -3599,8 +3599,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com
