@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan  8 16:50:05 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan  8 17:20:40 UTC 2024)
 ```
 www.niagahoster.co.id
 cpanel.hosting24.com
@@ -1009,8 +1009,8 @@ social-trading.exness.com
 https://my.exness.com/pa/socialtrading
 exness.com
 app.smtp2go.com
-api.smtp2go.com
 smtp2go.com
+api.smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
@@ -1018,8 +1018,8 @@ push-d-hap.cloud.etoro.com
 push-demo-lightstreamer.cloud.etoro.com
 sts.etoro.com
 watchlistapi.etoro.com
-www.etoro.com
 delta.app
+www.etoro.com
 cashier.etoro.com
 cashier-src.etoro.com
 kyc-src.etoro.com
@@ -3532,8 +3532,8 @@ next.airbnb.com
 *.airbnbcitizen.com
 *.muscache.com
 *.hoteltonight-test.com
-*.airbnb.com
 www.hoteltonight.com
+*.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
