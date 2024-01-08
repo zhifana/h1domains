@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan  8 05:41:21 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan  8 06:22:22 UTC 2024)
 ```
 www.niagahoster.co.id
 cpanel.hosting24.com
@@ -3746,8 +3746,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 api.hackerone.com
-hackerone.com
 hackerone-user-content.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
