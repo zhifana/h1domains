@@ -3276,8 +3276,8 @@ spdb.stanford.edu
 vault.stanford.edu
 workgroup.stanford.edu
 mailman.stanford.edu
-www.stanford.edu
 ecm.stanford.edu
+www.stanford.edu
 *.sahr.stanford.edu
 www.stanford.edu
 bi.stanford.edu
@@ -7385,8 +7385,8 @@ api.adm.cloud.com
 *developer.cloud.com
 ads.tiktok.com
 partner.tiktokshop.com
-tiktok.com
 live-backstage.tiktok.com
+tiktok.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
@@ -7395,8 +7395,8 @@ business.tiktok.com
 *.tiktokv.com
 *.tiktok.com
 effecthouse.tiktok.com
-shop.tiktok.com
 developers.tiktok.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -7984,8 +7984,8 @@ cloud.digitalocean.com
 marketplace.digitalocean.com
 169.254.169.254
 api.digitalocean.com
-*.digitalocean.com
 api.cloudways.com
+*.digitalocean.com
 www.cloudways.com
 do.co
 hackathon-tracker.digitalocean.com
@@ -8087,8 +8087,8 @@ www.ritzcarlton.com
 gatewaydsapdev2.marriott.com
 homes-and-villas.marriott.com
 hotel-deals.marriott.com
-passwordchallenge.marriott.com
 marrtool.com
+passwordchallenge.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -11023,10 +11023,10 @@ jimdo.design
 cms.jimdo.com
 ns11.jimdo.com
 *.jimdofree.com
-account.e.jimdo.com
 *.jimdo-platform.net
 www.jimdo.com
 logo.e.jimdo.com
+account.e.jimdo.com
 subscriptions.jimdosite.com
 storage.jimdosite.com
 websitegenerator.jimdosite.com
