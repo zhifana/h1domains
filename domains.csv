@@ -1,7 +1,7 @@
 handle,domain,eligible_for_bounty
 hostinger,www.niagahoster.co.id,True
-hostinger,payments.hostinger.com,True
 hostinger,cpanel.hosting24.com,True
+hostinger,payments.hostinger.com,True
 hostinger,hpanel.hostinger.com,True
 hostinger,hpanel.hosting24.com,True
 hostinger,payments.hosting24.com,True
@@ -3078,10 +3078,10 @@ abb,*.abb.co.in,False
 abb,*.abb.fr,False
 abb,*.abb.se,False
 abb,*.br-automation.com,False
-abb,*.abb.com.cn,False
 abb,*.it.abb.com,False
 abb,*.cylon.com,False
 abb,*.abb.ch,False
+abb,*.abb.com.cn,False
 abb,*.busch-jaeger.nu,False
 abb,*.xc.abb.com,False
 abb,*.evcharging.abb.com,False
@@ -7418,8 +7418,8 @@ logitech,*.logi.com,False
 logitech,www.logitech.com.cn,True
 logitech,*.myharmony.com,False
 logitech,alert.logitech.com,False
-logitech,*.logitech.com,False
 logitech,www.logitechg.com,True
+logitech,*.logitech.com,False
 logitech,*.streamlabscharity.com,False
 logitech,logilife.logitech.com,False
 logitech,*.uesmartradio.com,False
