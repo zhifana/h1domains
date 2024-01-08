@@ -1,13 +1,13 @@
 handle,domain,eligible_for_bounty
 hostinger,www.niagahoster.co.id,True
 hostinger,payments.hostinger.com,True
-hostinger,hpanel.hostinger.com,True
 hostinger,cpanel.hosting24.com,True
+hostinger,hpanel.hostinger.com,True
 hostinger,hpanel.hosting24.com,True
 hostinger,payments.hosting24.com,True
 hostinger,www.hosting24.com,True
-hostinger,*.000webhost.com,True
 hostinger,www.hostinger.com,True
+hostinger,*.000webhost.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,logo.zyro.com,True
 hostinger,partner.niagahoster.co.id,True
@@ -217,7 +217,6 @@ cbre,www.us.sequentra.net,False
 cbre,mail.cbreresidencial.es,False
 cbre,lan-54-232.usequities.com,False
 cbre,lan-54-233.usequities.com,False
-cbre,lan-54-238.usequities.com,False
 cbre,cloud.sequentra.net,False
 cbre,pop.92mountainview.com,False
 cbre,smtp.92mountainview.com,False
@@ -244,6 +243,7 @@ cbre,smtp.fmpilot2.net,False
 cbre,gameflex.gallileo-frankfurt.com,False
 cbre,getsimnum.gallileo-frankfurt.com,False
 cbre,beachside.cbresi.com.au,False
+cbre,www.cbresi.com,False
 cbre,*.mainstreamsasp.com,False
 cbre,*.bovis.es,False
 cbre,*.cbreglobalinvestors.com,False
@@ -7881,8 +7881,8 @@ amazonvrp,chat.amazon.com,True
 amazonvrp,affiliate-program.amazon.com,True
 amazonvrp,manufacturing.amazon.com,True
 amazonvrp,apay-us.amazon.com,True
-amazonvrp,api.amazon.com,True
 amazonvrp,music.amazon.com,True
+amazonvrp,api.amazon.com,True
 amazonvrp,smile.amazon.*,True
 amazonvrp,flex.amazon.*,True
 amazonvrp,logistics.amazon.*,True
@@ -8084,8 +8084,8 @@ marriott,*uat.marriott.com,True
 marriott,gatewaydsapdev2.marriott.com,True
 marriott,homes-and-villas.marriott.com,True
 marriott,hotel-deals.marriott.com,True
-marriott,marrtool.com,True
 marriott,passwordchallenge.marriott.com,True
+marriott,marrtool.com,True
 marriott,homes-and-villas.marriott.com,True
 marriott,sso.marriott.com,True
 marriott,mgs.marriott.com,True
@@ -10717,8 +10717,8 @@ coinbase,cloud.coinbase.com,True
 coinbase,api.coinbase.com,True
 coinbase,api.custody.coinbase.com,True
 coinbase,institutional.coinbase.com,True
-coinbase,coinbase.com,True
 coinbase,*.base.org,True
+coinbase,coinbase.com,True
 coinbase,commerce.coinbase.com,True
 coinbase,*.coinbase.com,True
 coinbase,*.cbhq.net,True
