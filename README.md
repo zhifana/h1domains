@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan  8 22:16:21 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan  8 22:41:44 UTC 2024)
 ```
 cpanel.hosting24.com
 payments.hostinger.com
-hpanel.hostinger.com
 www.niagahoster.co.id
+hpanel.hostinger.com
 hpanel.hosting24.com
 payments.hosting24.com
 www.hosting24.com
@@ -1927,9 +1927,9 @@ portal.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
 mapper.polygon.technology
-wallet.polygon.technology
 burn.polygon.technology
 faucet.polygon.technology
+wallet.polygon.technology
 bridge-api.matic.network
 watchgod.polygon.technology
 open-api.polygon.technology
@@ -3397,8 +3397,8 @@ yourcompany.udemy.com
 www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
-arrive-server.shopifycloud.com
 your-store.myshopify.com
+arrive-server.shopifycloud.com
 linkpop.com
 shop.app
 *.shopifycloud.com

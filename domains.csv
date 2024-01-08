@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
 hostinger,cpanel.hosting24.com,True
 hostinger,payments.hostinger.com,True
-hostinger,hpanel.hostinger.com,True
 hostinger,www.niagahoster.co.id,True
+hostinger,hpanel.hostinger.com,True
 hostinger,hpanel.hosting24.com,True
 hostinger,payments.hosting24.com,True
 hostinger,www.hosting24.com,True
@@ -7767,9 +7767,9 @@ polygon-technology,portal.polygon.technology,True
 polygon-technology,staking-api.polygon.technology,True
 polygon-technology,bridge-explorer.polygon.technology,True
 polygon-technology,mapper.polygon.technology,True
-polygon-technology,wallet.polygon.technology,True
 polygon-technology,burn.polygon.technology,True
 polygon-technology,faucet.polygon.technology,True
+polygon-technology,wallet.polygon.technology,True
 polygon-technology,bridge-api.matic.network,True
 polygon-technology,watchgod.polygon.technology,True
 polygon-technology,open-api.polygon.technology,True
@@ -8297,9 +8297,9 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.easycontactnow.com,False
 8x8,*.thinkingphones.com,False
 8x8,admin.8x8.com,False
-8x8,connect.8x8.com,False
 8x8,*.8x8cloud.net,False
 8x8,*.8x8.com,False
+8x8,connect.8x8.com,False
 8x8,*.thinkingphones.net,False
 8x8,sms.8x8.com,False
 8x8,user-profile.8x8.com,False
@@ -10293,8 +10293,8 @@ udemy,yourcompany.udemy.com,True
 udemy,www.udemy.com,True
 udemy,www.udemy.com,True
 udemy,yourcompany.udemy.com,True
-shopify,arrive-server.shopifycloud.com,True
 shopify,your-store.myshopify.com,True
+shopify,arrive-server.shopifycloud.com,True
 shopify,linkpop.com,True
 shopify,shop.app,True
 shopify,*.shopifycloud.com,True
