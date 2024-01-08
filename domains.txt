@@ -40,9 +40,9 @@ mediacenter.23andme.com
 education.23andme.com
 store.23andme.com
 blog.23andme.com
-auth.23andme.com
 api.23andme.com
 you.23andme.com
+auth.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -4571,6 +4571,7 @@ banfield.us
 *.miroyalcanin.com.ar
 *.royalcanin.nl
 *.banfield.com
+practice.securevetsource.com
 *.extragum.com
 *.monespaceeleveur.fr
 *.myroyalcanin.hu
@@ -4594,6 +4595,7 @@ banfieldfoundation.org
 *.vcahospitals.com
 *.mms.com
 *.royalcanin.ca
+spsah2.securevetsource.com
 *.royal-canin.com
 *.bibliotecarc.cl
 *.coroapremiada.com.br
@@ -4603,9 +4605,6 @@ banfieldfoundation.org
 *.royalcanin.sk
 *.tradetermsrc.com
 *.wikichien.fr
-*.plataformaurinary.com
-*.royalcanin.it
-*.marschocolate.com
 *.mars.com
 *.marschocolate.com
 *.mms.com
@@ -4671,6 +4670,9 @@ banfieldexchange.com
 banfieldfoundation.org
 marsbettertogetherfund.org
 banfield.us
+practice.securevetsource.com
+spsah2.securevetsource.com
+https://portal.securevetsource.com/petowner.html
 *.flexport.com
 *.transmissionapp.com
 *.flexport.com
@@ -8087,8 +8089,8 @@ www.ritzcarlton.com
 gatewaydsapdev2.marriott.com
 homes-and-villas.marriott.com
 hotel-deals.marriott.com
-passwordchallenge.marriott.com
 marrtool.com
+passwordchallenge.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -9083,8 +9085,8 @@ chain.link
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.getaroom.com
 www.priceline.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -9544,8 +9546,8 @@ marquee.gs.com
 *.gs.de
 *.folioclient.com
 *.advisorsolutions.gs.com
-*.gs.com
 *.folioinstitutional.com
+*.gsam.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -10541,10 +10543,10 @@ next.airbnb.com
 *.withairbnb.com
 *.byairbnb.com
 *.airbnbcitizen.com
-www.hoteltonight.com
 *.muscache.com
 *.hoteltonight-test.com
 *.airbnb.com
+www.hoteltonight.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com

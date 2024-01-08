@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan  8 16:23:45 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan  8 16:50:05 UTC 2024)
 ```
 www.niagahoster.co.id
 cpanel.hosting24.com
@@ -40,9 +40,9 @@ mediacenter.23andme.com
 education.23andme.com
 store.23andme.com
 blog.23andme.com
-auth.23andme.com
 api.23andme.com
 you.23andme.com
+auth.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -2153,8 +2153,8 @@ www.ritzcarlton.com
 gatewaydsapdev2.marriott.com
 homes-and-villas.marriott.com
 hotel-deals.marriott.com
-passwordchallenge.marriott.com
 marrtool.com
+passwordchallenge.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2342,8 +2342,8 @@ app.command.cysiv.com
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.getaroom.com
 www.priceline.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -2745,8 +2745,8 @@ marquee.gs.com
 *.gs.de
 *.folioclient.com
 *.advisorsolutions.gs.com
-*.gs.com
 *.folioinstitutional.com
+*.gsam.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3530,10 +3530,10 @@ next.airbnb.com
 *.withairbnb.com
 *.byairbnb.com
 *.airbnbcitizen.com
-www.hoteltonight.com
 *.muscache.com
 *.hoteltonight-test.com
 *.airbnb.com
+www.hoteltonight.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
