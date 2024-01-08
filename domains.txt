@@ -3270,7 +3270,6 @@ stanfordyou.stanford.edu
 netdb.stanford.edu
 accounts.stanford.edu
 bi.stanford.edu
-ecm.stanford.edu
 fasa.stanford.edu
 login.stanford.edu
 spdb.stanford.edu
@@ -3278,6 +3277,7 @@ vault.stanford.edu
 workgroup.stanford.edu
 mailman.stanford.edu
 www.stanford.edu
+ecm.stanford.edu
 *.sahr.stanford.edu
 www.stanford.edu
 bi.stanford.edu

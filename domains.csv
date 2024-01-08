@@ -3271,7 +3271,6 @@ stanford-university,stanfordyou.stanford.edu,False
 stanford-university,netdb.stanford.edu,False
 stanford-university,accounts.stanford.edu,False
 stanford-university,bi.stanford.edu,False
-stanford-university,ecm.stanford.edu,False
 stanford-university,fasa.stanford.edu,False
 stanford-university,login.stanford.edu,False
 stanford-university,spdb.stanford.edu,False
@@ -3279,6 +3278,7 @@ stanford-university,vault.stanford.edu,False
 stanford-university,workgroup.stanford.edu,False
 stanford-university,mailman.stanford.edu,False
 stanford-university,www.stanford.edu,False
+stanford-university,ecm.stanford.edu,False
 stanford-university,*.sahr.stanford.edu,False
 stanford-university,www.stanford.edu,False
 stanford-university,bi.stanford.edu,False
