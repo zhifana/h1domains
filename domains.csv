@@ -3386,9 +3386,13 @@ kkr_vdp,ksam.com,False
 superbet,*.magicjackpot.ro,True
 superbet,*.luckydays.com,True
 superbet,*.superbet.ro,True
+superbet,*.superbet.com,True
 superbet,*.luckydays.ca,True
 superbet,*.spinaway.com,True
+superbet,*.superbet.rs,True
 superbet,*.superbet.ro,True
+superbet,*.superbet.rs,True
+superbet,*.superbet.com,True
 superbet,*.magicjackpot.ro,True
 superbet,*.spinaway.com,True
 superbet,*.luckydays.com,True
@@ -8084,8 +8088,8 @@ marriott,*uat.marriott.com,True
 marriott,gatewaydsapdev2.marriott.com,True
 marriott,homes-and-villas.marriott.com,True
 marriott,hotel-deals.marriott.com,True
-marriott,marrtool.com,True
 marriott,passwordchallenge.marriott.com,True
+marriott,marrtool.com,True
 marriott,homes-and-villas.marriott.com,True
 marriott,sso.marriott.com,True
 marriott,mgs.marriott.com,True
