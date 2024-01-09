@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
 hostinger,cpanel.hosting24.com,True
 hostinger,payments.hostinger.com,True
-hostinger,hpanel.hostinger.com,True
 hostinger,www.niagahoster.co.id,True
+hostinger,hpanel.hostinger.com,True
 hostinger,hpanel.hosting24.com,True
 hostinger,payments.hosting24.com,True
 hostinger,www.hosting24.com,True
@@ -9140,8 +9140,8 @@ capital-one,*.teamstercardnow.com,False
 capital-one,*.capitaloneshopping.com,False
 smartsheet,developers.smartsheet.com,True
 smartsheet,help.smartsheet.com,True
-smartsheet,admin.smartsheet.com,True
 smartsheet,app.smartsheet.com,True
+smartsheet,admin.smartsheet.com,True
 smartsheet,app.smartsheet.com,True
 smartsheet,http://api.smartsheet.com/2.0,True
 smartsheet,admin.smartsheet.com,True
@@ -9526,9 +9526,9 @@ goldmansachs,*.foliofirst.com,True
 goldmansachs,*.gsselect.com,True
 goldmansachs,*.marcus.co.uk,True
 goldmansachs,*.unitedcp.com,True
-goldmansachs,*.ayco.com,True
 goldmansachs,*.foliofn.com,True
 goldmansachs,*.goldman.com,True
+goldmansachs,*.ayco.com,True
 goldmansachs,*.goldmanpfm.com,True
 goldmansachs,*.finlifepartners.com,True
 goldmansachs,*.foliodigitalwealth.com,True
@@ -10293,8 +10293,8 @@ udemy,yourcompany.udemy.com,True
 udemy,www.udemy.com,True
 udemy,www.udemy.com,True
 udemy,yourcompany.udemy.com,True
-shopify,your-store.myshopify.com,True
 shopify,arrive-server.shopifycloud.com,True
+shopify,your-store.myshopify.com,True
 shopify,linkpop.com,True
 shopify,shop.app,True
 shopify,*.shopifycloud.com,True
@@ -10755,8 +10755,8 @@ slack,slack-redir.net,True
 slack,*.quip.com,True
 slack,app.slack.com,True
 slack,edgeapi.slack.com,True
-slack,slack-imgs.com,True
 slack,slack.com,True
+slack,slack-imgs.com,True
 slack,www.quip.com,True
 slack,slack.com,True
 slack,api.slack.com,True
