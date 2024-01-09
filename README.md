@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  9 10:44:12 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan  9 11:16:42 UTC 2024)
 ```
 cpanel.hosting24.com
 www.niagahoster.co.id
@@ -1697,8 +1697,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-business.tiktok.com
 *.tiktok.com
+business.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -2728,8 +2728,8 @@ apigw.foliofn.com
 *.marcus.co.uk
 *.unitedcp.com
 *.ayco.com
-*.goldman.com
 *.foliofn.com
+*.goldman.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com

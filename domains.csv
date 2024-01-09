@@ -2845,11 +2845,11 @@ shutterfly_vdp,www.borrowlenses.com,False
 shutterfly_vdp,*.sf-cdn.com,False
 shutterfly_vdp,shutterfly.com,False
 shutterfly_vdp,jcpportraits.com,False
-shutterfly_vdp,snapfish.com,False
 shutterfly_vdp,admin.spoonflower.com,False
 shutterfly_vdp,wgwebservices.snapfish.com,False
 shutterfly_vdp,*.sbs.shutterfly.com,False
 shutterfly_vdp,*.snapfish.com,False
+shutterfly_vdp,snapfish.com,False
 shutterfly_vdp,snapfish.co.uk,False
 shutterfly_vdp,snapfish.com.au,False
 shutterfly_vdp,snapfish.co.nz,False
@@ -3546,9 +3546,9 @@ expediagroup,*.egadvertising.com,False
 expediagroup,*.hoteis.com,False
 expediagroup,*.ean.com,False
 expediagroup,*.lastminute.co.nz,False
-expediagroup,*.wotif.com,False
 expediagroup,*.vrbo.com,False
 expediagroup,*.expedia.com,False
+expediagroup,*.wotif.com,False
 expediagroup,*.lastminute.com.au,False
 expediagroup,*.flights.com,False
 expediagroup,*.hoteles.com,False
@@ -7404,8 +7404,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,business.tiktok.com,True
 tiktok,*.tiktok.com,True
+tiktok,business.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -9527,8 +9527,8 @@ goldmansachs,*.gsselect.com,True
 goldmansachs,*.marcus.co.uk,True
 goldmansachs,*.unitedcp.com,True
 goldmansachs,*.ayco.com,True
-goldmansachs,*.goldman.com,True
 goldmansachs,*.foliofn.com,True
+goldmansachs,*.goldman.com,True
 goldmansachs,*.goldmanpfm.com,True
 goldmansachs,*.finlifepartners.com,True
 goldmansachs,*.foliodigitalwealth.com,True
