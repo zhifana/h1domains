@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  9 08:41:59 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan  9 09:20:24 UTC 2024)
 ```
 cpanel.hosting24.com
 www.niagahoster.co.id
@@ -2191,8 +2191,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
