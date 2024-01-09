@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  9 15:20:41 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan  9 15:45:19 UTC 2024)
 ```
 cpanel.hosting24.com
 payments.hostinger.com
@@ -733,8 +733,8 @@ admin.8x8.com
 *.luckydays.ca
 *.napoleoncasino.be
 *.spinaway.com
-*.napoleonsports.be
 *.superbet.rs
+*.napoleonsports.be
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -838,6 +838,14 @@ www.fewo-direkt.de
 www.stayz.com.au
 www.expediagroup.com
 www.flights.com
+*.magiceden.workers.dev
+*.magiceden.io
+magiceden.io
+*.magiceden.dev
+magiceden.io
+*.magiceden.io
+*.magiceden.dev
+*.magiceden.workers.dev
 *.magiceden.workers.dev
 *.magiceden.io
 magiceden.io
@@ -2187,8 +2195,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
