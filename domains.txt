@@ -1,7 +1,7 @@
 cpanel.hosting24.com
 www.niagahoster.co.id
-hpanel.hostinger.com
 payments.hostinger.com
+hpanel.hostinger.com
 hpanel.hosting24.com
 payments.hosting24.com
 www.hosting24.com
@@ -1577,8 +1577,8 @@ aven.com
 aven.com
 my.aven.com
 notary.aven.com
-*.servicenow.com
 *.service-now.com
+*.servicenow.com
 *.servicenow.com
 *.service-now.com
 durango.shi.com
@@ -1756,8 +1756,8 @@ www.practicalmoneyskills.org
 *.freightliner.com
 *.bharatbenz.com
 *evobus.com
-*fleetboard.com
 *.mitsubishi-fuso.com
+*fleetboard.com
 *exceleratorparts.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
@@ -3385,9 +3385,9 @@ admin.8x8.com
 *.luckydays.com
 *.magicjackpot.ro
 *.superbet.com
-*.superbet.ro
 *.napoleondice.be
 *.napoleongames.be
+*.superbet.ro
 *.luckydays.ca
 *.napoleoncasino.be
 *.spinaway.com
@@ -7815,7 +7815,7 @@ portal.polygon.technology
 *.skybetservices.com
 *.betfair.se
 *.sbgtest.net
-*.platformservices.io
+*.betfair.ro
 *.betfair.com
 *.paddypower.com
 *.betfair.es
@@ -8072,9 +8072,9 @@ maria.casino
 www.32red.com
 relaxcdn.unibet.com
 gatewaydsaptst2.marriott.com
-mgs.marriott.com
 sso.marriott.com
 www.marriott.com
+mgs.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
@@ -8088,10 +8088,10 @@ www.ritzcarlton.com
 all-inclusive.marriott.com
 *uat.marriott.com
 gatewaydsapdev2.marriott.com
-hotel-deals.marriott.com
 marrtool.com
 passwordchallenge.marriott.com
 homes-and-villas.marriott.com
+hotel-deals.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -9618,8 +9618,8 @@ developer.valvesoftware.com
 storefront.steampowered.com
 wiki.teamfortress.com
 *.mona.co
-auth.crypto.com
 www.crypto.com
+auth.crypto.com
 *.crypto.com
 tax.crypto.com
 merchant.crypto.com
@@ -10341,8 +10341,8 @@ business.snapchat.com
 playcanvas.com
 geofilters.snapchat.com
 spectacles.com
-web.snapchat.com
 *.sc-corp.net
+web.snapchat.com
 developer.playcanvas.com
 launch.playcanvas.com
 www.bitstrips.com
