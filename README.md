@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  9 06:42:06 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan  9 07:19:02 UTC 2024)
 ```
 cpanel.hosting24.com
 www.niagahoster.co.id
@@ -675,10 +675,10 @@ tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
-*.8x8.vc
 sso.8x8.com
 *.jitsi.net
 connect.8x8.com
+*.8x8.vc
 work-staging.8x8.com
 uc.8x8pilot.com
 user-profile-staging.8x8.com
