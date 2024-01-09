@@ -2,8 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  9 16:48:43 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan  9 17:19:19 UTC 2024)
 ```
+app.dynamic.xyz
+app.dynamic-preprod.xyz
+demo.dynamic.xyz
+app.dynamic-preprod.xyz
+demo.dynamic.xyz
+app.dynamic.xyz
 cpanel.hosting24.com
 payments.hostinger.com
 www.niagahoster.co.id
@@ -39,10 +45,10 @@ research.23andme.com
 mediacenter.23andme.com
 store.23andme.com
 education.23andme.com
-auth.23andme.com
 blog.23andme.com
 api.23andme.com
 you.23andme.com
+auth.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -466,9 +472,9 @@ aus5.mozilla.org
 contile.services.mozilla.com
 hg.mozilla.org
 crash-reports.allizom.org
-location.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
+location.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -838,14 +844,6 @@ www.fewo-direkt.de
 www.stayz.com.au
 www.expediagroup.com
 www.flights.com
-*.magiceden.workers.dev
-*.magiceden.io
-magiceden.io
-*.magiceden.dev
-magiceden.io
-*.magiceden.io
-*.magiceden.dev
-*.magiceden.workers.dev
 *.magiceden.workers.dev
 *.magiceden.io
 magiceden.io
@@ -1704,8 +1702,8 @@ www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
-*.tiktokv.com
 business.tiktok.com
+*.tiktokv.com
 *.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -2148,8 +2146,8 @@ maria.casino
 www.32red.com
 gatewaydsaptst2.marriott.com
 sso.marriott.com
-www.marriott.com
 mgs.marriott.com
+www.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
@@ -3418,9 +3416,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
+*.shopify.com
 accounts.shopify.com
 admin.shopify.com
-*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3543,8 +3541,8 @@ next.airbnb.com
 *.airbnbcitizen.com
 *.muscache.com
 *.hoteltonight-test.com
-*.airbnb.com
 www.hoteltonight.com
+*.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
