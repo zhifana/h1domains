@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  9 20:19:48 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan  9 20:42:09 UTC 2024)
 ```
 app.dynamic.xyz
 app.dynamic-preprod.xyz
@@ -16,9 +16,9 @@ www.niagahoster.co.id
 hpanel.hostinger.com
 hpanel.hosting24.com
 payments.hosting24.com
-www.hosting24.com
 www.hostinger.com
 *.000webhost.com
+www.hosting24.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
@@ -46,8 +46,8 @@ mediacenter.23andme.com
 education.23andme.com
 store.23andme.com
 blog.23andme.com
-you.23andme.com
 api.23andme.com
+you.23andme.com
 auth.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
@@ -695,8 +695,8 @@ platform.8x8pilot.com
 cloud8.8x8.com
 platform.8x8.com
 voapi.8x8.com
-*.8x8staging.com
 *.packet8.net
+*.8x8staging.com
 sso.8x8pilot.com
 *.p8t.us
 user-profile.8x8.com
@@ -2121,8 +2121,8 @@ unibet.me
 *.unibet.fr
 maria.casino
 *.kindredext.net
-*.mariacasino.com
 *.unibet.com
+*.mariacasino.com
 *.storspiller.com
 *.ottokasino.com
 www.32red.com
