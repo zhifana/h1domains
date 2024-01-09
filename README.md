@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  9 12:58:25 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan  9 13:47:32 UTC 2024)
 ```
 cpanel.hosting24.com
-www.niagahoster.co.id
 payments.hostinger.com
 hpanel.hostinger.com
+www.niagahoster.co.id
 hpanel.hosting24.com
 payments.hosting24.com
 www.hosting24.com
@@ -41,8 +41,8 @@ store.23andme.com
 education.23andme.com
 auth.23andme.com
 blog.23andme.com
-api.23andme.com
 you.23andme.com
+api.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -98,8 +98,8 @@ supplier.auth.toag.booking.com
 admin.booking.com
 supply-xml.booking.com
 flights.booking.com
-booking.com
 *.booking.com
+booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -1697,8 +1697,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 business.tiktok.com
+*.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -2140,8 +2140,8 @@ maria.casino
 www.32red.com
 gatewaydsaptst2.marriott.com
 sso.marriott.com
-www.marriott.com
 mgs.marriott.com
+www.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
