@@ -4570,8 +4570,8 @@ banfield.us
 *.miroyalcanin.com.ar
 *.royalcanin.nl
 *.banfield.com
-*.eukanubasportingdog.com
 practice.securevetsource.com
+*.eukanubasportingdog.com
 *.extragum.com
 *.monespaceeleveur.fr
 *.myroyalcanin.hu
@@ -7395,8 +7395,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 business.tiktok.com
+*.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -7424,8 +7424,8 @@ www.logitechstore.com.br
 www.logitech.com.cn
 *.myharmony.com
 alert.logitech.com
-*.logitech.com
 www.logitechg.com
+*.logitech.com
 *.streamlabscharity.com
 logilife.logitech.com
 *.uesmartradio.com
