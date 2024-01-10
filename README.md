@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 10 13:43:00 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 10 14:18:27 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -1125,8 +1125,8 @@ shoppers.instacart.com
 demo.cloud.databricks.com
 docs.databricks.com
 academy.databricks.com
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 kb.databricks.com
 support.databricks.com
 marketplace.databricks.com
@@ -2170,9 +2170,9 @@ jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 cpp.marriott.com
-marriottfranchisetransactions.marriott.com
 www.ritzcarlton.com
 all-inclusive.marriott.com
+marriottfranchisetransactions.marriott.com
 *uat.marriott.com
 gatewaydsapdev2.marriott.com
 marrtool.com
@@ -2393,8 +2393,8 @@ press.priceline.com
 www.bookingholdings.com
 developers.smartsheet.com
 help.smartsheet.com
-app.smartsheet.com
 admin.smartsheet.com
+app.smartsheet.com
 app.smartsheet.com
 http://api.smartsheet.com/2.0
 admin.smartsheet.com
