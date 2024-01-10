@@ -62,8 +62,8 @@ mediacenter.23andme.com
 education.23andme.com
 store.23andme.com
 blog.23andme.com
-api.23andme.com
 you.23andme.com
+api.23andme.com
 auth.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
@@ -2731,8 +2731,8 @@ biologyfinder.com
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshchat.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -2857,8 +2857,8 @@ snapfish.it
 snapfish.fr
 snapfish.ie
 *.photoccino.com
-*.lifetouch.com
 photo.walgreens.com
+*.lifetouch.com
 snapfish.de
 prestigeportraits.com
 lifetouch.com
@@ -3187,8 +3187,8 @@ abb.com.br
 *.mb-cosmos.com
 *.cloud.malwarebytes.com
 cloud.malwarebytes.com
-*.mwbsys.com
 my.malwarebytes.com
+*.mwbsys.com
 *.mbamupdates.com
 *.threatdown.com
 forums.malwarebytes.com
@@ -3408,13 +3408,13 @@ admin.8x8.com
 *.magicjackpot.ro
 *.napoleondice.be
 *.napoleongames.be
-*.superbet.ro
 *.superbet.com
+*.superbet.ro
 *.luckydays.ca
 *.napoleoncasino.be
 *.spinaway.com
-*.superbet.rs
 *.napoleonsports.be
+*.superbet.rs
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -7529,8 +7529,8 @@ logitechgchallenge.com
 www.logitechclub.com
 select.logitech.com
 alert.logitech.com
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -10704,9 +10704,9 @@ simperium.com
 gravatar.com
 simplenote.com
 assets.tumblr.com
-intensedebate.com
 api.tumblr.com
 wordpress.com
+intensedebate.com
 safe.tumblr.com
 t.umblr.com
 *.tumblr.com
