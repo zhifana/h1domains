@@ -75,9 +75,9 @@ egress-vdp,www.egress.com,False
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
 23andme_bbp,blog.23andme.com,True
-23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,you.23andme.com,True
+23andme_bbp,api.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -4623,10 +4623,10 @@ mars,*.royalcanin-vouchers.com,False
 mars,banfieldexchange.com,False
 mars,*.banfieldassets.com,False
 mars,*.royalcanin.co.uk,False
-mars,*.royalcanin.com,False
 mars,*.orbitgum.com,False
 mars,*.royalcanin.pl,False
 mars,*.jornadasroyalcanin.com.ar,False
+mars,*.royalcanin.com,False
 mars,*.moncse-royalcanin-siege.com,False
 mars,*.monespaceveto.com,False
 mars,*.royalcanin.cz,False
@@ -7246,8 +7246,8 @@ bitso,nvio.mx,True
 bitso,nvio.ar,True
 lark_technologies,caldav.larksuite.com,True
 lark_technologies,passport.larksuite.com,True
-lark_technologies,internal-api-drive-stream.larksuite.com,True
 lark_technologies,hackers_chosendomain.larksuite.com,True
+lark_technologies,internal-api-drive-stream.larksuite.com,True
 lark_technologies,internal-api.larksuite.com,True
 lark_technologies,larksuite.com,True
 lark_technologies,api.larksuite.com,True
@@ -7922,9 +7922,9 @@ amazonvrp,track.amazon.com,True
 amazonvrp,chat.amazon.com,True
 amazonvrp,affiliate-program.amazon.com,True
 amazonvrp,manufacturing.amazon.com,True
-amazonvrp,apay-us.amazon.com,True
 amazonvrp,music.amazon.com,True
 amazonvrp,api.amazon.com,True
+amazonvrp,apay-us.amazon.com,True
 amazonvrp,smile.amazon.*,True
 amazonvrp,flex.amazon.*,True
 amazonvrp,logistics.amazon.*,True
