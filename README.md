@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 10 17:41:20 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 10 18:25:23 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -24,8 +24,8 @@ demo.dynamic.xyz
 app.dynamic.xyz
 cpanel.hosting24.com
 www.niagahoster.co.id
-payments.hostinger.com
 hpanel.hostinger.com
+payments.hostinger.com
 hpanel.hosting24.com
 payments.hosting24.com
 www.hosting24.com
@@ -35,8 +35,8 @@ cpanel.hostinger.com
 partner.niagahoster.co.id
 editor.zyro.com
 backend.zyro.com
-logo.zyro.com
 www.zyro.com
+logo.zyro.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -1125,8 +1125,8 @@ shoppers.instacart.com
 demo.cloud.databricks.com
 docs.databricks.com
 academy.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
 marketplace.databricks.com
@@ -1442,10 +1442,10 @@ www.urbancompany.com
 www.urbanclap.com
 app.spiketrap.io
 *.redditmedia.com
-ads.reddit.com
 old.reddit.com
 api.reddit.com
 gql.reddit.com
+ads.reddit.com
 meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -3443,8 +3443,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
