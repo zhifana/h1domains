@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 10 23:17:14 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 10 23:43:06 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -24,8 +24,8 @@ demo.dynamic.xyz
 app.dynamic.xyz
 cpanel.hosting24.com
 www.niagahoster.co.id
-payments.hostinger.com
 hpanel.hostinger.com
+payments.hostinger.com
 hpanel.hosting24.com
 payments.hosting24.com
 *.000webhost.com
@@ -57,10 +57,10 @@ research.23andme.com
 mediacenter.23andme.com
 education.23andme.com
 store.23andme.com
-blog.23andme.com
 auth.23andme.com
 you.23andme.com
 api.23andme.com
+blog.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -3735,9 +3735,9 @@ pro.coinbase.com
 prime.coinbase.com
 *.coinbase.com
 custody.coinbase.com
-api.coinbase.com
 cloud.coinbase.com
 international.coinbase.com
+api.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
 *.base.org
