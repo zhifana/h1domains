@@ -34,8 +34,8 @@ app.wellhive.com
 login.wellhive.com
 cpanel.hosting24.com
 www.niagahoster.co.id
-hpanel.hostinger.com
 payments.hostinger.com
+hpanel.hostinger.com
 hpanel.hosting24.com
 payments.hosting24.com
 *.000webhost.com
