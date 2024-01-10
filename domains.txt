@@ -4612,8 +4612,8 @@ banfield.us
 *.miroyalcanin.com.ar
 *.banfield.com
 *.eukanubasportingdog.com
-practice.securevetsource.com
 *.royalcanin.nl
+practice.securevetsource.com
 *.extragum.com
 *.monespaceeleveur.fr
 *.myroyalcanin.hu
@@ -9180,8 +9180,8 @@ www.bookingholdings.com
 *.capitaloneshopping.com
 developers.smartsheet.com
 help.smartsheet.com
-admin.smartsheet.com
 app.smartsheet.com
+admin.smartsheet.com
 app.smartsheet.com
 http://api.smartsheet.com/2.0
 admin.smartsheet.com

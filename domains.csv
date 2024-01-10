@@ -4613,8 +4613,8 @@ mars,*.individualis.com,False
 mars,*.miroyalcanin.com.ar,False
 mars,*.banfield.com,False
 mars,*.eukanubasportingdog.com,False
-mars,practice.securevetsource.com,False
 mars,*.royalcanin.nl,False
+mars,practice.securevetsource.com,False
 mars,*.extragum.com,False
 mars,*.monespaceeleveur.fr,False
 mars,*.myroyalcanin.hu,False
@@ -9181,8 +9181,8 @@ capital-one,*.teamstercardnow.com,False
 capital-one,*.capitaloneshopping.com,False
 smartsheet,developers.smartsheet.com,True
 smartsheet,help.smartsheet.com,True
-smartsheet,admin.smartsheet.com,True
 smartsheet,app.smartsheet.com,True
+smartsheet,admin.smartsheet.com,True
 smartsheet,app.smartsheet.com,True
 smartsheet,http://api.smartsheet.com/2.0,True
 smartsheet,admin.smartsheet.com,True
