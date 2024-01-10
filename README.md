@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 10 02:36:18 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 10 03:19:07 UTC 2024)
 ```
 app.dynamic.xyz
 app.dynamic-preprod.xyz
@@ -2828,9 +2828,9 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-*.mona.co
 www.crypto.com
 auth.crypto.com
+*.mona.co
 *.crypto.com
 tax.crypto.com
 merchant.crypto.com
@@ -3336,9 +3336,9 @@ smarttrader.deriv.com
 secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.com
-*.deriv.cloud
 app.deriv.com
 oauth.deriv.com
+*.deriv.cloud
 *.deriv.com
 *.deriv.cloud
 *.derivws.com

@@ -9646,9 +9646,9 @@ help.steampowered.com
 developer.valvesoftware.com
 storefront.steampowered.com
 wiki.teamfortress.com
-*.mona.co
 www.crypto.com
 auth.crypto.com
+*.mona.co
 *.crypto.com
 tax.crypto.com
 merchant.crypto.com
@@ -10240,9 +10240,9 @@ smarttrader.deriv.com
 secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.com
-*.deriv.cloud
 app.deriv.com
 oauth.deriv.com
+*.deriv.cloud
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
