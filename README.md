@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 10 03:19:07 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 10 03:41:43 UTC 2024)
 ```
 app.dynamic.xyz
 app.dynamic-preprod.xyz
@@ -46,8 +46,8 @@ mediacenter.23andme.com
 education.23andme.com
 store.23andme.com
 blog.23andme.com
-api.23andme.com
 you.23andme.com
+api.23andme.com
 auth.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
@@ -1696,8 +1696,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 partner.tiktokshop.com
-tiktok.com
 live-backstage.tiktok.com
+tiktok.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
