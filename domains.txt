@@ -1,7 +1,7 @@
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
-myaccount-hardening.dynatracelabs.com
 *.sprint.dynatracelabs.com
+myaccount-hardening.dynatracelabs.com
 university-staging.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
@@ -3700,8 +3700,8 @@ www.divvyhomes.com
 *.ttrus.com
 *.avalara.net
 *.davosalestax.com
-*.inposia.com
 *.3ce.com
+*.inposia.com
 *.avalara.com
 *.avalara.com
 *.avalara.net
@@ -5058,8 +5058,8 @@ new.myzap.com
 demo.cloud.databricks.com
 docs.databricks.com
 academy.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
 marketplace.databricks.com
