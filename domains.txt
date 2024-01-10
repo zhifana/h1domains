@@ -6266,8 +6266,8 @@ www.layahealthcare.ie
 *.myretirementmanager.com
 www-1008.aig.com
 www.travelguard.com
-www.aig.co.il
 *.aig.com
+www.aig.co.il
 www.aig.com.br
 *.aig.co.jp
 www.vfisu.com
