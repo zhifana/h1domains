@@ -1458,8 +1458,8 @@ abn_amro_vdp,*.abnamro.be,False
 abn_amro_vdp,*.abnamrolease.com,False
 abn_amro_vdp,*.abnamroinvestmentsolutions.com,False
 abn_amro_vdp,*.new10.com,False
-fertitta_entertainment,thepostoak.com,False
 fertitta_entertainment,dungeonofdoomkemah.com,False
+fertitta_entertainment,thepostoak.com,False
 fertitta_entertainment,r-u-i.com,False
 fertitta_entertainment,wildwoodcasino.net,False
 fertitta_entertainment,sanluisresort.com,False
@@ -9596,7 +9596,6 @@ goldmansachs,*.folioclient.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,*.gsam.com,True
 goldmansachs,*.folioinstitutional.com,True
-goldmansachs,*.gs.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True

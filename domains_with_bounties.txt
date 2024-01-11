@@ -2776,7 +2776,6 @@ marquee.gs.com
 *.advisorsolutions.gs.com
 *.gsam.com
 *.folioinstitutional.com
-*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
