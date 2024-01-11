@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan 11 22:41:21 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jan 11 23:19:39 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -2134,9 +2134,9 @@ dashboard.fortmatic.com
 fortmatic.com
 unibet.me
 *.highrolling.nu
-*.kolikkopelit.com
 *.bingo.com
 *.unibet.fr
+*.kolikkopelit.com
 maria.casino
 *.kindredext.net
 *.unibet.com

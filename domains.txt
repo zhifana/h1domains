@@ -8066,9 +8066,9 @@ console.picsart.io
 relaxcdn.unibet.com
 unibet.me
 *.highrolling.nu
-*.kolikkopelit.com
 *.bingo.com
 *.unibet.fr
+*.kolikkopelit.com
 maria.casino
 *.kindredext.net
 *.unibet.com
