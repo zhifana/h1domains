@@ -28,11 +28,11 @@ www.niagahoster.co.id
 payments.hostinger.com
 hpanel.hostinger.com
 cpanel.hosting24.com
-hpanel.hosting24.com
 payments.hosting24.com
 www.hosting24.com
-*.000webhost.com
 www.hostinger.com
+*.000webhost.com
+hpanel.hosting24.com
 cpanel.hostinger.com
 partner.niagahoster.co.id
 editor.zyro.com
@@ -2857,11 +2857,11 @@ hg.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 staging.spoonflower.com
-snapfish.it
 snapfish.fr
 snapfish.ie
 *.photoccino.com
 *.lifetouch.com
+snapfish.it
 photo.walgreens.com
 snapfish.de
 prestigeportraits.com
@@ -3130,9 +3130,9 @@ abb.com.br
 *.abb.in
 *.abb-drives.com
 *.busch-jaeger.nl
-*.ability.abb
 *.motors.abb.com
 *.abb
+*.ability.abb
 *.stratus.abb.com
 *.cirrus.abb.com
 *.motion.abb.com
@@ -5050,8 +5050,8 @@ new.myzap.com
 demo.cloud.databricks.com
 docs.databricks.com
 academy.databricks.com
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 kb.databricks.com
 support.databricks.com
 marketplace.databricks.com
@@ -5110,7 +5110,6 @@ snackfutures.com
 snackworks.com
 trebor.co.uk
 tuctime.it
-twobite.ca
 www.clifbar.pt
 mmmax.milka.de
 milka.ru
@@ -10375,8 +10374,8 @@ snappublisher.snapchat.com
 map.snapchat.com
 www.bitmoji.com
 business.snapchat.com
-playcanvas.com
 app.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
