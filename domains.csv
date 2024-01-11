@@ -3426,8 +3426,8 @@ superbet,*.superbet.com,True
 superbet,*.luckydays.ca,True
 superbet,*.napoleoncasino.be,True
 superbet,*.spinaway.com,True
-superbet,*.napoleonsports.be,True
 superbet,*.superbet.rs,True
+superbet,*.napoleonsports.be,True
 superbet,*.superbet.ro,True
 superbet,*.superbet.rs,True
 superbet,*.superbet.com,True
@@ -7439,8 +7439,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,business.tiktok.com,True
-tiktok,*.tiktok.com,True
 tiktok,careers.tiktok.com,True
+tiktok,*.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -10768,8 +10768,8 @@ irccloud,blog.irccloud.com,True
 coinbase,*.cbhq.net,True
 coinbase,pro.coinbase.com,True
 coinbase,prime.coinbase.com,True
-coinbase,*.coinbase.com,True
 coinbase,custody.coinbase.com,True
+coinbase,*.coinbase.com,True
 coinbase,cloud.coinbase.com,True
 coinbase,international.coinbase.com,True
 coinbase,api.coinbase.com,True
@@ -10869,15 +10869,6 @@ security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,cover-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.live,True
 security,*.vpn.hackerone.net,True
-tecno,www.mobile-phantom.com,False
-tecno,*.palm.tech,False
-tecno,www.tecno-mobile.com,False
-tecno,security.tecno.com,False
-tecno,*.palm.tech,False
-tecno,www.tecno-mobile.com,False
-tecno,www.boomplay.com,False
-tecno,security.tecno.com,False
-tecno,www.mobile-phantom.com,False
 gsa-h1c3,idp.int.identitysandbox.gov,True
 gsa-h1c3,login.gov,True
 gsa-h1c3,node1.pivcac.prod.login.gov,True

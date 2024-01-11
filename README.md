@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan 11 05:40:22 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jan 11 06:23:21 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -751,8 +751,8 @@ admin.8x8.com
 *.luckydays.ca
 *.napoleoncasino.be
 *.spinaway.com
-*.napoleonsports.be
 *.superbet.rs
+*.napoleonsports.be
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1717,8 +1717,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
 business.tiktok.com
-*.tiktok.com
 careers.tiktok.com
+*.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -3732,8 +3732,8 @@ blog.irccloud.com
 *.cbhq.net
 pro.coinbase.com
 prime.coinbase.com
-*.coinbase.com
 custody.coinbase.com
+*.coinbase.com
 cloud.coinbase.com
 international.coinbase.com
 api.coinbase.com
