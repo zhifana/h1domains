@@ -10,12 +10,6 @@ account-sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
-*.oaknorth-prod.com
-*.oaknorth.com
-*.oaknorth-it.com
-*.oaknorth-it.com
-*.oaknorth-prod.com
-*.oaknorth.com
 app.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
@@ -7774,9 +7768,9 @@ social.playstation.com
 api.direct.playstation.com
 transact.playstation.com
 direct.playstation.com
-store.playstation.com
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
+store.playstation.com
 my.playstation.com
 *.playstation.net
 my.account.sony.com
@@ -10848,6 +10842,12 @@ profile-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 *.vpn.hackerone.net
+*.oaknorth-prod.com
+*.oaknorth.com
+*.oaknorth-it.com
+*.oaknorth-it.com
+*.oaknorth-prod.com
+*.oaknorth.com
 idp.int.identitysandbox.gov
 login.gov
 node1.pivcac.prod.login.gov

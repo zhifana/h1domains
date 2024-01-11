@@ -11,12 +11,6 @@ dynatrace,account-sprint.dynatracelabs.com,True
 dynatrace,sso-sprint.dynatracelabs.com,True
 dynatrace,university-staging.dynatracelabs.com,True
 dynatrace,myaccount-hardening.dynatracelabs.com,True
-oaknorth_bank,*.oaknorth-prod.com,False
-oaknorth_bank,*.oaknorth.com,False
-oaknorth_bank,*.oaknorth-it.com,False
-oaknorth_bank,*.oaknorth-it.com,False
-oaknorth_bank,*.oaknorth-prod.com,False
-oaknorth_bank,*.oaknorth.com,False
 dynamic_labs,app.dynamic.xyz,True
 dynamic_labs,app.dynamic-preprod.xyz,True
 dynamic_labs,demo.dynamic.xyz,True
@@ -7775,9 +7769,9 @@ playstation,social.playstation.com,True
 playstation,api.direct.playstation.com,True
 playstation,transact.playstation.com,True
 playstation,direct.playstation.com,True
-playstation,store.playstation.com,True
 playstation,*.sonyentertainmentnetwork.com,True
 playstation,*.api.playstation.com,True
+playstation,store.playstation.com,True
 playstation,my.playstation.com,True
 playstation,*.playstation.net,True
 playstation,my.account.sony.com,True
@@ -10849,6 +10843,12 @@ security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,cover-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.live,True
 security,*.vpn.hackerone.net,True
+oaknorth_bank,*.oaknorth-prod.com,False
+oaknorth_bank,*.oaknorth.com,False
+oaknorth_bank,*.oaknorth-it.com,False
+oaknorth_bank,*.oaknorth-it.com,False
+oaknorth_bank,*.oaknorth-prod.com,False
+oaknorth_bank,*.oaknorth.com,False
 gsa-h1c3,idp.int.identitysandbox.gov,True
 gsa-h1c3,login.gov,True
 gsa-h1c3,node1.pivcac.prod.login.gov,True

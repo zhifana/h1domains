@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan 11 17:19:14 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jan 11 17:44:59 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -1932,9 +1932,9 @@ social.playstation.com
 api.direct.playstation.com
 transact.playstation.com
 direct.playstation.com
-store.playstation.com
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
+store.playstation.com
 my.playstation.com
 *.playstation.net
 my.account.sony.com
