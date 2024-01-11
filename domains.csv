@@ -1788,8 +1788,8 @@ daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
-daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
+daimler_truck,*.bharatbenz.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -3149,8 +3149,8 @@ abb,*.abb.de,False
 abb,*.abb.ca,False
 abb,*.abb.net,False
 abb,*.abb.pl,False
-abb,*.busch-jaeger.de,False
 abb,*.ch.abb.com,False
+abb,*.busch-jaeger.de,False
 abb,*.abb.com,False
 abb,*.abb,False
 abb,*.tnb.com,False
@@ -5006,9 +5006,9 @@ etoro_bbp,watchlistapi.etoro.com,True
 etoro_bbp,rankings.etoro.com,True
 etoro_bbp,delta.app,True
 etoro_bbp,bullsheet.me,True
-instacart,*.instacart.tools,True
 instacart,api.instacart.com,True
 instacart,www.instacart.com,True
+instacart,*.instacart.tools,True
 instacart,shoppers.instacart.com,True
 instacart,admin.instacart.com,True
 instacart,*.instacart.com,True
