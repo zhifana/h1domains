@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan 11 03:42:07 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jan 11 04:21:34 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -24,8 +24,8 @@ demo.dynamic.xyz
 app.dynamic.xyz
 cpanel.hosting24.com
 www.niagahoster.co.id
-hpanel.hostinger.com
 payments.hostinger.com
+hpanel.hostinger.com
 hpanel.hosting24.com
 payments.hosting24.com
 www.hostinger.com
@@ -746,8 +746,8 @@ admin.8x8.com
 *.magicjackpot.ro
 *.napoleondice.be
 *.superbet.ro
-*.superbet.com
 *.napoleongames.be
+*.superbet.com
 *.luckydays.ca
 *.napoleoncasino.be
 *.spinaway.com
@@ -1125,8 +1125,8 @@ shoppers.instacart.com
 demo.cloud.databricks.com
 docs.databricks.com
 academy.databricks.com
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 kb.databricks.com
 support.databricks.com
 marketplace.databricks.com
