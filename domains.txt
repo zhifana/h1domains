@@ -34,13 +34,13 @@ app.wellhive.com
 login.wellhive.com
 cpanel.hosting24.com
 www.niagahoster.co.id
-payments.hostinger.com
 hpanel.hostinger.com
+payments.hostinger.com
 hpanel.hosting24.com
 payments.hosting24.com
-www.hostinger.com
 www.hosting24.com
 *.000webhost.com
+www.hostinger.com
 cpanel.hostinger.com
 partner.niagahoster.co.id
 editor.zyro.com
@@ -5058,8 +5058,8 @@ new.myzap.com
 demo.cloud.databricks.com
 docs.databricks.com
 academy.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
 marketplace.databricks.com
@@ -10135,8 +10135,8 @@ static.apps.nextcloud.com
 logs.nextcloud.com
 stats.nextcloud.com
 help.nextcloud.com
-apps.nextcloud.com
 portal.nextcloud.com
+apps.nextcloud.com
 knowledge.nextcloud.com
 updates.nextcloud.com
 support.nextcloud.com
