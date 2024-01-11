@@ -72,8 +72,8 @@ egress-vdp,switch.vdp-egress.com,False
 egress-vdp,www.egress.com,False
 23andme_bbp,research.23andme.com,True
 23andme_bbp,mediacenter.23andme.com,True
-23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
+23andme_bbp,education.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,you.23andme.com,True
@@ -2944,10 +2944,10 @@ hilton,*.hilton.io,True
 hilton,*.hiltonhotels.jp,True
 hilton,hiltonhotels.jp,True
 hilton,*.hiltonbusinessonline.com,True
-hilton,hilton.io,True
 hilton,hiltonbusinessonline.com,True
 hilton,*.hilton.com.tr,True
 hilton,hiltonlocalbiz.com,True
+hilton,hilton.io,True
 hilton,*.hiltonlocalbiz.com,True
 hilton,hilton.com,True
 hilton,hilton.com.tr,True
@@ -5059,8 +5059,8 @@ anywhererealestate,new.myzap.com,False
 databricks,demo.cloud.databricks.com,True
 databricks,docs.databricks.com,True
 databricks,academy.databricks.com,True
-databricks,accounts.cloud.databricks.com,True
 databricks,databricks.com,True
+databricks,accounts.cloud.databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
 databricks,marketplace.databricks.com,True
@@ -10346,9 +10346,9 @@ shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10371,10 +10371,10 @@ snapchat,accounts.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,blog.playcanvas.com,True
 snapchat,relay.playcanvas.com,True
-snapchat,login.playcanvas.com,True
 snapchat,code.playcanvas.com,True
 snapchat,store.playcanvas.com,True
 snapchat,playcanv.as,True
+snapchat,login.playcanvas.com,True
 snapchat,rt.playcanvas.com,True
 snapchat,store.snapchat.com,True
 snapchat,my.snapchat.com,True

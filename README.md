@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan 11 13:41:51 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jan 11 14:19:47 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -55,8 +55,8 @@ partner.niagahoster.co.id
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
 mediacenter.23andme.com
-education.23andme.com
 store.23andme.com
+education.23andme.com
 api.23andme.com
 auth.23andme.com
 you.23andme.com
@@ -541,10 +541,10 @@ api-eu.floqast.app
 *.hiltonhotels.jp
 hiltonhotels.jp
 *.hiltonbusinessonline.com
-hilton.io
 hiltonbusinessonline.com
 *.hilton.com.tr
 hiltonlocalbiz.com
+hilton.io
 *.hiltonlocalbiz.com
 hilton.com
 hilton.com.tr
@@ -1125,8 +1125,8 @@ shoppers.instacart.com
 demo.cloud.databricks.com
 docs.databricks.com
 academy.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
 marketplace.databricks.com
@@ -3445,9 +3445,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3470,10 +3470,10 @@ accounts.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 relay.playcanvas.com
-login.playcanvas.com
 code.playcanvas.com
 store.playcanvas.com
 playcanv.as
+login.playcanvas.com
 rt.playcanvas.com
 store.snapchat.com
 my.snapchat.com
