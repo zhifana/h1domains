@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan 11 16:47:53 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jan 11 17:19:14 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -1125,8 +1125,8 @@ shoppers.instacart.com
 demo.cloud.databricks.com
 docs.databricks.com
 academy.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
 marketplace.databricks.com
@@ -1717,8 +1717,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 careers.tiktok.com
+*.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -1768,9 +1768,9 @@ www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
-3d.cs.money
 support.cs.money
 cs.money
+3d.cs.money
 cs.money
 support.cs.money
 wiki.cs.money
@@ -2963,12 +2963,14 @@ falcon-sandbox.com
 *.preempt.com
 *.preemptsecurity.com
 *.reposify.com
+*.bionic.ai
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
 *.preempt.com
 *.preemptsecurity.com
 *.reposify.com
+*.bionic.ai
 www.crowdstrike.org
 falcon-sandbox.com
 hybrid-analysis.com

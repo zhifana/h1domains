@@ -13,8 +13,6 @@ myaccount-hardening.dynatracelabs.com
 *.oaknorth-prod.com
 *.oaknorth.com
 *.oaknorth-it.com
-*.oaknorth.co.uk
-*.oaknorth.co.uk
 *.oaknorth-it.com
 *.oaknorth-prod.com
 *.oaknorth.com
@@ -5058,8 +5056,8 @@ new.myzap.com
 demo.cloud.databricks.com
 docs.databricks.com
 academy.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
 marketplace.databricks.com
@@ -7438,8 +7436,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 careers.tiktok.com
+*.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -7556,9 +7554,9 @@ www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
-3d.cs.money
 support.cs.money
 cs.money
+3d.cs.money
 cs.money
 support.cs.money
 wiki.cs.money
@@ -9781,12 +9779,14 @@ falcon-sandbox.com
 *.preempt.com
 *.preemptsecurity.com
 *.reposify.com
+*.bionic.ai
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
 *.preempt.com
 *.preemptsecurity.com
 *.reposify.com
+*.bionic.ai
 www.crowdstrike.org
 falcon-sandbox.com
 hybrid-analysis.com

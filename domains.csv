@@ -14,8 +14,6 @@ dynatrace,myaccount-hardening.dynatracelabs.com,True
 oaknorth_bank,*.oaknorth-prod.com,False
 oaknorth_bank,*.oaknorth.com,False
 oaknorth_bank,*.oaknorth-it.com,False
-oaknorth_bank,*.oaknorth.co.uk,False
-oaknorth_bank,*.oaknorth.co.uk,False
 oaknorth_bank,*.oaknorth-it.com,False
 oaknorth_bank,*.oaknorth-prod.com,False
 oaknorth_bank,*.oaknorth.com,False
@@ -5059,8 +5057,8 @@ anywhererealestate,new.myzap.com,False
 databricks,demo.cloud.databricks.com,True
 databricks,docs.databricks.com,True
 databricks,academy.databricks.com,True
-databricks,accounts.cloud.databricks.com,True
 databricks,databricks.com,True
+databricks,accounts.cloud.databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
 databricks,marketplace.databricks.com,True
@@ -7439,8 +7437,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,*.tiktok.com,True
 tiktok,careers.tiktok.com,True
+tiktok,*.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -7557,9 +7555,9 @@ figma,www.figma.com,True
 figma,www.figma.com,True
 figma,api.figma.com,True
 cs_money,wiki.cs.money,True
-cs_money,3d.cs.money,True
 cs_money,support.cs.money,True
 cs_money,cs.money,True
+cs_money,3d.cs.money,True
 cs_money,cs.money,True
 cs_money,support.cs.money,True
 cs_money,wiki.cs.money,True
@@ -9782,12 +9780,14 @@ crowdstrike,falcon-sandbox.com,True
 crowdstrike,*.preempt.com,True
 crowdstrike,*.preemptsecurity.com,True
 crowdstrike,*.reposify.com,True
+crowdstrike,*.bionic.ai,True
 crowdstrike,*.crowdstrike.com,True
 crowdstrike,*.humio.com,True
 crowdstrike,*.securecircle.com,True
 crowdstrike,*.preempt.com,True
 crowdstrike,*.preemptsecurity.com,True
 crowdstrike,*.reposify.com,True
+crowdstrike,*.bionic.ai,True
 crowdstrike,www.crowdstrike.org,True
 crowdstrike,falcon-sandbox.com,True
 crowdstrike,hybrid-analysis.com,True
