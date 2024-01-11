@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan 11 15:44:49 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jan 11 16:23:33 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -3436,8 +3436,8 @@ yourcompany.udemy.com
 www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
-your-store.myshopify.com
 arrive-server.shopifycloud.com
+your-store.myshopify.com
 linkpop.com
 *.shopifycloud.com
 shop.app
@@ -3751,8 +3751,8 @@ slackatwork.com
 app.slack.com
 slack-redir.net
 edgeapi.slack.com
-slack.com
 slack-imgs.com
+slack.com
 www.quip.com
 slack.com
 api.slack.com
