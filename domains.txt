@@ -30,9 +30,9 @@ hpanel.hostinger.com
 cpanel.hosting24.com
 payments.hosting24.com
 www.hosting24.com
-www.hostinger.com
 *.000webhost.com
 hpanel.hosting24.com
+www.hostinger.com
 cpanel.hostinger.com
 partner.niagahoster.co.id
 editor.zyro.com
@@ -8359,8 +8359,8 @@ accountmanager.8x8.com
 work-staging.8x8.com
 express.8x8.com
 *.jit.si
-*.wavecell.com
 *.packet8.net
+*.wavecell.com
 *.ucverse.com
 *.8x8.com
 *.packet8.net
