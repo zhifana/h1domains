@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan 11 01:05:06 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jan 11 02:06:25 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -78,8 +78,8 @@ www.mercadolibre.com.pe
 www.mercadopago.cl
 www.mercadolibre.cl
 www.mercadolivre.com.br
-www.mercadolibre.com.uy
 www.mercadolibre.com.mx
+www.mercadolibre.com.uy
 www.mercadopago.com.pe
 www.mercadopago.com.co
 api.mercadopago.com
