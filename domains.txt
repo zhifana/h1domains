@@ -1620,8 +1620,8 @@ renewalreminder.shi.com
 api.shi.com
 apiconsole.shi.com
 assetinsights.shi.com
-accounts.shi.com
 servicepro.shi.com
+accounts.shi.com
 www.content.shi.com
 www.shi.com
 accounts.shi.com
@@ -9447,10 +9447,10 @@ https://github.com/matomo-org/docker
 www.swiftfinancial.com
 swiftfinancial.com
 py.pl
-*.braintreepayments.com
 *.braintree-api.com
 *.paylution.com
 *.xoom.com
+*.braintreepayments.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com

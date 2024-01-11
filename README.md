@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan 11 14:19:47 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jan 11 14:44:07 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -2646,10 +2646,10 @@ https://github.com/matomo-org/docker
 www.swiftfinancial.com
 swiftfinancial.com
 py.pl
-*.braintreepayments.com
 *.braintree-api.com
 *.paylution.com
 *.xoom.com
+*.braintreepayments.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com

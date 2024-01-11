@@ -2640,10 +2640,10 @@ https://github.com/matomo-org/docker
 www.swiftfinancial.com
 swiftfinancial.com
 py.pl
-*.braintreepayments.com
 *.braintree-api.com
 *.paylution.com
 *.xoom.com
+*.braintreepayments.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
