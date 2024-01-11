@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan 11 11:17:09 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jan 11 11:43:35 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -59,8 +59,8 @@ store.23andme.com
 education.23andme.com
 api.23andme.com
 auth.23andme.com
-blog.23andme.com
 you.23andme.com
+blog.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
