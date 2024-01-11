@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan 11 13:21:55 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jan 11 13:41:51 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -55,8 +55,8 @@ partner.niagahoster.co.id
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
 mediacenter.23andme.com
-store.23andme.com
 education.23andme.com
+store.23andme.com
 api.23andme.com
 auth.23andme.com
 you.23andme.com
@@ -178,8 +178,8 @@ app.frontapp.com
 api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -3633,8 +3633,8 @@ applause1.magisto.com
 www.livestream.com
 donations.livestream.com
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com
@@ -3747,9 +3747,9 @@ spaces.pm
 api.slack.com
 slackb.com
 slackatwork.com
-slack-redir.net
 *.quip.com
 app.slack.com
+slack-redir.net
 edgeapi.slack.com
 slack.com
 slack-imgs.com
