@@ -7549,8 +7549,8 @@ www.figma.com
 api.figma.com
 wiki.cs.money
 support.cs.money
-cs.money
 3d.cs.money
+cs.money
 cs.money
 support.cs.money
 wiki.cs.money

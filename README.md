@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan 12 22:18:26 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan 12 22:41:44 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -1767,8 +1767,8 @@ www.figma.com
 api.figma.com
 wiki.cs.money
 support.cs.money
-cs.money
 3d.cs.money
+cs.money
 cs.money
 support.cs.money
 wiki.cs.money
