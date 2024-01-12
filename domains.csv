@@ -10661,8 +10661,8 @@ informatica,*.informatica.com,False
 informatica,*.informaticacloud.com,False
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True
