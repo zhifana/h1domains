@@ -5050,8 +5050,8 @@ new.myzap.com
 new.myzap.com
 demo.cloud.databricks.com
 academy.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 docs.databricks.com
 kb.databricks.com
 support.databricks.com
@@ -10477,8 +10477,8 @@ magento.com
 exchange.adobe.com
 auth.services.adobe.com
 *.adobeaemcloud.com
-*.adobe.com
 app.frame.io
+*.adobe.com
 *.tt.omtrdc.net
 *.omniture.com
 *.typekit.com
