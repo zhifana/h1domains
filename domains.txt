@@ -124,8 +124,8 @@ supplier.auth.toag.booking.com
 admin.booking.com
 supply-xml.booking.com
 flights.booking.com
-*.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -1214,8 +1214,8 @@ oauth-sandbox.gocardless.com
 *.gocardless.com
 *.gocardless-cicd.io
 *.gocardless-staging.io
-manage-sandbox.gocardless.com
 www.gocardless.com
+manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -1832,6 +1832,7 @@ https://www.gotapco.com
 https://secure.gotapco.com
 https://www.truist.com
 https://developer.truist.com/
+https://dias.oneview.truist.com/
 cpaglobal.ru
 compumark.blog
 compumark.cf
@@ -3131,8 +3132,8 @@ abb.com.br
 *.abb-drives.com
 *.busch-jaeger.nl
 *.motors.abb.com
-*.abb
 *.ability.abb
+*.abb
 *.stratus.abb.com
 *.cirrus.abb.com
 *.motion.abb.com
@@ -9697,8 +9698,8 @@ insights.newrelic.com
 infrastructure.newrelic.com
 one.newrelic.com
 *.nr-ops.net
-*.newrelic.com
 *.nr-data.net
+*.newrelic.com
 synthetics.eu.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
@@ -10819,8 +10820,8 @@ profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackathon-photos.hackerone-user-content.com
 ctf.hacker101.com
-www.hackerone.com
 hackerone-ext-content.com
+www.hackerone.com
 b5s.hackerone-ext-content.com
 errors.hackerone.net
 app.pullrequest.com
