@@ -1236,8 +1236,8 @@ http://rei.com/rei-garage
 http://rei.com/adventures
 http://rei.com/learn/expert-advice
 http://rei.com/events
-www.coinhako.com
 help.coinhako.com
+www.coinhako.com
 www.coinhako.com
 help.coinhako.com
 api.facemojikeyboard.com
@@ -6452,10 +6452,10 @@ zsbsupport.zebra.com
 downloads.zebra.com
 supportcommunity.zebra.com
 *.zams.zebra.com
-*.zebrasports.com
 reflexisinc.com/
 *.profitect.com
 cmm01.sl.zebra.com
+*.zebrasports.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -10582,8 +10582,8 @@ next.airbnb.com
 *.airbnbcitizen.com
 *.muscache.com
 www.hoteltonight.com
-*.airbnb.com
 *.hoteltonight-test.com
+*.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
@@ -10842,8 +10842,8 @@ cover-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 *.vpn.hackerone.net
 *.oaknorth-prod.com
-*.oaknorth-it.com
 *.oaknorth.com
+*.oaknorth-it.com
 *.oaknorth-it.com
 *.oaknorth-prod.com
 *.oaknorth.com
