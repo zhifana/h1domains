@@ -31,8 +31,8 @@ hpanel.hostinger.com
 payments.hosting24.com
 www.hosting24.com
 hpanel.hosting24.com
-www.hostinger.com
 *.000webhost.com
+www.hostinger.com
 cpanel.hostinger.com
 partner.niagahoster.co.id
 editor.zyro.com
@@ -6666,9 +6666,9 @@ customers.mattermost.com
 *.militaryvotes.ohio.gov
 *.vote.ohio.gov
 *.voteohio.gov
-*.ohiosos.gov
 *.safeathomeohio.gov
 *.electionintegrity.ohio.gov
+*.ohiosos.gov
 *.ohiobusinesscentral.gov
 *.sos.state.oh.us
 *.boe.ohio.gov
