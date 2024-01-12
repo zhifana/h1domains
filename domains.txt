@@ -3193,8 +3193,8 @@ abb.com.br
 cloud.malwarebytes.com
 *.mwbsys.com
 my.malwarebytes.com
-*.mbamupdates.com
 *.threatdown.com
+*.mbamupdates.com
 forums.malwarebytes.com
 *.mwb-threatintel.com
 oneview.malwarebytes.com
@@ -7428,9 +7428,9 @@ www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
-*.tiktokv.com
 careers.tiktok.com
 *.tiktok.com
+*.tiktokv.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -10136,8 +10136,8 @@ static.apps.nextcloud.com
 logs.nextcloud.com
 stats.nextcloud.com
 help.nextcloud.com
-portal.nextcloud.com
 apps.nextcloud.com
+portal.nextcloud.com
 knowledge.nextcloud.com
 updates.nextcloud.com
 support.nextcloud.com
