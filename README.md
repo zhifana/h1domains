@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan 12 21:41:48 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan 12 22:18:26 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -1122,8 +1122,8 @@ admin.instacart.com
 shoppers.instacart.com
 demo.cloud.databricks.com
 academy.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 docs.databricks.com
 kb.databricks.com
 support.databricks.com
@@ -2758,9 +2758,9 @@ apigw.foliofn.com
 *.marcus.co.uk
 *.unitedcp.com
 *.foliofn.com
-*.goldman.com
 *.gsselect.com
 *.ayco.com
+*.goldman.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
@@ -3716,8 +3716,8 @@ blog.irccloud.com
 pro.coinbase.com
 prime.coinbase.com
 custody.coinbase.com
-*.coinbase.com
 *.cbhq.net
+*.coinbase.com
 cloud.coinbase.com
 international.coinbase.com
 api.coinbase.com
