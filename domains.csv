@@ -5051,8 +5051,8 @@ anywhererealestate,new.myzap.com,False
 databricks,demo.cloud.databricks.com,True
 databricks,docs.databricks.com,True
 databricks,academy.databricks.com,True
-databricks,databricks.com,True
 databricks,accounts.cloud.databricks.com,True
+databricks,databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
 databricks,marketplace.databricks.com,True
@@ -6597,9 +6597,9 @@ reddit,new.reddit.com,True
 reddit,*.redditinc.com,True
 reddit,s.reddit.com,True
 reddit,gateway.reddit.com,True
-reddit,ads-api.reddit.com,True
 reddit,www.spiketrap.io,True
 reddit,*.reddit.com,True
+reddit,ads-api.reddit.com,True
 reddit,*.redditblog.com,True
 reddit,reddit.secure.force.com,True
 reddit,amp.reddit.com,True
@@ -10349,9 +10349,9 @@ shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True

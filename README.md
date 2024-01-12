@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan 12 12:55:41 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan 12 13:20:27 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -1125,8 +1125,8 @@ shoppers.instacart.com
 demo.cloud.databricks.com
 docs.databricks.com
 academy.databricks.com
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 kb.databricks.com
 support.databricks.com
 marketplace.databricks.com
@@ -1455,9 +1455,9 @@ new.reddit.com
 *.redditinc.com
 s.reddit.com
 gateway.reddit.com
-ads-api.reddit.com
 www.spiketrap.io
 *.reddit.com
+ads-api.reddit.com
 *.redditblog.com
 reddit.secure.force.com
 amp.reddit.com
@@ -3447,9 +3447,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
