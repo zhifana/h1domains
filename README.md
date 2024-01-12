@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan 12 17:19:51 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan 12 17:43:30 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -2172,7 +2172,6 @@ reservations.all-inclusive.marriott.com
 jobs.marriott.com
 activities.marriott.com
 lawmanager.marriott.com
-giftcards.marriott.com
 cpp.marriott.com
 www.ritzcarlton.com
 all-inclusive.marriott.com
@@ -2206,7 +2205,6 @@ www.ritzcarlton.com/
 *uat.marriott.com
 hotel-deals.marriott.com
 http://www.shopmarriott.com
-giftcards.marriott.com
 www.goodrx.com
 www.goodrx.com
 *.rbx.com
@@ -3448,8 +3446,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3635,8 +3633,8 @@ applause1.magisto.com
 www.livestream.com
 donations.livestream.com
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 grok.x.ai
 *.twimg.com
 gnip.com

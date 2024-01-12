@@ -16,8 +16,8 @@ demo.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
-login.wellhive.com
 analytics.wellhive.com
+login.wellhive.com
 app.wellhive.com
 wellhivecorporate.okta.com
 wellhivecorporate.okta.com
@@ -6464,8 +6464,8 @@ domore.zebra.com
 mwwprod.zebra.engineering
 fs.viq.zebra.com
 zsbportal.zebra.com
-*.zebramwe.com
 *.antuit.ai
+*.zebramwe.com
 global.zebra.com
 hcm.zebra.com
 dcs-polarion.zebra.com
@@ -8116,11 +8116,11 @@ reservations.all-inclusive.marriott.com
 jobs.marriott.com
 activities.marriott.com
 lawmanager.marriott.com
-giftcards.marriott.com
 cpp.marriott.com
 www.ritzcarlton.com
 all-inclusive.marriott.com
 marriottfranchisetransactions.marriott.com
+giftcards.marriott.com
 *uat.marriott.com
 gatewaydsapdev2.marriott.com
 passwordchallenge.marriott.com
@@ -10350,8 +10350,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -10661,8 +10661,8 @@ donations.livestream.com
 *.informaticacloud.com
 *.vine.co
 twitterflightschool.com
-*.twitter.com
 x.com
+*.twitter.com
 t.co
 grok.x.ai
 *.twimg.com
