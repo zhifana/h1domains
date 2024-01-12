@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan 12 19:40:30 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan 12 20:18:56 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -27,10 +27,10 @@ cpanel.hosting24.com
 hpanel.hostinger.com
 payments.hostinger.com
 payments.hosting24.com
-www.hosting24.com
 hpanel.hosting24.com
 *.000webhost.com
 www.hostinger.com
+www.hosting24.com
 cpanel.hostinger.com
 partner.niagahoster.co.id
 editor.zyro.com
@@ -178,8 +178,8 @@ app.frontapp.com
 api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -2077,9 +2077,9 @@ https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
-www.alibabagroup.com
 *.alibabacloud.com
 *.alibaba.com
+www.alibabagroup.com
 *.alibaba-inc.com
 *.aliexpress.ru
 *.alimama.com
