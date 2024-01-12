@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan 12 17:43:30 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan 12 18:22:39 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -878,7 +878,6 @@ askpam.ai
 *.teleportinfra.sh
 teleport.sh
 *.gravitational.io
-h1-your-domain.teleport.sh
 platform.teleport.sh
 *.goteleport.com
 *.goteleport.com
@@ -888,7 +887,6 @@ platform.teleport.sh
 *.gravitational.co
 *.gravitational.io
 teleport.sh
-h1-your-domain.teleport.sh
 platform.teleport.sh
 cloud.gravitational.io
 askpam.ai
@@ -1204,9 +1202,9 @@ fallguys.com
 *.unrealtournament.com
 *.jellychat.com
 *.popjam.com
-*.mediatonic.co.uk
 fortnite.com
 capturingreality.com
+*.mediatonic.co.uk
 *.3lateral.com
 *.hmxwebservices.com
 *.rocketleague.com
@@ -1717,8 +1715,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
 careers.tiktok.com
-*.tiktokv.com
 *.tiktok.com
+*.tiktokv.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -1802,13 +1800,13 @@ www.iciparisxl.lu
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
-www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.com.tr
 www.marionnaud.ro
 www.watsons.co.id
 www.marionnaud.fr
+www.watsons.com.ph
 app.marionnaud.cz
 app.marionnaud.it
 app.marionnaud.ro
@@ -2169,8 +2167,8 @@ www.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
-jobs.marriott.com
 activities.marriott.com
+jobs.marriott.com
 lawmanager.marriott.com
 cpp.marriott.com
 www.ritzcarlton.com

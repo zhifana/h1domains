@@ -1273,7 +1273,6 @@ alshaya,shayakahve.com.tr,False
 alshaya,*.starbuckscardtr.com,False
 alshaya,*.muji.qa,False
 alshaya,boysweb.shaya.com.tr,False
-alshaya,kw.cosstores.com,False
 alshaya,*.starbucks.com.kz,False
 alshaya,*.aloyoga.com.qa,False
 alshaya,*.americaneagle.com.sa,False
@@ -1291,6 +1290,7 @@ alshaya,kuwait.kidzania.com,False
 alshaya,*.debenhams.com.kw,False
 alshaya,*.victoriassecret.pl,False
 alshaya,*.footlocker.com.bh,False
+alshaya,*.potterybarnkids.com.kw,False
 alshaya,*.shaya.com.tr,False
 alshaya,*.starbucks.com.kz,False
 alshaya,*.aloyoga.ae,False
@@ -3669,7 +3669,7 @@ teleport,*.gravitational.com,True
 teleport,*.teleportinfra.sh,True
 teleport,teleport.sh,True
 teleport,*.gravitational.io,True
-teleport,h1-your-domain.teleport.sh,True
+teleport,h1-your-domain.teleport.sh,False
 teleport,platform.teleport.sh,True
 teleport,*.goteleport.com,True
 teleport,*.goteleport.com,True
@@ -3679,10 +3679,10 @@ teleport,*.teleportinfra.sh,True
 teleport,*.gravitational.co,True
 teleport,*.gravitational.io,True
 teleport,teleport.sh,True
-teleport,h1-your-domain.teleport.sh,True
 teleport,platform.teleport.sh,True
 teleport,cloud.gravitational.io,True
 teleport,askpam.ai,True
+teleport,h1-your-domain.teleport.sh,False
 divvy-homes,www.divvyhomes.com,False
 divvy-homes,www.divvyhomes.com,False
 avalara,*.papercrane.io,False
@@ -3736,8 +3736,8 @@ resmed,referenzkunden.api.praxispad.de,False
 resmed,app.medifox-therapie.de/,False
 resmed,app.citushealth.com/,False
 resmed,patient.propellerhealth.biz,False
-resmed,account.resmed.com,False
 resmed,shop.resmed.com,False
+resmed,account.resmed.com,False
 resmed,resmed.co.in,False
 resmed,resmed.es,False
 resmed,www.citushealth.com,False
@@ -5617,9 +5617,9 @@ epicgames,fallguys.com,True
 epicgames,*.unrealtournament.com,True
 epicgames,*.jellychat.com,True
 epicgames,*.popjam.com,True
-epicgames,*.mediatonic.co.uk,True
 epicgames,fortnite.com,True
 epicgames,capturingreality.com,True
+epicgames,*.mediatonic.co.uk,True
 epicgames,*.3lateral.com,True
 epicgames,forum.sketchfab.com,False
 epicgames,*.hmxwebservices.com,True
@@ -6454,10 +6454,10 @@ zebra_vdp,*.zams-eu.zebra.com,False
 zebra_vdp,downloads.zebra.com,False
 zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,*.zams.zebra.com,False
-zebra_vdp,reflexisinc.com/,False
-zebra_vdp,*.profitect.com,False
 zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,*.zebrasports.com,False
+zebra_vdp,*.profitect.com,False
+zebra_vdp,reflexisinc.com/,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -7431,8 +7431,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,careers.tiktok.com,True
-tiktok,*.tiktokv.com,True
 tiktok,*.tiktok.com,True
+tiktok,*.tiktokv.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -7603,13 +7603,13 @@ watson_group,www.iciparisxl.lu,True
 watson_group,mapi-sim.fortress.com.hk,True
 watson_group,www10.watsons.com.tw,True
 watson_group,www10.watsons.com.ph,True
-watson_group,www.watsons.com.ph,True
 watson_group,www10.watsons.com.hk,True
 watson_group,www20.watsons.co.th,True
 watson_group,www.watsons.com.tr,True
 watson_group,www.marionnaud.ro,True
 watson_group,www.watsons.co.id,True
 watson_group,www.marionnaud.fr,True
+watson_group,www.watsons.com.ph,True
 watson_group,app.marionnaud.cz,True
 watson_group,app.marionnaud.it,True
 watson_group,app.marionnaud.ro,True
@@ -8114,8 +8114,8 @@ marriott,www.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
-marriott,jobs.marriott.com,True
 marriott,activities.marriott.com,True
+marriott,jobs.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,cpp.marriott.com,True
 marriott,www.ritzcarlton.com,True
