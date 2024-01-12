@@ -17,9 +17,9 @@ app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
 www.niagahoster.co.id
-payments.hostinger.com
 cpanel.hosting24.com
 hpanel.hostinger.com
+payments.hostinger.com
 payments.hosting24.com
 www.hosting24.com
 hpanel.hosting24.com

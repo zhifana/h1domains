@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan 12 06:43:58 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan 12 07:18:43 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -23,9 +23,9 @@ app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
 www.niagahoster.co.id
-payments.hostinger.com
 cpanel.hosting24.com
 hpanel.hostinger.com
+payments.hostinger.com
 payments.hosting24.com
 www.hosting24.com
 hpanel.hosting24.com
