@@ -27,8 +27,8 @@ wellhive,app.wellhive.com,False
 wellhive,login.wellhive.com,False
 hostinger,www.niagahoster.co.id,True
 hostinger,cpanel.hosting24.com,True
-hostinger,hpanel.hostinger.com,True
 hostinger,payments.hostinger.com,True
+hostinger,hpanel.hostinger.com,True
 hostinger,payments.hosting24.com,True
 hostinger,www.hosting24.com,True
 hostinger,hpanel.hosting24.com,True
@@ -6455,8 +6455,8 @@ zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,reflexisinc.com/,False
 zebra_vdp,*.profitect.com,False
-zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,*.zebrasports.com,False
+zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -11109,16 +11109,6 @@ uphabit,web.uphabit.com,False
 uphabit,api.uphabit.com,False
 uphabit,api.uphabit.com,False
 uphabit,web.uphabit.com,False
-trycourier,*.ct0.app,False
-trycourier,www.trycourier.app,False
-trycourier,api.trycourier.app,False
-trycourier,api.courier.com,False
-trycourier,www.courier.com,False
-trycourier,*.ct0.app,False
-trycourier,www.trycourier.app,False
-trycourier,api.trycourier.app,False
-trycourier,api.courier.com,False
-trycourier,www.courier.com,False
 nuri,www.bitwala.com,False
 nuri,api.app.bitwala.com,False
 nuri,www.nuri.com,False

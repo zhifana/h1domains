@@ -26,8 +26,8 @@ app.wellhive.com
 login.wellhive.com
 www.niagahoster.co.id
 cpanel.hosting24.com
-hpanel.hostinger.com
 payments.hostinger.com
+hpanel.hostinger.com
 payments.hosting24.com
 www.hosting24.com
 hpanel.hosting24.com
@@ -6454,8 +6454,8 @@ supportcommunity.zebra.com
 *.zams.zebra.com
 reflexisinc.com/
 *.profitect.com
-cmm01.sl.zebra.com
 *.zebrasports.com
+cmm01.sl.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -11108,16 +11108,6 @@ web.uphabit.com
 api.uphabit.com
 api.uphabit.com
 web.uphabit.com
-*.ct0.app
-www.trycourier.app
-api.trycourier.app
-api.courier.com
-www.courier.com
-*.ct0.app
-www.trycourier.app
-api.trycourier.app
-api.courier.com
-www.courier.com
 www.bitwala.com
 api.app.bitwala.com
 www.nuri.com
