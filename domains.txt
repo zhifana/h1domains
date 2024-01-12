@@ -4759,9 +4759,9 @@ paetec.net
 *.mystreetscape.com
 *.wealthscape.com
 *.fidelity.com
-ai.planetart.com
 www.personalcreations.com
 www.mycustomcase.com
+ai.planetart.com
 *.mycustomcase.com
 *.simplytoimpress.com
 www.photoaffections.com
@@ -5050,8 +5050,8 @@ new.myzap.com
 new.myzap.com
 demo.cloud.databricks.com
 academy.databricks.com
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 docs.databricks.com
 kb.databricks.com
 support.databricks.com
@@ -6455,8 +6455,8 @@ supportcommunity.zebra.com
 *.zams.zebra.com
 cmm01.sl.zebra.com
 *.zebrasports.com
-*.profitect.com
 reflexisinc.com/
+*.profitect.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -8028,8 +8028,8 @@ www.cloudways.com
 do.co
 hackathon-tracker.digitalocean.com
 hacktoberfest.com
-www.digitalocean.com
 platform.cloudways.com
+www.digitalocean.com
 *.digitalocean.com
 cloud.digitalocean.com
 api.digitalocean.com
