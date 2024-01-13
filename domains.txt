@@ -6640,8 +6640,8 @@ app.spiketrap.io
 www.spiketrap.io
 www.coinspot.com.au
 www.coinspot.com.au
-remix.com
 platform.remix.com
+remix.com
 eu.remix.com
 global-api.citymapper.com
 global-api.citymapper.com

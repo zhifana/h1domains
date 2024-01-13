@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan 13 10:40:23 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jan 13 11:16:07 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -1496,8 +1496,8 @@ app.spiketrap.io
 www.spiketrap.io
 www.coinspot.com.au
 www.coinspot.com.au
-remix.com
 platform.remix.com
+remix.com
 eu.remix.com
 global-api.citymapper.com
 global-api.citymapper.com
