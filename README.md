@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan 13 21:41:50 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jan 13 22:17:24 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -134,8 +134,8 @@ widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
 secure.booking.com
-cars.booking.com
 account.booking.com
+cars.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
