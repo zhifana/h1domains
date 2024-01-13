@@ -5059,9 +5059,9 @@ marketplace.databricks.com
 community.databricks.com
 labs.databricks.com
 advocates.databricks.com
-help.databricks.com
 customer-academy.databricks.com
 partners.databricks.com
+help.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com

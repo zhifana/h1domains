@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan 13 06:20:11 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jan 13 06:40:13 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -1131,9 +1131,9 @@ marketplace.databricks.com
 community.databricks.com
 labs.databricks.com
 advocates.databricks.com
-help.databricks.com
 customer-academy.databricks.com
 partners.databricks.com
+help.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
