@@ -31,8 +31,8 @@ www.niagahoster.co.id
 payments.hosting24.com
 www.hosting24.com
 hpanel.hosting24.com
-www.hostinger.com
 *.000webhost.com
+www.hostinger.com
 cpanel.hostinger.com
 partner.niagahoster.co.id
 editor.zyro.com
@@ -141,9 +141,9 @@ taxi.booking.com
 widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
-account.booking.com
 secure.booking.com
 cars.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -3756,9 +3756,9 @@ resmed.sg
 resmed.ch
 resmed.la
 mealtracker.com
-onlinestore.resmed.com
 propellerhealth.com
 airview.resmed.eu
+onlinestore.resmed.com
 resmed.lat
 resmed.vn
 resmed.pt
