@@ -1492,13 +1492,13 @@ shoppostoak.com
 tilmanfertitta.com
 fertittaentertainmentinc.com
 1882energyventures.net
-aboitizenergysolutions.com
 aboitizpowercorporation.ph
 bettersolutions.com.ph
 cleanergy.ph
 veco.com.ph
 *.enerzone.com.ph
 aesi.com.ph
+aboitizenergysolutions.com
 *.oilbu.com
 aboitizpower.info
 adventenergy.com.ph
