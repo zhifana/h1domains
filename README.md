@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan 14 20:19:40 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jan 14 20:42:05 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -2778,10 +2778,10 @@ research.gs.com
 api.foliofn.com
 marquee.gs.com
 *.gs.de
-*.folioclient.com
 *.advisorsolutions.gs.com
 *.gsam.com
 *.gs.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
