@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan 14 03:19:45 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jan 14 03:40:51 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -1033,8 +1033,8 @@ social-trading.exness.com
 https://my.exness.com/pa/socialtrading
 exness.com
 app.smtp2go.com
-api.smtp2go.com
 smtp2go.com
+api.smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
@@ -2086,8 +2086,8 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.Daraz.com
 *.aliexpress.com
-*.1688.com
 *.aliyun.com
+*.1688.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2781,7 +2781,7 @@ marquee.gs.com
 *.folioclient.com
 *.advisorsolutions.gs.com
 *.gsam.com
-*.folioinstitutional.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
