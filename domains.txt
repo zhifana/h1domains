@@ -7917,9 +7917,9 @@ eu-aprms.omnipodapps.com
 www.poddercentral.com
 www.omnipod.com
 www.insulet.com
-track.amazon.com
 affiliate-program.amazon.com
 chat.amazon.com
+track.amazon.com
 manufacturing.amazon.com
 music.amazon.com
 apay-us.amazon.com

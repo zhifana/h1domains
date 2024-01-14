@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan 14 17:41:12 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jan 14 18:19:04 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -2041,9 +2041,9 @@ portal.polygon.technology
 *.ppbdev.com
 super6.skysports.com
 itv7.itv.com
-track.amazon.com
 affiliate-program.amazon.com
 chat.amazon.com
+track.amazon.com
 manufacturing.amazon.com
 music.amazon.com
 apay-us.amazon.com

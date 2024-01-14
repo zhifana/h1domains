@@ -2035,9 +2035,9 @@ portal.polygon.technology
 *.ppbdev.com
 super6.skysports.com
 itv7.itv.com
-track.amazon.com
 affiliate-program.amazon.com
 chat.amazon.com
+track.amazon.com
 manufacturing.amazon.com
 music.amazon.com
 apay-us.amazon.com
