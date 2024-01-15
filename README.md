@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan 15 08:45:13 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan 15 09:26:09 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -178,8 +178,8 @@ app.frontapp.com
 api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -585,10 +585,10 @@ debug.clairvoyance.indrive.tech
 *.indriverapp.com
 watchdocs.indriverapp.com
 injob.indriver.com
-super-services.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 volans.tech
 wga.volans.tech
+super-services.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -803,11 +803,11 @@ hv-mtl.com
 dookeydash.com
 hv-mtl.com
 www.hotels.com
+www.expediaagents.com
 www.hotwirepartnercentral.com
 www.orbitz.com
 www.mrjet.se
 www.expediapartnersolutions.com
-www.expediaagents.com
 www.abritel.fr
 www.expediagroup.com
 www.vrbo.com
@@ -818,15 +818,15 @@ www.cheaptickets.com
 www.lastminute.co.nz
 www.lastminute.com.au
 www.expedia.com
-www.travelocity.ca
 www.carrentals.com
+www.travelocity.ca
 www.bookabach.co.nz
 www.fewo-direkt.de
 www.expediapartnercentral.com
-www.hotwire.com
-www.ebookers.fi
-www.wotif.com
 www.expediacruises.com
+www.ebookers.fi
+www.hotwire.com
+www.wotif.com
 www.stayz.com.au
 www.hotels.com
 www.expedia.com
@@ -1036,12 +1036,12 @@ api.smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
+delta.app
 www.etoro.com
 push-d-hap.cloud.etoro.com
 push-demo-lightstreamer.cloud.etoro.com
 sts.etoro.com
 watchlistapi.etoro.com
-delta.app
 aggregator.etoro.com
 cashier.etoro.com
 cashier-src.etoro.com
@@ -1201,12 +1201,12 @@ api.evernote.com
 fallguys.com
 fortnite.com
 harmonixmusic.com
-capturingreality.com
 wonderboxdev.com
+capturingreality.com
 *.psyonix.com
-*.3lateral.com
 *.epicgames.com
 *.fortnite.com
+*.3lateral.com
 *.dropmix.com
 *.rocketleague.com
 *.psynet.gg
@@ -1322,6 +1322,7 @@ opslogin.fr.cloud.gov
 www.fedramp.gov
 federalist-docs.18f.gov
 ci.fr.cloud.gov
+idp.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1439,10 +1440,10 @@ www.urbancompany.com
 www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
-gql.reddit.com
 old.reddit.com
 api.reddit.com
 ads.reddit.com
+gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
 new.reddit.com
@@ -1453,10 +1454,10 @@ m.reddit.com
 *.snooguts.net
 sh.reddit.com
 gateway.reddit.com
-s.reddit.com
 ads-api.reddit.com
-*.reddit.com
+s.reddit.com
 www.spiketrap.io
+*.reddit.com
 *.redditblog.com
 amp.reddit.com
 reddit.secure.force.com
@@ -1601,8 +1602,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-www.yotisign.com
 api.yoti.com
+www.yotisign.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1712,6 +1713,7 @@ tiktok.com
 partner.tiktokshop.com
 live-backstage.tiktok.com
 www.pangleglobal.com
+fp-sg.tiktokv.com
 *.tiktok.com
 business.tiktok.com
 careers.tiktok.com
@@ -1735,6 +1737,7 @@ shop.tiktok.com
 live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
 www.pangleglobal.com
+fp-sg.tiktokv.com
 www.logitechg.com
 www.logitech.com.cn
 circle.logi.com
@@ -1780,8 +1783,8 @@ beta-cloud.acronis.com
 account.acronis.com
 *.5nine.com
 *-api-*.acronis.com
-*.acronis.com
 *.devicelock.com
+*.acronis.com
 *.acronis.work
 *-api-*.acronis.com
 *.acronis.com
@@ -2303,9 +2306,9 @@ obs-sensors.iris.production.forescoutcloud.net
 datapod-2-druid-ingest.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
+datapod-1-druid-ingest.production.forescoutcloud.net
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
-datapod-1-druid-ingest.production.forescoutcloud.net
 updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
@@ -2396,8 +2399,8 @@ press.priceline.com
 www.bookingholdings.com
 developers.smartsheet.com
 help.smartsheet.com
-admin.smartsheet.com
 app.smartsheet.com
+admin.smartsheet.com
 app.smartsheet.com
 http://api.smartsheet.com/2.0
 admin.smartsheet.com
@@ -2470,10 +2473,9 @@ www.wynnvacations.com
 res.vacations.buschgardens.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
-ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
 confluence.hyattdev.com
-login.www.vaxvacationaccess.com
+ebsext.oft.hyatt.com
 holidays-au.fijiairways.com
 holidays-sg.fijiairways.com
 vacations.hotelcasavelas.com
@@ -2485,6 +2487,7 @@ holidays-nz.fijiairways.com
 res.en.travelbrandsagent.com
 res.funjet.com
 res.secretsresorts.com
+login.www.vaxvacationaccess.com
 world.hyatt.com
 assets.hyatt.com
 roominglist.hyatt.com
@@ -2656,9 +2659,9 @@ swiftcapital.com
 partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
-*.paypal.com
 *.venmo.com
 my.loanbuilder.com
+*.paypal.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
@@ -2701,8 +2704,8 @@ swiftcapital.com
 *.paypalcorp.com
 *.hyperwallet.com
 *.paylution.com
-*.highwebmedia.com
 secure.chaturbate.com
+*.highwebmedia.com
 m.chaturbate.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -2849,12 +2852,12 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-www.crypto.com
 auth.crypto.com
 *.mona.co
+www.crypto.com
 *.crypto.com
-merchant.crypto.com
 tax.crypto.com
+merchant.crypto.com
 app.mona.co
 pay.crypto.com
 js.crypto.com
@@ -2871,9 +2874,9 @@ https://crypto.com/defi/
 https://crypto.com/nft
 tax.crypto.com
 https://crypto.com/price
+docs.newrelic.com
 insights.eu.newrelic.com
 *.eu.newrelic.com
-docs.newrelic.com
 *.infrastructure-data.newrelic.com
 rpm.newrelic.com
 infrastructure.eu.newrelic.com
@@ -2881,8 +2884,8 @@ developer.newrelic.com
 learn.newrelic.com
 *.newrelic.com
 infrastructure.newrelic.com
-*.blog.newrelic.com
 insights.newrelic.com
+*.blog.newrelic.com
 one.newrelic.com
 *.nr-data.net
 *.nr-ops.net
@@ -2981,9 +2984,9 @@ sijoitusvakuutus.lahitapiola.fi
 ext-gw.lahitapiola.fi
 privatetarget-2-secure.zigzag
 secure.lahitapiola.fi
-tunnistus.lahitapiola.fi
 lisasijoitus.lahitapiola.fi
 verovelvollisuustiedot.lahitapiola.fi
+tunnistus.lahitapiola.fi
 api.lahitapiola.fi
 www.lahitapiola.fi
 *.tapiola.fi
@@ -3070,9 +3073,9 @@ eu1.badoo.com
 bma.badoo.com
 badoocdn.com
 heyfiesta.com
+ccardseu1.badoo.com
 www.bumble.com
 badoo.com
-ccardseu1.badoo.com
 mus1.badoo.com
 translate.badoo.com
 www.bumble.com
@@ -3129,7 +3132,6 @@ api.wordpress.org
 irclogs.wordpress.org
 *.wordpress.net
 gutenberg.run
-doaction.org
 codex.wordpress.org
 codex.bbpress.org
 codex.buddypress.org
@@ -3138,6 +3140,7 @@ mercantile.wordpress.org
  *.svn.wordpress.org
  *.git.wordpress.org
  github.com/WordPress
+doaction.org
 *.wordpress.org
 *.buddypress.org
 bbpress.org
@@ -3331,10 +3334,10 @@ advisories.gitlab.com
 api.grofers.com
 api2.grofers.com
 blinkit.com
-*.zomato.com
 winecellar.zomato.com
 *.zdev.net
 *.zomans.com
+*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -3462,9 +3465,9 @@ arrive-server.shopifycloud.com
 admin.shopify.com
 linkpop.com
 shopifyinbox.com
-accounts.snapchat.com
 story.snapchat.com
 ads.snapchat.com
+accounts.snapchat.com
 create.snapchat.com
 businesshelp.snapchat.com
 forum.playcanvas.com
@@ -3480,9 +3483,9 @@ www.bitmoji.com
 snappublisher.snapchat.com
 app.snapchat.com
 map.snapchat.com
-store.snapchat.com
 business.snapchat.com
 my.snapchat.com
+store.snapchat.com
 playcanvas.com
 rt.playcanvas.com
 geofilters.snapchat.com
@@ -3780,9 +3783,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone.com
 api.hackerone.com
 hackerone-user-content.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
