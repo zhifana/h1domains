@@ -4617,8 +4617,8 @@ banfieldexchange.com
 *.royalcanin.pl
 *.jornadasroyalcanin.com.ar
 *.banfieldassets.com
-*.royalcanin.com
 *.royalcanin.co.uk
+*.royalcanin.com
 *.moncse-royalcanin-siege.com
 *.monespaceveto.com
 *.royalcanin.cz
@@ -6653,8 +6653,8 @@ platform.remix.com
 on-app-backend.on-running.com
 *.on-running.com
 on-app-backend.on-running.com
-*.withbuddies.com
 *.scopely.com
+*.withbuddies.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
@@ -7961,10 +7961,10 @@ www.alibabagroup.com
 *.aliexpress.ru
 *.alimama.com
 *.aliyun-inc.com
-*.aliexpress.com
 *.1688.com
 *.aliyun.com
 *.Daraz.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -10137,9 +10137,9 @@ lookup.nextcloud.com
 logs.nextcloud.com
 stats.nextcloud.com
 help.nextcloud.com
-apps.nextcloud.com
 portal.nextcloud.com
 static.apps.nextcloud.com
+apps.nextcloud.com
 knowledge.nextcloud.com
 updates.nextcloud.com
 support.nextcloud.com
