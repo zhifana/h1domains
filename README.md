@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan 16 17:16:35 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan 16 17:42:23 UTC 2024)
 ```
 sandbox.fireblocks.io
 sandbox.fireblocks.io
@@ -423,9 +423,9 @@ yourdomain.freshservice.com
 yourdomain.freshchat.com
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
+api.krisha.kz
 api.kolesa.kz
 app.kolesa.kz
-api.krisha.kz
 id.kolesa.kz
 avtoelon.uz
 m.krisha.kz
@@ -476,8 +476,8 @@ api.tideplatform.in
 www.tide.co
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
-accounts.firefox.com
 firefox.settings.services.mozilla.com
+accounts.firefox.com
 merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
@@ -697,8 +697,8 @@ auth.skypicker.com
 tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
-*.jitsi.net
 *.8x8.vc
+*.jitsi.net
 connect.8x8.com
 sso.8x8.com
 work.8x8.com
@@ -708,8 +708,8 @@ uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
 *.chalet.8x8.com
-cloud8.8x8.com
 *.8x8.id
+cloud8.8x8.com
 *.8x8staging.com
 platform.8x8.com
 voapi.8x8.com
@@ -810,9 +810,9 @@ hv-mtl.com
 dookeydash.com
 hv-mtl.com
 www.hotels.com
-www.expediaagents.com
 www.hotwirepartnercentral.com
 www.expediapartnersolutions.com
+www.expediaagents.com
 www.abritel.fr
 www.expediagroup.com
 www.orbitz.com
@@ -825,15 +825,15 @@ www.cheaptickets.com
 www.lastminute.co.nz
 www.lastminute.com.au
 www.expedia.com
-www.carrentals.com
 www.travelocity.ca
+www.carrentals.com
 www.bookabach.co.nz
 www.fewo-direkt.de
 www.expediapartnercentral.com
-www.expediacruises.com
-www.ebookers.fi
 www.hotwire.com
+www.ebookers.fi
 www.wotif.com
+www.expediacruises.com
 www.stayz.com.au
 www.hotels.com
 www.expedia.com
@@ -1115,9 +1115,9 @@ watchlistapi.etoro.com
 rankings.etoro.com
 delta.app
 bullsheet.me
-*.instacart.tools
 api.instacart.com
 www.instacart.com
+*.instacart.tools
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.com
@@ -1210,11 +1210,11 @@ api.evernote.com
 fallguys.com
 fortnite.com
 harmonixmusic.com
-capturingreality.com
 wonderboxdev.com
+capturingreality.com
 *.psyonix.com
-*.3lateral.com
 *.fortnite.com
+*.3lateral.com
 *.dropmix.com
 *.harmonixmusic.com
 *.hmxwebservices.com
@@ -1332,6 +1332,7 @@ www.fedramp.gov
 federalist-docs.18f.gov
 *.login.gov
 ci.fr.cloud.gov
+idp.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1682,11 +1683,11 @@ launch.cloud.com
 sf-rp.sharefile.com
 api.sharefile.eu
 api.adm.cloud.com
+(yoursubdomain).us.iws.cloud.com
+(yoursubdomain).ap.iws.cloud.com
 citrix.cloud.com
 us.cloud.com
 *.citrixworkspacesapi.net
-(yoursubdomain).ap.iws.cloud.com
-(yoursubdomain).us.iws.cloud.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -2184,11 +2185,11 @@ dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 activities.marriott.com
 jobs.marriott.com
-all-inclusive.marriott.com
-cpp.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 www.ritzcarlton.com
+all-inclusive.marriott.com
+cpp.marriott.com
 homes-and-villas.marriott.com
 marrtool.com
 gatewaydsapdev2.marriott.com
@@ -2315,9 +2316,9 @@ obs-sensors.iris.production.forescoutcloud.net
 datapod-2-druid-ingest.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
-datapod-1-druid-ingest.production.forescoutcloud.net
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
+datapod-1-druid-ingest.production.forescoutcloud.net
 updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
@@ -3140,7 +3141,6 @@ api.wordpress.org
 irclogs.wordpress.org
 *.wordpress.net
 gutenberg.run
-doaction.org
 codex.wordpress.org
 codex.bbpress.org
 codex.buddypress.org
@@ -3149,6 +3149,7 @@ mercantile.wordpress.org
  *.svn.wordpress.org
  *.git.wordpress.org
  github.com/WordPress
+doaction.org
 *.wordpress.org
 *.buddypress.org
 bbpress.org
@@ -3220,8 +3221,8 @@ card.starbucks.com.sg
 www.starbucks.com.sg
 app.starbucks.com
 www.starbucks.de
-www.starbucks.com
 secureui.starbucks.com
+www.starbucks.com
 www.starbucks.co.kr
 login.starbucks.co.jp
 www.starbucks.co.jp
