@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan 16 10:43:30 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan 16 11:17:28 UTC 2024)
 ```
 sandbox.fireblocks.io
 sandbox.fireblocks.io
@@ -121,8 +121,8 @@ booking.com
 supplier.auth.toag.booking.com
 admin.booking.com
 supply-xml.booking.com
-flights.booking.com
 *.booking.com
+flights.booking.com
 portal.taxi.booking.com
 metasearch-api.booking.com
 taxis.booking.com
@@ -183,8 +183,8 @@ app.frontapp.com
 api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -240,8 +240,8 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-cicd.io
 *.gocardless-staging.io
-www.gocardless.com
 manage-sandbox.gocardless.com
+www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -423,9 +423,9 @@ yourdomain.freshservice.com
 yourdomain.freshchat.com
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
-api.krisha.kz
 api.kolesa.kz
 app.kolesa.kz
+api.krisha.kz
 id.kolesa.kz
 avtoelon.uz
 m.krisha.kz
@@ -519,8 +519,8 @@ monitor.firefox.com
 www.mozilla.org
 profiler.firefox.com
 community-tc.services.mozilla.com
-api.profiler.firefox.com
 vpn.mozilla.org
+api.profiler.firefox.com
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -686,8 +686,8 @@ api.sokos.fi
 cfapi.voikukka.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -810,10 +810,10 @@ hv-mtl.com
 dookeydash.com
 hv-mtl.com
 www.hotels.com
-www.expediaagents.com
 www.hotwirepartnercentral.com
 www.mrjet.se
 www.expediapartnersolutions.com
+www.expediaagents.com
 www.abritel.fr
 www.expediagroup.com
 www.orbitz.com
@@ -825,15 +825,15 @@ www.cheaptickets.com
 www.lastminute.co.nz
 www.lastminute.com.au
 www.expedia.com
-www.carrentals.com
 www.travelocity.ca
+www.carrentals.com
 www.bookabach.co.nz
 www.fewo-direkt.de
 www.expediapartnercentral.com
-www.expediacruises.com
-www.ebookers.fi
 www.hotwire.com
+www.ebookers.fi
 www.wotif.com
+www.expediacruises.com
 www.stayz.com.au
 www.hotels.com
 www.expedia.com
@@ -1022,8 +1022,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-my.exness.com
 exnessaffiliates.com
+my.exness.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -1115,9 +1115,9 @@ watchlistapi.etoro.com
 rankings.etoro.com
 delta.app
 bullsheet.me
-*.instacart.tools
 api.instacart.com
 www.instacart.com
+*.instacart.tools
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.com
@@ -1210,11 +1210,11 @@ api.evernote.com
 fallguys.com
 fortnite.com
 harmonixmusic.com
-wonderboxdev.com
 capturingreality.com
+wonderboxdev.com
 *.psyonix.com
-*.fortnite.com
 *.3lateral.com
+*.fortnite.com
 *.dropmix.com
 *.harmonixmusic.com
 *.hmxwebservices.com
@@ -1428,9 +1428,9 @@ cloud.elastic.co
 *.touchtechpayments.com
 js.stripe.com
 app.taxjar.com
-api.taxjar.com
 *.getbouncer.com
 *.reckostaging.com
+api.taxjar.com
 api.stripe.com
 api.stripe.com
 *.stripe.com
@@ -1729,9 +1729,9 @@ academy-outbound-ads.tiktok.com
 business.tiktok.com
 *.tiktokv.com
 *.tiktok.com
-developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
+developers.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1811,6 +1811,8 @@ helpcenter.affirm.com
 www.iciparisxl.lu
 app.marionnaud.hu
 www.marionnaud.ro
+www.marionnaud.fr
+www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
@@ -1818,8 +1820,6 @@ www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
-www.marionnaud.fr
-www.watsons.com.tr
 www.kruidvat.nl
 www.kruidvat.be
 www.theperfumeshop.com
@@ -2130,8 +2130,8 @@ configure.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
 api.magic.link
-dashboard.fortmatic.com
 api.fortmatic.com
+dashboard.fortmatic.com
 fortmatic.com
 auth.magic.link
 dashboard.magic.link
@@ -2154,10 +2154,10 @@ maria.casino
 *.unibet.com
 *.mariacasino.com
 *.kindredext.net
-*.vladcazino.ro
 *.storspiller.com
 *.casinohuone.com
 *.ottokasino.com
+*.vladcazino.ro
 www.32red.com
 *.kes.kindredext.net
 *.unibet.com
@@ -2184,11 +2184,11 @@ dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 activities.marriott.com
 jobs.marriott.com
+all-inclusive.marriott.com
+cpp.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 www.ritzcarlton.com
-all-inclusive.marriott.com
-cpp.marriott.com
 homes-and-villas.marriott.com
 marrtool.com
 gatewaydsapdev2.marriott.com
@@ -2482,10 +2482,9 @@ res.vacations.buschgardens.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
 vacations.us.palladiumhotelgroup.com
-ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
 confluence.hyattdev.com
-login.www.vaxvacationaccess.com
+ebsext.oft.hyatt.com
 holidays-au.fijiairways.com
 holidays-sg.fijiairways.com
 vacations.hotelcasavelas.com
@@ -2497,6 +2496,7 @@ holidays-nz.fijiairways.com
 res.en.travelbrandsagent.com
 res.funjet.com
 res.secretsresorts.com
+login.www.vaxvacationaccess.com
 world.hyatt.com
 assets.hyatt.com
 roominglist.hyatt.com
@@ -2656,10 +2656,10 @@ matomo.cloud
 https://github.com/matomo-org/docker
 *.xoom.com
 py.pl
-www.swiftfinancial.com
-swiftfinancial.com
 *.braintreepayments.com
 *.braintree-api.com
+www.swiftfinancial.com
+swiftfinancial.com
 *.paylution.com
 paypal.me
 www.swiftcapital.com
@@ -2676,12 +2676,12 @@ my.loanbuilder.com
 pigeon.swiftfinancial.com
 *.braintreegateway.com
 paypalobjects.com
+prequal.swiftfinancial.com
+decision.swiftfinancial.com
 www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
-prequal.swiftfinancial.com
-decision.swiftfinancial.com
 *.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
@@ -2713,8 +2713,8 @@ swiftcapital.com
 *.paypalcorp.com
 *.hyperwallet.com
 *.paylution.com
-*.highwebmedia.com
 secure.chaturbate.com
+*.highwebmedia.com
 m.chaturbate.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -2767,11 +2767,11 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
+*.ayco.com
 *.goldman.com
 *.marcus.co.uk
 *.gsselect.com
 *.gs-mosaic.gs.com
-*.ayco.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2791,8 +2791,8 @@ goldmansachsindices.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-marquee.gs.com
 research.gs.com
+marquee.gs.com
 *.gs.de
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -2867,8 +2867,8 @@ www.crypto.com
 tax.crypto.com
 merchant.crypto.com
 app.mona.co
-pay.crypto.com
 js.crypto.com
+pay.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -2992,9 +2992,9 @@ sijoitusvakuutus.lahitapiola.fi
 ext-gw.lahitapiola.fi
 privatetarget-2-secure.zigzag
 secure.lahitapiola.fi
-tunnistus.lahitapiola.fi
 lisasijoitus.lahitapiola.fi
 verovelvollisuustiedot.lahitapiola.fi
+tunnistus.lahitapiola.fi
 api.lahitapiola.fi
 *.tapiola.fi
 privatetarget-1-www.zigzag
@@ -3296,8 +3296,8 @@ classroom.github.com
 gist.github.com
 *.github.net
 education.github.com
-*.githubusercontent.com
 npmjs.org
+*.githubusercontent.com
 github.com
 github.com
 api.github.com
@@ -3399,11 +3399,11 @@ no-reply.cloud
 maximum-status.com
 preprod.nl
 ruddercms.nl
-devmaximum.com
 www.werkenbijbakertilly.nl
-doorstromen.mijnkombijdepolitie.nl
+devmaximum.com
 qatest.nl
 rudderplatform.com
+doorstromen.mijnkombijdepolitie.nl
 *.maximum.nl
 werkenbijdefensie.nl
 werkenbijderet.nl
@@ -3683,10 +3683,10 @@ waf.cumulusfire.net
 *.srvcs.tumblr.com
 akismet.com
 embed.tumblr.com
+happy.tools
 simplenote.com
 simperium.com
 my.pressable.com
-happy.tools
 gravatar.com
 api.tumblr.com
 assets.tumblr.com
@@ -3732,11 +3732,11 @@ irccloud.com
 irc.irccloud.com
 team-irc.irccloud.com
 blog.irccloud.com
-*.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
 *.cbhq.net
+*.coinbase.com
 api.coinbase.com
 cloud.coinbase.com
 international.coinbase.com
@@ -3807,8 +3807,8 @@ www.hackerone.com
 profile-photos.hackerone-user-content.com
 hackerone-ext-content.com
 errors.hackerone.net
-profile-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
+profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 cover-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
@@ -4073,8 +4073,8 @@ logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
-www.fedramp.gov
-www.usa.gov
+federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
