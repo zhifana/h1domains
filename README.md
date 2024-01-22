@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan 22 19:17:58 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan 22 19:41:03 UTC 2024)
 ```
 sandbox.fireblocks.io
 sandbox.fireblocks.io
@@ -1714,10 +1714,10 @@ www.pangleglobal.com
 fp-sg.tiktokv.com
 *.tiktok.com
 business.tiktok.com
-careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
 academy-outbound-ads.tiktok.com
+careers.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -1817,7 +1817,6 @@ app.marionnaud.it
 app.marionnaud.ro
 www.marionnaud.sk
 www.pns.hk
-app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2145,8 +2144,8 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.vladcazino.ro
-www.32red.com
 *.ottokasino.com
+www.32red.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -2163,19 +2162,19 @@ www.32red.com
 unibet.me
 maria.casino
 www.32red.com
-gatewaydsaptst2.marriott.com
 sso.marriott.com
 mgs.marriott.com
+gatewaydsaptst2.marriott.com
 www.marriott.com
 activities.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 jobs.marriott.com
-marriottfranchisetransactions.marriott.com
-lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
+marriottfranchisetransactions.marriott.com
+lawmanager.marriott.com
 www.ritzcarlton.com
 homes-and-villas.marriott.com
 marrtool.com
@@ -2303,15 +2302,15 @@ obs-sensors.iris.production.forescoutcloud.net
 datapod-2-druid-ingest.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
+datapod-1-druid-ingest.production.forescoutcloud.net
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
-datapod-1-druid-ingest.production.forescoutcloud.net
+community.forescout.com
 updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
 streaming-api.iris.production.forescoutcloud.net
-community.forescout.com
 us.forescout.cloud
 logstash-props.devicecloud.acceptance.forescoutcloud.net
 datapod-1-100-druid-query.development.forescoutcloud.net
@@ -2637,10 +2636,10 @@ matomo.cloud
 https://github.com/matomo-org/docker
 *.xoom.com
 py.pl
-www.swiftfinancial.com
-swiftfinancial.com
 *.braintreepayments.com
 *.braintree-api.com
+www.swiftfinancial.com
+swiftfinancial.com
 *.paylution.com
 paypal.me
 www.swiftcapital.com
@@ -2649,9 +2648,9 @@ swiftcapital.com
 partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
-*.paypal.com
 *.venmo.com
 my.loanbuilder.com
+*.paypal.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
@@ -2716,8 +2715,8 @@ testnet.bitmex.com
 testnet.bitmex.com
 *.staging.airtable.com
 staging.airtable.com
-*.staging-airtableblocks.com
 api-staging.airtable.com
+*.staging-airtableblocks.com
 *.staging-airtableblocks.com
 *.staging.airtable.com
 staging.airtable.com
@@ -2816,10 +2815,10 @@ api.foliofn.com
 *.foliodigitalwealth.com
 *.foliofirst.com
 *.folioinvesting.com
-developer.valvesoftware.com
 store.steampowered.com
-help.steampowered.com
+developer.valvesoftware.com
 playartifact.com
+help.steampowered.com
 partner.steampowered.com
 www.valvesoftware.com
 partner.steamgames.com
@@ -3273,12 +3272,12 @@ npmjs.com
 api.github.com
 classroom.github.com
 *.githubapp.com
-github.com
 gist.github.com
 *.github.net
 education.github.com
 *.githubusercontent.com
 npmjs.org
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3322,10 +3321,10 @@ advisories.gitlab.com
 api.grofers.com
 api2.grofers.com
 blinkit.com
-*.zomato.com
 winecellar.zomato.com
 *.zdev.net
 *.zomans.com
+*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -3437,8 +3436,8 @@ linkpop.com
 partners.shopify.com
 *.shopifykloud.com
 shopifyinbox.com
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 shopify.plus
 admin.shopify.com
 *.shopify.com
@@ -3456,8 +3455,8 @@ shopifyinbox.com
 accounts.snapchat.com
 story.snapchat.com
 ads.snapchat.com
-businesshelp.snapchat.com
 create.snapchat.com
+businesshelp.snapchat.com
 forum.playcanvas.com
 msg.playcanvas.com
 scan.snapchat.com
@@ -3471,9 +3470,9 @@ www.bitmoji.com
 snappublisher.snapchat.com
 app.snapchat.com
 map.snapchat.com
-store.snapchat.com
 business.snapchat.com
 my.snapchat.com
+store.snapchat.com
 playcanvas.com
 rt.playcanvas.com
 geofilters.snapchat.com
@@ -3563,8 +3562,8 @@ one.airbnb.com
 *.byairbnb.com
 *.muscache.com
 *.hoteltonight-test.com
-www.hoteltonight.com
 *.airbnb.com
+www.hoteltonight.com
 www.airbnb.com
 api.airbnb.com
 assets.airbnb.com
@@ -3760,10 +3759,10 @@ api.slack.com
 status.slack.com
 spaces.pm
 slackb.com
-app.slack.com
 slackatwork.com
 slack-redir.net
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
