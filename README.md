@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan 23 15:44:15 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan 23 16:26:19 UTC 2024)
 ```
 sandbox.fireblocks.io
 sandbox.fireblocks.io
@@ -66,8 +66,8 @@ api.23andme.com
 blog.23andme.com
 auth.23andme.com
 you.23andme.com
-medical.23andme.com
 therapeutics.23andme.com
+medical.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -465,8 +465,8 @@ login.tide.co
 app.tide.co
 api.tideplatform.in
 www.tide.co
-firefox.settings.services.mozilla.com
 accounts.firefox.com
+firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
 bugzilla.mozilla.org
@@ -474,10 +474,10 @@ merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
 addons.allizom.org
+lando.services.mozilla.com
 hg.mozilla.org
 contile.services.mozilla.com
 aus5.mozilla.org
-lando.services.mozilla.com
 shavar.services.mozilla.com
 crash-reports.allizom.org
 mozilla-pontoon-staging.herokuapp.com
@@ -675,8 +675,8 @@ api.sokos.fi
 cfapi.voikukka.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -785,8 +785,8 @@ share.doppler.com
 *.boredapeyachtclub.com
 *.yugalabs.io
 dookeydash.com
-hv-mtl.com
 *.wenewmoments.com
+hv-mtl.com
 *.boredapeyachtclub.com
 *.yuga.com
 *.yugalabs.io
@@ -1290,13 +1290,13 @@ geminiadvisory.io
 hatching.io
 tria.ge
 therecord.media
+logs.fr.cloud.gov
+www.data.gov
+admin-catalog-bsp.data.gov
 ssh.fr.cloud.gov
 *.code.gov
 *.search.gov
 www.usa.gov
-logs.fr.cloud.gov
-www.data.gov
-admin-catalog-bsp.data.gov
 api.fr.cloud.gov
 dashboard-beta.fr.cloud.gov
 federalist.18f.gov
@@ -1304,12 +1304,12 @@ federalist-proxy.app.cloud.gov
 login.fr.cloud.gov
 catalog.data.gov
 grafana.fr.cloud.gov
+api.data.gov
+tock.18f.gov
 account.fr.cloud.gov
 federation.data.gov
 admin.fr.cloud.gov
 nessus.fr.cloud.gov
-api.data.gov
-tock.18f.gov
 opslogin.fr.cloud.gov
 *.login.gov
 www.fedramp.gov
@@ -1453,8 +1453,8 @@ meta-api.reddit.com
 *.snooguts.net
 sh.reddit.com
 gateway.reddit.com
-s.reddit.com
 ads-api.reddit.com
+s.reddit.com
 *.reddit.com
 www.spiketrap.io
 *.redditblog.com
@@ -1717,8 +1717,8 @@ business.tiktok.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 careers.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -1818,7 +1818,6 @@ app.marionnaud.it
 app.marionnaud.ro
 www.marionnaud.sk
 www.pns.hk
-app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2374,10 +2373,10 @@ uk.forescout.cloud
 de.forescout.cloud
 cysiv.com
 app.command.cysiv.com
+admin.rezserver.com
 www.priceline.com
 reservations.rezserver.com
 www.bookingholdings.com
-admin.rezserver.com
 www.getaroom.com
 secure.rezserver.com
 api.rezserver.com
@@ -2638,10 +2637,10 @@ matomo.cloud
 https://github.com/matomo-org/docker
 *.xoom.com
 py.pl
-www.swiftfinancial.com
-swiftfinancial.com
 *.braintreepayments.com
 *.braintree-api.com
+www.swiftfinancial.com
+swiftfinancial.com
 *.paylution.com
 paypal.me
 www.swiftcapital.com
@@ -2751,8 +2750,8 @@ www.shipt.com
 *.liberapay.com
 *.marcus.co.uk
 *.gsselect.com
-*.ayco.com
 *.gs-mosaic.gs.com
+*.ayco.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2760,8 +2759,8 @@ apigw.foliofn.com
 *.goldman.com
 *.honestdollar.com
 *.goldmansachs.com
-goldmansachsindices.com
 *.global-liquidity.gs.com
+goldmansachsindices.com
 *.gspublishing.com
 *.goldmanpfm.com
 *.finlife.com
@@ -2770,11 +2769,11 @@ goldmansachsindices.com
 *.vennhypotheken.nl
 *.nextcapital.com
 *.gs.com
-research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
+research.gs.com
 *.gs.de
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -2818,8 +2817,8 @@ api.foliofn.com
 *.foliofirst.com
 *.folioinvesting.com
 developer.valvesoftware.com
-playartifact.com
 help.steampowered.com
+playartifact.com
 store.steampowered.com
 partner.steampowered.com
 partner.steamgames.com
@@ -3019,8 +3018,8 @@ privatetarget-1-www.zigzag
 *.scatec.io
 *.myinsights.io
 *.sellzone.com
-grab.careers
 *.grabtaxi.com
+grab.careers
 wiki.grab.com
 gifts.grab.com
 *.grabpay.com
@@ -3207,10 +3206,10 @@ www.starbucks.de
 www.starbucks.com
 secureui.starbucks.com
 www.starbucks.com.sg
-www.starbucks.co.kr
 login.starbucks.co.jp
 www.starbucks.co.jp
 www.starbucks.com.cn
+www.starbucks.co.kr
 www.starbucks.ca
 openapi.starbucks.com
 gift.starbucks.co.jp
@@ -3256,8 +3255,8 @@ rubygems.org
 rubygems.org
 yelptop100.com
 *.yelpwifi.com
-*.yelp.com
 *.yelp-support.com
+*.yelp.com
 *.yelp.com
 *.yelp-support.com
 *.yelpwifi.com
@@ -3380,8 +3379,8 @@ no-reply.cloud
 maximum-status.com
 preprod.nl
 ruddercms.nl
-devmaximum.com
 www.werkenbijbakertilly.nl
+devmaximum.com
 doorstromen.mijnkombijdepolitie.nl
 qatest.nl
 rudderplatform.com
