@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 24 22:17:38 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 24 22:41:18 UTC 2024)
 ```
 sandbox.fireblocks.io
 sandbox.fireblocks.io
@@ -455,8 +455,8 @@ login.tide.co
 app.tide.co
 api.tideplatform.in
 www.tide.co
-accounts.firefox.com
 firefox.settings.services.mozilla.com
+accounts.firefox.com
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
 bugzilla.mozilla.org
@@ -464,10 +464,10 @@ merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
 addons.allizom.org
-lando.services.mozilla.com
 hg.mozilla.org
 contile.services.mozilla.com
 aus5.mozilla.org
+lando.services.mozilla.com
 shavar.services.mozilla.com
 crash-reports.allizom.org
 mozilla-pontoon-staging.herokuapp.com
@@ -774,8 +774,8 @@ share.doppler.com
 *.yugalabs.io
 *.boredapeyachtclub.com
 dookeydash.com
-hv-mtl.com
 *.wenewmoments.com
+hv-mtl.com
 *.boredapeyachtclub.com
 *.yuga.com
 *.yugalabs.io
@@ -1442,8 +1442,8 @@ meta-api.reddit.com
 *.snooguts.net
 sh.reddit.com
 gateway.reddit.com
-ads-api.reddit.com
 s.reddit.com
+ads-api.reddit.com
 *.reddit.com
 www.spiketrap.io
 *.redditblog.com
@@ -1807,7 +1807,6 @@ app.marionnaud.it
 app.marionnaud.ro
 www.marionnaud.sk
 www.pns.hk
-app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2365,14 +2364,14 @@ obs-sensors.iris.production.forescoutcloud.net
 datapod-2-druid-ingest.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
-datapod-2-ingest.acceptance.forescoutcloud.net
 datapod-1-druid-ingest.production.forescoutcloud.net
+datapod-2-ingest.acceptance.forescoutcloud.net
+community.forescout.com
 updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
 streaming-api.iris.production.forescoutcloud.net
-community.forescout.com
 us.forescout.cloud
 www.forescout.com
 logstash-props.devicecloud.acceptance.forescoutcloud.net
@@ -2812,8 +2811,8 @@ www.shipt.com
 *.liberapay.com
 *.marcus.co.uk
 *.gsselect.com
-*.ayco.com
 *.gs-mosaic.gs.com
+*.ayco.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2821,8 +2820,8 @@ apigw.foliofn.com
 *.goldman.com
 *.honestdollar.com
 *.goldmansachs.com
-goldmansachsindices.com
 *.global-liquidity.gs.com
+goldmansachsindices.com
 *.gspublishing.com
 *.goldmanpfm.com
 *.finlife.com
@@ -2831,11 +2830,11 @@ goldmansachsindices.com
 *.vennhypotheken.nl
 *.nextcapital.com
 *.gs.com
-research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
+research.gs.com
 *.gs.de
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -2926,25 +2925,25 @@ https://crypto.com/defi/
 https://crypto.com/nft
 tax.crypto.com
 https://crypto.com/price
-docs.newrelic.com
 insights.eu.newrelic.com
 *.eu.newrelic.com
+docs.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
 infrastructure.eu.newrelic.com
 developer.newrelic.com
-infrastructure.newrelic.com
 insights.newrelic.com
+infrastructure.newrelic.com
 *.blog.newrelic.com
 one.newrelic.com
 *.nr-ops.net
 *.nr-data.net
 *.newrelic.com
-synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
+synthetics.eu.newrelic.com
 discuss.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
@@ -3080,8 +3079,8 @@ privatetarget-1-www.zigzag
 *.scatec.io
 *.myinsights.io
 *.sellzone.com
-grab.careers
 *.grabtaxi.com
+grab.careers
 wiki.grab.com
 gifts.grab.com
 *.grabpay.com
@@ -3257,17 +3256,17 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
-cart.starbucks.co.jp
 card.starbucks.com.sg
 app.starbucks.com
 www.starbucks.de
-www.starbucks.com
 secureui.starbucks.com
 www.starbucks.com.sg
+www.starbucks.com
 login.starbucks.co.jp
 www.starbucks.co.jp
 www.starbucks.com.cn
@@ -3441,8 +3440,8 @@ no-reply.cloud
 maximum-status.com
 preprod.nl
 ruddercms.nl
-devmaximum.com
 www.werkenbijbakertilly.nl
+devmaximum.com
 doorstromen.mijnkombijdepolitie.nl
 qatest.nl
 rudderplatform.com
@@ -3518,8 +3517,8 @@ shopifyinbox.com
 accounts.snapchat.com
 story.snapchat.com
 ads.snapchat.com
-businesshelp.snapchat.com
 create.snapchat.com
+businesshelp.snapchat.com
 forum.playcanvas.com
 msg.playcanvas.com
 scan.snapchat.com
@@ -3530,9 +3529,9 @@ store.playcanvas.com
 playcanv.as
 blog.playcanvas.com
 snappublisher.snapchat.com
-store.snapchat.com
 business.snapchat.com
 my.snapchat.com
+store.snapchat.com
 playcanvas.com
 rt.playcanvas.com
 map.snapchat.com
@@ -3857,10 +3856,10 @@ hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 a5s.hackerone-ext-content.com
 *.vpn.hackerone.net
-reviewer.pullrequest.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
+reviewer.pullrequest.com
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
 www.hackerone.com
 hackerone-ext-content.com
@@ -3929,6 +3928,7 @@ dlielc.edu
 dodea.edu
 usuhs.edu
 westpoint.edu
+usna.edu
 adlnet.gov
 aftac.gov
 dc3on.gov
@@ -3937,7 +3937,6 @@ jccs.gov
 mypay.gov
 nrojr.gov
 usafa.edu
-usna.edu
 ctoc.gov
 iad.gov
 nationalresourcedirectory.gov
