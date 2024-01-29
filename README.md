@@ -2,15 +2,15 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan 29 11:41:20 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan 29 12:28:01 UTC 2024)
 ```
 my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
 www.analvids.com
-www.ddfcontent.com
 www.pornbox.com
+www.ddfcontent.com
 www.pornworld.com
 www.pornbox.com
 www.analvids.com
@@ -47,8 +47,8 @@ www.hostinger.com
 cpanel.hostinger.com
 editor.zyro.com
 logo.zyro.com
-backend.zyro.com
 www.zyro.com
+backend.zyro.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -476,9 +476,9 @@ push.services.mozilla.com
 sync.services.mozilla.com
 bugzilla.mozilla.org
 addons.allizom.org
-lando.services.mozilla.com
 contile.services.mozilla.com
 aus5.mozilla.org
+lando.services.mozilla.com
 shavar.services.mozilla.com
 hg.mozilla.org
 crash-reports.allizom.org
@@ -1933,8 +1933,8 @@ transact.playstation.com
 api.direct.playstation.com
 *.api.playstation.com
 store.playstation.com
-*.sonyentertainmentnetwork.com
 direct.playstation.com
+*.sonyentertainmentnetwork.com
 my.playstation.com
 my.account.sony.com
 *.playstation.net
@@ -2446,8 +2446,8 @@ uk.forescout.cloud
 de.forescout.cloud
 cysiv.com
 app.command.cysiv.com
-reservations.rezserver.com
 admin.rezserver.com
+reservations.rezserver.com
 www.bookingholdings.com
 www.priceline.com
 www.getaroom.com
@@ -2525,6 +2525,7 @@ www.omise.co
 www.opn.ooo
 mobileapp.hyatt.com
 public.hyatt.com
+res.vacations.buschgardens.com
 book.booktandl.com
 res.blueskytours.globalbookingsolutions.com
 res.universalorlandovacations.com
@@ -2535,7 +2536,6 @@ res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 vacations.us.palladiumhotelgroup.com
 www.wynnvacations.com
-res.vacations.buschgardens.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
 newsroom.images.hyatt.com
@@ -2558,14 +2558,14 @@ assets.hyatt.com
 roominglist.hyatt.com
 sso.oft.hyatt.com
 upsell.hyatt.com
+holidays-hk.fijiairways.com
+vacations.velasvallarta.com
+www.blueskytours.com
 book.extraholidaysvacations.com
 res.vacations.seaworld.com
 www.beachbound.com
 shop.wyndhamvacationownership.trisept.travel
 vacations.united.com
-holidays-hk.fijiairways.com
-vacations.velasvallarta.com
-www.blueskytours.com
 res.hyattinclusivecollection.com
 res.skyteam.com
 www.hyatt.com
@@ -3096,8 +3096,8 @@ privatetarget-1-www.zigzag
 grab.careers
 wiki.grab.com
 gifts.grab.com
-*.grabpay.com
 *.grab-sure.com
+*.grabpay.com
 *.myteksi.com
 *.grab.co
 p.grabtaxi.com
@@ -3269,10 +3269,10 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
-cart.starbucks.co.jp
 www.starbucks.com.br
 card.starbucks.com.sg
 www.starbucks.de
@@ -3442,7 +3442,6 @@ werkenbijderet.nl
 maxcldapp.net
 dropr.nl
 werkenbijdnb.nl
-*.maximum.nl
 werkenbijdefensie.nl
 acme-challenge.nl
 nossl.nl
@@ -3450,7 +3449,6 @@ wp-mail.nl
 ruddercms.com
 mijnkombijdepolitie.nl
 no-reply.cloud
-maximum-status.com
 preprod.nl
 ruddercms.nl
 devmaximum.com
@@ -3458,7 +3456,6 @@ doorstromen.mijnkombijdepolitie.nl
 qatest.nl
 rudderplatform.com
 www.werkenbijbakertilly.nl
-*.maximum.nl
 werkenbijdefensie.nl
 werkenbijderet.nl
 www.werkenbijbakertilly.nl
@@ -3468,7 +3465,6 @@ acme-challenge.nl
 no-reply.cloud
 wp-mail.nl
 maxcldapp.net
-maximum-status.com
 preprod.nl
 qatest.nl
 rudderplatform.com
@@ -3869,9 +3865,9 @@ hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 a5s.hackerone-ext-content.com
 *.vpn.hackerone.net
+reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
-reviewer.pullrequest.com
 ctf.hacker101.com
 www.hackerone.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
@@ -4046,6 +4042,26 @@ help.aiven.io
 ota.helium.com
 ota.helium.com
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
+https://github.com/evolveum/midpoint
+https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
+magentolive.com
+magentocommerce.com
+repo.magento.com
+accounts.magento.cloud
+account.magento.com
+u.magento.com
+imagine.magento.com
+magento.com
+marketplace.magento.com
+marketplace.magento.com
+magentocommerce.com
+repo.magento.com
+magento.com
+u.magento.com
+imagine.magento.com
+magentolive.com
+account.magento.com
+accounts.magento.cloud
 apply.opentech.fund
 sandbox.opentech.fund
 www.opentech.fund
@@ -4094,7 +4110,6 @@ teamhelp.upserve.com
 *.vanillastaging.com
 *.vanilladevelopment.com
 *.vanillacommunity.com
-*.login.gov
 federalist-proxy.app.cloud.gov
 cloud.gov
 account.fr.cloud.gov
@@ -4104,6 +4119,7 @@ admin-catalog-bsp.data.gov
 idp.fr.cloud.gov
 admin.fr.cloud.gov
 opslogin.fr.cloud.gov
+*.login.gov
 dashboard-beta.fr.cloud.gov
 federalist.18f.gov
 login.fr.cloud.gov
@@ -4111,11 +4127,11 @@ alertmanager.fr.cloud.gov
 grafana.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
-ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
+ssh.fr.cloud.gov
 tock.18f.gov
 *.code.gov
 marketplace.fedramp.gov
