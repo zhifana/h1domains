@@ -2,15 +2,15 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan 29 01:00:39 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan 29 01:51:18 UTC 2024)
 ```
 my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
 www.analvids.com
-www.pornbox.com
 www.ddfcontent.com
+www.pornbox.com
 www.pornworld.com
 www.pornbox.com
 www.analvids.com
@@ -707,8 +707,8 @@ voapi.8x8.com
 sms.8x8.com
 sso.8x8pilot.com
 *.p8t.us
-*.wavecell.com
 user-profile.8x8.com
+*.wavecell.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1453,8 +1453,8 @@ meta-api.reddit.com
 sh.reddit.com
 *.redditinc.com
 gateway.reddit.com
-ads-api.reddit.com
 s.reddit.com
+ads-api.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -1817,7 +1817,7 @@ app.marionnaud.it
 app.marionnaud.ro
 www.marionnaud.sk
 www.pns.hk
-app.watsons.com.tr
+api.watsons.com.tw
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2218,8 +2218,8 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -2822,8 +2822,8 @@ www.shipt.com
 *.liberapay.com
 *.marcus.co.uk
 *.gsselect.com
-*.ayco.com
 *.gs-mosaic.gs.com
+*.ayco.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2831,8 +2831,8 @@ apigw.foliofn.com
 *.goldman.com
 *.honestdollar.com
 *.goldmansachs.com
-goldmansachsindices.com
 *.global-liquidity.gs.com
+goldmansachsindices.com
 *.gspublishing.com
 *.goldmanpfm.com
 *.finlife.com
@@ -2841,10 +2841,10 @@ goldmansachsindices.com
 *.vennhypotheken.nl
 *.nextcapital.com
 *.gs.com
-research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
+research.gs.com
 *.gs.de
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -2888,8 +2888,8 @@ api.foliofn.com
 *.foliofirst.com
 *.folioinvesting.com
 developer.valvesoftware.com
-playartifact.com
 help.steampowered.com
+playartifact.com
 store.steampowered.com
 partner.steampowered.com
 partner.steamgames.com
@@ -2935,25 +2935,25 @@ https://crypto.com/defi/
 https://crypto.com/nft
 tax.crypto.com
 https://crypto.com/price
-insights.eu.newrelic.com
 docs.newrelic.com
+insights.eu.newrelic.com
 *.eu.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
 infrastructure.eu.newrelic.com
 developer.newrelic.com
-insights.newrelic.com
 infrastructure.newrelic.com
+insights.newrelic.com
 *.blog.newrelic.com
 one.newrelic.com
 *.nr-ops.net
 *.nr-data.net
 *.newrelic.com
+synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
-synthetics.eu.newrelic.com
 discuss.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
@@ -3077,8 +3077,8 @@ privatetarget-2-secure.zigzag
 privatetarget-1-www.zigzag
 *.semrush.net
 *.seoquake.com
-*.scatec.io
 *.sellzone.com
+*.scatec.io
 *.semrush.com
 *.myinsights.io
 *.seoab.io
@@ -3089,8 +3089,8 @@ privatetarget-1-www.zigzag
 *.scatec.io
 *.myinsights.io
 *.sellzone.com
-grab.careers
 *.grabtaxi.com
+grab.careers
 wiki.grab.com
 gifts.grab.com
 *.grabpay.com
@@ -3266,10 +3266,10 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
-cart.starbucks.co.jp
 www.starbucks.com.br
 card.starbucks.com.sg
 www.starbucks.de
