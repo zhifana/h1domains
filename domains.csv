@@ -117,8 +117,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,store.23andme.com,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,api.23andme.com,True
-23andme_bbp,auth.23andme.com,True
 23andme_bbp,you.23andme.com,True
+23andme_bbp,auth.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -2913,10 +2913,10 @@ shutterfly_vdp,www.borrowlenses.com,False
 shutterfly_vdp,jcpportraits.com,False
 shutterfly_vdp,wgwebservices.snapfish.com,False
 shutterfly_vdp,*.sbs.shutterfly.com,False
-shutterfly_vdp,*.snapfish.com,False
 shutterfly_vdp,snapfish.com,False
 shutterfly_vdp,admin.spoonflower.com,False
 shutterfly_vdp,shutterfly.com,False
+shutterfly_vdp,*.snapfish.com,False
 shutterfly_vdp,tinyprints.com,False
 shutterfly_vdp,preschoolsmiles.com,False
 shutterfly_vdp,snapfish.co.uk,False
