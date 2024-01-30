@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan 30 18:24:58 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan 30 18:41:08 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -692,8 +692,8 @@ api.sokos.fi
 cfapi.voikukka.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
