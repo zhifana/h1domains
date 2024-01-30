@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan 30 06:41:36 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan 30 07:17:01 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -1670,13 +1670,13 @@ accounts.cloud.com
 sf-rp-eu.sharefile.com
 (yoursubdomain).sharefile.com
 api.sharefile.com
-eu.cloud.com
 onboarding.cloud.com
 (yoursubdomain).sf-api.com
 (yoursubdomain).sf-api.eu
 (yoursubdomain).sharefile.eu
 sf-rp-us.sharefile.com
 secure.sharefile.com
+eu.cloud.com
 ap-s.cloud.com
 accounts-internal.cloud.com
 secure.sharefile.eu
@@ -2235,8 +2235,8 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.vladcazino.ro
-www.32red.com
 *.ottokasino.com
+www.32red.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -2728,9 +2728,9 @@ matomo.cloud
 https://github.com/matomo-org/docker
 *.xoom.com
 py.pl
+*.braintreepayments.com
 www.swiftfinancial.com
 swiftfinancial.com
-*.braintreepayments.com
 *.paylution.com
 *.braintree-api.com
 paypal.me
@@ -2954,25 +2954,25 @@ https://crypto.com/defi/
 https://crypto.com/nft
 tax.crypto.com
 https://crypto.com/price
-docs.newrelic.com
 insights.eu.newrelic.com
+docs.newrelic.com
 *.eu.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
 infrastructure.eu.newrelic.com
 developer.newrelic.com
-infrastructure.newrelic.com
 insights.newrelic.com
+infrastructure.newrelic.com
 *.blog.newrelic.com
 one.newrelic.com
 *.nr-ops.net
 *.nr-data.net
 *.newrelic.com
-synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
+synthetics.eu.newrelic.com
 discuss.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
@@ -3096,8 +3096,8 @@ privatetarget-2-secure.zigzag
 privatetarget-1-www.zigzag
 *.semrush.net
 *.seoquake.com
-*.scatec.io
 *.sellzone.com
+*.scatec.io
 *.semrush.com
 *.myinsights.io
 *.seoab.io
@@ -3285,10 +3285,10 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
+cart.starbucks.co.jp
 www.starbucks.com.br
 card.starbucks.com.sg
 www.starbucks.de
@@ -3534,8 +3534,8 @@ admin.shopify.com
 linkpop.com
 shopifyinbox.com
 story.snapchat.com
-create.snapchat.com
 businesshelp.snapchat.com
+create.snapchat.com
 forum.playcanvas.com
 msg.playcanvas.com
 accounts.snapchat.com
@@ -3548,8 +3548,8 @@ store.playcanvas.com
 playcanv.as
 blog.playcanvas.com
 snappublisher.snapchat.com
-my.snapchat.com
 store.snapchat.com
+my.snapchat.com
 rt.playcanvas.com
 map.snapchat.com
 www.bitmoji.com
