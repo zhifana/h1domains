@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan 30 19:17:34 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan 30 19:42:21 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -485,8 +485,8 @@ api.tideplatform.in
 www.tide.co
 firefox.settings.services.mozilla.com
 crash-stats.allizom.org
-accounts.firefox.com
 firefox-ci-tc.services.mozilla.com
+accounts.firefox.com
 merino.services.mozilla.com
 push.services.mozilla.com
 sync.services.mozilla.com
@@ -2361,8 +2361,8 @@ vroid.com
 novel.pixiv.net
 www.pixiv.net
 *.fanbox.cc
-booth.pm
 accounts.pixiv.net
+booth.pm
 comic.pixiv.net
 sketch.pixiv.net
 sensei.pixiv.net
@@ -3519,8 +3519,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3817,9 +3817,9 @@ api.coinbase.com
 international.coinbase.com
 cloud.coinbase.com
 api.custody.coinbase.com
-*.base.org
 institutional.coinbase.com
 coinbase.com
+*.base.org
 commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net
