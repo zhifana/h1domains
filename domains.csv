@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
 international_airlines_group,www.hangar51.com,False
 international_airlines_group,*.iairgroup.com,False
-international_airlines_group,*.iagcargo.com,False
 international_airlines_group,*.iaggbs.com,False
+international_airlines_group,*.iagcargo.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
 international_airlines_group,www.iaggbs.com,False
@@ -4515,13 +4515,13 @@ mars,*.jornadasroyalcanin.com.ar,False
 mars,*.monespaceeleveur.fr,False
 mars,*.myroyalcanin.hu,False
 mars,*.royalcanin.co.uk,False
-mars,*.royalcanin.pl,False
 mars,*.royalcaninconcorsi.it,False
 mars,*.royalcanin-vouchers.com,False
 mars,*.banfieldassets.com,False
 mars,banfieldexchange.com,False
 mars,*.extragum.com,False
 mars,*.royalcanin.com,False
+mars,*.royalcanin.pl,False
 mars,*.mms.com,False
 mars,*.pedigree.com,False
 mars,*.moncse-royalcanin-siege.com,False
@@ -10317,8 +10317,8 @@ snapchat,create.snapchat.com,True
 snapchat,businesshelp.snapchat.com,True
 snapchat,forum.playcanvas.com,True
 snapchat,msg.playcanvas.com,True
-snapchat,ads.snapchat.com,True
 snapchat,accounts.snapchat.com,True
+snapchat,ads.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,code.playcanvas.com,True
 snapchat,login.playcanvas.com,True
@@ -10423,8 +10423,8 @@ adobe,*.adobeaemcloud.com,False
 adobe,community.adobe.com,False
 adobe,app.frame.io,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
-adobe,accounts.frame.io,False
 adobe,*.adobe.com,False
+adobe,accounts.frame.io,False
 adobe,*.marketo.com,False
 adobe,*.omniture.com,False
 adobe,*.typekit.com,False
