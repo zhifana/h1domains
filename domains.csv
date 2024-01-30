@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
 international_airlines_group,www.hangar51.com,False
 international_airlines_group,*.iaggbs.com,False
-international_airlines_group,*.iagcargo.com,False
 international_airlines_group,*.iairgroup.com,False
+international_airlines_group,*.iagcargo.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
 international_airlines_group,www.iaggbs.com,False
@@ -6169,10 +6169,10 @@ aig,www-1008.aig.com,False
 aig,www.travelguard.com,False
 aig,*.aig.com,False
 aig,www.aig.com.br,False
-aig,*.aig.co.jp,False
 aig,www.vfisu.com,False
 aig,www.vfisal.com,False
 aig,www.iafcf.org,False
+aig,*.aig.co.jp,False
 aig,www.corebridgefinancial.com,False
 aig,services.aig.co.il,False
 aig,*.aig.com,False

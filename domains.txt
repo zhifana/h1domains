@@ -1,7 +1,7 @@
 www.hangar51.com
 *.iaggbs.com
-*.iagcargo.com
 *.iairgroup.com
+*.iagcargo.com
 www.avios.com
 www.iairgroup.com
 www.iaggbs.com
@@ -6168,10 +6168,10 @@ www-1008.aig.com
 www.travelguard.com
 *.aig.com
 www.aig.com.br
-*.aig.co.jp
 www.vfisu.com
 www.vfisal.com
 www.iafcf.org
+*.aig.co.jp
 www.corebridgefinancial.com
 services.aig.co.il
 *.aig.com
