@@ -1,7 +1,7 @@
-*.iagcargo.com
 www.hangar51.com
 *.iaggbs.com
 *.iairgroup.com
+*.iagcargo.com
 www.avios.com
 www.iairgroup.com
 www.iaggbs.com
@@ -2876,9 +2876,9 @@ mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 phabricator.allizom.org
 relay.firefox.com
-hg.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 support.mozilla.org
+hg.mozilla.org
 monitor.firefox.com
 developer.mozilla.org
 www.mozilla.org
@@ -3303,8 +3303,8 @@ api.sokos.fi
 cfapi.voikukka.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -4510,7 +4510,6 @@ practice.securevetsource.com
 *.twix.com
 *.royalcanin.nl
 *.orbitgum.com
-*.royalcanin.com
 *.jornadasroyalcanin.com.ar
 *.monespaceeleveur.fr
 *.myroyalcanin.hu
@@ -4521,6 +4520,7 @@ practice.securevetsource.com
 *.banfieldassets.com
 banfieldexchange.com
 *.extragum.com
+*.royalcanin.com
 *.mms.com
 *.pedigree.com
 *.moncse-royalcanin-siege.com

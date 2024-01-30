@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan 30 17:42:27 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan 30 18:24:58 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -520,9 +520,9 @@ mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 phabricator.allizom.org
 relay.firefox.com
-hg.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 support.mozilla.org
+hg.mozilla.org
 monitor.firefox.com
 developer.mozilla.org
 www.mozilla.org
@@ -692,8 +692,8 @@ api.sokos.fi
 cfapi.voikukka.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
