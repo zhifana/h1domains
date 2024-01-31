@@ -135,9 +135,9 @@ mercadolibre,www.mercadopago.com.uy,True
 mercadolibre,www.mercadolibre.com.pe,True
 mercadolibre,www.mercadopago.cl,True
 mercadolibre,www.mercadolibre.com.mx,True
-mercadolibre,www.mercadolivre.com.br,True
 mercadolibre,www.mercadolibre.cl,True
 mercadolibre,www.mercadolibre.com.uy,True
+mercadolibre,www.mercadolivre.com.br,True
 mercadolibre,www.mercadopago.com.co,True
 mercadolibre,www.mercadopago.com.pe,True
 mercadolibre,www.mercadopago.com.ar,True
@@ -8816,8 +8816,8 @@ pixiv,vroid.com,True
 pixiv,novel.pixiv.net,True
 pixiv,www.pixiv.net,True
 pixiv,*.fanbox.cc,True
-pixiv,accounts.pixiv.net,True
 pixiv,booth.pm,True
+pixiv,accounts.pixiv.net,True
 pixiv,comic.pixiv.net,True
 pixiv,sketch.pixiv.net,True
 pixiv,sensei.pixiv.net,True
@@ -9970,11 +9970,11 @@ wordpress, github.com/WordPress,True
 rockstargames,rockstarnorth.com,True
 rockstargames,*.rockstargames.com,True
 rockstargames,circolocorecords.com/,True
-rockstargames,lifeinvader.com,True
 rockstargames,support.rockstargames.com,True
 rockstargames,store.rockstargames.com,True
 rockstargames,socialclub.rockstargames.com,True
 rockstargames,prod.ros.rockstargames.com,True
+rockstargames,lifeinvader.com,True
 rockstargames,socialclub.rockstargames.com,True
 rockstargames,prod.ros.rockstargames.com,True
 rockstargames,support.rockstargames.com,True
