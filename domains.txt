@@ -1,6 +1,6 @@
 www.hangar51.com
-*.iagcargo.com
 *.iairgroup.com
+*.iagcargo.com
 *.iaggbs.com
 www.avios.com
 www.iairgroup.com
@@ -5132,7 +5132,6 @@ philadelphiaprofessional.co.uk
 sottilette.it
 sigamoscompartiendo.suchard.es
 suchard.es
-toblerone.co.uk
 xn--90aiakgkqi1l.xn--p1ai
 anevetessport.hu
 barniadventures.com
@@ -8388,7 +8387,6 @@ app.liveplan.com
 www.paloalto.com
 www.liveplan.com
 www.bplans.com
-mtn.sd
 mtnselfcare.co.zm
 wc.mtn.com
 mtnrewards.com

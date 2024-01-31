@@ -1,7 +1,7 @@
 handle,domain,eligible_for_bounty
 international_airlines_group,www.hangar51.com,False
-international_airlines_group,*.iagcargo.com,False
 international_airlines_group,*.iairgroup.com,False
+international_airlines_group,*.iagcargo.com,False
 international_airlines_group,*.iaggbs.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
@@ -5133,7 +5133,6 @@ mondelez,philadelphiaprofessional.co.uk,False
 mondelez,sottilette.it,False
 mondelez,sigamoscompartiendo.suchard.es,False
 mondelez,suchard.es,False
-mondelez,toblerone.co.uk,False
 mondelez,xn--90aiakgkqi1l.xn--p1ai,False
 mondelez,anevetessport.hu,False
 mondelez,barniadventures.com,False
@@ -8389,7 +8388,6 @@ palo_alto_software,app.liveplan.com,False
 palo_alto_software,www.paloalto.com,False
 palo_alto_software,www.liveplan.com,False
 palo_alto_software,www.bplans.com,False
-mtn_group,mtn.sd,False
 mtn_group,mtnselfcare.co.zm,False
 mtn_group,wc.mtn.com,False
 mtn_group,mtnrewards.com,False
