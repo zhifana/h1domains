@@ -2922,8 +2922,8 @@ snapfish.co.uk
 snapfish.com.au
 snapfish.co.nz
 blog.spoonflower.com
-*.shutterfly.com
 www.spoonflower.com
+*.shutterfly.com
 *.shutterfly.com
 *.snapfish.com
 *.sf-cdn.com
