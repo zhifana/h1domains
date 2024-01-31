@@ -3148,9 +3148,9 @@ abb,*.br-automation.com,False
 abb,*.abb.com.cn,False
 abb,*.busch-jaeger.nu,False
 abb,*.xc.abb.com,False
-abb,*.gb.abb.com,False
 abb,*.evcharging.abb.com,False
 abb,*.tnb.com,False
+abb,*.gb.abb.com,False
 abb,*.abb.com.tr,False
 abb,abb.com.br,False
 abb,*.busch-jaeger.at,False
@@ -3947,8 +3947,8 @@ amazonvrp-devices,blueprints.amazon.com,True
 amazonvrp-devices,a4k.amazon.com,True
 amazonvrp-devices,creator.amazon.com,True
 amazonvrp-devices,alexaanswers.amazon.com,True
-amazonvrp-devices,alexa.amazon.com,True
 amazonvrp-devices,read.amazon.com,True
+amazonvrp-devices,alexa.amazon.com,True
 amazonvrp-devices,skills-store.amazon.com,True
 amazonvrp-devices,read.amazon.com,True
 amazonvrp-devices,alexaanswers.amazon.com,True
@@ -10295,8 +10295,8 @@ shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
-shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True

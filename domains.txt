@@ -3147,9 +3147,9 @@ http://miro.com/blog
 *.abb.com.cn
 *.busch-jaeger.nu
 *.xc.abb.com
-*.gb.abb.com
 *.evcharging.abb.com
 *.tnb.com
+*.gb.abb.com
 *.abb.com.tr
 abb.com.br
 *.busch-jaeger.at
@@ -3946,8 +3946,8 @@ blueprints.amazon.com
 a4k.amazon.com
 creator.amazon.com
 alexaanswers.amazon.com
-alexa.amazon.com
 read.amazon.com
+alexa.amazon.com
 skills-store.amazon.com
 read.amazon.com
 alexaanswers.amazon.com
@@ -10294,8 +10294,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
