@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 31 19:17:12 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 31 19:41:55 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -289,8 +289,8 @@ api.wisdomtreeprimeapp.com
 testapi.redoxengine.com
 fhir.redoxengine.com
 launch.gamma.redoxstage.com
-www.redoxengine.com
 clientcert.gamma.redoxstage.com
+www.redoxengine.com
 blob.gamma.redoxstage.com
 eets-sftp-listener.gamma.redoxstage.com
 dashboard.gamma.redoxstage.com
@@ -1419,8 +1419,8 @@ main.trafficfactory.biz
 *.eops.nl
 *.elstc.co
 cloud.elastic.co
-*.elastic.co
 www.elastic.co
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -2181,9 +2181,9 @@ www.alibabagroup.com
 *.1688.com
 *.aliyun-inc.com
 *.alimama.com
-*.Daraz.com
 *.aliyun.com
 *.aliexpress.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2469,8 +2469,8 @@ reservations.rezserver.com
 admin.rezserver.com
 www.getaroom.com
 www.bookingholdings.com
-priceline.com
 www.priceline.com
+priceline.com
 secure.rezserver.com
 api.rezserver.com
 flyiin.com
