@@ -1,6 +1,6 @@
 www.hangar51.com
-*.iairgroup.com
 *.iagcargo.com
+*.iairgroup.com
 *.iaggbs.com
 www.avios.com
 www.iairgroup.com
@@ -7319,8 +7319,8 @@ academy-outbound-ads.tiktok.com
 careers.tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
