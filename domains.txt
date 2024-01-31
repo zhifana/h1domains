@@ -1,6 +1,6 @@
 www.hangar51.com
-*.iairgroup.com
 *.iagcargo.com
+*.iairgroup.com
 *.iaggbs.com
 www.avios.com
 www.iairgroup.com
@@ -9421,8 +9421,8 @@ partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 my.loanbuilder.com
-*.paypal.com
 *.venmo.com
+*.paypal.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
