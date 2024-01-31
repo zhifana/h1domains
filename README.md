@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 31 04:20:28 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 31 04:41:02 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -2466,8 +2466,8 @@ reservations.rezserver.com
 admin.rezserver.com
 www.getaroom.com
 www.priceline.com
-www.bookingholdings.com
 priceline.com
+www.bookingholdings.com
 secure.rezserver.com
 api.rezserver.com
 flyiin.com
@@ -2938,8 +2938,8 @@ www.crypto.com
 *.crypto.com
 tax.crypto.com
 merchant.crypto.com
-pay.crypto.com
 app.mona.co
+pay.crypto.com
 js.crypto.com
 *.crypto.com
 *.mona.co

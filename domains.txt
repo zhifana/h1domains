@@ -4641,8 +4641,8 @@ blog.token.com
 token.com
 blog.token.com
 we.windstream.com
-*broadviewnet.com
 paetec.net
+*broadviewnet.com
 *.windstreamsmallbusiness.com
 www.windstream.com
 *.windstreamsmallbusiness.com
@@ -9094,8 +9094,8 @@ reservations.rezserver.com
 admin.rezserver.com
 www.getaroom.com
 www.priceline.com
-www.bookingholdings.com
 priceline.com
+www.bookingholdings.com
 secure.rezserver.com
 api.rezserver.com
 flyiin.com
@@ -9629,8 +9629,8 @@ www.crypto.com
 *.crypto.com
 tax.crypto.com
 merchant.crypto.com
-pay.crypto.com
 app.mona.co
+pay.crypto.com
 js.crypto.com
 *.crypto.com
 *.mona.co
