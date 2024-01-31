@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 31 07:16:32 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 31 07:40:14 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -213,8 +213,8 @@ api.mergify.com
 dashboard.mergify.com
 www.compass.com
 www.compass.com
-*.hypr.com
 pentesting2.gethypr.com
+*.hypr.com
 pentesting.gethypr.com
 pentesting3.gethypr.com
 hypr37448.gethypr.com
@@ -751,12 +751,12 @@ https://webrtc.8x8.com/
 cloud8.8x8.com
 pay.8x8.com
 admin.8x8.com
-*.luckydays.com
 *.magicjackpot.ro
+*.luckydays.com
 *.napoleondice.be
 *.napoleongames.be
-*.superbet.ro
 *.superbet.com
+*.superbet.ro
 *.napoleoncasino.be
 *.luckydays.ca
 *.superbet.pl
@@ -3885,9 +3885,9 @@ ctf.hacker101.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
-app.pullrequest.com
 hackerone.live
 errors.hackerone.net
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
