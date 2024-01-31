@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 31 20:18:15 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 31 20:40:32 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -139,8 +139,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 admin.booking.com
-*.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -300,11 +300,11 @@ webhooks.gamma.redoxstage.com
 testapp.redoxengine.com
 10x.redoxengine.com
 docs.redoxengine.com
-explore.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
 sftp.gamma.redoxstage.com
 evening-earth.gamma.redoxstage.com
+explore.redoxengine.com
 app.gamma.redoxstage.com
 10x.redoxengine.com
 testapp.redoxengine.com
@@ -2862,7 +2862,6 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 *.nextcapital.com
-*.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
@@ -2872,6 +2871,7 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioinstitutional.com
 *.folioclient.com
+*.gsam.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
