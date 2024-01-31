@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 31 19:41:55 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 31 20:18:15 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -139,8 +139,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 admin.booking.com
-booking.com
 *.booking.com
+booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -1124,9 +1124,9 @@ watchlistapi.etoro.com
 rankings.etoro.com
 delta.app
 bullsheet.me
-api.instacart.com
 *.instacart.tools
 www.instacart.com
+api.instacart.com
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.com
@@ -4253,12 +4253,6 @@ dns.alvosec.com
 cloud.alvosec.com
 mail.alvosec.com
 proton-api.alvosec.com
-*.robinhood.com
-*.robinhood.net
-*.rhinternal.net
-*.robinhood.com
-*.robinhood.net
-*.rhinternal.net
 www.legalrobot-test.com
 app.legalrobot.com
 www.legalrobot.com
