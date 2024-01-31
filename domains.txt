@@ -1,6 +1,6 @@
 www.hangar51.com
-*.iagcargo.com
 *.iairgroup.com
+*.iagcargo.com
 *.iaggbs.com
 www.avios.com
 www.iairgroup.com
@@ -3411,8 +3411,8 @@ cloud8.8x8.com
 *.8x8.id
 platform.8x8.com
 *.packet8.net
-voapi.8x8.com
 *.8x8staging.com
+voapi.8x8.com
 sms.8x8.com
 sso.8x8pilot.com
 *.p8t.us
@@ -4828,8 +4828,8 @@ api.smtp2go.com
 *.securityscorecard.io
 *.securityscorecard.io
 *.securityscorecard.com
-*.gymshark.com
 *.gymshark.io
+*.gymshark.com
 *.gymshark.com
 *.gymshark.io
 push-d-hap.cloud.etoro.com
@@ -7319,8 +7319,8 @@ academy-outbound-ads.tiktok.com
 careers.tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktokv.com
 *.tiktok.com
+*.tiktokv.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com

@@ -1,7 +1,7 @@
 handle,domain,eligible_for_bounty
 international_airlines_group,www.hangar51.com,False
-international_airlines_group,*.iagcargo.com,False
 international_airlines_group,*.iairgroup.com,False
+international_airlines_group,*.iagcargo.com,False
 international_airlines_group,*.iaggbs.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
@@ -3412,8 +3412,8 @@ kkr_vdp,ksam.com,False
 8x8-bounty,*.8x8.id,True
 8x8-bounty,platform.8x8.com,True
 8x8-bounty,*.packet8.net,True
-8x8-bounty,voapi.8x8.com,True
 8x8-bounty,*.8x8staging.com,True
+8x8-bounty,voapi.8x8.com,True
 8x8-bounty,sms.8x8.com,True
 8x8-bounty,sso.8x8pilot.com,True
 8x8-bounty,*.p8t.us,True
@@ -4829,8 +4829,8 @@ securityscorecard,*.securityscorecard.com,False
 securityscorecard,*.securityscorecard.io,False
 securityscorecard,*.securityscorecard.io,False
 securityscorecard,*.securityscorecard.com,False
-gymshark,*.gymshark.com,False
 gymshark,*.gymshark.io,False
+gymshark,*.gymshark.com,False
 gymshark,*.gymshark.com,False
 gymshark,*.gymshark.io,False
 etoro_bbp,push-d-hap.cloud.etoro.com,True
@@ -7320,8 +7320,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
-tiktok,*.tiktokv.com,True
 tiktok,*.tiktok.com,True
+tiktok,*.tiktokv.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
