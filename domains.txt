@@ -7985,10 +7985,10 @@ developers.cloudways.com
 unified.cloudways.com
 cloud.digitalocean.com
 169.254.169.254
-api.cloudways.com
-*.digitalocean.com
 marketplace.digitalocean.com
 api.digitalocean.com
+*.digitalocean.com
+api.cloudways.com
 www.cloudways.com
 do.co
 hacktoberfest.com

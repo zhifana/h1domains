@@ -7986,10 +7986,10 @@ digitalocean,developers.cloudways.com,False
 digitalocean,unified.cloudways.com,False
 digitalocean,cloud.digitalocean.com,False
 digitalocean,169.254.169.254,False
-digitalocean,api.cloudways.com,False
-digitalocean,*.digitalocean.com,False
 digitalocean,marketplace.digitalocean.com,False
 digitalocean,api.digitalocean.com,False
+digitalocean,*.digitalocean.com,False
+digitalocean,api.cloudways.com,False
 digitalocean,www.cloudways.com,False
 digitalocean,do.co,False
 digitalocean,hacktoberfest.com,False
