@@ -1,6 +1,6 @@
 www.hangar51.com
-*.iairgroup.com
 *.iagcargo.com
+*.iairgroup.com
 *.iaggbs.com
 www.avios.com
 www.iairgroup.com
@@ -173,8 +173,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 admin.booking.com
-*.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
