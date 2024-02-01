@@ -1833,8 +1833,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 *.freightliner.com
 *.bharatbenz.com
 *evobus.com
-*fleetboard.com
 *.mitsubishi-fuso.com
+*fleetboard.com
 *exceleratorparts.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
