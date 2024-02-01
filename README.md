@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb  1 06:41:30 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb  1 07:18:41 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -1473,8 +1473,8 @@ sh.reddit.com
 gateway.reddit.com
 s.reddit.com
 www.spiketrap.io
-*.reddit.com
 ads-api.reddit.com
+*.reddit.com
 *.redditblog.com
 amp.reddit.com
 reddit.secure.force.com
