@@ -60,8 +60,8 @@ fireblocks,http://sb-console-api.fireblocks.io,True
 fireblocks,http://sandbox-api.fireblocks.io,True
 dynatrace,*.sprint.apps.dynatracelabs.com,True
 dynatrace,account-sprint.dynatracelabs.com,True
-dynatrace,myaccount-hardening.dynatracelabs.com,True
 dynatrace,*.sprint.dynatracelabs.com,True
+dynatrace,myaccount-hardening.dynatracelabs.com,True
 dynatrace,university-staging.dynatracelabs.com,True
 dynatrace,sso-sprint.dynatracelabs.com,True
 dynatrace,*.sprint.dynatracelabs.com,True
@@ -1825,8 +1825,8 @@ visa,http://myvisainfinite.com/suntrust/en_us/home.html,True
 visa,http://www.myvisacardportal.com/welcome/enbd/product/#,True
 daimler_truck,*.setra.de,False
 daimler_truck,*omniplus.com,False
-daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*exceleratorparts.com,False
+daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
@@ -1834,8 +1834,8 @@ daimler_truck,*fleetboard.de,False
 daimler_truck,*.freightliner.com,False
 daimler_truck,*.bharatbenz.com,False
 daimler_truck,*evobus.com,False
-daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*fleetboard.com,False
+daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -2789,8 +2789,8 @@ clarivate,biologyfinder.com,False
 freshworks,yourdomain.freshcaller.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshdesk.com,True
-freshworks,yourdomain.myfreshworks.com,True
 freshworks,yourdomain.freshchat.com,True
+freshworks,yourdomain.myfreshworks.com,True
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshchat.com,True
@@ -7312,10 +7312,10 @@ tiktok,fp-sg.tiktokv.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,careers.tiktok.com,True
-tiktok,business.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,*.tiktok.com,True
+tiktok,business.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -8947,7 +8947,6 @@ equifax,*equifax.es,False
 equifax,*equifax.co.uk,False
 equifax,*.dicom.cl,False
 equifax,*.i2verify.com,False
-equifax,*.wageverify.com,False
 equifax,*.accountscore.co.uk,False
 equifax,*.employersedge.com,False
 equifax,*.healthefx.net,False
@@ -10257,8 +10256,8 @@ coursera,www.coursera.org,False
 zendesk,developer.zendesk.com,True
 zendesk,smooch.io,True
 zendesk,h1-your-domain.zendesk.com,True
-zendesk,www.zendesk.com,True
 zendesk,apps.zendesk.com,True
+zendesk,www.zendesk.com,True
 zendesk,api.smooch.io,True
 zendesk,app.futuresimple.com,True
 zendesk,app.smooch.io,True
