@@ -173,9 +173,9 @@ bookingcom,careers.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,flights.booking.com,True
-bookingcom,*.booking.com,True
 bookingcom,admin.booking.com,True
 bookingcom,booking.com,True
+bookingcom,*.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,taxis.booking.com,True
 bookingcom,phone-validation.taxi.booking.com,True
@@ -7833,6 +7833,7 @@ amazonvrp,read.amazon.com,True
 amazonvrp,manufacturing.amazon.com,True
 amazonvrp,aax-us-iad.amazon.com,True
 amazonvrp,completion.amazon.com,True
+amazonvrp,dolphin.amazon.com,True
 amazonvrp,smile.amazon.*,True
 amazonvrp,flex.amazon.*,True
 amazonvrp,logistics.amazon.*,True
