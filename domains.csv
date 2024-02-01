@@ -60,8 +60,8 @@ fireblocks,http://sb-console-api.fireblocks.io,True
 fireblocks,http://sandbox-api.fireblocks.io,True
 dynatrace,*.sprint.apps.dynatracelabs.com,True
 dynatrace,account-sprint.dynatracelabs.com,True
-dynatrace,*.sprint.dynatracelabs.com,True
 dynatrace,myaccount-hardening.dynatracelabs.com,True
+dynatrace,*.sprint.dynatracelabs.com,True
 dynatrace,university-staging.dynatracelabs.com,True
 dynatrace,sso-sprint.dynatracelabs.com,True
 dynatrace,*.sprint.dynatracelabs.com,True
@@ -7923,8 +7923,8 @@ alibaba,*.1688.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
 alibaba,*.aliyun.com,True
-alibaba,*.Daraz.com,True
 alibaba,*.aliexpress.com,True
+alibaba,*.Daraz.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -9870,7 +9870,6 @@ bumble,zodia.studio,True
 bumble,eu1.badoo.com,True
 bumble,bma.badoo.com,True
 bumble,badoocdn.com,True
-bumble,heyfiesta.com,True
 bumble,ccardseu1.badoo.com,True
 bumble,www.bumble.com,True
 bumble,badoo.com,True
@@ -9892,7 +9891,6 @@ bumble,translate.badoo.com,True
 bumble,ccardseu1.badoo.com,True
 bumble,ccardsus1.badoo.com,True
 bumble,chatdate.app,True
-bumble,heyfiesta.com,True
 bumble,zodia.studio,True
 spotify,assets.spotify.com,True
 spotify,api.sonantic.io,True

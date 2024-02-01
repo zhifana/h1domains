@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb  1 14:18:50 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb  1 14:43:02 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -39,8 +39,8 @@ http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
-*.sprint.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
+*.sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
@@ -2175,8 +2175,8 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.aliyun.com
-*.Daraz.com
 *.aliexpress.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3150,7 +3150,6 @@ zodia.studio
 eu1.badoo.com
 bma.badoo.com
 badoocdn.com
-heyfiesta.com
 ccardseu1.badoo.com
 www.bumble.com
 badoo.com
@@ -3172,7 +3171,6 @@ translate.badoo.com
 ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
-heyfiesta.com
 zodia.studio
 assets.spotify.com
 api.sonantic.io
