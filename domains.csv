@@ -3152,8 +3152,8 @@ abb,*.abb.com.cn,False
 abb,*.busch-jaeger.nu,False
 abb,*.xc.abb.com,False
 abb,*.evcharging.abb.com,False
-abb,*.tnb.com,False
 abb,*.gb.abb.com,False
+abb,*.tnb.com,False
 abb,*.abb.com.tr,False
 abb,abb.com.br,False
 abb,*.busch-jaeger.at,False
@@ -3892,11 +3892,11 @@ monarch_money,app.monarchmoney.com,False
 monarch_money,www.monarchmoney.com,False
 monarch_money,app.monarchmoney.com,False
 monarch_money,www.monarchmoney.com,False
-allegion,www.fireglass.com,False
 allegion,www.interflex.de,False
 allegion,www.cisa.com,False
 allegion,www.yonomi.com,False
 allegion,www.gainsboroughhardware.com.au,False
+allegion,www.fireglass.com,False
 allegion,www.trelock.com,False
 allegion,www.simons-voss.com,False
 allegion,www.allegion.co.uk,False
@@ -10776,8 +10776,8 @@ yahoo,yimg.com,True
 security,hackerone-user-content.com,True
 security,api.hackerone.com,True
 security,hackerone.com,True
-security,mta-sts.wearehackerone.com,True
 security,www.wearehackerone.com,True
+security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
 security,cover-photos-us-east-2.hackerone-user-content.com,True
 security,a5s.hackerone-ext-content.com,True
