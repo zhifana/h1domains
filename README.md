@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb  1 21:15:45 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb  1 21:42:07 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -138,9 +138,9 @@ careers.booking.com
 supplier.auth.toag.booking.com
 supply-xml.booking.com
 admin.booking.com
-*.booking.com
 booking.com
 flights.booking.com
+*.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -2166,9 +2166,9 @@ read.amazon.com
 updates.amazon.com
 amazonpayinsurance.in
 *.tmall.com
-www.alibabagroup.com
 *.alibabacloud.com
 *.alibaba.com
+www.alibabagroup.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.1688.com
@@ -3359,10 +3359,10 @@ classroom.github.com
 *.githubapp.com
 gist.github.com
 *.github.net
-education.github.com
 *.githubusercontent.com
 npmjs.org
 github.com
+education.github.com
 github.com
 api.github.com
 gist.github.com

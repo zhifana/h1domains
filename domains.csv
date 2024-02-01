@@ -173,9 +173,9 @@ bookingcom,careers.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,admin.booking.com,True
-bookingcom,*.booking.com,True
 bookingcom,booking.com,True
 bookingcom,flights.booking.com,True
+bookingcom,*.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,taxis.booking.com,True
 bookingcom,phone-validation.taxi.booking.com,True
@@ -7914,9 +7914,9 @@ amazonvrp,read.amazon.com,True
 amazonvrp,updates.amazon.com,True
 amazonvrp,amazonpayinsurance.in,True
 alibaba,*.tmall.com,True
-alibaba,www.alibabagroup.com,True
 alibaba,*.alibabacloud.com,True
 alibaba,*.alibaba.com,True
+alibaba,www.alibabagroup.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.1688.com,True
@@ -10132,10 +10132,10 @@ github,classroom.github.com,True
 github,*.githubapp.com,True
 github,gist.github.com,True
 github,*.github.net,True
-github,education.github.com,True
 github,*.githubusercontent.com,True
 github,npmjs.org,True
 github,github.com,True
+github,education.github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
@@ -10413,8 +10413,8 @@ adobe,community.adobe.com,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,*.adobe.com,False
 adobe,accounts.frame.io,False
-adobe,app.frame.io,False
 adobe,auth.services.adobe.com,False
+adobe,app.frame.io,False
 adobe,*.marketo.com,False
 adobe,*.omniture.com,False
 adobe,*.typekit.com,False
