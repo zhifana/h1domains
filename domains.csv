@@ -60,8 +60,8 @@ fireblocks,http://sb-console-api.fireblocks.io,True
 fireblocks,http://sandbox-api.fireblocks.io,True
 dynatrace,*.sprint.apps.dynatracelabs.com,True
 dynatrace,account-sprint.dynatracelabs.com,True
-dynatrace,myaccount-hardening.dynatracelabs.com,True
 dynatrace,*.sprint.dynatracelabs.com,True
+dynatrace,myaccount-hardening.dynatracelabs.com,True
 dynatrace,university-staging.dynatracelabs.com,True
 dynatrace,sso-sprint.dynatracelabs.com,True
 dynatrace,*.sprint.dynatracelabs.com,True

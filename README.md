@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb  1 12:53:32 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb  1 13:19:31 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -39,8 +39,8 @@ http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
-myaccount-hardening.dynatracelabs.com
 *.sprint.dynatracelabs.com
+myaccount-hardening.dynatracelabs.com
 university-staging.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
