@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb  1 15:43:14 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb  1 16:20:54 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -39,8 +39,8 @@ http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
-*.sprint.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
+*.sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
@@ -3292,8 +3292,8 @@ www.starbucks.com.sg
 www.starbucks.com
 login.starbucks.co.jp
 www.starbucks.co.jp
-www.starbucks.com.cn
 www.starbucks.co.kr
+www.starbucks.com.cn
 www.starbucks.ca
 openapi.starbucks.com
 gift.starbucks.co.jp

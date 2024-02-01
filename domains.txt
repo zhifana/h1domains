@@ -1,7 +1,7 @@
 www.hangar51.com
 *.iaggbs.com
-*.iairgroup.com
 *.iagcargo.com
+*.iairgroup.com
 www.avios.com
 www.iairgroup.com
 www.iaggbs.com
@@ -59,8 +59,8 @@ http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
-*.sprint.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
+*.sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
@@ -10020,8 +10020,8 @@ www.starbucks.com.sg
 www.starbucks.com
 login.starbucks.co.jp
 www.starbucks.co.jp
-www.starbucks.com.cn
 www.starbucks.co.kr
+www.starbucks.com.cn
 www.starbucks.ca
 openapi.starbucks.com
 gift.starbucks.co.jp
@@ -10399,7 +10399,6 @@ training.ui.com
 dev-training.ui.com
 wiki.ui.com
 *.mixamo.com
-auth.services.adobe.com
 exchange.adobe.com
 licenses.adobe.com
 mobilemarketing.adobe.com
@@ -10414,6 +10413,7 @@ nicetryapril.na1.echosignsandbox.com
 *.adobe.com
 accounts.frame.io
 app.frame.io
+auth.services.adobe.com
 *.marketo.com
 *.omniture.com
 *.typekit.com

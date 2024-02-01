@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
 international_airlines_group,www.hangar51.com,False
 international_airlines_group,*.iaggbs.com,False
-international_airlines_group,*.iairgroup.com,False
 international_airlines_group,*.iagcargo.com,False
+international_airlines_group,*.iairgroup.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
 international_airlines_group,www.iaggbs.com,False
@@ -60,8 +60,8 @@ fireblocks,http://sb-console-api.fireblocks.io,True
 fireblocks,http://sandbox-api.fireblocks.io,True
 dynatrace,*.sprint.apps.dynatracelabs.com,True
 dynatrace,account-sprint.dynatracelabs.com,True
-dynatrace,*.sprint.dynatracelabs.com,True
 dynatrace,myaccount-hardening.dynatracelabs.com,True
+dynatrace,*.sprint.dynatracelabs.com,True
 dynatrace,university-staging.dynatracelabs.com,True
 dynatrace,sso-sprint.dynatracelabs.com,True
 dynatrace,*.sprint.dynatracelabs.com,True
@@ -10021,8 +10021,8 @@ starbucks,www.starbucks.com.sg,True
 starbucks,www.starbucks.com,True
 starbucks,login.starbucks.co.jp,True
 starbucks,www.starbucks.co.jp,True
-starbucks,www.starbucks.com.cn,True
 starbucks,www.starbucks.co.kr,True
+starbucks,www.starbucks.com.cn,True
 starbucks,www.starbucks.ca,True
 starbucks,openapi.starbucks.com,True
 starbucks,gift.starbucks.co.jp,True
@@ -10400,7 +10400,6 @@ ui,training.ui.com,False
 ui,dev-training.ui.com,False
 ui,wiki.ui.com,False
 adobe,*.mixamo.com,False
-adobe,auth.services.adobe.com,False
 adobe,exchange.adobe.com,False
 adobe,licenses.adobe.com,False
 adobe,mobilemarketing.adobe.com,False
@@ -10415,6 +10414,7 @@ adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,*.adobe.com,False
 adobe,accounts.frame.io,False
 adobe,app.frame.io,False
+adobe,auth.services.adobe.com,False
 adobe,*.marketo.com,False
 adobe,*.omniture.com,False
 adobe,*.typekit.com,False
