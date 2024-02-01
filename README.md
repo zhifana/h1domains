@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb  1 19:40:00 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb  1 20:19:12 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -84,8 +84,8 @@ blog.23andme.com
 api.23andme.com
 auth.23andme.com
 you.23andme.com
-therapeutics.23andme.com
 medical.23andme.com
+therapeutics.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -3548,8 +3548,8 @@ rt.playcanvas.com
 map.snapchat.com
 business.snapchat.com
 playcanvas.com
-www.bitmoji.com
 app.snapchat.com
+www.bitmoji.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
