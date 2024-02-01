@@ -1,7 +1,7 @@
-*.iairgroup.com
 www.hangar51.com
 *.iaggbs.com
 *.iagcargo.com
+*.iairgroup.com
 www.avios.com
 www.iairgroup.com
 www.iaggbs.com
@@ -4928,8 +4928,8 @@ www.alohi.com
 *.sothebysrealty.*
 *.cbcworldwide.*
 *.coldwellbanker.*
-*.mycbdesk.com
 *.realogy.*
+*.mycbdesk.com
 new.myzap.com
 *.anywhere.re
 *.realogy.*
@@ -10315,7 +10315,6 @@ relay.playcanvas.com
 store.playcanvas.com
 playcanv.as
 blog.playcanvas.com
-snappublisher.snapchat.com
 my.snapchat.com
 store.snapchat.com
 rt.playcanvas.com
@@ -10324,6 +10323,7 @@ business.snapchat.com
 app.snapchat.com
 www.bitmoji.com
 playcanvas.com
+snappublisher.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net

@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
-international_airlines_group,*.iairgroup.com,False
 international_airlines_group,www.hangar51.com,False
 international_airlines_group,*.iaggbs.com,False
 international_airlines_group,*.iagcargo.com,False
+international_airlines_group,*.iairgroup.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
 international_airlines_group,www.iaggbs.com,False
@@ -4929,8 +4929,8 @@ anywhererealestate,*.nrtllc.*,False
 anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.cbcworldwide.*,False
 anywhererealestate,*.coldwellbanker.*,False
-anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,*.realogy.*,False
+anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,new.myzap.com,False
 anywhererealestate,*.anywhere.re,False
 anywhererealestate,*.realogy.*,False
@@ -10316,7 +10316,6 @@ snapchat,relay.playcanvas.com,True
 snapchat,store.playcanvas.com,True
 snapchat,playcanv.as,True
 snapchat,blog.playcanvas.com,True
-snapchat,snappublisher.snapchat.com,True
 snapchat,my.snapchat.com,True
 snapchat,store.snapchat.com,True
 snapchat,rt.playcanvas.com,True
@@ -10325,6 +10324,7 @@ snapchat,business.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,www.bitmoji.com,True
 snapchat,playcanvas.com,True
+snapchat,snappublisher.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
 snapchat,*.sc-corp.net,True
