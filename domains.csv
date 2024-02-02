@@ -180,9 +180,9 @@ bookingcom,metasearch-api.booking.com,True
 bookingcom,taxis.booking.com,True
 bookingcom,phone-validation.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
-bookingcom,accommodations.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,*.rentalcars.com,True
+bookingcom,accommodations.booking.com,True
 bookingcom,taxi.booking.com,True
 bookingcom,autocomplete.booking.com,True
 bookingcom,paynotifications.booking.com,True
@@ -9648,8 +9648,8 @@ newrelic,developer.newrelic.com,True
 newrelic,infrastructure.newrelic.com,True
 newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
-newrelic,*.newrelic.com,True
 newrelic,*.nr-data.net,True
+newrelic,*.newrelic.com,True
 newrelic,*.nr-ops.net,True
 newrelic,one.newrelic.com,True
 newrelic,support.newrelic.com,True

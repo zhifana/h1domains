@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  2 17:40:57 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  2 18:22:32 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -145,9 +145,9 @@ metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
 distribution-xml.booking.com
-accommodations.booking.com
 portal.taxi.booking.com
 *.rentalcars.com
+accommodations.booking.com
 taxi.booking.com
 autocomplete.booking.com
 paynotifications.booking.com
@@ -2961,8 +2961,8 @@ developer.newrelic.com
 infrastructure.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
-*.newrelic.com
 *.nr-data.net
+*.newrelic.com
 *.nr-ops.net
 one.newrelic.com
 support.newrelic.com
