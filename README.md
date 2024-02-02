@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  2 11:15:53 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  2 11:40:04 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -1726,9 +1726,9 @@ www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktokv.com
 business.tiktok.com
 *.tiktok.com
+*.tiktokv.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -3551,9 +3551,9 @@ rt.playcanvas.com
 map.snapchat.com
 business.snapchat.com
 www.bitmoji.com
-playcanvas.com
 snappublisher.snapchat.com
 app.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
