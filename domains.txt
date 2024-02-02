@@ -3439,8 +3439,8 @@ https://webrtc.8x8.com/
 cloud8.8x8.com
 pay.8x8.com
 admin.8x8.com
-*.luckydays.com
 *.magicjackpot.ro
+*.luckydays.com
 *.napoleondice.be
 *.napoleongames.be
 *.superbet.ro
@@ -4928,8 +4928,8 @@ www.alohi.com
 *.sothebysrealty.*
 *.cbcworldwide.*
 *.coldwellbanker.*
-*.realogy.*
 *.mycbdesk.com
+*.realogy.*
 new.myzap.com
 *.anywhere.re
 *.realogy.*

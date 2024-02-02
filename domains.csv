@@ -3440,8 +3440,8 @@ kkr_vdp,ksam.com,False
 8x8-bounty,cloud8.8x8.com,True
 8x8-bounty,pay.8x8.com,True
 8x8-bounty,admin.8x8.com,True
-superbet,*.luckydays.com,True
 superbet,*.magicjackpot.ro,True
+superbet,*.luckydays.com,True
 superbet,*.napoleondice.be,True
 superbet,*.napoleongames.be,True
 superbet,*.superbet.ro,True
@@ -4929,8 +4929,8 @@ anywhererealestate,*.nrtllc.*,False
 anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.cbcworldwide.*,False
 anywhererealestate,*.coldwellbanker.*,False
-anywhererealestate,*.realogy.*,False
 anywhererealestate,*.mycbdesk.com,False
+anywhererealestate,*.realogy.*,False
 anywhererealestate,new.myzap.com,False
 anywhererealestate,*.anywhere.re,False
 anywhererealestate,*.realogy.*,False
