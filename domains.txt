@@ -1,7 +1,7 @@
 www.hangar51.com
 *.iagcargo.com
-*.iairgroup.com
 *.iaggbs.com
+*.iairgroup.com
 www.avios.com
 www.iairgroup.com
 www.iaggbs.com
@@ -1326,7 +1326,6 @@ sa.cosstores.com
 *.starbucks.com.kz
 *.aloyoga.ae
 *.aloyoga.com.qa
-*.victoriassecret.pl
 *.victoriassecret.ae
 *.thebodyshop.pl
 *.thebodyshop.com.tr
@@ -1338,6 +1337,7 @@ sa.cosstores.com
 *.potterybarn.ae
 *.mothercare.com.sa
 *.mothercare.com.kw
+*.footlocker.com.bh
 *.shaya.com.tr
 *.starbucks.com.kz
 *.aloyoga.ae
@@ -4660,8 +4660,8 @@ www.personalcreations.com
 ai.planetart.com
 www.mycustomcase.com
 *.simplytoimpress.com
-*.mycustomcase.com
 www.photoaffections.com
+*.mycustomcase.com
 www.cafepress.com
 iseeme.com
 www.simplytoimpress.com
@@ -7814,8 +7814,8 @@ relay.amazon.com
 affiliate-program.amazon.com
 imdbtv-backend-na.amazon.com
 advertising.amazon.com
-av-na.amazon.com
 paragon-na.amazon.com
+av-na.amazon.com
 aca-livecards-service.amazon.com
 cloudaccesstelemetry-us-east-1.amazon.com
 dss-na.amazon.com
@@ -10416,8 +10416,8 @@ community.adobe.com
 accounts.frame.io
 app.frame.io
 *.adobe.com
-nicetryapril.na1.echosignsandbox.com
 auth.services.adobe.com
+nicetryapril.na1.echosignsandbox.com
 *.marketo.com
 *.omniture.com
 *.typekit.com
