@@ -87,8 +87,8 @@ wellhive,login.wellhive.com,False
 hostinger,payments.hostinger.com,True
 hostinger,www.niagahoster.co.id,True
 hostinger,hpanel.hostinger.com,True
-hostinger,www.hostinger.com,True
 hostinger,*.000webhost.com,True
+hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,editor.zyro.com,True
 hostinger,logo.zyro.com,True
@@ -9619,8 +9619,8 @@ crypto,auth.crypto.com,True
 crypto,*.mona.co,True
 crypto,www.crypto.com,True
 crypto,*.crypto.com,True
-crypto,tax.crypto.com,True
 crypto,merchant.crypto.com,True
+crypto,tax.crypto.com,True
 crypto,app.mona.co,True
 crypto,pay.crypto.com,True
 crypto,js.crypto.com,True
