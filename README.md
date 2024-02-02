@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  2 14:42:38 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  2 15:18:34 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -709,8 +709,8 @@ uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
 *.chalet.8x8.com
-cloud8.8x8.com
 *.8x8.id
+cloud8.8x8.com
 platform.8x8.com
 *.packet8.net
 *.8x8staging.com
@@ -1390,8 +1390,8 @@ https://metamask-sdk-socket.metafi.codefi.network/
 staking-uat.codefi.network
 consensys.net
 bridge.codefi.network
-www.xnxx.com
 gold.xnxx.com
+www.xnxx.com
 www.xvideos.red
 www.xvideos.com
 www.xvideos.com
@@ -2462,8 +2462,8 @@ reservations.rezserver.com
 www.getaroom.com
 www.bookingholdings.com
 admin.rezserver.com
-www.priceline.com
 priceline.com
+www.priceline.com
 secure.rezserver.com
 api.rezserver.com
 flyiin.com
