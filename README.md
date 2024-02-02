@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  2 02:41:28 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  2 03:19:17 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -963,6 +963,7 @@ www.trendyol.com
 www.trendyol.com
 m.trendyol.com
 www.dolap.com
+*.sidefx.com
 *.sidefx.com
 metamask.io
 portfolio.metamask.io

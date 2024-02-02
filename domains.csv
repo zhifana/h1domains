@@ -4629,6 +4629,7 @@ trellix,*.trellix.com,False
 trellix,*.trellix.com,False
 trellix,*.skyhighsecurity.com,False
 sidefx,*.sidefx.com,True
+sidefx,*.sidefx.com,True
 tokenweb3,token.com,False
 tokenweb3,*.tokensvc.com,False
 tokenweb3,blog.token.com,False
@@ -6539,6 +6540,16 @@ mattermost,customers.mattermost.com,True
 mattermost,*.mattermost.com,False
 mattermost,customers.mattermost.com,True
 mattermost,*.mattermost.com,False
+ohiosecretaryofstate,*.ohiosecretaryofstate.gov,False
+ohiosecretaryofstate,*.boe.ohio.gov,False
+ohiosecretaryofstate,*.militaryvotes.ohio.gov,False
+ohiosecretaryofstate,*.vote.ohio.gov,False
+ohiosecretaryofstate,*.voteohio.gov,False
+ohiosecretaryofstate,*.ohiosos.gov,False
+ohiosecretaryofstate,*.safeathomeohio.gov,False
+ohiosecretaryofstate,*.electionintegrity.ohio.gov,False
+ohiosecretaryofstate,*.ohiobusinesscentral.gov,False
+ohiosecretaryofstate,*.sos.state.oh.us,False
 ohiosecretaryofstate,*.boe.ohio.gov,False
 ohiosecretaryofstate,*.militaryvotes.ohio.gov,False
 ohiosecretaryofstate,*.ohiobusinesscentral.gov,False

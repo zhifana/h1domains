@@ -958,6 +958,7 @@ www.trendyol.com
 m.trendyol.com
 www.dolap.com
 *.sidefx.com
+*.sidefx.com
 metamask.io
 portfolio.metamask.io
 snaps.metamask.io
