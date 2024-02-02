@@ -1,7 +1,7 @@
 www.hangar51.com
 *.iagcargo.com
-*.iaggbs.com
 *.iairgroup.com
+*.iaggbs.com
 www.avios.com
 www.iairgroup.com
 www.iaggbs.com
