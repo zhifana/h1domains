@@ -1726,8 +1726,8 @@ visa,www.yellowpepper.com,True
 visa,www.fraedom.com,True
 visa,www.practicalmoneyskills.org,True
 visa,www.practicalmoneyskills.com,True
-visa,www.visainfinite.ca,True
 visa,sandbox.secure.checkout.visa.com,True
+visa,www.visainfinite.ca,True
 visa,bb.visa.com,True
 visa,www.visa.com.mx,True
 visa,visa.com.ru,True
@@ -7433,9 +7433,9 @@ figma,www.figma.com,True
 figma,www.figma.com,True
 figma,api.figma.com,True
 cs_money,wiki.cs.money,True
-cs_money,support.cs.money,True
 cs_money,3d.cs.money,True
 cs_money,cs.money,True
+cs_money,support.cs.money,True
 cs_money,cs.money,True
 cs_money,support.cs.money,True
 cs_money,wiki.cs.money,True
@@ -7915,8 +7915,8 @@ amazonvrp,updates.amazon.com,True
 amazonvrp,amazonpayinsurance.in,True
 alibaba,*.tmall.com,True
 alibaba,*.alibabacloud.com,True
-alibaba,*.alibaba.com,True
 alibaba,www.alibabagroup.com,True
+alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.1688.com,True
@@ -10292,8 +10292,8 @@ shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,admin.shopify.com,True
-shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  2 14:18:18 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  2 14:42:38 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -337,8 +337,8 @@ www.yellowpepper.com
 www.fraedom.com
 www.practicalmoneyskills.org
 www.practicalmoneyskills.com
-www.visainfinite.ca
 sandbox.secure.checkout.visa.com
+www.visainfinite.ca
 bb.visa.com
 www.visa.com.mx
 visa.com.ru
@@ -1779,9 +1779,9 @@ www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
-support.cs.money
 3d.cs.money
 cs.money
+support.cs.money
 cs.money
 support.cs.money
 wiki.cs.money
@@ -2167,8 +2167,8 @@ updates.amazon.com
 amazonpayinsurance.in
 *.tmall.com
 *.alibabacloud.com
-*.alibaba.com
 www.alibabagroup.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.1688.com
@@ -3517,8 +3517,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 admin.shopify.com
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
