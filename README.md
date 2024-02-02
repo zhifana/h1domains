@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  2 22:41:30 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  2 23:16:34 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -1472,11 +1472,11 @@ amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
 mod.reddit.com
-www.reddit.com
 matrix.redditspace.com
 accounts.reddit.com
 *.reddithelp.com
 oauth.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2067,8 +2067,8 @@ relay.amazon.com
 affiliate-program.amazon.com
 imdbtv-backend-na.amazon.com
 advertising.amazon.com
-paragon-na.amazon.com
 av-na.amazon.com
+paragon-na.amazon.com
 aca-livecards-service.amazon.com
 cloudaccesstelemetry-us-east-1.amazon.com
 dss-na.amazon.com
@@ -2961,8 +2961,8 @@ developer.newrelic.com
 infrastructure.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
-*.newrelic.com
 *.nr-data.net
+*.newrelic.com
 *.nr-ops.net
 one.newrelic.com
 support.newrelic.com
