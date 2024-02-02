@@ -174,8 +174,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,booking.com,True
 bookingcom,flights.booking.com,True
-bookingcom,*.booking.com,True
 bookingcom,admin.booking.com,True
+bookingcom,*.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,taxis.booking.com,True
 bookingcom,phone-validation.taxi.booking.com,True
@@ -4509,7 +4509,6 @@ mars,*.orbitgum.com,False
 mars,*.jornadasroyalcanin.com.ar,False
 mars,*.monespaceeleveur.fr,False
 mars,*.myroyalcanin.hu,False
-mars,*.royalcanin.co.uk,False
 mars,*.royalcaninconcorsi.it,False
 mars,*.royalcanin-vouchers.com,False
 mars,*.banfieldassets.com,False
@@ -4517,6 +4516,7 @@ mars,banfieldexchange.com,False
 mars,*.royalcanin.com,False
 mars,*.royalcanin.pl,False
 mars,*.extragum.com,False
+mars,*.royalcanin.co.uk,False
 mars,*.pedigree.com,False
 mars,*.moncse-royalcanin-siege.com,False
 mars,*.monespaceveto.com,False
@@ -7975,6 +7975,20 @@ myndr,*.myndr.net,False
 myndr,*.myndr.net,False
 myndr,*.myndr.nl,False
 myndr,www.myndr.nl,False
+digitalocean,developers.cloudways.com,False
+digitalocean,unified.cloudways.com,False
+digitalocean,cloud.digitalocean.com,False
+digitalocean,169.254.169.254,False
+digitalocean,marketplace.digitalocean.com,False
+digitalocean,api.digitalocean.com,False
+digitalocean,api.cloudways.com,False
+digitalocean,*.digitalocean.com,False
+digitalocean,www.cloudways.com,False
+digitalocean,do.co,False
+digitalocean,hacktoberfest.com,False
+digitalocean,hackathon-tracker.digitalocean.com,False
+digitalocean,www.digitalocean.com,False
+digitalocean,platform.cloudways.com,False
 digitalocean,*.digitalocean.com,False
 digitalocean,cloud.digitalocean.com,False
 digitalocean,api.digitalocean.com,False

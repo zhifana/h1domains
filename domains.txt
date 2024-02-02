@@ -173,8 +173,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 booking.com
 flights.booking.com
-*.booking.com
 admin.booking.com
+*.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -4508,7 +4508,6 @@ practice.securevetsource.com
 *.jornadasroyalcanin.com.ar
 *.monespaceeleveur.fr
 *.myroyalcanin.hu
-*.royalcanin.co.uk
 *.royalcaninconcorsi.it
 *.royalcanin-vouchers.com
 *.banfieldassets.com
@@ -4516,6 +4515,7 @@ banfieldexchange.com
 *.royalcanin.com
 *.royalcanin.pl
 *.extragum.com
+*.royalcanin.co.uk
 *.pedigree.com
 *.moncse-royalcanin-siege.com
 *.monespaceveto.com
@@ -7974,6 +7974,20 @@ www.myndr.nl
 *.myndr.net
 *.myndr.nl
 www.myndr.nl
+developers.cloudways.com
+unified.cloudways.com
+cloud.digitalocean.com
+169.254.169.254
+marketplace.digitalocean.com
+api.digitalocean.com
+api.cloudways.com
+*.digitalocean.com
+www.cloudways.com
+do.co
+hacktoberfest.com
+hackathon-tracker.digitalocean.com
+www.digitalocean.com
+platform.cloudways.com
 *.digitalocean.com
 cloud.digitalocean.com
 api.digitalocean.com
