@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  2 04:42:21 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  2 05:18:58 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -2737,8 +2737,8 @@ partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 my.loanbuilder.com
-*.venmo.com
 *.paypal.com
+*.venmo.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
