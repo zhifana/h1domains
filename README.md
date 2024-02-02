@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  2 19:42:08 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  2 20:19:01 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -703,7 +703,6 @@ work.8x8.com
 *.8x8.vc
 sso.8x8.com
 connect.8x8.com
-*.jit.si
 platform.8x8pilot.com
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -711,6 +710,7 @@ user-profile-staging.8x8.com
 *.chalet.8x8.com
 *.8x8.id
 cloud8.8x8.com
+*.jit.si
 platform.8x8.com
 *.packet8.net
 *.8x8staging.com
@@ -1675,9 +1675,9 @@ eu.cloud.com
 ap-s.cloud.com
 accounts-internal.cloud.com
 secure.sharefile.eu
-adm.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
+adm.cloud.com
 launch.cloud.com
 sf-rp.sharefile.com
 api.sharefile.eu
@@ -2961,8 +2961,8 @@ developer.newrelic.com
 infrastructure.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
-*.nr-data.net
 *.newrelic.com
+*.nr-data.net
 *.nr-ops.net
 one.newrelic.com
 support.newrelic.com
