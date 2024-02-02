@@ -117,8 +117,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,store.23andme.com,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,api.23andme.com,True
-23andme_bbp,auth.23andme.com,True
 23andme_bbp,you.23andme.com,True
+23andme_bbp,auth.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -10126,6 +10126,10 @@ nextcloud,nextcloud.com,False
 nextcloud,download.nextcloud.com,False
 nextcloud,pushfeed.nextcloud.com,False
 nextcloud,newsletter.nextcloud.com,False
+moneybird,moneybird.com,True
+moneybird,moneybirdstorage.com,True
+moneybird,moneybird.com,True
+moneybird,moneybirdstorage.com,True
 github,npmjs.com,True
 github,api.github.com,True
 github,classroom.github.com,True
@@ -10321,10 +10325,10 @@ snapchat,store.snapchat.com,True
 snapchat,rt.playcanvas.com,True
 snapchat,map.snapchat.com,True
 snapchat,business.snapchat.com,True
-snapchat,app.snapchat.com,True
 snapchat,www.bitmoji.com,True
 snapchat,playcanvas.com,True
 snapchat,snappublisher.snapchat.com,True
+snapchat,app.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
 snapchat,*.sc-corp.net,True
@@ -10764,8 +10768,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,hackerone.com,True
 security,api.hackerone.com,True
+security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
@@ -11444,10 +11448,6 @@ legalrobot,www.legalrobot-test.com,True
 legalrobot,app.legalrobot-test.com,True
 secnews,*.secnews.gr,True
 secnews,*.secnews.gr,True
-moneybird,moneybird.com,True
-moneybird,moneybirdstorage.com,True
-moneybird,moneybird.com,True
-moneybird,moneybirdstorage.com,True
 kiwi-ki,api.kiwi.ki,True
 kiwi-ki,portal.kiwi.ki,True
 kiwi-ki,mobile.kiwi.ki,True
