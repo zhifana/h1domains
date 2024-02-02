@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb  1 23:41:02 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  2 00:58:55 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -229,8 +229,6 @@ app.moderntreasury.com
 cdn.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicex.com
-test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
