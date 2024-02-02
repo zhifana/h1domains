@@ -5001,7 +5001,6 @@ api.redislabs.com
 *.costcobusinesscentre.ca
 *.costcotravel.com
 *.costcotravel.ca
-mondelezinternational.com
 mmmax.milka.de
 milka.bg
 potursinejnostta.milka.bg
@@ -5049,6 +5048,7 @@ oreo.kz
 secretsanta.cadbury.co.uk
 vyhrajschuti.cz
 nabiscoseasonofgiving.com
+nabiscoholiday.com
 mondelezinternational.com
 ir.mondelezinternational.com
 cadbury.co.uk
@@ -7632,7 +7632,6 @@ kbill.mackeeper.com
 api-ne.mackeeper.com
 mkapi.mackeeper.com
 mackeeper.com
-*.finra.org
 *.finra.org
 *.wystar.com
 *.wellsfargoadvisors.com

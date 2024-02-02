@@ -5002,7 +5002,6 @@ costco,*.costcobusinessdelivery.com,False
 costco,*.costcobusinesscentre.ca,False
 costco,*.costcotravel.com,False
 costco,*.costcotravel.ca,False
-mondelez,mondelezinternational.com,False
 mondelez,mmmax.milka.de,False
 mondelez,milka.bg,False
 mondelez,potursinejnostta.milka.bg,False
@@ -5050,6 +5049,7 @@ mondelez,oreo.kz,False
 mondelez,secretsanta.cadbury.co.uk,False
 mondelez,vyhrajschuti.cz,False
 mondelez,nabiscoseasonofgiving.com,False
+mondelez,nabiscoholiday.com,False
 mondelez,mondelezinternational.com,False
 mondelez,ir.mondelezinternational.com,False
 mondelez,cadbury.co.uk,False
@@ -7633,7 +7633,6 @@ clario,kbill.mackeeper.com,True
 clario,api-ne.mackeeper.com,True
 clario,mkapi.mackeeper.com,True
 clario,mackeeper.com,True
-finra,*.finra.org,False
 finra,*.finra.org,False
 wellsfargo,*.wystar.com,False
 wellsfargo,*.wellsfargoadvisors.com,False
