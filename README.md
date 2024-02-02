@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  2 15:18:34 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  2 15:42:52 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -156,9 +156,9 @@ paymentcomponent.booking.com
 widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
-secure.booking.com
 account.booking.com
 cars.booking.com
+secure.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -864,8 +864,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.workers.dev
 *.magiceden.io
-magiceden.io
 *.magiceden.dev
+magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
