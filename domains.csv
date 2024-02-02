@@ -173,9 +173,9 @@ bookingcom,chat.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,booking.com,True
-bookingcom,flights.booking.com,True
 bookingcom,admin.booking.com,True
 bookingcom,*.booking.com,True
+bookingcom,flights.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,taxis.booking.com,True
 bookingcom,phone-validation.taxi.booking.com,True
@@ -3663,8 +3663,8 @@ magic-eden,eng.magiceden.io,False
 magic-eden,*.magiceden.workers.dev,True
 magic-eden,eng.magiceden.dev,False
 magic-eden,*.magiceden.io,True
-magic-eden,*.magiceden.dev,True
 magic-eden,magiceden.io,True
+magic-eden,*.magiceden.dev,True
 magic-eden,magiceden.io,True
 magic-eden,*.magiceden.io,True
 magic-eden,*.magiceden.dev,True
@@ -9425,8 +9425,8 @@ paypal,loanbuilder.com,True
 paypal,prequal.swiftfinancial.com,True
 paypal,decision.swiftfinancial.com,True
 paypal,paypalobjects.com,True
-paypal,*.paypalcorp.com,True
 paypal,*.braintreegateway.com,True
+paypal,*.paypalcorp.com,True
 paypal,www.paypal-*.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True
