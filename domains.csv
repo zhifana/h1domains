@@ -7915,8 +7915,8 @@ amazonvrp,updates.amazon.com,True
 amazonvrp,amazonpayinsurance.in,True
 alibaba,*.tmall.com,True
 alibaba,*.alibabacloud.com,True
-alibaba,*.alibaba.com,True
 alibaba,www.alibabagroup.com,True
+alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.1688.com,True
@@ -9339,8 +9339,8 @@ hyatt,www.applevacations.com,True
 hyatt,res.hyattinclusivecollection.com,True
 hyatt,www.hyattinclusivecollection.com,True
 hyatt,booking.applevacations.com,True
-grammarly,*.grammarly.com,True
 grammarly,*.grammarlyaws.com,True
+grammarly,*.grammarly.com,True
 grammarly,*.grammarly.io,True
 grammarly,grammarly.ai,True
 grammarly,*.grammarly.io,True

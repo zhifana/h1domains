@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  2 06:40:30 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  2 07:17:43 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -2167,8 +2167,8 @@ updates.amazon.com
 amazonpayinsurance.in
 *.tmall.com
 *.alibabacloud.com
-*.alibaba.com
 www.alibabagroup.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.1688.com
@@ -2665,8 +2665,8 @@ www.applevacations.com
 res.hyattinclusivecollection.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
-*.grammarly.com
 *.grammarlyaws.com
+*.grammarly.com
 *.grammarly.io
 grammarly.ai
 *.grammarly.io
