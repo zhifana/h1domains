@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  2 06:20:13 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  2 06:40:30 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -82,8 +82,8 @@ education.23andme.com
 store.23andme.com
 blog.23andme.com
 api.23andme.com
-you.23andme.com
 auth.23andme.com
+you.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -746,8 +746,8 @@ https://webrtc.8x8.com/
 cloud8.8x8.com
 pay.8x8.com
 admin.8x8.com
-*.magicjackpot.ro
 *.luckydays.com
+*.magicjackpot.ro
 *.napoleondice.be
 *.napoleongames.be
 *.superbet.ro

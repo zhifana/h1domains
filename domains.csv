@@ -117,8 +117,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,store.23andme.com,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,api.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,auth.23andme.com,True
+23andme_bbp,you.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -3440,8 +3440,8 @@ kkr_vdp,ksam.com,False
 8x8-bounty,cloud8.8x8.com,True
 8x8-bounty,pay.8x8.com,True
 8x8-bounty,admin.8x8.com,True
-superbet,*.magicjackpot.ro,True
 superbet,*.luckydays.com,True
+superbet,*.magicjackpot.ro,True
 superbet,*.napoleondice.be,True
 superbet,*.napoleongames.be,True
 superbet,*.superbet.ro,True
