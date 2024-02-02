@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  2 21:16:13 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  2 21:42:02 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -84,8 +84,8 @@ blog.23andme.com
 api.23andme.com
 you.23andme.com
 auth.23andme.com
-medical.23andme.com
 therapeutics.23andme.com
+medical.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -133,8 +133,8 @@ www.temu.com
 kyc-onboarding.booking.com
 experiences.booking.com
 indicative-pricing.taxi.booking.com
-careers.booking.com
 chat.booking.com
+careers.booking.com
 supplier.auth.toag.booking.com
 supply-xml.booking.com
 booking.com
