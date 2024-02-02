@@ -4628,7 +4628,6 @@ www.dolap.com
 *.trellix.com
 *.skyhighsecurity.com
 *.sidefx.com
-*.sidefx.com
 token.com
 *.tokensvc.com
 blog.token.com
@@ -6539,16 +6538,6 @@ customers.mattermost.com
 *.mattermost.com
 customers.mattermost.com
 *.mattermost.com
-*.ohiosecretaryofstate.gov
-*.boe.ohio.gov
-*.militaryvotes.ohio.gov
-*.vote.ohio.gov
-*.voteohio.gov
-*.ohiosos.gov
-*.safeathomeohio.gov
-*.electionintegrity.ohio.gov
-*.ohiobusinesscentral.gov
-*.sos.state.oh.us
 *.boe.ohio.gov
 *.militaryvotes.ohio.gov
 *.ohiobusinesscentral.gov
