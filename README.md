@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  2 04:22:00 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  2 04:42:21 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -750,8 +750,8 @@ admin.8x8.com
 *.luckydays.com
 *.napoleondice.be
 *.napoleongames.be
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.napoleoncasino.be
 *.luckydays.ca
 *.superbet.pl
@@ -2461,9 +2461,9 @@ app.command.cysiv.com
 reservations.rezserver.com
 www.getaroom.com
 www.bookingholdings.com
-www.priceline.com
 admin.rezserver.com
 priceline.com
+www.priceline.com
 secure.rezserver.com
 api.rezserver.com
 flyiin.com
@@ -3861,8 +3861,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
