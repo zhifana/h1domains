@@ -6475,8 +6475,8 @@ sh.reddit.com
 gateway.reddit.com
 s.reddit.com
 www.spiketrap.io
-*.reddit.com
 ads-api.reddit.com
+*.reddit.com
 *.redditblog.com
 amp.reddit.com
 reddit.secure.force.com
@@ -9647,8 +9647,8 @@ developer.newrelic.com
 infrastructure.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
-*.newrelic.com
 *.nr-data.net
+*.newrelic.com
 *.nr-ops.net
 one.newrelic.com
 support.newrelic.com
@@ -10414,10 +10414,10 @@ firefly.adobe.com
 *.adobeaemcloud.com
 community.adobe.com
 nicetryapril.na1.echosignsandbox.com
-*.adobe.com
 accounts.frame.io
 auth.services.adobe.com
 app.frame.io
+*.adobe.com
 *.marketo.com
 *.omniture.com
 *.typekit.com

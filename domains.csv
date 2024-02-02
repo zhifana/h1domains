@@ -6476,8 +6476,8 @@ reddit,*.redditinc.com,True
 reddit,gateway.reddit.com,True
 reddit,s.reddit.com,True
 reddit,www.spiketrap.io,True
-reddit,*.reddit.com,True
 reddit,ads-api.reddit.com,True
+reddit,*.reddit.com,True
 reddit,*.redditblog.com,True
 reddit,amp.reddit.com,True
 reddit,reddit.secure.force.com,True
@@ -9648,8 +9648,8 @@ newrelic,developer.newrelic.com,True
 newrelic,infrastructure.newrelic.com,True
 newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
-newrelic,*.newrelic.com,True
 newrelic,*.nr-data.net,True
+newrelic,*.newrelic.com,True
 newrelic,*.nr-ops.net,True
 newrelic,one.newrelic.com,True
 newrelic,support.newrelic.com,True
@@ -10415,10 +10415,10 @@ adobe,firefly.adobe.com,False
 adobe,*.adobeaemcloud.com,False
 adobe,community.adobe.com,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
-adobe,*.adobe.com,False
 adobe,accounts.frame.io,False
 adobe,auth.services.adobe.com,False
 adobe,app.frame.io,False
+adobe,*.adobe.com,False
 adobe,*.marketo.com,False
 adobe,*.omniture.com,False
 adobe,*.typekit.com,False
