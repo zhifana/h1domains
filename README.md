@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb  3 04:19:28 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb  3 04:42:07 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -864,8 +864,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.workers.dev
 *.magiceden.io
-magiceden.io
 *.magiceden.dev
+magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -2067,8 +2067,8 @@ relay.amazon.com
 affiliate-program.amazon.com
 imdbtv-backend-na.amazon.com
 advertising.amazon.com
-paragon-na.amazon.com
 av-na.amazon.com
+paragon-na.amazon.com
 aca-livecards-service.amazon.com
 cloudaccesstelemetry-us-east-1.amazon.com
 dss-na.amazon.com
@@ -3536,8 +3536,8 @@ businesshelp.snapchat.com
 forum.playcanvas.com
 msg.playcanvas.com
 create.snapchat.com
-accounts.snapchat.com
 ads.snapchat.com
+accounts.snapchat.com
 scan.snapchat.com
 code.playcanvas.com
 login.playcanvas.com
