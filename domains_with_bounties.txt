@@ -127,8 +127,8 @@ www.temu.com
 kyc-onboarding.booking.com
 experiences.booking.com
 indicative-pricing.taxi.booking.com
-careers.booking.com
 chat.booking.com
+careers.booking.com
 supplier.auth.toag.booking.com
 supply-xml.booking.com
 booking.com
