@@ -1,7 +1,7 @@
 handle,domain,eligible_for_bounty
 international_airlines_group,www.hangar51.com,False
-international_airlines_group,*.iaggbs.com,False
 international_airlines_group,*.iagcargo.com,False
+international_airlines_group,*.iaggbs.com,False
 international_airlines_group,*.iairgroup.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
@@ -4503,8 +4503,8 @@ mars,practice.securevetsource.com,False
 mars,*.miroyalcanin.com.ar,False
 mars,*.twix.com,False
 mars,*.royalcanin.nl,False
-mars,*.myroyalcanin.gr,False
 mars,*.royalcanin.pt,False
+mars,*.myroyalcanin.gr,False
 mars,*.orbitgum.com,False
 mars,*.jornadasroyalcanin.com.ar,False
 mars,*.monespaceeleveur.fr,False

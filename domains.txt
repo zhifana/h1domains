@@ -1,6 +1,6 @@
 www.hangar51.com
-*.iaggbs.com
 *.iagcargo.com
+*.iaggbs.com
 *.iairgroup.com
 www.avios.com
 www.iairgroup.com
@@ -4502,8 +4502,8 @@ practice.securevetsource.com
 *.miroyalcanin.com.ar
 *.twix.com
 *.royalcanin.nl
-*.myroyalcanin.gr
 *.royalcanin.pt
+*.myroyalcanin.gr
 *.orbitgum.com
 *.jornadasroyalcanin.com.ar
 *.monespaceeleveur.fr
