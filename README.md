@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb  3 13:39:51 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb  3 14:15:00 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -899,8 +899,8 @@ askpam.ai
 pb.deribit.com
 test.deribit.com
 insights.deribit.com
-tools.deribit.com
 metrics.deribit.com
+tools.deribit.com
 *.deribit.com
 *.deribit.com
 test.deribit.com
@@ -1724,11 +1724,11 @@ tiktok.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
-careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
 *.tiktokv.com
 *.tiktok.com
+careers.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
