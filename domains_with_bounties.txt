@@ -790,9 +790,9 @@ share.doppler.com
 *.cryptopunks.app
 *.yugalabs.io
 *.boredapeyachtclub.com
-dookeydash.com
 *.wenewmoments.com
 hv-mtl.com
+dookeydash.com
 *.boredapeyachtclub.com
 *.yuga.com
 *.yugalabs.io
