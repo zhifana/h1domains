@@ -4671,8 +4671,8 @@ www.canvasworld.com
 www.gifts.com
 *.iseeme.com
 *.personalcreations.com
-*.cafepress.com
 *.canvasworld.com
+*.cafepress.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -9201,8 +9201,8 @@ www.opn.ooo
 *.omnicraftautoparts.com
 *.quicklane.com
 *.motorcraft.com
-*.lincoln.com
 *.ford.com
+*.lincoln.com
 *.ford.com
 *.lincoln.com
 *.quicklane.com
