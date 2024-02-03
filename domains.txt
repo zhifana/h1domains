@@ -171,10 +171,10 @@ chat.booking.com
 careers.booking.com
 supplier.auth.toag.booking.com
 supply-xml.booking.com
-admin.booking.com
 flights.booking.com
 booking.com
 *.booking.com
+admin.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -3496,8 +3496,8 @@ share.doppler.com
 *.REWARDSFORJUSTICE.NET
 *.PEPFAR.GOV
 *.USEMBASSY.GOV
-*.FSGB.GOV
 *.STATE.GOV
+*.FSGB.GOV
 *.USCONSULATE.GOV
 *.AMERICA.GOV
 *.DEVTESTFAN1.GOV
@@ -4512,10 +4512,10 @@ practice.securevetsource.com
 *.royalcanin-vouchers.com
 *.banfieldassets.com
 banfieldexchange.com
-*.royalcanin.com
 *.royalcanin.pl
 *.extragum.com
 *.royalcanin.co.uk
+*.royalcanin.com
 *.pedigree.com
 *.moncse-royalcanin-siege.com
 *.monespaceveto.com
@@ -4663,8 +4663,8 @@ www.mycustomcase.com
 www.photoaffections.com
 *.mycustomcase.com
 www.simplytoimpress.com
-iseeme.com
 www.cafepress.com
+iseeme.com
 www.canvasworld.com
 *.gifts.com
 *.photoaffections.com
@@ -7316,8 +7316,8 @@ business.tiktok.com
 careers.tiktok.com
 *.tiktok.com
 effecthouse.tiktok.com
-developers.tiktok.com
 shop.tiktok.com
+developers.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
