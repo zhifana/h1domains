@@ -1306,7 +1306,6 @@ card.starbucks.com.kz
 *.starbuckscardtr.com
 *.muji.qa
 *.mothercare.com.eg
-*.footlocker.com.eg
 *.debenhams.sa
 *.bathandbodyworks.com.kw
 dev.alshaya.com
@@ -1319,6 +1318,7 @@ bathandbodyworks.ro/
 *.americaneagle.com.bh
 bathandbodyworks.ro
 *.americaneagle.com.kw
+*.footlocker.com.eg
 boysweb.shaya.com.tr
 qt.boots.com
 kw.hm.com
@@ -3496,8 +3496,8 @@ share.doppler.com
 *.REWARDSFORJUSTICE.NET
 *.PEPFAR.GOV
 *.USEMBASSY.GOV
-*.FSGB.GOV
 *.STATE.GOV
+*.FSGB.GOV
 *.USCONSULATE.GOV
 *.AMERICA.GOV
 *.DEVTESTFAN1.GOV
@@ -4663,8 +4663,8 @@ www.mycustomcase.com
 www.photoaffections.com
 *.mycustomcase.com
 www.simplytoimpress.com
-www.cafepress.com
 iseeme.com
+www.cafepress.com
 www.canvasworld.com
 *.gifts.com
 *.photoaffections.com
@@ -10323,11 +10323,11 @@ my.snapchat.com
 store.snapchat.com
 rt.playcanvas.com
 map.snapchat.com
-business.snapchat.com
 www.bitmoji.com
 snappublisher.snapchat.com
 playcanvas.com
 app.snapchat.com
+business.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
