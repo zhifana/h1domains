@@ -1677,9 +1677,9 @@ shi_vdp,www.shi.com,False
 shi_vdp,https://www.cxmlorderservice.shi.com/cxmlorderreceiptservice/cxmlorderreceiptservice.svc,False
 redox_bbp,testapi.redoxengine.com,True
 redox_bbp,fhir.redoxengine.com,True
-redox_bbp,launch.gamma.redoxstage.com,True
 redox_bbp,clientcert.gamma.redoxstage.com,True
 redox_bbp,www.redoxengine.com,True
+redox_bbp,launch.gamma.redoxstage.com,True
 redox_bbp,blob.gamma.redoxstage.com,True
 redox_bbp,eets-sftp-listener.gamma.redoxstage.com,True
 redox_bbp,dashboard.gamma.redoxstage.com,True
@@ -1692,8 +1692,8 @@ redox_bbp,docs.redoxengine.com,True
 redox_bbp,api.gamma.redoxstage.com,True
 redox_bbp,gamma.redoxstage.com,True
 redox_bbp,sftp.gamma.redoxstage.com,True
-redox_bbp,explore.redoxengine.com,True
 redox_bbp,evening-earth.gamma.redoxstage.com,True
+redox_bbp,explore.redoxengine.com,True
 redox_bbp,app.gamma.redoxstage.com,True
 redox_bbp,10x.redoxengine.com,True
 redox_bbp,testapp.redoxengine.com,True
@@ -2910,8 +2910,8 @@ shutterfly_vdp,wgwebservices.snapfish.com,False
 shutterfly_vdp,*.sbs.shutterfly.com,False
 shutterfly_vdp,snapfish.com,False
 shutterfly_vdp,admin.spoonflower.com,False
-shutterfly_vdp,shutterfly.com,False
 shutterfly_vdp,*.snapfish.com,False
+shutterfly_vdp,shutterfly.com,False
 shutterfly_vdp,tinyprints.com,False
 shutterfly_vdp,preschoolsmiles.com,False
 shutterfly_vdp,snapfish.co.uk,False
@@ -6471,8 +6471,8 @@ reddit,strapi.reddit.com,True
 reddit,m.reddit.com,True
 reddit,meta-api.reddit.com,True
 reddit,sh.reddit.com,True
-reddit,*.snooguts.net,True
 reddit,*.redditinc.com,True
+reddit,*.snooguts.net,True
 reddit,gateway.reddit.com,True
 reddit,s.reddit.com,True
 reddit,www.spiketrap.io,True
@@ -7317,8 +7317,8 @@ tiktok,*.tiktokv.com,True
 tiktok,careers.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
-tiktok,developers.tiktok.com,True
 tiktok,shop.tiktok.com,True
+tiktok,developers.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
