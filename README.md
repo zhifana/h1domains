@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb  4 17:16:35 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb  4 17:42:08 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -110,8 +110,8 @@ www.mercadolibre.com.co
 www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.mx
-api.mercadolibre.com
 www.mercadopago.com.br
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -3634,9 +3634,9 @@ m.airbnb.com
 support-api.airbnb.com
 omgpro.airbnb.com
 *.atairbnb.com
-next.airbnb.com
 one.airbnb.com
 *.withairbnb.com
+next.airbnb.com
 *.airbnbcitizen.com
 *.byairbnb.com
 www.hoteltonight.com

@@ -104,8 +104,8 @@ www.mercadolibre.com.co
 www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.mx
-api.mercadolibre.com
 www.mercadopago.com.br
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -3628,9 +3628,9 @@ m.airbnb.com
 support-api.airbnb.com
 omgpro.airbnb.com
 *.atairbnb.com
-next.airbnb.com
 one.airbnb.com
 *.withairbnb.com
+next.airbnb.com
 *.airbnbcitizen.com
 *.byairbnb.com
 www.hoteltonight.com
