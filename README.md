@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb  4 18:41:59 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb  4 19:16:08 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -109,8 +109,8 @@ www.mercadopago.com.ar
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
 api.mercadopago.com
-api.mercadolibre.com
 www.mercadopago.com.br
+api.mercadolibre.com
 www.mercadopago.com.mx
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -256,10 +256,10 @@ api-sandbox.gocardless.com
 pay-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
-manage-sandbox.gocardless.com
 *.gocardless-staging.io
 *.gocardless-cicd.io
 www.gocardless.com
+manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -588,8 +588,8 @@ ci.indrive.dev
 priority.eu-east-1.indriverapp.com
 auth2.indrive.tech
 debug.clairvoyance.indrive.tech
-*.indriverapp.com
 watchdocs.indriverapp.com
+*.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 volans.tech
 wga.volans.tech
@@ -1460,8 +1460,8 @@ strapi.reddit.com
 m.reddit.com
 meta-api.reddit.com
 sh.reddit.com
-*.snooguts.net
 *.redditinc.com
+*.snooguts.net
 gateway.reddit.com
 s.reddit.com
 www.spiketrap.io
@@ -1730,8 +1730,8 @@ business.tiktok.com
 careers.tiktok.com
 *.tiktok.com
 effecthouse.tiktok.com
-shop.tiktok.com
 developers.tiktok.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
