@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb  4 05:16:52 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb  4 05:41:14 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -139,8 +139,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 booking.com
-*.booking.com
 admin.booking.com
+*.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -687,8 +687,8 @@ api.sokos.fi
 cfapi.voikukka.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -1730,8 +1730,8 @@ business.tiktok.com
 careers.tiktok.com
 *.tiktok.com
 effecthouse.tiktok.com
-developers.tiktok.com
 shop.tiktok.com
+developers.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
