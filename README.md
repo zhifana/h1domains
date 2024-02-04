@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb  3 23:40:45 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb  4 01:04:31 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -1730,8 +1730,8 @@ business.tiktok.com
 careers.tiktok.com
 *.tiktok.com
 effecthouse.tiktok.com
-shop.tiktok.com
 developers.tiktok.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1966,8 +1966,8 @@ staking-api.polygon.technology
 bridge-explorer.polygon.technology
 burn.polygon.technology
 mapper.polygon.technology
-faucet.polygon.technology
 wallet.polygon.technology
+faucet.polygon.technology
 bridge-api.matic.network
 watchgod.polygon.technology
 open-api.polygon.technology
@@ -2842,8 +2842,8 @@ www.shipt.com
 apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
-*.goldman.com
 *.unitedcp.com
+*.goldman.com
 *.honestdollar.com
 *.goldmansachs.com
 *.global-liquidity.gs.com
@@ -3536,8 +3536,8 @@ businesshelp.snapchat.com
 forum.playcanvas.com
 msg.playcanvas.com
 create.snapchat.com
-accounts.snapchat.com
 ads.snapchat.com
+accounts.snapchat.com
 scan.snapchat.com
 code.playcanvas.com
 login.playcanvas.com
