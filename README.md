@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb  4 18:20:27 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb  4 18:41:59 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -109,8 +109,8 @@ www.mercadopago.com.ar
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
 api.mercadopago.com
-www.mercadopago.com.br
 api.mercadolibre.com
+www.mercadopago.com.br
 www.mercadopago.com.mx
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -1460,8 +1460,8 @@ strapi.reddit.com
 m.reddit.com
 meta-api.reddit.com
 sh.reddit.com
-*.redditinc.com
 *.snooguts.net
+*.redditinc.com
 gateway.reddit.com
 s.reddit.com
 www.spiketrap.io
@@ -1730,8 +1730,8 @@ business.tiktok.com
 careers.tiktok.com
 *.tiktok.com
 effecthouse.tiktok.com
-developers.tiktok.com
 shop.tiktok.com
+developers.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
