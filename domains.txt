@@ -3496,8 +3496,8 @@ share.doppler.com
 *.REWARDSFORJUSTICE.NET
 *.PEPFAR.GOV
 *.USEMBASSY.GOV
-*.FSGB.GOV
 *.STATE.GOV
+*.FSGB.GOV
 *.USCONSULATE.GOV
 *.AMERICA.GOV
 *.DEVTESTFAN1.GOV
@@ -3662,8 +3662,8 @@ eng.magiceden.io
 *.magiceden.workers.dev
 eng.magiceden.dev
 *.magiceden.io
-magiceden.io
 *.magiceden.dev
+magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
