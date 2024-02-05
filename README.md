@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb  5 18:16:12 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb  5 18:42:26 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -106,9 +106,9 @@ store.23andme.com
 therapeutics.23andme.com
 you.23andme.com
 research.23andme.com
-www.mercadopago.cl
 www.mercadolibre.com.pe
 www.mercadopago.com.uy
+www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadolibre.com.uy
 www.mercadolibre.cl
@@ -148,9 +148,9 @@ careers.booking.com
 supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
-booking.com
 admin.booking.com
 *.booking.com
+booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -1470,8 +1470,8 @@ strapi.reddit.com
 m.reddit.com
 meta-api.reddit.com
 sh.reddit.com
-*.snooguts.net
 *.redditinc.com
+*.snooguts.net
 gateway.reddit.com
 s.reddit.com
 www.spiketrap.io
@@ -1740,8 +1740,8 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktok.com
 effecthouse.tiktok.com
-shop.tiktok.com
 developers.tiktok.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2181,12 +2181,12 @@ www.alibabagroup.com
 *.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
-*.1688.com
 *.aliyun-inc.com
 *.alimama.com
 *.Daraz.com
-*.aliyun.com
 *.aliexpress.com
+*.1688.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3527,8 +3527,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3545,9 +3545,9 @@ story.snapchat.com
 businesshelp.snapchat.com
 msg.playcanvas.com
 create.snapchat.com
-forum.playcanvas.com
 accounts.snapchat.com
 ads.snapchat.com
+forum.playcanvas.com
 scan.snapchat.com
 code.playcanvas.com
 login.playcanvas.com
