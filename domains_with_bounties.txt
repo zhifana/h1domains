@@ -1724,8 +1724,8 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktok.com
 effecthouse.tiktok.com
-developers.tiktok.com
 shop.tiktok.com
+developers.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -4049,8 +4049,8 @@ https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 magentolive.com
 magentocommerce.com
 repo.magento.com
-accounts.magento.cloud
 account.magento.com
+accounts.magento.cloud
 u.magento.com
 imagine.magento.com
 magento.com

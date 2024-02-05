@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb  5 02:43:27 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb  5 03:18:39 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -1730,8 +1730,8 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktok.com
 effecthouse.tiktok.com
-developers.tiktok.com
 shop.tiktok.com
+developers.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -4055,8 +4055,8 @@ https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 magentolive.com
 magentocommerce.com
 repo.magento.com
-accounts.magento.cloud
 account.magento.com
+accounts.magento.cloud
 u.magento.com
 imagine.magento.com
 magento.com
