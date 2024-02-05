@@ -1316,10 +1316,10 @@ alshaya,bathandbodyworks.ro,False
 alshaya,*.americaneagle.com.kw,False
 alshaya,*.footlocker.com.eg,False
 alshaya,kw.boots.com,False
-alshaya,*.starbuckscardtr.com,False
 alshaya,sa.hm.com,False
 alshaya,*.aloyoga.com.kw,False
 alshaya,*.westelm.com.kw,False
+alshaya,*.starbuckscardtr.com,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,qt.boots.com,False
 alshaya,kw.hm.com,False
@@ -3157,7 +3157,6 @@ abb,*.baldor.com,False
 abb,*.abb.com,False
 abb,*.fi.abb.com,False
 abb,*.cn.abb.com,False
-abb,*.de.abb.com,False
 abb,*.abb-drives.com,False
 abb,*.pdc.abb.com,False
 abb,*.motors.abb.com,False
@@ -3167,6 +3166,7 @@ abb,*.abb.in,False
 abb,*.abb,False
 abb,*.busch-jaeger.nl,False
 abb,*.ability.abb,False
+abb,*.de.abb.com,False
 abb,*.cirrus.abb.com,False
 abb,*.stratus.abb.com,False
 abb,*.motion.abb.com,False
@@ -10303,8 +10303,8 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb  5 08:20:24 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb  5 08:41:35 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -3516,8 +3516,8 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com

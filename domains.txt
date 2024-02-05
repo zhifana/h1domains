@@ -1315,10 +1315,10 @@ bathandbodyworks.ro
 *.americaneagle.com.kw
 *.footlocker.com.eg
 kw.boots.com
-*.starbuckscardtr.com
 sa.hm.com
 *.aloyoga.com.kw
 *.westelm.com.kw
+*.starbuckscardtr.com
 boysweb.shaya.com.tr
 qt.boots.com
 kw.hm.com
@@ -3156,7 +3156,6 @@ abb.com.br
 *.abb.com
 *.fi.abb.com
 *.cn.abb.com
-*.de.abb.com
 *.abb-drives.com
 *.pdc.abb.com
 *.motors.abb.com
@@ -3166,6 +3165,7 @@ abb.com.br
 *.abb
 *.busch-jaeger.nl
 *.ability.abb
+*.de.abb.com
 *.cirrus.abb.com
 *.stratus.abb.com
 *.motion.abb.com
@@ -10302,8 +10302,8 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
