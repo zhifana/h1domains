@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb  5 18:42:26 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb  5 19:18:25 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -111,8 +111,8 @@ www.mercadopago.com.uy
 www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadolibre.com.uy
-www.mercadolibre.cl
 www.mercadolivre.com.br
+www.mercadolibre.cl
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadopago.com.ar
@@ -1127,8 +1127,8 @@ rankings.etoro.com
 delta.app
 bullsheet.me
 *.instacart.tools
-api.instacart.com
 www.instacart.com
+api.instacart.com
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.com
@@ -1475,8 +1475,8 @@ sh.reddit.com
 gateway.reddit.com
 s.reddit.com
 www.spiketrap.io
-*.reddit.com
 ads-api.reddit.com
+*.reddit.com
 *.redditblog.com
 amp.reddit.com
 reddit.secure.force.com
@@ -1740,8 +1740,8 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktok.com
 effecthouse.tiktok.com
-developers.tiktok.com
 shop.tiktok.com
+developers.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2183,10 +2183,10 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.Daraz.com
 *.aliexpress.com
 *.1688.com
 *.aliyun.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2736,8 +2736,8 @@ https://github.com/matomo-org/docker
 py.pl
 www.swiftfinancial.com
 swiftfinancial.com
-*.braintree-api.com
 *.paylution.com
+*.braintree-api.com
 *.braintreepayments.com
 paypal.me
 www.swiftcapital.com
@@ -3527,8 +3527,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
