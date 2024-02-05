@@ -3546,8 +3546,8 @@ map.snapchat.com
 snappublisher.snapchat.com
 playcanvas.com
 app.snapchat.com
-business.snapchat.com
 www.bitmoji.com
+business.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
