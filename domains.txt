@@ -1313,12 +1313,12 @@ bathandbodyworks.ro/
 *.americaneagle.com.bh
 bathandbodyworks.ro
 *.americaneagle.com.kw
-*.starbuckscardtr.com
+kw.boots.com
 *.westelm.com.kw
-*.footlocker.com.eg
 *.aloyoga.com.kw
 sa.hm.com
-kw.boots.com
+*.starbuckscardtr.com
+*.footlocker.com.eg
 boysweb.shaya.com.tr
 qt.boots.com
 kw.hm.com
@@ -1724,10 +1724,9 @@ www.visa.co.jp
 www.fraedom.com
 www.practicalmoneyskills.org
 www.practicalmoneyskills.com
-www.yellowpepper.com
 sandbox.secure.checkout.visa.com
 www.visainfinite.ca
-bb.visa.com
+www.yellowpepper.com
 www.visa.com.mx
 visa.com.ru
 www.visa.com.cy
@@ -1742,6 +1741,7 @@ www.visa.co.ao
 www.visa.co.in
 www.visa.co.nz
 www.currencycloud.com
+bb.visa.com
 bq.visa.com
 www.visa.com.kh
 www.visa.co.il
@@ -4490,7 +4490,6 @@ fossil.fnfsale.in
 *.southnassau.org
 *.individualis.com
 *.myroyalcanin.ro
-*.royalcanin.be
 *.mivetshop.com.ar
 *.shoproyalcanin.com
 *.vetschoice.co.za
@@ -4504,6 +4503,7 @@ practice.securevetsource.com
 *.royalcanin.pt
 *.myroyalcanin.gr
 *.banfield.com
+*.royalcanin.be
 *.orbitgum.com
 *.jornadasroyalcanin.com.ar
 *.monespaceeleveur.fr
@@ -6337,10 +6337,10 @@ zsbsupport.zebra.com
 *.zams-eu.zebra.com
 reflexisinc.com/
 cmm01.sl.zebra.com
-supportcommunity.zebra.com
 *.zams.zebra.com
-*.zebrasports.com
 *.profitect.com
+*.zebrasports.com
+supportcommunity.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -6482,8 +6482,8 @@ strapi.reddit.com
 m.reddit.com
 meta-api.reddit.com
 sh.reddit.com
-*.redditinc.com
 *.snooguts.net
+*.redditinc.com
 gateway.reddit.com
 s.reddit.com
 www.spiketrap.io
@@ -7328,8 +7328,8 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktok.com
 effecthouse.tiktok.com
-shop.tiktok.com
 developers.tiktok.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -9410,8 +9410,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintreepayments.com
-*.paylution.com
 *.braintree-api.com
+*.paylution.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com

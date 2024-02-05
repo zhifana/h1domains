@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb  5 13:20:47 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb  5 13:44:16 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -336,10 +336,9 @@ www.visa.co.jp
 www.fraedom.com
 www.practicalmoneyskills.org
 www.practicalmoneyskills.com
-www.yellowpepper.com
 sandbox.secure.checkout.visa.com
 www.visainfinite.ca
-bb.visa.com
+www.yellowpepper.com
 www.visa.com.mx
 visa.com.ru
 www.visa.com.cy
@@ -354,6 +353,7 @@ www.visa.co.ao
 www.visa.co.in
 www.visa.co.nz
 www.currencycloud.com
+bb.visa.com
 bq.visa.com
 www.visa.com.kh
 www.visa.co.il
@@ -1460,8 +1460,8 @@ strapi.reddit.com
 m.reddit.com
 meta-api.reddit.com
 sh.reddit.com
-*.redditinc.com
 *.snooguts.net
+*.redditinc.com
 gateway.reddit.com
 s.reddit.com
 www.spiketrap.io
@@ -1730,8 +1730,8 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktok.com
 effecthouse.tiktok.com
-shop.tiktok.com
 developers.tiktok.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2727,8 +2727,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintreepayments.com
-*.paylution.com
 *.braintree-api.com
+*.paylution.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com

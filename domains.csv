@@ -1314,12 +1314,12 @@ alshaya,bathandbodyworks.ro/,False
 alshaya,*.americaneagle.com.bh,False
 alshaya,bathandbodyworks.ro,False
 alshaya,*.americaneagle.com.kw,False
-alshaya,*.starbuckscardtr.com,False
+alshaya,kw.boots.com,False
 alshaya,*.westelm.com.kw,False
-alshaya,*.footlocker.com.eg,False
 alshaya,*.aloyoga.com.kw,False
 alshaya,sa.hm.com,False
-alshaya,kw.boots.com,False
+alshaya,*.starbuckscardtr.com,False
+alshaya,*.footlocker.com.eg,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,qt.boots.com,False
 alshaya,kw.hm.com,False
@@ -1725,10 +1725,9 @@ visa,www.visa.co.jp,True
 visa,www.fraedom.com,True
 visa,www.practicalmoneyskills.org,True
 visa,www.practicalmoneyskills.com,True
-visa,www.yellowpepper.com,True
 visa,sandbox.secure.checkout.visa.com,True
 visa,www.visainfinite.ca,True
-visa,bb.visa.com,True
+visa,www.yellowpepper.com,True
 visa,www.visa.com.mx,True
 visa,visa.com.ru,True
 visa,www.visa.com.cy,True
@@ -1743,6 +1742,7 @@ visa,www.visa.co.ao,True
 visa,www.visa.co.in,True
 visa,www.visa.co.nz,True
 visa,www.currencycloud.com,True
+visa,bb.visa.com,True
 visa,bq.visa.com,True
 visa,www.visa.com.kh,True
 visa,www.visa.co.il,True
@@ -4491,7 +4491,6 @@ mount-sinai-health,*.snch.org,False
 mount-sinai-health,*.southnassau.org,False
 mars,*.individualis.com,False
 mars,*.myroyalcanin.ro,False
-mars,*.royalcanin.be,False
 mars,*.mivetshop.com.ar,False
 mars,*.shoproyalcanin.com,False
 mars,*.vetschoice.co.za,False
@@ -4505,6 +4504,7 @@ mars,*.royalcanin.nl,False
 mars,*.royalcanin.pt,False
 mars,*.myroyalcanin.gr,False
 mars,*.banfield.com,False
+mars,*.royalcanin.be,False
 mars,*.orbitgum.com,False
 mars,*.jornadasroyalcanin.com.ar,False
 mars,*.monespaceeleveur.fr,False
@@ -6338,10 +6338,10 @@ zebra_vdp,zsbsupport.zebra.com,False
 zebra_vdp,*.zams-eu.zebra.com,False
 zebra_vdp,reflexisinc.com/,False
 zebra_vdp,cmm01.sl.zebra.com,False
-zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,*.zams.zebra.com,False
-zebra_vdp,*.zebrasports.com,False
 zebra_vdp,*.profitect.com,False
+zebra_vdp,*.zebrasports.com,False
+zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -6483,8 +6483,8 @@ reddit,strapi.reddit.com,True
 reddit,m.reddit.com,True
 reddit,meta-api.reddit.com,True
 reddit,sh.reddit.com,True
-reddit,*.redditinc.com,True
 reddit,*.snooguts.net,True
+reddit,*.redditinc.com,True
 reddit,gateway.reddit.com,True
 reddit,s.reddit.com,True
 reddit,www.spiketrap.io,True
@@ -7329,8 +7329,8 @@ tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
-tiktok,shop.tiktok.com,True
 tiktok,developers.tiktok.com,True
+tiktok,shop.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -9411,8 +9411,8 @@ paypal,py.pl,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,*.braintreepayments.com,True
-paypal,*.paylution.com,True
 paypal,*.braintree-api.com,True
+paypal,*.paylution.com,True
 paypal,paypal.me,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
