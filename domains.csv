@@ -145,8 +145,8 @@ mercadolibre,www.mercadolibre.com.co,True
 mercadolibre,www.mercadolibre.com.ar,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.br,True
-mercadolibre,api.mercadolibre.com,True
 mercadolibre,www.mercadopago.com.mx,True
+mercadolibre,api.mercadolibre.com,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,www.mercadopago.com.br,True
@@ -173,8 +173,8 @@ bookingcom,careers.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,flights.booking.com,True
-bookingcom,booking.com,True
 bookingcom,*.booking.com,True
+bookingcom,booking.com,True
 bookingcom,admin.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,taxis.booking.com,True
@@ -4758,8 +4758,8 @@ ro,http://ro.co/spermkit,False
 kayak,www.mundi.com.br,True
 kayak,www.momondo.com,True
 kayak,www.hotelscombined.com,True
-kayak,www.checkfelix.com,True
 kayak,business.kayak.com,True
+kayak,www.checkfelix.com,True
 kayak,www.cheapflights.com,True
 kayak,www.kayak.com,True
 kayak,www.swoodoo.com,True
@@ -4851,10 +4851,10 @@ etoro_bbp,kyc.etoro.com,True
 etoro_bbp,streams.etoro.com,True
 etoro_bbp,tapi-real.etoro.com,True
 etoro_bbp,partners.etoro.com,True
-etoro_bbp,candle.etoro.com,True
 etoro_bbp,push-d-gw.cloud.etoro.com,True
 etoro_bbp,r.etoro.com,True
 etoro_bbp,rankings.etoro.com,True
+etoro_bbp,candle.etoro.com,True
 etoro_bbp,billing-pci.etoro.com,True
 etoro_bbp,candle-src.etoro.com,True
 etoro_bbp,push-demo-hk-lightstreamer.cloud.etoro.com,True
@@ -6471,8 +6471,8 @@ reddit,strapi.reddit.com,True
 reddit,m.reddit.com,True
 reddit,meta-api.reddit.com,True
 reddit,sh.reddit.com,True
-reddit,*.redditinc.com,True
 reddit,*.snooguts.net,True
+reddit,*.redditinc.com,True
 reddit,gateway.reddit.com,True
 reddit,s.reddit.com,True
 reddit,www.spiketrap.io,True
@@ -10291,9 +10291,9 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
