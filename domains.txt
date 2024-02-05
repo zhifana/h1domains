@@ -173,8 +173,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 booking.com
-admin.booking.com
 *.booking.com
+admin.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -1337,7 +1337,7 @@ sa.cosstores.com
 *.potterybarn.ae
 *.mothercare.com.sa
 *.mothercare.com.kw
-*.footlocker.com.bh
+*.footlocker.ae
 *.shaya.com.tr
 *.starbucks.com.kz
 *.aloyoga.ae
@@ -3854,8 +3854,8 @@ app.citushealth.ca
 pb.deribit.com
 test.deribit.com
 insights.deribit.com
-metrics.deribit.com
 tools.deribit.com
+metrics.deribit.com
 *.deribit.com
 *.deribit.com
 test.deribit.com
@@ -6482,8 +6482,8 @@ strapi.reddit.com
 m.reddit.com
 meta-api.reddit.com
 sh.reddit.com
-*.snooguts.net
 *.redditinc.com
+*.snooguts.net
 gateway.reddit.com
 s.reddit.com
 www.spiketrap.io
@@ -7328,8 +7328,8 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktok.com
 effecthouse.tiktok.com
-developers.tiktok.com
 shop.tiktok.com
+developers.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -9413,9 +9413,9 @@ https://github.com/matomo-org/docker
 py.pl
 www.swiftfinancial.com
 swiftfinancial.com
-*.braintree-api.com
 *.braintreepayments.com
 *.paylution.com
+*.braintree-api.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -10303,8 +10303,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 *.shopify.com
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
