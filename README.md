@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb  5 10:19:59 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb  5 10:44:39 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -80,10 +80,10 @@ mediacenter.23andme.com
 research.23andme.com
 education.23andme.com
 store.23andme.com
-auth.23andme.com
 blog.23andme.com
 api.23andme.com
 you.23andme.com
+auth.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -110,8 +110,8 @@ www.mercadolibre.com.co
 www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.br
-www.mercadopago.com.mx
 api.mercadolibre.com
+www.mercadopago.com.mx
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -336,9 +336,9 @@ www.visa.co.jp
 www.fraedom.com
 www.practicalmoneyskills.org
 www.practicalmoneyskills.com
-www.visainfinite.ca
 www.yellowpepper.com
 sandbox.secure.checkout.visa.com
+www.visainfinite.ca
 bb.visa.com
 www.visa.com.mx
 visa.com.ru
@@ -2167,8 +2167,8 @@ updates.amazon.com
 amazonpayinsurance.in
 *.tmall.com
 www.alibabagroup.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.1688.com
