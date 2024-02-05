@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb  5 15:44:10 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb  5 16:21:18 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -49,8 +49,8 @@ http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
-myaccount-hardening.dynatracelabs.com
 *.sprint.dynatracelabs.com
+myaccount-hardening.dynatracelabs.com
 university-staging.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
@@ -90,8 +90,8 @@ mediacenter.23andme.com
 research.23andme.com
 education.23andme.com
 store.23andme.com
-blog.23andme.com
 auth.23andme.com
+blog.23andme.com
 api.23andme.com
 you.23andme.com
 therapeutics.23andme.com
@@ -111,8 +111,8 @@ www.mercadolibre.com.pe
 www.mercadopago.com.uy
 www.mercadolibre.com.mx
 www.mercadolibre.com.uy
-www.mercadolivre.com.br
 www.mercadolibre.cl
+www.mercadolivre.com.br
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadopago.com.ar
@@ -313,8 +313,8 @@ docs.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
 sftp.gamma.redoxstage.com
-evening-earth.gamma.redoxstage.com
 explore.redoxengine.com
+evening-earth.gamma.redoxstage.com
 app.gamma.redoxstage.com
 10x.redoxengine.com
 testapp.redoxengine.com
@@ -1475,8 +1475,8 @@ sh.reddit.com
 gateway.reddit.com
 s.reddit.com
 www.spiketrap.io
-ads-api.reddit.com
 *.reddit.com
+ads-api.reddit.com
 *.redditblog.com
 amp.reddit.com
 reddit.secure.force.com
@@ -2474,9 +2474,9 @@ admin.rezserver.com
 www.getaroom.com
 priceline.com
 www.priceline.com
-secure.rezserver.com
 api.rezserver.com
 flyiin.com
+secure.rezserver.com
 cruises.priceline.com
 press.priceline.com
 www.priceline.com
@@ -2736,9 +2736,9 @@ https://github.com/matomo-org/docker
 py.pl
 www.swiftfinancial.com
 swiftfinancial.com
-*.braintreepayments.com
 *.braintree-api.com
 *.paylution.com
+*.braintreepayments.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -3253,9 +3253,9 @@ rockstarnorth.com
 circolocorecords.com/
 support.rockstargames.com
 store.rockstargames.com
-socialclub.rockstargames.com
 prod.ros.rockstargames.com
 lifeinvader.com
+socialclub.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
