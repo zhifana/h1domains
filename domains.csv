@@ -15,8 +15,8 @@ international_airlines_group,www.hangar51.com,False
 international_airlines_group,*.iairgroup.com,False
 international_airlines_group,*.iaggbs.com,False
 international_airlines_group,*.iagcargo.com,False
-international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
+international_airlines_group,www.avios.com,False
 international_airlines_group,www.iaggbs.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
@@ -148,8 +148,8 @@ mercadolibre,www.mercadopago.cl,True
 mercadolibre,www.mercadolibre.com.pe,True
 mercadolibre,www.mercadolibre.com.mx,True
 mercadolibre,www.mercadolibre.com.uy,True
-mercadolibre,www.mercadolivre.com.br,True
 mercadolibre,www.mercadolibre.cl,True
+mercadolibre,www.mercadolivre.com.br,True
 mercadolibre,www.mercadopago.com.co,True
 mercadolibre,www.mercadopago.com.pe,True
 mercadolibre,www.mercadopago.com.ar,True
@@ -1323,12 +1323,12 @@ alshaya,shayakahve.com.tr,False
 alshaya,*.alshayaenterprises.com,False
 alshaya,bathandbodyworks.ro/,False
 alshaya,bathandbodyworks.ro,False
-alshaya,kw.boots.com,False
+alshaya,*.starbuckscardtr.com,False
 alshaya,*.westelm.com.kw,False
+alshaya,*.footlocker.com.eg,False
 alshaya,*.aloyoga.com.kw,False
 alshaya,sa.hm.com,False
-alshaya,*.starbuckscardtr.com,False
-alshaya,*.footlocker.com.eg,False
+alshaya,kw.boots.com,False
 alshaya,*.americaneagle.com.bh,False
 alshaya,*.victoriassecret.com.qa,False
 alshaya,*.americaneagle.com.kw,False
@@ -1737,8 +1737,8 @@ visa,www.visa.co.jp,True
 visa,www.fraedom.com,True
 visa,www.practicalmoneyskills.org,True
 visa,sandbox.secure.checkout.visa.com,True
-visa,www.yellowpepper.com,True
 visa,www.visainfinite.ca,True
+visa,www.yellowpepper.com,True
 visa,www.practicalmoneyskills.com,True
 visa,www.visa.com.mx,True
 visa,visa.com.ru,True
@@ -3176,9 +3176,9 @@ abb,*.motors.abb.com.cn,False
 abb,*.abb.nl,False
 abb,*.abb.in,False
 abb,*.busch-jaeger.nl,False
-abb,*.de.abb.com,False
 abb,*.ability.abb,False
 abb,*.abb,False
+abb,*.de.abb.com,False
 abb,*.cirrus.abb.com,False
 abb,*.stratus.abb.com,False
 abb,*.motion.abb.com,False
@@ -9361,8 +9361,8 @@ hyatt,www.applevacations.com,True
 hyatt,res.hyattinclusivecollection.com,True
 hyatt,www.hyattinclusivecollection.com,True
 hyatt,booking.applevacations.com,True
-grammarly,*.grammarly.com,True
 grammarly,*.grammarlyaws.com,True
+grammarly,*.grammarly.com,True
 grammarly,*.grammarly.io,True
 grammarly,grammarly.ai,True
 grammarly,*.grammarly.io,True
@@ -9424,8 +9424,8 @@ paypal,*.xoom.com,True
 paypal,py.pl,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
-paypal,*.paylution.com,True
 paypal,*.braintree-api.com,True
+paypal,*.paylution.com,True
 paypal,*.braintreepayments.com,True
 paypal,paypal.me,True
 paypal,www.swiftcapital.com,True
@@ -10437,9 +10437,9 @@ adobe,*.adobeaemcloud.com,False
 adobe,community.adobe.com,False
 adobe,accounts.frame.io,False
 adobe,*.adobe.com,False
-adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,auth.services.adobe.com,False
 adobe,app.frame.io,False
+adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,*.marketo.com,False
 adobe,*.omniture.com,False
 adobe,*.typekit.com,False
