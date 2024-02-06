@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb  6 05:18:06 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb  6 05:41:21 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -346,8 +346,8 @@ www.visa.co.jp
 www.fraedom.com
 www.practicalmoneyskills.org
 sandbox.secure.checkout.visa.com
-www.yellowpepper.com
 www.visainfinite.ca
+www.yellowpepper.com
 www.practicalmoneyskills.com
 www.visa.com.mx
 visa.com.ru
@@ -1740,8 +1740,8 @@ creatormarketplace.tiktok.com
 *.tiktok.com
 careers.tiktok.com
 effecthouse.tiktok.com
-developers.tiktok.com
 shop.tiktok.com
+developers.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
