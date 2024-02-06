@@ -148,8 +148,8 @@ mercadolibre,www.mercadopago.cl,True
 mercadolibre,www.mercadolibre.com.pe,True
 mercadolibre,www.mercadolibre.com.mx,True
 mercadolibre,www.mercadolibre.com.uy,True
-mercadolibre,www.mercadolivre.com.br,True
 mercadolibre,www.mercadolibre.cl,True
+mercadolibre,www.mercadolivre.com.br,True
 mercadolibre,www.mercadopago.com.co,True
 mercadolibre,www.mercadopago.com.pe,True
 mercadolibre,www.mercadopago.com.ar,True
@@ -1737,8 +1737,8 @@ visa,www.visa.co.jp,True
 visa,www.fraedom.com,True
 visa,www.practicalmoneyskills.org,True
 visa,sandbox.secure.checkout.visa.com,True
-visa,www.visainfinite.ca,True
 visa,www.yellowpepper.com,True
+visa,www.visainfinite.ca,True
 visa,www.practicalmoneyskills.com,True
 visa,www.visa.com.mx,True
 visa,visa.com.ru,True
@@ -6353,10 +6353,10 @@ zebra_vdp,zsbsupport.zebra.com,False
 zebra_vdp,*.zams-eu.zebra.com,False
 zebra_vdp,reflexisinc.com/,False
 zebra_vdp,cmm01.sl.zebra.com,False
-zebra_vdp,*.profitect.com,False
 zebra_vdp,*.zebrasports.com,False
-zebra_vdp,supportcommunity.zebra.com,False
+zebra_vdp,*.profitect.com,False
 zebra_vdp,*.zams.zebra.com,False
+zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -7344,8 +7344,8 @@ tiktok,*.tiktokv.com,True
 tiktok,*.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
-tiktok,shop.tiktok.com,True
 tiktok,developers.tiktok.com,True
+tiktok,shop.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -9681,7 +9681,6 @@ newrelic,alerts.newrelic.com,True
 newrelic,synthetics.eu.newrelic.com,True
 newrelic,discuss.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
-newrelic,login.newrelic.com,True
 newrelic,alerts.eu.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
