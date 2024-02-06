@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb  6 14:18:57 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb  6 14:41:39 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -2184,9 +2184,9 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.aliexpress.com
-*.aliyun.com
 *.1688.com
 *.Daraz.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
