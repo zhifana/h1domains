@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb  6 20:20:11 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb  6 20:42:42 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -107,8 +107,8 @@ therapeutics.23andme.com
 you.23andme.com
 research.23andme.com
 www.mercadopago.com.uy
-www.mercadopago.cl
 www.mercadolibre.com.pe
+www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadolibre.com.uy
 www.mercadolivre.com.br
@@ -2736,8 +2736,8 @@ https://github.com/matomo-org/docker
 py.pl
 www.swiftfinancial.com
 swiftfinancial.com
-*.braintree-api.com
 *.paylution.com
+*.braintree-api.com
 *.braintreepayments.com
 paypal.me
 www.swiftcapital.com
@@ -3525,9 +3525,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

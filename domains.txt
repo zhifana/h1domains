@@ -34,8 +34,8 @@ www.tarilabs.com
 tlu.tarilabs.com
 *.iaggbs.com
 *.iagcargo.com
-www.hangar51.com
 *.iairgroup.com
+www.hangar51.com
 www.avios.com
 www.iairgroup.com
 www.iaggbs.com
@@ -165,8 +165,8 @@ therapeutics.23andme.com
 you.23andme.com
 research.23andme.com
 www.mercadopago.com.uy
-www.mercadopago.cl
 www.mercadolibre.com.pe
+www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadolibre.com.uy
 www.mercadolivre.com.br
@@ -4482,8 +4482,8 @@ banfieldexchange.com
 banfieldfoundation.org
 *.vcahospitals.com
 *.royalcanin.ca
-spsah2.securevetsource.com
 *.mms.com
+spsah2.securevetsource.com
 *.marschocolate.com
 *.dovechocolate.com
 *.royal-canin.com
@@ -9363,8 +9363,8 @@ https://github.com/matomo-org/docker
 py.pl
 www.swiftfinancial.com
 swiftfinancial.com
-*.braintree-api.com
 *.paylution.com
+*.braintree-api.com
 *.braintreepayments.com
 paypal.me
 www.swiftcapital.com
@@ -10251,9 +10251,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
