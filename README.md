@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb  6 15:21:46 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb  6 15:45:40 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
 rfc.tari.com
-www.tarilabs.com
 textexplore.tari.com
+www.tarilabs.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -1472,11 +1472,11 @@ meta-api.reddit.com
 sh.reddit.com
 *.snooguts.net
 *.redditinc.com
-gateway.reddit.com
 s.reddit.com
 www.spiketrap.io
 *.reddit.com
 ads-api.reddit.com
+gateway.reddit.com
 *.redditblog.com
 amp.reddit.com
 reddit.secure.force.com
@@ -2177,16 +2177,16 @@ updates.amazon.com
 amazonpayinsurance.in
 *.tmall.com
 www.alibabagroup.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
 *.aliexpress.com
 *.1688.com
-*.Daraz.com
 *.aliyun.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2736,8 +2736,8 @@ https://github.com/matomo-org/docker
 py.pl
 www.swiftfinancial.com
 swiftfinancial.com
-*.braintree-api.com
 *.paylution.com
+*.braintree-api.com
 *.braintreepayments.com
 paypal.me
 www.swiftcapital.com
