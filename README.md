@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb  6 17:44:39 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb  6 18:23:11 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -92,8 +92,8 @@ store.23andme.com
 education.23andme.com
 api.23andme.com
 you.23andme.com
-blog.23andme.com
 auth.23andme.com
+blog.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -488,10 +488,10 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
+firefox.settings.services.mozilla.com
 merino.services.mozilla.com
 push.services.mozilla.com
 sync.services.mozilla.com
@@ -1470,8 +1470,8 @@ strapi.reddit.com
 m.reddit.com
 meta-api.reddit.com
 sh.reddit.com
-*.snooguts.net
 *.redditinc.com
+*.snooguts.net
 s.reddit.com
 www.spiketrap.io
 ads-api.reddit.com
@@ -2736,8 +2736,8 @@ https://github.com/matomo-org/docker
 py.pl
 www.swiftfinancial.com
 swiftfinancial.com
-*.paylution.com
 *.braintree-api.com
+*.paylution.com
 *.braintreepayments.com
 paypal.me
 www.swiftcapital.com
@@ -3211,8 +3211,8 @@ planet.wordpress.org
 bbpress.org
 profiles.wordpress.org
 wordpressfoundation.org
-*.wordcamp.org
 lists.wordpress.org
+*.wordcamp.org
 api.wordpress.org
 irclogs.wordpress.org
 *.wordpress.net
