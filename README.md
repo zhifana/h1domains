@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb  6 16:26:05 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb  6 16:44:36 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -148,9 +148,9 @@ careers.booking.com
 supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
-*.booking.com
 admin.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -1474,9 +1474,9 @@ sh.reddit.com
 *.redditinc.com
 s.reddit.com
 www.spiketrap.io
-*.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
+*.reddit.com
 *.redditblog.com
 amp.reddit.com
 reddit.secure.force.com
@@ -2185,8 +2185,8 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.com
 *.1688.com
-*.aliyun.com
 *.Daraz.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com

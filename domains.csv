@@ -34,8 +34,8 @@ tari_labs,www.tari.com,True
 tari_labs,www.tarilabs.com,True
 tari_labs,tlu.tarilabs.com,False
 international_airlines_group,*.iaggbs.com,False
-international_airlines_group,www.hangar51.com,False
 international_airlines_group,*.iagcargo.com,False
+international_airlines_group,www.hangar51.com,False
 international_airlines_group,*.iairgroup.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
@@ -207,9 +207,9 @@ bookingcom,careers.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,flights.booking.com,True
-bookingcom,*.booking.com,True
 bookingcom,admin.booking.com,True
 bookingcom,booking.com,True
+bookingcom,*.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,taxis.booking.com,True
 bookingcom,phone-validation.taxi.booking.com,True
@@ -1658,9 +1658,9 @@ nba-vdp,cdn.nba.com,False
 nba-vdp,stats-trafficcop-prod.nba.com,False
 nba-vdp,2kleague.nba.com,False
 nba-vdp,content-api-prod.nba.com,False
-nba-vdp,gleague.nba.com,False
 nba-vdp,identity.nba.com,False
 nba-vdp,teamportal.nba.com,False
+nba-vdp,gleague.nba.com,False
 nba-vdp,core-api.nba.com,False
 nba-vdp,wnba.com,False
 nba-vdp,nba.com,False
@@ -4626,10 +4626,10 @@ planetart,www.canvasworld.com,False
 planetart,*.gifts.com,False
 planetart,*.photoaffections.com,False
 planetart,www.gifts.com,False
-planetart,*.personalcreations.com,False
 planetart,*.iseeme.com,False
 planetart,*.canvasworld.com,False
 planetart,*.cafepress.com,False
+planetart,*.personalcreations.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -6298,9 +6298,9 @@ zebra_vdp,*.zams-eu.zebra.com,False
 zebra_vdp,reflexisinc.com/,False
 zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,*.zebrasports.com,False
-zebra_vdp,*.profitect.com,False
 zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,*.zams.zebra.com,False
+zebra_vdp,*.profitect.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -6446,9 +6446,9 @@ reddit,*.snooguts.net,True
 reddit,*.redditinc.com,True
 reddit,s.reddit.com,True
 reddit,www.spiketrap.io,True
-reddit,*.reddit.com,True
 reddit,ads-api.reddit.com,True
 reddit,gateway.reddit.com,True
+reddit,*.reddit.com,True
 reddit,*.redditblog.com,True
 reddit,amp.reddit.com,True
 reddit,reddit.secure.force.com,True
@@ -7894,8 +7894,8 @@ alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
 alibaba,*.aliexpress.com,True
 alibaba,*.1688.com,True
-alibaba,*.aliyun.com,True
 alibaba,*.Daraz.com,True
+alibaba,*.aliyun.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True

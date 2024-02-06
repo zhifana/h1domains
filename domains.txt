@@ -33,8 +33,8 @@ www.tari.com
 www.tarilabs.com
 tlu.tarilabs.com
 *.iaggbs.com
-www.hangar51.com
 *.iagcargo.com
+www.hangar51.com
 *.iairgroup.com
 www.avios.com
 www.iairgroup.com
@@ -206,9 +206,9 @@ careers.booking.com
 supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
-*.booking.com
 admin.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -1657,9 +1657,9 @@ cdn.nba.com
 stats-trafficcop-prod.nba.com
 2kleague.nba.com
 content-api-prod.nba.com
-gleague.nba.com
 identity.nba.com
 teamportal.nba.com
+gleague.nba.com
 core-api.nba.com
 wnba.com
 nba.com
@@ -4625,10 +4625,10 @@ www.canvasworld.com
 *.gifts.com
 *.photoaffections.com
 www.gifts.com
-*.personalcreations.com
 *.iseeme.com
 *.canvasworld.com
 *.cafepress.com
+*.personalcreations.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -6297,9 +6297,9 @@ zsbsupport.zebra.com
 reflexisinc.com/
 cmm01.sl.zebra.com
 *.zebrasports.com
-*.profitect.com
 supportcommunity.zebra.com
 *.zams.zebra.com
+*.profitect.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -6445,9 +6445,9 @@ sh.reddit.com
 *.redditinc.com
 s.reddit.com
 www.spiketrap.io
-*.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
+*.reddit.com
 *.redditblog.com
 amp.reddit.com
 reddit.secure.force.com
@@ -7893,8 +7893,8 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.com
 *.1688.com
-*.aliyun.com
 *.Daraz.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
