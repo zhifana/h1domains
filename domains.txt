@@ -4458,8 +4458,8 @@ practice.securevetsource.com
 *.royalcanin.nl
 *.myroyalcanin.gr
 *.banfield.com
-*.royalcanin.pt
 *.royalcanin.be
+*.royalcanin.pt
 *.orbitgum.com
 *.jornadasroyalcanin.com.ar
 *.monespaceeleveur.fr
@@ -9363,8 +9363,8 @@ https://github.com/matomo-org/docker
 py.pl
 www.swiftfinancial.com
 swiftfinancial.com
-*.braintree-api.com
 *.paylution.com
+*.braintree-api.com
 *.braintreepayments.com
 paypal.me
 www.swiftcapital.com
@@ -10741,8 +10741,8 @@ hackathon-photos.hackerone-user-content.com
 ctf.hacker101.com
 hackerone-ext-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-profile-photos.hackerone-user-content.com
 www.hackerone.com
+profile-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 errors.hackerone.net
 b5s.hackerone-ext-content.com
