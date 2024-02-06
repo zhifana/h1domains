@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb  6 21:42:54 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb  6 22:15:59 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -2306,8 +2306,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
