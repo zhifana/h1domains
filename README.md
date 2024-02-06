@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb  6 07:41:48 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb  6 08:21:47 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -598,8 +598,8 @@ ci.indrive.dev
 priority.eu-east-1.indriverapp.com
 auth2.indrive.tech
 debug.clairvoyance.indrive.tech
-watchdocs.indriverapp.com
 *.indriverapp.com
+watchdocs.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 wga.volans.tech
 super-services.indriverapp.com
@@ -1737,11 +1737,11 @@ academy-outbound-ads.tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 careers.tiktok.com
+*.tiktok.com
 effecthouse.tiktok.com
-shop.tiktok.com
 developers.tiktok.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -3733,8 +3733,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com
