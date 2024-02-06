@@ -3,8 +3,8 @@ tari_labs,tlu.tarilabs.com,False
 tari_labs,explore.tari.com,True
 tari_labs,www.tari.com,True
 tari_labs,rfc.tari.com,True
-tari_labs,textexplore.tari.com,True
 tari_labs,www.tarilabs.com,True
+tari_labs,textexplore.tari.com,True
 tari_labs,explore.tari.com,True
 tari_labs,rfc.tari.com,True
 tari_labs,textexplore.tari.com,True
@@ -148,8 +148,8 @@ mercadolibre,www.mercadopago.cl,True
 mercadolibre,www.mercadolibre.com.pe,True
 mercadolibre,www.mercadolibre.com.mx,True
 mercadolibre,www.mercadolibre.com.uy,True
-mercadolibre,www.mercadolibre.cl,True
 mercadolibre,www.mercadolivre.com.br,True
+mercadolibre,www.mercadolibre.cl,True
 mercadolibre,www.mercadopago.com.co,True
 mercadolibre,www.mercadopago.com.pe,True
 mercadolibre,www.mercadopago.com.ar,True
@@ -6353,8 +6353,8 @@ zebra_vdp,zsbsupport.zebra.com,False
 zebra_vdp,*.zams-eu.zebra.com,False
 zebra_vdp,reflexisinc.com/,False
 zebra_vdp,cmm01.sl.zebra.com,False
-zebra_vdp,*.zebrasports.com,False
 zebra_vdp,*.profitect.com,False
+zebra_vdp,*.zebrasports.com,False
 zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
@@ -8411,7 +8411,6 @@ palo_alto_software,app.liveplan.com,False
 palo_alto_software,www.paloalto.com,False
 palo_alto_software,www.liveplan.com,False
 palo_alto_software,www.bplans.com,False
-mtn_group,mtnselfcare.co.zm,False
 mtn_group,wc.mtn.com,False
 mtn_group,mtnrewards.com,False
 mtn_group,mtncareersonline.com,False
@@ -9362,8 +9361,8 @@ hyatt,www.applevacations.com,True
 hyatt,res.hyattinclusivecollection.com,True
 hyatt,www.hyattinclusivecollection.com,True
 hyatt,booking.applevacations.com,True
-grammarly,*.grammarlyaws.com,True
 grammarly,*.grammarly.com,True
+grammarly,*.grammarlyaws.com,True
 grammarly,*.grammarly.io,True
 grammarly,grammarly.ai,True
 grammarly,*.grammarly.io,True
@@ -9425,8 +9424,8 @@ paypal,*.xoom.com,True
 paypal,py.pl,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
-paypal,*.braintree-api.com,True
 paypal,*.paylution.com,True
+paypal,*.braintree-api.com,True
 paypal,*.braintreepayments.com,True
 paypal,paypal.me,True
 paypal,www.swiftcapital.com,True
