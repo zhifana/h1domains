@@ -10,10 +10,10 @@ textexplore.tari.com
 www.tari.com
 www.tarilabs.com
 tlu.tarilabs.com
-www.hangar51.com
 *.iairgroup.com
 *.iaggbs.com
 *.iagcargo.com
+www.hangar51.com
 www.iairgroup.com
 www.avios.com
 www.iaggbs.com
@@ -126,8 +126,8 @@ mediacenter.23andme.com
 research.23andme.com
 education.23andme.com
 store.23andme.com
-blog.23andme.com
 auth.23andme.com
+blog.23andme.com
 api.23andme.com
 you.23andme.com
 therapeutics.23andme.com
@@ -1736,8 +1736,8 @@ www.visa.co.jp
 www.fraedom.com
 www.practicalmoneyskills.org
 sandbox.secure.checkout.visa.com
-www.visainfinite.ca
 www.yellowpepper.com
+www.visainfinite.ca
 www.practicalmoneyskills.com
 www.visa.com.mx
 visa.com.ru
@@ -7801,11 +7801,11 @@ portal.polygon.technology
 super6.skysports.com
 itv7.itv.com
 eu-prod.omnipodcloud.com
-insuletid.com
 prod.omnipodcloud.com
 prod-device.omnipodcloud.com
 eu-prod-internal.omnipodapps.com
 eu-prod-device.omnipodcloud.com
+insuletid.com
 eu-prod.omnipodapps.com
 aprms.insulet.com
 www.omnipod.com
