@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb  6 00:58:08 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb  6 01:49:41 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -90,8 +90,8 @@ mediacenter.23andme.com
 research.23andme.com
 education.23andme.com
 store.23andme.com
-auth.23andme.com
 blog.23andme.com
+auth.23andme.com
 api.23andme.com
 you.23andme.com
 therapeutics.23andme.com
@@ -837,9 +837,9 @@ www.lastminute.co.nz
 www.lastminute.com.au
 www.travelocity.ca
 www.carrentals.com
-www.bookabach.co.nz
 www.fewo-direkt.de
 www.expedia.com
+www.bookabach.co.nz
 www.expediapartnercentral.com
 www.ebookers.fi
 www.wotif.com
@@ -1463,8 +1463,8 @@ old.reddit.com
 gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
-ads.reddit.com
 api.reddit.com
+ads.reddit.com
 new.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -2736,8 +2736,8 @@ https://github.com/matomo-org/docker
 py.pl
 www.swiftfinancial.com
 swiftfinancial.com
-*.paylution.com
 *.braintree-api.com
+*.paylution.com
 *.braintreepayments.com
 paypal.me
 www.swiftcapital.com
