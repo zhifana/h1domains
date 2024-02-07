@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb  7 18:40:48 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb  7 19:17:56 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -166,9 +166,9 @@ paymentcomponent.booking.com
 widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
-cars.booking.com
 account.booking.com
 secure.booking.com
+cars.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -1620,8 +1620,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-www.yotisign.com
 api.yoti.com
+www.yotisign.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1728,8 +1728,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-partner.tiktokshop.com
 tiktok.com
+partner.tiktokshop.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com

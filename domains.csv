@@ -33,9 +33,9 @@ tari_labs,textexplore.tari.com,True
 tari_labs,www.tari.com,True
 tari_labs,www.tarilabs.com,True
 tari_labs,tlu.tarilabs.com,False
-international_airlines_group,*.iagcargo.com,False
 international_airlines_group,www.hangar51.com,False
 international_airlines_group,*.iaggbs.com,False
+international_airlines_group,*.iagcargo.com,False
 international_airlines_group,*.iairgroup.com,False
 international_airlines_group,www.iairgroup.com,False
 international_airlines_group,www.avios.com,False
@@ -225,9 +225,9 @@ bookingcom,paymentcomponent.booking.com,True
 bookingcom,widget.rentalcars.com,True
 bookingcom,webhooks.booking.com,True
 bookingcom,paybridge.booking.com,True
-bookingcom,cars.booking.com,True
 bookingcom,account.booking.com,True
 bookingcom,secure.booking.com,True
+bookingcom,cars.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
@@ -7166,8 +7166,8 @@ exodus,*.a.exodus.io,True
 exodus,*.exodus.io,True
 exodus,*.a.exodus.io,True
 exodus,*.exodus.com,True
-yoti,www.yotisign.com,True
 yoti,api.yoti.com,True
+yoti,www.yotisign.com,True
 yoti,core.yoti.com,True
 yoti,ccloud.yoti.com,True
 yoti,code.yoti.com,True
@@ -7276,8 +7276,8 @@ citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
-tiktok,partner.tiktokshop.com,True
 tiktok,tiktok.com,True
+tiktok,partner.tiktokshop.com,True
 tiktok,fp-sg.tiktokv.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
