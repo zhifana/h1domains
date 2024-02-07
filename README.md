@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb  7 21:42:09 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb  7 22:18:15 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -120,8 +120,8 @@ api.mercadopago.com
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
 www.mercadopago.com.mx
-api.mercadolibre.com
 www.mercadopago.com.br
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -3297,8 +3297,8 @@ card.starbucks.com.sg
 www.starbucks.de
 secureui.starbucks.com
 app.starbucks.com
-www.starbucks.com
 www.starbucks.com.sg
+www.starbucks.com
 login.starbucks.co.jp
 www.starbucks.co.jp
 www.starbucks.com.cn
@@ -3526,8 +3526,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

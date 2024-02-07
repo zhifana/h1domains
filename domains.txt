@@ -178,8 +178,8 @@ api.mercadopago.com
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
 www.mercadopago.com.mx
-api.mercadolibre.com
 www.mercadopago.com.br
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -5965,6 +5965,9 @@ solutionviewer.deere.com
 jdonline.deere.com
 casemanagement-financeconnect.deere.com
 atlantis.spark.ai
+local-auth.spark.ai
+redirect.spark.ai
+v1docs.spark.ai
 anubhutiapi.deere.com
 equipment.deere.com
 contest.deere.com
@@ -9980,8 +9983,8 @@ card.starbucks.com.sg
 www.starbucks.de
 secureui.starbucks.com
 app.starbucks.com
-www.starbucks.com
 www.starbucks.com.sg
+www.starbucks.com
 login.starbucks.co.jp
 www.starbucks.co.jp
 www.starbucks.com.cn
@@ -10255,8 +10258,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
