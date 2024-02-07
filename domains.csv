@@ -1247,9 +1247,9 @@ nicehash,https://api-test.nicex.com,True
 nicehash,https://api-test.nicehash.com,True
 nicehash,test.nicex.com,True
 particle-health-vdp,portal.particlehealth.com,False
-particle-health-vdp,api.particlehealth.com,False
 particle-health-vdp,carequality.particlehealth.com,False
 particle-health-vdp,partner.particlehealth.com,False
+particle-health-vdp,api.particlehealth.com,False
 particle-health-vdp,management.particlehealth.com,False
 particle-health-vdp,sandbox.particlehealth.com,False
 particle-health-vdp,admin.particlehealth.com,False
@@ -4614,8 +4614,8 @@ fidelity,*.mystreetscape.com,False
 fidelity,*.wealthscape.com,False
 fidelity,*.fidelity.com,False
 planetart,ai.planetart.com,False
-planetart,www.mycustomcase.com,False
 planetart,www.personalcreations.com,False
+planetart,www.mycustomcase.com,False
 planetart,www.photoaffections.com,False
 planetart,*.simplytoimpress.com,False
 planetart,*.mycustomcase.com,False
@@ -8037,8 +8037,8 @@ kindred_group,www.32red.com,True
 kindred_group,relaxcdn.unibet.com,False
 marriott,sso.marriott.com,True
 marriott,gatewaydsaptst2.marriott.com,True
-marriott,www.marriott.com,True
 marriott,mgs.marriott.com,True
+marriott,www.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
 marriott,activities.marriott.com,True

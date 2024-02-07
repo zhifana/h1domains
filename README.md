@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb  7 10:19:31 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb  7 10:41:13 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -2262,8 +2262,8 @@ maria.casino
 www.32red.com
 sso.marriott.com
 gatewaydsaptst2.marriott.com
-www.marriott.com
 mgs.marriott.com
+www.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 activities.marriott.com
