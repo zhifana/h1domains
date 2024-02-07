@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb  7 06:41:38 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb  7 07:18:55 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -94,8 +94,8 @@ api.23andme.com
 auth.23andme.com
 blog.23andme.com
 you.23andme.com
-therapeutics.23andme.com
 medical.23andme.com
+therapeutics.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -1484,9 +1484,9 @@ redditforbusiness.com
 mod.reddit.com
 matrix.redditspace.com
 *.reddithelp.com
+www.reddit.com
 oauth.reddit.com
 accounts.reddit.com
-www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1838,6 +1838,7 @@ app.marionnaud.ro
 www.marionnaud.sk
 www.pns.hk
 app.watsons.com.tr
+api.watsons.com.tw
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
