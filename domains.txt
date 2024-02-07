@@ -3521,8 +3521,8 @@ www.expediapartnercentral.com
 www.ebookers.fi
 www.wotif.com
 www.expediacruises.com
-www.stayz.com.au
 www.hotwire.com
+www.stayz.com.au
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -4458,8 +4458,8 @@ practice.securevetsource.com
 *.royalcanin.nl
 *.myroyalcanin.gr
 *.banfield.com
-*.royalcanin.be
 *.royalcanin.pt
+*.royalcanin.be
 *.orbitgum.com
 *.jornadasroyalcanin.com.ar
 *.monespaceeleveur.fr
@@ -6453,9 +6453,9 @@ redditforbusiness.com
 mod.reddit.com
 matrix.redditspace.com
 *.reddithelp.com
+www.reddit.com
 oauth.reddit.com
 accounts.reddit.com
-www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -9363,8 +9363,8 @@ https://github.com/matomo-org/docker
 py.pl
 www.swiftfinancial.com
 swiftfinancial.com
-*.paylution.com
 *.braintree-api.com
+*.paylution.com
 *.braintreepayments.com
 paypal.me
 www.swiftcapital.com
@@ -10741,8 +10741,8 @@ hackathon-photos.hackerone-user-content.com
 ctf.hacker101.com
 hackerone-ext-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-www.hackerone.com
 profile-photos.hackerone-user-content.com
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 hackerone.live
