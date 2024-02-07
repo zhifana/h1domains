@@ -36,8 +36,8 @@ tlu.tarilabs.com
 www.hangar51.com
 *.iaggbs.com
 *.iairgroup.com
-www.avios.com
 www.iairgroup.com
+www.avios.com
 www.iaggbs.com
 www.avios.com
 www.iairgroup.com
@@ -4456,10 +4456,10 @@ practice.securevetsource.com
 *.miroyalcanin.com.ar
 *.twix.com
 *.royalcanin.nl
-*.myroyalcanin.gr
 *.royalcanin.be
 *.royalcanin.pt
 *.banfield.com
+*.myroyalcanin.gr
 *.orbitgum.com
 *.jornadasroyalcanin.com.ar
 *.monespaceeleveur.fr
@@ -7951,8 +7951,8 @@ cloud.digitalocean.com
 marketplace.digitalocean.com
 api.cloudways.com
 169.254.169.254
-*.digitalocean.com
 api.digitalocean.com
+*.digitalocean.com
 www.cloudways.com
 do.co
 hacktoberfest.com
@@ -10273,8 +10273,8 @@ businesshelp.snapchat.com
 msg.playcanvas.com
 create.snapchat.com
 ads.snapchat.com
-forum.playcanvas.com
 accounts.snapchat.com
+forum.playcanvas.com
 scan.snapchat.com
 code.playcanvas.com
 login.playcanvas.com
@@ -10490,13 +10490,13 @@ support-api.airbnb.com
 omgpro.airbnb.com
 *.atairbnb.com
 one.airbnb.com
-*.withairbnb.com
 next.airbnb.com
+*.withairbnb.com
 *.airbnbcitizen.com
 *.byairbnb.com
-www.hoteltonight.com
 *.muscache.com
 *.hoteltonight-test.com
+www.hoteltonight.com
 *.airbnb.com
 api.airbnb.com
 assets.airbnb.com

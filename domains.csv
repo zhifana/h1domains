@@ -37,8 +37,8 @@ international_airlines_group,*.iagcargo.com,False
 international_airlines_group,www.hangar51.com,False
 international_airlines_group,*.iaggbs.com,False
 international_airlines_group,*.iairgroup.com,False
-international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
+international_airlines_group,www.avios.com,False
 international_airlines_group,www.iaggbs.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
@@ -4457,10 +4457,10 @@ mars,practice.securevetsource.com,False
 mars,*.miroyalcanin.com.ar,False
 mars,*.twix.com,False
 mars,*.royalcanin.nl,False
-mars,*.myroyalcanin.gr,False
 mars,*.royalcanin.be,False
 mars,*.royalcanin.pt,False
 mars,*.banfield.com,False
+mars,*.myroyalcanin.gr,False
 mars,*.orbitgum.com,False
 mars,*.jornadasroyalcanin.com.ar,False
 mars,*.monespaceeleveur.fr,False
@@ -7952,8 +7952,8 @@ digitalocean,cloud.digitalocean.com,False
 digitalocean,marketplace.digitalocean.com,False
 digitalocean,api.cloudways.com,False
 digitalocean,169.254.169.254,False
-digitalocean,*.digitalocean.com,False
 digitalocean,api.digitalocean.com,False
+digitalocean,*.digitalocean.com,False
 digitalocean,www.cloudways.com,False
 digitalocean,do.co,False
 digitalocean,hacktoberfest.com,False
@@ -10274,8 +10274,8 @@ snapchat,businesshelp.snapchat.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,create.snapchat.com,True
 snapchat,ads.snapchat.com,True
-snapchat,forum.playcanvas.com,True
 snapchat,accounts.snapchat.com,True
+snapchat,forum.playcanvas.com,True
 snapchat,scan.snapchat.com,True
 snapchat,code.playcanvas.com,True
 snapchat,login.playcanvas.com,True
@@ -10491,13 +10491,13 @@ airbnb,support-api.airbnb.com,True
 airbnb,omgpro.airbnb.com,True
 airbnb,*.atairbnb.com,True
 airbnb,one.airbnb.com,True
-airbnb,*.withairbnb.com,True
 airbnb,next.airbnb.com,True
+airbnb,*.withairbnb.com,True
 airbnb,*.airbnbcitizen.com,True
 airbnb,*.byairbnb.com,True
-airbnb,www.hoteltonight.com,True
 airbnb,*.muscache.com,True
 airbnb,*.hoteltonight-test.com,True
+airbnb,www.hoteltonight.com,True
 airbnb,*.airbnb.com,True
 airbnb,api.airbnb.com,True
 airbnb,assets.airbnb.com,True

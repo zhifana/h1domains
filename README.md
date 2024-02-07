@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb  7 17:44:53 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb  7 18:21:56 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -3545,8 +3545,8 @@ businesshelp.snapchat.com
 msg.playcanvas.com
 create.snapchat.com
 ads.snapchat.com
-forum.playcanvas.com
 accounts.snapchat.com
+forum.playcanvas.com
 scan.snapchat.com
 code.playcanvas.com
 login.playcanvas.com
@@ -3644,13 +3644,13 @@ support-api.airbnb.com
 omgpro.airbnb.com
 *.atairbnb.com
 one.airbnb.com
-*.withairbnb.com
 next.airbnb.com
+*.withairbnb.com
 *.airbnbcitizen.com
 *.byairbnb.com
-www.hoteltonight.com
 *.muscache.com
 *.hoteltonight-test.com
+www.hoteltonight.com
 *.airbnb.com
 api.airbnb.com
 assets.airbnb.com
