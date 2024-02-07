@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb  7 10:41:13 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb  7 11:17:48 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -3546,8 +3546,8 @@ businesshelp.snapchat.com
 msg.playcanvas.com
 create.snapchat.com
 ads.snapchat.com
-forum.playcanvas.com
 accounts.snapchat.com
+forum.playcanvas.com
 scan.snapchat.com
 code.playcanvas.com
 login.playcanvas.com
