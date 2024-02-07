@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb  7 09:42:51 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb  7 10:19:31 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -211,8 +211,8 @@ app.frontapp.com
 api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -766,8 +766,8 @@ admin.8x8.com
 *.luckydays.ca
 *.superbet.pl
 *.spinaway.com
-*.superbet.rs
 *.napoleonsports.be
+*.superbet.rs
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
