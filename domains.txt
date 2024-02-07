@@ -4877,8 +4877,8 @@ www.alohi.com
 *.cartus.com
 *.leadrouter.com
 *.bhgre.*
-*.era.com
 *.century21.*
+*.era.com
 *.corcoran.*
 *.nrtllc.*
 *.sothebysrealty.*
