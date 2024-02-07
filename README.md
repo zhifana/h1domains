@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb  7 15:49:00 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb  7 16:28:56 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -91,8 +91,8 @@ research.23andme.com
 store.23andme.com
 education.23andme.com
 api.23andme.com
-blog.23andme.com
 you.23andme.com
+blog.23andme.com
 auth.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
@@ -1126,9 +1126,9 @@ watchlistapi.etoro.com
 rankings.etoro.com
 delta.app
 bullsheet.me
-*.instacart.tools
 api.instacart.com
 www.instacart.com
+*.instacart.tools
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.com
@@ -1485,8 +1485,8 @@ mod.reddit.com
 matrix.redditspace.com
 *.reddithelp.com
 accounts.reddit.com
-www.reddit.com
 oauth.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -3520,8 +3520,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 linkpop.com
-*.shopifycloud.com
 shop.app
+*.shopifycloud.com
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
@@ -3849,8 +3849,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
