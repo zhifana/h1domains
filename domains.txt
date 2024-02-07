@@ -207,8 +207,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 admin.booking.com
-booking.com
 *.booking.com
+booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -6297,8 +6297,8 @@ cmm01.sl.zebra.com
 *.zebrasports.com
 supportcommunity.zebra.com
 *.zams.zebra.com
-*.profitect.com
 reflexisinc.com/
+*.profitect.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -7951,8 +7951,8 @@ cloud.digitalocean.com
 marketplace.digitalocean.com
 api.cloudways.com
 169.254.169.254
-api.digitalocean.com
 *.digitalocean.com
+api.digitalocean.com
 www.cloudways.com
 do.co
 hacktoberfest.com
@@ -9049,8 +9049,8 @@ reservations.rezserver.com
 www.bookingholdings.com
 admin.rezserver.com
 www.getaroom.com
-priceline.com
 www.priceline.com
+priceline.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
