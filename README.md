@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb  7 22:18:15 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb  7 22:42:42 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -1545,8 +1545,8 @@ wp-qa.chime.com
 *.chmfin.com
 wp-dev5.chime.com
 app.chime.com
-wp-dev2.chime.com
 *.1debit.com
+wp-dev2.chime.com
 wp-ci.chime.com
 *.1debit.com
 *.chimebank.com
