@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb  7 02:21:59 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb  7 02:41:27 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -1484,9 +1484,9 @@ redditforbusiness.com
 mod.reddit.com
 matrix.redditspace.com
 *.reddithelp.com
+www.reddit.com
 oauth.reddit.com
 accounts.reddit.com
-www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2736,8 +2736,8 @@ https://github.com/matomo-org/docker
 py.pl
 www.swiftfinancial.com
 swiftfinancial.com
-*.paylution.com
 *.braintree-api.com
+*.paylution.com
 *.braintreepayments.com
 paypal.me
 www.swiftcapital.com
