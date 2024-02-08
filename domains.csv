@@ -80,8 +80,8 @@ sheer_bbp,www.sheer.com,True
 sheer_bbp,www.sheer.com,True
 sheer_bbp,my.sheer.com,True
 pornbox,www.analvids.com,True
-pornbox,www.ddfcontent.com,True
 pornbox,www.pornbox.com,True
+pornbox,www.ddfcontent.com,True
 pornbox,www.pornworld.com,True
 pornbox,www.pornbox.com,True
 pornbox,www.analvids.com,True
@@ -1920,6 +1920,7 @@ truist_financial,https://www.truist.com,False
 truist_financial,https://developer.truist.com/,False
 truist_financial,https://dias.oneview.truist.com/,False
 truist_financial,https://dias.bank.truist.com/,False
+truist_financial,https://deposits.digitalcommerce.truist.com/,False
 clarivate,cpaglobal.ru,False
 clarivate,compumark.blog,False
 clarivate,compumark.cf,False
@@ -10249,16 +10250,16 @@ udemy,www.udemy.com,True
 udemy,yourcompany.udemy.com,True
 shopify,arrive-server.shopifycloud.com,True
 shopify,your-store.myshopify.com,True
-shopify,linkpop.com,True
 shopify,*.shopifycloud.com,True
 shopify,shop.app,True
+shopify,linkpop.com,True
 shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
