@@ -1760,8 +1760,8 @@ visa,www.fraedom.com,True
 visa,www.practicalmoneyskills.org,True
 visa,www.yellowpepper.com,True
 visa,www.practicalmoneyskills.com,True
-visa,www.visainfinite.ca,True
 visa,sandbox.secure.checkout.visa.com,True
+visa,www.visainfinite.ca,True
 visa,www.visa.com.mx,True
 visa,visa.com.ru,True
 visa,www.visa.com.cy,True
@@ -3113,8 +3113,8 @@ indrive,*.indriverapp.com,True
 indrive,file-storage-front.eu-east-1.indriverapp.com,True
 indrive,wga.volans.tech,True
 indrive,super-services.indriverapp.com,True
-indrive,injob.indriver.com,True
 indrive,volans.tech,True
+indrive,injob.indriver.com,True
 indrive,*.indriverapp.com,True
 indrive,*.indrive.com,True
 indrive,*.indriver.com,True
@@ -6302,8 +6302,8 @@ zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,*.zebrasports.com,False
 zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,*.zams.zebra.com,False
-zebra_vdp,reflexisinc.com/,False
 zebra_vdp,*.profitect.com,False
+zebra_vdp,reflexisinc.com/,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -10735,8 +10735,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,hackerone.com,True
 security,api.hackerone.com,True
+security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
