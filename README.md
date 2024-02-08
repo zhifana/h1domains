@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb  8 04:41:23 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb  8 05:19:58 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -1783,8 +1783,8 @@ platform.enjin.io
 nft.io
 nft.io
 platform.enjin.io
-api.figma.com
 www.figma.com
+api.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -2184,8 +2184,8 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.aliyun.com
-*.Daraz.com
 *.1688.com
+*.Daraz.com
 *.aliexpress.com
 *.taobao.com
 *.alibaba.com
@@ -2471,8 +2471,8 @@ app.command.cysiv.com
 reservations.rezserver.com
 www.bookingholdings.com
 admin.rezserver.com
-priceline.com
 www.getaroom.com
+priceline.com
 www.priceline.com
 api.rezserver.com
 secure.rezserver.com
@@ -3887,8 +3887,8 @@ hackathon-photos.hackerone-user-content.com
 hackerone-ext-content.com
 profile-photos.hackerone-user-content.com
 ctf.hacker101.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.hackerone.com
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com

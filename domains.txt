@@ -7401,8 +7401,8 @@ nft.io
 platform.enjin.io
 api.enjinx.io
 enjinx.io
-api.figma.com
 www.figma.com
+api.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -7896,8 +7896,8 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.aliyun.com
-*.Daraz.com
 *.1688.com
+*.Daraz.com
 *.aliexpress.com
 *.taobao.com
 *.alibaba.com
@@ -9052,8 +9052,8 @@ chain.link
 reservations.rezserver.com
 www.bookingholdings.com
 admin.rezserver.com
-priceline.com
 www.getaroom.com
+priceline.com
 www.priceline.com
 api.rezserver.com
 secure.rezserver.com
@@ -10747,8 +10747,8 @@ hackathon-photos.hackerone-user-content.com
 hackerone-ext-content.com
 profile-photos.hackerone-user-content.com
 ctf.hacker101.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.hackerone.com
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
