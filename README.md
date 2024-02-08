@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb  8 09:18:49 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb  8 09:41:56 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -1381,22 +1381,19 @@ rubygems.org
 rubygems.org
 activate.codefi.network
 on-ramp.metaswap-dev.codefi.network
-staking-uat.codefi.network
 consensys.net
 app.infura.io
-staking.codefi.network
 bridge.codefi.network
 webhooks-api-experimental.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
-staking.codefi.network
 canary.activate.codefi.network
 on-ramp.metaswap-dev.codefi.network
 webhooks-api-experimental.codefi.network
 http://portfolio.metamask.io
 app.infura.io
 https://metamask-sdk-socket.metafi.codefi.network/
-staking-uat.codefi.network
+http://staking.consensys.io
 consensys.net
 bridge.codefi.network
 gold.xnxx.com
@@ -1733,11 +1730,11 @@ partner.tiktokshop.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
-creatormarketplace.tiktok.com
 careers.tiktok.com
 business.tiktok.com
 *.tiktokv.com
 *.tiktok.com
+creatormarketplace.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -2471,8 +2468,8 @@ app.command.cysiv.com
 reservations.rezserver.com
 www.bookingholdings.com
 admin.rezserver.com
-www.getaroom.com
 priceline.com
+www.getaroom.com
 www.priceline.com
 api.rezserver.com
 secure.rezserver.com
