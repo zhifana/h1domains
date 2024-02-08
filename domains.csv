@@ -9054,8 +9054,8 @@ priceline,reservations.rezserver.com,True
 priceline,www.bookingholdings.com,True
 priceline,admin.rezserver.com,True
 priceline,www.getaroom.com,True
-priceline,www.priceline.com,True
 priceline,priceline.com,True
+priceline,www.priceline.com,True
 priceline,api.rezserver.com,True
 priceline,secure.rezserver.com,True
 priceline,flyiin.com,True
@@ -9324,11 +9324,11 @@ fanduel,fanduel.design,True
 fanduel,com.fanduel.android.live,True
 fanduel,login.tvg.com,True
 fanduel,pabets.tvg.com,True
-fanduel,sportsbook.fanduel.com,True
 fanduel,ia.tvg.com,True
 fanduel,login-4ngbets.us.betfair.com,True
 fanduel,login-ia.tvg.com,True
 fanduel,fdbox.net,True
+fanduel,sportsbook.fanduel.com,True
 fanduel,www.tvg.com,True
 fanduel,mobile-prod.tvg.com,True
 fanduel,*racing.fanduel.com,True

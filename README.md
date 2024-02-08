@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb  8 00:58:04 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb  8 01:49:21 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -2472,8 +2472,8 @@ reservations.rezserver.com
 www.bookingholdings.com
 admin.rezserver.com
 www.getaroom.com
-www.priceline.com
 priceline.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -2692,11 +2692,11 @@ fanduel.design
 com.fanduel.android.live
 login.tvg.com
 pabets.tvg.com
-sportsbook.fanduel.com
 ia.tvg.com
 login-4ngbets.us.betfair.com
 login-ia.tvg.com
 fdbox.net
+sportsbook.fanduel.com
 www.tvg.com
 mobile-prod.tvg.com
 *racing.fanduel.com
