@@ -121,8 +121,8 @@ wellhive,login.wellhive.com,False
 hostinger,www.niagahoster.co.id,True
 hostinger,payments.hostinger.com,True
 hostinger,hpanel.hostinger.com,True
-hostinger,www.hostinger.com,True
 hostinger,*.000webhost.com,True
+hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,editor.zyro.com,True
 hostinger,logo.zyro.com,True
@@ -4616,9 +4616,9 @@ fidelity,*.fidelity.com,False
 planetart,ai.planetart.com,False
 planetart,www.personalcreations.com,False
 planetart,www.mycustomcase.com,False
-planetart,www.photoaffections.com,False
 planetart,*.simplytoimpress.com,False
 planetart,*.mycustomcase.com,False
+planetart,www.photoaffections.com,False
 planetart,www.simplytoimpress.com,False
 planetart,iseeme.com,False
 planetart,www.cafepress.com,False
@@ -4855,8 +4855,8 @@ etoro_bbp,rankings.etoro.com,True
 etoro_bbp,delta.app,True
 etoro_bbp,bullsheet.me,True
 instacart,api.instacart.com,True
-instacart,www.instacart.com,True
 instacart,*.instacart.tools,True
+instacart,www.instacart.com,True
 instacart,shoppers.instacart.com,True
 instacart,admin.instacart.com,True
 instacart,*.instacart.com,True
@@ -7288,8 +7288,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,business.tiktok.com,True
-tiktok,*.tiktok.com,True
 tiktok,*.tiktokv.com,True
+tiktok,*.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -7897,9 +7897,9 @@ alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
 alibaba,*.aliyun.com,True
+alibaba,*.Daraz.com,True
 alibaba,*.1688.com,True
 alibaba,*.aliexpress.com,True
-alibaba,*.Daraz.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
