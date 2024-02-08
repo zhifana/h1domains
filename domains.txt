@@ -3399,8 +3399,8 @@ admin.8x8.com
 *.luckydays.com
 *.napoleondice.be
 *.napoleongames.be
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.napoleoncasino.be
 *.luckydays.ca
 *.superbet.pl
@@ -4616,8 +4616,8 @@ ai.planetart.com
 www.personalcreations.com
 www.mycustomcase.com
 *.simplytoimpress.com
-www.photoaffections.com
 *.mycustomcase.com
+www.photoaffections.com
 www.simplytoimpress.com
 iseeme.com
 www.cafepress.com
@@ -10291,8 +10291,8 @@ snappublisher.snapchat.com
 playcanvas.com
 www.bitmoji.com
 app.snapchat.com
-my.snapchat.com
 business.snapchat.com
+my.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
