@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb  8 15:20:10 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb  8 15:45:49 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -120,8 +120,8 @@ api.mercadopago.com
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
 www.mercadopago.com.mx
-www.mercadopago.com.br
 api.mercadolibre.com
+www.mercadopago.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -2183,8 +2183,8 @@ www.alibabagroup.com
 *.alimama.com
 *.aliyun.com
 *.Daraz.com
-*.1688.com
 *.aliexpress.com
+*.1688.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2470,8 +2470,8 @@ app.command.cysiv.com
 reservations.rezserver.com
 www.bookingholdings.com
 admin.rezserver.com
-priceline.com
 www.getaroom.com
+priceline.com
 www.priceline.com
 api.rezserver.com
 secure.rezserver.com
@@ -2972,8 +2972,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 *.nr-data.net
 *.nr-ops.net
-one.newrelic.com
 *.newrelic.com
+one.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
