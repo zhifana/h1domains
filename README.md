@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb  8 21:42:45 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb  8 22:18:00 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -653,8 +653,8 @@ http://miro.com/blog
 *.mwbsys.com
 *.mb-cosmos.com
 *.cloud.malwarebytes.com
-cloud.malwarebytes.com
 my.malwarebytes.com
+cloud.malwarebytes.com
 *.mbamupdates.com
 *.threatdown.com
 oneview.malwarebytes.com
@@ -2175,8 +2175,8 @@ updates.amazon.com
 amazonpayinsurance.in
 *.alibaba.com
 *.tmall.com
-www.alibabagroup.com
 *.alibabacloud.com
+www.alibabagroup.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -2471,8 +2471,8 @@ reservations.rezserver.com
 www.bookingholdings.com
 admin.rezserver.com
 www.getaroom.com
-www.priceline.com
 priceline.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -3251,9 +3251,9 @@ rockstarnorth.com
 circolocorecords.com/
 support.rockstargames.com
 store.rockstargames.com
-socialclub.rockstargames.com
 lifeinvader.com
 prod.ros.rockstargames.com
+socialclub.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3525,8 +3525,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 *.shopify.com
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
