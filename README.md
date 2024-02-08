@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb  8 16:45:53 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb  8 17:22:04 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -3518,8 +3518,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 linkpop.com
-shop.app
 *.shopifycloud.com
+shop.app
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
@@ -3563,9 +3563,9 @@ app.snapchat.com
 business.snapchat.com
 my.snapchat.com
 geofilters.snapchat.com
-spectacles.com
 *.sc-corp.net
 web.snapchat.com
+spectacles.com
 www.bitstrips.com
 launch.playcanvas.com
 *.sc-core.net

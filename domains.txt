@@ -3189,8 +3189,8 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.malwarebytes.com
 support.malwarebytes.com
-www.malwarebytes.com
 blog.malwarebytes.com
+www.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -10249,8 +10249,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 linkpop.com
-shop.app
 *.shopifycloud.com
+shop.app
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
@@ -10294,9 +10294,9 @@ app.snapchat.com
 business.snapchat.com
 my.snapchat.com
 geofilters.snapchat.com
-spectacles.com
 *.sc-corp.net
 web.snapchat.com
+spectacles.com
 www.bitstrips.com
 launch.playcanvas.com
 *.sc-core.net

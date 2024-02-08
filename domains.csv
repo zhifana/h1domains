@@ -3190,8 +3190,8 @@ malwarebytes,oneview.malwarebytes.com,True
 malwarebytes,*.mwb-threatintel.com,True
 malwarebytes,*.malwarebytes.com,True
 malwarebytes,support.malwarebytes.com,False
-malwarebytes,www.malwarebytes.com,True
 malwarebytes,blog.malwarebytes.com,False
+malwarebytes,www.malwarebytes.com,True
 malwarebytes,*.mwbsys.com,True
 malwarebytes,*.mb-cosmos.com,True
 malwarebytes,*.mbamupdates.com,True
@@ -10250,8 +10250,8 @@ udemy,yourcompany.udemy.com,True
 shopify,arrive-server.shopifycloud.com,True
 shopify,your-store.myshopify.com,True
 shopify,linkpop.com,True
-shopify,shop.app,True
 shopify,*.shopifycloud.com,True
+shopify,shop.app,True
 shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
@@ -10295,9 +10295,9 @@ snapchat,app.snapchat.com,True
 snapchat,business.snapchat.com,True
 snapchat,my.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
-snapchat,spectacles.com,True
 snapchat,*.sc-corp.net,True
 snapchat,web.snapchat.com,True
+snapchat,spectacles.com,True
 snapchat,www.bitstrips.com,True
 snapchat,launch.playcanvas.com,True
 snapchat,*.sc-core.net,True
