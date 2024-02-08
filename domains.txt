@@ -7,8 +7,8 @@ your-domain.snapshotreport.biz
 your-domain.pdqs.mobi
 task-manager.biz
 *.vendasta.com
-your-domain.smblogin.com
 *.apigateway.co
+your-domain.smblogin.com
 *.vendasta.com
 *.apigateway.co
 *.vendasta-internal.com
@@ -7276,8 +7276,8 @@ api.adm.cloud.com
 *developer.cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
@@ -7884,10 +7884,10 @@ paragon-na.amazon.com
 read.amazon.com
 updates.amazon.com
 amazonpayinsurance.in
-*.alibabacloud.com
 *.alibaba.com
 *.tmall.com
 www.alibabagroup.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -9185,10 +9185,10 @@ res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 vacations.us.palladiumhotelgroup.com
-www.wynnvacations.com
 res.vacations.buschgardens.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
+www.wynnvacations.com
 newsroom.images.hyatt.com
 ebsext.oft.hyatt.com
 confluence.hyattdev.com
@@ -9615,8 +9615,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 *.nr-data.net
 *.nr-ops.net
-*.newrelic.com
 one.newrelic.com
+*.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
@@ -10275,8 +10275,8 @@ businesshelp.snapchat.com
 msg.playcanvas.com
 create.snapchat.com
 ads.snapchat.com
-accounts.snapchat.com
 forum.playcanvas.com
+accounts.snapchat.com
 scan.snapchat.com
 code.playcanvas.com
 login.playcanvas.com
@@ -10291,8 +10291,8 @@ snappublisher.snapchat.com
 playcanvas.com
 www.bitmoji.com
 app.snapchat.com
-my.snapchat.com
 business.snapchat.com
+my.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
@@ -10381,8 +10381,8 @@ community.adobe.com
 accounts.frame.io
 *.adobe.com
 auth.services.adobe.com
-app.frame.io
 nicetryapril.na1.echosignsandbox.com
+app.frame.io
 *.marketo.com
 *.omniture.com
 *.typekit.com

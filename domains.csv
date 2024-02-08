@@ -8,8 +8,8 @@ vendasta,*.vendasta-internal.com,False
 vendasta,your-domain.pdqs.mobi,False
 vendasta,task-manager.biz,False
 vendasta,*.vendasta.com,False
-vendasta,your-domain.smblogin.com,False
 vendasta,*.apigateway.co,False
+vendasta,your-domain.smblogin.com,False
 vendasta,*.vendasta.com,False
 vendasta,*.apigateway.co,False
 vendasta,*.vendasta-internal.com,False
@@ -7277,8 +7277,8 @@ citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
-tiktok,tiktok.com,True
 tiktok,partner.tiktokshop.com,True
+tiktok,tiktok.com,True
 tiktok,fp-sg.tiktokv.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
@@ -7885,10 +7885,10 @@ amazonvrp,paragon-na.amazon.com,True
 amazonvrp,read.amazon.com,True
 amazonvrp,updates.amazon.com,True
 amazonvrp,amazonpayinsurance.in,True
-alibaba,*.alibabacloud.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.tmall.com,True
 alibaba,www.alibabagroup.com,True
+alibaba,*.alibabacloud.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
@@ -9186,10 +9186,10 @@ hyatt,res.marival.globalbookingsolutions.com,True
 hyatt,res.vacations.discoverycove.com,True
 hyatt,vacations.universalstudioshollywood.com,True
 hyatt,vacations.us.palladiumhotelgroup.com,True
-hyatt,www.wynnvacations.com,True
 hyatt,res.vacations.buschgardens.com,True
 hyatt,www.hyattinclusivecollection.com,True
 hyatt,booking.applevacations.com,True
+hyatt,www.wynnvacations.com,True
 hyatt,newsroom.images.hyatt.com,True
 hyatt,ebsext.oft.hyatt.com,True
 hyatt,confluence.hyattdev.com,True
@@ -9616,8 +9616,8 @@ newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
 newrelic,*.nr-data.net,True
 newrelic,*.nr-ops.net,True
-newrelic,*.newrelic.com,True
 newrelic,one.newrelic.com,True
+newrelic,*.newrelic.com,True
 newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
@@ -10276,8 +10276,8 @@ snapchat,businesshelp.snapchat.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,create.snapchat.com,True
 snapchat,ads.snapchat.com,True
-snapchat,accounts.snapchat.com,True
 snapchat,forum.playcanvas.com,True
+snapchat,accounts.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,code.playcanvas.com,True
 snapchat,login.playcanvas.com,True
@@ -10292,8 +10292,8 @@ snapchat,snappublisher.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,www.bitmoji.com,True
 snapchat,app.snapchat.com,True
-snapchat,my.snapchat.com,True
 snapchat,business.snapchat.com,True
+snapchat,my.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
 snapchat,*.sc-corp.net,True
@@ -10382,8 +10382,8 @@ adobe,community.adobe.com,False
 adobe,accounts.frame.io,False
 adobe,*.adobe.com,False
 adobe,auth.services.adobe.com,False
-adobe,app.frame.io,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
+adobe,app.frame.io,False
 adobe,*.marketo.com,False
 adobe,*.omniture.com,False
 adobe,*.typekit.com,False
