@@ -207,8 +207,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 admin.booking.com
-*.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -2822,8 +2822,8 @@ biologyfinder.com
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshchat.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -5275,7 +5275,6 @@ marabouchokladhus.se
 milkamaxtrenutak.ba
 milkamaxtrenutek.si
 mmmax-tester.milka.de
-mongouterprince.fr
 oreo.kz
 secretsanta.cadbury.co.uk
 signwithfingers.cadbury.co.uk
@@ -8042,10 +8041,10 @@ gatewaydsaptst2.marriott.com
 mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
-gatewaydsaptst1.marriott.com
 activities.marriott.com
 jobs.marriott.com
 reservations.all-inclusive.marriott.com
+gatewaydsaptst1.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 www.ritzcarlton.com
@@ -8722,6 +8721,7 @@ http://emerald.oasis.dev
 http://grpc.oasis.dev
 http://rosetta.oasis.dev/api/mainnet
 http://sapphire.oasis.io
+https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 api.gmelius.com
 gmelius.io
 api.gmelius.com
@@ -9050,8 +9050,8 @@ chain.link
 reservations.rezserver.com
 www.bookingholdings.com
 admin.rezserver.com
-priceline.com
 www.getaroom.com
+priceline.com
 www.priceline.com
 api.rezserver.com
 secure.rezserver.com
@@ -9492,7 +9492,6 @@ apigw.foliofn.com
 *.unitedcp.com
 *.goldman.com
 *.honestdollar.com
-*.goldmansachs.com
 *.global-liquidity.gs.com
 goldmansachsindices.com
 *.gspublishing.com
@@ -9502,6 +9501,7 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 *.nextcapital.com
+*.goldmansachs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
@@ -11094,7 +11094,6 @@ api.replyify.com
 replyify.com
 track.replyify.com
 blog.replyify.com
-https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 app.overloop.com
 app.overloop.com
 https://ao-docs.appspot.com/api/explorer

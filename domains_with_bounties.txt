@@ -143,8 +143,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 admin.booking.com
-*.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -441,8 +441,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshchat.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -2256,10 +2256,10 @@ gatewaydsaptst2.marriott.com
 mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
-gatewaydsaptst1.marriott.com
 activities.marriott.com
 jobs.marriott.com
 reservations.all-inclusive.marriott.com
+gatewaydsaptst1.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 www.ritzcarlton.com
@@ -2347,6 +2347,7 @@ http://emerald.oasis.dev
 http://grpc.oasis.dev
 http://rosetta.oasis.dev/api/mainnet
 http://sapphire.oasis.io
+https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 codacontent.io
 codahosted.io
 https://coda.io/signup/email
@@ -2463,8 +2464,8 @@ app.command.cysiv.com
 reservations.rezserver.com
 www.bookingholdings.com
 admin.rezserver.com
-priceline.com
 www.getaroom.com
+priceline.com
 www.priceline.com
 api.rezserver.com
 secure.rezserver.com
@@ -2847,7 +2848,6 @@ apigw.foliofn.com
 *.unitedcp.com
 *.goldman.com
 *.honestdollar.com
-*.goldmansachs.com
 *.global-liquidity.gs.com
 goldmansachsindices.com
 *.gspublishing.com
@@ -2857,6 +2857,7 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 *.nextcapital.com
+*.goldmansachs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
@@ -4050,7 +4051,6 @@ aivencloud.com
 help.aiven.io
 ota.helium.com
 ota.helium.com
-https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 https://github.com/evolveum/midpoint
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 magentolive.com
