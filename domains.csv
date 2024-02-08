@@ -3895,8 +3895,8 @@ poloniex,api.poloniex.com,True
 poloniex,m.poloniex.com,True
 poloniex,api2.poloniex.com,True
 poloniex,public.poloniex.com,True
-amazonvrp-devices,blueprints.amazon.com,True
 amazonvrp-devices,a4k.amazon.com,True
+amazonvrp-devices,blueprints.amazon.com,True
 amazonvrp-devices,creator.amazon.com,True
 amazonvrp-devices,alexaanswers.amazon.com,True
 amazonvrp-devices,alexa.amazon.com,True
@@ -7787,9 +7787,9 @@ amazonvrp,imdbtv-backend-na.amazon.com,True
 amazonvrp,paragon-na.amazon.com,True
 amazonvrp,av-na.amazon.com,True
 amazonvrp,chat.amazon.com,True
-amazonvrp,address-photos.amazon.com,True
 amazonvrp,advertising.amazon.com,True
 amazonvrp,track.amazon.com,True
+amazonvrp,address-photos.amazon.com,True
 amazonvrp,aca-livecards-service.amazon.com,True
 amazonvrp,cloudaccesstelemetry-us-east-1.amazon.com,True
 amazonvrp,dss-na.amazon.com,True
@@ -10257,9 +10257,9 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True

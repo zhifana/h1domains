@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb  8 21:18:39 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb  8 21:42:45 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -928,8 +928,8 @@ api.poloniex.com
 m.poloniex.com
 api2.poloniex.com
 public.poloniex.com
-blueprints.amazon.com
 a4k.amazon.com
+blueprints.amazon.com
 creator.amazon.com
 alexaanswers.amazon.com
 alexa.amazon.com
@@ -2074,9 +2074,9 @@ imdbtv-backend-na.amazon.com
 paragon-na.amazon.com
 av-na.amazon.com
 chat.amazon.com
-address-photos.amazon.com
 advertising.amazon.com
 track.amazon.com
+address-photos.amazon.com
 aca-livecards-service.amazon.com
 cloudaccesstelemetry-us-east-1.amazon.com
 dss-na.amazon.com
@@ -3524,9 +3524,9 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
