@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb  8 08:41:38 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb  8 09:18:49 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -2184,8 +2184,8 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.aliyun.com
-*.1688.com
 *.Daraz.com
+*.1688.com
 *.aliexpress.com
 *.taobao.com
 *.alibaba.com
@@ -2973,8 +2973,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 *.nr-data.net
 *.nr-ops.net
-one.newrelic.com
 *.newrelic.com
+one.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
@@ -3554,7 +3554,6 @@ relay.playcanvas.com
 store.playcanvas.com
 playcanv.as
 blog.playcanvas.com
-my.snapchat.com
 store.snapchat.com
 rt.playcanvas.com
 map.snapchat.com
@@ -3563,6 +3562,7 @@ playcanvas.com
 www.bitmoji.com
 app.snapchat.com
 business.snapchat.com
+my.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
@@ -3885,10 +3885,10 @@ a5s.hackerone-ext-content.com
 reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 hackerone-ext-content.com
-ctf.hacker101.com
-www.hackerone.com
 profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
+ctf.hacker101.com
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
