@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb  8 14:20:39 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb  8 14:46:33 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -1732,10 +1732,10 @@ fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 careers.tiktok.com
-business.tiktok.com
 *.tiktokv.com
 creatormarketplace.tiktok.com
 *.tiktok.com
+business.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -2063,7 +2063,6 @@ portal.polygon.technology
 super6.skysports.com
 itv7.itv.com
 track.amazon.com
-address-photos.amazon.com
 cscentral.amazon.com
 dcape-na.amazon.com
 mag-na.amazon.com
@@ -2077,6 +2076,7 @@ paragon-na.amazon.com
 av-na.amazon.com
 chat.amazon.com
 advertising.amazon.com
+address-photos.amazon.com
 aca-livecards-service.amazon.com
 cloudaccesstelemetry-us-east-1.amazon.com
 dss-na.amazon.com
@@ -2182,8 +2182,8 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.aliyun.com
-*.1688.com
 *.Daraz.com
+*.1688.com
 *.aliexpress.com
 *.taobao.com
 *.alibaba.com
@@ -2562,7 +2562,6 @@ booking.applevacations.com
 newsroom.images.hyatt.com
 ebsext.oft.hyatt.com
 confluence.hyattdev.com
-login.www.vaxvacationaccess.com
 booking.beachbound.com
 holidays-nz.fijiairways.com
 res.en.travelbrandsagent.com
@@ -2574,6 +2573,7 @@ vacations.hotelcasavelas.com
 vacations.travelimpressions.com
 www.cheapcaribbean.com
 www.globalhotelchoices.com
+login.www.vaxvacationaccess.com
 world.hyatt.com
 assets.hyatt.com
 roominglist.hyatt.com
@@ -3560,8 +3560,8 @@ snappublisher.snapchat.com
 playcanvas.com
 www.bitmoji.com
 app.snapchat.com
-business.snapchat.com
 my.snapchat.com
+business.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
