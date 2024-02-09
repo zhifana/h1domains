@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  9 20:18:21 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  9 20:42:50 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -211,16 +211,16 @@ app.frontapp.com
 api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.boozt.com
 *.booztlet.com
 *.boozt.com
+*.boozt.com
 *.booztlet.com
-*.trip.com
 *.trip.com
 dashboard.mergify.com
 api.mergify.com
 api.mergify.com
 dashboard.mergify.com
+www.compass.com
 www.compass.com
 pentesting2.gethypr.com
 *.hypr.com
@@ -3522,9 +3522,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3634,26 +3634,6 @@ imagine.magento.com
 magentolive.com
 account.magento.com
 accounts.magento.cloud
-m.airbnb.com
-*.airbnb-aws.com
-*.luxuryretreats.com
-support-api.airbnb.com
-omgpro.airbnb.com
-*.atairbnb.com
-one.airbnb.com
-next.airbnb.com
-*.withairbnb.com
-*.airbnbcitizen.com
-*.byairbnb.com
-*.muscache.com
-*.hoteltonight-test.com
-www.hoteltonight.com
-*.airbnb.com
-api.airbnb.com
-assets.airbnb.com
-open.airbnb.com
-callbacks.airbnb.com
-www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
