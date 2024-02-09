@@ -9370,8 +9370,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.braintreepayments.com
 *.paylution.com
+*.braintreepayments.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -9448,6 +9448,10 @@ testnet.bitmex.com
 *.duckduckgo.com
 mariadb.org
 mariadb.org
+*.staging.airtable.com
+staging.airtable.com
+api-staging.airtable.com
+*.staging-airtableblocks.com
 *.staging-airtableblocks.com
 *.staging.airtable.com
 staging.airtable.com
@@ -10253,9 +10257,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

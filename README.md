@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  9 21:16:24 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  9 21:42:52 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -2735,8 +2735,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.braintreepayments.com
 *.paylution.com
+*.braintreepayments.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -2809,6 +2809,10 @@ secure.chaturbate.com
 testnet.bitmex.com
 *.bitmex.com
 testnet.bitmex.com
+*.staging.airtable.com
+staging.airtable.com
+api-staging.airtable.com
+*.staging-airtableblocks.com
 *.staging-airtableblocks.com
 *.staging.airtable.com
 staging.airtable.com
@@ -3519,9 +3523,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

@@ -9371,8 +9371,8 @@ paypal,py.pl,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,*.braintree-api.com,True
-paypal,*.braintreepayments.com,True
 paypal,*.paylution.com,True
+paypal,*.braintreepayments.com,True
 paypal,paypal.me,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
@@ -9449,6 +9449,10 @@ duckduckgo,*.duckduckgo.com,False
 duckduckgo,*.duckduckgo.com,False
 mariadb,mariadb.org,False
 mariadb,mariadb.org,False
+airtable,*.staging.airtable.com,True
+airtable,staging.airtable.com,True
+airtable,api-staging.airtable.com,True
+airtable,*.staging-airtableblocks.com,True
 airtable,*.staging-airtableblocks.com,True
 airtable,*.staging.airtable.com,True
 airtable,staging.airtable.com,True
@@ -10254,9 +10258,9 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
