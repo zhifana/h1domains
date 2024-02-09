@@ -207,8 +207,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 admin.booking.com
-booking.com
 *.booking.com
+booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -1511,8 +1511,8 @@ http://vdp.kahootz.com
 *.abnamro.com
 *.alfam.nl
 *abnamroprivatebanking.be
-*.tikkie.me
 *.abnamro.nl
+*.tikkie.me
 *.abnamrolease.com
 *.abnamro.org
 *neuflizeobc.fr
@@ -4617,8 +4617,8 @@ ai.planetart.com
 www.personalcreations.com
 www.mycustomcase.com
 *.simplytoimpress.com
-*.mycustomcase.com
 www.photoaffections.com
+*.mycustomcase.com
 www.simplytoimpress.com
 iseeme.com
 www.cafepress.com
@@ -7892,12 +7892,12 @@ amazonpayinsurance.in
 www.alibabagroup.com
 *.aliexpress.ru
 *.alibaba-inc.com
-*.aliyun-inc.com
 *.alimama.com
 *.Daraz.com
 *.aliexpress.com
-*.aliyun.com
 *.1688.com
+*.aliyun.com
+*.aliyun-inc.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -10257,9 +10257,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

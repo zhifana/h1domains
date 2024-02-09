@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  9 13:44:46 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  9 14:18:28 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -149,8 +149,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 admin.booking.com
-booking.com
 *.booking.com
+booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -2178,12 +2178,12 @@ amazonpayinsurance.in
 www.alibabagroup.com
 *.aliexpress.ru
 *.alibaba-inc.com
-*.aliyun-inc.com
 *.alimama.com
 *.Daraz.com
 *.aliexpress.com
-*.aliyun.com
 *.1688.com
+*.aliyun.com
+*.aliyun-inc.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3523,9 +3523,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
