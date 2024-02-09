@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  9 15:39:22 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  9 16:23:18 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -35,8 +35,8 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.analvids.com
-www.ddfcontent.com
 www.pornbox.com
+www.ddfcontent.com
 www.pornworld.com
 www.pornbox.com
 www.analvids.com
@@ -167,8 +167,8 @@ widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
 account.booking.com
-cars.booking.com
 secure.booking.com
+cars.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -211,8 +211,8 @@ app.frontapp.com
 api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -1672,12 +1672,12 @@ sf-rp-eu.sharefile.com
 (yoursubdomain).sharefile.com
 api.sharefile.com
 onboarding.cloud.com
+sf-rp-us.sharefile.com
+eu.cloud.com
 (yoursubdomain).sf-api.com
 (yoursubdomain).sf-api.eu
 (yoursubdomain).sharefile.eu
-sf-rp-us.sharefile.com
 secure.sharefile.com
-eu.cloud.com
 ap-s.cloud.com
 accounts-internal.cloud.com
 secure.sharefile.eu
@@ -2181,8 +2181,8 @@ www.alibabagroup.com
 *.alimama.com
 *.Daraz.com
 *.aliexpress.com
-*.1688.com
 *.aliyun.com
+*.1688.com
 *.aliyun-inc.com
 *.taobao.com
 *.alibaba.com
@@ -2701,8 +2701,8 @@ mobile-prod.tvg.com
 m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
-*.fanduel.com
 tvg.com
+*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -2735,8 +2735,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.braintreepayments.com
 *.paylution.com
+*.braintreepayments.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -2745,8 +2745,8 @@ partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 my.loanbuilder.com
-*.venmo.com
 *.paypal.com
+*.venmo.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
@@ -3523,9 +3523,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
+admin.shopify.com
 *.shopify.com
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
