@@ -3551,11 +3551,11 @@ expediagroup_bbp,www.fewo-direkt.de,True
 expediagroup_bbp,www.stayz.com.au,True
 expediagroup_bbp,www.expediagroup.com,True
 expediagroup_bbp,www.flights.com,True
-expediagroup,*.fewo-direkt.de,False
 expediagroup,*.stayz.com.au,False
 expediagroup,*.hotwirepartnercentral.com,False
 expediagroup,*.expediapartnersolutions.com,False
 expediagroup,*.expediaagents.com,False
+expediagroup,*.fewo-direkt.de,False
 expediagroup,*.orbitz.com,False
 expediagroup,*.wotif.com,False
 expediagroup,*.cruiseshipcenters.com,False

@@ -3550,11 +3550,11 @@ www.fewo-direkt.de
 www.stayz.com.au
 www.expediagroup.com
 www.flights.com
-*.fewo-direkt.de
 *.stayz.com.au
 *.hotwirepartnercentral.com
 *.expediapartnersolutions.com
 *.expediaagents.com
+*.fewo-direkt.de
 *.orbitz.com
 *.wotif.com
 *.cruiseshipcenters.com
