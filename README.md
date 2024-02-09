@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  9 06:21:45 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  9 06:40:47 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -3873,8 +3873,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
