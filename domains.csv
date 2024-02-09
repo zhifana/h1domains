@@ -7280,8 +7280,8 @@ citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
-tiktok,partner.tiktokshop.com,True
 tiktok,tiktok.com,True
+tiktok,partner.tiktokshop.com,True
 tiktok,fp-sg.tiktokv.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
@@ -7464,10 +7464,10 @@ watson_group,www10.watsons.com.ph,True
 watson_group,www10.watsons.com.hk,True
 watson_group,www20.watsons.co.th,True
 watson_group,www.marionnaud.fr,True
-watson_group,www.watsons.com.tr,True
 watson_group,www.iciparisxl.lu,True
 watson_group,www.watsons.com.ph,True
 watson_group,www.watsons.co.id,True
+watson_group,www.watsons.com.tr,True
 watson_group,www.kruidvat.nl,True
 watson_group,www.kruidvat.be,True
 watson_group,app.marionnaud.cz,True
@@ -10736,8 +10736,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,api.hackerone.com,True
 security,hackerone.com,True
+security,api.hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
