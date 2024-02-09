@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  9 20:42:50 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  9 21:16:24 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -211,10 +211,11 @@ app.frontapp.com
 api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.booztlet.com
-*.boozt.com
 *.boozt.com
 *.booztlet.com
+*.boozt.com
+*.booztlet.com
+*.trip.com
 *.trip.com
 dashboard.mergify.com
 api.mergify.com
@@ -1724,8 +1725,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-partner.tiktokshop.com
 tiktok.com
+partner.tiktokshop.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
@@ -2808,10 +2809,6 @@ secure.chaturbate.com
 testnet.bitmex.com
 *.bitmex.com
 testnet.bitmex.com
-*.staging.airtable.com
-staging.airtable.com
-api-staging.airtable.com
-*.staging-airtableblocks.com
 *.staging-airtableblocks.com
 *.staging.airtable.com
 staging.airtable.com
@@ -3522,9 +3519,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
+admin.shopify.com
 *.shopify.com
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3634,6 +3631,26 @@ imagine.magento.com
 magentolive.com
 account.magento.com
 accounts.magento.cloud
+m.airbnb.com
+*.airbnb-aws.com
+*.luxuryretreats.com
+support-api.airbnb.com
+omgpro.airbnb.com
+*.atairbnb.com
+one.airbnb.com
+next.airbnb.com
+*.withairbnb.com
+*.airbnbcitizen.com
+*.byairbnb.com
+*.muscache.com
+*.hoteltonight-test.com
+www.hoteltonight.com
+*.airbnb.com
+api.airbnb.com
+assets.airbnb.com
+open.airbnb.com
+callbacks.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
