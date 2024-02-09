@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  9 22:42:21 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  9 23:18:42 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -115,10 +115,10 @@ www.mercadolibre.cl
 www.mercadolivre.com.br
 www.mercadopago.com.co
 www.mercadopago.com.pe
-www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
+www.mercadopago.com.ar
 www.mercadopago.com.mx
 api.mercadolibre.com
 www.mercadopago.com.br
@@ -1725,8 +1725,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-partner.tiktokshop.com
 tiktok.com
+partner.tiktokshop.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
