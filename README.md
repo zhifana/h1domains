@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  9 10:43:22 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  9 11:15:45 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -211,8 +211,8 @@ app.frontapp.com
 api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -2087,8 +2087,8 @@ pitangui.amazon.com
 preview-flex-capacity-na.amazon.com
 dv-manifest-service-na-prod.amazon.com
 updates.amazon.com
-read.amazon.com
 na.account.amazon.com
+read.amazon.com
 manufacturing.amazon.com
 aax-us-iad.amazon.com
 completion.amazon.com
@@ -2172,10 +2172,10 @@ paragon-na.amazon.com
 read.amazon.com
 updates.amazon.com
 amazonpayinsurance.in
-*.alibaba.com
 www.alibabagroup.com
 *.tmall.com
 *.alibabacloud.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -2970,9 +2970,9 @@ infrastructure.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
 *.nr-data.net
-*.nr-ops.net
-one.newrelic.com
 *.newrelic.com
+one.newrelic.com
+*.nr-ops.net
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com

@@ -1206,8 +1206,8 @@ fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
-boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
+boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -4628,9 +4628,9 @@ planetart,*.gifts.com,False
 planetart,www.canvasworld.com,False
 planetart,*.personalcreations.com,False
 planetart,*.canvasworld.com,False
-planetart,*.cafepress.com,False
 planetart,www.gifts.com,False
 planetart,*.iseeme.com,False
+planetart,*.cafepress.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -7802,8 +7802,8 @@ amazonvrp,pitangui.amazon.com,True
 amazonvrp,preview-flex-capacity-na.amazon.com,True
 amazonvrp,dv-manifest-service-na-prod.amazon.com,True
 amazonvrp,updates.amazon.com,True
-amazonvrp,read.amazon.com,True
 amazonvrp,na.account.amazon.com,True
+amazonvrp,read.amazon.com,True
 amazonvrp,manufacturing.amazon.com,True
 amazonvrp,aax-us-iad.amazon.com,True
 amazonvrp,completion.amazon.com,True
@@ -7887,10 +7887,10 @@ amazonvrp,paragon-na.amazon.com,True
 amazonvrp,read.amazon.com,True
 amazonvrp,updates.amazon.com,True
 amazonvrp,amazonpayinsurance.in,True
-alibaba,*.alibaba.com,True
 alibaba,www.alibabagroup.com,True
 alibaba,*.tmall.com,True
 alibaba,*.alibabacloud.com,True
+alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
@@ -9617,9 +9617,9 @@ newrelic,infrastructure.newrelic.com,True
 newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
 newrelic,*.nr-data.net,True
-newrelic,*.nr-ops.net,True
-newrelic,one.newrelic.com,True
 newrelic,*.newrelic.com,True
+newrelic,one.newrelic.com,True
+newrelic,*.nr-ops.net,True
 newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
