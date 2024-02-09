@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  9 11:15:45 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  9 11:43:58 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -1725,8 +1725,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
@@ -2971,8 +2971,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 *.nr-data.net
 *.newrelic.com
-one.newrelic.com
 *.nr-ops.net
+one.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
