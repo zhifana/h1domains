@@ -79,8 +79,8 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.analvids.com
-www.pornbox.com
 www.ddfcontent.com
+www.pornbox.com
 www.pornworld.com
 www.pornbox.com
 www.analvids.com
@@ -1205,8 +1205,8 @@ app.frontapp.com
 api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -2994,6 +2994,9 @@ skanska-secure-partner.co.uk
 mail1.wspsecure.co.uk
 skanska-secure-partner.co.uk
 www.prolinx.co.uk
+*.eu.floqast.app
+*.floqast.app
+api-eu.floqast.app
 *.eu.floqast.app
 *.floqast.app
 api-eu.floqast.app
@@ -5447,11 +5450,6 @@ cache.judge.me
 *.wilmingtontrust.com
 *.trustnota.com
 *.leafnow.com
-accounts.stage.evernote.com
-api.evernote.com
-api.stage.evernote.com
-www.evernote.com
-accounts.evernote.com
 www.evernote.com
 accounts.evernote.com
 api.evernote.com
@@ -10254,9 +10252,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

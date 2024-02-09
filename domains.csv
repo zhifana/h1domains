@@ -80,8 +80,8 @@ sheer_bbp,www.sheer.com,True
 sheer_bbp,www.sheer.com,True
 sheer_bbp,my.sheer.com,True
 pornbox,www.analvids.com,True
-pornbox,www.pornbox.com,True
 pornbox,www.ddfcontent.com,True
+pornbox,www.pornbox.com,True
 pornbox,www.pornworld.com,True
 pornbox,www.pornbox.com,True
 pornbox,www.analvids.com,True
@@ -1206,8 +1206,8 @@ fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
-boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
+boozt,*.boozt.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -2995,6 +2995,9 @@ prolinx-vdp,skanska-secure-partner.co.uk,False
 prolinx-vdp,mail1.wspsecure.co.uk,False
 prolinx-vdp,skanska-secure-partner.co.uk,False
 prolinx-vdp,www.prolinx.co.uk,False
+floqast,*.eu.floqast.app,True
+floqast,*.floqast.app,True
+floqast,api-eu.floqast.app,True
 floqast,*.eu.floqast.app,True
 floqast,*.floqast.app,True
 floqast,api-eu.floqast.app,True
@@ -5448,11 +5451,6 @@ mtb,*.mtb.com,False
 mtb,*.wilmingtontrust.com,False
 mtb,*.trustnota.com,False
 mtb,*.leafnow.com,False
-evernote,accounts.stage.evernote.com,False
-evernote,api.evernote.com,True
-evernote,api.stage.evernote.com,False
-evernote,www.evernote.com,True
-evernote,accounts.evernote.com,True
 evernote,www.evernote.com,True
 evernote,accounts.evernote.com,True
 evernote,api.evernote.com,True
@@ -10255,9 +10253,9 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
