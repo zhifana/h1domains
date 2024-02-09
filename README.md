@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  9 16:23:18 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  9 16:47:28 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -211,8 +211,8 @@ app.frontapp.com
 api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -1329,6 +1329,7 @@ account.fr.cloud.gov
 federation.data.gov
 admin.fr.cloud.gov
 nessus.fr.cloud.gov
+vote.gov
 opslogin.fr.cloud.gov
 www.fedramp.gov
 federalist-docs.18f.gov
@@ -1375,6 +1376,7 @@ marketplace.fedramp.gov
 *.search.gov
 www.usa.gov
 cloud.gov
+vote.gov
 federalist.18f.gov
 federalist-docs.18f.gov
 rubygems.org
@@ -1680,14 +1682,14 @@ eu.cloud.com
 secure.sharefile.com
 ap-s.cloud.com
 accounts-internal.cloud.com
-secure.sharefile.eu
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
 adm.cloud.com
+secure.sharefile.eu
 launch.cloud.com
 sf-rp.sharefile.com
-api.sharefile.eu
 api.adm.cloud.com
+api.sharefile.eu
 us.cloud.com
 *.citrixworkspacesapi.net
 (yoursubdomain).us.iws.cloud.com
@@ -2181,8 +2183,8 @@ www.alibabagroup.com
 *.alimama.com
 *.Daraz.com
 *.aliexpress.com
-*.aliyun.com
 *.1688.com
+*.aliyun.com
 *.aliyun-inc.com
 *.taobao.com
 *.alibaba.com
@@ -2735,8 +2737,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.paylution.com
 *.braintreepayments.com
+*.paylution.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -2745,8 +2747,8 @@ partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 my.loanbuilder.com
-*.paypal.com
 *.venmo.com
+*.paypal.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
@@ -3419,8 +3421,8 @@ api.grofers.com
 blinkit.com
 winecellar.zomato.com
 *.zdev.net
-*.zomans.com
 *.zomato.com
+*.zomans.com
 *.runnr.in
 *.zomato.com
 *.zdev.net

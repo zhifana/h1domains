@@ -1206,8 +1206,8 @@ fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
-boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
+boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -4629,8 +4629,8 @@ planetart,www.canvasworld.com,False
 planetart,*.personalcreations.com,False
 planetart,*.canvasworld.com,False
 planetart,www.gifts.com,False
-planetart,*.cafepress.com,False
 planetart,*.iseeme.com,False
+planetart,*.cafepress.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -5582,6 +5582,7 @@ gsa_bbp,account.fr.cloud.gov,True
 gsa_bbp,federation.data.gov,True
 gsa_bbp,admin.fr.cloud.gov,True
 gsa_bbp,nessus.fr.cloud.gov,True
+gsa_bbp,vote.gov,True
 gsa_bbp,opslogin.fr.cloud.gov,True
 gsa_bbp,www.fedramp.gov,True
 gsa_bbp,federalist-docs.18f.gov,True
@@ -5628,6 +5629,7 @@ gsa_bbp,marketplace.fedramp.gov,True
 gsa_bbp,*.search.gov,True
 gsa_bbp,www.usa.gov,True
 gsa_bbp,cloud.gov,True
+gsa_bbp,vote.gov,True
 gsa_bbp,federalist.18f.gov,True
 gsa_bbp,federalist-docs.18f.gov,True
 ibb,rubygems.org,True
@@ -7233,14 +7235,14 @@ citrix,(yoursubdomain).sharefile.eu,True
 citrix,secure.sharefile.com,True
 citrix,ap-s.cloud.com,True
 citrix,accounts-internal.cloud.com,True
-citrix,secure.sharefile.eu,True
 citrix,(yoursubdomain).eu.iws.cloud.com,True
 citrix,(youriwssubdomain).cloud.com,True
 citrix,adm.cloud.com,True
+citrix,secure.sharefile.eu,True
 citrix,launch.cloud.com,True
 citrix,sf-rp.sharefile.com,True
-citrix,api.sharefile.eu,True
 citrix,api.adm.cloud.com,True
+citrix,api.sharefile.eu,True
 citrix,us.cloud.com,True
 citrix,*.citrixworkspacesapi.net,True
 citrix,(yoursubdomain).us.iws.cloud.com,True
@@ -7896,8 +7898,8 @@ alibaba,*.alibaba-inc.com,True
 alibaba,*.alimama.com,True
 alibaba,*.Daraz.com,True
 alibaba,*.aliexpress.com,True
-alibaba,*.aliyun.com,True
 alibaba,*.1688.com,True
+alibaba,*.aliyun.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
@@ -9371,8 +9373,8 @@ paypal,py.pl,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,*.braintree-api.com,True
-paypal,*.paylution.com,True
 paypal,*.braintreepayments.com,True
+paypal,*.paylution.com,True
 paypal,paypal.me,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
@@ -9381,8 +9383,8 @@ paypal,partner.swiftfinancial.com,True
 paypal,scrutiny.swiftfinancial.com,True
 paypal,*.hyperwallet.com,True
 paypal,my.loanbuilder.com,True
-paypal,*.paypal.com,True
 paypal,*.venmo.com,True
+paypal,*.paypal.com,True
 paypal,*.paydiant.com,True
 paypal,*.braintree.tools,True
 paypal,pigeon.swiftfinancial.com,True
@@ -10152,8 +10154,8 @@ zomato,*.hyperpure.com,True
 zomato,blinkit.com,True
 zomato,winecellar.zomato.com,True
 zomato,*.zdev.net,True
-zomato,*.zomans.com,True
 zomato,*.zomato.com,True
+zomato,*.zomans.com,True
 zomato,*.runnr.in,True
 zomato,*.zomato.com,True
 zomato,*.zdev.net,True
