@@ -7888,10 +7888,10 @@ amazonvrp,paragon-na.amazon.com,True
 amazonvrp,read.amazon.com,True
 amazonvrp,updates.amazon.com,True
 amazonvrp,amazonpayinsurance.in,True
-alibaba,*.tmall.com,True
 alibaba,*.alibabacloud.com,True
 alibaba,*.alibaba.com,True
 alibaba,www.alibabagroup.com,True
+alibaba,*.tmall.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
@@ -9619,8 +9619,8 @@ newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
 newrelic,*.nr-data.net,True
 newrelic,*.nr-ops.net,True
-newrelic,one.newrelic.com,True
 newrelic,*.newrelic.com,True
+newrelic,one.newrelic.com,True
 newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
@@ -10589,8 +10589,8 @@ greenhouse,interseller.io,True
 greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
 x,xadsacademy.com,False
 x,grok.x.ai,True
