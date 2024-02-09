@@ -1205,8 +1205,8 @@ app.frontapp.com
 api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -2997,9 +2997,6 @@ www.prolinx.co.uk
 *.eu.floqast.app
 *.floqast.app
 api-eu.floqast.app
-*.eu.floqast.app
-*.floqast.app
-api-eu.floqast.app
 *.hiltonhotels.jp
 *.hilton.io
 hiltonhotels.jp
@@ -3841,10 +3838,10 @@ www.monarchmoney.com
 app.monarchmoney.com
 www.monarchmoney.com
 www.interflex.de
-www.cisa.com
 www.yonomi.com
 www.gainsboroughhardware.com.au
 www.fireglass.com
+www.cisa.com
 www.trelock.com
 www.simons-voss.com
 www.allegion.co.uk
@@ -10257,9 +10254,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
+admin.shopify.com
 *.shopify.com
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

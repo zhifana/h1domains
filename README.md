@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  9 18:39:50 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  9 19:18:02 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -211,8 +211,8 @@ app.frontapp.com
 api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -548,9 +548,6 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 www.six-group.com
 www.six-group.com
-*.eu.floqast.app
-*.floqast.app
-api-eu.floqast.app
 *.eu.floqast.app
 *.floqast.app
 api-eu.floqast.app
@@ -3523,9 +3520,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
+admin.shopify.com
 *.shopify.com
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

@@ -1206,8 +1206,8 @@ fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
-boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
+boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -2998,9 +2998,6 @@ prolinx-vdp,www.prolinx.co.uk,False
 floqast,*.eu.floqast.app,True
 floqast,*.floqast.app,True
 floqast,api-eu.floqast.app,True
-floqast,*.eu.floqast.app,True
-floqast,*.floqast.app,True
-floqast,api-eu.floqast.app,True
 hilton,*.hiltonhotels.jp,True
 hilton,*.hilton.io,True
 hilton,hiltonhotels.jp,True
@@ -3842,10 +3839,10 @@ monarch_money,www.monarchmoney.com,False
 monarch_money,app.monarchmoney.com,False
 monarch_money,www.monarchmoney.com,False
 allegion,www.interflex.de,False
-allegion,www.cisa.com,False
 allegion,www.yonomi.com,False
 allegion,www.gainsboroughhardware.com.au,False
 allegion,www.fireglass.com,False
+allegion,www.cisa.com,False
 allegion,www.trelock.com,False
 allegion,www.simons-voss.com,False
 allegion,www.allegion.co.uk,False
@@ -10258,9 +10255,9 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
