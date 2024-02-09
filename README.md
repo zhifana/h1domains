@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  9 21:42:52 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  9 22:19:20 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -211,8 +211,8 @@ app.frontapp.com
 api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -1060,8 +1060,8 @@ push-d-hap.cloud.etoro.com
 push-demo-lightstreamer.cloud.etoro.com
 sts.etoro.com
 watchlistapi.etoro.com
-delta.app
 www.etoro.com
+delta.app
 aggregator.etoro.com
 cashier.etoro.com
 cashier-src.etoro.com
@@ -2735,8 +2735,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.paylution.com
 *.braintreepayments.com
+*.paylution.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -2870,9 +2870,9 @@ research.gs.com
 *.gs.de
 api.foliofn.com
 *.advisorsolutions.gs.com
-*.folioinstitutional.com
 *.folioclient.com
 *.gsam.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
