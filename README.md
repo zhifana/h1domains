@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  9 06:40:47 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  9 07:17:35 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -2972,8 +2972,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 *.nr-data.net
 *.nr-ops.net
-one.newrelic.com
 *.newrelic.com
+one.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com

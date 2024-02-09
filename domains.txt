@@ -1860,8 +1860,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 *.mercedes-benz-trucks.com
 *omniplus.com
 *exceleratorparts.com
-*.daimlertruck.com
 *detroitconnect.com
+*.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
 *.freightliner.com
@@ -9618,8 +9618,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 *.nr-data.net
 *.nr-ops.net
-one.newrelic.com
 *.newrelic.com
+one.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
