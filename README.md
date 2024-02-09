@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  9 10:18:57 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  9 10:43:22 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -1381,7 +1381,6 @@ rubygems.org
 rubygems.org
 activate.codefi.network
 on-ramp.metaswap-dev.codefi.network
-consensys.net
 app.infura.io
 bridge.codefi.network
 webhooks-api-experimental.codefi.network
@@ -1395,7 +1394,7 @@ http://portfolio.metamask.io
 app.infura.io
 https://metamask-sdk-socket.metafi.codefi.network/
 http://staking.consensys.io
-consensys.net
+https://consensys.io/
 bridge.codefi.network
 gold.xnxx.com
 www.xnxx.com
@@ -2173,10 +2172,10 @@ paragon-na.amazon.com
 read.amazon.com
 updates.amazon.com
 amazonpayinsurance.in
-*.alibabacloud.com
 *.alibaba.com
 www.alibabagroup.com
 *.tmall.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -3518,8 +3517,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 *.shopifycloud.com
-shop.app
 linkpop.com
+shop.app
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
@@ -3850,8 +3849,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack-imgs.com
 slack.com
+slack-imgs.com
 www.quip.com
 slack.com
 api.slack.com
@@ -3873,8 +3872,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com

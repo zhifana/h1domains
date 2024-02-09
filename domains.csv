@@ -5634,7 +5634,6 @@ ibb,rubygems.org,True
 ibb,rubygems.org,True
 consensys,activate.codefi.network,True
 consensys,on-ramp.metaswap-dev.codefi.network,True
-consensys,consensys.net,True
 consensys,app.infura.io,True
 consensys,bridge.codefi.network,True
 consensys,webhooks-api-experimental.codefi.network,True
@@ -5648,7 +5647,7 @@ consensys,http://portfolio.metamask.io,True
 consensys,app.infura.io,True
 consensys,https://metamask-sdk-socket.metafi.codefi.network/,True
 consensys,http://staking.consensys.io,True
-consensys,consensys.net,True
+consensys,https://consensys.io/,True
 consensys,bridge.codefi.network,True
 lacework,www.lacework.com,False
 lacework,*.lacework.net,False
@@ -7888,10 +7887,10 @@ amazonvrp,paragon-na.amazon.com,True
 amazonvrp,read.amazon.com,True
 amazonvrp,updates.amazon.com,True
 amazonvrp,amazonpayinsurance.in,True
-alibaba,*.alibabacloud.com,True
 alibaba,*.alibaba.com,True
 alibaba,www.alibabagroup.com,True
 alibaba,*.tmall.com,True
+alibaba,*.alibabacloud.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
@@ -10253,8 +10252,8 @@ udemy,yourcompany.udemy.com,True
 shopify,arrive-server.shopifycloud.com,True
 shopify,your-store.myshopify.com,True
 shopify,*.shopifycloud.com,True
-shopify,shop.app,True
 shopify,linkpop.com,True
+shopify,shop.app,True
 shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
@@ -10713,8 +10712,8 @@ slack,slack-redir.net,True
 slack,*.quip.com,True
 slack,app.slack.com,True
 slack,edgeapi.slack.com,True
-slack,slack-imgs.com,True
 slack,slack.com,True
+slack,slack-imgs.com,True
 slack,www.quip.com,True
 slack,slack.com,True
 slack,api.slack.com,True
@@ -10736,8 +10735,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,hackerone.com,True
 security,api.hackerone.com,True
+security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
