@@ -10588,8 +10588,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 t.co
 xadsacademy.com
 grok.x.ai

@@ -10589,8 +10589,8 @@ greenhouse,interseller.io,True
 greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
 x,xadsacademy.com,False
 x,grok.x.ai,True
