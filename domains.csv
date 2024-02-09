@@ -6311,8 +6311,8 @@ zebra_vdp,domore.zebra.com,False
 zebra_vdp,mwwprod.zebra.engineering,False
 zebra_vdp,fs.viq.zebra.com,False
 zebra_vdp,*.antuit.ai,False
-zebra_vdp,*.zebramwe.com,False
 zebra_vdp,zsbportal.zebra.com,False
+zebra_vdp,*.zebramwe.com,False
 zebra_vdp,connect.zebra.com,False
 zebra_vdp,global.zebra.com,False
 zebra_vdp,hcm.zebra.com,False
@@ -7288,8 +7288,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,business.tiktok.com,True
-tiktok,*.tiktok.com,True
 tiktok,*.tiktokv.com,True
+tiktok,*.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -9055,8 +9055,8 @@ priceline,reservations.rezserver.com,True
 priceline,www.bookingholdings.com,True
 priceline,admin.rezserver.com,True
 priceline,www.getaroom.com,True
-priceline,www.priceline.com,True
 priceline,priceline.com,True
+priceline,www.priceline.com,True
 priceline,api.rezserver.com,True
 priceline,secure.rezserver.com,True
 priceline,flyiin.com,True
