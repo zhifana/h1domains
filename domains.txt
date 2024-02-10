@@ -175,8 +175,8 @@ www.mercadopago.com.co
 www.mercadopago.com.pe
 api.mercadopago.com
 www.mercadolibre.com.co
-www.mercadolibre.com.ar
 www.mercadopago.com.ar
+www.mercadolibre.com.ar
 www.mercadopago.com.mx
 api.mercadolibre.com
 www.mercadopago.com.br
@@ -7278,8 +7278,8 @@ api.adm.cloud.com
 *developer.cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
@@ -9370,8 +9370,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.paylution.com
 *.braintreepayments.com
+*.paylution.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
