@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 10 11:14:18 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 10 11:41:33 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -35,8 +35,8 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.analvids.com
-www.pornbox.com
 www.ddfcontent.com
+www.pornbox.com
 www.pornworld.com
 www.pornbox.com
 www.analvids.com
@@ -710,9 +710,9 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 *.8x8.vc
-*.jitsi.net
 sso.8x8.com
 connect.8x8.com
+*.jitsi.net
 platform.8x8pilot.com
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -2471,8 +2471,8 @@ reservations.rezserver.com
 www.bookingholdings.com
 priceline.com
 www.priceline.com
-admin.rezserver.com
 www.getaroom.com
+admin.rezserver.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
