@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 10 03:17:23 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 10 03:40:38 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -677,10 +677,10 @@ online.s-pankki.fi
 mobile.s-pankki.fi
 digili.s-cloud.fi
 cfapi.voikukka.fi
-www.s-pankki.fi
 extranet.s-pankki.fi
 tunnistus.s-ryhma.fi
 www.prisma.fi
+www.s-pankki.fi
 www.sokos.fi
 www.s-kaupat.fi
 online.s-pankki.fi
@@ -2179,11 +2179,11 @@ www.alibabagroup.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.alimama.com
-*.Daraz.com
 *.aliexpress.com
 *.aliyun-inc.com
 *.1688.com
 *.aliyun.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
