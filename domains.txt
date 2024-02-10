@@ -2943,9 +2943,9 @@ jcpportraits.com
 wgwebservices.snapfish.com
 *.sbs.shutterfly.com
 snapfish.com
-admin.spoonflower.com
 shutterfly.com
 *.snapfish.com
+admin.spoonflower.com
 tinyprints.com
 preschoolsmiles.com
 snapfish.co.uk
@@ -7807,6 +7807,7 @@ manufacturing.amazon.com
 aax-us-iad.amazon.com
 completion.amazon.com
 dolphin.amazon.com
+ftvmps-na.amazon.com
 smile.amazon.*
 flex.amazon.*
 logistics.amazon.*
@@ -9370,8 +9371,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.paylution.com
 *.braintreepayments.com
+*.paylution.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
