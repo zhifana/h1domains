@@ -80,8 +80,8 @@ sheer_bbp,www.sheer.com,True
 sheer_bbp,www.sheer.com,True
 sheer_bbp,my.sheer.com,True
 pornbox,www.analvids.com,True
-pornbox,www.ddfcontent.com,True
 pornbox,www.pornbox.com,True
+pornbox,www.ddfcontent.com,True
 pornbox,www.pornworld.com,True
 pornbox,www.pornbox.com,True
 pornbox,www.analvids.com,True
@@ -6300,8 +6300,8 @@ zebra_vdp,*.zams-eu.zebra.com,False
 zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,*.profitect.com,False
 zebra_vdp,reflexisinc.com/,False
-zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,*.zebrasports.com,False
+zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
@@ -10736,8 +10736,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,hackerone.com,True
 security,api.hackerone.com,True
+security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
