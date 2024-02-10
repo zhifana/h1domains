@@ -6296,11 +6296,11 @@ creative.zebra.com
 greece.zebra.com
 zsbsupport.zebra.com
 *.zams-eu.zebra.com
-*.zebrasports.com
 *.zams.zebra.com
 *.profitect.com
 reflexisinc.com/
 supportcommunity.zebra.com
+*.zebrasports.com
 cmm01.sl.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
