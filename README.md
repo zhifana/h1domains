@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 11 23:17:42 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 11 23:41:56 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -68,13 +68,13 @@ app.dynamic.xyz
 www.niagahoster.co.id
 payments.hostinger.com
 hpanel.hostinger.com
-www.hostinger.com
 *.000webhost.com
+www.hostinger.com
 cpanel.hostinger.com
 editor.zyro.com
 www.zyro.com
-backend.zyro.com
 logo.zyro.com
+backend.zyro.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -347,8 +347,8 @@ www.yellowpepper.com
 www.practicalmoneyskills.com
 www.visa.co.jp
 www.visa.com.tw
-www.visainfinite.ca
 sandbox.secure.checkout.visa.com
+www.visainfinite.ca
 www.visa.com.mx
 visa.com.ru
 www.visa.com.cy
@@ -368,9 +368,9 @@ bq.visa.com
 www.visa.com.kh
 www.visa.co.il
 visa.co.ni
-www.cardinalcommerce.com
 usa.visa.com
 aw.visa.com
+www.cardinalcommerce.com
 bm.visa.com
 visa.com.au
 www.visa.co.th
@@ -1724,8 +1724,8 @@ api.adm.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 live-backstage.tiktok.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
@@ -1733,8 +1733,8 @@ academy-outbound-ads.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 business.tiktok.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -2736,8 +2736,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.paylution.com
 *.braintreepayments.com
+*.paylution.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -3518,8 +3518,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 linkpop.com
-*.shopifycloud.com
 shop.app
+*.shopifycloud.com
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
