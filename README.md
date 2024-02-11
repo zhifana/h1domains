@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 11 14:40:46 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 11 15:19:10 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -1456,11 +1456,11 @@ www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 gql.reddit.com
-*.redditmedia.com
 app.spiketrap.io
 old.reddit.com
 api.reddit.com
 ads.reddit.com
+*.redditmedia.com
 new.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -2736,8 +2736,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.paylution.com
 *.braintreepayments.com
+*.paylution.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -3560,8 +3560,8 @@ snappublisher.snapchat.com
 www.bitmoji.com
 my.snapchat.com
 playcanvas.com
-business.snapchat.com
 app.snapchat.com
+business.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 web.snapchat.com
@@ -3850,8 +3850,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack-imgs.com
 slack.com
+slack-imgs.com
 www.quip.com
 slack.com
 api.slack.com

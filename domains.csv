@@ -6300,8 +6300,8 @@ zebra_vdp,*.zams-eu.zebra.com,False
 zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,*.profitect.com,False
 zebra_vdp,reflexisinc.com/,False
-zebra_vdp,*.zebrasports.com,False
 zebra_vdp,supportcommunity.zebra.com,False
+zebra_vdp,*.zebrasports.com,False
 zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
@@ -6434,11 +6434,11 @@ drugs_com,blog.drugs.com,False
 drugs_com,www.woolshed.com,False
 drugs_com,www.question.com,False
 reddit,gql.reddit.com,True
-reddit,*.redditmedia.com,True
 reddit,app.spiketrap.io,True
 reddit,old.reddit.com,True
 reddit,api.reddit.com,True
 reddit,ads.reddit.com,True
+reddit,*.redditmedia.com,True
 reddit,new.reddit.com,True
 reddit,strapi.reddit.com,True
 reddit,m.reddit.com,True
@@ -7981,9 +7981,9 @@ digitalocean,unified.cloudways.com,False
 picsart,content-discovery.picsart.io,False
 picsart,video-api.picsart.io,False
 picsart,demo.sdk.picsart.io,False
-picsart,www.picsart.com,False
 picsart,revenue-tracking.picsart.io,False
 picsart,stage.optifyr.com,False
+picsart,www.picsart.com,False
 picsart,upload.picsart.com,False
 picsart,console.picsart.io,False
 picsart,picsart.io,False
@@ -9372,8 +9372,8 @@ paypal,py.pl,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,*.braintree-api.com,True
-paypal,*.paylution.com,True
 paypal,*.braintreepayments.com,True
+paypal,*.paylution.com,True
 paypal,paypal.me,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
@@ -10295,8 +10295,8 @@ snapchat,snappublisher.snapchat.com,True
 snapchat,www.bitmoji.com,True
 snapchat,my.snapchat.com,True
 snapchat,playcanvas.com,True
-snapchat,business.snapchat.com,True
 snapchat,app.snapchat.com,True
+snapchat,business.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,web.snapchat.com,True
@@ -10713,8 +10713,8 @@ slack,slack-redir.net,True
 slack,*.quip.com,True
 slack,app.slack.com,True
 slack,edgeapi.slack.com,True
-slack,slack-imgs.com,True
 slack,slack.com,True
+slack,slack-imgs.com,True
 slack,www.quip.com,True
 slack,slack.com,True
 slack,api.slack.com,True

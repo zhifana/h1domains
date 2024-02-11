@@ -6299,8 +6299,8 @@ zsbsupport.zebra.com
 *.zams.zebra.com
 *.profitect.com
 reflexisinc.com/
-*.zebrasports.com
 supportcommunity.zebra.com
+*.zebrasports.com
 cmm01.sl.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
@@ -6433,11 +6433,11 @@ blog.drugs.com
 www.woolshed.com
 www.question.com
 gql.reddit.com
-*.redditmedia.com
 app.spiketrap.io
 old.reddit.com
 api.reddit.com
 ads.reddit.com
+*.redditmedia.com
 new.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -7980,9 +7980,9 @@ unified.cloudways.com
 content-discovery.picsart.io
 video-api.picsart.io
 demo.sdk.picsart.io
-www.picsart.com
 revenue-tracking.picsart.io
 stage.optifyr.com
+www.picsart.com
 upload.picsart.com
 console.picsart.io
 picsart.io
@@ -9371,8 +9371,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.paylution.com
 *.braintreepayments.com
+*.paylution.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -10294,8 +10294,8 @@ snappublisher.snapchat.com
 www.bitmoji.com
 my.snapchat.com
 playcanvas.com
-business.snapchat.com
 app.snapchat.com
+business.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 web.snapchat.com
@@ -10712,8 +10712,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack-imgs.com
 slack.com
+slack-imgs.com
 www.quip.com
 slack.com
 api.slack.com
