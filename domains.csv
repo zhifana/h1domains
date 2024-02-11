@@ -207,8 +207,8 @@ bookingcom,careers.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,flights.booking.com,True
-bookingcom,*.booking.com,True
 bookingcom,admin.booking.com,True
+bookingcom,*.booking.com,True
 bookingcom,booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,taxis.booking.com,True
@@ -226,8 +226,8 @@ bookingcom,widget.rentalcars.com,True
 bookingcom,webhooks.booking.com,True
 bookingcom,paybridge.booking.com,True
 bookingcom,cars.booking.com,True
-bookingcom,secure.booking.com,True
 bookingcom,account.booking.com,True
+bookingcom,secure.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
@@ -6459,8 +6459,8 @@ reddit,matrix.redditspace.com,True
 reddit,*.reddithelp.com,True
 reddit,oauth.reddit.com,True
 reddit,mod.reddit.com,True
-reddit,www.reddit.com,True
 reddit,accounts.reddit.com,True
+reddit,www.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -10295,8 +10295,8 @@ snapchat,snappublisher.snapchat.com,True
 snapchat,www.bitmoji.com,True
 snapchat,my.snapchat.com,True
 snapchat,playcanvas.com,True
-snapchat,app.snapchat.com,True
 snapchat,business.snapchat.com,True
+snapchat,app.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,web.snapchat.com,True
@@ -10677,11 +10677,11 @@ irccloud,irccloud.com,True
 irccloud,irc.irccloud.com,True
 irccloud,team-irc.irccloud.com,True
 irccloud,blog.irccloud.com,True
-coinbase,pro.coinbase.com,True
 coinbase,custody.coinbase.com,True
 coinbase,prime.coinbase.com,True
 coinbase,*.cbhq.net,True
 coinbase,*.coinbase.com,True
+coinbase,pro.coinbase.com,True
 coinbase,international.coinbase.com,True
 coinbase,cloud.coinbase.com,True
 coinbase,api.coinbase.com,True
