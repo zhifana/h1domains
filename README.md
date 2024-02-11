@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 11 17:40:51 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 11 18:20:18 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -107,8 +107,8 @@ therapeutics.23andme.com
 you.23andme.com
 research.23andme.com
 www.mercadolibre.com.pe
-www.mercadopago.cl
 www.mercadopago.com.uy
+www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadolibre.com.uy
 www.mercadolibre.cl
@@ -368,9 +368,9 @@ bq.visa.com
 www.visa.com.kh
 www.visa.co.il
 visa.co.ni
-www.cardinalcommerce.com
 usa.visa.com
 aw.visa.com
+www.cardinalcommerce.com
 bm.visa.com
 visa.com.au
 www.visa.co.th
@@ -1481,8 +1481,8 @@ matrix.redditspace.com
 *.reddithelp.com
 oauth.reddit.com
 mod.reddit.com
-accounts.reddit.com
 www.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1724,8 +1724,8 @@ api.adm.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
-partner.tiktokshop.com
 tiktok.com
+partner.tiktokshop.com
 live-backstage.tiktok.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
@@ -1733,8 +1733,8 @@ academy-outbound-ads.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
-business.tiktok.com
 *.tiktok.com
+business.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -1991,8 +1991,8 @@ portal.polygon.technology
 *.xiaomi.com
 *.miui.com
 *.miwifi.com
-*.mi.com
 *.xiaomiyoupin.com
+*.mi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -2470,9 +2470,9 @@ app.command.cysiv.com
 reservations.rezserver.com
 www.bookingholdings.com
 priceline.com
-www.priceline.com
 admin.rezserver.com
 www.getaroom.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -3885,9 +3885,9 @@ hackathon-photos.hackerone-user-content.com
 hackerone-ext-content.com
 profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
+www.hackerone.com
 ctf.hacker101.com
 reviewer.pullrequest.com
-www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 errors.hackerone.net
