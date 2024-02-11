@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 11 09:40:23 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 11 10:18:32 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -86,8 +86,8 @@ editor.zyro.com
 logo.zyro.com
 www.niagahoster.co.id
 https://passport.eufy.com/?app=eufy-us
-mediacenter.23andme.com
 research.23andme.com
+mediacenter.23andme.com
 store.23andme.com
 education.23andme.com
 auth.23andme.com
@@ -2736,8 +2736,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.paylution.com
 *.braintreepayments.com
+*.paylution.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -3518,8 +3518,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 linkpop.com
-shop.app
 *.shopifycloud.com
+shop.app
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
@@ -3560,8 +3560,8 @@ snappublisher.snapchat.com
 www.bitmoji.com
 my.snapchat.com
 playcanvas.com
-business.snapchat.com
 app.snapchat.com
+business.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 web.snapchat.com
