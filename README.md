@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 12 15:45:10 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb 12 16:24:23 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -1792,8 +1792,10 @@ cs.money
 support.cs.money
 wiki.cs.money
 3d.cs.money
-app.faraday.io
-app.faraday.io
+app.faraday.ai
+api.faraday.ai
+app.faraday.ai
+api.faraday.ai
 beta-cloud.acronis.com
 *.5nine.com
 account.acronis.com
@@ -3528,8 +3530,8 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
@@ -3877,13 +3879,13 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 cover-photos-us-east-2.hackerone-user-content.com
-a5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
+a5s.hackerone-ext-content.com
 *.vpn.hackerone.net
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
@@ -3896,8 +3898,8 @@ profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 errors.hackerone.net
 app.pullrequest.com
-cover-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
+cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
