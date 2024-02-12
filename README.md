@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 12 16:45:19 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb 12 17:17:44 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -489,9 +489,9 @@ api.tideplatform.in
 *.tide.co
 api.tideplatform.in
 crash-stats.allizom.org
-accounts.firefox.com
 firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
+accounts.firefox.com
 merino.services.mozilla.com
 push.services.mozilla.com
 sync.services.mozilla.com
@@ -2535,8 +2535,8 @@ blog.creditkarma.com
 https://www.creditkarma.com/savings
 support.creditkarma.ca
 vault.omise.co
-dashboard.omise.co
 www.opn.ooo
+dashboard.omise.co
 api.omise.co
 offsite.omise.co
 www.omise.co
@@ -2738,8 +2738,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.braintreepayments.com
 *.paylution.com
+*.braintreepayments.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -3531,8 +3531,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
