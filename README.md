@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 12 08:40:33 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb 12 09:18:12 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -148,9 +148,9 @@ careers.booking.com
 supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
+*.booking.com
 admin.booking.com
 booking.com
-*.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -211,8 +211,8 @@ app.frontapp.com
 api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -346,8 +346,8 @@ www.practicalmoneyskills.org
 www.yellowpepper.com
 www.practicalmoneyskills.com
 www.visa.co.jp
-www.visa.com.tw
 www.visainfinite.ca
+www.visa.com.tw
 sandbox.secure.checkout.visa.com
 www.visa.com.mx
 visa.com.ru
@@ -826,12 +826,12 @@ www.orbitz.com
 www.mrjet.se
 www.expediapartnersolutions.com
 www.expediaagents.com
-www.expediagroup.com
 www.abritel.fr
+www.expediagroup.com
 www.flights.com
 www.travelocity.com
-www.ebookers.com
 www.vrbo.com
+www.ebookers.com
 www.lastminute.co.nz
 www.lastminute.com.au
 www.cheaptickets.com
@@ -1481,8 +1481,8 @@ matrix.redditspace.com
 *.reddithelp.com
 oauth.reddit.com
 mod.reddit.com
-accounts.reddit.com
 www.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1954,8 +1954,8 @@ store.playstation.com
 *.sonyentertainmentnetwork.com
 my.playstation.com
 ca.account.sony.com
-*.playstation.net
 my.account.sony.com
+*.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -3522,8 +3522,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 linkpop.com
-shop.app
 *.shopifycloud.com
+shop.app
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
@@ -3564,8 +3564,8 @@ snappublisher.snapchat.com
 www.bitmoji.com
 my.snapchat.com
 playcanvas.com
-app.snapchat.com
 business.snapchat.com
+app.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
@@ -3887,9 +3887,9 @@ a5s.hackerone-ext-content.com
 *.vpn.hackerone.net
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
-www.hackerone.com
 ctf.hacker101.com
 reviewer.pullrequest.com
+www.hackerone.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
