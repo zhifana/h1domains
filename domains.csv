@@ -126,8 +126,8 @@ hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,editor.zyro.com,True
 hostinger,www.zyro.com,True
-hostinger,backend.zyro.com,True
 hostinger,logo.zyro.com,True
+hostinger,backend.zyro.com,True
 hostinger,*.000webhost.com,True
 hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
@@ -9372,8 +9372,8 @@ paypal,py.pl,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,*.braintree-api.com,True
-paypal,*.braintreepayments.com,True
 paypal,*.paylution.com,True
+paypal,*.braintreepayments.com,True
 paypal,paypal.me,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
@@ -10257,14 +10257,14 @@ udemy,yourcompany.udemy.com,True
 shopify,arrive-server.shopifycloud.com,True
 shopify,your-store.myshopify.com,True
 shopify,linkpop.com,True
-shopify,shop.app,True
 shopify,*.shopifycloud.com,True
+shopify,shop.app,True
 shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
@@ -10740,8 +10740,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,api.hackerone.com,True
 security,hackerone.com,True
+security,api.hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,cover-photos-us-east-2.hackerone-user-content.com,True
