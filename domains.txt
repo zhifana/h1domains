@@ -207,8 +207,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 admin.booking.com
-*.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -5966,6 +5966,11 @@ atlantis.spark.ai
 local-auth.spark.ai
 redirect.spark.ai
 v1docs.spark.ai
+acc.kreiselelectric.com
+customerportal.kreiselelectric.com
+file.kreiselelectric.com
+terms.kreiselelectric.com
+www.mail.kreiselelectric.com
 anubhutiapi.deere.com
 equipment.deere.com
 contest.deere.com
@@ -9371,8 +9376,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.paylution.com
 *.braintreepayments.com
+*.paylution.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -10384,12 +10389,12 @@ stream.frame.io
 firefly.adobe.com
 *.adobeaemcloud.com
 community.adobe.com
-accounts.frame.io
 auth.services.adobe.com
 app.frame.io
 *.adobe.com
 magento.com
 nicetryapril.na1.echosignsandbox.com
+accounts.frame.io
 *.marketo.com
 *.omniture.com
 *.typekit.com
@@ -10716,8 +10721,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack.com
 slack-imgs.com
+slack.com
 www.quip.com
 slack.com
 api.slack.com
@@ -10758,8 +10763,8 @@ profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 errors.hackerone.net
 app.pullrequest.com
-b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
