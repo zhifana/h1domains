@@ -1518,8 +1518,8 @@ http://vdp.kahootz.com
 *.abnamro.nl
 *.tikkie.me
 *.abnamrolease.com
-*.abnamro.org
 *neuflizeobc.fr
+*.abnamro.org
 *.abnamro.be
 *.new10.com
 *.abnamro.com
@@ -2827,8 +2827,8 @@ biologyfinder.com
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
-yourdomain.freshchat.com
 yourdomain.myfreshworks.com
+yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -2948,8 +2948,8 @@ wgwebservices.snapfish.com
 snapfish.com
 *.snapfish.com
 admin.spoonflower.com
-shutterfly.com
 *.sbs.shutterfly.com
+shutterfly.com
 tinyprints.com
 preschoolsmiles.com
 snapfish.co.uk
@@ -3296,8 +3296,8 @@ spdb.stanford.edu
 vault.stanford.edu
 workgroup.stanford.edu
 mailman.stanford.edu
-www.stanford.edu
 login.stanford.edu
+www.stanford.edu
 *.sahr.stanford.edu
 www.stanford.edu
 bi.stanford.edu
@@ -9319,8 +9319,8 @@ www.applevacations.com
 res.hyattinclusivecollection.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
-*.grammarly.com
 *.grammarlyaws.com
+*.grammarly.com
 *.grammarly.io
 grammarly.ai
 *.grammarly.io
@@ -9383,8 +9383,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.braintreepayments.com
 *.paylution.com
+*.braintreepayments.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com

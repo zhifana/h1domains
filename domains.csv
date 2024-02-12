@@ -1519,8 +1519,8 @@ abn_amro_vdp,*abnamroprivatebanking.be,False
 abn_amro_vdp,*.abnamro.nl,False
 abn_amro_vdp,*.tikkie.me,False
 abn_amro_vdp,*.abnamrolease.com,False
-abn_amro_vdp,*.abnamro.org,False
 abn_amro_vdp,*neuflizeobc.fr,False
+abn_amro_vdp,*.abnamro.org,False
 abn_amro_vdp,*.abnamro.be,False
 abn_amro_vdp,*.new10.com,False
 abn_amro_vdp,*.abnamro.com,False
@@ -2828,8 +2828,8 @@ clarivate,biologyfinder.com,False
 freshworks,yourdomain.freshcaller.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshdesk.com,True
-freshworks,yourdomain.freshchat.com,True
 freshworks,yourdomain.myfreshworks.com,True
+freshworks,yourdomain.freshchat.com,True
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshchat.com,True
@@ -2949,8 +2949,8 @@ shutterfly_vdp,wgwebservices.snapfish.com,False
 shutterfly_vdp,snapfish.com,False
 shutterfly_vdp,*.snapfish.com,False
 shutterfly_vdp,admin.spoonflower.com,False
-shutterfly_vdp,shutterfly.com,False
 shutterfly_vdp,*.sbs.shutterfly.com,False
+shutterfly_vdp,shutterfly.com,False
 shutterfly_vdp,tinyprints.com,False
 shutterfly_vdp,preschoolsmiles.com,False
 shutterfly_vdp,snapfish.co.uk,False
@@ -3297,8 +3297,8 @@ stanford-university,spdb.stanford.edu,False
 stanford-university,vault.stanford.edu,False
 stanford-university,workgroup.stanford.edu,False
 stanford-university,mailman.stanford.edu,False
-stanford-university,www.stanford.edu,False
 stanford-university,login.stanford.edu,False
+stanford-university,www.stanford.edu,False
 stanford-university,*.sahr.stanford.edu,False
 stanford-university,www.stanford.edu,False
 stanford-university,bi.stanford.edu,False
@@ -9320,8 +9320,8 @@ hyatt,www.applevacations.com,True
 hyatt,res.hyattinclusivecollection.com,True
 hyatt,www.hyattinclusivecollection.com,True
 hyatt,booking.applevacations.com,True
-grammarly,*.grammarly.com,True
 grammarly,*.grammarlyaws.com,True
+grammarly,*.grammarly.com,True
 grammarly,*.grammarly.io,True
 grammarly,grammarly.ai,True
 grammarly,*.grammarly.io,True
@@ -9384,8 +9384,8 @@ paypal,py.pl,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,*.braintree-api.com,True
-paypal,*.braintreepayments.com,True
 paypal,*.paylution.com,True
+paypal,*.braintreepayments.com,True
 paypal,paypal.me,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
