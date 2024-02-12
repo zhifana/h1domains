@@ -36,8 +36,8 @@ tari_labs,tlu.tarilabs.com,False
 international_airlines_group,www.hangar51.com,False
 international_airlines_group,*.iagcargo.com,False
 international_airlines_group,*.iaggbs.com,False
-international_airlines_group,*.aerlingus.com,False
 international_airlines_group,*.iairgroup.com,False
+international_airlines_group,*.aerlingus.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
 international_airlines_group,www.aerlingus.com,False
@@ -174,8 +174,8 @@ mercadolibre,www.mercadopago.cl,True
 mercadolibre,www.mercadopago.com.uy,True
 mercadolibre,www.mercadolibre.com.mx,True
 mercadolibre,www.mercadolibre.com.uy,True
-mercadolibre,www.mercadolibre.cl,True
 mercadolibre,www.mercadolivre.com.br,True
+mercadolibre,www.mercadolibre.cl,True
 mercadolibre,www.mercadopago.com.co,True
 mercadolibre,www.mercadopago.com.pe,True
 mercadolibre,api.mercadopago.com,True
@@ -1536,12 +1536,12 @@ abn_amro_vdp,*.abnamro.be,False
 abn_amro_vdp,*.abnamrolease.com,False
 abn_amro_vdp,*.abnamroinvestmentsolutions.com,False
 abn_amro_vdp,*.new10.com,False
-fertitta_entertainment,thepostoak.com,False
 fertitta_entertainment,dungeonofdoomkemah.com,False
+fertitta_entertainment,thepostoak.com,False
+fertitta_entertainment,wildwoodcasino.net,False
 fertitta_entertainment,galvestonholidayinn.com,False
 fertitta_entertainment,r-u-i.com,False
 fertitta_entertainment,sanluisresort.com,False
-fertitta_entertainment,wildwoodcasino.net,False
 fertitta_entertainment,hunttinginn.com,False
 fertitta_entertainment,goldennugget.com,False
 fertitta_entertainment,fertittaentertainmentinc.com,False
@@ -2835,10 +2835,10 @@ freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshchat.com,True
 freshworks,yourdomain.freshcaller.com,True
 freshworks,yourdomain.myfreshworks.com,True
-kolesagroup,api.krisha.kz,True
 kolesagroup,api.kolesa.kz,True
 kolesagroup,app.kolesa.kz,True
 kolesagroup,id.kolesa.kz,True
+kolesagroup,api.krisha.kz,True
 kolesagroup,m.krisha.kz,True
 kolesagroup,app.avtoelon.uz,True
 kolesagroup,avtoelon.uz,True
@@ -2876,8 +2876,8 @@ oyo_rooms,preprod.oyorooms.ms,False
 oyo_rooms,http://patron.oyo.com/blog/in,False
 mozilla_critical_services,crash-stats.allizom.org,True
 mozilla_critical_services,firefox-ci-tc.services.mozilla.com,True
-mozilla_critical_services,firefox.settings.services.mozilla.com,True
 mozilla_critical_services,accounts.firefox.com,True
+mozilla_critical_services,firefox.settings.services.mozilla.com,True
 mozilla_critical_services,merino.services.mozilla.com,True
 mozilla_critical_services,push.services.mozilla.com,True
 mozilla_critical_services,sync.services.mozilla.com,True
@@ -7296,9 +7296,9 @@ tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
-tiktok,*.tiktokv.com,True
 tiktok,business.tiktok.com,True
 tiktok,*.tiktok.com,True
+tiktok,*.tiktokv.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -9384,8 +9384,8 @@ paypal,py.pl,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,*.braintree-api.com,True
-paypal,*.paylution.com,True
 paypal,*.braintreepayments.com,True
+paypal,*.paylution.com,True
 paypal,paypal.me,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
@@ -10276,8 +10276,8 @@ shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10696,8 +10696,8 @@ irccloud,blog.irccloud.com,True
 coinbase,custody.coinbase.com,True
 coinbase,prime.coinbase.com,True
 coinbase,*.cbhq.net,True
-coinbase,*.coinbase.com,True
 coinbase,pro.coinbase.com,True
+coinbase,*.coinbase.com,True
 coinbase,international.coinbase.com,True
 coinbase,cloud.coinbase.com,True
 coinbase,api.coinbase.com,True

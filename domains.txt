@@ -35,8 +35,8 @@ tlu.tarilabs.com
 www.hangar51.com
 *.iagcargo.com
 *.iaggbs.com
-*.aerlingus.com
 *.iairgroup.com
+*.aerlingus.com
 www.avios.com
 www.iairgroup.com
 www.aerlingus.com
@@ -173,8 +173,8 @@ www.mercadopago.cl
 www.mercadopago.com.uy
 www.mercadolibre.com.mx
 www.mercadolibre.com.uy
-www.mercadolibre.cl
 www.mercadolivre.com.br
+www.mercadolibre.cl
 www.mercadopago.com.co
 www.mercadopago.com.pe
 api.mercadopago.com
@@ -1535,12 +1535,12 @@ http://vdp.kahootz.com
 *.abnamrolease.com
 *.abnamroinvestmentsolutions.com
 *.new10.com
-thepostoak.com
 dungeonofdoomkemah.com
+thepostoak.com
+wildwoodcasino.net
 galvestonholidayinn.com
 r-u-i.com
 sanluisresort.com
-wildwoodcasino.net
 hunttinginn.com
 goldennugget.com
 fertittaentertainmentinc.com
@@ -2834,10 +2834,10 @@ yourdomain.freshservice.com
 yourdomain.freshchat.com
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
-api.krisha.kz
 api.kolesa.kz
 app.kolesa.kz
 id.kolesa.kz
+api.krisha.kz
 m.krisha.kz
 app.avtoelon.uz
 avtoelon.uz
@@ -2875,8 +2875,8 @@ preprod.oyorooms.ms
 http://patron.oyo.com/blog/in
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
-firefox.settings.services.mozilla.com
 accounts.firefox.com
+firefox.settings.services.mozilla.com
 merino.services.mozilla.com
 push.services.mozilla.com
 sync.services.mozilla.com
@@ -7295,9 +7295,9 @@ www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktokv.com
 business.tiktok.com
 *.tiktok.com
+*.tiktokv.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -9383,8 +9383,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.paylution.com
 *.braintreepayments.com
+*.paylution.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -10275,8 +10275,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -10695,8 +10695,8 @@ blog.irccloud.com
 custody.coinbase.com
 prime.coinbase.com
 *.cbhq.net
-*.coinbase.com
 pro.coinbase.com
+*.coinbase.com
 international.coinbase.com
 cloud.coinbase.com
 api.coinbase.com
