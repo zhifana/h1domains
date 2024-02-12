@@ -35,9 +35,9 @@ tari_labs,www.tarilabs.com,True
 tari_labs,tlu.tarilabs.com,False
 international_airlines_group,www.hangar51.com,False
 international_airlines_group,*.iaggbs.com,False
+international_airlines_group,*.iagcargo.com,False
 international_airlines_group,*.iairgroup.com,False
 international_airlines_group,*.aerlingus.com,False
-international_airlines_group,*.iagcargo.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
 international_airlines_group,www.aerlingus.com,False
@@ -1591,9 +1591,9 @@ aboitizpower_corporation,retailelectricity.com.ph,False
 aboitizpower_corporation,snaboitizpower.com,False
 aboitizpower_corporation,*.visayanelectric.com,False
 aboitizpower_corporation,aboitizpower.info,False
-aboitizpower_corporation,*.aboitizpower.com,False
 aboitizpower_corporation,*.davaolight.com,False
 aboitizpower_corporation,*.oilbu.com,False
+aboitizpower_corporation,*.aboitizpower.com,False
 aboitizpower_corporation,*.snaboitiz.com,False
 aboitizpower_corporation,*.cotabatolight.com,False
 aboitizpower_corporation,*.apps.sofa.csg.aboitizpower.org,False
@@ -4631,10 +4631,10 @@ planetart,*.photoaffections.com,False
 planetart,www.canvasworld.com,False
 planetart,*.gifts.com,False
 planetart,*.canvasworld.com,False
-planetart,*.iseeme.com,False
 planetart,*.personalcreations.com,False
 planetart,www.gifts.com,False
 planetart,*.cafepress.com,False
+planetart,*.iseeme.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -7411,8 +7411,8 @@ enjin,nft.io,True
 enjin,platform.enjin.io,True
 enjin,api.enjinx.io,False
 enjin,enjinx.io,False
-figma,www.figma.com,True
 figma,api.figma.com,True
+figma,www.figma.com,True
 figma,www.figma.com,True
 figma,api.figma.com,True
 cs_money,wiki.cs.money,True
@@ -9348,8 +9348,8 @@ fanduel,*racing.fanduel.com,True
 fanduel,m.4njbets.tvg.com,True
 fanduel,promos.tvg.com,True
 fanduel,us.tvg.com,True
-fanduel,tvg.com,True
 fanduel,*.fanduel.com,True
+fanduel,tvg.com,True
 fanduel,*.fanduel.com,True
 fanduel,*racing.fanduel.com,True
 fanduel,fdbox.net,True
@@ -10121,9 +10121,9 @@ github,*.githubapp.com,True
 github,gist.github.com,True
 github,*.github.net,True
 github,education.github.com,True
-github,npmjs.org,True
 github,*.githubusercontent.com,True
 github,github.com,True
+github,npmjs.org,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
@@ -10276,8 +10276,8 @@ shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10523,8 +10523,8 @@ airbnb,*.airbnb.com,True
 airbnb,api.airbnb.com,True
 airbnb,open.airbnb.com,True
 airbnb,callbacks.airbnb.com,True
-airbnb,assets.airbnb.com,True
 airbnb,www.airbnb.com,True
+airbnb,assets.airbnb.com,True
 airbnb,www.airbnb.com,True
 airbnb,next.airbnb.com,True
 airbnb,api.airbnb.com,True
@@ -10703,8 +10703,8 @@ coinbase,cloud.coinbase.com,True
 coinbase,api.coinbase.com,True
 coinbase,institutional.coinbase.com,True
 coinbase,*.base.org,True
-coinbase,coinbase.com,True
 coinbase,api.custody.coinbase.com,True
+coinbase,coinbase.com,True
 coinbase,commerce.coinbase.com,True
 coinbase,*.coinbase.com,True
 coinbase,*.cbhq.net,True

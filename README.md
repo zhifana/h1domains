@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 12 18:42:39 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb 12 19:18:38 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -1780,8 +1780,8 @@ platform.enjin.io
 nft.io
 nft.io
 platform.enjin.io
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -2704,8 +2704,8 @@ mobile-prod.tvg.com
 m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
-tvg.com
 *.fanduel.com
+tvg.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3378,9 +3378,9 @@ classroom.github.com
 gist.github.com
 *.github.net
 education.github.com
-npmjs.org
 *.githubusercontent.com
 github.com
+npmjs.org
 github.com
 api.github.com
 gist.github.com
@@ -3531,8 +3531,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3660,8 +3660,8 @@ www.hoteltonight.com
 api.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
-assets.airbnb.com
 www.airbnb.com
+assets.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3830,8 +3830,8 @@ cloud.coinbase.com
 api.coinbase.com
 institutional.coinbase.com
 *.base.org
-coinbase.com
 api.custody.coinbase.com
+coinbase.com
 commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net
