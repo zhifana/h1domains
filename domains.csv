@@ -166,8 +166,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,you.23andme.com,True
 23andme_bbp,research.23andme.com,True
 mercadolibre,www.mercadolibre.com.pe,True
-mercadolibre,www.mercadopago.com.uy,True
 mercadolibre,www.mercadopago.cl,True
+mercadolibre,www.mercadopago.com.uy,True
 mercadolibre,www.mercadolibre.com.mx,True
 mercadolibre,www.mercadolibre.com.uy,True
 mercadolibre,www.mercadolibre.cl,True
@@ -207,8 +207,8 @@ bookingcom,careers.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,flights.booking.com,True
-bookingcom,*.booking.com,True
 bookingcom,admin.booking.com,True
+bookingcom,*.booking.com,True
 bookingcom,booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,taxis.booking.com,True
@@ -4629,8 +4629,8 @@ planetart,*.gifts.com,False
 planetart,*.canvasworld.com,False
 planetart,*.iseeme.com,False
 planetart,*.cafepress.com,False
-planetart,www.gifts.com,False
 planetart,*.personalcreations.com,False
+planetart,www.gifts.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -6300,8 +6300,8 @@ zebra_vdp,*.zams-eu.zebra.com,False
 zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,*.profitect.com,False
 zebra_vdp,reflexisinc.com/,False
-zebra_vdp,*.zebrasports.com,False
 zebra_vdp,supportcommunity.zebra.com,False
+zebra_vdp,*.zebrasports.com,False
 zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
@@ -6460,8 +6460,8 @@ reddit,matrix.redditspace.com,True
 reddit,*.reddithelp.com,True
 reddit,oauth.reddit.com,True
 reddit,mod.reddit.com,True
-reddit,www.reddit.com,True
 reddit,accounts.reddit.com,True
+reddit,www.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -9373,8 +9373,8 @@ paypal,py.pl,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,*.braintree-api.com,True
-paypal,*.paylution.com,True
 paypal,*.braintreepayments.com,True
+paypal,*.paylution.com,True
 paypal,paypal.me,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
@@ -10258,8 +10258,8 @@ udemy,yourcompany.udemy.com,True
 shopify,arrive-server.shopifycloud.com,True
 shopify,your-store.myshopify.com,True
 shopify,linkpop.com,True
-shopify,shop.app,True
 shopify,*.shopifycloud.com,True
+shopify,shop.app,True
 shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
@@ -10644,9 +10644,9 @@ automattic,intensedebate.com,True
 automattic,wordpress.com,True
 automattic,safe.tumblr.com,True
 automattic,t.umblr.com,True
-automattic,mailpoet.com,True
 automattic,www.tumblr.com,True
 automattic,*.tumblr.com,True
+automattic,mailpoet.com,True
 automattic,secure.tumblr.com,True
 automattic,*.tumblr.com,True
 automattic,*.srvcs.tumblr.com,True

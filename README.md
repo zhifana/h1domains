@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 12 10:22:06 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb 12 10:43:03 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -107,8 +107,8 @@ therapeutics.23andme.com
 you.23andme.com
 research.23andme.com
 www.mercadolibre.com.pe
-www.mercadopago.com.uy
 www.mercadopago.cl
+www.mercadopago.com.uy
 www.mercadolibre.com.mx
 www.mercadolibre.com.uy
 www.mercadolibre.cl
@@ -148,8 +148,8 @@ careers.booking.com
 supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
-*.booking.com
 admin.booking.com
+*.booking.com
 booking.com
 metasearch-api.booking.com
 taxis.booking.com
@@ -1481,8 +1481,8 @@ matrix.redditspace.com
 *.reddithelp.com
 oauth.reddit.com
 mod.reddit.com
-www.reddit.com
 accounts.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2736,8 +2736,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.paylution.com
 *.braintreepayments.com
+*.paylution.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -3522,8 +3522,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 linkpop.com
-shop.app
 *.shopifycloud.com
+shop.app
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
@@ -3780,9 +3780,9 @@ intensedebate.com
 wordpress.com
 safe.tumblr.com
 t.umblr.com
-mailpoet.com
 www.tumblr.com
 *.tumblr.com
+mailpoet.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
