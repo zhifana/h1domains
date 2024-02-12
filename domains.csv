@@ -207,8 +207,8 @@ bookingcom,careers.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,flights.booking.com,True
-bookingcom,admin.booking.com,True
 bookingcom,*.booking.com,True
+bookingcom,admin.booking.com,True
 bookingcom,booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,taxis.booking.com,True
@@ -3048,8 +3048,8 @@ apnic,*.seedalliance.net,False
 apnic,* IPv4 addresses,False
 apnic,aso.apnic.net,False
 apnic,*.isif.asia,False
-apnic,*.apnic.net,False
 apnic,*.apnic.foundation,False
+apnic,*.apnic.net,False
 apnic,*.apidt.org,False
 apnic,orbit.apnic.net,False
 apnic,stats.labs.apnic.net,False
@@ -6301,8 +6301,8 @@ zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,*.profitect.com,False
 zebra_vdp,reflexisinc.com/,False
 zebra_vdp,*.zebrasports.com,False
-zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,cmm01.sl.zebra.com,False
+zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -10740,9 +10740,9 @@ yahoo,onepush.query.yahoo.com,True
 yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
-security,api.hackerone.com,True
 security,hackerone-user-content.com,True
 security,hackerone.com,True
+security,api.hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True

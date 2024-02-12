@@ -206,8 +206,8 @@ careers.booking.com
 supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
-admin.booking.com
 *.booking.com
+admin.booking.com
 booking.com
 metasearch-api.booking.com
 taxis.booking.com
@@ -3047,8 +3047,8 @@ standard.paystack.co
 * IPv4 addresses
 aso.apnic.net
 *.isif.asia
-*.apnic.net
 *.apnic.foundation
+*.apnic.net
 *.apidt.org
 orbit.apnic.net
 stats.labs.apnic.net
@@ -6300,8 +6300,8 @@ zsbsupport.zebra.com
 *.profitect.com
 reflexisinc.com/
 *.zebrasports.com
-supportcommunity.zebra.com
 cmm01.sl.zebra.com
+supportcommunity.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -10739,9 +10739,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-api.hackerone.com
 hackerone-user-content.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
