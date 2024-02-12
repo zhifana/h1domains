@@ -38,8 +38,8 @@ www.hangar51.com
 *.iagcargo.com
 *.aerlingus.com
 www.avios.com
-www.iairgroup.com
 www.aerlingus.com
+www.iairgroup.com
 www.iaggbs.com
 www.aerlingus.com
 www.avios.com
