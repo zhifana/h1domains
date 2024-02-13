@@ -3111,8 +3111,8 @@ indrive,*.indriver.com,True
 indrive,priority.eu-east-1.indriverapp.com,True
 indrive,auth2.indrive.tech,True
 indrive,debug.clairvoyance.indrive.tech,True
-indrive,*.indriverapp.com,True
 indrive,watchdocs.indriverapp.com,True
+indrive,*.indriverapp.com,True
 indrive,file-storage-front.eu-east-1.indriverapp.com,True
 indrive,wga.volans.tech,True
 indrive,volans.tech,True
@@ -9410,8 +9410,8 @@ paypal,py.pl,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,*.braintree-api.com,True
-paypal,*.paylution.com,True
 paypal,*.braintreepayments.com,True
+paypal,*.paylution.com,True
 paypal,paypal.me,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
@@ -10551,8 +10551,8 @@ airbnb,*.airbnb.com,True
 airbnb,open.airbnb.com,True
 airbnb,callbacks.airbnb.com,True
 airbnb,assets.airbnb.com,True
-airbnb,api.airbnb.com,True
 airbnb,www.airbnb.com,True
+airbnb,api.airbnb.com,True
 airbnb,www.airbnb.com,True
 airbnb,next.airbnb.com,True
 airbnb,api.airbnb.com,True
