@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 13 18:24:11 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 13 18:43:07 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -2080,6 +2080,8 @@ advertising.amazon.com
 track.amazon.com
 address-photos.amazon.com
 affiliate-program.amazon.com
+*.amazon.cl
+*.amazon.com.be
 aca-livecards-service.amazon.com
 dss-na.amazon.com
 ftvpes-na.amazon.com
@@ -2096,8 +2098,16 @@ cloudaccesstelemetry-us-east-1.amazon.com
 manufacturing.amazon.com
 aax-us-iad.amazon.com
 completion.amazon.com
-dolphin.amazon.com
-ftvmps-na.amazon.com
+*.amazon.cl
+*.amazon.co.za
+*.amazon.com.au
+*.amazon.com.br
+*.amazon.com.co
+*.amazon.com.mx
+*.amazon.com.ng
+*.amazon.com.tr
+*.amazon.pl
+*.amazon.com.be
 smile.amazon.*
 flex.amazon.*
 logistics.amazon.*
@@ -2740,8 +2750,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.paylution.com
 *.braintreepayments.com
+*.paylution.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com

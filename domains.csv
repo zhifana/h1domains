@@ -1697,8 +1697,8 @@ shi_vdp,api.shi.com,False
 shi_vdp,renewalreminder.shi.com,False
 shi_vdp,apiconsole.shi.com,False
 shi_vdp,assetinsights.shi.com,False
-shi_vdp,servicepro.shi.com,False
 shi_vdp,accounts.shi.com,False
+shi_vdp,servicepro.shi.com,False
 shi_vdp,www.content.shi.com,False
 shi_vdp,www.shi.com,False
 shi_vdp,accounts.shi.com,False
@@ -7826,6 +7826,8 @@ amazonvrp,advertising.amazon.com,True
 amazonvrp,track.amazon.com,True
 amazonvrp,address-photos.amazon.com,True
 amazonvrp,affiliate-program.amazon.com,True
+amazonvrp,*.amazon.cl,True
+amazonvrp,*.amazon.com.be,True
 amazonvrp,aca-livecards-service.amazon.com,True
 amazonvrp,dss-na.amazon.com,True
 amazonvrp,ftvpes-na.amazon.com,True
@@ -7842,8 +7844,16 @@ amazonvrp,cloudaccesstelemetry-us-east-1.amazon.com,True
 amazonvrp,manufacturing.amazon.com,True
 amazonvrp,aax-us-iad.amazon.com,True
 amazonvrp,completion.amazon.com,True
-amazonvrp,dolphin.amazon.com,True
-amazonvrp,ftvmps-na.amazon.com,True
+amazonvrp,*.amazon.cl,True
+amazonvrp,*.amazon.co.za,True
+amazonvrp,*.amazon.com.au,True
+amazonvrp,*.amazon.com.br,True
+amazonvrp,*.amazon.com.co,True
+amazonvrp,*.amazon.com.mx,True
+amazonvrp,*.amazon.com.ng,True
+amazonvrp,*.amazon.com.tr,True
+amazonvrp,*.amazon.pl,True
+amazonvrp,*.amazon.com.be,True
 amazonvrp,smile.amazon.*,True
 amazonvrp,flex.amazon.*,True
 amazonvrp,logistics.amazon.*,True
@@ -9407,8 +9417,8 @@ paypal,py.pl,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,*.braintree-api.com,True
-paypal,*.paylution.com,True
 paypal,*.braintreepayments.com,True
+paypal,*.paylution.com,True
 paypal,paypal.me,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
