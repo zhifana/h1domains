@@ -9385,8 +9385,8 @@ paypal,py.pl,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,*.braintree-api.com,True
-paypal,*.paylution.com,True
 paypal,*.braintreepayments.com,True
+paypal,*.paylution.com,True
 paypal,paypal.me,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
