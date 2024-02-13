@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 13 17:16:23 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 13 17:43:28 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -19,8 +19,8 @@ www.arkoselabs.com
 verify.arkoselabs.com
 iframe.arkoselabs.com
 customer-sessions.arkoselabs.com
-client-api.arkoselabs.com
 cdn.arkoselabs.com
+client-api.arkoselabs.com
 portal.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
@@ -91,9 +91,9 @@ research.23andme.com
 store.23andme.com
 education.23andme.com
 api.23andme.com
+blog.23andme.com
 you.23andme.com
 auth.23andme.com
-blog.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -1459,8 +1459,8 @@ gql.reddit.com
 app.spiketrap.io
 old.reddit.com
 api.reddit.com
-ads.reddit.com
 *.redditmedia.com
+ads.reddit.com
 new.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -1732,9 +1732,9 @@ www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktok.com
 *.tiktokv.com
 business.tiktok.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -2738,8 +2738,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.braintreepayments.com
 *.paylution.com
+*.braintreepayments.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -3531,8 +3531,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

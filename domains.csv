@@ -66,8 +66,8 @@ arkose_labs,www.arkoselabs.com,True
 arkose_labs,verify.arkoselabs.com,True
 arkose_labs,iframe.arkoselabs.com,True
 arkose_labs,customer-sessions.arkoselabs.com,True
-arkose_labs,client-api.arkoselabs.com,True
 arkose_labs,cdn.arkoselabs.com,True
+arkose_labs,client-api.arkoselabs.com,True
 arkose_labs,portal.arkoselabs.com,True
 arkose_labs,client-api.arkoselabs.com,True
 arkose_labs,cdn.arkoselabs.com,True
@@ -152,9 +152,9 @@ egress-vdp,www.egress.com,False
 23andme_bbp,store.23andme.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,api.23andme.com,True
+23andme_bbp,blog.23andme.com,True
 23andme_bbp,you.23andme.com,True
 23andme_bbp,auth.23andme.com,True
-23andme_bbp,blog.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -5753,7 +5753,6 @@ john-deere,work-dispatcher-mobile.cert.us.e01.c01.johndeerecloud.com,False
 john-deere,citratest.deere.com,False
 john-deere,ims.tcms.tal.deere.com,False
 john-deere,marksman.surepointag.com,False
-john-deere,notifications.deere.com,False
 john-deere,jdfy-cert.deere.com,False
 john-deere,partsadvisor.deere.com,False
 john-deere,jdisonline.com,False
@@ -6469,8 +6468,8 @@ reddit,gql.reddit.com,True
 reddit,app.spiketrap.io,True
 reddit,old.reddit.com,True
 reddit,api.reddit.com,True
-reddit,ads.reddit.com,True
 reddit,*.redditmedia.com,True
+reddit,ads.reddit.com,True
 reddit,new.reddit.com,True
 reddit,strapi.reddit.com,True
 reddit,m.reddit.com,True
@@ -7318,9 +7317,9 @@ tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
-tiktok,*.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,business.tiktok.com,True
+tiktok,*.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -9406,8 +9405,8 @@ paypal,py.pl,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,*.braintree-api.com,True
-paypal,*.braintreepayments.com,True
 paypal,*.paylution.com,True
+paypal,*.braintreepayments.com,True
 paypal,paypal.me,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
@@ -10300,8 +10299,8 @@ shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
-shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
