@@ -9383,8 +9383,8 @@ paypal,py.pl,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,*.braintree-api.com,True
-paypal,*.paylution.com,True
 paypal,*.braintreepayments.com,True
+paypal,*.paylution.com,True
 paypal,paypal.me,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
@@ -10245,8 +10245,8 @@ coursera,www.coursera.org,False
 zendesk,developer.zendesk.com,True
 zendesk,smooch.io,True
 zendesk,h1-your-domain.zendesk.com,True
-zendesk,www.zendesk.com,True
 zendesk,apps.zendesk.com,True
+zendesk,www.zendesk.com,True
 zendesk,api.smooch.io,True
 zendesk,app.futuresimple.com,True
 zendesk,zopim.com,True
