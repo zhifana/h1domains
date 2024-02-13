@@ -2732,8 +2732,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.braintreepayments.com
 *.paylution.com
+*.braintreepayments.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
