@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 13 18:43:07 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 13 19:16:07 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -598,8 +598,8 @@ ci.indrive.dev
 priority.eu-east-1.indriverapp.com
 auth2.indrive.tech
 debug.clairvoyance.indrive.tech
-watchdocs.indriverapp.com
 *.indriverapp.com
+watchdocs.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 wga.volans.tech
 volans.tech
@@ -2069,7 +2069,6 @@ cscentral.amazon.com
 dcape-na.amazon.com
 mag-na.amazon.com
 kca.amazon.com
-merch.amazon.com
 dna.amazon.com
 relay.amazon.com
 imdbtv-backend-na.amazon.com
@@ -2082,6 +2081,7 @@ address-photos.amazon.com
 affiliate-program.amazon.com
 *.amazon.cl
 *.amazon.com.be
+merch.amazon.com
 aca-livecards-service.amazon.com
 dss-na.amazon.com
 ftvpes-na.amazon.com
@@ -3561,9 +3561,9 @@ story.snapchat.com
 businesshelp.snapchat.com
 msg.playcanvas.com
 create.snapchat.com
-ads.snapchat.com
 forum.playcanvas.com
 accounts.snapchat.com
+ads.snapchat.com
 scan.snapchat.com
 code.playcanvas.com
 login.playcanvas.com
