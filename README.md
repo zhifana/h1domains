@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 13 17:43:28 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 13 18:24:11 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -1621,14 +1621,16 @@ api.yoti.com
 www.yotisign.com
 core.yoti.com
 ccloud.yoti.com
+hub.yoti.com
 code.yoti.com
-frankd.yoti.com
+identity.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
 code.yoti.com
 www.yotisign.com
-frankd.yoti.com
+hub.yoti.com
+identity.yoti.com
 app.netlify.com
 internal.netlify.com
 netlify-rum.netlify.app

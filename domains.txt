@@ -5717,7 +5717,6 @@ stage-vhb.agrisync.com
 vnd.agrisync.com
 johndeereinnovation.com
 johndeeretours.deere.com
-shop.deere.com
 stellarsupport.deere.com
 machinereports.deere.com
 registration.deere.com
@@ -5753,6 +5752,7 @@ citratest.deere.com
 ims.tcms.tal.deere.com
 marksman.surepointag.com
 jdfy-cert.deere.com
+map.deere.com
 partsadvisor.deere.com
 jdisonline.com
 myjohndeere.deere.com
@@ -7203,14 +7203,16 @@ api.yoti.com
 www.yotisign.com
 core.yoti.com
 ccloud.yoti.com
+hub.yoti.com
 code.yoti.com
-frankd.yoti.com
+identity.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
 code.yoti.com
 www.yotisign.com
-frankd.yoti.com
+hub.yoti.com
+identity.yoti.com
 app.netlify.com
 internal.netlify.com
 netlify-rum.netlify.app
@@ -7987,9 +7989,9 @@ unified.cloudways.com
 cloud.digitalocean.com
 marketplace.digitalocean.com
 api.cloudways.com
-api.digitalocean.com
 169.254.169.254
 *.digitalocean.com
+api.digitalocean.com
 www.cloudways.com
 do.co
 hacktoberfest.com
@@ -10421,10 +10423,10 @@ firefly.adobe.com
 community.adobe.com
 auth.services.adobe.com
 app.frame.io
-accounts.frame.io
 magento.com
 *.adobe.com
 nicetryapril.na1.echosignsandbox.com
+accounts.frame.io
 *.marketo.com
 *.omniture.com
 *.typekit.com
