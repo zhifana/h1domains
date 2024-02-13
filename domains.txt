@@ -1694,8 +1694,8 @@ notary.aven.com
 *.servicenow.com
 *.service-now.com
 durango.shi.com
-renewalreminder.shi.com
 api.shi.com
+renewalreminder.shi.com
 apiconsole.shi.com
 assetinsights.shi.com
 servicepro.shi.com
@@ -1790,13 +1790,13 @@ aw.visa.com
 bm.visa.com
 visa.com.au
 www.visa.co.th
-www.visa.co.uk
 www.visa.co.ve
 visa.co.za
 www.cybersource.com
 www.authorize.net
 www.visa.co.ke
 www.visa.co.id
+www.visa.co.uk
 cw.visa.com
 ht.visa.com
 www.visa.com.br
@@ -2936,8 +2936,8 @@ snapfish.ie
 snapfish.it
 *.photoccino.com
 staging.spoonflower.com
-photo.walgreens.com
 *.lifetouch.com
+photo.walgreens.com
 lifetouch.com
 prestigeportraits.com
 snapfish.de
@@ -2956,8 +2956,8 @@ snapfish.co.uk
 snapfish.com.au
 snapfish.co.nz
 blog.spoonflower.com
-*.shutterfly.com
 www.spoonflower.com
+*.shutterfly.com
 *.shutterfly.com
 *.snapfish.com
 *.sf-cdn.com
