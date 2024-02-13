@@ -1754,7 +1754,6 @@ redox_bbp,help.redoxengine.com,True
 visa,www.visa.com.cn,True
 visa,www.visa.com.hk,True
 visa,www.visa.com.lc,True
-visa,www.visa.com.ph,True
 visa,visa.com.ua,True
 visa,www.fraedom.com,True
 visa,www.practicalmoneyskills.org,True
@@ -1764,6 +1763,7 @@ visa,sandbox.secure.checkout.visa.com,True
 visa,www.visainfinite.ca,True
 visa,www.yellowpepper.com,True
 visa,www.practicalmoneyskills.com,True
+visa,www.visa.com.ph,True
 visa,www.visa.com.mx,True
 visa,visa.com.ru,True
 visa,www.visa.com.cy,True
@@ -4616,9 +4616,9 @@ fidelity,*.advisorchannel.com,False
 fidelity,*.mystreetscape.com,False
 fidelity,*.wealthscape.com,False
 fidelity,*.fidelity.com,False
-planetart,ai.planetart.com,False
 planetart,www.personalcreations.com,False
 planetart,www.mycustomcase.com,False
+planetart,ai.planetart.com,False
 planetart,www.photoaffections.com,False
 planetart,*.mycustomcase.com,False
 planetart,*.simplytoimpress.com,False
@@ -8746,8 +8746,8 @@ nordsecurity,app.nordpass.com,True
 nordsecurity,*.nordvpn.com,True
 nordsecurity,*.nordvpn.com,True
 nordsecurity,app.nordpass.com,True
-pubg,*.pubg.com,False
 pubg,*.pubgesports.com,False
+pubg,*.pubg.com,False
 pubg,*.pubg.com,False
 pubg,*.pubgesports.com,False
 line,*.line.me,True
@@ -9410,8 +9410,8 @@ paypal,py.pl,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,*.braintree-api.com,True
-paypal,*.braintreepayments.com,True
 paypal,*.paylution.com,True
+paypal,*.braintreepayments.com,True
 paypal,paypal.me,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
