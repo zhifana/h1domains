@@ -177,8 +177,8 @@ www.mercadopago.com.co
 www.mercadopago.com.pe
 api.mercadopago.com
 www.mercadopago.com.ar
-www.mercadolibre.com.co
 www.mercadolibre.com.ar
+www.mercadolibre.com.co
 www.mercadopago.com.mx
 api.mercadolibre.com
 www.mercadopago.com.br
@@ -4619,8 +4619,8 @@ ai.planetart.com
 www.personalcreations.com
 www.mycustomcase.com
 www.photoaffections.com
-*.simplytoimpress.com
 *.mycustomcase.com
+*.simplytoimpress.com
 www.simplytoimpress.com
 iseeme.com
 www.cafepress.com
@@ -4630,8 +4630,8 @@ www.canvasworld.com
 *.iseeme.com
 *.canvasworld.com
 *.personalcreations.com
-*.cafepress.com
 www.gifts.com
+*.cafepress.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -9409,8 +9409,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.paylution.com
 *.braintreepayments.com
+*.paylution.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com

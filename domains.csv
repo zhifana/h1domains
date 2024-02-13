@@ -178,8 +178,8 @@ mercadolibre,www.mercadopago.com.co,True
 mercadolibre,www.mercadopago.com.pe,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.ar,True
-mercadolibre,www.mercadolibre.com.co,True
 mercadolibre,www.mercadolibre.com.ar,True
+mercadolibre,www.mercadolibre.com.co,True
 mercadolibre,www.mercadopago.com.mx,True
 mercadolibre,api.mercadolibre.com,True
 mercadolibre,www.mercadopago.com.br,True
@@ -4620,8 +4620,8 @@ planetart,ai.planetart.com,False
 planetart,www.personalcreations.com,False
 planetart,www.mycustomcase.com,False
 planetart,www.photoaffections.com,False
-planetart,*.simplytoimpress.com,False
 planetart,*.mycustomcase.com,False
+planetart,*.simplytoimpress.com,False
 planetart,www.simplytoimpress.com,False
 planetart,iseeme.com,False
 planetart,www.cafepress.com,False
@@ -4631,8 +4631,8 @@ planetart,*.gifts.com,False
 planetart,*.iseeme.com,False
 planetart,*.canvasworld.com,False
 planetart,*.personalcreations.com,False
-planetart,*.cafepress.com,False
 planetart,www.gifts.com,False
+planetart,*.cafepress.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -9410,8 +9410,8 @@ paypal,py.pl,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,*.braintree-api.com,True
-paypal,*.paylution.com,True
 paypal,*.braintreepayments.com,True
+paypal,*.paylution.com,True
 paypal,paypal.me,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
