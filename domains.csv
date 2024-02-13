@@ -2948,9 +2948,9 @@ shutterfly_vdp,jcpportraits.com,False
 shutterfly_vdp,wgwebservices.snapfish.com,False
 shutterfly_vdp,snapfish.com,False
 shutterfly_vdp,admin.spoonflower.com,False
-shutterfly_vdp,*.sbs.shutterfly.com,False
 shutterfly_vdp,shutterfly.com,False
 shutterfly_vdp,*.snapfish.com,False
+shutterfly_vdp,*.sbs.shutterfly.com,False
 shutterfly_vdp,tinyprints.com,False
 shutterfly_vdp,preschoolsmiles.com,False
 shutterfly_vdp,snapfish.co.uk,False
@@ -9385,8 +9385,8 @@ paypal,py.pl,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,*.braintree-api.com,True
-paypal,*.paylution.com,True
 paypal,*.braintreepayments.com,True
+paypal,*.paylution.com,True
 paypal,paypal.me,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True

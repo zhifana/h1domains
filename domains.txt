@@ -2947,9 +2947,9 @@ jcpportraits.com
 wgwebservices.snapfish.com
 snapfish.com
 admin.spoonflower.com
-*.sbs.shutterfly.com
 shutterfly.com
 *.snapfish.com
+*.sbs.shutterfly.com
 tinyprints.com
 preschoolsmiles.com
 snapfish.co.uk
@@ -9384,8 +9384,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.paylution.com
 *.braintreepayments.com
+*.paylution.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
