@@ -9385,8 +9385,8 @@ paypal,py.pl,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,*.braintree-api.com,True
-paypal,*.paylution.com,True
 paypal,*.braintreepayments.com,True
+paypal,*.paylution.com,True
 paypal,paypal.me,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
@@ -9900,6 +9900,8 @@ dashlane,console.dashlane.com,True
 dashlane,app.dashlane.com,True
 dashlane,logs.dashlane.com,True
 dashlane,api.dashlane.com,True
+weblate,hosted.weblate.org,False
+weblate,hosted.weblate.org,False
 wordpress,planet.wordpress.org,True
 wordpress,*.wordpress.org,True
 wordpress,*.buddypress.org,True
@@ -10400,10 +10402,10 @@ adobe,*.adobeaemcloud.com,False
 adobe,community.adobe.com,False
 adobe,auth.services.adobe.com,False
 adobe,app.frame.io,False
-adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,accounts.frame.io,False
 adobe,magento.com,True
 adobe,*.adobe.com,False
+adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,*.marketo.com,False
 adobe,*.omniture.com,False
 adobe,*.typekit.com,False
@@ -11398,8 +11400,6 @@ delight_im,delight.im,False
 delight_im,www.delight.im,False
 parrot_sec,parrotlinux.org,False
 parrot_sec,parrotlinux.org,False
-weblate,hosted.weblate.org,False
-weblate,hosted.weblate.org,False
 alvosec,www.alvosec.com,True
 alvosec,dns.alvosec.com,True
 alvosec,cloud.alvosec.com,True

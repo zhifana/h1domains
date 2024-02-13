@@ -9384,8 +9384,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.paylution.com
 *.braintreepayments.com
+*.paylution.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -9899,6 +9899,8 @@ console.dashlane.com
 app.dashlane.com
 logs.dashlane.com
 api.dashlane.com
+hosted.weblate.org
+hosted.weblate.org
 planet.wordpress.org
 *.wordpress.org
 *.buddypress.org
@@ -10399,10 +10401,10 @@ firefly.adobe.com
 community.adobe.com
 auth.services.adobe.com
 app.frame.io
-nicetryapril.na1.echosignsandbox.com
 accounts.frame.io
 magento.com
 *.adobe.com
+nicetryapril.na1.echosignsandbox.com
 *.marketo.com
 *.omniture.com
 *.typekit.com
@@ -11397,8 +11399,6 @@ delight.im
 www.delight.im
 parrotlinux.org
 parrotlinux.org
-hosted.weblate.org
-hosted.weblate.org
 www.alvosec.com
 dns.alvosec.com
 cloud.alvosec.com
