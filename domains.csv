@@ -63,13 +63,13 @@ international_airlines_group,https://docs.iagloyalty.com,False
 international_airlines_group,*.aerlingus.com,False
 international_airlines_group,*.iaggbs.com,False
 international_airlines_group,*.iairgroup.com,False
-arkose_labs,www.arkoselabs.com,True
 arkose_labs,demo.arkoselabs.com,True
+arkose_labs,www.arkoselabs.com,True
 arkose_labs,verify.arkoselabs.com,True
 arkose_labs,iframe.arkoselabs.com,True
 arkose_labs,customer-sessions.arkoselabs.com,True
-arkose_labs,cdn.arkoselabs.com,True
 arkose_labs,client-api.arkoselabs.com,True
+arkose_labs,cdn.arkoselabs.com,True
 arkose_labs,portal.arkoselabs.com,True
 arkose_labs,client-api.arkoselabs.com,True
 arkose_labs,cdn.arkoselabs.com,True
@@ -1778,9 +1778,9 @@ visa,www.visa.com.vn,True
 visa,www.visa.co.ao,True
 visa,www.visa.co.nz,True
 visa,www.currencycloud.com,True
-visa,www.visa.co.in,True
 visa,bb.visa.com,True
 visa,www.visa.com.my,True
+visa,www.visa.co.in,True
 visa,bq.visa.com,True
 visa,www.visa.com.kh,True
 visa,www.visa.co.il,True
@@ -3260,8 +3260,8 @@ s-pankki,api.sokos.fi,True
 s-pankki,cfapi.voikukka.fi,True
 kiwicom,jobs.kiwi.com,True
 kiwicom,auth.skypicker.com,True
-kiwicom,*.kiwi.com,True
 kiwicom,*.skypicker.com,True
+kiwicom,*.kiwi.com,True
 kiwicom,www.kiwi.com,True
 kiwicom,tequila.kiwi.com,True
 kiwicom,*.kiwi.com,True
