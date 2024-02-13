@@ -4628,10 +4628,10 @@ www.cafepress.com
 www.canvasworld.com
 *.gifts.com
 *.personalcreations.com
-*.cafepress.com
 *.iseeme.com
 www.gifts.com
 *.canvasworld.com
+*.cafepress.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
