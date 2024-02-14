@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 14 15:20:51 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 14 15:44:21 UTC 2024)
 ```
 textexplore.tari.com
 rfc.tari.com
+www.tari.com
 www.tarilabs.com
 explore.tari.com
-www.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -36,8 +36,8 @@ www.sheer.com
 my.sheer.com
 www.pornworld.com
 www.ddfcontent.com
-www.analvids.com
 www.pornbox.com
+www.analvids.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -164,11 +164,11 @@ cars.booking.com
 widget.rentalcars.com
 careers.booking.com
 admin.booking.com
-*.booking.com
+*.rentalcars.com
 account.booking.com
 booking.com
 secure.booking.com
-*.rentalcars.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -763,11 +763,11 @@ admin.8x8.com
 *.napoleonsports.be
 *.luckydays.com
 *.superbet.rs
-*.napoleongames.be
 *.superbet.com
-*.superbet.ro
 *.superbet.pl
 *.magicjackpot.ro
+*.superbet.ro
+*.napoleongames.be
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -986,9 +986,9 @@ api.recarga.com
 checkout.razorpay.com
 invoices.razorpay.com
 payroll.razorpay.com
-x.razorpay.com
 api.razorpay.com
 dashboard.razorpay.com
+x.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -1735,8 +1735,8 @@ ads.tiktok.com
 live-backstage.tiktok.com
 tiktok.com
 *.tiktokv.com
-partner.tiktokshop.com
 *.tiktok.com
+partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1799,10 +1799,10 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
+account.acronis.com
+*.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
-*.acronis.com
-account.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2288,8 +2288,8 @@ marrtool.com
 hotel-deals.marriott.com
 cpp.marriott.com
 gatewaydsaptst1.marriott.com
-mgs.marriott.com
 www.marriott.com
+mgs.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2500,10 +2500,10 @@ flyiin.com
 priceline.com
 press.priceline.com
 www.bookingholdings.com
-app.smartsheet.com
 help.smartsheet.com
 admin.smartsheet.com
 developers.smartsheet.com
+app.smartsheet.com
 app.smartsheet.com
 http://api.smartsheet.com/2.0
 admin.smartsheet.com
@@ -3696,6 +3696,7 @@ applause1.magisto.com
 donations.livestream.com
 vhx.tv
 api.vhx.tv
+*.magisto.com
 *.cloud.vimeo.com
 *.vimeo.com
 *.vhx.tv
@@ -3744,8 +3745,8 @@ ide.x.ai
 grok.x.ai
 *.twimg.com
 *.twitter.com
-x.com
 api.x.ai
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3897,8 +3898,8 @@ hackerone.live
 errors.hackerone.net
 app.pullrequest.com
 api.hackerone.com
-cover-photos.hackerone-user-content.com
 www.hackerone.com
+cover-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 hackerone-user-content.com
 hackerone.com
