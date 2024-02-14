@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 14 11:41:24 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 14 12:28:05 UTC 2024)
 ```
 www.tari.com
 textexplore.tari.com
@@ -503,9 +503,9 @@ contile.services.mozilla.com
 bugzilla.mozilla.org
 location.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
-hg.mozilla.org
 firefox.settings.services.mozilla.com
 accounts.firefox.com
+hg.mozilla.org
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -532,9 +532,9 @@ developer.mozilla.org
 support.mozilla.org
 www.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
-hg.mozilla.org
 monitor.firefox.com
 relay.firefox.com
+hg.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -910,8 +910,8 @@ pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
 test.deribit.com
-insights.deribit.com
 *.deribit.com
+insights.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1472,7 +1472,6 @@ oauth.reddit.com
 gateway.reddit.com
 mod.reddit.com
 *.redditinc.com
-redditforbusiness.com
 accounts.reddit.com
 www.reddit.com
 old.reddit.com
@@ -1480,6 +1479,7 @@ api.reddit.com
 *.redditmedia.com
 ads.reddit.com
 *.reddit.com
+redditforbusiness.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1800,9 +1800,9 @@ api.faraday.ai
 *.devicelock.com
 *.5nine.com
 account.acronis.com
-*.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
+*.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -1953,8 +1953,8 @@ direct.playstation.com
 store.playstation.com
 my.playstation.com
 *.sonyentertainmentnetwork.com
-*.playstation.net
 my.account.sony.com
+*.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -3857,8 +3857,8 @@ www.quip.com
 *.quip.com
 slack-imgs.com
 slack.com
-app.slack.com
 api.slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
