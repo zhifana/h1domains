@@ -1194,8 +1194,8 @@ fronthq,api2.frontapp.com,True
 fronthq,app.frontapp.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
-boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
+boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -3162,8 +3162,8 @@ abb,*.abb.com.tr,False
 abb,*.baldor.com,False
 abb,abb.com.br,False
 abb,*.cylon.com,False
-abb,*.abb.com.cn,False
 abb,*.abb.com,False
+abb,*.abb.com.cn,False
 abb,*.abb.com,False
 abb,*.tnb.com,False
 abb,*.abb.com.tr,False
@@ -3572,9 +3572,9 @@ expediagroup,*.expediaagents.com,False
 expediagroup,*.fewo-direkt.de,False
 expediagroup,*.carrentals.com,False
 expediagroup,*.hotwire.com,False
-expediagroup,*.hotels.com,False
 expediagroup,*.expedia.com,False
 expediagroup,*.cheaptickets.com,False
+expediagroup,*.hotels.com,False
 expediagroup,*.expedia.com,False
 expediagroup,*.hotwire.com,False
 expediagroup,*.orbitz.com,False

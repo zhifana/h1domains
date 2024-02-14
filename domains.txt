@@ -1193,8 +1193,8 @@ api2.frontapp.com
 app.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -3161,8 +3161,8 @@ http://miro.com/blog
 *.baldor.com
 abb.com.br
 *.cylon.com
-*.abb.com.cn
 *.abb.com
+*.abb.com.cn
 *.abb.com
 *.tnb.com
 *.abb.com.tr
@@ -3571,9 +3571,9 @@ thailand.airasiago.com
 *.fewo-direkt.de
 *.carrentals.com
 *.hotwire.com
-*.hotels.com
 *.expedia.com
 *.cheaptickets.com
+*.hotels.com
 *.expedia.com
 *.hotwire.com
 *.orbitz.com
