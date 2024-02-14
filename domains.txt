@@ -34,10 +34,10 @@ www.tarilabs.com
 tlu.tarilabs.com
 www.avios.com
 www.iaggbs.com
-*.iagcargo.com
 *.iairgroup.com
 www.aerlingus.com
 www.iairgroup.com
+*.aerlingus.com
 www.aerlingus.com
 www.avios.com
 www.iairgroup.com
@@ -3161,8 +3161,8 @@ http://miro.com/blog
 *.baldor.com
 abb.com.br
 *.cylon.com
-*.abb.com
 *.abb.com.cn
+*.abb.com
 *.abb.com
 *.tnb.com
 *.abb.com.tr
@@ -3571,9 +3571,9 @@ thailand.airasiago.com
 *.fewo-direkt.de
 *.carrentals.com
 *.hotwire.com
+*.hotels.com
 *.expedia.com
 *.cheaptickets.com
-*.hotels.com
 *.expedia.com
 *.hotwire.com
 *.orbitz.com
@@ -3636,8 +3636,8 @@ blog.varonis.ru
 blog.varonis.es
 varonis.net
 api.zerobounce.in
-zerobounce.net
 zerobounce.in
+zerobounce.net
 zerobounce.in
 api.zerobounce.in
 zerobounce.net
@@ -3850,7 +3850,6 @@ www.trelock.com
 www.simons-voss.com
 www.allegion.co.uk
 brio.com.au
-*.allegionengage.com
 *.isonaspureaccesscloud.com
 www.interflex.de
 www.yonomi.com
@@ -4886,9 +4885,9 @@ www.alohi.com
 *.sothebysrealty.*
 *.coldwellbanker.*
 *.corcoran.*
+*.mycbdesk.com
 *.century21.*
 *.anywhere.re
-*.mycbdesk.com
 *.realogy.*
 *.bhgre.*
 *.century21.*
@@ -7439,9 +7438,9 @@ www.rebelliondefense.com
 *.devicelock.com
 *.5nine.com
 account.acronis.com
-*.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
+*.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -7913,9 +7912,9 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.aliyun.com
 *.Daraz.com
-*.taobao.com
 *.alibabacloud.com
 *.alibaba.com
+*.taobao.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -9578,8 +9577,8 @@ playartifact.com
 api.steampowered.com
 www.valvesoftware.com
 www.teamfortress.com
-steamcommunity.com
 store.steampowered.com
+steamcommunity.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
