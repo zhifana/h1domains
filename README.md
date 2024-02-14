@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 14 13:20:14 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 14 13:41:42 UTC 2024)
 ```
-www.tari.com
 textexplore.tari.com
 rfc.tari.com
 www.tarilabs.com
 explore.tari.com
+www.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -910,8 +910,8 @@ pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
 test.deribit.com
-insights.deribit.com
 *.deribit.com
+insights.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1150,8 +1150,8 @@ community.databricks.com
 labs.databricks.com
 marketplace.databricks.com
 accounts.cloud.databricks.com
-support.databricks.com
 databricks.com
+support.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1952,9 +1952,9 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
-*.sonyentertainmentnetwork.com
-*.playstation.net
 my.account.sony.com
+*.playstation.net
+*.sonyentertainmentnetwork.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
