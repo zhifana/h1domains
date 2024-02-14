@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 14 11:17:10 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 14 11:41:24 UTC 2024)
 ```
 www.tari.com
-explore.tari.com
 textexplore.tari.com
 rfc.tari.com
 www.tarilabs.com
+explore.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -910,8 +910,8 @@ pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
 test.deribit.com
-*.deribit.com
 insights.deribit.com
+*.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1800,9 +1800,9 @@ api.faraday.ai
 *.devicelock.com
 *.5nine.com
 account.acronis.com
+*.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
-*.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -1953,8 +1953,8 @@ direct.playstation.com
 store.playstation.com
 my.playstation.com
 *.sonyentertainmentnetwork.com
-my.account.sony.com
 *.playstation.net
+my.account.sony.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -3136,8 +3136,8 @@ gifts.grab.com
 grab.careers
 kartaview.org
 *.taralite.com
-*.ovo.id
 *.grab.com
+*.ovo.id
 *.myteksi.com
 *.myteksi.net
 *.grab.com

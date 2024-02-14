@@ -23,10 +23,10 @@ vendasta,your-domain.snapshotreport.biz,False
 vendasta,task-manager.biz,False
 tari_labs,tlu.tarilabs.com,False
 tari_labs,www.tari.com,True
-tari_labs,explore.tari.com,True
 tari_labs,textexplore.tari.com,True
 tari_labs,rfc.tari.com,True
 tari_labs,www.tarilabs.com,True
+tari_labs,explore.tari.com,True
 tari_labs,explore.tari.com,True
 tari_labs,rfc.tari.com,True
 tari_labs,textexplore.tari.com,True
@@ -3572,9 +3572,9 @@ expediagroup,*.expediaagents.com,False
 expediagroup,*.fewo-direkt.de,False
 expediagroup,*.carrentals.com,False
 expediagroup,*.hotwire.com,False
-expediagroup,*.hotels.com,False
 expediagroup,*.expedia.com,False
 expediagroup,*.cheaptickets.com,False
+expediagroup,*.hotels.com,False
 expediagroup,*.expedia.com,False
 expediagroup,*.hotwire.com,False
 expediagroup,*.orbitz.com,False
@@ -3805,8 +3805,8 @@ deribit,pb.deribit.com,True
 deribit,tools.deribit.com,True
 deribit,metrics.deribit.com,True
 deribit,test.deribit.com,True
-deribit,*.deribit.com,True
 deribit,insights.deribit.com,True
+deribit,*.deribit.com,True
 deribit,*.deribit.com,True
 deribit,test.deribit.com,True
 deribit,insights.deribit.com,True
@@ -7439,9 +7439,9 @@ acronis,*-api-*.acronis.com,True
 acronis,*.devicelock.com,True
 acronis,*.5nine.com,True
 acronis,account.acronis.com,True
+acronis,*.acronis.com,True
 acronis,*.acronis.work,True
 acronis,beta-cloud.acronis.com,True
-acronis,*.acronis.com,True
 acronis,*-api-*.acronis.com,True
 acronis,*.acronis.com,True
 acronis,*.5nine.com,True
@@ -7632,8 +7632,8 @@ playstation,direct.playstation.com,True
 playstation,store.playstation.com,True
 playstation,my.playstation.com,True
 playstation,*.sonyentertainmentnetwork.com,True
-playstation,my.account.sony.com,True
 playstation,*.playstation.net,True
+playstation,my.account.sony.com,True
 playstation,*.playstation.net,True
 playstation,*.sonyentertainmentnetwork.com,True
 playstation,*.api.playstation.com,True
@@ -7975,10 +7975,10 @@ digitalocean,platform.cloudways.com,False
 digitalocean,unified.cloudways.com,False
 digitalocean,www.cloudways.com,False
 digitalocean,www.digitalocean.com,False
-digitalocean,169.254.169.254,False
 digitalocean,*.digitalocean.com,False
 digitalocean,api.digitalocean.com,False
 digitalocean,cloud.digitalocean.com,False
+digitalocean,169.254.169.254,False
 digitalocean,*.digitalocean.com,False
 digitalocean,cloud.digitalocean.com,False
 digitalocean,api.digitalocean.com,False
@@ -9819,8 +9819,8 @@ grab,*.myteksi.net,True
 grab,grab.careers,True
 grab,kartaview.org,True
 grab,*.taralite.com,True
-grab,*.ovo.id,True
 grab,*.grab.com,True
+grab,*.ovo.id,True
 grab,*.myteksi.com,True
 grab,*.myteksi.net,True
 grab,*.grab.com,True
