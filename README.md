@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 14 10:41:53 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 14 11:17:10 UTC 2024)
 ```
 www.tari.com
 explore.tari.com
@@ -36,8 +36,8 @@ www.sheer.com
 my.sheer.com
 www.pornworld.com
 www.ddfcontent.com
-www.pornbox.com
 www.analvids.com
+www.pornbox.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -166,9 +166,9 @@ careers.booking.com
 admin.booking.com
 *.booking.com
 *.rentalcars.com
-secure.booking.com
 account.booking.com
 booking.com
+secure.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -462,12 +462,12 @@ app.avtoelon.uz
 api.kolesa.kz
 id.avtoelon.uz
 kolesa.kz
-krisha.kz
 api.avtoelon.uz
 api.krisha.kz
 app.kolesa.kz
 avtoelon.uz
 id.kolesa.kz
+krisha.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -658,9 +658,9 @@ oneview.malwarebytes.com
 *.cloud.malwarebytes.com
 *.threatdown.com
 cloud.malwarebytes.com
-*.malwarebytes.com
 www.malwarebytes.com
 my.malwarebytes.com
+*.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -766,8 +766,8 @@ admin.8x8.com
 *.napoleongames.be
 *.superbet.com
 *.superbet.pl
-*.superbet.ro
 *.magicjackpot.ro
+*.superbet.ro
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1022,8 +1022,8 @@ www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
 ws.sorare.com
-api.sorare.com
 sorare.com
+api.sorare.com
 sorare.com
 api.sorare.com
 ws.sorare.com
@@ -1448,8 +1448,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbanclap.com
 www.urbancompany.com
+www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
 new.reddit.com
@@ -1473,13 +1473,13 @@ gateway.reddit.com
 mod.reddit.com
 *.redditinc.com
 redditforbusiness.com
-*.reddit.com
 accounts.reddit.com
 www.reddit.com
 old.reddit.com
 api.reddit.com
 *.redditmedia.com
 ads.reddit.com
+*.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1800,9 +1800,9 @@ api.faraday.ai
 *.devicelock.com
 *.5nine.com
 account.acronis.com
-*.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
+*.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
