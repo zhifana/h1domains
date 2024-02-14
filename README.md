@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 14 04:41:07 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 14 05:17:55 UTC 2024)
 ```
 www.tari.com
 explore.tari.com
@@ -466,8 +466,8 @@ krisha.kz
 api.avtoelon.uz
 api.krisha.kz
 app.kolesa.kz
-id.kolesa.kz
 avtoelon.uz
+id.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -1519,8 +1519,8 @@ remix.com
 eu.remix.com
 platform.remix.com
 *.scopely.io
-*.scopely.com
 *.withbuddies.com
+*.scopely.com
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
@@ -2929,8 +2929,8 @@ playartifact.com
 api.steampowered.com
 www.valvesoftware.com
 www.teamfortress.com
-steamcommunity.com
 store.steampowered.com
+steamcommunity.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3505,12 +3505,12 @@ developer.zendesk.com
 smooch.io
 api.smooch.io
 app.futuresimple.com
-www.zendesk.com
 apps.zendesk.com
 api.getbase.com
 app.smooch.io
 zopim.com
 h1-your-domain.zendesk.com
+www.zendesk.com
 www.zendesk.com
 developer.zendesk.com
 h1-your-domain.zendesk.com

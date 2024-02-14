@@ -2835,8 +2835,8 @@ kolesagroup,krisha.kz,True
 kolesagroup,api.avtoelon.uz,True
 kolesagroup,api.krisha.kz,True
 kolesagroup,app.kolesa.kz,True
-kolesagroup,id.kolesa.kz,True
 kolesagroup,avtoelon.uz,True
+kolesagroup,id.kolesa.kz,True
 kolesagroup,kolesa.kz,True
 kolesagroup,m.kolesa.kz,True
 kolesagroup,krisha.kz,True
@@ -3162,8 +3162,8 @@ abb,*.abb.com.tr,False
 abb,*.baldor.com,False
 abb,abb.com.br,False
 abb,*.cylon.com,False
-abb,*.abb.com.cn,False
 abb,*.abb.com,False
+abb,*.abb.com.cn,False
 abb,*.abb.com,False
 abb,*.tnb.com,False
 abb,*.abb.com.tr,False
@@ -6509,8 +6509,8 @@ on,*.on-running.com,False
 on,*.on-running.com,False
 on,on-app-backend.on-running.com,False
 scopely,*.scopely.io,True
-scopely,*.scopely.com,True
 scopely,*.withbuddies.com,True
+scopely,*.scopely.com,True
 scopely,*.scopely.io,True
 scopely,*.scopely.com,True
 scopely,*.withbuddies.com,True
@@ -9579,8 +9579,8 @@ valve,playartifact.com,True
 valve,api.steampowered.com,True
 valve,www.valvesoftware.com,True
 valve,www.teamfortress.com,True
-valve,steamcommunity.com,True
 valve,store.steampowered.com,True
+valve,steamcommunity.com,True
 valve,www.dota2.com,True
 valve,support.steampowered.com,True
 valve,partner.steampowered.com,True
@@ -10246,12 +10246,12 @@ zendesk,developer.zendesk.com,True
 zendesk,smooch.io,True
 zendesk,api.smooch.io,True
 zendesk,app.futuresimple.com,True
-zendesk,www.zendesk.com,True
 zendesk,apps.zendesk.com,True
 zendesk,api.getbase.com,True
 zendesk,app.smooch.io,True
 zendesk,zopim.com,True
 zendesk,h1-your-domain.zendesk.com,True
+zendesk,www.zendesk.com,True
 zendesk,www.zendesk.com,True
 zendesk,developer.zendesk.com,True
 zendesk,h1-your-domain.zendesk.com,True
