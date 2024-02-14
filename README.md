@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 14 01:51:24 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 14 02:22:27 UTC 2024)
 ```
 www.tari.com
 explore.tari.com
@@ -3134,10 +3134,10 @@ gifts.grab.com
 *.grabtaxi.com
 *.myteksi.net
 grab.careers
-*.grab.com
 kartaview.org
 *.taralite.com
 *.ovo.id
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3577,11 +3577,11 @@ my.snapchat.com
 forum.playcanvas.com
 spectacles.com
 playcanvas.com
-web.snapchat.com
 app.snapchat.com
 business.snapchat.com
 accounts.snapchat.com
 ads.snapchat.com
+web.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net

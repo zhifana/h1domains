@@ -9819,10 +9819,10 @@ grab,*.grabpay.com,True
 grab,*.grabtaxi.com,True
 grab,*.myteksi.net,True
 grab,grab.careers,True
-grab,*.grab.com,True
 grab,kartaview.org,True
 grab,*.taralite.com,True
 grab,*.ovo.id,True
+grab,*.grab.com,True
 grab,*.myteksi.com,True
 grab,*.myteksi.net,True
 grab,*.grab.com,True
@@ -10319,11 +10319,11 @@ snapchat,my.snapchat.com,True
 snapchat,forum.playcanvas.com,True
 snapchat,spectacles.com,True
 snapchat,playcanvas.com,True
-snapchat,web.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,business.snapchat.com,True
 snapchat,accounts.snapchat.com,True
 snapchat,ads.snapchat.com,True
+snapchat,web.snapchat.com,True
 snapchat,accounts.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,*.sc-core.net,True

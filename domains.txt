@@ -9818,10 +9818,10 @@ gifts.grab.com
 *.grabtaxi.com
 *.myteksi.net
 grab.careers
-*.grab.com
 kartaview.org
 *.taralite.com
 *.ovo.id
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -10318,11 +10318,11 @@ my.snapchat.com
 forum.playcanvas.com
 spectacles.com
 playcanvas.com
-web.snapchat.com
 app.snapchat.com
 business.snapchat.com
 accounts.snapchat.com
 ads.snapchat.com
+web.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
