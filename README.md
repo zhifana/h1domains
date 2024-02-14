@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 14 02:41:48 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 14 03:18:38 UTC 2024)
 ```
 www.tari.com
 explore.tari.com
@@ -1150,8 +1150,8 @@ community.databricks.com
 labs.databricks.com
 marketplace.databricks.com
 accounts.cloud.databricks.com
-databricks.com
 support.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -2768,9 +2768,9 @@ decision.swiftfinancial.com
 *.venmo.com
 *.braintreepayments.com
 *.paylution.com
-*.paypal.com
 paypalobjects.com
 *.braintreegateway.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3412,9 +3412,9 @@ advisories.gitlab.com
 docs.gitlab.com
 *.gitlab.org
 about.gitlab.com
-gitlab.com
 *.gitlab.net
 customers.gitlab.com
+gitlab.com
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
