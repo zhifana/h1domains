@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 14 18:20:19 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 14 18:43:19 UTC 2024)
 ```
 textexplore.tari.com
 rfc.tari.com
-explore.tari.com
 www.tarilabs.com
+explore.tari.com
 www.tari.com
 explore.tari.com
 rfc.tari.com
@@ -20,8 +20,8 @@ client-api.arkoselabs.com
 portal.arkoselabs.com
 demo.arkoselabs.com
 cdn.arkoselabs.com
-www.arkoselabs.com
 customer-sessions.arkoselabs.com
+www.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
@@ -167,8 +167,8 @@ admin.booking.com
 account.booking.com
 booking.com
 secure.booking.com
-*.booking.com
 *.rentalcars.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -533,8 +533,8 @@ support.mozilla.org
 www.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 monitor.firefox.com
-hg.mozilla.org
 relay.firefox.com
+hg.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -764,9 +764,9 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
+*.superbet.ro
 *.superbet.pl
 *.magicjackpot.ro
-*.superbet.ro
 *.napoleongames.be
 *.superbet.ro
 *.superbet.rs
@@ -1735,8 +1735,8 @@ ads.tiktok.com
 live-backstage.tiktok.com
 tiktok.com
 *.tiktokv.com
-partner.tiktokshop.com
 *.tiktok.com
+partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1792,17 +1792,17 @@ cs.money
 support.cs.money
 wiki.cs.money
 3d.cs.money
-app.faraday.ai
 api.faraday.ai
+app.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-account.acronis.com
-*.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
+*.acronis.com
+account.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -1952,8 +1952,8 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
-my.account.sony.com
 *.sonyentertainmentnetwork.com
+my.account.sony.com
 *.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -3834,8 +3834,8 @@ api.coinbase.com
 api.custody.coinbase.com
 coinbase.com
 *.coinbase.com
-cloud.coinbase.com
 pro.coinbase.com
+cloud.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
