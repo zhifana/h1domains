@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 14 04:20:13 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 14 04:41:07 UTC 2024)
 ```
 www.tari.com
 explore.tari.com
@@ -1731,12 +1731,12 @@ creatormarketplace.tiktok.com
 shop.tiktok.com
 *.tiktokv.com
 business.tiktok.com
-*.tiktok.com
 www.pangleglobal.com
 ads.tiktok.com
 live-backstage.tiktok.com
 tiktok.com
 partner.tiktokshop.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2928,9 +2928,9 @@ help.steampowered.com
 playartifact.com
 api.steampowered.com
 www.valvesoftware.com
-store.steampowered.com
 www.teamfortress.com
 steamcommunity.com
+store.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3136,8 +3136,8 @@ gifts.grab.com
 grab.careers
 kartaview.org
 *.taralite.com
-*.ovo.id
 *.grab.com
+*.ovo.id
 *.myteksi.com
 *.myteksi.net
 *.grab.com
