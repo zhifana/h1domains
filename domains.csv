@@ -35,7 +35,6 @@ tari_labs,www.tarilabs.com,True
 tari_labs,tlu.tarilabs.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iaggbs.com,False
-international_airlines_group,*.iaggbs.com,False
 international_airlines_group,*.iagcargo.com,False
 international_airlines_group,*.iairgroup.com,False
 international_airlines_group,www.aerlingus.com,False

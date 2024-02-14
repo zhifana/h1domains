@@ -34,7 +34,6 @@ www.tarilabs.com
 tlu.tarilabs.com
 www.avios.com
 www.iaggbs.com
-*.iaggbs.com
 *.iagcargo.com
 *.iairgroup.com
 www.aerlingus.com
