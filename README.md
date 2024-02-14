@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 14 16:45:05 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 14 17:17:30 UTC 2024)
 ```
 textexplore.tari.com
 rfc.tari.com
-www.tari.com
 www.tarilabs.com
 explore.tari.com
+www.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -86,16 +86,16 @@ editor.zyro.com
 logo.zyro.com
 www.niagahoster.co.id
 https://passport.eufy.com/?app=eufy-us
-store.23andme.com
 education.23andme.com
 therapeutics.23andme.com
 api.23andme.com
-blog.23andme.com
 auth.23andme.com
 you.23andme.com
 medical.23andme.com
 mediacenter.23andme.com
 research.23andme.com
+blog.23andme.com
+store.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -533,8 +533,8 @@ support.mozilla.org
 www.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 monitor.firefox.com
-relay.firefox.com
 hg.mozilla.org
+relay.firefox.com
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -563,9 +563,9 @@ hiltonhotels.jp
 hilton.com
 *.hiltonhotels.jp
 *.hilton.com
-*.hilton.com.tr
-*.hilton.io
 hiltonbusinessonline.com
+*.hilton.io
+*.hilton.com.tr
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -699,8 +699,8 @@ auth.skypicker.com
 jobs.kiwi.com
 tequila.kiwi.com
 www.kiwi.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -764,9 +764,9 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
+*.superbet.ro
 *.superbet.pl
 *.magicjackpot.ro
-*.superbet.ro
 *.napoleongames.be
 *.superbet.ro
 *.superbet.rs
@@ -910,8 +910,8 @@ pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
 test.deribit.com
-*.deribit.com
 insights.deribit.com
+*.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1411,11 +1411,11 @@ main.trafficfactory.biz
 *.elasticnet.co
 *.eops.nl
 www.elastic.co
-*.found.io
 cloud.elastic.co
 *.swiftype.com
 *.elstc.co
 *.elastic.co
+*.found.io
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1735,8 +1735,8 @@ ads.tiktok.com
 live-backstage.tiktok.com
 tiktok.com
 *.tiktokv.com
-*.tiktok.com
 partner.tiktokshop.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1792,17 +1792,17 @@ cs.money
 support.cs.money
 wiki.cs.money
 3d.cs.money
-app.faraday.ai
 api.faraday.ai
+app.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-account.acronis.com
-*.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
+*.acronis.com
+account.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2288,8 +2288,8 @@ marrtool.com
 hotel-deals.marriott.com
 cpp.marriott.com
 gatewaydsaptst1.marriott.com
-mgs.marriott.com
 www.marriott.com
+mgs.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2926,11 +2926,11 @@ www.dota2.com
 support.steampowered.com
 help.steampowered.com
 playartifact.com
-api.steampowered.com
 www.valvesoftware.com
 www.teamfortress.com
 store.steampowered.com
 steamcommunity.com
+api.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3384,8 +3384,8 @@ npmjs.com
 *.githubapp.com
 npmjs.org
 classroom.github.com
-github.com
 api.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3536,8 +3536,8 @@ accounts.shopify.com
 *.shopifycloud.com
 admin.shopify.com
 shop.app
-partners.shopify.com
 your-store.myshopify.com
+partners.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3832,8 +3832,8 @@ api.coinbase.com
 api.custody.coinbase.com
 coinbase.com
 *.coinbase.com
-pro.coinbase.com
 cloud.coinbase.com
+pro.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
