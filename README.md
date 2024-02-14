@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 14 05:17:55 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 14 05:41:47 UTC 2024)
 ```
 www.tari.com
 explore.tari.com
@@ -2929,8 +2929,8 @@ playartifact.com
 api.steampowered.com
 www.valvesoftware.com
 www.teamfortress.com
-store.steampowered.com
 steamcommunity.com
+store.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com

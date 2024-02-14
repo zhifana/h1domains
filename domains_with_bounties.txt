@@ -2923,8 +2923,8 @@ playartifact.com
 api.steampowered.com
 www.valvesoftware.com
 www.teamfortress.com
-store.steampowered.com
 steamcommunity.com
+store.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
