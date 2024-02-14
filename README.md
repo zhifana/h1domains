@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 14 16:22:07 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 14 16:45:05 UTC 2024)
 ```
 textexplore.tari.com
 rfc.tari.com
@@ -463,11 +463,11 @@ id.avtoelon.uz
 api.avtoelon.uz
 api.krisha.kz
 app.kolesa.kz
+id.kolesa.kz
+m.avtoelon.uz
 krisha.kz
 kolesa.kz
-id.kolesa.kz
 avtoelon.uz
-m.avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -533,8 +533,8 @@ support.mozilla.org
 www.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 monitor.firefox.com
-hg.mozilla.org
 relay.firefox.com
+hg.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -563,8 +563,8 @@ hiltonhotels.jp
 hilton.com
 *.hiltonhotels.jp
 *.hilton.com
-*.hilton.io
 *.hilton.com.tr
+*.hilton.io
 hiltonbusinessonline.com
 *.hilton.com
 *.hilton.io
@@ -1792,17 +1792,17 @@ cs.money
 support.cs.money
 wiki.cs.money
 3d.cs.money
-api.faraday.ai
 app.faraday.ai
+api.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
+account.acronis.com
+*.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
-*.acronis.com
-account.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2556,7 +2556,6 @@ offsite.omise.co
 www.omise.co
 www.opn.ooo
 world.hyatt.com
-assets.hyatt.com
 newsroom.images.hyatt.com
 soaext.oft.hyatt.com
 roominglist.hyatt.com
@@ -2601,6 +2600,7 @@ vacations.us.palladiumhotelgroup.com
 book.cheapcaribbean.com
 holidays-fj.fijiairways.com
 res.treasureisland.globalbookingsolutions.com
+res.vacations.sesameplace.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -3898,8 +3898,8 @@ hackerone.live
 errors.hackerone.net
 app.pullrequest.com
 api.hackerone.com
-cover-photos.hackerone-user-content.com
 www.hackerone.com
+cover-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 hackerone-user-content.com
 hackerone.com

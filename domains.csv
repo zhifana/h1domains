@@ -5,11 +5,11 @@ vendasta,*.apigateway.co,False
 vendasta,your-domain.snapshotreport.biz,False
 vendasta,partners.vendasta.com,False
 vendasta,your-domain.pdqs.mobi,False
-vendasta,*.yesware.com,False
 vendasta,your-domain.smblogin.com,False
 vendasta,your-domain.steprep.com,False
 vendasta,your-domain.socialsmbs.com,False
 vendasta,customervoice.biz,False
+vendasta,*.yesware.com,False
 vendasta,*.apigateway.co,False
 vendasta,*.vendasta-internal.com,False
 vendasta,*.yesware.com,False
@@ -2832,11 +2832,11 @@ kolesagroup,id.avtoelon.uz,True
 kolesagroup,api.avtoelon.uz,True
 kolesagroup,api.krisha.kz,True
 kolesagroup,app.kolesa.kz,True
+kolesagroup,id.kolesa.kz,True
+kolesagroup,m.avtoelon.uz,True
 kolesagroup,krisha.kz,True
 kolesagroup,kolesa.kz,True
-kolesagroup,id.kolesa.kz,True
 kolesagroup,avtoelon.uz,True
-kolesagroup,m.avtoelon.uz,True
 kolesagroup,kolesa.kz,True
 kolesagroup,m.kolesa.kz,True
 kolesagroup,krisha.kz,True
@@ -2907,8 +2907,8 @@ mozilla_core_services,support.mozilla.org,True
 mozilla_core_services,www.mozilla.org,True
 mozilla_core_services,stage.taskcluster.nonprod.cloudops.mozgcp.net,True
 mozilla_core_services,monitor.firefox.com,True
-mozilla_core_services,hg.mozilla.org,True
 mozilla_core_services,relay.firefox.com,True
+mozilla_core_services,hg.mozilla.org,True
 mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,profiler.firefox.com,True
 mozilla_core_services,vpn.mozilla.org,True
@@ -3002,8 +3002,8 @@ hilton,*.hiltonbusinessonline.com,True
 hilton,hilton.com,True
 hilton,*.hiltonhotels.jp,True
 hilton,*.hilton.com,True
-hilton,*.hilton.io,True
 hilton,*.hilton.com.tr,True
+hilton,*.hilton.io,True
 hilton,hiltonbusinessonline.com,True
 hilton,*.hilton.com,True
 hilton,*.hilton.io,True
@@ -7416,8 +7416,8 @@ cs_money,cs.money,True
 cs_money,support.cs.money,True
 cs_money,wiki.cs.money,True
 cs_money,3d.cs.money,True
-faraday_inc,api.faraday.ai,True
 faraday_inc,app.faraday.ai,True
+faraday_inc,api.faraday.ai,True
 faraday_inc,app.faraday.ai,True
 faraday_inc,api.faraday.ai,True
 simple_poll,simplepoll.rocks,False
@@ -7439,10 +7439,10 @@ rebellion-defense,www.rebelliondefense.com,False
 acronis,*-api-*.acronis.com,True
 acronis,*.devicelock.com,True
 acronis,*.5nine.com,True
+acronis,account.acronis.com,True
+acronis,*.acronis.com,True
 acronis,*.acronis.work,True
 acronis,beta-cloud.acronis.com,True
-acronis,*.acronis.com,True
-acronis,account.acronis.com,True
 acronis,*-api-*.acronis.com,True
 acronis,*.acronis.com,True
 acronis,*.5nine.com,True
@@ -9194,7 +9194,6 @@ ford,*.quicklane.com,False
 ford,*.motorcraft.com,False
 ford,*.omnicraftautoparts.com,False
 hyatt,world.hyatt.com,True
-hyatt,assets.hyatt.com,True
 hyatt,newsroom.images.hyatt.com,True
 hyatt,soaext.oft.hyatt.com,True
 hyatt,roominglist.hyatt.com,True
@@ -9239,6 +9238,7 @@ hyatt,vacations.us.palladiumhotelgroup.com,True
 hyatt,book.cheapcaribbean.com,True
 hyatt,holidays-fj.fijiairways.com,True
 hyatt,res.treasureisland.globalbookingsolutions.com,True
+hyatt,res.vacations.sesameplace.com,True
 hyatt,hyatt.com,True
 hyatt,www.hyatt.com,True
 hyatt,world.hyatt.com,True
@@ -10779,8 +10779,8 @@ security,hackerone.live,True
 security,errors.hackerone.net,True
 security,app.pullrequest.com,True
 security,api.hackerone.com,True
-security,cover-photos.hackerone-user-content.com,True
 security,www.hackerone.com,True
+security,cover-photos.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
 security,hackerone-user-content.com,True
 security,hackerone.com,True
