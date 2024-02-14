@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 14 19:42:38 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 14 20:19:30 UTC 2024)
 ```
 textexplore.tari.com
 rfc.tari.com
-explore.tari.com
 www.tarilabs.com
+explore.tari.com
 www.tari.com
 explore.tari.com
 rfc.tari.com
@@ -167,8 +167,8 @@ admin.booking.com
 booking.com
 secure.booking.com
 *.rentalcars.com
-*.booking.com
 account.booking.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -465,9 +465,9 @@ api.krisha.kz
 app.kolesa.kz
 krisha.kz
 id.kolesa.kz
-avtoelon.uz
 m.avtoelon.uz
 kolesa.kz
+avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -562,9 +562,9 @@ hiltonhotels.jp
 *.hiltonbusinessonline.com
 hilton.com
 *.hiltonhotels.jp
-hiltonbusinessonline.com
-*.hilton.io
 *.hilton.com.tr
+*.hilton.io
+hiltonbusinessonline.com
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -910,8 +910,8 @@ pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
 test.deribit.com
-insights.deribit.com
 *.deribit.com
+insights.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1799,10 +1799,10 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-account.acronis.com
-*.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
+*.acronis.com
+account.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -1952,8 +1952,8 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
-my.account.sony.com
 *.sonyentertainmentnetwork.com
+my.account.sony.com
 *.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2488,7 +2488,6 @@ admin.rezserver.com
 www.priceline.com
 www.getaroom.com
 priceline.com
-flyiin.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3136,8 +3135,8 @@ gifts.grab.com
 grab.careers
 kartaview.org
 *.taralite.com
-*.grab.com
 *.ovo.id
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3534,11 +3533,11 @@ linkpop.com
 accounts.shopify.com
 *.shopify.com
 *.shopifycloud.com
-admin.shopify.com
 shop.app
 partners.shopify.com
 your-store.myshopify.com
 *.shopifycs.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3747,8 +3746,8 @@ ide.x.ai
 grok.x.ai
 *.twimg.com
 *.twitter.com
-api.x.ai
 x.com
+api.x.ai
 *.twitter.com
 *.vine.co
 *.twimg.com
