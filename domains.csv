@@ -82,8 +82,8 @@ sheer_bbp,www.sheer.com,True
 sheer_bbp,my.sheer.com,True
 pornbox,www.pornworld.com,True
 pornbox,www.ddfcontent.com,True
-pornbox,www.analvids.com,True
 pornbox,www.pornbox.com,True
+pornbox,www.analvids.com,True
 pornbox,www.pornbox.com,True
 pornbox,www.analvids.com,True
 pornbox,www.ddfcontent.com,True
@@ -224,11 +224,11 @@ bookingcom,cars.booking.com,True
 bookingcom,widget.rentalcars.com,True
 bookingcom,careers.booking.com,True
 bookingcom,admin.booking.com,True
-bookingcom,booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,secure.booking.com,True
 bookingcom,account.booking.com,True
+bookingcom,booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
@@ -3397,11 +3397,11 @@ superbet,*.luckydays.ca,True
 superbet,*.napoleonsports.be,True
 superbet,*.luckydays.com,True
 superbet,*.superbet.rs,True
-superbet,*.magicjackpot.ro,True
 superbet,*.napoleongames.be,True
 superbet,*.superbet.com,True
 superbet,*.superbet.pl,True
 superbet,*.superbet.ro,True
+superbet,*.magicjackpot.ro,True
 superbet,*.superbet.ro,True
 superbet,*.superbet.rs,True
 superbet,*.superbet.com,True
@@ -3573,9 +3573,9 @@ expediagroup,*.expediaagents.com,False
 expediagroup,*.fewo-direkt.de,False
 expediagroup,*.carrentals.com,False
 expediagroup,*.hotwire.com,False
+expediagroup,*.hotels.com,False
 expediagroup,*.expedia.com,False
 expediagroup,*.cheaptickets.com,False
-expediagroup,*.hotels.com,False
 expediagroup,*.expedia.com,False
 expediagroup,*.hotwire.com,False
 expediagroup,*.orbitz.com,False
@@ -3806,8 +3806,8 @@ deribit,pb.deribit.com,True
 deribit,tools.deribit.com,True
 deribit,metrics.deribit.com,True
 deribit,test.deribit.com,True
-deribit,insights.deribit.com,True
 deribit,*.deribit.com,True
+deribit,insights.deribit.com,True
 deribit,*.deribit.com,True
 deribit,test.deribit.com,True
 deribit,insights.deribit.com,True
@@ -4860,8 +4860,8 @@ instacart,admin.instacart.com,True
 instacart,shoppers.instacart.com,True
 instacart,api.instacart.com,True
 instacart,*.instacart.tools,True
-instacart,*.instacart.com,True
 instacart,www.instacart.com,True
+instacart,*.instacart.com,True
 instacart,*.instacart.com,True
 instacart,*.instacart.tools,True
 instacart,api.instacart.com,True
@@ -4887,8 +4887,8 @@ anywhererealestate,*.era.com,False
 anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.coldwellbanker.*,False
 anywhererealestate,*.corcoran.*,False
-anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,*.anywhere.re,False
+anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,*.century21.*,False
 anywhererealestate,*.realogy.*,False
 anywhererealestate,*.bhgre.*,False
@@ -7236,7 +7236,6 @@ citrix,(yoursubdomain).eu.iws.cloud.com,True
 citrix,(youriwssubdomain).cloud.com,True
 citrix,eu.cloud.com,True
 citrix,adm.cloud.com,True
-citrix,citrix.cloud.com,True
 citrix,(yoursubdomain).sf-api.com,True
 citrix,(yoursubdomain).sf-api.eu,True
 citrix,(yoursubdomain).sharefile.eu,True
@@ -7247,6 +7246,7 @@ citrix,(yoursubdomain).sharefile.com,True
 citrix,api.sharefile.com,True
 citrix,www.cloud.com,True
 citrix,*.citrixworkspacesapi.net,True
+citrix,citrix.cloud.com,True
 citrix,citrix.cloud.com,True
 citrix,www.cloud.com,True
 citrix,ap-s.cloud.com,True
@@ -7633,8 +7633,8 @@ playstation,direct.playstation.com,True
 playstation,store.playstation.com,True
 playstation,my.playstation.com,True
 playstation,*.sonyentertainmentnetwork.com,True
-playstation,*.playstation.net,True
 playstation,my.account.sony.com,True
+playstation,*.playstation.net,True
 playstation,*.playstation.net,True
 playstation,*.sonyentertainmentnetwork.com,True
 playstation,*.api.playstation.com,True
