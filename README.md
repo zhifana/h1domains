@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 15 05:19:29 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 15 05:42:48 UTC 2024)
 ```
 rfc.tari.com
 www.tarilabs.com
-www.tari.com
 explore.tari.com
+www.tari.com
 textexplore.tari.com
 explore.tari.com
 rfc.tari.com
@@ -19,9 +19,9 @@ iframe.arkoselabs.com
 client-api.arkoselabs.com
 portal.arkoselabs.com
 demo.arkoselabs.com
+cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
 www.arkoselabs.com
-cdn.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
@@ -562,9 +562,9 @@ hiltonhotels.jp
 *.hiltonbusinessonline.com
 hilton.com
 *.hiltonhotels.jp
-*.hilton.com
-*.hilton.com.tr
 *.hilton.io
+*.hilton.com.tr
+*.hilton.com
 hiltonbusinessonline.com
 *.hilton.com
 *.hilton.io
@@ -764,9 +764,9 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
-*.superbet.ro
 *.superbet.pl
 *.magicjackpot.ro
+*.superbet.ro
 *.napoleongames.be
 *.superbet.ro
 *.superbet.rs
@@ -1448,8 +1448,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbanclap.com
 www.urbancompany.com
+www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
 new.reddit.com
@@ -1735,8 +1735,8 @@ ads.tiktok.com
 live-backstage.tiktok.com
 tiktok.com
 *.tiktokv.com
-partner.tiktokshop.com
 *.tiktok.com
+partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2739,7 +2739,6 @@ fanduel.design
 matomo.cloud
 matomo.cloud
 https://github.com/matomo-org/docker
-*.xoom.com
 paypal.me
 py.pl
 *.paydiant.com
@@ -2768,6 +2767,7 @@ paypalobjects.com
 *.braintreegateway.com
 *.paypalcorp.com
 *.paypal.com
+*.xoom.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3133,8 +3133,8 @@ gifts.grab.com
 grab.careers
 kartaview.org
 *.taralite.com
-*.ovo.id
 *.grab.com
+*.ovo.id
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3530,12 +3530,12 @@ shopify.plus
 linkpop.com
 accounts.shopify.com
 *.shopifycloud.com
-your-store.myshopify.com
 shop.app
 partners.shopify.com
+your-store.myshopify.com
 admin.shopify.com
-*.shopifycs.com
 *.shopify.com
+*.shopifycs.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
