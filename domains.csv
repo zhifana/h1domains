@@ -24,8 +24,8 @@ vendasta,partners.vendasta.com,False
 tari_labs,tlu.tarilabs.com,False
 tari_labs,rfc.tari.com,True
 tari_labs,www.tarilabs.com,True
-tari_labs,explore.tari.com,True
 tari_labs,www.tari.com,True
+tari_labs,explore.tari.com,True
 tari_labs,textexplore.tari.com,True
 tari_labs,explore.tari.com,True
 tari_labs,rfc.tari.com,True
@@ -65,9 +65,9 @@ arkose_labs,iframe.arkoselabs.com,True
 arkose_labs,client-api.arkoselabs.com,True
 arkose_labs,portal.arkoselabs.com,True
 arkose_labs,demo.arkoselabs.com,True
-arkose_labs,cdn.arkoselabs.com,True
 arkose_labs,customer-sessions.arkoselabs.com,True
 arkose_labs,www.arkoselabs.com,True
+arkose_labs,cdn.arkoselabs.com,True
 arkose_labs,client-api.arkoselabs.com,True
 arkose_labs,cdn.arkoselabs.com,True
 arkose_labs,customer-sessions.arkoselabs.com,True
@@ -226,9 +226,9 @@ bookingcom,careers.booking.com,True
 bookingcom,admin.booking.com,True
 bookingcom,booking.com,True
 bookingcom,secure.booking.com,True
-bookingcom,account.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,*.booking.com,True
+bookingcom,account.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
@@ -2816,9 +2816,9 @@ clarivate,biologybrowser.org,False
 clarivate,biologyfinder.com,False
 freshworks,yourdomain.freshcaller.com,True
 freshworks,yourdomain.freshchat.com,True
-freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.myfreshworks.com,True
+freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshchat.com,True
@@ -2908,8 +2908,8 @@ mozilla_core_services,support.mozilla.org,True
 mozilla_core_services,www.mozilla.org,True
 mozilla_core_services,stage.taskcluster.nonprod.cloudops.mozgcp.net,True
 mozilla_core_services,monitor.firefox.com,True
-mozilla_core_services,hg.mozilla.org,True
 mozilla_core_services,relay.firefox.com,True
+mozilla_core_services,hg.mozilla.org,True
 mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,profiler.firefox.com,True
 mozilla_core_services,vpn.mozilla.org,True
@@ -4628,8 +4628,8 @@ planetart,www.gifts.com,False
 planetart,ai.planetart.com,False
 planetart,*.mycustomcase.com,False
 planetart,*.simplytoimpress.com,False
-planetart,*.personalcreations.com,False
 planetart,*.cafepress.com,False
+planetart,*.personalcreations.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -4887,9 +4887,9 @@ anywhererealestate,*.era.com,False
 anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.coldwellbanker.*,False
 anywhererealestate,*.corcoran.*,False
+anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,*.anywhere.re,False
 anywhererealestate,*.century21.*,False
-anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,*.realogy.*,False
 anywhererealestate,*.bhgre.*,False
 anywhererealestate,*.century21.*,False
@@ -6175,8 +6175,8 @@ blackrock,*.ishares.com,False
 blackrock,*.blackrock.com,False
 blackrock,*.blackrock.com,False
 blackrock,*.ishares.com,False
-urbancompany,www.urbanclap.com,True
 urbancompany,www.urbancompany.com,True
+urbancompany,www.urbanclap.com,True
 urbancompany,www.urbancompany.com,True
 urbancompany,www.urbanclap.com,True
 cedars-sinai,*www.marinahospital.com,False
@@ -7234,7 +7234,6 @@ citrix,api.adm.cloud.com,True
 citrix,(yoursubdomain).us.iws.cloud.com,True
 citrix,(yoursubdomain).ap.iws.cloud.com,True
 citrix,(yoursubdomain).eu.iws.cloud.com,True
-citrix,(youriwssubdomain).cloud.com,True
 citrix,eu.cloud.com,True
 citrix,adm.cloud.com,True
 citrix,(yoursubdomain).sf-api.com,True
@@ -7248,6 +7247,7 @@ citrix,api.sharefile.com,True
 citrix,www.cloud.com,True
 citrix,*.citrixworkspacesapi.net,True
 citrix,citrix.cloud.com,True
+citrix,(youriwssubdomain).cloud.com,True
 citrix,citrix.cloud.com,True
 citrix,www.cloud.com,True
 citrix,ap-s.cloud.com,True
@@ -8366,10 +8366,10 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,www.fuzemeeting.com,False
 8x8,www.8x8.com,False
 8x8,get8x8.com,False
-palo_alto_software,www.paloalto.com,False
 palo_alto_software,www.liveplan.com,False
 palo_alto_software,app.liveplan.com,False
 palo_alto_software,www.bplans.com,False
+palo_alto_software,www.paloalto.com,False
 palo_alto_software,app.liveplan.com,False
 palo_alto_software,www.paloalto.com,False
 palo_alto_software,www.liveplan.com,False
@@ -9855,8 +9855,8 @@ grab,*.myteksi.net,True
 grab,grab.careers,True
 grab,kartaview.org,True
 grab,*.taralite.com,True
-grab,*.grab.com,True
 grab,*.ovo.id,True
+grab,*.grab.com,True
 grab,*.myteksi.com,True
 grab,*.myteksi.net,True
 grab,*.grab.com,True
@@ -10158,8 +10158,8 @@ github,npmjs.com,True
 github,*.githubapp.com,True
 github,npmjs.org,True
 github,classroom.github.com,True
-github,api.github.com,True
 github,github.com,True
+github,api.github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True

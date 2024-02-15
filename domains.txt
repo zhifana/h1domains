@@ -23,8 +23,8 @@ partners.vendasta.com
 tlu.tarilabs.com
 rfc.tari.com
 www.tarilabs.com
-explore.tari.com
 www.tari.com
+explore.tari.com
 textexplore.tari.com
 explore.tari.com
 rfc.tari.com
@@ -64,9 +64,9 @@ iframe.arkoselabs.com
 client-api.arkoselabs.com
 portal.arkoselabs.com
 demo.arkoselabs.com
-cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
 www.arkoselabs.com
+cdn.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
@@ -225,9 +225,9 @@ careers.booking.com
 admin.booking.com
 booking.com
 secure.booking.com
-account.booking.com
 *.rentalcars.com
 *.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -2815,9 +2815,9 @@ biologybrowser.org
 biologyfinder.com
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
-yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -2907,8 +2907,8 @@ support.mozilla.org
 www.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 monitor.firefox.com
-hg.mozilla.org
 relay.firefox.com
+hg.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -4627,8 +4627,8 @@ www.gifts.com
 ai.planetart.com
 *.mycustomcase.com
 *.simplytoimpress.com
-*.personalcreations.com
 *.cafepress.com
+*.personalcreations.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -4886,9 +4886,9 @@ www.alohi.com
 *.sothebysrealty.*
 *.coldwellbanker.*
 *.corcoran.*
+*.mycbdesk.com
 *.anywhere.re
 *.century21.*
-*.mycbdesk.com
 *.realogy.*
 *.bhgre.*
 *.century21.*
@@ -6174,8 +6174,8 @@ www.travelguard.com
 *.blackrock.com
 *.blackrock.com
 *.ishares.com
-www.urbanclap.com
 www.urbancompany.com
+www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
 *www.marinahospital.com
@@ -7233,7 +7233,6 @@ api.adm.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
-(youriwssubdomain).cloud.com
 eu.cloud.com
 adm.cloud.com
 (yoursubdomain).sf-api.com
@@ -7247,6 +7246,7 @@ api.sharefile.com
 www.cloud.com
 *.citrixworkspacesapi.net
 citrix.cloud.com
+(youriwssubdomain).cloud.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -8365,10 +8365,10 @@ vm.8x8.com
 www.fuzemeeting.com
 www.8x8.com
 get8x8.com
-www.paloalto.com
 www.liveplan.com
 app.liveplan.com
 www.bplans.com
+www.paloalto.com
 app.liveplan.com
 www.paloalto.com
 www.liveplan.com
@@ -9854,8 +9854,8 @@ gifts.grab.com
 grab.careers
 kartaview.org
 *.taralite.com
-*.grab.com
 *.ovo.id
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -10157,8 +10157,8 @@ npmjs.com
 *.githubapp.com
 npmjs.org
 classroom.github.com
-api.github.com
 github.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
