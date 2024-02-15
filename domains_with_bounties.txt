@@ -1,8 +1,8 @@
 rfc.tari.com
 www.tarilabs.com
 explore.tari.com
-www.tari.com
 textexplore.tari.com
+www.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -30,8 +30,8 @@ www.sheer.com
 my.sheer.com
 www.pornworld.com
 www.ddfcontent.com
-www.pornbox.com
 www.analvids.com
+www.pornbox.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -85,8 +85,8 @@ therapeutics.23andme.com
 api.23andme.com
 mediacenter.23andme.com
 research.23andme.com
-blog.23andme.com
 store.23andme.com
+blog.23andme.com
 auth.23andme.com
 you.23andme.com
 medical.23andme.com
@@ -112,10 +112,10 @@ api.mercadolibre.com
 www.mercadopago.cl
 www.mercadopago.com.uy
 www.mercadolibre.cl
-www.mercadopago.com.ar
 www.mercadolibre.com.ar
 www.mercadolibre.com.co
 www.mercadolivre.com.br
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -556,8 +556,8 @@ hiltonhotels.jp
 *.hiltonbusinessonline.com
 *.hiltonhotels.jp
 hiltonbusinessonline.com
-*.hilton.com.tr
 *.hilton.io
+*.hilton.com.tr
 hilton.com
 *.hilton.com
 *.hilton.com
@@ -596,9 +596,9 @@ cargo.indrive.com
 watchdocs.indriverapp.com
 *.indriver.com
 super-services.indriverapp.com
-*.indriverapp.com
 *.indrive.com
 auth2.indrive.tech
+*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1427,8 +1427,8 @@ api.taxjar.com
 *.recko.io
 *.link.co
 app.taxjar.com
-*.stripe.com
 api.stripe.com
+*.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1442,8 +1442,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbanclap.com
 www.urbancompany.com
+www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
 new.reddit.com
@@ -1471,8 +1471,8 @@ old.reddit.com
 api.reddit.com
 *.redditmedia.com
 ads.reddit.com
-www.reddit.com
 *.reddit.com
+www.reddit.com
 redditforbusiness.com
 *.snooguts.net
 *.redditmedia.com
@@ -1793,9 +1793,9 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-account.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
+account.acronis.com
 *.acronis.com
 *-api-*.acronis.com
 *.acronis.com
@@ -2310,8 +2310,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.roblox.com
-*.guilded.gg
 *.rbx.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2807,8 +2807,8 @@ m.chaturbate.com
 blog.chaturbate.com
 billingsupport.chaturbate.com
 secure.chaturbate.com
-testnet.bitmex.com
 *.bitmex.com
+testnet.bitmex.com
 *.bitmex.com
 testnet.bitmex.com
 *.staging-airtableblocks.com
@@ -3374,8 +3374,8 @@ npmjs.com
 *.githubapp.com
 npmjs.org
 classroom.github.com
-github.com
 api.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3421,8 +3421,8 @@ api2.grofers.com
 api.grofers.com
 *.zomans.com
 *.hyperpure.com
-*.runnr.in
 blinkit.com
+*.runnr.in
 *.zomato.com
 *.zomato.com
 *.zdev.net
@@ -3522,10 +3522,10 @@ arrive-server.shopifycloud.com
 shopify.plus
 *.shopifycloud.com
 shop.app
-your-store.myshopify.com
 *.shopify.com
 *.shopifycs.com
 accounts.shopify.com
+your-store.myshopify.com
 partners.shopify.com
 admin.shopify.com
 linkpop.com
