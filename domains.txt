@@ -37,7 +37,7 @@ www.iairgroup.com
 *.iaggbs.com
 *.iairgroup.com
 www.aerlingus.com
-www.iaggbs.com
+*.iagcargo.com
 www.aerlingus.com
 www.avios.com
 www.iairgroup.com
@@ -62,8 +62,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 client-api.arkoselabs.com
 demo.arkoselabs.com
-customer-sessions.arkoselabs.com
 cdn.arkoselabs.com
+customer-sessions.arkoselabs.com
 portal.arkoselabs.com
 www.arkoselabs.com
 client-api.arkoselabs.com
@@ -124,9 +124,9 @@ www.zyro.com
 backend.zyro.com
 logo.zyro.com
 payments.hostinger.com
-www.hostinger.com
 hpanel.hostinger.com
 *.000webhost.com
+www.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -222,11 +222,11 @@ cars.booking.com
 widget.rentalcars.com
 careers.booking.com
 admin.booking.com
+*.booking.com
 *.rentalcars.com
 secure.booking.com
-booking.com
 account.booking.com
-*.booking.com
+booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -1254,8 +1254,8 @@ sandbox.particlehealth.com
 gobrightspeed.net
 brightspeed.service-now.com
 brightspeedtsm.service-now.com
-*.brightspeed.com
 brightspeed.com
+*.brightspeed.com
 *.brightspeed.com
 brightspeed.com
 brightspeed.service-now.com
@@ -1506,10 +1506,10 @@ http://vdp.kahootz.com
 *.alfam.nl
 *.new10.com
 *.bethmannbank.de
-*neuflizeobc.fr
 *.abnamro.nl
 *.abnamro.org
 *.tikkie.me
+*neuflizeobc.fr
 *.abnamro.com
 *.abnamro.nl
 *.tikkie.me
@@ -2905,8 +2905,8 @@ support.mozilla.org
 www.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 monitor.firefox.com
-relay.firefox.com
 hg.mozilla.org
+relay.firefox.com
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -2999,8 +2999,8 @@ hiltonhotels.jp
 *.hiltonbusinessonline.com
 *.hiltonhotels.jp
 hiltonbusinessonline.com
-*.hilton.com.tr
 *.hilton.io
+*.hilton.com.tr
 hilton.com
 *.hilton.com
 *.hilton.com
@@ -3036,7 +3036,6 @@ standard.paystack.co
 *.apidt.org
 *.seedalliance.net
 * IPv6 addresses
-orbit.apnic.net
 aso.apnic.net
 stats.labs.apnic.net
 nori.apnic.net
@@ -3049,6 +3048,7 @@ submission.apnic.net
 *.apnic.foundation
 *.apnic.net
 * IPv4 addresses
+orbit.apnic.net
 *.apnic.net
 *.apnic.foundation
 *.isif.asia
@@ -3570,8 +3570,8 @@ thailand.airasiago.com
 *.fewo-direkt.de
 *.carrentals.com
 *.hotwire.com
-*.hotels.com
 *.cheaptickets.com
+*.hotels.com
 *.expedia.com
 *.expedia.com
 *.hotwire.com
@@ -4883,9 +4883,9 @@ www.alohi.com
 *.era.com
 *.sothebysrealty.*
 *.corcoran.*
-*.anywhere.re
 *.coldwellbanker.*
 *.mycbdesk.com
+*.anywhere.re
 *.century21.*
 *.realogy.*
 *.bhgre.*
@@ -6460,8 +6460,8 @@ old.reddit.com
 api.reddit.com
 *.redditmedia.com
 ads.reddit.com
-www.reddit.com
 *.reddit.com
+www.reddit.com
 redditforbusiness.com
 *.snooguts.net
 *.redditmedia.com
@@ -7970,12 +7970,12 @@ marketplace.digitalocean.com
 platform.cloudways.com
 169.254.169.254
 *.digitalocean.com
-cloud.digitalocean.com
 api.cloudways.com
 unified.cloudways.com
 api.digitalocean.com
 www.cloudways.com
 www.digitalocean.com
+cloud.digitalocean.com
 *.digitalocean.com
 cloud.digitalocean.com
 api.digitalocean.com
@@ -8362,10 +8362,10 @@ vm.8x8.com
 www.fuzemeeting.com
 www.8x8.com
 get8x8.com
+www.paloalto.com
 www.liveplan.com
 app.liveplan.com
 www.bplans.com
-www.paloalto.com
 app.liveplan.com
 www.paloalto.com
 www.liveplan.com
@@ -9990,8 +9990,8 @@ lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
 www.files.com
-app.files.com
 your-assigned-subdomain.files.com
+app.files.com
 app.files.com
 your-assigned-subdomain.files.com
 www.files.com
@@ -10182,8 +10182,8 @@ docs.gitlab.com
 *.gitlab.org
 *.gitlab.net
 customers.gitlab.com
-gitlab.com
 about.gitlab.com
+gitlab.com
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -10200,8 +10200,8 @@ api2.grofers.com
 api.grofers.com
 *.zomans.com
 *.hyperpure.com
-*.runnr.in
 blinkit.com
+*.runnr.in
 *.zomato.com
 *.zomato.com
 *.zdev.net
@@ -10772,9 +10772,9 @@ slack-redir.net
 www.quip.com
 slack-imgs.com
 slack.com
-api.slack.com
 *.quip.com
 app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -10805,19 +10805,19 @@ mta-sts.wearehackerone.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 errors.hackerone.net
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
 b5s.hackerone-ext-content.com
-api.hackerone.com
 cover-photos.hackerone-user-content.com
+api.hackerone.com
+ctf.hacker101.com
+hackerone.com
 hackerone-ext-content.com
 app.pullrequest.com
-ctf.hacker101.com
 hackerone-user-content.com
 hackerone.live
 www.hackerone.com
-hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
