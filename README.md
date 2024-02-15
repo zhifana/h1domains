@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 15 11:17:51 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 15 11:42:53 UTC 2024)
 ```
 rfc.tari.com
 www.tarilabs.com
@@ -18,9 +18,9 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 client-api.arkoselabs.com
 demo.arkoselabs.com
+cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
 www.arkoselabs.com
-cdn.arkoselabs.com
 portal.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
@@ -120,8 +120,8 @@ www.mercadopago.com.uy
 www.mercadolibre.cl
 www.mercadopago.com.ar
 www.mercadolivre.com.br
-www.mercadolibre.com.co
 www.mercadolibre.com.ar
+www.mercadolibre.com.co
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -166,9 +166,9 @@ careers.booking.com
 admin.booking.com
 booking.com
 secure.booking.com
+*.booking.com
 account.booking.com
 *.rentalcars.com
-*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -466,8 +466,8 @@ avtoelon.uz
 id.kolesa.kz
 api.kolesa.kz
 krisha.kz
-kolesa.kz
 api.krisha.kz
+kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -533,8 +533,8 @@ support.mozilla.org
 www.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 monitor.firefox.com
-relay.firefox.com
 hg.mozilla.org
+relay.firefox.com
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -602,9 +602,9 @@ cargo.indrive.com
 watchdocs.indriverapp.com
 *.indriver.com
 super-services.indriverapp.com
+*.indriverapp.com
 *.indrive.com
 auth2.indrive.tech
-*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1433,8 +1433,8 @@ api.taxjar.com
 *.recko.io
 *.link.co
 app.taxjar.com
-*.stripe.com
 api.stripe.com
+*.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1448,8 +1448,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbanclap.com
 www.urbancompany.com
+www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
 new.reddit.com
@@ -1735,8 +1735,8 @@ live-backstage.tiktok.com
 tiktok.com
 *.tiktokv.com
 *.tiktok.com
-partner.tiktokshop.com
 ads.tiktok.com
+partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1792,8 +1792,8 @@ cs.money
 support.cs.money
 wiki.cs.money
 3d.cs.money
-api.faraday.ai
 app.faraday.ai
+api.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
@@ -2315,9 +2315,9 @@ http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
-*.roblox.com
 *.rbx.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2918,7 +2918,6 @@ api.foliofn.com
 developer.valvesoftware.com
 partner.steampowered.com
 partner.steamgames.com
-www.counter-strike.net
 www.dota2.com
 support.steampowered.com
 help.steampowered.com
@@ -2927,6 +2926,7 @@ www.valvesoftware.com
 www.teamfortress.com
 store.steampowered.com
 api.steampowered.com
+www.counter-strike.net
 steamcommunity.com
 www.dota2.com
 support.steampowered.com
@@ -3133,8 +3133,8 @@ gifts.grab.com
 grab.careers
 kartaview.org
 *.taralite.com
-*.ovo.id
 *.grab.com
+*.ovo.id
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3381,8 +3381,8 @@ npmjs.com
 *.githubapp.com
 npmjs.org
 classroom.github.com
-api.github.com
 github.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3426,10 +3426,10 @@ winecellar.zomato.com
 *.zdev.net
 api2.grofers.com
 api.grofers.com
-*.runnr.in
 *.zomans.com
-*.zomato.com
 *.hyperpure.com
+*.runnr.in
+*.zomato.com
 blinkit.com
 *.zomato.com
 *.zdev.net
@@ -3529,9 +3529,9 @@ arrive-server.shopifycloud.com
 shopify.plus
 linkpop.com
 *.shopifycloud.com
-your-store.myshopify.com
 shop.app
 partners.shopify.com
+your-store.myshopify.com
 *.shopify.com
 *.shopifycs.com
 admin.shopify.com
@@ -3898,10 +3898,10 @@ a5s.hackerone-ext-content.com
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 api.hackerone.com
-hackerone-ext-content.com
-app.pullrequest.com
 ctf.hacker101.com
 hackerone.com
+hackerone-ext-content.com
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
