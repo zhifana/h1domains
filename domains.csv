@@ -35,8 +35,8 @@ tari_labs,www.tarilabs.com,True
 tari_labs,tlu.tarilabs.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
-international_airlines_group,*.iaggbs.com,False
 international_airlines_group,*.iagcargo.com,False
+international_airlines_group,*.iaggbs.com,False
 international_airlines_group,*.iairgroup.com,False
 international_airlines_group,www.iaggbs.com,False
 international_airlines_group,*.aerlingus.com,False
@@ -152,9 +152,9 @@ egress-vdp,www.egress.com,False
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,mediacenter.23andme.com,True
 23andme_bbp,research.23andme.com,True
-23andme_bbp,blog.23andme.com,True
 23andme_bbp,store.23andme.com,True
 23andme_bbp,you.23andme.com,True
+23andme_bbp,blog.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
@@ -2908,8 +2908,8 @@ mozilla_core_services,support.mozilla.org,True
 mozilla_core_services,www.mozilla.org,True
 mozilla_core_services,stage.taskcluster.nonprod.cloudops.mozgcp.net,True
 mozilla_core_services,monitor.firefox.com,True
-mozilla_core_services,relay.firefox.com,True
 mozilla_core_services,hg.mozilla.org,True
+mozilla_core_services,relay.firefox.com,True
 mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,profiler.firefox.com,True
 mozilla_core_services,vpn.mozilla.org,True
@@ -3162,8 +3162,8 @@ abb,*.abb.com.tr,False
 abb,*.baldor.com,False
 abb,abb.com.br,False
 abb,*.cylon.com,False
-abb,*.abb.com.cn,False
 abb,*.abb.com,False
+abb,*.abb.com.cn,False
 abb,*.tnb.com,False
 abb,*.abb.com,False
 abb,*.tnb.com,False
@@ -3398,9 +3398,9 @@ superbet,*.napoleonsports.be,True
 superbet,*.luckydays.com,True
 superbet,*.superbet.rs,True
 superbet,*.superbet.com,True
+superbet,*.superbet.ro,True
 superbet,*.superbet.pl,True
 superbet,*.magicjackpot.ro,True
-superbet,*.superbet.ro,True
 superbet,*.napoleongames.be,True
 superbet,*.superbet.ro,True
 superbet,*.superbet.rs,True
@@ -3573,9 +3573,9 @@ expediagroup,*.expediaagents.com,False
 expediagroup,*.fewo-direkt.de,False
 expediagroup,*.carrentals.com,False
 expediagroup,*.hotwire.com,False
+expediagroup,*.hotels.com,False
 expediagroup,*.expedia.com,False
 expediagroup,*.cheaptickets.com,False
-expediagroup,*.hotels.com,False
 expediagroup,*.expedia.com,False
 expediagroup,*.hotwire.com,False
 expediagroup,*.orbitz.com,False
@@ -4628,8 +4628,8 @@ planetart,www.gifts.com,False
 planetart,ai.planetart.com,False
 planetart,*.mycustomcase.com,False
 planetart,*.simplytoimpress.com,False
-planetart,*.cafepress.com,False
 planetart,*.personalcreations.com,False
+planetart,*.cafepress.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -6175,8 +6175,8 @@ blackrock,*.ishares.com,False
 blackrock,*.blackrock.com,False
 blackrock,*.blackrock.com,False
 blackrock,*.ishares.com,False
-urbancompany,www.urbancompany.com,True
 urbancompany,www.urbanclap.com,True
+urbancompany,www.urbancompany.com,True
 urbancompany,www.urbancompany.com,True
 urbancompany,www.urbanclap.com,True
 cedars-sinai,*www.marinahospital.com,False
@@ -7440,9 +7440,9 @@ rebellion-defense,www.rebelliondefense.com,False
 acronis,*-api-*.acronis.com,True
 acronis,*.devicelock.com,True
 acronis,*.5nine.com,True
-acronis,account.acronis.com,True
 acronis,*.acronis.work,True
 acronis,beta-cloud.acronis.com,True
+acronis,account.acronis.com,True
 acronis,*.acronis.com,True
 acronis,*-api-*.acronis.com,True
 acronis,*.acronis.com,True
@@ -7977,8 +7977,8 @@ digitalocean,unified.cloudways.com,False
 digitalocean,www.cloudways.com,False
 digitalocean,www.digitalocean.com,False
 digitalocean,api.digitalocean.com,False
-digitalocean,169.254.169.254,False
 digitalocean,cloud.digitalocean.com,False
+digitalocean,169.254.169.254,False
 digitalocean,*.digitalocean.com,False
 digitalocean,*.digitalocean.com,False
 digitalocean,cloud.digitalocean.com,False
@@ -8388,7 +8388,6 @@ mtn_group,mtnairborn.com,False
 mtn_group,mtnhelloworld.net,False
 mtn_group,mtnglobalservices.com,False
 mtn_group,silobreaks.co.ke,False
-mtn_group,mtn.business,False
 mtn_group,mtngo.capetown,False
 mtn_group,yellomtn.com,False
 mtn_group,mtn-ssd.com,False
@@ -9577,8 +9576,8 @@ valve,playartifact.com,True
 valve,www.valvesoftware.com,True
 valve,www.teamfortress.com,True
 valve,store.steampowered.com,True
-valve,steamcommunity.com,True
 valve,api.steampowered.com,True
+valve,steamcommunity.com,True
 valve,www.dota2.com,True
 valve,support.steampowered.com,True
 valve,partner.steampowered.com,True
@@ -10159,8 +10158,8 @@ github,npmjs.com,True
 github,*.githubapp.com,True
 github,npmjs.org,True
 github,classroom.github.com,True
-github,github.com,True
 github,api.github.com,True
+github,github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
@@ -10186,10 +10185,10 @@ gitlab,design.gitlab.com,True
 gitlab,advisories.gitlab.com,True
 gitlab,docs.gitlab.com,True
 gitlab,*.gitlab.org,True
-gitlab,about.gitlab.com,True
 gitlab,*.gitlab.net,True
 gitlab,customers.gitlab.com,True
 gitlab,gitlab.com,True
+gitlab,about.gitlab.com,True
 gitlab,*.gitlab.net,True
 gitlab,*.gitlab.org,True
 gitlab,*.gitlap.com,True

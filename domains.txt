@@ -34,8 +34,8 @@ www.tarilabs.com
 tlu.tarilabs.com
 www.avios.com
 www.iairgroup.com
-*.iaggbs.com
 *.iagcargo.com
+*.iaggbs.com
 *.iairgroup.com
 www.iaggbs.com
 *.aerlingus.com
@@ -151,9 +151,9 @@ api.23andme.com
 auth.23andme.com
 mediacenter.23andme.com
 research.23andme.com
-blog.23andme.com
 store.23andme.com
 you.23andme.com
+blog.23andme.com
 medical.23andme.com
 api.23andme.com
 auth.23andme.com
@@ -2907,8 +2907,8 @@ support.mozilla.org
 www.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 monitor.firefox.com
-relay.firefox.com
 hg.mozilla.org
+relay.firefox.com
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -3161,8 +3161,8 @@ http://miro.com/blog
 *.baldor.com
 abb.com.br
 *.cylon.com
-*.abb.com.cn
 *.abb.com
+*.abb.com.cn
 *.tnb.com
 *.abb.com
 *.tnb.com
@@ -3397,9 +3397,9 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
+*.superbet.ro
 *.superbet.pl
 *.magicjackpot.ro
-*.superbet.ro
 *.napoleongames.be
 *.superbet.ro
 *.superbet.rs
@@ -3572,9 +3572,9 @@ thailand.airasiago.com
 *.fewo-direkt.de
 *.carrentals.com
 *.hotwire.com
+*.hotels.com
 *.expedia.com
 *.cheaptickets.com
-*.hotels.com
 *.expedia.com
 *.hotwire.com
 *.orbitz.com
@@ -4627,8 +4627,8 @@ www.gifts.com
 ai.planetart.com
 *.mycustomcase.com
 *.simplytoimpress.com
-*.cafepress.com
 *.personalcreations.com
+*.cafepress.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -6174,8 +6174,8 @@ www.travelguard.com
 *.blackrock.com
 *.blackrock.com
 *.ishares.com
-www.urbancompany.com
 www.urbanclap.com
+www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 *www.marinahospital.com
@@ -7439,9 +7439,9 @@ www.rebelliondefense.com
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-account.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
+account.acronis.com
 *.acronis.com
 *-api-*.acronis.com
 *.acronis.com
@@ -7976,8 +7976,8 @@ unified.cloudways.com
 www.cloudways.com
 www.digitalocean.com
 api.digitalocean.com
-169.254.169.254
 cloud.digitalocean.com
+169.254.169.254
 *.digitalocean.com
 *.digitalocean.com
 cloud.digitalocean.com
@@ -8387,7 +8387,6 @@ mtnairborn.com
 mtnhelloworld.net
 mtnglobalservices.com
 silobreaks.co.ke
-mtn.business
 mtngo.capetown
 yellomtn.com
 mtn-ssd.com
@@ -9576,8 +9575,8 @@ playartifact.com
 www.valvesoftware.com
 www.teamfortress.com
 store.steampowered.com
-steamcommunity.com
 api.steampowered.com
+steamcommunity.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -10158,8 +10157,8 @@ npmjs.com
 *.githubapp.com
 npmjs.org
 classroom.github.com
-github.com
 api.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -10185,10 +10184,10 @@ design.gitlab.com
 advisories.gitlab.com
 docs.gitlab.com
 *.gitlab.org
-about.gitlab.com
 *.gitlab.net
 customers.gitlab.com
 gitlab.com
+about.gitlab.com
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 15 05:42:48 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 15 06:22:33 UTC 2024)
 ```
 rfc.tari.com
 www.tarilabs.com
@@ -92,9 +92,9 @@ api.23andme.com
 auth.23andme.com
 mediacenter.23andme.com
 research.23andme.com
-blog.23andme.com
 store.23andme.com
 you.23andme.com
+blog.23andme.com
 medical.23andme.com
 api.23andme.com
 auth.23andme.com
@@ -533,8 +533,8 @@ support.mozilla.org
 www.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 monitor.firefox.com
-relay.firefox.com
 hg.mozilla.org
+relay.firefox.com
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -764,9 +764,9 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
+*.superbet.ro
 *.superbet.pl
 *.magicjackpot.ro
-*.superbet.ro
 *.napoleongames.be
 *.superbet.ro
 *.superbet.rs
@@ -1448,8 +1448,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbancompany.com
 www.urbanclap.com
+www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 new.reddit.com
@@ -1799,9 +1799,9 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-account.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
+account.acronis.com
 *.acronis.com
 *-api-*.acronis.com
 *.acronis.com
@@ -2926,8 +2926,8 @@ playartifact.com
 www.valvesoftware.com
 www.teamfortress.com
 store.steampowered.com
-steamcommunity.com
 api.steampowered.com
+steamcommunity.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3381,8 +3381,8 @@ npmjs.com
 *.githubapp.com
 npmjs.org
 classroom.github.com
-github.com
 api.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3408,10 +3408,10 @@ design.gitlab.com
 advisories.gitlab.com
 docs.gitlab.com
 *.gitlab.org
-about.gitlab.com
 *.gitlab.net
 customers.gitlab.com
 gitlab.com
+about.gitlab.com
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
