@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 15 01:51:03 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 15 02:23:26 UTC 2024)
 ```
 rfc.tari.com
 www.tarilabs.com
-www.tari.com
 explore.tari.com
+www.tari.com
 textexplore.tari.com
 explore.tari.com
 rfc.tari.com
@@ -19,9 +19,9 @@ iframe.arkoselabs.com
 client-api.arkoselabs.com
 portal.arkoselabs.com
 demo.arkoselabs.com
+cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
 www.arkoselabs.com
-cdn.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
@@ -92,9 +92,9 @@ api.23andme.com
 auth.23andme.com
 mediacenter.23andme.com
 research.23andme.com
+blog.23andme.com
 store.23andme.com
 you.23andme.com
-blog.23andme.com
 medical.23andme.com
 api.23andme.com
 auth.23andme.com
@@ -533,8 +533,8 @@ support.mozilla.org
 www.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 monitor.firefox.com
-relay.firefox.com
 hg.mozilla.org
+relay.firefox.com
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -562,9 +562,9 @@ hiltonhotels.jp
 *.hiltonbusinessonline.com
 hilton.com
 *.hiltonhotels.jp
-*.hilton.io
-*.hilton.com.tr
 *.hilton.com
+*.hilton.com.tr
+*.hilton.io
 hiltonbusinessonline.com
 *.hilton.com
 *.hilton.io
@@ -764,9 +764,9 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
-*.superbet.ro
 *.superbet.pl
 *.magicjackpot.ro
+*.superbet.ro
 *.napoleongames.be
 *.superbet.ro
 *.superbet.rs
@@ -987,8 +987,8 @@ checkout.razorpay.com
 invoices.razorpay.com
 payroll.razorpay.com
 api.razorpay.com
-dashboard.razorpay.com
 x.razorpay.com
+dashboard.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -1519,8 +1519,8 @@ remix.com
 eu.remix.com
 platform.remix.com
 *.withbuddies.com
-*.scopely.com
 *.scopely.io
+*.scopely.com
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
@@ -1619,8 +1619,8 @@ ccloud.yoti.com
 code.yoti.com
 api.yoti.com
 identity.yoti.com
-www.yotisign.com
 hub.yoti.com
+www.yotisign.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1734,8 +1734,8 @@ www.pangleglobal.com
 ads.tiktok.com
 live-backstage.tiktok.com
 tiktok.com
-*.tiktokv.com
 partner.tiktokshop.com
+*.tiktokv.com
 *.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -1951,8 +1951,8 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
-my.account.sony.com
 *.sonyentertainmentnetwork.com
+my.account.sony.com
 *.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -3381,8 +3381,8 @@ npmjs.com
 *.githubapp.com
 npmjs.org
 classroom.github.com
-api.github.com
 github.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3530,9 +3530,9 @@ shopify.plus
 linkpop.com
 accounts.shopify.com
 *.shopifycloud.com
+your-store.myshopify.com
 shop.app
 partners.shopify.com
-your-store.myshopify.com
 admin.shopify.com
 *.shopify.com
 *.shopifycs.com
@@ -3744,8 +3744,8 @@ ide.x.ai
 grok.x.ai
 *.twimg.com
 *.twitter.com
-api.x.ai
 x.com
+api.x.ai
 *.twitter.com
 *.vine.co
 *.twimg.com

@@ -24,8 +24,8 @@ vendasta,partners.vendasta.com,False
 tari_labs,tlu.tarilabs.com,False
 tari_labs,rfc.tari.com,True
 tari_labs,www.tarilabs.com,True
-tari_labs,www.tari.com,True
 tari_labs,explore.tari.com,True
+tari_labs,www.tari.com,True
 tari_labs,textexplore.tari.com,True
 tari_labs,explore.tari.com,True
 tari_labs,rfc.tari.com,True
@@ -65,9 +65,9 @@ arkose_labs,iframe.arkoselabs.com,True
 arkose_labs,client-api.arkoselabs.com,True
 arkose_labs,portal.arkoselabs.com,True
 arkose_labs,demo.arkoselabs.com,True
+arkose_labs,cdn.arkoselabs.com,True
 arkose_labs,customer-sessions.arkoselabs.com,True
 arkose_labs,www.arkoselabs.com,True
-arkose_labs,cdn.arkoselabs.com,True
 arkose_labs,client-api.arkoselabs.com,True
 arkose_labs,cdn.arkoselabs.com,True
 arkose_labs,customer-sessions.arkoselabs.com,True
@@ -152,9 +152,9 @@ egress-vdp,www.egress.com,False
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,mediacenter.23andme.com,True
 23andme_bbp,research.23andme.com,True
+23andme_bbp,blog.23andme.com,True
 23andme_bbp,store.23andme.com,True
 23andme_bbp,you.23andme.com,True
-23andme_bbp,blog.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
@@ -2908,8 +2908,8 @@ mozilla_core_services,support.mozilla.org,True
 mozilla_core_services,www.mozilla.org,True
 mozilla_core_services,stage.taskcluster.nonprod.cloudops.mozgcp.net,True
 mozilla_core_services,monitor.firefox.com,True
-mozilla_core_services,relay.firefox.com,True
 mozilla_core_services,hg.mozilla.org,True
+mozilla_core_services,relay.firefox.com,True
 mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,profiler.firefox.com,True
 mozilla_core_services,vpn.mozilla.org,True
@@ -3002,9 +3002,9 @@ hilton,*.hiltonlocalbiz.com,True
 hilton,*.hiltonbusinessonline.com,True
 hilton,hilton.com,True
 hilton,*.hiltonhotels.jp,True
-hilton,*.hilton.io,True
-hilton,*.hilton.com.tr,True
 hilton,*.hilton.com,True
+hilton,*.hilton.com.tr,True
+hilton,*.hilton.io,True
 hilton,hiltonbusinessonline.com,True
 hilton,*.hilton.com,True
 hilton,*.hilton.io,True
@@ -3398,9 +3398,9 @@ superbet,*.napoleonsports.be,True
 superbet,*.luckydays.com,True
 superbet,*.superbet.rs,True
 superbet,*.superbet.com,True
-superbet,*.superbet.ro,True
 superbet,*.superbet.pl,True
 superbet,*.magicjackpot.ro,True
+superbet,*.superbet.ro,True
 superbet,*.napoleongames.be,True
 superbet,*.superbet.ro,True
 superbet,*.superbet.rs,True
@@ -3573,9 +3573,9 @@ expediagroup,*.expediaagents.com,False
 expediagroup,*.fewo-direkt.de,False
 expediagroup,*.carrentals.com,False
 expediagroup,*.hotwire.com,False
+expediagroup,*.hotels.com,False
 expediagroup,*.expedia.com,False
 expediagroup,*.cheaptickets.com,False
-expediagroup,*.hotels.com,False
 expediagroup,*.expedia.com,False
 expediagroup,*.hotwire.com,False
 expediagroup,*.orbitz.com,False
@@ -4667,8 +4667,8 @@ razorpay,checkout.razorpay.com,True
 razorpay,invoices.razorpay.com,True
 razorpay,payroll.razorpay.com,True
 razorpay,api.razorpay.com,True
-razorpay,dashboard.razorpay.com,True
 razorpay,x.razorpay.com,True
+razorpay,dashboard.razorpay.com,True
 razorpay,dashboard.razorpay.com,True
 razorpay,api.razorpay.com,True
 razorpay,checkout.razorpay.com,True
@@ -4887,9 +4887,9 @@ anywhererealestate,*.era.com,False
 anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.coldwellbanker.*,False
 anywhererealestate,*.corcoran.*,False
-anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,*.anywhere.re,False
 anywhererealestate,*.century21.*,False
+anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,*.realogy.*,False
 anywhererealestate,*.bhgre.*,False
 anywhererealestate,*.century21.*,False
@@ -6510,8 +6510,8 @@ on,*.on-running.com,False
 on,*.on-running.com,False
 on,on-app-backend.on-running.com,False
 scopely,*.withbuddies.com,True
-scopely,*.scopely.com,True
 scopely,*.scopely.io,True
+scopely,*.scopely.com,True
 scopely,*.scopely.io,True
 scopely,*.scopely.com,True
 scopely,*.withbuddies.com,True
@@ -7174,8 +7174,8 @@ yoti,ccloud.yoti.com,True
 yoti,code.yoti.com,True
 yoti,api.yoti.com,True
 yoti,identity.yoti.com,True
-yoti,www.yotisign.com,True
 yoti,hub.yoti.com,True
+yoti,www.yotisign.com,True
 yoti,core.yoti.com,True
 yoti,api.yoti.com,True
 yoti,ccloud.yoti.com,True
@@ -7291,8 +7291,8 @@ tiktok,www.pangleglobal.com,True
 tiktok,ads.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
 tiktok,tiktok.com,True
-tiktok,*.tiktokv.com,True
 tiktok,partner.tiktokshop.com,True
+tiktok,*.tiktokv.com,True
 tiktok,*.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
@@ -7632,8 +7632,8 @@ playstation,ca.account.sony.com,True
 playstation,direct.playstation.com,True
 playstation,store.playstation.com,True
 playstation,my.playstation.com,True
-playstation,my.account.sony.com,True
 playstation,*.sonyentertainmentnetwork.com,True
+playstation,my.account.sony.com,True
 playstation,*.playstation.net,True
 playstation,*.playstation.net,True
 playstation,*.sonyentertainmentnetwork.com,True
@@ -7977,8 +7977,8 @@ digitalocean,unified.cloudways.com,False
 digitalocean,www.cloudways.com,False
 digitalocean,www.digitalocean.com,False
 digitalocean,api.digitalocean.com,False
-digitalocean,169.254.169.254,False
 digitalocean,cloud.digitalocean.com,False
+digitalocean,169.254.169.254,False
 digitalocean,*.digitalocean.com,False
 digitalocean,*.digitalocean.com,False
 digitalocean,cloud.digitalocean.com,False
@@ -10159,8 +10159,8 @@ github,npmjs.com,True
 github,*.githubapp.com,True
 github,npmjs.org,True
 github,classroom.github.com,True
-github,api.github.com,True
 github,github.com,True
+github,api.github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
@@ -10310,9 +10310,9 @@ shopify,shopify.plus,True
 shopify,linkpop.com,True
 shopify,accounts.shopify.com,True
 shopify,*.shopifycloud.com,True
+shopify,your-store.myshopify.com,True
 shopify,shop.app,True
 shopify,partners.shopify.com,True
-shopify,your-store.myshopify.com,True
 shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifycs.com,True
@@ -10662,8 +10662,8 @@ x,grok.x.ai,True
 x,xadsacademy.com,False
 x,*.twimg.com,True
 x,*.twitter.com,True
-x,api.x.ai,True
 x,x.com,True
+x,api.x.ai,True
 x,*.twitter.com,True
 x,*.vine.co,True
 x,*.twimg.com,True
