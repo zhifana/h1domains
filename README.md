@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 15 20:15:56 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 15 20:43:06 UTC 2024)
 ```
 rfc.tari.com
 www.tarilabs.com
@@ -118,10 +118,10 @@ www.mercadopago.com.uy
 www.mercadolibre.cl
 www.mercadolibre.com.ar
 www.mercadolibre.com.co
-www.mercadolivre.com.br
 www.mercadopago.com.ar
 www.mercadolibre.com.mx
 www.mercadopago.com.br
+www.mercadolivre.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -164,11 +164,11 @@ cars.booking.com
 widget.rentalcars.com
 careers.booking.com
 admin.booking.com
-booking.com
 *.rentalcars.com
 secure.booking.com
-account.booking.com
 *.booking.com
+account.booking.com
+booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -465,8 +465,8 @@ id.kolesa.kz
 api.kolesa.kz
 krisha.kz
 api.krisha.kz
-kolesa.kz
 m.krisha.kz
+kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -561,8 +561,8 @@ hiltonhotels.jp
 *.hiltonbusinessonline.com
 *.hiltonhotels.jp
 hiltonbusinessonline.com
-*.hilton.com.tr
 *.hilton.io
+*.hilton.com.tr
 hilton.com
 *.hilton.com
 *.hilton.com
@@ -1432,8 +1432,8 @@ api.taxjar.com
 *.recko.io
 *.link.co
 app.taxjar.com
-api.stripe.com
 *.stripe.com
+api.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1447,8 +1447,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbanclap.com
 www.urbancompany.com
+www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
 new.reddit.com
@@ -1687,10 +1687,10 @@ api.sharefile.eu
 secure.sharefile.eu
 (yoursubdomain).sharefile.com
 api.sharefile.com
-www.cloud.com
 *.citrixworkspacesapi.net
 citrix.cloud.com
 (youriwssubdomain).cloud.com
+www.cloud.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -1728,7 +1728,6 @@ effecthouse.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
-www.pangleglobal.com
 live-backstage.tiktok.com
 ads.tiktok.com
 *.tiktokv.com
@@ -1736,6 +1735,7 @@ partner.tiktokshop.com
 *.tiktok.com
 shop.tiktok.com
 tiktok.com
+www.pangleglobal.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1798,9 +1798,9 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-account.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
+account.acronis.com
 *.acronis.com
 *-api-*.acronis.com
 *.acronis.com
@@ -2550,7 +2550,6 @@ dashboard.omise.co
 offsite.omise.co
 www.omise.co
 www.opn.ooo
-world.hyatt.com
 newsroom.images.hyatt.com
 soaext.oft.hyatt.com
 roominglist.hyatt.com
@@ -2596,6 +2595,7 @@ book.cheapcaribbean.com
 holidays-fj.fijiairways.com
 res.treasureisland.globalbookingsolutions.com
 res.vacations.sesameplace.com
+www.triseptsolutions.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -3408,8 +3408,8 @@ docs.gitlab.com
 *.gitlab.org
 *.gitlab.net
 customers.gitlab.com
-about.gitlab.com
 gitlab.com
+about.gitlab.com
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3521,19 +3521,19 @@ yourcompany.udemy.com
 www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
-*.shopifykloud.com
 shopifyinbox.com
 arrive-server.shopifycloud.com
 shopify.plus
 *.shopifycs.com
-linkpop.com
 partners.shopify.com
+linkpop.com
 accounts.shopify.com
 *.shopifycloud.com
 *.shopify.com
-your-store.myshopify.com
 admin.shopify.com
 shop.app
+*.shopifykloud.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3854,9 +3854,9 @@ slack-redir.net
 www.quip.com
 slack-imgs.com
 slack.com
-api.slack.com
 *.quip.com
 app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3887,15 +3887,15 @@ mta-sts.wearehackerone.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 errors.hackerone.net
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
 b5s.hackerone-ext-content.com
-api.hackerone.com
 cover-photos.hackerone-user-content.com
+api.hackerone.com
+ctf.hacker101.com
 hackerone-ext-content.com
 app.pullrequest.com
-ctf.hacker101.com
 hackerone-user-content.com
 hackerone.live
 www.hackerone.com
