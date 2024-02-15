@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 15 20:43:06 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 15 21:17:55 UTC 2024)
 ```
 rfc.tari.com
 www.tarilabs.com
-explore.tari.com
 textexplore.tari.com
+explore.tari.com
 www.tari.com
 explore.tari.com
 rfc.tari.com
@@ -118,8 +118,8 @@ www.mercadopago.com.uy
 www.mercadolibre.cl
 www.mercadolibre.com.ar
 www.mercadolibre.com.co
-www.mercadopago.com.ar
 www.mercadolibre.com.mx
+www.mercadopago.com.ar
 www.mercadopago.com.br
 www.mercadolivre.com.br
 api.mercadopago.com
@@ -167,8 +167,8 @@ admin.booking.com
 *.rentalcars.com
 secure.booking.com
 *.booking.com
-account.booking.com
 booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -601,9 +601,9 @@ cargo.indrive.com
 watchdocs.indriverapp.com
 *.indriver.com
 super-services.indriverapp.com
+*.indriverapp.com
 *.indrive.com
 auth2.indrive.tech
-*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1798,9 +1798,9 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
+account.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
-account.acronis.com
 *.acronis.com
 *-api-*.acronis.com
 *.acronis.com
@@ -3426,8 +3426,8 @@ api2.grofers.com
 api.grofers.com
 *.zomans.com
 *.hyperpure.com
-blinkit.com
 *.runnr.in
+blinkit.com
 *.zomato.com
 *.zomato.com
 *.zdev.net
@@ -3525,13 +3525,13 @@ shopifyinbox.com
 arrive-server.shopifycloud.com
 shopify.plus
 *.shopifycs.com
-partners.shopify.com
 linkpop.com
-accounts.shopify.com
-*.shopifycloud.com
+partners.shopify.com
 *.shopify.com
 admin.shopify.com
 shop.app
+accounts.shopify.com
+*.shopifycloud.com
 *.shopifykloud.com
 your-store.myshopify.com
 *.shopifycs.com
@@ -3575,10 +3575,10 @@ spectacles.com
 playcanvas.com
 app.snapchat.com
 business.snapchat.com
-accounts.snapchat.com
 ads.snapchat.com
 web.snapchat.com
 www.bitmoji.com
+accounts.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3854,9 +3854,9 @@ slack-redir.net
 www.quip.com
 slack-imgs.com
 slack.com
+api.slack.com
 *.quip.com
 app.slack.com
-api.slack.com
 slack.com
 api.slack.com
 status.slack.com
