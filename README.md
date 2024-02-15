@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 15 09:19:08 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 15 09:42:18 UTC 2024)
 ```
 rfc.tari.com
 www.tarilabs.com
@@ -18,9 +18,9 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 client-api.arkoselabs.com
 demo.arkoselabs.com
-cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
 www.arkoselabs.com
+cdn.arkoselabs.com
 portal.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
@@ -167,8 +167,8 @@ admin.booking.com
 booking.com
 secure.booking.com
 *.booking.com
-*.rentalcars.com
 account.booking.com
+*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -533,8 +533,8 @@ support.mozilla.org
 www.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 monitor.firefox.com
-hg.mozilla.org
 relay.firefox.com
+hg.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -562,9 +562,9 @@ hiltonhotels.jp
 *.hiltonbusinessonline.com
 hilton.com
 *.hiltonhotels.jp
-*.hilton.com
-*.hilton.com.tr
 *.hilton.io
+*.hilton.com.tr
+*.hilton.com
 hiltonbusinessonline.com
 *.hilton.com
 *.hilton.io
@@ -1130,8 +1130,8 @@ admin.instacart.com
 shoppers.instacart.com
 api.instacart.com
 *.instacart.tools
-*.instacart.com
 www.instacart.com
+*.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1448,8 +1448,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbanclap.com
 www.urbancompany.com
+www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
 new.reddit.com
@@ -1519,8 +1519,8 @@ remix.com
 eu.remix.com
 platform.remix.com
 *.withbuddies.com
-*.scopely.com
 *.scopely.io
+*.scopely.com
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
@@ -1619,8 +1619,8 @@ ccloud.yoti.com
 code.yoti.com
 api.yoti.com
 identity.yoti.com
-hub.yoti.com
 www.yotisign.com
+hub.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1799,9 +1799,9 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-account.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
+account.acronis.com
 *.acronis.com
 *-api-*.acronis.com
 *.acronis.com
@@ -2766,8 +2766,8 @@ decision.swiftfinancial.com
 paypalobjects.com
 *.braintreegateway.com
 *.paypalcorp.com
-*.paypal.com
 *.xoom.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3133,8 +3133,8 @@ gifts.grab.com
 grab.careers
 kartaview.org
 *.taralite.com
-*.ovo.id
 *.grab.com
+*.ovo.id
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3381,8 +3381,8 @@ npmjs.com
 *.githubapp.com
 npmjs.org
 classroom.github.com
-github.com
 api.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3529,13 +3529,13 @@ arrive-server.shopifycloud.com
 shopify.plus
 linkpop.com
 *.shopifycloud.com
+your-store.myshopify.com
 shop.app
 partners.shopify.com
-your-store.myshopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopifycs.com
 admin.shopify.com
-accounts.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3810,8 +3810,8 @@ irc.irccloud.com
 team-irc.irccloud.com
 *.irccloud-cdn.com
 blog.irccloud.com
-*.irccloud.com
 www.irccloud.com
+*.irccloud.com
 *.irccloud-cdn.com
 *.irccloud.com
 www.irccloud.com
