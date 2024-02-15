@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 15 07:42:51 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 15 08:20:06 UTC 2024)
 ```
 rfc.tari.com
 www.tarilabs.com
@@ -92,9 +92,9 @@ api.23andme.com
 auth.23andme.com
 mediacenter.23andme.com
 research.23andme.com
+blog.23andme.com
 store.23andme.com
 you.23andme.com
-blog.23andme.com
 medical.23andme.com
 api.23andme.com
 auth.23andme.com
@@ -311,11 +311,11 @@ clientcert.gamma.redoxstage.com
 eets.gamma.redoxstage.com
 evening-earth.gamma.redoxstage.com
 launch.gamma.redoxstage.com
-testapp.redoxengine.com
 explore.redoxengine.com
 10x.redoxengine.com
 www.redoxengine.com
 dashboard.gamma.redoxstage.com
+testapp.redoxengine.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -533,8 +533,8 @@ support.mozilla.org
 www.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 monitor.firefox.com
-hg.mozilla.org
 relay.firefox.com
+hg.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -562,9 +562,9 @@ hiltonhotels.jp
 *.hiltonbusinessonline.com
 hilton.com
 *.hiltonhotels.jp
-*.hilton.io
-*.hilton.com.tr
 *.hilton.com
+*.hilton.com.tr
+*.hilton.io
 hiltonbusinessonline.com
 *.hilton.com
 *.hilton.io
@@ -602,9 +602,9 @@ cargo.indrive.com
 watchdocs.indriverapp.com
 *.indriver.com
 super-services.indriverapp.com
+*.indriverapp.com
 *.indrive.com
 auth2.indrive.tech
-*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -699,8 +699,8 @@ auth.skypicker.com
 jobs.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
-*.skypicker.com
 www.kiwi.com
+*.skypicker.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -824,7 +824,6 @@ www.hotels.com
 www.expediapartnercentral.com
 www.hotwirepartnercentral.com
 www.ebookers.fi
-www.orbitz.com
 www.mrjet.se
 www.travelocity.ca
 www.expediapartnersolutions.com
@@ -846,6 +845,7 @@ www.abritel.fr
 www.expediagroup.com
 www.vrbo.com
 www.ebookers.com
+www.orbitz.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -1414,8 +1414,8 @@ www.elastic.co
 cloud.elastic.co
 *.swiftype.com
 *.elstc.co
-*.elastic.co
 *.found.io
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1448,8 +1448,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbanclap.com
 www.urbancompany.com
+www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
 new.reddit.com
@@ -1519,8 +1519,8 @@ remix.com
 eu.remix.com
 platform.remix.com
 *.withbuddies.com
-*.scopely.com
 *.scopely.io
+*.scopely.com
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
@@ -1799,9 +1799,9 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-account.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
+account.acronis.com
 *.acronis.com
 *-api-*.acronis.com
 *.acronis.com
@@ -2766,8 +2766,8 @@ decision.swiftfinancial.com
 paypalobjects.com
 *.braintreegateway.com
 *.paypalcorp.com
-*.xoom.com
 *.paypal.com
+*.xoom.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3133,8 +3133,8 @@ gifts.grab.com
 grab.careers
 kartaview.org
 *.taralite.com
-*.grab.com
 *.ovo.id
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3530,11 +3530,11 @@ shopify.plus
 linkpop.com
 accounts.shopify.com
 *.shopifycloud.com
+your-store.myshopify.com
 shop.app
 partners.shopify.com
-your-store.myshopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopifycs.com
 *.shopify.com
@@ -3900,8 +3900,8 @@ b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 api.hackerone.com
 hackerone.com
-hackerone-ext-content.com
 app.pullrequest.com
+hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
