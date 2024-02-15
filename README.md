@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 15 03:41:43 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 15 04:21:16 UTC 2024)
 ```
 rfc.tari.com
 www.tarilabs.com
-www.tari.com
 explore.tari.com
+www.tari.com
 textexplore.tari.com
 explore.tari.com
 rfc.tari.com
@@ -19,9 +19,9 @@ iframe.arkoselabs.com
 client-api.arkoselabs.com
 portal.arkoselabs.com
 demo.arkoselabs.com
+cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
 www.arkoselabs.com
-cdn.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
@@ -462,12 +462,12 @@ id.avtoelon.uz
 api.avtoelon.uz
 app.kolesa.kz
 m.avtoelon.uz
-kolesa.kz
 avtoelon.uz
 api.krisha.kz
-id.kolesa.kz
 krisha.kz
+id.kolesa.kz
 api.kolesa.kz
+kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -533,8 +533,8 @@ support.mozilla.org
 www.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 monitor.firefox.com
-relay.firefox.com
 hg.mozilla.org
+relay.firefox.com
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -562,9 +562,9 @@ hiltonhotels.jp
 *.hiltonbusinessonline.com
 hilton.com
 *.hiltonhotels.jp
-*.hilton.io
-*.hilton.com.tr
 *.hilton.com
+*.hilton.com.tr
+*.hilton.io
 hiltonbusinessonline.com
 *.hilton.com
 *.hilton.io
@@ -987,8 +987,8 @@ checkout.razorpay.com
 invoices.razorpay.com
 payroll.razorpay.com
 api.razorpay.com
-dashboard.razorpay.com
 x.razorpay.com
+dashboard.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -1028,8 +1028,8 @@ sorare.com
 api.sorare.com
 ws.sorare.com
 *.sheingsp.com
-*.shein.com
 *.romwe.com
+*.shein.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
@@ -1519,8 +1519,8 @@ remix.com
 eu.remix.com
 platform.remix.com
 *.withbuddies.com
-*.scopely.io
 *.scopely.com
+*.scopely.io
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
@@ -1734,8 +1734,8 @@ www.pangleglobal.com
 ads.tiktok.com
 live-backstage.tiktok.com
 tiktok.com
-*.tiktokv.com
 partner.tiktokshop.com
+*.tiktokv.com
 *.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -1799,9 +1799,9 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
+account.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
-account.acronis.com
 *.acronis.com
 *-api-*.acronis.com
 *.acronis.com
@@ -1951,8 +1951,8 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
-*.sonyentertainmentnetwork.com
 my.account.sony.com
+*.sonyentertainmentnetwork.com
 *.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -3133,8 +3133,8 @@ gifts.grab.com
 grab.careers
 kartaview.org
 *.taralite.com
-*.grab.com
 *.ovo.id
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3534,8 +3534,8 @@ shop.app
 partners.shopify.com
 your-store.myshopify.com
 admin.shopify.com
-*.shopify.com
 *.shopifycs.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
