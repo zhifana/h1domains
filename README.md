@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 15 17:44:25 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 15 18:24:26 UTC 2024)
 ```
 rfc.tari.com
 www.tarilabs.com
-explore.tari.com
 textexplore.tari.com
+explore.tari.com
 www.tari.com
 explore.tari.com
 rfc.tari.com
@@ -18,8 +18,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 client-api.arkoselabs.com
 demo.arkoselabs.com
-customer-sessions.arkoselabs.com
 cdn.arkoselabs.com
+customer-sessions.arkoselabs.com
 portal.arkoselabs.com
 www.arkoselabs.com
 client-api.arkoselabs.com
@@ -113,7 +113,6 @@ www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.mx
 www.mercadolibre.com.pe
-www.mercadopago.com.br
 api.mercadolibre.com
 www.mercadopago.cl
 www.mercadopago.com.uy
@@ -122,6 +121,7 @@ www.mercadolibre.com.ar
 www.mercadolivre.com.br
 www.mercadolibre.com.co
 www.mercadopago.com.ar
+www.mercadopago.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -247,11 +247,11 @@ https://test.nicex.com
 https://api-test.nicex.com
 https://api-test.nicehash.com
 test.nicex.com
+lensa-ai.com
 prismalabsteam.com
-appapi.neuralprisma.com
 neuralprisma.com
 prisma-ai.com
-lensa-ai.com
+appapi.neuralprisma.com
 neuralprisma.com
 prismalabsteam.com
 lensa-ai.com
@@ -562,8 +562,8 @@ hiltonhotels.jp
 *.hiltonbusinessonline.com
 *.hiltonhotels.jp
 hiltonbusinessonline.com
-*.hilton.io
 *.hilton.com.tr
+*.hilton.io
 hilton.com
 *.hilton.com
 *.hilton.com
@@ -1028,8 +1028,8 @@ sorare.com
 api.sorare.com
 ws.sorare.com
 *.sheingsp.com
-*.shein.com
 *.romwe.com
+*.shein.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
@@ -1433,8 +1433,8 @@ api.taxjar.com
 *.recko.io
 *.link.co
 app.taxjar.com
-*.stripe.com
 api.stripe.com
+*.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1733,10 +1733,10 @@ business.tiktok.com
 www.pangleglobal.com
 live-backstage.tiktok.com
 ads.tiktok.com
-tiktok.com
 *.tiktokv.com
 partner.tiktokshop.com
 *.tiktok.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1799,9 +1799,9 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-account.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
+account.acronis.com
 *.acronis.com
 *-api-*.acronis.com
 *.acronis.com
@@ -1832,7 +1832,7 @@ www.marionnaud.ch
 www10.pns.hk
 api.pns.hk
 www.moneyback.com.hk
-www.iciparisxl.nl
+app.iciparisxl.nl
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -3427,8 +3427,8 @@ api2.grofers.com
 api.grofers.com
 *.zomans.com
 *.hyperpure.com
-blinkit.com
 *.runnr.in
+blinkit.com
 *.zomato.com
 *.zomato.com
 *.zdev.net
@@ -3532,8 +3532,8 @@ shop.app
 accounts.shopify.com
 linkpop.com
 *.shopify.com
-partners.shopify.com
 your-store.myshopify.com
+partners.shopify.com
 admin.shopify.com
 *.shopifycs.com
 *.shopify.com
