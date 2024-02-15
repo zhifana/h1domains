@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 15 21:43:14 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 15 22:17:58 UTC 2024)
 ```
 rfc.tari.com
 www.tarilabs.com
-textexplore.tari.com
 explore.tari.com
+textexplore.tari.com
 www.tari.com
 explore.tari.com
 rfc.tari.com
@@ -18,10 +18,10 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 client-api.arkoselabs.com
 demo.arkoselabs.com
-cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
-www.arkoselabs.com
+cdn.arkoselabs.com
 portal.arkoselabs.com
+www.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
@@ -72,9 +72,9 @@ www.zyro.com
 backend.zyro.com
 logo.zyro.com
 payments.hostinger.com
+www.hostinger.com
 hpanel.hostinger.com
 *.000webhost.com
-www.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -91,11 +91,11 @@ therapeutics.23andme.com
 api.23andme.com
 mediacenter.23andme.com
 research.23andme.com
-blog.23andme.com
 store.23andme.com
+blog.23andme.com
+auth.23andme.com
 medical.23andme.com
 you.23andme.com
-auth.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -117,8 +117,8 @@ www.mercadopago.com.uy
 www.mercadolibre.cl
 www.mercadolibre.com.ar
 www.mercadolibre.com.co
-www.mercadolibre.com.mx
 www.mercadopago.com.ar
+www.mercadolibre.com.mx
 www.mercadopago.com.br
 www.mercadolivre.com.br
 www.mercadopago.com.co
@@ -166,8 +166,8 @@ careers.booking.com
 admin.booking.com
 *.rentalcars.com
 secure.booking.com
-account.booking.com
 booking.com
+account.booking.com
 *.booking.com
 *.booking.com
 *.rentalcars.com
@@ -268,8 +268,8 @@ oauth-sandbox.gocardless.com
 *.gocardless-banking.io
 manage-sandbox.gocardless.com
 *.gocardless-lab.io
-www.gocardless.com
 api-sandbox.gocardless.com
+www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -532,8 +532,8 @@ support.mozilla.org
 www.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 monitor.firefox.com
-hg.mozilla.org
 relay.firefox.com
+hg.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -561,8 +561,8 @@ hiltonhotels.jp
 *.hiltonbusinessonline.com
 *.hiltonhotels.jp
 hiltonbusinessonline.com
-*.hilton.io
 *.hilton.com.tr
+*.hilton.io
 hilton.com
 *.hilton.com
 *.hilton.com
@@ -1476,8 +1476,8 @@ old.reddit.com
 api.reddit.com
 *.redditmedia.com
 ads.reddit.com
-*.reddit.com
 www.reddit.com
+*.reddit.com
 redditforbusiness.com
 *.snooguts.net
 *.redditmedia.com
@@ -3269,8 +3269,8 @@ lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
 www.files.com
-your-assigned-subdomain.files.com
 app.files.com
+your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
 www.files.com
@@ -3426,8 +3426,8 @@ api2.grofers.com
 api.grofers.com
 *.zomans.com
 *.hyperpure.com
-blinkit.com
 *.runnr.in
+blinkit.com
 *.zomato.com
 *.zomato.com
 *.zdev.net
@@ -3854,9 +3854,9 @@ slack-redir.net
 www.quip.com
 slack-imgs.com
 slack.com
+api.slack.com
 *.quip.com
 app.slack.com
-api.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3887,19 +3887,19 @@ mta-sts.wearehackerone.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
-errors.hackerone.net
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
+errors.hackerone.net
 a5s.hackerone-ext-content.com
 b5s.hackerone-ext-content.com
-cover-photos.hackerone-user-content.com
 api.hackerone.com
-ctf.hacker101.com
-hackerone.com
+cover-photos.hackerone-user-content.com
 hackerone-ext-content.com
 app.pullrequest.com
+ctf.hacker101.com
 hackerone-user-content.com
 hackerone.live
 www.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
