@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 15 09:42:18 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 15 10:18:59 UTC 2024)
 ```
 rfc.tari.com
 www.tarilabs.com
@@ -120,8 +120,8 @@ www.mercadopago.com.uy
 www.mercadolibre.cl
 www.mercadopago.com.ar
 www.mercadolivre.com.br
-www.mercadolibre.com.ar
 www.mercadolibre.com.co
+www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -203,8 +203,8 @@ secure-supply-xml.booking.com
 http://secure-iphone-xml.booking.com/json/
 *.bybit.com
 *.bybit.com
-portal.au.frontegg.com
 api.au.frontegg.com
+portal.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 api2.frontapp.com
@@ -463,11 +463,11 @@ api.avtoelon.uz
 app.kolesa.kz
 m.avtoelon.uz
 avtoelon.uz
-api.krisha.kz
 id.kolesa.kz
 api.kolesa.kz
 krisha.kz
 kolesa.kz
+api.krisha.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -562,10 +562,10 @@ hiltonhotels.jp
 *.hiltonbusinessonline.com
 hilton.com
 *.hiltonhotels.jp
+hiltonbusinessonline.com
+*.hilton.com
 *.hilton.io
 *.hilton.com.tr
-*.hilton.com
-hiltonbusinessonline.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -644,8 +644,8 @@ skinport.com
 app.skinport.com
 api.skinport.com
 http://skinport.com/blog/
-api.miro.com
 miro.com
+api.miro.com
 http://miro.com/app
 miro.com
 api.miro.com
@@ -766,8 +766,8 @@ admin.8x8.com
 *.superbet.com
 *.superbet.pl
 *.magicjackpot.ro
-*.superbet.ro
 *.napoleongames.be
+*.superbet.ro
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1130,8 +1130,8 @@ admin.instacart.com
 shoppers.instacart.com
 api.instacart.com
 *.instacart.tools
-www.instacart.com
 *.instacart.com
+www.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1448,8 +1448,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbancompany.com
 www.urbanclap.com
+www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 new.reddit.com
@@ -1657,9 +1657,9 @@ list-v2--netlify-plugins.netlify.app
 internal-docs.netlify.com
 supportal.netlify.app
 world.hey.com
+*.hey.com
 launchpad.37signals.com
 3.basecamp.com
-*.hey.com
 *.hey.com
 3.basecamp.com
 launchpad.37signals.com
@@ -1731,12 +1731,12 @@ creatormarketplace.tiktok.com
 shop.tiktok.com
 business.tiktok.com
 www.pangleglobal.com
-ads.tiktok.com
 live-backstage.tiktok.com
 tiktok.com
 *.tiktokv.com
 *.tiktok.com
 partner.tiktokshop.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1792,8 +1792,8 @@ cs.money
 support.cs.money
 wiki.cs.money
 3d.cs.money
-app.faraday.ai
 api.faraday.ai
+app.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
@@ -2820,8 +2820,8 @@ testnet.bitmex.com
 testnet.bitmex.com
 *.staging-airtableblocks.com
 *.staging.airtable.com
-api-staging.airtable.com
 staging.airtable.com
+api-staging.airtable.com
 *.staging-airtableblocks.com
 *.staging.airtable.com
 staging.airtable.com
@@ -3133,8 +3133,8 @@ gifts.grab.com
 grab.careers
 kartaview.org
 *.taralite.com
-*.grab.com
 *.ovo.id
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3381,8 +3381,8 @@ npmjs.com
 *.githubapp.com
 npmjs.org
 classroom.github.com
-api.github.com
 github.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3529,13 +3529,13 @@ arrive-server.shopifycloud.com
 shopify.plus
 linkpop.com
 *.shopifycloud.com
-your-store.myshopify.com
 shop.app
 partners.shopify.com
+your-store.myshopify.com
 *.shopify.com
-accounts.shopify.com
 *.shopifycs.com
 admin.shopify.com
+accounts.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
