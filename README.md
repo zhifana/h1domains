@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 15 12:27:00 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 15 12:51:39 UTC 2024)
 ```
 rfc.tari.com
 www.tarilabs.com
-explore.tari.com
 textexplore.tari.com
+explore.tari.com
 www.tari.com
 explore.tari.com
 rfc.tari.com
@@ -119,9 +119,9 @@ www.mercadopago.cl
 www.mercadopago.com.uy
 www.mercadolibre.cl
 www.mercadopago.com.ar
+www.mercadolibre.com.ar
 www.mercadolivre.com.br
 www.mercadolibre.com.co
-www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -466,8 +466,8 @@ avtoelon.uz
 id.kolesa.kz
 api.kolesa.kz
 krisha.kz
-kolesa.kz
 api.krisha.kz
+kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -533,8 +533,8 @@ support.mozilla.org
 www.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 monitor.firefox.com
-hg.mozilla.org
 relay.firefox.com
+hg.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -563,9 +563,9 @@ hiltonhotels.jp
 hilton.com
 *.hiltonhotels.jp
 hiltonbusinessonline.com
-*.hilton.com
-*.hilton.com.tr
 *.hilton.io
+*.hilton.com.tr
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -602,9 +602,9 @@ cargo.indrive.com
 watchdocs.indriverapp.com
 *.indriver.com
 super-services.indriverapp.com
+*.indriverapp.com
 *.indrive.com
 auth2.indrive.tech
-*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1089,8 +1089,8 @@ rankings.etoro.com
 bullsheet.me
 candle.etoro.com
 r.etoro.com
-www.etoro.com
 delta.app
+www.etoro.com
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -1433,8 +1433,8 @@ api.taxjar.com
 *.recko.io
 *.link.co
 app.taxjar.com
-*.stripe.com
 api.stripe.com
+*.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1448,8 +1448,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbanclap.com
 www.urbancompany.com
+www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
 new.reddit.com
@@ -1477,8 +1477,8 @@ old.reddit.com
 api.reddit.com
 *.redditmedia.com
 ads.reddit.com
-*.reddit.com
 www.reddit.com
+*.reddit.com
 redditforbusiness.com
 *.snooguts.net
 *.redditmedia.com
@@ -1619,8 +1619,8 @@ ccloud.yoti.com
 code.yoti.com
 api.yoti.com
 identity.yoti.com
-hub.yoti.com
 www.yotisign.com
+hub.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1735,8 +1735,8 @@ live-backstage.tiktok.com
 tiktok.com
 *.tiktokv.com
 *.tiktok.com
-ads.tiktok.com
 partner.tiktokshop.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2766,8 +2766,8 @@ decision.swiftfinancial.com
 paypalobjects.com
 *.braintreegateway.com
 *.paypalcorp.com
-*.paypal.com
 *.xoom.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3133,8 +3133,8 @@ gifts.grab.com
 grab.careers
 kartaview.org
 *.taralite.com
-*.ovo.id
 *.grab.com
+*.ovo.id
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3260,8 +3260,8 @@ circolocorecords.com/
 lifeinvader.com
 prod.ros.rockstargames.com
 socialclub.rockstargames.com
-*.rockstargames.com
 support.rockstargames.com
+*.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3381,8 +3381,8 @@ npmjs.com
 *.githubapp.com
 npmjs.org
 classroom.github.com
-api.github.com
 github.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3899,9 +3899,9 @@ b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 api.hackerone.com
 ctf.hacker101.com
-hackerone.com
 hackerone-ext-content.com
 app.pullrequest.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
