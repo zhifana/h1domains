@@ -4614,7 +4614,6 @@ fidelity,*.wealthscape.com,False
 fidelity,*.fidelity.com,False
 planetart,www.simplytoimpress.com,False
 planetart,www.photoaffections.com,False
-planetart,www.canvasworld.com,False
 planetart,www.personalcreations.com,False
 planetart,www.mycustomcase.com,False
 planetart,*.gifts.com,False
@@ -4629,6 +4628,7 @@ planetart,www.gifts.com,False
 planetart,*.personalcreations.com,False
 planetart,ai.planetart.com,False
 planetart,*.cafepress.com,False
+planetart,www.canvasworld.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -10281,8 +10281,8 @@ zendesk,apps.zendesk.com,True
 zendesk,api.getbase.com,True
 zendesk,app.smooch.io,True
 zendesk,zopim.com,True
-zendesk,h1-your-domain.zendesk.com,True
 zendesk,www.zendesk.com,True
+zendesk,h1-your-domain.zendesk.com,True
 zendesk,www.zendesk.com,True
 zendesk,developer.zendesk.com,True
 zendesk,h1-your-domain.zendesk.com,True
@@ -10303,7 +10303,6 @@ shopify,arrive-server.shopifycloud.com,True
 shopify,shopify.plus,True
 shopify,*.shopifycs.com,True
 shopify,linkpop.com,True
-shopify,partners.shopify.com,True
 shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
 shopify,shop.app,True
@@ -10311,6 +10310,7 @@ shopify,accounts.shopify.com,True
 shopify,*.shopifycloud.com,True
 shopify,*.shopifykloud.com,True
 shopify,your-store.myshopify.com,True
+shopify,partners.shopify.com,True
 shopify,*.shopifycs.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
@@ -10818,8 +10818,8 @@ security,hackerone.live,True
 security,cover-photos.hackerone-user-content.com,True
 security,www.hackerone.com,True
 security,app.pullrequest.com,True
-security,hackerone.com,True
 security,api.hackerone.com,True
+security,hackerone.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 16 05:18:38 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 16 05:42:12 UTC 2024)
 ```
 rfc.tari.com
 explore.tari.com
@@ -3503,8 +3503,8 @@ apps.zendesk.com
 api.getbase.com
 app.smooch.io
 zopim.com
-h1-your-domain.zendesk.com
 www.zendesk.com
+h1-your-domain.zendesk.com
 www.zendesk.com
 developer.zendesk.com
 h1-your-domain.zendesk.com
@@ -3525,7 +3525,6 @@ arrive-server.shopifycloud.com
 shopify.plus
 *.shopifycs.com
 linkpop.com
-partners.shopify.com
 *.shopify.com
 admin.shopify.com
 shop.app
@@ -3533,6 +3532,7 @@ accounts.shopify.com
 *.shopifycloud.com
 *.shopifykloud.com
 your-store.myshopify.com
+partners.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3898,8 +3898,8 @@ hackerone.live
 cover-photos.hackerone-user-content.com
 www.hackerone.com
 app.pullrequest.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
