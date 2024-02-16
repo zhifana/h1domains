@@ -1540,12 +1540,12 @@ fertitta_entertainment,aqwine.com,False
 fertitta_entertainment,chefsdinners.com,False
 fertitta_entertainment,lilliesasiancuisine.com,False
 fertitta_entertainment,muer.com,False
-fertitta_entertainment,dungeonofdoomkemah.com,False
 fertitta_entertainment,thepostoak.com,False
 fertitta_entertainment,galvestonholidayinn.com,False
 fertitta_entertainment,r-u-i.com,False
 fertitta_entertainment,sanluisresort.com,False
 fertitta_entertainment,shoppostoak.com,False
+fertitta_entertainment,dungeonofdoomkemah.com,False
 fertitta_entertainment,aqbeerfest.com,False
 fertitta_entertainment,aqwine.com,False
 fertitta_entertainment,boardwalkfantasea.com,False
@@ -2816,8 +2816,8 @@ clarivate,biologyfinder.com,False
 freshworks,yourdomain.freshcaller.com,True
 freshworks,yourdomain.freshchat.com,True
 freshworks,yourdomain.freshdesk.com,True
-freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.myfreshworks.com,True
+freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshchat.com,True
@@ -4887,8 +4887,8 @@ anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.corcoran.*,False
 anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,*.anywhere.re,False
-anywhererealestate,*.coldwellbanker.*,False
 anywhererealestate,*.century21.*,False
+anywhererealestate,*.coldwellbanker.*,False
 anywhererealestate,*.realogy.*,False
 anywhererealestate,*.bhgre.*,False
 anywhererealestate,*.century21.*,False
@@ -7969,7 +7969,6 @@ digitalocean,do.co,False
 digitalocean,developers.cloudways.com,False
 digitalocean,marketplace.digitalocean.com,False
 digitalocean,platform.cloudways.com,False
-digitalocean,169.254.169.254,False
 digitalocean,*.digitalocean.com,False
 digitalocean,api.cloudways.com,False
 digitalocean,unified.cloudways.com,False
@@ -7977,6 +7976,7 @@ digitalocean,api.digitalocean.com,False
 digitalocean,www.cloudways.com,False
 digitalocean,www.digitalocean.com,False
 digitalocean,cloud.digitalocean.com,False
+digitalocean,169.254.169.254,False
 digitalocean,*.digitalocean.com,False
 digitalocean,cloud.digitalocean.com,False
 digitalocean,api.digitalocean.com,False
@@ -9402,8 +9402,8 @@ paypal,*.paylution.com,True
 paypal,*.braintreegateway.com,True
 paypal,*.paypalcorp.com,True
 paypal,*.xoom.com,True
-paypal,*.paypal.com,True
 paypal,paypalobjects.com,True
+paypal,*.paypal.com,True
 paypal,www.paypal-*.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True
@@ -9570,10 +9570,10 @@ valve,help.steampowered.com,True
 valve,playartifact.com,True
 valve,www.valvesoftware.com,True
 valve,www.teamfortress.com,True
-valve,store.steampowered.com,True
 valve,api.steampowered.com,True
 valve,www.counter-strike.net,True
 valve,steamcommunity.com,True
+valve,store.steampowered.com,True
 valve,www.dota2.com,True
 valve,support.steampowered.com,True
 valve,partner.steampowered.com,True
@@ -10309,8 +10309,8 @@ shopify,accounts.shopify.com,True
 shopify,*.shopifycloud.com,True
 shopify,*.shopifykloud.com,True
 shopify,your-store.myshopify.com,True
-shopify,partners.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,partners.shopify.com,True
 shopify,*.shopifycs.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
@@ -10818,8 +10818,8 @@ security,hackerone.live,True
 security,cover-photos.hackerone-user-content.com,True
 security,api.hackerone.com,True
 security,app.pullrequest.com,True
-security,hackerone.com,True
 security,www.hackerone.com,True
+security,hackerone.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True

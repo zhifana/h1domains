@@ -1539,12 +1539,12 @@ aqwine.com
 chefsdinners.com
 lilliesasiancuisine.com
 muer.com
-dungeonofdoomkemah.com
 thepostoak.com
 galvestonholidayinn.com
 r-u-i.com
 sanluisresort.com
 shoppostoak.com
+dungeonofdoomkemah.com
 aqbeerfest.com
 aqwine.com
 boardwalkfantasea.com
@@ -2815,8 +2815,8 @@ biologyfinder.com
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
-yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -4886,8 +4886,8 @@ www.alohi.com
 *.corcoran.*
 *.mycbdesk.com
 *.anywhere.re
-*.coldwellbanker.*
 *.century21.*
+*.coldwellbanker.*
 *.realogy.*
 *.bhgre.*
 *.century21.*
@@ -7968,7 +7968,6 @@ do.co
 developers.cloudways.com
 marketplace.digitalocean.com
 platform.cloudways.com
-169.254.169.254
 *.digitalocean.com
 api.cloudways.com
 unified.cloudways.com
@@ -7976,6 +7975,7 @@ api.digitalocean.com
 www.cloudways.com
 www.digitalocean.com
 cloud.digitalocean.com
+169.254.169.254
 *.digitalocean.com
 cloud.digitalocean.com
 api.digitalocean.com
@@ -9401,8 +9401,8 @@ decision.swiftfinancial.com
 *.braintreegateway.com
 *.paypalcorp.com
 *.xoom.com
-*.paypal.com
 paypalobjects.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -9569,10 +9569,10 @@ help.steampowered.com
 playartifact.com
 www.valvesoftware.com
 www.teamfortress.com
-store.steampowered.com
 api.steampowered.com
 www.counter-strike.net
 steamcommunity.com
+store.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -10308,8 +10308,8 @@ accounts.shopify.com
 *.shopifycloud.com
 *.shopifykloud.com
 your-store.myshopify.com
-partners.shopify.com
 admin.shopify.com
+partners.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -10817,8 +10817,8 @@ hackerone.live
 cover-photos.hackerone-user-content.com
 api.hackerone.com
 app.pullrequest.com
-hackerone.com
 www.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
