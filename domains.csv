@@ -81,9 +81,9 @@ sheer_bbp,www.sheer.com,True
 sheer_bbp,www.sheer.com,True
 sheer_bbp,my.sheer.com,True
 pornbox,www.pornworld.com,True
-pornbox,www.ddfcontent.com,True
 pornbox,www.analvids.com,True
 pornbox,www.pornbox.com,True
+pornbox,www.ddfcontent.com,True
 pornbox,www.pornbox.com,True
 pornbox,www.analvids.com,True
 pornbox,www.ddfcontent.com,True
@@ -177,11 +177,11 @@ mercadolibre,www.mercadolibre.cl,True
 mercadolibre,www.mercadolibre.com.ar,True
 mercadolibre,www.mercadolibre.com.co,True
 mercadolibre,www.mercadopago.com.ar,True
-mercadolibre,www.mercadolibre.com.mx,True
 mercadolibre,www.mercadopago.com.br,True
 mercadolibre,www.mercadolivre.com.br,True
 mercadolibre,www.mercadopago.com.co,True
 mercadolibre,www.mercadopago.com.pe,True
+mercadolibre,www.mercadolibre.com.mx,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,www.mercadopago.com.br,True
@@ -3250,8 +3250,8 @@ kiwicom,auth.skypicker.com,True
 kiwicom,jobs.kiwi.com,True
 kiwicom,*.kiwi.com,True
 kiwicom,www.kiwi.com,True
-kiwicom,tequila.kiwi.com,True
 kiwicom,*.skypicker.com,True
+kiwicom,tequila.kiwi.com,True
 kiwicom,*.kiwi.com,True
 kiwicom,*.skypicker.com,True
 kiwicom,www.kiwi.com,True
@@ -4887,8 +4887,8 @@ anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.corcoran.*,False
 anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,*.anywhere.re,False
-anywhererealestate,*.century21.*,False
 anywhererealestate,*.coldwellbanker.*,False
+anywhererealestate,*.century21.*,False
 anywhererealestate,*.realogy.*,False
 anywhererealestate,*.bhgre.*,False
 anywhererealestate,*.century21.*,False
@@ -4909,7 +4909,6 @@ databricks,demo.cloud.databricks.com,True
 databricks,docs.databricks.com,True
 databricks,help.databricks.com,True
 databricks,partners.databricks.com,True
-databricks,advocates.databricks.com,True
 databricks,customer-academy.databricks.com,True
 databricks,community.databricks.com,True
 databricks,labs.databricks.com,True
@@ -4917,6 +4916,7 @@ databricks,marketplace.databricks.com,True
 databricks,accounts.cloud.databricks.com,True
 databricks,support.databricks.com,True
 databricks,databricks.com,True
+databricks,advocates.databricks.com,True
 databricks,databricks.com,True
 databricks,academy.databricks.com,True
 databricks,accounts.cloud.databricks.com,True
@@ -5395,8 +5395,8 @@ krisp,jobs.krisp.ai,False
 krisp,resources.krisp.ai,False
 krisp,contact.krisp.ai,False
 krisp,url5145.krisp.ai,False
-wickr,admin.wickr.com,True
 wickr,www.wickr.com,False
+wickr,admin.wickr.com,True
 wickr,admin.wickr.com,True
 wickr,www.wickr.com,False
 sega,community.twopointcounty.com,False
@@ -7288,8 +7288,8 @@ tiktok,*.tiktokv.com,True
 tiktok,shop.tiktok.com,True
 tiktok,tiktok.com,True
 tiktok,www.pangleglobal.com,True
-tiktok,*.tiktok.com,True
 tiktok,partner.tiktokshop.com,True
+tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
@@ -7629,8 +7629,8 @@ playstation,direct.playstation.com,True
 playstation,store.playstation.com,True
 playstation,my.playstation.com,True
 playstation,*.sonyentertainmentnetwork.com,True
-playstation,my.account.sony.com,True
 playstation,*.api.playstation.com,True
+playstation,my.account.sony.com,True
 playstation,*.playstation.net,True
 playstation,*.playstation.net,True
 playstation,*.sonyentertainmentnetwork.com,True
@@ -8072,8 +8072,8 @@ marriott,marrtool.com,True
 marriott,hotel-deals.marriott.com,True
 marriott,cpp.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
-marriott,mgs.marriott.com,True
 marriott,www.marriott.com,True
+marriott,mgs.marriott.com,True
 marriott,homes-and-villas.marriott.com,True
 marriott,sso.marriott.com,True
 marriott,mgs.marriott.com,True
@@ -8314,7 +8314,6 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,vm.8x8.com,False
 8x8,*.8x8.vc,False
 8x8,user-profile.8x8.com,False
-8x8,*.8x8.com,False
 8x8,*.8x8cloud.net,False
 8x8,*.8x8staging.com,False
 8x8,*.8x8.id,False
@@ -9401,9 +9400,9 @@ paypal,*.paylution.com,True
 paypal,*.braintreegateway.com,True
 paypal,*.paypalcorp.com,True
 paypal,*.xoom.com,True
-paypal,paypalobjects.com,True
-paypal,*.paypal.com,True
 paypal,paypal.me,True
+paypal,*.paypal.com,True
+paypal,paypalobjects.com,True
 paypal,www.paypal-*.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True
@@ -10309,8 +10308,8 @@ shopify,accounts.shopify.com,True
 shopify,*.shopifycloud.com,True
 shopify,*.shopifykloud.com,True
 shopify,your-store.myshopify.com,True
-shopify,partners.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,partners.shopify.com,True
 shopify,*.shopifycs.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
@@ -10817,9 +10816,9 @@ security,hackerone-user-content.com,True
 security,hackerone.live,True
 security,cover-photos.hackerone-user-content.com,True
 security,api.hackerone.com,True
+security,hackerone.com,True
 security,app.pullrequest.com,True
 security,www.hackerone.com,True
-security,hackerone.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
