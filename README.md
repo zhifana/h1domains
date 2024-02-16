@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 16 13:41:24 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 16 14:19:35 UTC 2024)
 ```
 rfc.tari.com
 www.tarilabs.com
@@ -20,8 +20,8 @@ client-api.arkoselabs.com
 demo.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
-www.arkoselabs.com
 portal.arkoselabs.com
+www.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
@@ -35,9 +35,9 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.pornworld.com
+www.ddfcontent.com
 www.analvids.com
 www.pornbox.com
-www.ddfcontent.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -458,13 +458,13 @@ app.avtoelon.uz
 id.avtoelon.uz
 api.avtoelon.uz
 app.kolesa.kz
-krisha.kz
 avtoelon.uz
 id.kolesa.kz
 api.kolesa.kz
 api.krisha.kz
 m.krisha.kz
 kolesa.kz
+krisha.kz
 m.kolesa.kz
 m.avtoelon.uz
 kolesa.kz
@@ -560,11 +560,11 @@ hiltonhotels.jp
 *.hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 *.hiltonhotels.jp
-*.hilton.com
-hilton.com
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
+hilton.com
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -643,8 +643,8 @@ skinport.com
 app.skinport.com
 api.skinport.com
 http://skinport.com/blog/
-miro.com
 api.miro.com
+miro.com
 http://miro.com/app
 miro.com
 api.miro.com
@@ -756,6 +756,30 @@ https://webrtc.8x8.com/
 cloud8.8x8.com
 pay.8x8.com
 admin.8x8.com
+*.spinaway.com
+*.napoleoncasino.be
+*.napoleondice.be
+*.luckydays.ca
+*.napoleonsports.be
+*.luckydays.com
+*.superbet.rs
+*.superbet.com
+*.napoleongames.be
+*.superbet.ro
+*.superbet.pl
+*.magicjackpot.ro
+*.superbet.ro
+*.superbet.rs
+*.superbet.com
+*.magicjackpot.ro
+*.spinaway.com
+*.luckydays.com
+*.luckydays.ca
+*.napoleoncasino.be
+*.napoleondice.be
+*.napoleongames.be
+*.napoleonsports.be
+*.superbet.pl
 *.spinaway.com
 *.napoleoncasino.be
 *.napoleondice.be
@@ -1149,8 +1173,8 @@ community.databricks.com
 labs.databricks.com
 marketplace.databricks.com
 accounts.cloud.databricks.com
-support.databricks.com
 advocates.databricks.com
+support.databricks.com
 databricks.com
 databricks.com
 academy.databricks.com
@@ -1728,14 +1752,14 @@ effecthouse.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 live-backstage.tiktok.com
-*.tiktok.com
+*.tiktokv.com
+shop.tiktok.com
 business.tiktok.com
 www.pangleglobal.com
 ads.tiktok.com
-*.tiktokv.com
-shop.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1791,8 +1815,8 @@ cs.money
 support.cs.money
 wiki.cs.money
 3d.cs.money
-api.faraday.ai
 app.faraday.ai
+api.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
@@ -1950,10 +1974,10 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
-my.account.sony.com
-*.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
+my.account.sony.com
+*.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2286,8 +2310,8 @@ reservations.all-inclusive.marriott.com
 marrtool.com
 cpp.marriott.com
 gatewaydsaptst1.marriott.com
-mgs.marriott.com
 www.marriott.com
+mgs.marriott.com
 hotel-deals.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
@@ -2315,8 +2339,8 @@ http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
-*.rbx.com
 *.roblox.com
+*.rbx.com
 *.guilded.gg
 *.roblox.com
 *.rbx.com
@@ -2484,7 +2508,7 @@ secure.rezserver.com
 press.priceline.com
 admin.rezserver.com
 priceline.com
-flyiin.com
+www.getaroom.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2762,10 +2786,10 @@ decision.swiftfinancial.com
 *.braintreepayments.com
 *.paylution.com
 *.braintreegateway.com
+paypalobjects.com
+paypal.me
 *.paypalcorp.com
 *.xoom.com
-paypal.me
-paypalobjects.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -2925,8 +2949,8 @@ www.valvesoftware.com
 www.teamfortress.com
 www.counter-strike.net
 steamcommunity.com
-store.steampowered.com
 api.steampowered.com
+store.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3131,8 +3155,8 @@ gifts.grab.com
 *.myteksi.net
 grab.careers
 kartaview.org
-*.grab.com
 *.taralite.com
+*.grab.com
 *.ovo.id
 *.myteksi.com
 *.myteksi.net
@@ -3504,9 +3528,9 @@ app.futuresimple.com
 apps.zendesk.com
 api.getbase.com
 app.smooch.io
+h1-your-domain.zendesk.com
 zopim.com
 www.zendesk.com
-h1-your-domain.zendesk.com
 www.zendesk.com
 developer.zendesk.com
 h1-your-domain.zendesk.com
@@ -3525,16 +3549,16 @@ yourcompany.udemy.com
 shopifyinbox.com
 arrive-server.shopifycloud.com
 shopify.plus
-admin.shopify.com
 linkpop.com
-*.shopify.com
 shop.app
 accounts.shopify.com
 *.shopifycloud.com
 *.shopifykloud.com
-your-store.myshopify.com
+admin.shopify.com
 *.shopifycs.com
 partners.shopify.com
+your-store.myshopify.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
