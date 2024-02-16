@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 16 07:17:51 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 16 07:42:33 UTC 2024)
 ```
 rfc.tari.com
 explore.tari.com
@@ -697,9 +697,9 @@ cfapi.voikukka.fi
 auth.skypicker.com
 jobs.kiwi.com
 *.kiwi.com
-*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
+*.skypicker.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -2760,11 +2760,11 @@ decision.swiftfinancial.com
 *.venmo.com
 *.braintreepayments.com
 *.paylution.com
-paypalobjects.com
 *.braintreegateway.com
 *.paypalcorp.com
 *.xoom.com
 *.paypal.com
+paypalobjects.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3526,13 +3526,13 @@ shopify.plus
 *.shopifycs.com
 linkpop.com
 *.shopify.com
-admin.shopify.com
 shop.app
 accounts.shopify.com
 *.shopifycloud.com
 *.shopifykloud.com
 your-store.myshopify.com
 partners.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
