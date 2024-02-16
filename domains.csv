@@ -2944,9 +2944,9 @@ shutterfly_vdp,shutterfly.com,False
 shutterfly_vdp,*.shutterfly.com,False
 shutterfly_vdp,*.lifetouch.com,False
 shutterfly_vdp,photo.walgreens.com,False
-shutterfly_vdp,admin.spoonflower.com,False
 shutterfly_vdp,www.spoonflower.com,False
 shutterfly_vdp,www.borrowlenses.com,False
+shutterfly_vdp,admin.spoonflower.com,False
 shutterfly_vdp,*.shutterfly.com,False
 shutterfly_vdp,*.snapfish.com,False
 shutterfly_vdp,*.sf-cdn.com,False
@@ -7630,8 +7630,8 @@ playstation,store.playstation.com,True
 playstation,my.playstation.com,True
 playstation,*.sonyentertainmentnetwork.com,True
 playstation,my.account.sony.com,True
-playstation,*.playstation.net,True
 playstation,*.api.playstation.com,True
+playstation,*.playstation.net,True
 playstation,*.playstation.net,True
 playstation,*.sonyentertainmentnetwork.com,True
 playstation,*.api.playstation.com,True
@@ -10202,8 +10202,8 @@ zomato,api.grofers.com,True
 zomato,*.zomans.com,True
 zomato,*.hyperpure.com,True
 zomato,blinkit.com,True
-zomato,*.runnr.in,True
 zomato,*.zomato.com,True
+zomato,*.runnr.in,True
 zomato,*.zomato.com,True
 zomato,*.zdev.net,True
 zomato,*.zomans.com,True
@@ -10818,8 +10818,8 @@ security,hackerone.live,True
 security,cover-photos.hackerone-user-content.com,True
 security,api.hackerone.com,True
 security,hackerone.com,True
-security,www.hackerone.com,True
 security,app.pullrequest.com,True
+security,www.hackerone.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True

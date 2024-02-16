@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 16 06:21:49 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 16 06:42:43 UTC 2024)
 ```
 rfc.tari.com
 explore.tari.com
@@ -1950,8 +1950,8 @@ store.playstation.com
 my.playstation.com
 *.sonyentertainmentnetwork.com
 my.account.sony.com
-*.playstation.net
 *.api.playstation.com
+*.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -3426,8 +3426,8 @@ api.grofers.com
 *.zomans.com
 *.hyperpure.com
 blinkit.com
-*.runnr.in
 *.zomato.com
+*.runnr.in
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3898,8 +3898,8 @@ hackerone.live
 cover-photos.hackerone-user-content.com
 api.hackerone.com
 hackerone.com
-www.hackerone.com
 app.pullrequest.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
