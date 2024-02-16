@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 16 22:18:04 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 16 22:40:16 UTC 2024)
 ```
 getworldcoin.com
 *.worldcoin-distributors.com
@@ -78,8 +78,8 @@ sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 demo.dynamic.xyz
-app.dynamic-preprod.xyz
 app.dynamic.xyz
+app.dynamic-preprod.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -91,8 +91,8 @@ logo.zyro.com
 payments.hostinger.com
 hpanel.hostinger.com
 *.000webhost.com
-www.hostinger.com
 backend.zyro.com
+www.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -108,11 +108,11 @@ education.23andme.com
 therapeutics.23andme.com
 api.23andme.com
 research.23andme.com
+you.23andme.com
 blog.23andme.com
 store.23andme.com
 medical.23andme.com
 auth.23andme.com
-you.23andme.com
 mediacenter.23andme.com
 api.23andme.com
 auth.23andme.com
@@ -128,7 +128,6 @@ www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.mx
 api.mercadolibre.com
-www.mercadopago.cl
 www.mercadopago.com.uy
 www.mercadolibre.com.mx
 www.mercadolibre.com.co
@@ -140,6 +139,7 @@ www.mercadolibre.com.ar
 www.mercadolivre.com.br
 www.mercadolibre.cl
 www.mercadopago.com.ar
+www.mercadopago.cl
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -221,8 +221,8 @@ secure-supply-xml.booking.com
 http://secure-iphone-xml.booking.com/json/
 *.bybit.com
 *.bybit.com
-portal.au.frontegg.com
 api.au.frontegg.com
+portal.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 api2.frontapp.com
@@ -463,8 +463,8 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
-yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -476,15 +476,15 @@ app.avtoelon.uz
 id.avtoelon.uz
 api.avtoelon.uz
 app.kolesa.kz
-krisha.kz
 avtoelon.uz
 id.kolesa.kz
 api.kolesa.kz
 api.krisha.kz
 m.krisha.kz
 kolesa.kz
-m.kolesa.kz
+krisha.kz
 m.avtoelon.uz
+m.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -782,10 +782,10 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
-*.napoleongames.be
-*.superbet.ro
 *.superbet.pl
 *.magicjackpot.ro
+*.napoleongames.be
+*.superbet.ro
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1167,8 +1167,8 @@ community.databricks.com
 labs.databricks.com
 marketplace.databricks.com
 accounts.cloud.databricks.com
-support.databricks.com
 advocates.databricks.com
+support.databricks.com
 databricks.com
 databricks.com
 academy.databricks.com
@@ -1744,14 +1744,14 @@ fp-sg.tiktokv.com
 developers.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
-shop.tiktok.com
 *.tiktokv.com
 tiktok.com
+shop.tiktok.com
 *.tiktok.com
 creatormarketplace.tiktok.com
+business.tiktok.com
 www.pangleglobal.com
 live-backstage.tiktok.com
-business.tiktok.com
 partner.tiktokshop.com
 ads.tiktok.com
 *.tiktok.com
@@ -2333,9 +2333,9 @@ http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
+*.roblox.com
 *.rbx.com
 *.guilded.gg
-*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2399,8 +2399,8 @@ vroid.com
 novel.pixiv.net
 booth.pm
 payment.pixiv.net
-www.pixiv.net
 accounts.pixiv.net
+www.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -2502,7 +2502,7 @@ press.priceline.com
 admin.rezserver.com
 flyiin.com
 www.bookingholdings.com
-www.priceline.com
+reservations.rezserver.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
