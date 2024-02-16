@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 16 12:52:45 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 16 13:18:53 UTC 2024)
 ```
 rfc.tari.com
 www.tarilabs.com
+explore.tari.com
 www.tari.com
 textexplore.tari.com
-explore.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -118,10 +118,10 @@ www.mercadolibre.com.co
 www.mercadopago.com.ar
 www.mercadopago.com.br
 www.mercadolivre.com.br
+www.mercadolibre.com.mx
+www.mercadopago.com.pe
 www.mercadopago.com.co
 www.mercadolibre.com.pe
-www.mercadopago.com.pe
-www.mercadolibre.com.mx
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -563,8 +563,8 @@ hiltonhotels.jp
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
-*.hilton.com
 hilton.com
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -698,8 +698,8 @@ auth.skypicker.com
 jobs.kiwi.com
 *.kiwi.com
 www.kiwi.com
-tequila.kiwi.com
 *.skypicker.com
+tequila.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -2764,9 +2764,9 @@ decision.swiftfinancial.com
 *.braintreegateway.com
 *.paypalcorp.com
 *.xoom.com
-paypal.me
-paypalobjects.com
 *.paypal.com
+paypalobjects.com
+paypal.me
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2923,10 +2923,10 @@ help.steampowered.com
 playartifact.com
 www.valvesoftware.com
 www.teamfortress.com
-api.steampowered.com
 www.counter-strike.net
 steamcommunity.com
 store.steampowered.com
+api.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3532,9 +3532,9 @@ accounts.shopify.com
 *.shopifycloud.com
 *.shopifykloud.com
 your-store.myshopify.com
+admin.shopify.com
 *.shopifycs.com
 partners.shopify.com
-admin.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3897,11 +3897,11 @@ hackerone-user-content.com
 hackerone.live
 cover-photos.hackerone-user-content.com
 api.hackerone.com
-hackerone.com
 www.hackerone.com
 errors.hackerone.net
 ctf.hacker101.com
 app.pullrequest.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
