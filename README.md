@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 16 08:21:54 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 16 08:42:13 UTC 2024)
 ```
 rfc.tari.com
 explore.tari.com
@@ -698,8 +698,8 @@ auth.skypicker.com
 jobs.kiwi.com
 *.kiwi.com
 www.kiwi.com
-tequila.kiwi.com
 *.skypicker.com
+tequila.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1733,8 +1733,8 @@ ads.tiktok.com
 shop.tiktok.com
 tiktok.com
 www.pangleglobal.com
-partner.tiktokshop.com
 *.tiktok.com
+partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2736,7 +2736,6 @@ fanduel.design
 matomo.cloud
 matomo.cloud
 https://github.com/matomo-org/docker
-paypal.me
 py.pl
 *.paydiant.com
 *.braintree.tools
@@ -2765,6 +2764,7 @@ decision.swiftfinancial.com
 *.xoom.com
 paypalobjects.com
 *.paypal.com
+paypal.me
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3378,8 +3378,8 @@ npmjs.com
 *.githubapp.com
 npmjs.org
 classroom.github.com
-github.com
 api.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
