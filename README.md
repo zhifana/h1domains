@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 16 12:24:14 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 16 12:52:45 UTC 2024)
 ```
 rfc.tari.com
-textexplore.tari.com
 www.tarilabs.com
-explore.tari.com
 www.tari.com
+textexplore.tari.com
+explore.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -109,7 +109,6 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.mx
-www.mercadolibre.com.pe
 api.mercadolibre.com
 www.mercadopago.cl
 www.mercadopago.com.uy
@@ -120,6 +119,7 @@ www.mercadopago.com.ar
 www.mercadopago.com.br
 www.mercadolivre.com.br
 www.mercadopago.com.co
+www.mercadolibre.com.pe
 www.mercadopago.com.pe
 www.mercadolibre.com.mx
 api.mercadopago.com
@@ -458,15 +458,15 @@ app.avtoelon.uz
 id.avtoelon.uz
 api.avtoelon.uz
 app.kolesa.kz
-m.avtoelon.uz
 avtoelon.uz
 id.kolesa.kz
 api.kolesa.kz
 api.krisha.kz
 m.krisha.kz
 kolesa.kz
-krisha.kz
 m.kolesa.kz
+m.avtoelon.uz
+krisha.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -563,8 +563,8 @@ hiltonhotels.jp
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
-hilton.com
 *.hilton.com
+hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -698,8 +698,8 @@ auth.skypicker.com
 jobs.kiwi.com
 *.kiwi.com
 www.kiwi.com
-*.skypicker.com
 tequila.kiwi.com
+*.skypicker.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1150,8 +1150,8 @@ labs.databricks.com
 marketplace.databricks.com
 accounts.cloud.databricks.com
 support.databricks.com
-databricks.com
 advocates.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1206,8 +1206,8 @@ woocommerce-adapter.judge.me
 bigcommerce-adapter.judge.me
 cache.judge.me
 api.evernote.com
-www.evernote.com
 accounts.evernote.com
+www.evernote.com
 www.evernote.com
 accounts.evernote.com
 api.evernote.com
@@ -1432,8 +1432,8 @@ api.taxjar.com
 *.recko.io
 *.link.co
 *.stripe.com
-api.stripe.com
 app.taxjar.com
+api.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1517,9 +1517,9 @@ global-api.citymapper.com
 remix.com
 eu.remix.com
 platform.remix.com
-*.withbuddies.com
 *.scopely.io
 *.scopely.com
+*.withbuddies.com
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
@@ -1832,6 +1832,7 @@ www10.pns.hk
 api.pns.hk
 www.moneyback.com.hk
 app.iciparisxl.nl
+app.superdrug.com
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -3048,10 +3049,10 @@ hybrid-analysis.com
 *.preemptsecurity.com
 *.reposify.com
 *.bionic.ai
-falcon-sandbox.com
 *.preempt.com
 *.crowdstrike.com
 www.crowdstrike.com
+falcon-sandbox.com
 *.humio.com
 *.crowdstrike.com
 *.humio.com
@@ -3524,7 +3525,6 @@ yourcompany.udemy.com
 shopifyinbox.com
 arrive-server.shopifycloud.com
 shopify.plus
-*.shopifycs.com
 linkpop.com
 *.shopify.com
 shop.app
@@ -3532,6 +3532,7 @@ accounts.shopify.com
 *.shopifycloud.com
 *.shopifykloud.com
 your-store.myshopify.com
+*.shopifycs.com
 partners.shopify.com
 admin.shopify.com
 *.shopifycs.com
