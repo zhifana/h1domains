@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 16 05:42:12 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 16 06:21:49 UTC 2024)
 ```
 rfc.tari.com
 explore.tari.com
-www.tari.com
 textexplore.tari.com
 www.tarilabs.com
+www.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -1730,11 +1730,11 @@ business.tiktok.com
 live-backstage.tiktok.com
 ads.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 shop.tiktok.com
 tiktok.com
 www.pangleglobal.com
 partner.tiktokshop.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -3896,10 +3896,10 @@ ctf.hacker101.com
 hackerone-user-content.com
 hackerone.live
 cover-photos.hackerone-user-content.com
-www.hackerone.com
-app.pullrequest.com
 api.hackerone.com
 hackerone.com
+www.hackerone.com
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
