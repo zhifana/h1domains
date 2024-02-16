@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 16 10:19:25 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 16 10:42:43 UTC 2024)
 ```
 rfc.tari.com
 textexplore.tari.com
 www.tarilabs.com
-www.tari.com
 explore.tari.com
+www.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -729,6 +729,7 @@ user-profile.8x8.com
 cloud8.8x8.com
 *.packet8.net
 sso.8x8.com
+voapi.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1431,8 +1432,8 @@ api.taxjar.com
 *.recko.io
 *.link.co
 *.stripe.com
-app.taxjar.com
 api.stripe.com
+app.taxjar.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1731,8 +1732,8 @@ ads.tiktok.com
 *.tiktokv.com
 shop.tiktok.com
 tiktok.com
-*.tiktok.com
 partner.tiktokshop.com
+*.tiktok.com
 business.tiktok.com
 www.pangleglobal.com
 *.tiktok.com
@@ -3048,10 +3049,10 @@ hybrid-analysis.com
 *.reposify.com
 *.bionic.ai
 falcon-sandbox.com
-*.humio.com
 *.preempt.com
 *.crowdstrike.com
 www.crowdstrike.com
+*.humio.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3897,8 +3898,8 @@ hackerone-user-content.com
 hackerone.live
 cover-photos.hackerone-user-content.com
 api.hackerone.com
-app.pullrequest.com
 hackerone.com
+app.pullrequest.com
 www.hackerone.com
 hackerone.com
 api.hackerone.com

@@ -25,8 +25,8 @@ tari_labs,tlu.tarilabs.com,False
 tari_labs,rfc.tari.com,True
 tari_labs,textexplore.tari.com,True
 tari_labs,www.tarilabs.com,True
-tari_labs,www.tari.com,True
 tari_labs,explore.tari.com,True
+tari_labs,www.tari.com,True
 tari_labs,explore.tari.com,True
 tari_labs,rfc.tari.com,True
 tari_labs,textexplore.tari.com,True
@@ -3363,6 +3363,7 @@ kkr_vdp,ksam.com,False
 8x8-bounty,cloud8.8x8.com,True
 8x8-bounty,*.packet8.net,True
 8x8-bounty,sso.8x8.com,True
+8x8-bounty,voapi.8x8.com,True
 8x8-bounty,*.8x8.vc,True
 8x8-bounty,*.jit.si,True
 8x8-bounty,*.jitsi.net,True
@@ -4627,8 +4628,8 @@ planetart,*.iseeme.com,False
 planetart,*.personalcreations.com,False
 planetart,ai.planetart.com,False
 planetart,*.cafepress.com,False
-planetart,www.gifts.com,False
 planetart,www.canvasworld.com,False
+planetart,www.gifts.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -4887,8 +4888,8 @@ anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.corcoran.*,False
 anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,*.anywhere.re,False
-anywhererealestate,*.century21.*,False
 anywhererealestate,*.coldwellbanker.*,False
+anywhererealestate,*.century21.*,False
 anywhererealestate,*.realogy.*,False
 anywhererealestate,*.bhgre.*,False
 anywhererealestate,*.century21.*,False
@@ -6067,8 +6068,8 @@ stripe,*.recko.io,True
 stripe,www.stripe.partners,False
 stripe,*.link.co,True
 stripe,*.stripe.com,True
-stripe,app.taxjar.com,True
 stripe,api.stripe.com,True
+stripe,app.taxjar.com,True
 stripe,api.stripe.com,True
 stripe,*.stripe.com,True
 stripe,*.touchtechpayments.com,True
@@ -7276,8 +7277,8 @@ tiktok,ads.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,shop.tiktok.com,True
 tiktok,tiktok.com,True
-tiktok,*.tiktok.com,True
 tiktok,partner.tiktokshop.com,True
+tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,*.tiktok.com,True
@@ -9731,10 +9732,10 @@ crowdstrike,*.preemptsecurity.com,True
 crowdstrike,*.reposify.com,True
 crowdstrike,*.bionic.ai,True
 crowdstrike,falcon-sandbox.com,True
-crowdstrike,*.humio.com,True
 crowdstrike,*.preempt.com,True
 crowdstrike,*.crowdstrike.com,True
 crowdstrike,www.crowdstrike.com,True
+crowdstrike,*.humio.com,True
 crowdstrike,*.crowdstrike.com,True
 crowdstrike,*.humio.com,True
 crowdstrike,*.securecircle.com,True
@@ -10805,8 +10806,8 @@ security,hackerone-user-content.com,True
 security,hackerone.live,True
 security,cover-photos.hackerone-user-content.com,True
 security,api.hackerone.com,True
-security,app.pullrequest.com,True
 security,hackerone.com,True
+security,app.pullrequest.com,True
 security,www.hackerone.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
