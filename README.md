@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 16 11:16:22 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 16 11:43:14 UTC 2024)
 ```
 rfc.tari.com
 textexplore.tari.com
@@ -164,11 +164,11 @@ cars.booking.com
 widget.rentalcars.com
 careers.booking.com
 admin.booking.com
-*.rentalcars.com
 secure.booking.com
 booking.com
 account.booking.com
 *.booking.com
+*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -453,7 +453,6 @@ yourdomain.freshservice.com
 yourdomain.freshchat.com
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
-m.kolesa.kz
 app.krisha.kz
 app.avtoelon.uz
 id.avtoelon.uz
@@ -467,6 +466,7 @@ api.krisha.kz
 m.krisha.kz
 kolesa.kz
 krisha.kz
+m.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -698,8 +698,8 @@ auth.skypicker.com
 jobs.kiwi.com
 *.kiwi.com
 www.kiwi.com
-tequila.kiwi.com
 *.skypicker.com
+tequila.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1432,8 +1432,8 @@ api.taxjar.com
 *.recko.io
 *.link.co
 *.stripe.com
-app.taxjar.com
 api.stripe.com
+app.taxjar.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1689,8 +1689,8 @@ secure.sharefile.eu
 api.sharefile.com
 *.citrixworkspacesapi.net
 citrix.cloud.com
-www.cloud.com
 (youriwssubdomain).cloud.com
+www.cloud.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -1728,7 +1728,6 @@ effecthouse.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 live-backstage.tiktok.com
-ads.tiktok.com
 *.tiktokv.com
 shop.tiktok.com
 tiktok.com
@@ -1736,6 +1735,7 @@ partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
 www.pangleglobal.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2315,8 +2315,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2764,8 +2764,8 @@ decision.swiftfinancial.com
 *.paypalcorp.com
 *.xoom.com
 paypal.me
-*.paypal.com
 paypalobjects.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com

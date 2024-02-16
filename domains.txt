@@ -223,11 +223,11 @@ cars.booking.com
 widget.rentalcars.com
 careers.booking.com
 admin.booking.com
-*.rentalcars.com
 secure.booking.com
 booking.com
 account.booking.com
 *.booking.com
+*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -1859,8 +1859,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 *.mitsubishi-fuso.com
 *exceleratorparts.com
 *.mercedes-benz-trucks.com
-*fleetboard.com
 *.daimlertruck.com
+*fleetboard.com
 *exceleratorparts.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
@@ -2822,7 +2822,6 @@ yourdomain.freshservice.com
 yourdomain.freshchat.com
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
-m.kolesa.kz
 app.krisha.kz
 app.avtoelon.uz
 id.avtoelon.uz
@@ -2836,6 +2835,7 @@ api.krisha.kz
 m.krisha.kz
 kolesa.kz
 krisha.kz
+m.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -3249,8 +3249,8 @@ auth.skypicker.com
 jobs.kiwi.com
 *.kiwi.com
 www.kiwi.com
-tequila.kiwi.com
 *.skypicker.com
+tequila.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -5087,14 +5087,12 @@ brumikobjevitel.cz
 cadburyfavourites.co.nz
 cadburygiftsdirect.co.uk
 cadburyworld.co.uk
-clorets.jp
 createatreat.com
 ct-hopp.interlogservices.com
 dairylea.co.uk
 dessertscorner.com
 ejackson.co.uk
 fidorka.cz
-figaro.cz
 figaro.sk
 fonzies.it
 fundraising.com.au
@@ -6067,8 +6065,8 @@ api.taxjar.com
 www.stripe.partners
 *.link.co
 *.stripe.com
-app.taxjar.com
 api.stripe.com
+app.taxjar.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -7232,8 +7230,8 @@ secure.sharefile.eu
 api.sharefile.com
 *.citrixworkspacesapi.net
 citrix.cloud.com
-www.cloud.com
 (youriwssubdomain).cloud.com
+www.cloud.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -7272,7 +7270,6 @@ effecthouse.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 live-backstage.tiktok.com
-ads.tiktok.com
 *.tiktokv.com
 shop.tiktok.com
 tiktok.com
@@ -7280,6 +7277,7 @@ partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
 www.pangleglobal.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -7966,8 +7964,8 @@ unified.cloudways.com
 api.digitalocean.com
 www.cloudways.com
 www.digitalocean.com
-169.254.169.254
 cloud.digitalocean.com
+169.254.169.254
 *.digitalocean.com
 cloud.digitalocean.com
 api.digitalocean.com
@@ -8093,8 +8091,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -9392,8 +9390,8 @@ decision.swiftfinancial.com
 *.paypalcorp.com
 *.xoom.com
 paypal.me
-*.paypal.com
 paypalobjects.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
