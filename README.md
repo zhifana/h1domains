@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 16 18:23:05 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 16 18:42:31 UTC 2024)
 ```
 getworldcoin.com
 *.worldcoin-distributors.com
@@ -23,8 +23,8 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 rfc.tari.com
-www.tarilabs.com
 explore.tari.com
+www.tarilabs.com
 textexplore.tari.com
 www.tari.com
 explore.tari.com
@@ -182,11 +182,11 @@ cars.booking.com
 widget.rentalcars.com
 careers.booking.com
 admin.booking.com
+*.rentalcars.com
 secure.booking.com
 booking.com
 account.booking.com
 *.booking.com
-*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -221,8 +221,8 @@ secure-supply-xml.booking.com
 http://secure-iphone-xml.booking.com/json/
 *.bybit.com
 *.bybit.com
-portal.au.frontegg.com
 api.au.frontegg.com
+portal.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 api2.frontapp.com
@@ -463,8 +463,8 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
-yourdomain.myfreshworks.com
 yourdomain.freshservice.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -1040,8 +1040,8 @@ www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
 ws.sorare.com
-api.sorare.com
 sorare.com
+api.sorare.com
 sorare.com
 api.sorare.com
 ws.sorare.com
@@ -1449,9 +1449,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.recko.io
 *.link.co
-app.taxjar.com
-*.stripe.com
 api.stripe.com
+*.stripe.com
+app.taxjar.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1591,9 +1591,9 @@ fetlife.com
 *.fetlife.com
 fetlife.com
 api.bitso.com
-bitso.com
 nvio.ar
 nvio.mx
+bitso.com
 bitso.com
 api.bitso.com
 http://bitso.com/alpha
@@ -1744,14 +1744,14 @@ fp-sg.tiktokv.com
 developers.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
+shop.tiktok.com
 *.tiktokv.com
 tiktok.com
-shop.tiktok.com
 *.tiktok.com
 creatormarketplace.tiktok.com
-business.tiktok.com
 www.pangleglobal.com
 live-backstage.tiktok.com
+business.tiktok.com
 ads.tiktok.com
 partner.tiktokshop.com
 *.tiktok.com
@@ -1968,10 +1968,10 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
-*.sonyentertainmentnetwork.com
-*.api.playstation.com
 my.account.sony.com
 *.playstation.net
+*.sonyentertainmentnetwork.com
+*.api.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2333,8 +2333,8 @@ http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
-*.roblox.com
 *.rbx.com
+*.roblox.com
 *.guilded.gg
 *.roblox.com
 *.rbx.com
@@ -2502,7 +2502,7 @@ press.priceline.com
 admin.rezserver.com
 flyiin.com
 www.bookingholdings.com
-priceline.com
+reservations.rezserver.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2701,8 +2701,8 @@ www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
 *.grammarly.io
-*.grammarlyaws.com
 *.grammarly.com
+*.grammarlyaws.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -2780,10 +2780,10 @@ decision.swiftfinancial.com
 *.braintreepayments.com
 *.paylution.com
 *.braintreegateway.com
+paypalobjects.com
+paypal.me
 *.paypalcorp.com
 *.xoom.com
-paypal.me
-paypalobjects.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3549,10 +3549,10 @@ accounts.shopify.com
 *.shopifycloud.com
 *.shopifykloud.com
 admin.shopify.com
-*.shopify.com
 partners.shopify.com
 your-store.myshopify.com
 *.shopifycs.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3906,9 +3906,6 @@ profile-photos.hackerone-user-content.com
 mta-sts.wearehackerone.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
-errors.hackerone.net
-ctf.hacker101.com
-app.pullrequest.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
@@ -3918,6 +3915,9 @@ hackerone-user-content.com
 hackerone.live
 cover-photos.hackerone-user-content.com
 api.hackerone.com
+errors.hackerone.net
+ctf.hacker101.com
+app.pullrequest.com
 www.hackerone.com
 hackerone.com
 hackerone.com
