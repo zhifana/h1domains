@@ -6,9 +6,9 @@ your-domain.smblogin.com
 your-domain.steprep.com
 your-domain.socialsmbs.com
 customervoice.biz
-partners.vendasta.com
 *.yesware.com
 *.vendasta-internal.com
+partners.vendasta.com
 *.apigateway.co
 *.vendasta-internal.com
 *.yesware.com
@@ -226,8 +226,8 @@ admin.booking.com
 *.rentalcars.com
 secure.booking.com
 booking.com
-*.booking.com
 account.booking.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com

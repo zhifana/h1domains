@@ -161,8 +161,8 @@ admin.booking.com
 *.rentalcars.com
 secure.booking.com
 booking.com
-*.booking.com
 account.booking.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com

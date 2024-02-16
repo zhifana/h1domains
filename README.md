@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 16 04:19:29 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 16 04:42:14 UTC 2024)
 ```
 rfc.tari.com
 explore.tari.com
@@ -167,8 +167,8 @@ admin.booking.com
 *.rentalcars.com
 secure.booking.com
 booking.com
-*.booking.com
 account.booking.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com

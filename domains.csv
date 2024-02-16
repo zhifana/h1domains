@@ -7,9 +7,9 @@ vendasta,your-domain.smblogin.com,False
 vendasta,your-domain.steprep.com,False
 vendasta,your-domain.socialsmbs.com,False
 vendasta,customervoice.biz,False
-vendasta,partners.vendasta.com,False
 vendasta,*.yesware.com,False
 vendasta,*.vendasta-internal.com,False
+vendasta,partners.vendasta.com,False
 vendasta,*.apigateway.co,False
 vendasta,*.vendasta-internal.com,False
 vendasta,*.yesware.com,False
@@ -227,8 +227,8 @@ bookingcom,admin.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,secure.booking.com,True
 bookingcom,booking.com,True
-bookingcom,*.booking.com,True
 bookingcom,account.booking.com,True
+bookingcom,*.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
