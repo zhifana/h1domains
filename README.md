@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 16 20:42:36 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 16 21:15:24 UTC 2024)
 ```
 getworldcoin.com
 *.worldcoin-distributors.com
@@ -23,8 +23,8 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 rfc.tari.com
-explore.tari.com
 www.tarilabs.com
+explore.tari.com
 textexplore.tari.com
 www.tari.com
 explore.tari.com
@@ -78,8 +78,8 @@ sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 demo.dynamic.xyz
-app.dynamic.xyz
 app.dynamic-preprod.xyz
+app.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -130,16 +130,16 @@ www.mercadopago.com.mx
 api.mercadolibre.com
 www.mercadopago.cl
 www.mercadopago.com.uy
-www.mercadolibre.cl
 www.mercadolibre.com.mx
 www.mercadolibre.com.co
-www.mercadopago.com.ar
 www.mercadopago.com.br
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadolibre.com.pe
 www.mercadolibre.com.ar
 www.mercadolivre.com.br
+www.mercadolibre.cl
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -386,7 +386,6 @@ www.visa.com.cn
 www.visa.com.hk
 www.visa.com.lc
 visa.com.ua
-www.fraedom.com
 www.practicalmoneyskills.org
 www.practicalbusinessskills.org
 www.visa.co.ke
@@ -400,8 +399,9 @@ www.practicalmoneyskills.com
 www.visa.com.ph
 bb.visa.com
 www.visa.com.my
-www.cybersource.com
-www.visainfinite.ca
+www.yellowpepper.com
+aw.visa.com
+visa.co.cr
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -463,8 +463,8 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
-yourdomain.myfreshworks.com
 yourdomain.freshservice.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -476,13 +476,13 @@ app.avtoelon.uz
 id.avtoelon.uz
 api.avtoelon.uz
 app.kolesa.kz
+krisha.kz
 avtoelon.uz
 id.kolesa.kz
 api.kolesa.kz
 api.krisha.kz
 m.krisha.kz
 kolesa.kz
-krisha.kz
 m.kolesa.kz
 m.avtoelon.uz
 kolesa.kz
@@ -693,13 +693,13 @@ mobile.s-pankki.fi
 extranet.s-pankki.fi
 tunnistus.s-ryhma.fi
 digili.s-cloud.fi
-www.prisma.fi
 api.sokos.fi
 cfapi.voikukka.fi
 www.s-kaupat.fi
 www.sokos.fi
 online.s-pankki.fi
 www.s-pankki.fi
+www.prisma.fi
 online.s-pankki.fi
 www.s-pankki.fi
 https://crosskey.io/stores/s-pankki/apis
@@ -714,9 +714,9 @@ api.sokos.fi
 cfapi.voikukka.fi
 auth.skypicker.com
 jobs.kiwi.com
-www.kiwi.com
-*.skypicker.com
 tequila.kiwi.com
+*.skypicker.com
+www.kiwi.com
 *.kiwi.com
 *.kiwi.com
 *.skypicker.com
@@ -782,10 +782,10 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
-*.napoleongames.be
-*.superbet.ro
 *.superbet.pl
 *.magicjackpot.ro
+*.napoleongames.be
+*.superbet.ro
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1167,8 +1167,8 @@ community.databricks.com
 labs.databricks.com
 marketplace.databricks.com
 accounts.cloud.databricks.com
-support.databricks.com
 advocates.databricks.com
+support.databricks.com
 databricks.com
 databricks.com
 academy.databricks.com
@@ -1705,10 +1705,10 @@ api.sharefile.eu
 secure.sharefile.eu
 (yoursubdomain).sharefile.com
 api.sharefile.com
-*.citrixworkspacesapi.net
-citrix.cloud.com
 (youriwssubdomain).cloud.com
 www.cloud.com
+*.citrixworkspacesapi.net
+citrix.cloud.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -1968,9 +1968,9 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
+*.api.playstation.com
 my.account.sony.com
 *.playstation.net
-*.api.playstation.com
 *.sonyentertainmentnetwork.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2333,9 +2333,9 @@ http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
-*.roblox.com
 *.rbx.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3001,7 +3001,7 @@ synthetics.newrelic.com
 synthetics.eu.newrelic.com
 *.nr-ops.net
 login.newrelic.com
-*.eu.newrelic.com
+*.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
