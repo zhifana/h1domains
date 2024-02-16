@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 15 23:41:54 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 16 01:02:24 UTC 2024)
 ```
 rfc.tari.com
 explore.tari.com
@@ -20,8 +20,8 @@ client-api.arkoselabs.com
 demo.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
-portal.arkoselabs.com
 www.arkoselabs.com
+portal.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
@@ -35,8 +35,8 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.pornworld.com
-www.analvids.com
 www.ddfcontent.com
+www.analvids.com
 www.pornbox.com
 www.pornbox.com
 www.analvids.com
@@ -314,8 +314,8 @@ launch.gamma.redoxstage.com
 explore.redoxengine.com
 10x.redoxengine.com
 www.redoxengine.com
-testapp.redoxengine.com
 dashboard.gamma.redoxstage.com
+testapp.redoxengine.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -532,8 +532,8 @@ support.mozilla.org
 www.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 monitor.firefox.com
-hg.mozilla.org
 relay.firefox.com
+hg.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -698,8 +698,8 @@ auth.skypicker.com
 jobs.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
-www.kiwi.com
 *.skypicker.com
+www.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -763,10 +763,10 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
-*.superbet.ro
 *.superbet.pl
 *.magicjackpot.ro
 *.napoleongames.be
+*.superbet.ro
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1027,8 +1027,8 @@ sorare.com
 api.sorare.com
 ws.sorare.com
 *.sheingsp.com
-*.shein.com
 *.romwe.com
+*.shein.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
@@ -1149,8 +1149,8 @@ community.databricks.com
 labs.databricks.com
 marketplace.databricks.com
 accounts.cloud.databricks.com
-databricks.com
 support.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1292,8 +1292,8 @@ tria.ge
 securitytrails.com
 www.recordedfuture.com
 therecord.media
-id.recordedfuture.com
 geminiadvisory.io
+id.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1333,7 +1333,6 @@ dashboard.fr.cloud.gov
 catalog.data.gov
 sdg.data.gov
 grafana.fr.cloud.gov
-labs.data.gov
 inventory.data.gov
 diagrams.fr.cloud.gov
 logs-platform.fr.cloud.gov
@@ -1413,8 +1412,8 @@ www.elastic.co
 cloud.elastic.co
 *.swiftype.com
 *.elstc.co
-*.elastic.co
 *.found.io
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1447,8 +1446,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbanclap.com
 www.urbancompany.com
+www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
 new.reddit.com
@@ -1476,8 +1475,8 @@ api.reddit.com
 *.redditmedia.com
 ads.reddit.com
 *.reddit.com
-redditforbusiness.com
 www.reddit.com
+redditforbusiness.com
 app.spiketrap.io
 *.snooguts.net
 *.redditmedia.com
@@ -1618,8 +1617,8 @@ ccloud.yoti.com
 code.yoti.com
 api.yoti.com
 identity.yoti.com
-www.yotisign.com
 hub.yoti.com
+www.yotisign.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1729,13 +1728,13 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
 live-backstage.tiktok.com
+shop.tiktok.com
+tiktok.com
 ads.tiktok.com
 *.tiktokv.com
 *.tiktok.com
-shop.tiktok.com
-tiktok.com
-www.pangleglobal.com
 partner.tiktokshop.com
+www.pangleglobal.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1798,10 +1797,10 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
+*.acronis.com
+account.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
-account.acronis.com
-*.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -1950,9 +1949,9 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
-*.playstation.net
 *.sonyentertainmentnetwork.com
 my.account.sony.com
+*.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2193,10 +2192,10 @@ www.alibabagroup.com
 *.aliyun.com
 *.Daraz.com
 *.alibabacloud.com
-*.alibaba.com
-*.alibaba-inc.com
 *.1688.com
 *.taobao.com
+*.alibaba.com
+*.alibaba-inc.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2335,10 +2334,10 @@ prow.k8s.io
 kubernetes.io
 k8s.io
 kubernetes-csi.github.io
-docs.datastax.com
 downloads.datastax.com
 astra.datastax.com
 www.datastax.com
+docs.datastax.com
 www.datastax.com
 downloads.datastax.com
 docs.datastax.com
@@ -2763,9 +2762,9 @@ decision.swiftfinancial.com
 *.paylution.com
 paypalobjects.com
 *.braintreegateway.com
+*.paypalcorp.com
 *.xoom.com
 *.paypal.com
-*.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3379,8 +3378,8 @@ npmjs.com
 *.githubapp.com
 npmjs.org
 classroom.github.com
-github.com
 api.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3524,15 +3523,15 @@ yourcompany.udemy.com
 shopifyinbox.com
 arrive-server.shopifycloud.com
 shopify.plus
-*.shopifycs.com
-linkpop.com
 partners.shopify.com
+linkpop.com
+accounts.shopify.com
+*.shopifycloud.com
 *.shopify.com
 admin.shopify.com
 shop.app
-accounts.shopify.com
-*.shopifycloud.com
 *.shopifykloud.com
+*.shopifycs.com
 your-store.myshopify.com
 *.shopifycs.com
 *.shopify.com
@@ -3741,9 +3740,9 @@ gnip.com
 ide.x.ai
 grok.x.ai
 *.twimg.com
-*.twitter.com
 api.x.ai
 x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
