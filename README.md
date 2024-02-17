@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 17 15:18:09 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 17 15:41:18 UTC 2024)
 ```
 getworldcoin.com
 *.worldcoin-distributors.com
@@ -23,8 +23,8 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 rfc.tari.com
-www.tarilabs.com
 explore.tari.com
+www.tarilabs.com
 textexplore.tari.com
 www.tari.com
 explore.tari.com
@@ -1040,8 +1040,8 @@ www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
 ws.sorare.com
-api.sorare.com
 sorare.com
+api.sorare.com
 sorare.com
 api.sorare.com
 ws.sorare.com
@@ -1448,8 +1448,8 @@ js.stripe.com
 *.reckoproduction.com
 *.recko.io
 *.link.co
-api.stripe.com
 *.stripe.com
+api.stripe.com
 app.taxjar.com
 api.taxjar.com
 api.stripe.com
@@ -1495,8 +1495,8 @@ ads.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 *.reddit.com
-www.reddit.com
 *.reddithelp.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1636,8 +1636,8 @@ ccloud.yoti.com
 code.yoti.com
 api.yoti.com
 www.yotisign.com
-hub.yoti.com
 identity.yoti.com
+hub.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1704,10 +1704,10 @@ secure.sharefile.com
 api.sharefile.eu
 secure.sharefile.eu
 api.sharefile.com
-(youriwssubdomain).cloud.com
-www.cloud.com
 *.citrixworkspacesapi.net
 citrix.cloud.com
+(youriwssubdomain).cloud.com
+www.cloud.com
 (yoursubdomain).sharefile.com
 citrix.cloud.com
 www.cloud.com
@@ -1744,14 +1744,14 @@ fp-sg.tiktokv.com
 developers.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
-*.tiktokv.com
 shop.tiktok.com
-business.tiktok.com
+*.tiktokv.com
 www.pangleglobal.com
 live-backstage.tiktok.com
+business.tiktok.com
 partner.tiktokshop.com
-tiktok.com
 creatormarketplace.tiktok.com
+tiktok.com
 ads.tiktok.com
 *.tiktok.com
 *.tiktok.com
@@ -2333,8 +2333,8 @@ http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
-*.roblox.com
 *.rbx.com
+*.roblox.com
 *.guilded.gg
 *.roblox.com
 *.rbx.com
@@ -2701,8 +2701,8 @@ www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
 *.grammarly.io
-*.grammarly.com
 *.grammarlyaws.com
+*.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -2779,9 +2779,9 @@ decision.swiftfinancial.com
 *.braintreepayments.com
 *.paylution.com
 *.braintreegateway.com
+paypalobjects.com
 *.paypalcorp.com
 *.xoom.com
-paypalobjects.com
 paypal.me
 *.paypal.com
 py.pl
@@ -3149,8 +3149,8 @@ gifts.grab.com
 *.myteksi.net
 grab.careers
 kartaview.org
-*.grab.com
 *.taralite.com
+*.grab.com
 *.ovo.id
 *.myteksi.com
 *.myteksi.net
@@ -3272,9 +3272,9 @@ store.rockstargames.com
 circolocorecords.com/
 lifeinvader.com
 prod.ros.rockstargames.com
-socialclub.rockstargames.com
 support.rockstargames.com
 *.rockstargames.com
+socialclub.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3546,9 +3546,9 @@ linkpop.com
 partners.shopify.com
 accounts.shopify.com
 your-store.myshopify.com
+*.shopify.com
 shop.app
 admin.shopify.com
-*.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3909,13 +3909,13 @@ cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
 hackerone-ext-content.com
-hackerone-user-content.com
 hackerone.live
 api.hackerone.com
 cover-photos.hackerone-user-content.com
 www.hackerone.com
 hackerone.com
 b5s.hackerone-ext-content.com
+hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
