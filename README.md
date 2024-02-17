@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 17 04:20:22 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 17 04:42:36 UTC 2024)
 ```
 getworldcoin.com
 *.worldcoin-distributors.com
@@ -77,9 +77,9 @@ account-sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
-app.dynamic.xyz
-app.dynamic-preprod.xyz
 demo.dynamic.xyz
+app.dynamic-preprod.xyz
+app.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -108,11 +108,11 @@ education.23andme.com
 therapeutics.23andme.com
 api.23andme.com
 research.23andme.com
-you.23andme.com
 blog.23andme.com
 store.23andme.com
 medical.23andme.com
 auth.23andme.com
+you.23andme.com
 mediacenter.23andme.com
 api.23andme.com
 auth.23andme.com
@@ -182,10 +182,10 @@ cars.booking.com
 widget.rentalcars.com
 careers.booking.com
 admin.booking.com
+*.rentalcars.com
 secure.booking.com
 account.booking.com
 *.booking.com
-*.rentalcars.com
 booking.com
 *.booking.com
 *.rentalcars.com
@@ -398,10 +398,10 @@ www.practicalmoneyskills.com
 www.visa.com.ph
 bb.visa.com
 www.visa.com.my
-www.cybersource.com
-www.visainfinite.ca
+www.yellowpepper.com
 aw.visa.com
 www.visa.co.in
+www.tink.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -463,8 +463,8 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
-yourdomain.myfreshworks.com
 yourdomain.freshservice.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -476,15 +476,15 @@ app.avtoelon.uz
 id.avtoelon.uz
 api.avtoelon.uz
 app.kolesa.kz
-krisha.kz
 avtoelon.uz
 id.kolesa.kz
 api.kolesa.kz
 api.krisha.kz
 kolesa.kz
+krisha.kz
 m.avtoelon.uz
-m.kolesa.kz
 m.krisha.kz
+m.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -581,8 +581,8 @@ hiltonhotels.jp
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
-*.hilton.com
 hilton.com
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -1040,8 +1040,8 @@ www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
 ws.sorare.com
-api.sorare.com
 sorare.com
+api.sorare.com
 sorare.com
 api.sorare.com
 ws.sorare.com
@@ -1705,10 +1705,10 @@ api.sharefile.eu
 secure.sharefile.eu
 (yoursubdomain).sharefile.com
 api.sharefile.com
-(youriwssubdomain).cloud.com
-www.cloud.com
 *.citrixworkspacesapi.net
 citrix.cloud.com
+(youriwssubdomain).cloud.com
+www.cloud.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -1744,12 +1744,12 @@ fp-sg.tiktokv.com
 developers.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
-shop.tiktok.com
 *.tiktokv.com
+shop.tiktok.com
 *.tiktok.com
+business.tiktok.com
 www.pangleglobal.com
 live-backstage.tiktok.com
-business.tiktok.com
 partner.tiktokshop.com
 creatormarketplace.tiktok.com
 tiktok.com
@@ -2333,8 +2333,8 @@ http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
-*.roblox.com
 *.rbx.com
+*.roblox.com
 *.guilded.gg
 *.roblox.com
 *.rbx.com
@@ -3149,8 +3149,8 @@ gifts.grab.com
 *.myteksi.net
 grab.careers
 kartaview.org
-*.grab.com
 *.taralite.com
+*.grab.com
 *.ovo.id
 *.myteksi.com
 *.myteksi.net
@@ -3673,8 +3673,8 @@ next.airbnb.com
 *.withairbnb.com
 assets.airbnb.com
 api.airbnb.com
-*.airbnb.com
 www.airbnb.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3914,8 +3914,8 @@ hackerone-user-content.com
 hackerone.live
 api.hackerone.com
 www.hackerone.com
-hackerone.com
 cover-photos.hackerone-user-content.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
