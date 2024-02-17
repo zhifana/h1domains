@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 17 17:16:27 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 17 17:41:14 UTC 2024)
 ```
 getworldcoin.com
 *.worldcoin-distributors.com
@@ -91,8 +91,8 @@ logo.zyro.com
 payments.hostinger.com
 hpanel.hostinger.com
 *.000webhost.com
-www.hostinger.com
 backend.zyro.com
+www.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -182,8 +182,8 @@ cars.booking.com
 widget.rentalcars.com
 careers.booking.com
 admin.booking.com
-*.rentalcars.com
 account.booking.com
+*.rentalcars.com
 booking.com
 *.booking.com
 secure.booking.com
@@ -397,11 +397,11 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
-www.cybersource.com
-www.visainfinite.ca
+www.yellowpepper.com
 aw.visa.com
 www.tink.com
-visa.com.au
+www.cybersource.com
+www.visainfinite.ca
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -1040,8 +1040,8 @@ www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
 ws.sorare.com
-api.sorare.com
 sorare.com
+api.sorare.com
 sorare.com
 api.sorare.com
 ws.sorare.com
@@ -1165,8 +1165,8 @@ community.databricks.com
 labs.databricks.com
 marketplace.databricks.com
 accounts.cloud.databricks.com
-support.databricks.com
 advocates.databricks.com
+support.databricks.com
 databricks.com
 customer-academy.databricks.com
 docs.databricks.com
@@ -1636,8 +1636,8 @@ ccloud.yoti.com
 code.yoti.com
 api.yoti.com
 www.yotisign.com
-hub.yoti.com
 identity.yoti.com
+hub.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -2333,8 +2333,8 @@ http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
-*.roblox.com
 *.rbx.com
+*.roblox.com
 *.guilded.gg
 *.roblox.com
 *.rbx.com
@@ -2502,7 +2502,7 @@ flyiin.com
 www.bookingholdings.com
 www.getaroom.com
 reservations.rezserver.com
-www.priceline.com
+press.priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3000,7 +3000,7 @@ synthetics.newrelic.com
 *.nr-data.net
 synthetics.eu.newrelic.com
 *.nr-ops.net
-login.newrelic.com
+*.newrelic.com
 *.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
@@ -3068,10 +3068,10 @@ hybrid-analysis.com
 *.reposify.com
 *.bionic.ai
 *.preempt.com
-*.crowdstrike.com
 www.crowdstrike.com
 falcon-sandbox.com
 *.humio.com
+*.crowdstrike.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3149,8 +3149,8 @@ gifts.grab.com
 *.myteksi.net
 grab.careers
 kartaview.org
-*.taralite.com
 *.grab.com
+*.taralite.com
 *.ovo.id
 *.myteksi.com
 *.myteksi.net
@@ -3546,8 +3546,8 @@ linkpop.com
 partners.shopify.com
 accounts.shopify.com
 your-store.myshopify.com
-*.shopify.com
 shop.app
+*.shopify.com
 admin.shopify.com
 *.shopifycs.com
 *.shopify.com
@@ -3673,8 +3673,8 @@ next.airbnb.com
 *.withairbnb.com
 assets.airbnb.com
 api.airbnb.com
-*.airbnb.com
 www.airbnb.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
