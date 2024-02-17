@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 17 02:42:45 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 17 03:18:43 UTC 2024)
 ```
 getworldcoin.com
 *.worldcoin-distributors.com
@@ -11,8 +11,8 @@ toolsforhumanity.com
 *.consumer.worldcoin.org
 *.toolsforhumanity.com
 bioid-management.app
-worldcoin.org
 *.worldcoin.org
+worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -65,21 +65,21 @@ sandbox.fireblocks.io
 http://sb-mobile-api.fireblocks.io
 http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
-account-sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 university-staging.dynatracelabs.com
 *.sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
+account-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
-demo.dynamic.xyz
-app.dynamic-preprod.xyz
 app.dynamic.xyz
+app.dynamic-preprod.xyz
+demo.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -398,10 +398,10 @@ www.practicalmoneyskills.com
 www.visa.com.ph
 bb.visa.com
 www.visa.com.my
-www.cybersource.com
-www.visainfinite.ca
+www.yellowpepper.com
 aw.visa.com
 www.visa.co.in
+www.tink.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -463,8 +463,8 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
-yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -581,8 +581,8 @@ hiltonhotels.jp
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
-hilton.com
 *.hilton.com
+hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -854,7 +854,6 @@ www.fewo-direkt.de
 www.flights.com
 www.stayz.com.au
 www.travelocity.com
-www.bookabach.co.nz
 www.carrentals.com
 www.expedia.com
 www.cheaptickets.com
@@ -864,6 +863,7 @@ www.expediagroup.com
 www.vrbo.com
 www.ebookers.com
 www.orbitz.com
+www.bookabach.co.nz
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -1159,17 +1159,17 @@ shoppers.instacart.com
 kb.databricks.com
 academy.databricks.com
 demo.cloud.databricks.com
-docs.databricks.com
 help.databricks.com
 partners.databricks.com
 community.databricks.com
 labs.databricks.com
 marketplace.databricks.com
 accounts.cloud.databricks.com
-support.databricks.com
 advocates.databricks.com
+support.databricks.com
 databricks.com
 customer-academy.databricks.com
+docs.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1448,9 +1448,9 @@ js.stripe.com
 *.reckoproduction.com
 *.recko.io
 *.link.co
-api.stripe.com
-*.stripe.com
 app.taxjar.com
+*.stripe.com
+api.stripe.com
 api.taxjar.com
 api.stripe.com
 *.stripe.com
@@ -1636,8 +1636,8 @@ ccloud.yoti.com
 code.yoti.com
 api.yoti.com
 www.yotisign.com
-hub.yoti.com
 identity.yoti.com
+hub.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1705,10 +1705,10 @@ api.sharefile.eu
 secure.sharefile.eu
 (yoursubdomain).sharefile.com
 api.sharefile.com
-*.citrixworkspacesapi.net
-citrix.cloud.com
 (youriwssubdomain).cloud.com
 www.cloud.com
+*.citrixworkspacesapi.net
+citrix.cloud.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -1809,8 +1809,8 @@ cs.money
 support.cs.money
 wiki.cs.money
 3d.cs.money
-api.faraday.ai
 app.faraday.ai
+api.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
@@ -1968,9 +1968,9 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
-*.api.playstation.com
 my.account.sony.com
 *.playstation.net
+*.api.playstation.com
 *.sonyentertainmentnetwork.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2502,7 +2502,7 @@ press.priceline.com
 admin.rezserver.com
 flyiin.com
 www.bookingholdings.com
-www.priceline.com
+reservations.rezserver.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2779,10 +2779,10 @@ decision.swiftfinancial.com
 *.braintreepayments.com
 *.paylution.com
 *.braintreegateway.com
+paypalobjects.com
+paypal.me
 *.paypalcorp.com
 *.xoom.com
-paypal.me
-paypalobjects.com
 *.paypal.com
 py.pl
 www.paypal-*.com
@@ -3539,16 +3539,16 @@ yourcompany.udemy.com
 shopifyinbox.com
 arrive-server.shopifycloud.com
 shopify.plus
+*.shopify.com
+accounts.shopify.com
 linkpop.com
 shop.app
 *.shopifycloud.com
 *.shopifykloud.com
 admin.shopify.com
-partners.shopify.com
-*.shopify.com
-accounts.shopify.com
-your-store.myshopify.com
 *.shopifycs.com
+partners.shopify.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3673,8 +3673,8 @@ next.airbnb.com
 *.withairbnb.com
 assets.airbnb.com
 api.airbnb.com
-www.airbnb.com
 *.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
