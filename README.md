@@ -2,14 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 18 05:15:46 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 18 05:40:52 UTC 2024)
 ```
 toolsforhumanity.com
 *.toolsforhumanity.com
 worldcoin.org
+*.worldcoin.dev
 *.worldcoin-distributors.com
 getworldcoin.com
-*.worldcoin.dev
 *.consumer.worldcoin.org
 bioid-management.app
 *.worldcoin.org
@@ -395,13 +395,13 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
+www.tink.com
 www.cybersource.com
 www.visainfinite.ca
-aw.visa.com
-www.tink.com
 visa.com.au
 www.cardinalcommerce.com
 visa.co.cr
+usa.visa.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -480,8 +480,8 @@ id.kolesa.kz
 api.kolesa.kz
 api.krisha.kz
 m.avtoelon.uz
-m.krisha.kz
 m.kolesa.kz
+m.krisha.kz
 krisha.kz
 avtoelon.uz
 kolesa.kz
@@ -1040,8 +1040,8 @@ www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
 ws.sorare.com
-api.sorare.com
 sorare.com
+api.sorare.com
 sorare.com
 api.sorare.com
 ws.sorare.com
@@ -1165,8 +1165,8 @@ community.databricks.com
 labs.databricks.com
 marketplace.databricks.com
 accounts.cloud.databricks.com
-advocates.databricks.com
 support.databricks.com
+advocates.databricks.com
 databricks.com
 customer-academy.databricks.com
 docs.databricks.com
@@ -1636,8 +1636,8 @@ ccloud.yoti.com
 code.yoti.com
 api.yoti.com
 www.yotisign.com
-hub.yoti.com
 identity.yoti.com
+hub.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1745,15 +1745,15 @@ developers.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-business.tiktok.com
 www.pangleglobal.com
 live-backstage.tiktok.com
+business.tiktok.com
 partner.tiktokshop.com
 creatormarketplace.tiktok.com
 ads.tiktok.com
 *.tiktok.com
-tiktok.com
 shop.tiktok.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1968,9 +1968,9 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
-*.api.playstation.com
 my.account.sony.com
 *.playstation.net
+*.api.playstation.com
 *.sonyentertainmentnetwork.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -3149,8 +3149,8 @@ gifts.grab.com
 *.myteksi.net
 grab.careers
 kartaview.org
-*.grab.com
 *.taralite.com
+*.grab.com
 *.ovo.id
 *.grabpay.com
 *.myteksi.com
@@ -3546,8 +3546,8 @@ linkpop.com
 *.shopifycs.com
 accounts.shopify.com
 your-store.myshopify.com
-shop.app
 *.shopify.com
+shop.app
 admin.shopify.com
 partners.shopify.com
 *.shopifycs.com
@@ -3674,8 +3674,8 @@ next.airbnb.com
 *.withairbnb.com
 assets.airbnb.com
 api.airbnb.com
-www.airbnb.com
 *.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
