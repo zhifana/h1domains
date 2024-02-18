@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 18 21:40:21 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 18 22:18:33 UTC 2024)
 ```
 *.toolsforhumanity.com
 *.worldcoin-distributors.com
@@ -77,9 +77,9 @@ account-sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
-app.dynamic.xyz
-app.dynamic-preprod.xyz
 demo.dynamic.xyz
+app.dynamic-preprod.xyz
+app.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -129,14 +129,14 @@ api.mercadopago.com
 www.mercadopago.com.mx
 api.mercadolibre.com
 www.mercadopago.com.uy
-www.mercadopago.com.br
 www.mercadolibre.com.mx
+www.mercadopago.com.br
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadolivre.com.br
-www.mercadolibre.cl
 www.mercadopago.com.ar
 www.mercadopago.cl
+www.mercadolibre.cl
 www.mercadolibre.com.pe
 www.mercadolibre.com.ar
 www.mercadolibre.com.co
@@ -516,13 +516,13 @@ phabricator.allizom.org
 sync.services.mozilla.com
 crash-reports.allizom.org
 contile.services.mozilla.com
-bugzilla.mozilla.org
 location.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 accounts.firefox.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
+bugzilla.mozilla.org
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -781,9 +781,9 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
+*.magicjackpot.ro
 *.napoleongames.be
 *.superbet.ro
-*.magicjackpot.ro
 *.superbet.pl
 *.superbet.ro
 *.superbet.rs
@@ -1164,8 +1164,8 @@ community.databricks.com
 labs.databricks.com
 marketplace.databricks.com
 accounts.cloud.databricks.com
-support.databricks.com
 advocates.databricks.com
+support.databricks.com
 customer-academy.databricks.com
 docs.databricks.com
 databricks.com
@@ -1702,10 +1702,10 @@ secure.sharefile.com
 api.sharefile.eu
 secure.sharefile.eu
 api.sharefile.com
-(youriwssubdomain).cloud.com
-www.cloud.com
 *.citrixworkspacesapi.net
 citrix.cloud.com
+(youriwssubdomain).cloud.com
+www.cloud.com
 (yoursubdomain).sharefile.com
 accounts.cloud.com
 citrix.cloud.com
@@ -1967,9 +1967,9 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
-*.api.playstation.com
 my.account.sony.com
 *.playstation.net
+*.api.playstation.com
 *.sonyentertainmentnetwork.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2496,12 +2496,12 @@ cysiv.com
 app.command.cysiv.com
 api.rezserver.com
 reservations.rezserver.com
+www.getaroom.com
 flyiin.com
 admin.rezserver.com
 press.priceline.com
 cruises.priceline.com
 priceline.com
-www.priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2782,8 +2782,8 @@ decision.swiftfinancial.com
 paypalobjects.com
 paypal.me
 py.pl
-*.paypal.com
 *.venmo.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2999,8 +2999,8 @@ synthetics.newrelic.com
 *.nr-data.net
 synthetics.eu.newrelic.com
 *.nr-ops.net
+login.newrelic.com
 *.eu.newrelic.com
-one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3901,14 +3901,14 @@ profile-photos.hackerone-user-content.com
 mta-sts.wearehackerone.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
+errors.hackerone.net
+ctf.hacker101.com
+app.pullrequest.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
 hackerone-ext-content.com
 hackerone.live
-errors.hackerone.net
-ctf.hacker101.com
-app.pullrequest.com
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 api.hackerone.com
