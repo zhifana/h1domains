@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 18 14:16:56 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 18 14:41:00 UTC 2024)
 ```
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
@@ -77,9 +77,9 @@ account-sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
-app.dynamic.xyz
-app.dynamic-preprod.xyz
 demo.dynamic.xyz
+app.dynamic-preprod.xyz
+app.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -480,8 +480,8 @@ id.kolesa.kz
 api.kolesa.kz
 api.krisha.kz
 m.avtoelon.uz
-m.kolesa.kz
 m.krisha.kz
+m.kolesa.kz
 krisha.kz
 kolesa.kz
 avtoelon.uz
@@ -781,9 +781,9 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
-*.magicjackpot.ro
 *.napoleongames.be
 *.superbet.ro
+*.magicjackpot.ro
 *.superbet.pl
 *.superbet.ro
 *.superbet.rs
@@ -1164,8 +1164,8 @@ community.databricks.com
 labs.databricks.com
 marketplace.databricks.com
 accounts.cloud.databricks.com
-advocates.databricks.com
 support.databricks.com
+advocates.databricks.com
 customer-academy.databricks.com
 docs.databricks.com
 databricks.com
@@ -1447,8 +1447,8 @@ js.stripe.com
 *.reckoproduction.com
 *.recko.io
 *.link.co
-api.stripe.com
 *.stripe.com
+api.stripe.com
 app.taxjar.com
 api.taxjar.com
 api.stripe.com
@@ -2778,9 +2778,9 @@ decision.swiftfinancial.com
 *.braintreepayments.com
 *.paylution.com
 *.braintreegateway.com
-paypalobjects.com
 *.paypalcorp.com
 *.xoom.com
+paypalobjects.com
 paypal.me
 py.pl
 *.paypal.com
@@ -3405,8 +3405,8 @@ education.github.com
 *.githubusercontent.com
 npmjs.com
 npmjs.org
-*ubereats.com
 *.uberinternal.com
+*ubereats.com
 *.uberinternal.com
 *ubereats.com
 api.mapbox.com
@@ -3672,8 +3672,8 @@ next.airbnb.com
 *.withairbnb.com
 assets.airbnb.com
 api.airbnb.com
-www.airbnb.com
 *.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
