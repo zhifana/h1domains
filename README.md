@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 18 12:48:45 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 18 13:19:37 UTC 2024)
 ```
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
@@ -10,9 +10,9 @@ hackerone "in-scope" domains
 bioid-management.app
 *.worldcoin.dev
 worldcoin.org
+toolsforhumanity.com
 *.worldcoin.org
 getworldcoin.com
-toolsforhumanity.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -77,9 +77,9 @@ account-sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
-demo.dynamic.xyz
-app.dynamic-preprod.xyz
 app.dynamic.xyz
+app.dynamic-preprod.xyz
+demo.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -129,15 +129,15 @@ api.mercadopago.com
 www.mercadopago.com.mx
 api.mercadolibre.com
 www.mercadopago.com.uy
-www.mercadolibre.com.mx
 www.mercadolibre.com.co
 www.mercadopago.com.br
+www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadolivre.com.br
+www.mercadolibre.cl
 www.mercadopago.com.ar
 www.mercadopago.cl
-www.mercadolibre.cl
 www.mercadolibre.com.pe
 www.mercadolibre.com.ar
 api.mercadopago.com
@@ -395,9 +395,9 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
-www.tink.com
 www.cybersource.com
 www.visainfinite.ca
+www.tink.com
 www.cardinalcommerce.com
 visa.co.cr
 usa.visa.com
@@ -745,7 +745,6 @@ user-profile.8x8.com
 *.jit.si
 *.wavecell.com
 cloud8.8x8.com
-*.packet8.net
 sso.8x8.com
 voapi.8x8.com
 *.8x8.vc
@@ -782,9 +781,9 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
-*.magicjackpot.ro
 *.napoleongames.be
 *.superbet.ro
+*.magicjackpot.ro
 *.superbet.pl
 *.superbet.ro
 *.superbet.rs
@@ -1040,8 +1039,8 @@ www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
 ws.sorare.com
-sorare.com
 api.sorare.com
+sorare.com
 sorare.com
 api.sorare.com
 ws.sorare.com
@@ -1494,8 +1493,8 @@ ads.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 *.reddit.com
-*.reddithelp.com
 www.reddit.com
+*.reddithelp.com
 *.snooguts.net
 *.snooguts.net
 *.redditmedia.com
@@ -1745,7 +1744,6 @@ developers.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-www.pangleglobal.com
 live-backstage.tiktok.com
 business.tiktok.com
 partner.tiktokshop.com
@@ -1754,6 +1752,7 @@ ads.tiktok.com
 shop.tiktok.com
 tiktok.com
 *.tiktok.com
+www.pangleglobal.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2779,9 +2778,9 @@ decision.swiftfinancial.com
 *.braintreepayments.com
 *.paylution.com
 *.braintreegateway.com
-paypalobjects.com
 *.paypalcorp.com
 *.xoom.com
+paypalobjects.com
 paypal.me
 py.pl
 *.paypal.com
@@ -3000,8 +2999,8 @@ synthetics.newrelic.com
 *.nr-data.net
 synthetics.eu.newrelic.com
 *.nr-ops.net
-login.newrelic.com
 *.eu.newrelic.com
+one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
