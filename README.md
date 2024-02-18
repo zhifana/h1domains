@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 18 07:19:26 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 18 07:41:04 UTC 2024)
 ```
 toolsforhumanity.com
 *.toolsforhumanity.com
-*.worldcoin.dev
-*.worldcoin-distributors.com
 getworldcoin.com
 *.consumer.worldcoin.org
-bioid-management.app
 worldcoin.org
 *.worldcoin.org
+*.worldcoin-distributors.com
+bioid-management.app
+*.worldcoin.dev
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -182,8 +182,8 @@ cars.booking.com
 widget.rentalcars.com
 careers.booking.com
 admin.booking.com
-*.rentalcars.com
 account.booking.com
+*.rentalcars.com
 booking.com
 *.booking.com
 secure.booking.com
@@ -395,9 +395,9 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
+www.tink.com
 www.cybersource.com
 www.visainfinite.ca
-www.tink.com
 visa.com.au
 www.cardinalcommerce.com
 visa.co.cr
@@ -480,8 +480,8 @@ id.kolesa.kz
 api.kolesa.kz
 api.krisha.kz
 m.avtoelon.uz
-m.krisha.kz
 m.kolesa.kz
+m.krisha.kz
 krisha.kz
 avtoelon.uz
 kolesa.kz
@@ -782,9 +782,9 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
-*.magicjackpot.ro
 *.napoleongames.be
 *.superbet.ro
+*.magicjackpot.ro
 *.superbet.pl
 *.superbet.ro
 *.superbet.rs
@@ -848,7 +848,6 @@ www.expediapartnersolutions.com
 www.lastminute.co.nz
 www.lastminute.com.au
 www.wotif.com
-www.expediacruises.com
 www.expediaagents.com
 www.fewo-direkt.de
 www.flights.com
@@ -864,6 +863,7 @@ www.orbitz.com
 www.bookabach.co.nz
 www.hotwire.com
 www.vrbo.com
+www.expediacruises.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -1040,8 +1040,8 @@ www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
 ws.sorare.com
-api.sorare.com
 sorare.com
+api.sorare.com
 sorare.com
 api.sorare.com
 ws.sorare.com
@@ -1448,8 +1448,8 @@ js.stripe.com
 *.reckoproduction.com
 *.recko.io
 *.link.co
-*.stripe.com
 api.stripe.com
+*.stripe.com
 app.taxjar.com
 api.taxjar.com
 api.stripe.com
@@ -1494,8 +1494,8 @@ ads.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 *.reddit.com
-www.reddit.com
 *.reddithelp.com
+www.reddit.com
 *.snooguts.net
 *.snooguts.net
 *.redditmedia.com
@@ -1703,10 +1703,10 @@ secure.sharefile.com
 api.sharefile.eu
 secure.sharefile.eu
 api.sharefile.com
-*.citrixworkspacesapi.net
-citrix.cloud.com
 (youriwssubdomain).cloud.com
 www.cloud.com
+*.citrixworkspacesapi.net
+citrix.cloud.com
 (yoursubdomain).sharefile.com
 accounts.cloud.com
 citrix.cloud.com
@@ -1968,9 +1968,9 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
+*.api.playstation.com
 my.account.sony.com
 *.playstation.net
-*.api.playstation.com
 *.sonyentertainmentnetwork.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2503,7 +2503,6 @@ reservations.rezserver.com
 press.priceline.com
 admin.rezserver.com
 priceline.com
-www.bookingholdings.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3001,8 +3000,8 @@ synthetics.newrelic.com
 *.nr-data.net
 synthetics.eu.newrelic.com
 *.nr-ops.net
+login.newrelic.com
 *.eu.newrelic.com
-one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3149,8 +3148,8 @@ gifts.grab.com
 *.myteksi.net
 grab.careers
 kartaview.org
-*.taralite.com
 *.grab.com
+*.taralite.com
 *.ovo.id
 *.grabpay.com
 *.myteksi.com
@@ -3674,8 +3673,8 @@ next.airbnb.com
 *.withairbnb.com
 assets.airbnb.com
 api.airbnb.com
-www.airbnb.com
 *.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
