@@ -52,11 +52,11 @@ tari_labs,www.tari.com,True
 tari_labs,www.tarilabs.com,True
 tari_labs,tlu.tarilabs.com,False
 international_airlines_group,www.iairgroup.com,False
-international_airlines_group,*.iaggbs.com,False
 international_airlines_group,www.aerlingus.com,False
 international_airlines_group,www.iaggbs.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,*.iagcargo.com,False
+international_airlines_group,*.iairgroup.com,False
 international_airlines_group,www.aerlingus.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
@@ -188,7 +188,6 @@ mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.mx,True
 mercadolibre,api.mercadolibre.com,True
 mercadolibre,www.mercadopago.com.uy,True
-mercadolibre,www.mercadolibre.com.co,True
 mercadolibre,www.mercadopago.com.br,True
 mercadolibre,www.mercadolibre.com.mx,True
 mercadolibre,www.mercadopago.com.co,True
@@ -199,6 +198,7 @@ mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,www.mercadopago.cl,True
 mercadolibre,www.mercadolibre.com.pe,True
 mercadolibre,www.mercadolibre.com.ar,True
+mercadolibre,www.mercadolibre.com.co,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,www.mercadopago.com.br,True
@@ -1874,8 +1874,8 @@ daimler_truck,*omniplus.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*fleetboard.com,False
-daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
+daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
 daimler_truck,*fleetboard.de,False
 daimler_truck,*.daimlertruck.com,False
@@ -2849,8 +2849,8 @@ kolesagroup,id.kolesa.kz,True
 kolesagroup,api.kolesa.kz,True
 kolesagroup,api.krisha.kz,True
 kolesagroup,m.avtoelon.uz,True
-kolesagroup,m.krisha.kz,True
 kolesagroup,m.kolesa.kz,True
+kolesagroup,m.krisha.kz,True
 kolesagroup,krisha.kz,True
 kolesagroup,kolesa.kz,True
 kolesagroup,avtoelon.uz,True
@@ -2956,8 +2956,8 @@ shutterfly_vdp,staging.spoonflower.com,False
 shutterfly_vdp,*.snapfish.com,False
 shutterfly_vdp,*.sbs.shutterfly.com,False
 shutterfly_vdp,shutterfly.com,False
-shutterfly_vdp,www.spoonflower.com,False
 shutterfly_vdp,admin.spoonflower.com,False
+shutterfly_vdp,www.spoonflower.com,False
 shutterfly_vdp,photo.walgreens.com,False
 shutterfly_vdp,*.lifetouch.com,False
 shutterfly_vdp,jcpportraits.com,False
@@ -4901,10 +4901,10 @@ anywhererealestate,*.cbcworldwide.*,False
 anywhererealestate,*.era.com,False
 anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.corcoran.*,False
-anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,*.coldwellbanker.*,False
 anywhererealestate,*.anywhere.re,False
 anywhererealestate,*.century21.*,False
+anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,*.trgc.com,False
 anywhererealestate,*.realogy.*,False
 anywhererealestate,*.bhgre.*,False
@@ -4929,8 +4929,8 @@ databricks,community.databricks.com,True
 databricks,labs.databricks.com,True
 databricks,marketplace.databricks.com,True
 databricks,accounts.cloud.databricks.com,True
-databricks,support.databricks.com,True
 databricks,advocates.databricks.com,True
+databricks,support.databricks.com,True
 databricks,customer-academy.databricks.com,True
 databricks,docs.databricks.com,True
 databricks,databricks.com,True
@@ -6922,10 +6922,10 @@ citrix,secure.sharefile.com,True
 citrix,api.sharefile.eu,True
 citrix,secure.sharefile.eu,True
 citrix,api.sharefile.com,True
-citrix,(youriwssubdomain).cloud.com,True
-citrix,www.cloud.com,True
 citrix,*.citrixworkspacesapi.net,True
 citrix,citrix.cloud.com,True
+citrix,(youriwssubdomain).cloud.com,True
+citrix,www.cloud.com,True
 citrix,(yoursubdomain).sharefile.com,True
 citrix,accounts.cloud.com,True
 citrix,citrix.cloud.com,True
@@ -7656,9 +7656,9 @@ digitalocean,do.co,False
 digitalocean,developers.cloudways.com,False
 digitalocean,marketplace.digitalocean.com,False
 digitalocean,platform.cloudways.com,False
-digitalocean,169.254.169.254,False
 digitalocean,api.cloudways.com,False
 digitalocean,www.cloudways.com,False
+digitalocean,169.254.169.254,False
 digitalocean,api.digitalocean.com,False
 digitalocean,*.digitalocean.com,False
 digitalocean,cloud.digitalocean.com,False
@@ -8752,10 +8752,10 @@ priceline,api.rezserver.com,True
 priceline,secure.rezserver.com,True
 priceline,reservations.rezserver.com,True
 priceline,flyiin.com,True
-priceline,priceline.com,True
 priceline,admin.rezserver.com,True
 priceline,press.priceline.com,True
 priceline,cruises.priceline.com,True
+priceline,www.getaroom.com,True
 priceline,www.priceline.com,True
 priceline,secure.rezserver.com,True
 priceline,reservations.rezserver.com,True
@@ -9084,9 +9084,9 @@ paypal,*.venmo.com,True
 paypal,*.braintreepayments.com,True
 paypal,*.paylution.com,True
 paypal,*.braintreegateway.com,True
-paypal,paypalobjects.com,True
 paypal,*.paypalcorp.com,True
 paypal,*.xoom.com,True
+paypal,paypalobjects.com,True
 paypal,paypal.me,True
 paypal,py.pl,True
 paypal,*.paypal.com,True
@@ -10500,8 +10500,8 @@ security,b5s.hackerone-ext-content.com,True
 security,hackerone-user-content.com,True
 security,cover-photos.hackerone-user-content.com,True
 security,api.hackerone.com,True
-security,hackerone.com,True
 security,www.hackerone.com,True
+security,hackerone.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
