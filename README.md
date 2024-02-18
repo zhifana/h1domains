@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 18 17:42:04 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 18 18:18:50 UTC 2024)
 ```
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
@@ -394,14 +394,14 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
+www.tink.com
 www.cybersource.com
 www.visainfinite.ca
-www.tink.com
 www.cardinalcommerce.com
 visa.co.cr
 usa.visa.com
 cw.visa.com
-www.visa.co.in
+bb.visa.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -1967,9 +1967,9 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
-*.api.playstation.com
 my.account.sony.com
 *.playstation.net
+*.api.playstation.com
 *.sonyentertainmentnetwork.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2999,8 +2999,8 @@ synthetics.newrelic.com
 *.nr-data.net
 synthetics.eu.newrelic.com
 *.nr-ops.net
-login.newrelic.com
 *.eu.newrelic.com
+one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3672,8 +3672,8 @@ next.airbnb.com
 *.withairbnb.com
 assets.airbnb.com
 api.airbnb.com
-*.airbnb.com
 www.airbnb.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3901,14 +3901,14 @@ profile-photos.hackerone-user-content.com
 mta-sts.wearehackerone.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
-errors.hackerone.net
-ctf.hacker101.com
-app.pullrequest.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
 hackerone-ext-content.com
 hackerone.live
+errors.hackerone.net
+ctf.hacker101.com
+app.pullrequest.com
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 api.hackerone.com
