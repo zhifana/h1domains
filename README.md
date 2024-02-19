@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 19 08:22:09 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb 19 08:41:54 UTC 2024)
 ```
 *.toolsforhumanity.com
 *.worldcoin-distributors.com
@@ -77,8 +77,8 @@ account-sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
-demo.dynamic.xyz
 app.dynamic-preprod.xyz
+demo.dynamic.xyz
 app.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
@@ -88,11 +88,11 @@ www.niagahoster.co.id
 logo.zyro.com
 payments.hostinger.com
 hpanel.hostinger.com
-backend.zyro.com
 cpanel.hostinger.com
 www.zyro.com
 *.000webhost.com
 www.hostinger.com
+backend.zyro.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -394,14 +394,14 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
-www.tink.com
 www.cybersource.com
 www.visainfinite.ca
+www.tink.com
 www.cardinalcommerce.com
 visa.co.cr
 usa.visa.com
 cw.visa.com
-bb.visa.com
+www.visa.co.in
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -476,8 +476,6 @@ app.avtoelon.uz
 id.avtoelon.uz
 api.avtoelon.uz
 app.kolesa.kz
-api.kolesa.kz
-api.krisha.kz
 m.avtoelon.uz
 m.kolesa.kz
 m.krisha.kz
@@ -485,6 +483,8 @@ krisha.kz
 id.kolesa.kz
 kolesa.kz
 avtoelon.uz
+api.kolesa.kz
+api.krisha.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -1163,8 +1163,8 @@ partners.databricks.com
 community.databricks.com
 marketplace.databricks.com
 accounts.cloud.databricks.com
-support.databricks.com
 advocates.databricks.com
+support.databricks.com
 customer-academy.databricks.com
 docs.databricks.com
 databricks.com
@@ -1702,10 +1702,10 @@ secure.sharefile.com
 api.sharefile.eu
 secure.sharefile.eu
 api.sharefile.com
-*.citrixworkspacesapi.net
-citrix.cloud.com
 (youriwssubdomain).cloud.com
 www.cloud.com
+*.citrixworkspacesapi.net
+citrix.cloud.com
 (yoursubdomain).sharefile.com
 accounts.cloud.com
 citrix.cloud.com
@@ -2333,8 +2333,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.roblox.com
-*.guilded.gg
 *.rbx.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2777,9 +2777,9 @@ decision.swiftfinancial.com
 *.braintreepayments.com
 *.paylution.com
 *.braintreegateway.com
-paypalobjects.com
 *.paypalcorp.com
 *.xoom.com
+paypalobjects.com
 paypal.me
 py.pl
 *.venmo.com
@@ -3149,8 +3149,8 @@ kartaview.org
 *.taralite.com
 *.grabpay.com
 *.grab.com
-*.ovo.id
 jira.grab.com
+*.ovo.id
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3658,7 +3658,6 @@ support-api.airbnb.com
 omgpro.airbnb.com
 *.atairbnb.com
 one.airbnb.com
-*.airbnbcitizen.com
 *.byairbnb.com
 m.airbnb.com
 *.airbnb-aws.com
@@ -3674,6 +3673,7 @@ assets.airbnb.com
 *.airbnb.com
 www.airbnb.com
 api.airbnb.com
+*.airbnbcitizen.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
