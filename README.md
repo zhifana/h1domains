@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 19 03:42:56 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb 19 04:19:28 UTC 2024)
 ```
 *.toolsforhumanity.com
 *.worldcoin-distributors.com
@@ -394,14 +394,14 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
-www.tink.com
 www.cybersource.com
 www.visainfinite.ca
+www.tink.com
 www.cardinalcommerce.com
 visa.co.cr
 usa.visa.com
 cw.visa.com
-bb.visa.com
+www.visa.co.in
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -1106,8 +1106,8 @@ candle.etoro.com
 r.etoro.com
 delta.app
 bullsheet.me
-www.etoro.com
 etoropartners.com
+www.etoro.com
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -1164,8 +1164,8 @@ community.databricks.com
 labs.databricks.com
 marketplace.databricks.com
 accounts.cloud.databricks.com
-support.databricks.com
 advocates.databricks.com
+support.databricks.com
 customer-academy.databricks.com
 docs.databricks.com
 databricks.com
@@ -1744,8 +1744,8 @@ developers.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-live-backstage.tiktok.com
 business.tiktok.com
+live-backstage.tiktok.com
 partner.tiktokshop.com
 creatormarketplace.tiktok.com
 ads.tiktok.com
@@ -1817,8 +1817,8 @@ api.faraday.ai
 *.5nine.com
 *.acronis.work
 *.acronis.com
-beta-cloud.acronis.com
 account.acronis.com
+beta-cloud.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2500,8 +2500,8 @@ flyiin.com
 admin.rezserver.com
 press.priceline.com
 cruises.priceline.com
-priceline.com
 www.priceline.com
+secure.rezserver.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3901,14 +3901,14 @@ profile-photos.hackerone-user-content.com
 mta-sts.wearehackerone.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
+errors.hackerone.net
+ctf.hacker101.com
+app.pullrequest.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
 hackerone-ext-content.com
 hackerone.live
-errors.hackerone.net
-ctf.hacker101.com
-app.pullrequest.com
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 api.hackerone.com
