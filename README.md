@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 19 17:42:59 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb 19 18:22:56 UTC 2024)
 ```
 *.worldcoin-distributors.com
 getworldcoin.com
@@ -35,10 +35,10 @@ www.tarilabs.com
 verify.arkoselabs.com
 iframe.arkoselabs.com
 demo.arkoselabs.com
+www.arkoselabs.com
 customer-sessions.arkoselabs.com
 client-api.arkoselabs.com
 portal.arkoselabs.com
-www.arkoselabs.com
 cdn.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
@@ -53,9 +53,9 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.pornworld.com
-www.analvids.com
 www.ddfcontent.com
 www.pornbox.com
+www.analvids.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -67,18 +67,18 @@ http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
 *.sprint.apps.dynatracelabs.com
 university-staging.dynatracelabs.com
+sso-sprint.dynatracelabs.com
+myaccount-hardening.dynatracelabs.com
 *.sprint.dynatracelabs.com
 account-sprint.dynatracelabs.com
-myaccount-hardening.dynatracelabs.com
-sso-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
-demo.dynamic.xyz
 app.dynamic-preprod.xyz
+demo.dynamic.xyz
 app.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
@@ -394,14 +394,14 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
-usa.visa.com
-www.fraedom.com
-ht.visa.com
-aw.visa.com
-visa.co.cr
+www.tink.com
 www.cybersource.com
 www.visainfinite.ca
-www.tink.com
+cw.visa.com
+bb.visa.com
+www.authorize.net
+www.yellowpepper.com
+visa.com.au
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -463,9 +463,9 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
-yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -519,8 +519,8 @@ contile.services.mozilla.com
 location.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
-hg.mozilla.org
 bugzilla.mozilla.org
+hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 accounts.firefox.com
 addons.allizom.org
@@ -550,8 +550,8 @@ support.mozilla.org
 www.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 monitor.firefox.com
-hg.mozilla.org
 relay.firefox.com
+hg.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -566,8 +566,8 @@ community-tc.services.mozilla.com
 www.six-group.com
 www.six-group.com
 *.eu.floqast.app
-api-eu.floqast.app
 *.floqast.app
+api-eu.floqast.app
 *.eu.floqast.app
 *.floqast.app
 api-eu.floqast.app
@@ -713,11 +713,11 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 auth.skypicker.com
+jobs.kiwi.com
 tequila.kiwi.com
 www.kiwi.com
 *.kiwi.com
 *.skypicker.com
-jobs.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -782,9 +782,9 @@ admin.8x8.com
 *.superbet.rs
 *.superbet.com
 *.magicjackpot.ro
-*.napoleongames.be
 *.superbet.ro
 *.superbet.pl
+*.napoleongames.be
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1039,8 +1039,8 @@ www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
 ws.sorare.com
-api.sorare.com
 sorare.com
+api.sorare.com
 sorare.com
 api.sorare.com
 ws.sorare.com
@@ -1163,8 +1163,8 @@ partners.databricks.com
 community.databricks.com
 marketplace.databricks.com
 accounts.cloud.databricks.com
-support.databricks.com
 advocates.databricks.com
+support.databricks.com
 customer-academy.databricks.com
 docs.databricks.com
 databricks.com
@@ -1223,8 +1223,8 @@ woocommerce-adapter.judge.me
 bigcommerce-adapter.judge.me
 cache.judge.me
 api.evernote.com
-accounts.evernote.com
 www.evernote.com
+accounts.evernote.com
 www.evernote.com
 accounts.evernote.com
 api.evernote.com
@@ -1447,10 +1447,10 @@ js.stripe.com
 *.reckoproduction.com
 *.recko.io
 *.link.co
+*.stripe.com
 api.stripe.com
 app.taxjar.com
 api.taxjar.com
-*.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1493,9 +1493,9 @@ ads.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 *.reddit.com
-*.reddithelp.com
 www.reddit.com
 *.snooguts.net
+*.reddithelp.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1655,8 +1655,8 @@ netlify-rum.netlify.app
 *.services.netlify.com
 netlify-cdp-loader.netlify.app
 supportal.netlify.app
-api.netlify.com
 internal.netlify.com
+api.netlify.com
 app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
@@ -1673,9 +1673,9 @@ list-v2--netlify-plugins.netlify.app
 internal-docs.netlify.com
 supportal.netlify.app
 world.hey.com
+*.hey.com
 launchpad.37signals.com
 3.basecamp.com
-*.hey.com
 *.hey.com
 3.basecamp.com
 launchpad.37signals.com
@@ -1746,13 +1746,13 @@ careers.tiktok.com
 live-backstage.tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
-shop.tiktok.com
 *.tiktok.com
 www.pangleglobal.com
 *.tiktokv.com
 ads.tiktok.com
 tiktok.com
 partner.tiktokshop.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1807,8 +1807,8 @@ cs.money
 support.cs.money
 wiki.cs.money
 3d.cs.money
-app.faraday.ai
 api.faraday.ai
+app.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
@@ -1966,10 +1966,10 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
+*.api.playstation.com
 my.account.sony.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
-*.api.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2496,11 +2496,11 @@ app.command.cysiv.com
 api.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
-secure.rezserver.com
 priceline.com
 www.bookingholdings.com
 press.priceline.com
 admin.rezserver.com
+flyiin.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2941,8 +2941,8 @@ www.counter-strike.net
 store.steampowered.com
 www.teamfortress.com
 www.dota2.com
-api.steampowered.com
 steamcommunity.com
+api.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -2998,8 +2998,8 @@ synthetics.newrelic.com
 *.nr-data.net
 synthetics.eu.newrelic.com
 *.nr-ops.net
-login.newrelic.com
 *.eu.newrelic.com
+one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3145,11 +3145,11 @@ gifts.grab.com
 *.myteksi.net
 grab.careers
 kartaview.org
+*.grabpay.com
+jira.grab.com
 *.ovo.id
 *.taralite.com
 *.grab.com
-*.grabpay.com
-jira.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3451,9 +3451,9 @@ winecellar.zomato.com
 api.grofers.com
 api2.grofers.com
 blinkit.com
-*.algolia.net
 *.algolianet.com
 www.algolia.com
+*.algolia.net
 *.algolia.net
 *.algolianet.com
 www.algolia.com
@@ -3589,9 +3589,9 @@ playcanvas.com
 app.snapchat.com
 business.snapchat.com
 ads.snapchat.com
-www.bitmoji.com
 web.snapchat.com
 accounts.snapchat.com
+www.bitmoji.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3670,9 +3670,9 @@ next.airbnb.com
 *.withairbnb.com
 assets.airbnb.com
 api.airbnb.com
+*.airbnbcitizen.com
 *.airbnb.com
 www.airbnb.com
-*.airbnbcitizen.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3842,8 +3842,8 @@ institutional.coinbase.com
 api.coinbase.com
 api.custody.coinbase.com
 coinbase.com
-cloud.coinbase.com
 pro.coinbase.com
+cloud.coinbase.com
 *.coinbase.com
 *.coinbase.com
 *.cbhq.net
