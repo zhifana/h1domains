@@ -2,14 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 20 18:39:48 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 20 19:18:00 UTC 2024)
 ```
 *.worldcoin-distributors.com
-getworldcoin.com
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
 *.worldcoin.dev
 worldcoin.org
+getworldcoin.com
 toolsforhumanity.com
 *.worldcoin.org
 bioid-management.app
@@ -134,12 +134,12 @@ www.mercadopago.com.ar
 www.mercadolibre.com.co
 www.mercadolibre.com.pe
 www.mercadolibre.cl
-www.mercadolibre.com.ar
 www.mercadopago.com.br
 www.mercadopago.cl
 www.mercadolivre.com.br
 api.mercadolibre.com
 www.mercadopago.com.mx
+www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -402,9 +402,9 @@ cw.visa.com
 bb.visa.com
 visa.com.au
 www.visa.com.br
-usa.visa.com
 www.fraedom.com
 visa.co.cr
+ht.visa.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -523,8 +523,8 @@ firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 hg.mozilla.org
 bugzilla.mozilla.org
-mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
+mozilla-pontoon-staging.herokuapp.com
 accounts.firefox.com
 addons.allizom.org
 accounts.firefox.com
@@ -678,9 +678,9 @@ oneview.malwarebytes.com
 my.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
-*.cloud.malwarebytes.com
-www.malwarebytes.com
 *.threatdown.com
+www.malwarebytes.com
+*.cloud.malwarebytes.com
 *.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
@@ -1111,8 +1111,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-etoropartners.com
 bullsheet.me
+etoropartners.com
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1301,8 +1301,8 @@ capturingreality.com
 *.tstaging.tools
 *.tinderwebstaging.com
 *.tstaging.com
-*.gotinder.com
 *.tinder.com
+*.gotinder.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1757,8 +1757,8 @@ www.pangleglobal.com
 shop.tiktok.com
 partner.tiktokshop.com
 business.tiktok.com
-ads.tiktok.com
 *.tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2213,13 +2213,13 @@ amazonpayinsurance.in
 *.tmall.com
 www.alibabagroup.com
 *.aliyun-inc.com
-*.aliyun.com
 *.alibabacloud.com
 *.alibaba-inc.com
 *.1688.com
 *.alibaba.com
 *.taobao.com
 *.Daraz.com
+*.aliyun.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2504,7 +2504,7 @@ www.bookingholdings.com
 api.rezserver.com
 flyiin.com
 admin.rezserver.com
-press.priceline.com
+cruises.priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2775,7 +2775,6 @@ partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
-*.hyperwallet.com
 *.braintree-api.com
 *.braintreepayments.com
 *.paylution.com
@@ -2787,6 +2786,7 @@ paypal.me
 py.pl
 *.venmo.com
 *.paypal.com
+*.hyperwallet.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3152,8 +3152,8 @@ kartaview.org
 jira.grab.com
 *.ovo.id
 *.grabpay.com
-*.taralite.com
 *.grab.com
+*.taralite.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3395,8 +3395,8 @@ education.github.com
 npmjs.com
 *.githubapp.com
 npmjs.org
-api.github.com
 classroom.github.com
+api.github.com
 github.com
 github.com
 api.github.com
@@ -3444,8 +3444,8 @@ api.grofers.com
 *.zomans.com
 *.hyperpure.com
 *.runnr.in
-*.zomato.com
 blinkit.com
+*.zomato.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3547,10 +3547,10 @@ linkpop.com
 shop.app
 accounts.shopify.com
 partners.shopify.com
-shopify.plus
 *.shopify.com
-admin.shopify.com
 your-store.myshopify.com
+shopify.plus
+admin.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
