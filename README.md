@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 20 06:22:54 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 20 06:42:12 UTC 2024)
 ```
 *.worldcoin-distributors.com
 bioid-management.app
@@ -91,8 +91,8 @@ cpanel.hostinger.com
 www.zyro.com
 backend.zyro.com
 *.000webhost.com
-www.hostinger.com
 hpanel.hostinger.com
+www.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -520,10 +520,10 @@ location.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 hg.mozilla.org
-accounts.firefox.com
 phabricator.allizom.org
 mozilla-pontoon-staging.herokuapp.com
 bugzilla.mozilla.org
+accounts.firefox.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -1168,8 +1168,8 @@ support.databricks.com
 advocates.databricks.com
 customer-academy.databricks.com
 docs.databricks.com
-databricks.com
 labs.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -3146,11 +3146,11 @@ gifts.grab.com
 *.myteksi.net
 grab.careers
 kartaview.org
-*.grabpay.com
 jira.grab.com
 *.ovo.id
 *.taralite.com
 *.grab.com
+*.grabpay.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3393,8 +3393,8 @@ npmjs.com
 *.githubapp.com
 npmjs.org
 github.com
-classroom.github.com
 api.github.com
+classroom.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3441,8 +3441,8 @@ api.grofers.com
 *.zomans.com
 *.hyperpure.com
 *.runnr.in
-blinkit.com
 *.zomato.com
+blinkit.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
