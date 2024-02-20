@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 20 12:52:33 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 20 13:21:26 UTC 2024)
 ```
 *.worldcoin-distributors.com
 getworldcoin.com
@@ -53,9 +53,9 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.pornworld.com
-www.ddfcontent.com
 www.analvids.com
 www.pornbox.com
+www.ddfcontent.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -182,8 +182,8 @@ widget.rentalcars.com
 careers.booking.com
 secure.booking.com
 admin.booking.com
-*.booking.com
 account.booking.com
+*.booking.com
 *.rentalcars.com
 booking.com
 distribution-xml.booking.com
@@ -524,8 +524,8 @@ firefox.settings.services.mozilla.com
 hg.mozilla.org
 bugzilla.mozilla.org
 accounts.firefox.com
-mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
+mozilla-pontoon-staging.herokuapp.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -1112,8 +1112,8 @@ candle.etoro.com
 r.etoro.com
 delta.app
 www.etoro.com
-etoropartners.com
 bullsheet.me
+etoropartners.com
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -1172,9 +1172,9 @@ accounts.cloud.databricks.com
 support.databricks.com
 docs.databricks.com
 labs.databricks.com
+customer-academy.databricks.com
 databricks.com
 advocates.databricks.com
-customer-academy.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1974,8 +1974,8 @@ store.playstation.com
 my.playstation.com
 my.account.sony.com
 *.playstation.net
-*.sonyentertainmentnetwork.com
 *.api.playstation.com
+*.sonyentertainmentnetwork.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2338,8 +2338,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3544,14 +3544,14 @@ arrive-server.shopifycloud.com
 linkpop.com
 *.shopifykloud.com
 *.shopifycs.com
-shopify.plus
 *.shopifycloud.com
 shop.app
 accounts.shopify.com
 your-store.myshopify.com
 partners.shopify.com
-admin.shopify.com
+shopify.plus
 *.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3916,9 +3916,9 @@ app.pullrequest.com
 api.hackerone.com
 www.hackerone.com
 hackerone-ext-content.com
-hackerone.com
 errors.hackerone.net
 ctf.hacker101.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
