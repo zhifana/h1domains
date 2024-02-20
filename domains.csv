@@ -1,13 +1,13 @@
 handle,domain,eligible_for_bounty
 toolsforhumanity,*.worldcoin-distributors.com,True
-toolsforhumanity,toolsforhumanity.com,True
 toolsforhumanity,*.toolsforhumanity.com,True
 toolsforhumanity,*.consumer.worldcoin.org,True
 toolsforhumanity,bioid-management.app,True
-toolsforhumanity,getworldcoin.com,True
-toolsforhumanity,worldcoin.org,True
-toolsforhumanity,*.worldcoin.org,True
 toolsforhumanity,*.worldcoin.dev,True
+toolsforhumanity,getworldcoin.com,True
+toolsforhumanity,*.worldcoin.org,True
+toolsforhumanity,worldcoin.org,True
+toolsforhumanity,toolsforhumanity.com,True
 toolsforhumanity,*.worldcoin.org,True
 toolsforhumanity,*.consumer.worldcoin.org,True
 toolsforhumanity,*.worldcoin-distributors.com,True
@@ -1898,8 +1898,8 @@ fifth_third_bank_vdp,onlinebanking.53.com,False
 fifth_third_bank_vdp,zta.nube.53.com,False
 fifth_third_bank_vdp,ztc.nube.53.com,False
 fifth_third_bank_vdp,locations.53.com,False
-fifth_third_bank_vdp,www.53.com,False
 fifth_third_bank_vdp,*53.com,False
+fifth_third_bank_vdp,www.53.com,False
 fifth_third_bank_vdp,*53.com,False
 fifth_third_bank_vdp,express.53.com,False
 fifth_third_bank_vdp,https://ablreporter.53.com/,False

@@ -1,12 +1,12 @@
 *.worldcoin-distributors.com
-toolsforhumanity.com
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
 bioid-management.app
-getworldcoin.com
-worldcoin.org
-*.worldcoin.org
 *.worldcoin.dev
+getworldcoin.com
+*.worldcoin.org
+worldcoin.org
+toolsforhumanity.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -1897,8 +1897,8 @@ onlinebanking.53.com
 zta.nube.53.com
 ztc.nube.53.com
 locations.53.com
-www.53.com
 *53.com
+www.53.com
 *53.com
 express.53.com
 https://ablreporter.53.com/
