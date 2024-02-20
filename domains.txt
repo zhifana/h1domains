@@ -241,10 +241,10 @@ widget.rentalcars.com
 careers.booking.com
 secure.booking.com
 admin.booking.com
-booking.com
 account.booking.com
 *.booking.com
 *.rentalcars.com
+booking.com
 spark.fareharbor.com
 *.booking.com
 *.rentalcars.com
@@ -322,8 +322,8 @@ payments.msbpay.navient.com
 www.navirefi.com
 apply2.navirefi.com
 wsmb2bresv.navient.com
-portal.au.frontegg.com
 api.au.frontegg.com
+portal.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 *.trammellcrow.com
@@ -1241,8 +1241,8 @@ pentesting3.gethypr.com
 pentesting2.gethypr.com
 hypr74352.gethypr.com
 hypr37448.gethypr.com
-cdn.moderntreasury.com
 app.moderntreasury.com
+cdn.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
 test.nicehash.com
@@ -3417,9 +3417,9 @@ admin.8x8.com
 *.superbet.rs
 *.superbet.com
 *.magicjackpot.ro
-*.superbet.ro
 *.superbet.pl
 *.napoleongames.be
+*.superbet.ro
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -3695,8 +3695,8 @@ www.divvyhomes.com
 *.avalara.io
 *.inposia.com
 *.davosalestax.com
-*.crowdreason.com
 *.avalara.com
+*.crowdreason.com
 *.avalara.com
 *.avalara.net
 *.avalara.io
@@ -4772,8 +4772,8 @@ pwapi.ex2b.com
 api.excalls.mobi
 pay.ibex.exchange
 my.exness.com
-exness.com
 social-trading.exness.com
+exness.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -4932,10 +4932,10 @@ marketplace.databricks.com
 accounts.cloud.databricks.com
 support.databricks.com
 advocates.databricks.com
-customer-academy.databricks.com
 docs.databricks.com
-labs.databricks.com
 databricks.com
+labs.databricks.com
+customer-academy.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -7789,8 +7789,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -9536,9 +9536,9 @@ grab.careers
 kartaview.org
 jira.grab.com
 *.ovo.id
-*.grab.com
 *.grabpay.com
 *.taralite.com
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -9884,8 +9884,8 @@ api.grofers.com
 *.zomans.com
 *.hyperpure.com
 *.runnr.in
-blinkit.com
 *.zomato.com
+blinkit.com
 *.zomato.com
 *.zdev.net
 *.zomans.com

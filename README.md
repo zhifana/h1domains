@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 20 09:43:28 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 20 10:21:02 UTC 2024)
 ```
 *.worldcoin-distributors.com
 getworldcoin.com
@@ -183,10 +183,10 @@ widget.rentalcars.com
 careers.booking.com
 secure.booking.com
 admin.booking.com
-booking.com
 account.booking.com
 *.booking.com
 *.rentalcars.com
+booking.com
 spark.fareharbor.com
 *.booking.com
 *.rentalcars.com
@@ -223,8 +223,8 @@ http://secure-iphone-xml.booking.com/json/
 spark.fareharbor.com
 *.bybit.com
 *.bybit.com
-portal.au.frontegg.com
 api.au.frontegg.com
+portal.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 api2.frontapp.com
@@ -255,8 +255,8 @@ pentesting3.gethypr.com
 pentesting2.gethypr.com
 hypr74352.gethypr.com
 hypr37448.gethypr.com
-cdn.moderntreasury.com
 app.moderntreasury.com
+cdn.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
 test.nicehash.com
@@ -785,9 +785,9 @@ admin.8x8.com
 *.superbet.rs
 *.superbet.com
 *.magicjackpot.ro
-*.superbet.ro
 *.superbet.pl
 *.napoleongames.be
+*.superbet.ro
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1058,8 +1058,8 @@ pwapi.ex2b.com
 api.excalls.mobi
 pay.ibex.exchange
 my.exness.com
-exness.com
 social-trading.exness.com
+exness.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1168,10 +1168,10 @@ marketplace.databricks.com
 accounts.cloud.databricks.com
 support.databricks.com
 advocates.databricks.com
-customer-academy.databricks.com
 docs.databricks.com
-labs.databricks.com
 databricks.com
+labs.databricks.com
+customer-academy.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -2335,8 +2335,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3150,9 +3150,9 @@ grab.careers
 kartaview.org
 jira.grab.com
 *.ovo.id
-*.grab.com
 *.grabpay.com
 *.taralite.com
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3443,8 +3443,8 @@ api.grofers.com
 *.zomans.com
 *.hyperpure.com
 *.runnr.in
-blinkit.com
 *.zomato.com
+blinkit.com
 *.zomato.com
 *.zdev.net
 *.zomans.com

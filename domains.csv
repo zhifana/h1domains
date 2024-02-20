@@ -242,10 +242,10 @@ bookingcom,widget.rentalcars.com,True
 bookingcom,careers.booking.com,True
 bookingcom,secure.booking.com,True
 bookingcom,admin.booking.com,True
-bookingcom,booking.com,True
 bookingcom,account.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
+bookingcom,booking.com,True
 bookingcom,spark.fareharbor.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
@@ -323,8 +323,8 @@ navient_solutions,payments.msbpay.navient.com,False
 navient_solutions,www.navirefi.com,False
 navient_solutions,apply2.navirefi.com,False
 navient_solutions,wsmb2bresv.navient.com,False
-frontegg,portal.au.frontegg.com,True
 frontegg,api.au.frontegg.com,True
+frontegg,portal.au.frontegg.com,True
 frontegg,api.au.frontegg.com,True
 frontegg,portal.au.frontegg.com,True
 cbre,*.trammellcrow.com,False
@@ -1242,8 +1242,8 @@ hypr-corp,pentesting3.gethypr.com,True
 hypr-corp,pentesting2.gethypr.com,True
 hypr-corp,hypr74352.gethypr.com,True
 hypr-corp,hypr37448.gethypr.com,True
-modern_treasury,cdn.moderntreasury.com,True
 modern_treasury,app.moderntreasury.com,True
+modern_treasury,cdn.moderntreasury.com,True
 modern_treasury,app.moderntreasury.com,True
 modern_treasury,cdn.moderntreasury.com,True
 nicehash,test.nicehash.com,True
@@ -3418,9 +3418,9 @@ superbet,*.luckydays.com,True
 superbet,*.superbet.rs,True
 superbet,*.superbet.com,True
 superbet,*.magicjackpot.ro,True
-superbet,*.superbet.ro,True
 superbet,*.superbet.pl,True
 superbet,*.napoleongames.be,True
+superbet,*.superbet.ro,True
 superbet,*.superbet.ro,True
 superbet,*.superbet.rs,True
 superbet,*.superbet.com,True
@@ -3696,8 +3696,8 @@ avalara,*.ttrus.com,False
 avalara,*.avalara.io,False
 avalara,*.inposia.com,False
 avalara,*.davosalestax.com,False
-avalara,*.crowdreason.com,False
 avalara,*.avalara.com,False
+avalara,*.crowdreason.com,False
 avalara,*.avalara.com,False
 avalara,*.avalara.net,False
 avalara,*.avalara.io,False
@@ -4773,8 +4773,8 @@ exness,pwapi.ex2b.com,True
 exness,api.excalls.mobi,True
 exness,pay.ibex.exchange,True
 exness,my.exness.com,True
-exness,exness.com,True
 exness,social-trading.exness.com,True
+exness,exness.com,True
 exness,my.exness.com,True
 exness,pay.ibex.exchange,True
 exness,https://my.exness.com/webtrading/,True
@@ -4933,10 +4933,10 @@ databricks,marketplace.databricks.com,True
 databricks,accounts.cloud.databricks.com,True
 databricks,support.databricks.com,True
 databricks,advocates.databricks.com,True
-databricks,customer-academy.databricks.com,True
 databricks,docs.databricks.com,True
-databricks,labs.databricks.com,True
 databricks,databricks.com,True
+databricks,labs.databricks.com,True
+databricks,customer-academy.databricks.com,True
 databricks,databricks.com,True
 databricks,academy.databricks.com,True
 databricks,accounts.cloud.databricks.com,True
@@ -7790,8 +7790,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.ra.roblox.com,True
 roblox,*.rbx.com,True
-roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
+roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -9537,9 +9537,9 @@ grab,grab.careers,True
 grab,kartaview.org,True
 grab,jira.grab.com,True
 grab,*.ovo.id,True
-grab,*.grab.com,True
 grab,*.grabpay.com,True
 grab,*.taralite.com,True
+grab,*.grab.com,True
 grab,*.myteksi.com,True
 grab,*.myteksi.net,True
 grab,*.grab.com,True
@@ -9885,8 +9885,8 @@ zomato,api.grofers.com,True
 zomato,*.zomans.com,True
 zomato,*.hyperpure.com,True
 zomato,*.runnr.in,True
-zomato,blinkit.com,True
 zomato,*.zomato.com,True
+zomato,blinkit.com,True
 zomato,*.zomato.com,True
 zomato,*.zdev.net,True
 zomato,*.zomans.com,True
