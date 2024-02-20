@@ -1,4 +1,8 @@
 handle,domain,eligible_for_bounty
+interco_vdp,*.inter.co,False
+interco_vdp,*.bancointer.com.br,False
+interco_vdp,*.inter.co,False
+interco_vdp,*.bancointer.com.br,False
 toolsforhumanity,*.worldcoin-distributors.com,True
 toolsforhumanity,getworldcoin.com,True
 toolsforhumanity,*.toolsforhumanity.com,True
@@ -6,8 +10,8 @@ toolsforhumanity,*.worldcoin.dev,True
 toolsforhumanity,worldcoin.org,True
 toolsforhumanity,*.consumer.worldcoin.org,True
 toolsforhumanity,toolsforhumanity.com,True
-toolsforhumanity,bioid-management.app,True
 toolsforhumanity,*.worldcoin.org,True
+toolsforhumanity,bioid-management.app,True
 toolsforhumanity,*.worldcoin.org,True
 toolsforhumanity,*.consumer.worldcoin.org,True
 toolsforhumanity,*.worldcoin-distributors.com,True
@@ -56,7 +60,7 @@ international_airlines_group,www.avios.com,False
 international_airlines_group,*.iairgroup.com,False
 international_airlines_group,*.iaggbs.com,False
 international_airlines_group,*.iagcargo.com,False
-international_airlines_group,*.aerlingus.com,False
+international_airlines_group,www.iairgroup.com,False
 international_airlines_group,www.aerlingus.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
@@ -196,8 +200,8 @@ mercadolibre,www.mercadolibre.cl,True
 mercadolibre,www.mercadopago.com.br,True
 mercadolibre,www.mercadopago.cl,True
 mercadolibre,www.mercadolivre.com.br,True
-mercadolibre,www.mercadopago.com.mx,True
 mercadolibre,api.mercadolibre.com,True
+mercadolibre,www.mercadopago.com.mx,True
 mercadolibre,www.mercadolibre.com.ar,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.ar,True
@@ -2897,8 +2901,8 @@ mozilla_critical_services,firefox-ci-tc.services.mozilla.com,True
 mozilla_critical_services,firefox.settings.services.mozilla.com,True
 mozilla_critical_services,hg.mozilla.org,True
 mozilla_critical_services,bugzilla.mozilla.org,True
-mozilla_critical_services,phabricator.allizom.org,True
 mozilla_critical_services,mozilla-pontoon-staging.herokuapp.com,True
+mozilla_critical_services,phabricator.allizom.org,True
 mozilla_critical_services,accounts.firefox.com,True
 mozilla_critical_services,addons.allizom.org,True
 mozilla_critical_services,accounts.firefox.com,True
@@ -3202,8 +3206,8 @@ malwarebytes,blog.malwarebytes.com,False
 malwarebytes,my.malwarebytes.com,True
 malwarebytes,*.cyrus-security.com,True
 malwarebytes,cloud.malwarebytes.com,True
-malwarebytes,*.cloud.malwarebytes.com,True
 malwarebytes,*.threatdown.com,True
+malwarebytes,*.cloud.malwarebytes.com,True
 malwarebytes,*.malwarebytes.com,True
 malwarebytes,www.malwarebytes.com,True
 malwarebytes,*.mwbsys.com,True
@@ -4636,7 +4640,6 @@ fidelity,*.mystreetscape.com,False
 fidelity,*.wealthscape.com,False
 fidelity,*.fidelity.com,False
 planetart,www.personalcreations.com,False
-planetart,www.mycustomcase.com,False
 planetart,*.gifts.com,False
 planetart,*.mycustomcase.com,False
 planetart,*.simplytoimpress.com,False
@@ -4652,6 +4655,7 @@ planetart,www.simplytoimpress.com,False
 planetart,*.cafepress.com,False
 planetart,*.personalcreations.com,False
 planetart,www.photoaffections.com,False
+planetart,www.mycustomcase.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -4910,8 +4914,8 @@ anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,*.coldwellbanker.*,False
 anywhererealestate,*.trgc.com,False
 anywhererealestate,*.realogy.*,False
-anywhererealestate,*.century21.*,False
 anywhererealestate,*.anywhere.re,False
+anywhererealestate,*.century21.*,False
 anywhererealestate,*.realogy.*,False
 anywhererealestate,*.bhgre.*,False
 anywhererealestate,*.century21.*,False
@@ -5218,8 +5222,8 @@ tinder,*.tinderops.net,True
 tinder,*.tstaging.tools,True
 tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.com,True
-tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
+tinder,*.tinder.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -6119,8 +6123,8 @@ drugs_com,newsletters.drugs.com,False
 drugs_com,blog.drugs.com,False
 drugs_com,www.woolshed.com,False
 drugs_com,www.medicine.com,False
-drugs_com,www.drugs.com,False
 drugs_com,www.question.com,False
+drugs_com,www.drugs.com,False
 drugs_com,www.drugs.com,False
 drugs_com,newsletters.drugs.com,False
 drugs_com,www.medicine.com,False
@@ -9151,8 +9155,8 @@ mariadb,mariadb.org,False
 mariadb,mariadb.org,False
 airtable,*.staging-airtableblocks.com,True
 airtable,*.staging.airtable.com,True
-airtable,staging.airtable.com,True
 airtable,api-staging.airtable.com,True
+airtable,staging.airtable.com,True
 airtable,*.staging-airtableblocks.com,True
 airtable,*.staging.airtable.com,True
 airtable,staging.airtable.com,True
@@ -9994,8 +9998,8 @@ shopify,*.shopifycloud.com,True
 shopify,shop.app,True
 shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
-shopify,shopify.plus,True
 shopify,your-store.myshopify.com,True
+shopify,shopify.plus,True
 shopify,admin.shopify.com,True
 shopify,partners.shopify.com,True
 shopify,*.shopifycs.com,True
@@ -10501,10 +10505,10 @@ security,cover-photos.hackerone-user-content.com,True
 security,hackerone-user-content.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
+security,app.pullrequest.com,True
 security,hackerone-ext-content.com,True
 security,errors.hackerone.net,True
 security,ctf.hacker101.com,True
-security,app.pullrequest.com,True
 security,hackerone.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
