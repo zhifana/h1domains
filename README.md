@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 20 11:19:26 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 20 11:43:48 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.toolsforhumanity.com
@@ -10,9 +10,9 @@ hackerone "in-scope" domains
 *.worldcoin.dev
 worldcoin.org
 getworldcoin.com
-bioid-management.app
 *.worldcoin.org
 toolsforhumanity.com
+bioid-management.app
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -255,8 +255,8 @@ pentesting3.gethypr.com
 pentesting2.gethypr.com
 hypr74352.gethypr.com
 hypr37448.gethypr.com
-app.moderntreasury.com
 cdn.moderntreasury.com
+app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
 test.nicehash.com
@@ -1171,8 +1171,8 @@ support.databricks.com
 advocates.databricks.com
 docs.databricks.com
 labs.databricks.com
-customer-academy.databricks.com
 databricks.com
+customer-academy.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1678,8 +1678,8 @@ internal-docs.netlify.com
 supportal.netlify.app
 world.hey.com
 launchpad.37signals.com
-*.hey.com
 3.basecamp.com
+*.hey.com
 *.hey.com
 3.basecamp.com
 launchpad.37signals.com
@@ -2306,9 +2306,9 @@ cpp.marriott.com
 gatewaydsaptst1.marriott.com
 hotel-deals.marriott.com
 mgs.marriott.com
-www.marriott.com
 all-inclusive.marriott.com
 jobs.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -3676,8 +3676,8 @@ next.airbnb.com
 assets.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
-*.airbnb.com
 www.airbnb.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
