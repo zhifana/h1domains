@@ -1,10 +1,10 @@
 handle,domain,eligible_for_bounty
 toolsforhumanity,*.worldcoin-distributors.com,True
+toolsforhumanity,getworldcoin.com,True
 toolsforhumanity,*.toolsforhumanity.com,True
 toolsforhumanity,*.consumer.worldcoin.org,True
 toolsforhumanity,*.worldcoin.dev,True
 toolsforhumanity,worldcoin.org,True
-toolsforhumanity,getworldcoin.com,True
 toolsforhumanity,toolsforhumanity.com,True
 toolsforhumanity,bioid-management.app,True
 toolsforhumanity,*.worldcoin.org,True
@@ -98,8 +98,8 @@ sheer_bbp,www.sheer.com,True
 sheer_bbp,www.sheer.com,True
 sheer_bbp,my.sheer.com,True
 pornbox,www.analvids.com,True
-pornbox,www.pornbox.com,True
 pornbox,www.ddfcontent.com,True
+pornbox,www.pornbox.com,True
 pornbox,www.pornworld.com,True
 pornbox,www.pornbox.com,True
 pornbox,www.analvids.com,True
@@ -123,8 +123,8 @@ dynatrace,sso-sprint.dynatracelabs.com,True
 dynatrace,university-staging.dynatracelabs.com,True
 dynatrace,myaccount-hardening.dynatracelabs.com,True
 dynamic_labs,demo.dynamic.xyz,True
-dynamic_labs,app.dynamic.xyz,True
 dynamic_labs,app.dynamic-preprod.xyz,True
+dynamic_labs,app.dynamic.xyz,True
 dynamic_labs,app.dynamic-preprod.xyz,True
 dynamic_labs,demo.dynamic.xyz,True
 dynamic_labs,app.dynamic.xyz,True
@@ -197,8 +197,8 @@ mercadolibre,www.mercadolibre.com.ar,True
 mercadolibre,www.mercadopago.com.br,True
 mercadolibre,www.mercadopago.cl,True
 mercadolibre,www.mercadolivre.com.br,True
-mercadolibre,www.mercadopago.com.mx,True
 mercadolibre,api.mercadolibre.com,True
+mercadolibre,www.mercadopago.com.mx,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,www.mercadopago.com.br,True
@@ -1877,9 +1877,9 @@ daimler_truck,*omniplus.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*.bharatbenz.com,False
 daimler_truck,*fleetboard.com,False
-daimler_truck,*.freightliner.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*fleetboard.de,False
+daimler_truck,*.freightliner.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*exceleratorparts.com,False
@@ -2855,8 +2855,8 @@ kolesagroup,app.krisha.kz,True
 kolesagroup,m.krisha.kz,True
 kolesagroup,kolesa.kz,True
 kolesagroup,api.avtoelon.uz,True
-kolesagroup,m.kolesa.kz,True
 kolesagroup,avtoelon.uz,True
+kolesagroup,m.kolesa.kz,True
 kolesagroup,kolesa.kz,True
 kolesagroup,m.kolesa.kz,True
 kolesagroup,krisha.kz,True
@@ -3203,8 +3203,8 @@ malwarebytes,my.malwarebytes.com,True
 malwarebytes,*.malwarebytes.com,True
 malwarebytes,*.cyrus-security.com,True
 malwarebytes,cloud.malwarebytes.com,True
-malwarebytes,www.malwarebytes.com,True
 malwarebytes,*.threatdown.com,True
+malwarebytes,www.malwarebytes.com,True
 malwarebytes,*.cloud.malwarebytes.com,True
 malwarebytes,*.mwbsys.com,True
 malwarebytes,*.mb-cosmos.com,True
@@ -4840,8 +4840,8 @@ etoro_bbp,rankings.etoro.com,True
 etoro_bbp,candle.etoro.com,True
 etoro_bbp,r.etoro.com,True
 etoro_bbp,delta.app,True
-etoro_bbp,etoropartners.com,True
 etoro_bbp,bullsheet.me,True
+etoro_bbp,etoropartners.com,True
 etoro_bbp,www.etoro.com,True
 etoro_bbp,www.etoro.com,True
 etoro_bbp,etoropartners.com,True
@@ -5401,7 +5401,6 @@ john-deere,developer.deere.com,False
 john-deere,kreiselelectric.com,False
 john-deere,sparkai.co,False
 john-deere,www.hagie.com,False
-john-deere,parts.deere.africa,False
 john-deere,deere.africa,False
 john-deere,sandbox.spark.ai,False
 john-deere,www.allpartsstore.com,False
@@ -5427,6 +5426,7 @@ john-deere,gitlab.prod.bearflagrobotics.com,False
 john-deere,hb-backend-public.dev.bearflagrobotics.com,False
 john-deere,formant.dev.bearflagrobotics.com,False
 john-deere,gitlab.bearflagrobotics.com,False
+john-deere,dev-app.agrisync.com,False
 john-deere,partsadvisor.deere.com,False
 john-deere,jdisonline.com,False
 john-deere,myjohndeere.deere.com,False
@@ -6978,9 +6978,9 @@ tiktok,*.tiktokv.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,shop.tiktok.com,True
 tiktok,*.tiktok.com,True
+tiktok,business.tiktok.com,True
 tiktok,partner.tiktokshop.com,True
 tiktok,ads.tiktok.com,True
-tiktok,business.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -9542,8 +9542,8 @@ grab,kartaview.org,True
 grab,jira.grab.com,True
 grab,*.ovo.id,True
 grab,*.grabpay.com,True
-grab,*.taralite.com,True
 grab,*.grab.com,True
+grab,*.taralite.com,True
 grab,*.myteksi.com,True
 grab,*.myteksi.net,True
 grab,*.grab.com,True
@@ -10433,9 +10433,9 @@ coinbase,institutional.coinbase.com,True
 coinbase,*.base.org,True
 coinbase,api.coinbase.com,True
 coinbase,api.custody.coinbase.com,True
-coinbase,coinbase.com,True
 coinbase,pro.coinbase.com,True
 coinbase,cloud.coinbase.com,True
+coinbase,coinbase.com,True
 coinbase,*.coinbase.com,True
 coinbase,*.coinbase.com,True
 coinbase,*.cbhq.net,True
