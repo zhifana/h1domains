@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 20 03:42:58 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 20 04:20:51 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.toolsforhumanity.com
@@ -10,9 +10,9 @@ hackerone "in-scope" domains
 bioid-management.app
 *.worldcoin.dev
 getworldcoin.com
-*.worldcoin.org
 worldcoin.org
 toolsforhumanity.com
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -112,8 +112,8 @@ auth.23andme.com
 mediacenter.23andme.com
 blog.23andme.com
 therapeutics.23andme.com
-you.23andme.com
 medical.23andme.com
+you.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -1801,9 +1801,9 @@ www.figma.com
 www.figma.com
 api.figma.com
 3d.cs.money
-wiki.cs.money
 support.cs.money
 cs.money
+wiki.cs.money
 cs.money
 support.cs.money
 wiki.cs.money
