@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 20 00:58:26 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 20 01:48:14 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -10,9 +10,9 @@ worldcoin.org
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
 bioid-management.app
+getworldcoin.com
 *.worldcoin.org
 *.worldcoin.dev
-getworldcoin.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -662,8 +662,8 @@ skinport.com
 app.skinport.com
 api.skinport.com
 http://skinport.com/blog/
-api.miro.com
 miro.com
+api.miro.com
 http://miro.com/app
 miro.com
 api.miro.com

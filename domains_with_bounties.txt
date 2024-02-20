@@ -4,9 +4,9 @@ worldcoin.org
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
 bioid-management.app
+getworldcoin.com
 *.worldcoin.org
 *.worldcoin.dev
-getworldcoin.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -656,8 +656,8 @@ skinport.com
 app.skinport.com
 api.skinport.com
 http://skinport.com/blog/
-api.miro.com
 miro.com
+api.miro.com
 http://miro.com/app
 miro.com
 api.miro.com
