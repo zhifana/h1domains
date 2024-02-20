@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 20 02:22:58 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 20 02:41:32 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -2297,7 +2297,6 @@ passwordchallenge.marriott.com
 www.ritzcarlton.com
 *uat.marriott.com
 activities.marriott.com
-jobs.marriott.com
 reservations.all-inclusive.marriott.com
 marrtool.com
 cpp.marriott.com
@@ -2306,6 +2305,7 @@ hotel-deals.marriott.com
 mgs.marriott.com
 www.marriott.com
 all-inclusive.marriott.com
+jobs.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2940,10 +2940,10 @@ playartifact.com
 www.valvesoftware.com
 www.counter-strike.net
 store.steampowered.com
-www.teamfortress.com
 www.dota2.com
 steamcommunity.com
 api.steampowered.com
+www.teamfortress.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
