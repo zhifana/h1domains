@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 20 06:42:12 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 20 07:18:11 UTC 2024)
 ```
 *.worldcoin-distributors.com
-bioid-management.app
-getworldcoin.com
-toolsforhumanity.com
 *.worldcoin.org
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
 *.worldcoin.dev
 worldcoin.org
+bioid-management.app
+getworldcoin.com
+toolsforhumanity.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -185,8 +185,8 @@ secure.booking.com
 *.rentalcars.com
 admin.booking.com
 booking.com
-*.booking.com
 account.booking.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -401,8 +401,8 @@ bb.visa.com
 www.yellowpepper.com
 visa.com.au
 www.visa.com.br
-aw.visa.com
 usa.visa.com
+www.fraedom.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -1168,8 +1168,8 @@ support.databricks.com
 advocates.databricks.com
 customer-academy.databricks.com
 docs.databricks.com
-labs.databricks.com
 databricks.com
+labs.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
