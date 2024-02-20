@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 20 09:19:43 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 20 09:43:28 UTC 2024)
 ```
 *.worldcoin-distributors.com
 getworldcoin.com
 toolsforhumanity.com
-*.worldcoin.org
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
 *.worldcoin.dev
 worldcoin.org
 bioid-management.app
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -25,8 +25,8 @@ worldcoin.org
 rfc.tari.com
 explore.tari.com
 textexplore.tari.com
-www.tarilabs.com
 www.tari.com
+www.tarilabs.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -182,11 +182,12 @@ cars.booking.com
 widget.rentalcars.com
 careers.booking.com
 secure.booking.com
-*.rentalcars.com
 admin.booking.com
 booking.com
 account.booking.com
 *.booking.com
+*.rentalcars.com
+spark.fareharbor.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -219,6 +220,7 @@ portal.taxi.booking.com
 flights.booking.com
 secure-supply-xml.booking.com
 http://secure-iphone-xml.booking.com/json/
+spark.fareharbor.com
 *.bybit.com
 *.bybit.com
 portal.au.frontegg.com
@@ -477,7 +479,6 @@ id.avtoelon.uz
 app.kolesa.kz
 m.avtoelon.uz
 m.kolesa.kz
-avtoelon.uz
 id.kolesa.kz
 krisha.kz
 api.kolesa.kz
@@ -486,6 +487,7 @@ api.krisha.kz
 app.krisha.kz
 m.krisha.kz
 kolesa.kz
+avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -616,13 +618,13 @@ argocd.indrive.dev
 ci.indrive.dev
 volans.tech
 injob.indriver.com
-cargo.indrive.com
 super-services.indriverapp.com
 auth2.indrive.tech
 *.indriverapp.com
 watchdocs.indriverapp.com
 *.indriver.com
 *.indrive.com
+cargo.indrive.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1168,8 +1170,8 @@ support.databricks.com
 advocates.databricks.com
 customer-academy.databricks.com
 docs.databricks.com
-databricks.com
 labs.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -2209,12 +2211,12 @@ amazonpayinsurance.in
 www.alibabagroup.com
 *.aliyun-inc.com
 *.aliyun.com
-*.Daraz.com
 *.alibabacloud.com
 *.alibaba-inc.com
 *.1688.com
 *.alibaba.com
 *.taobao.com
+*.Daraz.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2333,8 +2335,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2495,13 +2497,13 @@ de.forescout.cloud
 cysiv.com
 app.command.cysiv.com
 reservations.rezserver.com
-www.getaroom.com
 www.bookingholdings.com
 api.rezserver.com
 flyiin.com
 www.priceline.com
 priceline.com
 admin.rezserver.com
+cruises.priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2942,8 +2944,8 @@ www.counter-strike.net
 store.steampowered.com
 www.dota2.com
 api.steampowered.com
-steamcommunity.com
 www.teamfortress.com
+steamcommunity.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3148,9 +3150,9 @@ grab.careers
 kartaview.org
 jira.grab.com
 *.ovo.id
-*.taralite.com
 *.grab.com
 *.grabpay.com
+*.taralite.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3441,8 +3443,8 @@ api.grofers.com
 *.zomans.com
 *.hyperpure.com
 *.runnr.in
-*.zomato.com
 blinkit.com
+*.zomato.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
