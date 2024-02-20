@@ -4,9 +4,9 @@ worldcoin.org
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
 bioid-management.app
+*.worldcoin.dev
 getworldcoin.com
 *.worldcoin.org
-*.worldcoin.dev
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -6111,8 +6111,8 @@ newsletters.drugs.com
 blog.drugs.com
 www.woolshed.com
 www.medicine.com
-www.question.com
 www.drugs.com
+www.question.com
 www.drugs.com
 newsletters.drugs.com
 www.medicine.com

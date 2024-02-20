@@ -5,9 +5,9 @@ toolsforhumanity,worldcoin.org,True
 toolsforhumanity,*.toolsforhumanity.com,True
 toolsforhumanity,*.consumer.worldcoin.org,True
 toolsforhumanity,bioid-management.app,True
+toolsforhumanity,*.worldcoin.dev,True
 toolsforhumanity,getworldcoin.com,True
 toolsforhumanity,*.worldcoin.org,True
-toolsforhumanity,*.worldcoin.dev,True
 toolsforhumanity,*.worldcoin.org,True
 toolsforhumanity,*.consumer.worldcoin.org,True
 toolsforhumanity,*.worldcoin-distributors.com,True
@@ -6112,8 +6112,8 @@ drugs_com,newsletters.drugs.com,False
 drugs_com,blog.drugs.com,False
 drugs_com,www.woolshed.com,False
 drugs_com,www.medicine.com,False
-drugs_com,www.question.com,False
 drugs_com,www.drugs.com,False
+drugs_com,www.question.com,False
 drugs_com,www.drugs.com,False
 drugs_com,newsletters.drugs.com,False
 drugs_com,www.medicine.com,False
