@@ -2,15 +2,15 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 20 10:21:02 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 20 10:42:04 UTC 2024)
 ```
 *.worldcoin-distributors.com
-getworldcoin.com
-toolsforhumanity.com
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
 *.worldcoin.dev
 worldcoin.org
+getworldcoin.com
+toolsforhumanity.com
 bioid-management.app
 *.worldcoin.org
 *.worldcoin.org
@@ -255,8 +255,8 @@ pentesting3.gethypr.com
 pentesting2.gethypr.com
 hypr74352.gethypr.com
 hypr37448.gethypr.com
-app.moderntreasury.com
 cdn.moderntreasury.com
+app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
 test.nicehash.com
@@ -287,9 +287,9 @@ oauth-sandbox.gocardless.com
 manage-sandbox.gocardless.com
 api-sandbox.gocardless.com
 *.gocardless-lab.io
-www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
+www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -524,8 +524,8 @@ firefox.settings.services.mozilla.com
 hg.mozilla.org
 bugzilla.mozilla.org
 accounts.firefox.com
-phabricator.allizom.org
 mozilla-pontoon-staging.herokuapp.com
+phabricator.allizom.org
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -750,6 +750,7 @@ user-profile.8x8.com
 cloud8.8x8.com
 sso.8x8.com
 voapi.8x8.com
+*.jitsi.net
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -785,9 +786,9 @@ admin.8x8.com
 *.superbet.rs
 *.superbet.com
 *.magicjackpot.ro
-*.superbet.pl
 *.napoleongames.be
 *.superbet.ro
+*.superbet.pl
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -3395,8 +3396,8 @@ npmjs.com
 *.githubapp.com
 npmjs.org
 github.com
-classroom.github.com
 api.github.com
+classroom.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3443,8 +3444,8 @@ api.grofers.com
 *.zomans.com
 *.hyperpure.com
 *.runnr.in
-*.zomato.com
 blinkit.com
+*.zomato.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3548,8 +3549,8 @@ shop.app
 accounts.shopify.com
 your-store.myshopify.com
 partners.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
