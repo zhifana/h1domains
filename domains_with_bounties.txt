@@ -1,12 +1,12 @@
 *.worldcoin-distributors.com
 *.toolsforhumanity.com
-*.consumer.worldcoin.org
 bioid-management.app
-*.worldcoin.dev
 getworldcoin.com
-worldcoin.org
 toolsforhumanity.com
 *.worldcoin.org
+*.consumer.worldcoin.org
+*.worldcoin.dev
+worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com

@@ -1,13 +1,13 @@
 handle,domain,eligible_for_bounty
 toolsforhumanity,*.worldcoin-distributors.com,True
 toolsforhumanity,*.toolsforhumanity.com,True
-toolsforhumanity,*.consumer.worldcoin.org,True
 toolsforhumanity,bioid-management.app,True
-toolsforhumanity,*.worldcoin.dev,True
 toolsforhumanity,getworldcoin.com,True
-toolsforhumanity,worldcoin.org,True
 toolsforhumanity,toolsforhumanity.com,True
 toolsforhumanity,*.worldcoin.org,True
+toolsforhumanity,*.consumer.worldcoin.org,True
+toolsforhumanity,*.worldcoin.dev,True
+toolsforhumanity,worldcoin.org,True
 toolsforhumanity,*.worldcoin.org,True
 toolsforhumanity,*.consumer.worldcoin.org,True
 toolsforhumanity,*.worldcoin-distributors.com,True
@@ -1516,7 +1516,6 @@ alshaya,victoriassecret.ro/,False
 wisdomtree,api.wisdomtreeprimeapp.com,True
 wisdomtree,api.wisdomtreeprimeapp.com,True
 kahootz-vdp,http://vdp.kahootz.com,False
-abn_amro_vdp,*.abnamro.com,False
 abn_amro_vdp,*abnamroprivatebanking.be,False
 abn_amro_vdp,*.abnamrocomfin.com,False
 abn_amro_vdp,*.abnamroinvestmentsolutions.com,False
@@ -1529,6 +1528,7 @@ abn_amro_vdp,*.abnamro.nl,False
 abn_amro_vdp,*.abnamro.org,False
 abn_amro_vdp,*.tikkie.me,False
 abn_amro_vdp,*neuflizeobc.fr,False
+abn_amro_vdp,*.abnamro.com,False
 abn_amro_vdp,*.abnamro.com,False
 abn_amro_vdp,*.abnamro.nl,False
 abn_amro_vdp,*.tikkie.me,False

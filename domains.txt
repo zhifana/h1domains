@@ -1,12 +1,12 @@
 *.worldcoin-distributors.com
 *.toolsforhumanity.com
-*.consumer.worldcoin.org
 bioid-management.app
-*.worldcoin.dev
 getworldcoin.com
-worldcoin.org
 toolsforhumanity.com
 *.worldcoin.org
+*.consumer.worldcoin.org
+*.worldcoin.dev
+worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -1515,7 +1515,6 @@ victoriassecret.ro/
 api.wisdomtreeprimeapp.com
 api.wisdomtreeprimeapp.com
 http://vdp.kahootz.com
-*.abnamro.com
 *abnamroprivatebanking.be
 *.abnamrocomfin.com
 *.abnamroinvestmentsolutions.com
@@ -1528,6 +1527,7 @@ http://vdp.kahootz.com
 *.abnamro.org
 *.tikkie.me
 *neuflizeobc.fr
+*.abnamro.com
 *.abnamro.com
 *.abnamro.nl
 *.tikkie.me
