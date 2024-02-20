@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 20 07:42:11 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 20 08:22:48 UTC 2024)
 ```
 *.worldcoin-distributors.com
 getworldcoin.com
@@ -185,8 +185,8 @@ secure.booking.com
 *.rentalcars.com
 admin.booking.com
 booking.com
-account.booking.com
 *.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -522,8 +522,8 @@ firefox.settings.services.mozilla.com
 hg.mozilla.org
 bugzilla.mozilla.org
 accounts.firefox.com
-phabricator.allizom.org
 mozilla-pontoon-staging.herokuapp.com
+phabricator.allizom.org
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -2500,8 +2500,8 @@ www.getaroom.com
 www.bookingholdings.com
 api.rezserver.com
 flyiin.com
+press.priceline.com
 www.priceline.com
-priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2941,8 +2941,8 @@ www.valvesoftware.com
 www.counter-strike.net
 store.steampowered.com
 www.dota2.com
-steamcommunity.com
 api.steampowered.com
+steamcommunity.com
 www.teamfortress.com
 www.dota2.com
 support.steampowered.com
@@ -3441,8 +3441,8 @@ api.grofers.com
 *.zomans.com
 *.hyperpure.com
 *.runnr.in
-*.zomato.com
 blinkit.com
+*.zomato.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3908,13 +3908,13 @@ hackerone.live
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 hackerone-user-content.com
-hackerone-ext-content.com
 errors.hackerone.net
 ctf.hacker101.com
 app.pullrequest.com
 api.hackerone.com
 www.hackerone.com
 hackerone.com
+hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com

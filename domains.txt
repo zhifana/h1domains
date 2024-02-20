@@ -23,10 +23,10 @@ your-domain.steprep.com
 your-domain.socialsmbs.com
 customervoice.biz
 your-domain.snapshotreport.biz
-partners.vendasta.com
 *.vendasta-internal.com
 *.apigateway.co
 *.yesware.com
+partners.vendasta.com
 *.apigateway.co
 *.vendasta-internal.com
 *.yesware.com
@@ -243,8 +243,8 @@ secure.booking.com
 *.rentalcars.com
 admin.booking.com
 booking.com
-account.booking.com
 *.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -1619,9 +1619,9 @@ veco.com.ph
 *.visayanelectric.com
 aboitizpower.info
 *.davaolight.com
-*.oilbu.com
 snaboitizpower.com
 *.aboitizpower.com
+*.oilbu.com
 *.aboitizpower.com
 *.snaboitiz.com
 *.enerzone.com.ph
@@ -1877,8 +1877,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 *fleetboard.com
 *.mercedes-benz-trucks.com
 *.freightliner.com
-*.daimlertruck.com
 *fleetboard.de
+*.daimlertruck.com
 *exceleratorparts.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
@@ -2895,8 +2895,8 @@ firefox.settings.services.mozilla.com
 hg.mozilla.org
 bugzilla.mozilla.org
 accounts.firefox.com
-phabricator.allizom.org
 mozilla-pontoon-staging.herokuapp.com
+phabricator.allizom.org
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -6111,8 +6111,8 @@ newsletters.drugs.com
 blog.drugs.com
 www.woolshed.com
 www.medicine.com
-www.question.com
 www.drugs.com
+www.question.com
 www.drugs.com
 newsletters.drugs.com
 www.medicine.com
@@ -8752,8 +8752,8 @@ www.getaroom.com
 www.bookingholdings.com
 api.rezserver.com
 flyiin.com
+press.priceline.com
 www.priceline.com
-priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -9255,8 +9255,8 @@ www.valvesoftware.com
 www.counter-strike.net
 store.steampowered.com
 www.dota2.com
-steamcommunity.com
 api.steampowered.com
+steamcommunity.com
 www.teamfortress.com
 www.dota2.com
 support.steampowered.com
@@ -9882,8 +9882,8 @@ api.grofers.com
 *.zomans.com
 *.hyperpure.com
 *.runnr.in
-*.zomato.com
 blinkit.com
+*.zomato.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -10492,13 +10492,13 @@ hackerone.live
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 hackerone-user-content.com
-hackerone-ext-content.com
 errors.hackerone.net
 ctf.hacker101.com
 app.pullrequest.com
 api.hackerone.com
 www.hackerone.com
 hackerone.com
+hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
