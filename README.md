@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 20 08:44:01 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 20 09:19:43 UTC 2024)
 ```
 *.worldcoin-distributors.com
 getworldcoin.com
@@ -54,8 +54,8 @@ www.sheer.com
 my.sheer.com
 www.pornworld.com
 www.ddfcontent.com
-www.analvids.com
 www.pornbox.com
+www.analvids.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -90,9 +90,9 @@ payments.hostinger.com
 cpanel.hostinger.com
 www.zyro.com
 backend.zyro.com
-*.000webhost.com
 hpanel.hostinger.com
 www.hostinger.com
+*.000webhost.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -522,8 +522,8 @@ firefox.settings.services.mozilla.com
 hg.mozilla.org
 bugzilla.mozilla.org
 accounts.firefox.com
-mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
+mozilla-pontoon-staging.herokuapp.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -927,9 +927,9 @@ askpam.ai
 pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
-test.deribit.com
 insights.deribit.com
 *.deribit.com
+test.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1168,8 +1168,8 @@ support.databricks.com
 advocates.databricks.com
 customer-academy.databricks.com
 docs.databricks.com
-labs.databricks.com
 databricks.com
+labs.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1428,11 +1428,11 @@ main.trafficfactory.biz
 *.elasticnet.co
 *.eops.nl
 www.elastic.co
-cloud.elastic.co
 *.swiftype.com
 *.elstc.co
 *.found.io
 *.elastic.co
+cloud.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -2495,13 +2495,13 @@ de.forescout.cloud
 cysiv.com
 app.command.cysiv.com
 reservations.rezserver.com
-secure.rezserver.com
 www.getaroom.com
 www.bookingholdings.com
 api.rezserver.com
 flyiin.com
 www.priceline.com
 priceline.com
+admin.rezserver.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2942,8 +2942,8 @@ www.counter-strike.net
 store.steampowered.com
 www.dota2.com
 api.steampowered.com
-www.teamfortress.com
 steamcommunity.com
+www.teamfortress.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3441,8 +3441,8 @@ api.grofers.com
 *.zomans.com
 *.hyperpure.com
 *.runnr.in
-blinkit.com
 *.zomato.com
+blinkit.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3545,9 +3545,9 @@ shopify.plus
 shop.app
 accounts.shopify.com
 your-store.myshopify.com
-admin.shopify.com
 partners.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
