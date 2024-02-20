@@ -1,9 +1,9 @@
 *.worldcoin-distributors.com
+getworldcoin.com
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
 *.worldcoin.dev
 worldcoin.org
-getworldcoin.com
 toolsforhumanity.com
 bioid-management.app
 *.worldcoin.org
@@ -53,9 +53,9 @@ tlu.tarilabs.com
 www.iaggbs.com
 www.avios.com
 *.iairgroup.com
-www.aerlingus.com
 *.iaggbs.com
 *.iagcargo.com
+*.aerlingus.com
 www.aerlingus.com
 www.avios.com
 www.iairgroup.com
@@ -142,9 +142,9 @@ payments.hostinger.com
 cpanel.hostinger.com
 www.zyro.com
 backend.zyro.com
-hpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
+hpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -240,8 +240,8 @@ widget.rentalcars.com
 careers.booking.com
 secure.booking.com
 admin.booking.com
-account.booking.com
 *.booking.com
+account.booking.com
 *.rentalcars.com
 booking.com
 distribution-xml.booking.com
@@ -1241,8 +1241,8 @@ pentesting3.gethypr.com
 pentesting2.gethypr.com
 hypr74352.gethypr.com
 hypr37448.gethypr.com
-cdn.moderntreasury.com
 app.moderntreasury.com
+cdn.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
 test.nicehash.com
@@ -2835,8 +2835,8 @@ biologyfinder.com
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshservice.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -3421,8 +3421,8 @@ admin.8x8.com
 *.superbet.com
 *.magicjackpot.ro
 *.napoleongames.be
-*.superbet.pl
 *.superbet.ro
+*.superbet.pl
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -3698,8 +3698,8 @@ www.divvyhomes.com
 *.avalara.io
 *.inposia.com
 *.davosalestax.com
-*.crowdreason.com
 *.avalara.com
+*.crowdreason.com
 *.avalara.com
 *.avalara.net
 *.avalara.io
@@ -4840,8 +4840,8 @@ candle.etoro.com
 r.etoro.com
 delta.app
 www.etoro.com
-bullsheet.me
 etoropartners.com
+bullsheet.me
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -4936,9 +4936,9 @@ accounts.cloud.databricks.com
 support.databricks.com
 docs.databricks.com
 labs.databricks.com
-customer-academy.databricks.com
 databricks.com
 advocates.databricks.com
+customer-academy.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -6116,8 +6116,8 @@ newsletters.drugs.com
 blog.drugs.com
 www.woolshed.com
 www.medicine.com
-www.drugs.com
 www.question.com
+www.drugs.com
 www.drugs.com
 newsletters.drugs.com
 www.medicine.com
@@ -8756,10 +8756,9 @@ reservations.rezserver.com
 www.bookingholdings.com
 api.rezserver.com
 flyiin.com
-press.priceline.com
-www.priceline.com
 priceline.com
 admin.rezserver.com
+press.priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -9888,8 +9887,8 @@ api.grofers.com
 *.zomans.com
 *.hyperpure.com
 *.runnr.in
-*.zomato.com
 blinkit.com
+*.zomato.com
 *.zomato.com
 *.zdev.net
 *.zomans.com

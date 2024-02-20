@@ -2,14 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 20 12:27:46 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 20 12:52:33 UTC 2024)
 ```
 *.worldcoin-distributors.com
+getworldcoin.com
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
 *.worldcoin.dev
 worldcoin.org
-getworldcoin.com
 toolsforhumanity.com
 bioid-management.app
 *.worldcoin.org
@@ -90,9 +90,9 @@ payments.hostinger.com
 cpanel.hostinger.com
 www.zyro.com
 backend.zyro.com
-hpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
+hpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -182,8 +182,8 @@ widget.rentalcars.com
 careers.booking.com
 secure.booking.com
 admin.booking.com
-account.booking.com
 *.booking.com
+account.booking.com
 *.rentalcars.com
 booking.com
 distribution-xml.booking.com
@@ -255,8 +255,8 @@ pentesting3.gethypr.com
 pentesting2.gethypr.com
 hypr74352.gethypr.com
 hypr37448.gethypr.com
-cdn.moderntreasury.com
 app.moderntreasury.com
+cdn.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
 test.nicehash.com
@@ -467,8 +467,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshservice.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -789,8 +789,8 @@ admin.8x8.com
 *.superbet.com
 *.magicjackpot.ro
 *.napoleongames.be
-*.superbet.pl
 *.superbet.ro
+*.superbet.pl
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1112,8 +1112,8 @@ candle.etoro.com
 r.etoro.com
 delta.app
 www.etoro.com
-bullsheet.me
 etoropartners.com
+bullsheet.me
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -1172,9 +1172,9 @@ accounts.cloud.databricks.com
 support.databricks.com
 docs.databricks.com
 labs.databricks.com
-customer-academy.databricks.com
 databricks.com
 advocates.databricks.com
+customer-academy.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -2503,10 +2503,9 @@ reservations.rezserver.com
 www.bookingholdings.com
 api.rezserver.com
 flyiin.com
-press.priceline.com
-www.priceline.com
 priceline.com
 admin.rezserver.com
+press.priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3446,8 +3445,8 @@ api.grofers.com
 *.zomans.com
 *.hyperpure.com
 *.runnr.in
-*.zomato.com
 blinkit.com
+*.zomato.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
