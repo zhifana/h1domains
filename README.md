@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 21 14:44:21 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 21 15:19:59 UTC 2024)
 ```
 *.worldcoin-distributors.com
 getworldcoin.com
@@ -134,11 +134,11 @@ www.mercadopago.com.ar
 www.mercadolibre.com.co
 www.mercadolibre.com.pe
 www.mercadolibre.cl
+www.mercadopago.com.mx
+www.mercadolibre.com.ar
 www.mercadopago.com.br
 www.mercadopago.cl
 www.mercadolivre.com.br
-www.mercadopago.com.mx
-www.mercadolibre.com.ar
 api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -183,11 +183,11 @@ careers.booking.com
 secure.booking.com
 admin.booking.com
 distribution-xml.booking.com
+spark.fareharbor.com
 *.rentalcars.com
 booking.com
-*.booking.com
-spark.fareharbor.com
 account.booking.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -288,8 +288,8 @@ manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 www.gocardless.com
-api-sandbox.gocardless.com
 *.gocardless-cicd.io
+api-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -678,9 +678,9 @@ oneview.malwarebytes.com
 my.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+www.malwarebytes.com
 *.threatdown.com
 *.cloud.malwarebytes.com
-www.malwarebytes.com
 *.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
@@ -1109,8 +1109,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-etoropartners.com
 bullsheet.me
+etoropartners.com
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1197,8 +1197,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-*.krisp.ai
 api.krisp.ai
+*.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -2927,12 +2927,12 @@ support.steampowered.com
 help.steampowered.com
 playartifact.com
 www.valvesoftware.com
-api.steampowered.com
 www.teamfortress.com
 steamcommunity.com
 www.dota2.com
 store.steampowered.com
 www.counter-strike.net
+api.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3380,10 +3380,10 @@ education.github.com
 npmjs.com
 npmjs.org
 *.githubusercontent.com
-github.com
 classroom.github.com
-api.github.com
+github.com
 *.githubapp.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3530,9 +3530,9 @@ arrive-server.shopifycloud.com
 *.shopifycs.com
 *.shopifycloud.com
 accounts.shopify.com
-partners.shopify.com
 shopify.plus
 admin.shopify.com
+partners.shopify.com
 linkpop.com
 shop.app
 *.shopify.com
@@ -3580,8 +3580,8 @@ accounts.snapchat.com
 login.playcanvas.com
 *.sc-core.net
 playcanvas.com
-scan.snapchat.com
 snappublisher.snapchat.com
+scan.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3833,8 +3833,8 @@ api.custody.coinbase.com
 pro.coinbase.com
 coinbase.com
 *.coinbase.com
-cloud.coinbase.com
 api.coinbase.com
+cloud.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -3859,8 +3859,8 @@ www.quip.com
 *.quip.com
 slack-imgs.com
 slack.com
-app.slack.com
 api.slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
