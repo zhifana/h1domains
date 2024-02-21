@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 21 19:44:04 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 21 20:23:56 UTC 2024)
 ```
 *.worldcoin-distributors.com
-getworldcoin.com
 *.toolsforhumanity.com
 *.worldcoin.dev
+getworldcoin.com
 toolsforhumanity.com
 bioid-management.app
-worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin.org
+worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -134,11 +134,11 @@ www.mercadopago.com.ar
 www.mercadolibre.com.co
 www.mercadolibre.com.pe
 www.mercadolibre.cl
+www.mercadopago.com.mx
+www.mercadolibre.com.ar
 www.mercadopago.com.br
 www.mercadopago.cl
 www.mercadolivre.com.br
-www.mercadopago.com.mx
-www.mercadolibre.com.ar
 api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -183,9 +183,9 @@ careers.booking.com
 secure.booking.com
 admin.booking.com
 distribution-xml.booking.com
-*.rentalcars.com
 spark.fareharbor.com
 booking.com
+*.rentalcars.com
 account.booking.com
 *.booking.com
 *.booking.com
@@ -484,9 +484,9 @@ m.krisha.kz
 m.kolesa.kz
 id.kolesa.kz
 api.kolesa.kz
-krisha.kz
 api.avtoelon.uz
 avtoelon.uz
+krisha.kz
 kolesa.kz
 kolesa.kz
 m.kolesa.kz
@@ -524,8 +524,8 @@ phabricator.allizom.org
 mozilla-pontoon-staging.herokuapp.com
 accounts.firefox.com
 firefox.settings.services.mozilla.com
-contile.services.mozilla.com
 addons.allizom.org
+contile.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -584,8 +584,8 @@ hiltonhotels.jp
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
-*.hilton.com
 hilton.com
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -1170,8 +1170,8 @@ docs.databricks.com
 labs.databricks.com
 customer-academy.databricks.com
 advocates.databricks.com
-databricks.com
 support.databricks.com
+databricks.com
 kb.databricks.com
 databricks.com
 academy.databricks.com
@@ -1749,11 +1749,11 @@ careers.tiktok.com
 live-backstage.tiktok.com
 creatormarketplace.tiktok.com
 www.pangleglobal.com
-business.tiktok.com
 partner.tiktokshop.com
+business.tiktok.com
 shop.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 tiktok.com
 ads.tiktok.com
 *.tiktok.com
@@ -1835,25 +1835,24 @@ hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
 www.trekpleister.nl
+www.superdrug.com
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-www10.watsons.com.sg
-www.watsons.com.sg
-api.watsons.com.sg
-www.watsons.com.hk
-www10.watsons.com.hk
-api.watsons.com.hk
-www10.watsons.co.id
-api.watsons.co.id
-www.watsons.co.id
-blog.watsons.com.tr
-app.watsons.com.tr
+www10.watsons.com.tw
+www.watsons.com.tw
+api.watsons.com.tw
+www10.watsons.com.ph
+api.watsons.com.ph
+www.watsons.com.ph
+www.watsons.co.th
+www20.watsons.co.th
+www10.watsons.co.th
+api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2212,7 +2211,6 @@ updates.amazon.com
 amazonpayinsurance.in
 *.alimama.com
 *.aliexpress.ru
-*.aliexpress.com
 *.tmall.com
 *.aliyun-inc.com
 *.alibabacloud.com
@@ -2223,6 +2221,7 @@ amazonpayinsurance.in
 *.Daraz.com
 *.1688.com
 www.alibabagroup.com
+*.aliexpress.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -3535,8 +3534,8 @@ arrive-server.shopifycloud.com
 *.shopifycs.com
 *.shopifycloud.com
 accounts.shopify.com
-partners.shopify.com
 shopify.plus
+partners.shopify.com
 linkpop.com
 your-store.myshopify.com
 shop.app
@@ -3905,9 +3904,9 @@ app.pullrequest.com
 ctf.hacker101.com
 cover-photos.hackerone-user-content.com
 www.hackerone.com
+hackerone-user-content.com
 api.hackerone.com
 hackerone.com
-hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
