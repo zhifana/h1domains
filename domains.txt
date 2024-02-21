@@ -1,5 +1,5 @@
-*.bancointer.com.br
 *.inter.co
+*.bancointer.com.br
 *.inter.co
 *.bancointer.com.br
 *.worldcoin-distributors.com
@@ -46,8 +46,8 @@ tlu.tarilabs.com
 rfc.tari.com
 explore.tari.com
 textexplore.tari.com
-www.tari.com
 www.tarilabs.com
+www.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -1882,8 +1882,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 *fleetboard.com
 *exceleratorparts.com
 *fleetboard.de
-*.daimlertruck.com
 *.freightliner.com
+*.daimlertruck.com
 *.mercedes-benz-trucks.com
 *exceleratorparts.com
 *.mercedes-benz-trucks.com
@@ -3129,8 +3129,8 @@ auth2.indrive.tech
 watchdocs.indriverapp.com
 *.indriver.com
 cargo.indrive.com
-*.indrive.com
 *.indriverapp.com
+*.indrive.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -4650,10 +4650,10 @@ www.gifts.com
 iseeme.com
 www.canvasworld.com
 ai.planetart.com
-*.personalcreations.com
 www.photoaffections.com
-*.cafepress.com
 www.mycustomcase.com
+*.personalcreations.com
+*.cafepress.com
 www.simplytoimpress.com
 *.cafepress.com
 *.canvasworld.com
@@ -4767,8 +4767,8 @@ sorare.com
 api.sorare.com
 ws.sorare.com
 *.sheingsp.com
-*.shein.com
 *.romwe.com
+*.shein.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
@@ -4937,9 +4937,9 @@ marketplace.databricks.com
 accounts.cloud.databricks.com
 docs.databricks.com
 labs.databricks.com
-databricks.com
 customer-academy.databricks.com
 advocates.databricks.com
+databricks.com
 support.databricks.com
 databricks.com
 academy.databricks.com
@@ -5378,8 +5378,8 @@ www.elastic.co
 *.swiftype.com
 *.elstc.co
 *.elastic.co
-cloud.elastic.co
 *.found.io
+cloud.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -6977,11 +6977,11 @@ live-backstage.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
 www.pangleglobal.com
-partner.tiktokshop.com
 business.tiktok.com
+partner.tiktokshop.com
 ads.tiktok.com
-shop.tiktok.com
 tiktok.com
+shop.tiktok.com
 *.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -9544,8 +9544,8 @@ kartaview.org
 jira.grab.com
 *.grabpay.com
 *.taralite.com
-*.ovo.id
 *.grab.com
+*.ovo.id
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -9993,9 +9993,9 @@ arrive-server.shopifycloud.com
 *.shopifycs.com
 *.shopifycloud.com
 accounts.shopify.com
+partners.shopify.com
 shopify.plus
 admin.shopify.com
-partners.shopify.com
 linkpop.com
 shop.app
 *.shopify.com
@@ -10042,8 +10042,8 @@ www.bitmoji.com
 web.snapchat.com
 accounts.snapchat.com
 login.playcanvas.com
-playcanvas.com
 scan.snapchat.com
+playcanvas.com
 *.sc-core.net
 accounts.snapchat.com
 app.snapchat.com

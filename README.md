@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 21 07:18:30 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 21 07:43:34 UTC 2024)
 ```
 *.worldcoin-distributors.com
 getworldcoin.com
@@ -25,8 +25,8 @@ worldcoin.org
 rfc.tari.com
 explore.tari.com
 textexplore.tari.com
-www.tari.com
 www.tarilabs.com
+www.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -623,8 +623,8 @@ auth2.indrive.tech
 watchdocs.indriverapp.com
 *.indriver.com
 cargo.indrive.com
-*.indrive.com
 *.indriverapp.com
+*.indrive.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1049,8 +1049,8 @@ sorare.com
 api.sorare.com
 ws.sorare.com
 *.sheingsp.com
-*.shein.com
 *.romwe.com
+*.shein.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
@@ -1169,9 +1169,9 @@ marketplace.databricks.com
 accounts.cloud.databricks.com
 docs.databricks.com
 labs.databricks.com
-databricks.com
 customer-academy.databricks.com
 advocates.databricks.com
+databricks.com
 support.databricks.com
 databricks.com
 academy.databricks.com
@@ -1434,8 +1434,8 @@ www.elastic.co
 *.swiftype.com
 *.elstc.co
 *.elastic.co
-cloud.elastic.co
 *.found.io
+cloud.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1751,11 +1751,11 @@ live-backstage.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
 www.pangleglobal.com
-partner.tiktokshop.com
 business.tiktok.com
+partner.tiktokshop.com
 ads.tiktok.com
-shop.tiktok.com
 tiktok.com
+shop.tiktok.com
 *.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -3151,8 +3151,8 @@ kartaview.org
 jira.grab.com
 *.grabpay.com
 *.taralite.com
-*.ovo.id
 *.grab.com
+*.ovo.id
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3543,9 +3543,9 @@ arrive-server.shopifycloud.com
 *.shopifycs.com
 *.shopifycloud.com
 accounts.shopify.com
+partners.shopify.com
 shopify.plus
 admin.shopify.com
-partners.shopify.com
 linkpop.com
 shop.app
 *.shopify.com
@@ -3592,8 +3592,8 @@ www.bitmoji.com
 web.snapchat.com
 accounts.snapchat.com
 login.playcanvas.com
-playcanvas.com
 scan.snapchat.com
+playcanvas.com
 *.sc-core.net
 accounts.snapchat.com
 app.snapchat.com

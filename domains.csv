@@ -1,6 +1,6 @@
 handle,domain,eligible_for_bounty
-interco_vdp,*.bancointer.com.br,False
 interco_vdp,*.inter.co,False
+interco_vdp,*.bancointer.com.br,False
 interco_vdp,*.inter.co,False
 interco_vdp,*.bancointer.com.br,False
 toolsforhumanity,*.worldcoin-distributors.com,True
@@ -47,8 +47,8 @@ tari_labs,tlu.tarilabs.com,False
 tari_labs,rfc.tari.com,True
 tari_labs,explore.tari.com,True
 tari_labs,textexplore.tari.com,True
-tari_labs,www.tari.com,True
 tari_labs,www.tarilabs.com,True
+tari_labs,www.tari.com,True
 tari_labs,explore.tari.com,True
 tari_labs,rfc.tari.com,True
 tari_labs,textexplore.tari.com,True
@@ -1883,8 +1883,8 @@ daimler_truck,*.bharatbenz.com,False
 daimler_truck,*fleetboard.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*fleetboard.de,False
-daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.freightliner.com,False
+daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
@@ -3130,8 +3130,8 @@ indrive,auth2.indrive.tech,True
 indrive,watchdocs.indriverapp.com,True
 indrive,*.indriver.com,True
 indrive,cargo.indrive.com,True
-indrive,*.indrive.com,True
 indrive,*.indriverapp.com,True
+indrive,*.indrive.com,True
 indrive,*.indriverapp.com,True
 indrive,*.indrive.com,True
 indrive,*.indriver.com,True
@@ -4651,10 +4651,10 @@ planetart,*.iseeme.com,False
 planetart,iseeme.com,False
 planetart,www.canvasworld.com,False
 planetart,ai.planetart.com,False
-planetart,*.personalcreations.com,False
 planetart,www.photoaffections.com,False
-planetart,*.cafepress.com,False
 planetart,www.mycustomcase.com,False
+planetart,*.personalcreations.com,False
+planetart,*.cafepress.com,False
 planetart,www.simplytoimpress.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
@@ -4768,8 +4768,8 @@ sorare,sorare.com,True
 sorare,api.sorare.com,True
 sorare,ws.sorare.com,True
 shein,*.sheingsp.com,True
-shein,*.shein.com,True
 shein,*.romwe.com,True
+shein,*.shein.com,True
 shein,*.shein.com,True
 shein,*.romwe.com,True
 shein,*.sheingsp.com,True
@@ -4938,9 +4938,9 @@ databricks,marketplace.databricks.com,True
 databricks,accounts.cloud.databricks.com,True
 databricks,docs.databricks.com,True
 databricks,labs.databricks.com,True
-databricks,databricks.com,True
 databricks,customer-academy.databricks.com,True
 databricks,advocates.databricks.com,True
+databricks,databricks.com,True
 databricks,support.databricks.com,True
 databricks,databricks.com,True
 databricks,academy.databricks.com,True
@@ -5379,8 +5379,8 @@ elastic,www.elastic.co,True
 elastic,*.swiftype.com,True
 elastic,*.elstc.co,True
 elastic,*.elastic.co,True
-elastic,cloud.elastic.co,True
 elastic,*.found.io,True
+elastic,cloud.elastic.co,True
 elastic,*.elastic.co,True
 elastic,*.found.io,True
 elastic,*.swiftype.com,True
@@ -6978,11 +6978,11 @@ tiktok,live-backstage.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,www.pangleglobal.com,True
-tiktok,partner.tiktokshop.com,True
 tiktok,business.tiktok.com,True
+tiktok,partner.tiktokshop.com,True
 tiktok,ads.tiktok.com,True
-tiktok,shop.tiktok.com,True
 tiktok,tiktok.com,True
+tiktok,shop.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
@@ -9545,8 +9545,8 @@ grab,kartaview.org,True
 grab,jira.grab.com,True
 grab,*.grabpay.com,True
 grab,*.taralite.com,True
-grab,*.ovo.id,True
 grab,*.grab.com,True
+grab,*.ovo.id,True
 grab,*.myteksi.com,True
 grab,*.myteksi.net,True
 grab,*.grab.com,True
@@ -9994,9 +9994,9 @@ shopify,*.shopifykloud.com,True
 shopify,*.shopifycs.com,True
 shopify,*.shopifycloud.com,True
 shopify,accounts.shopify.com,True
+shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,admin.shopify.com,True
-shopify,partners.shopify.com,True
 shopify,linkpop.com,True
 shopify,shop.app,True
 shopify,*.shopify.com,True
@@ -10043,8 +10043,8 @@ snapchat,www.bitmoji.com,True
 snapchat,web.snapchat.com,True
 snapchat,accounts.snapchat.com,True
 snapchat,login.playcanvas.com,True
-snapchat,playcanvas.com,True
 snapchat,scan.snapchat.com,True
+snapchat,playcanvas.com,True
 snapchat,*.sc-core.net,True
 snapchat,accounts.snapchat.com,True
 snapchat,app.snapchat.com,True
