@@ -2,14 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 21 08:22:38 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 21 08:41:43 UTC 2024)
 ```
 *.worldcoin-distributors.com
-getworldcoin.com
 *.toolsforhumanity.com
 *.worldcoin.dev
-*.consumer.worldcoin.org
+getworldcoin.com
 bioid-management.app
+*.consumer.worldcoin.org
 toolsforhumanity.com
 worldcoin.org
 *.worldcoin.org
@@ -25,8 +25,8 @@ worldcoin.org
 rfc.tari.com
 explore.tari.com
 textexplore.tari.com
-www.tarilabs.com
 www.tari.com
+www.tarilabs.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -90,8 +90,8 @@ payments.hostinger.com
 cpanel.hostinger.com
 www.zyro.com
 backend.zyro.com
-*.000webhost.com
 hpanel.hostinger.com
+*.000webhost.com
 www.hostinger.com
 *.000webhost.com
 www.hostinger.com
@@ -185,8 +185,8 @@ admin.booking.com
 account.booking.com
 booking.com
 distribution-xml.booking.com
-spark.fareharbor.com
 *.rentalcars.com
+spark.fareharbor.com
 *.booking.com
 *.booking.com
 *.rentalcars.com
@@ -484,10 +484,10 @@ app.krisha.kz
 m.krisha.kz
 avtoelon.uz
 m.kolesa.kz
+kolesa.kz
 api.avtoelon.uz
 id.kolesa.kz
 api.kolesa.kz
-kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -651,8 +651,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-*.grindr.com
 web.grindr.com
+*.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -678,9 +678,9 @@ oneview.malwarebytes.com
 my.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
-www.malwarebytes.com
 *.threatdown.com
 *.cloud.malwarebytes.com
+www.malwarebytes.com
 *.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
@@ -1008,8 +1008,8 @@ invoices.razorpay.com
 payroll.razorpay.com
 x.razorpay.com
 checkout.razorpay.com
-dashboard.razorpay.com
 api.razorpay.com
+dashboard.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -1049,8 +1049,8 @@ sorare.com
 api.sorare.com
 ws.sorare.com
 *.sheingsp.com
-*.shein.com
 *.romwe.com
+*.shein.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
@@ -1171,8 +1171,8 @@ docs.databricks.com
 labs.databricks.com
 customer-academy.databricks.com
 advocates.databricks.com
-databricks.com
 support.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1197,8 +1197,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-api.krisp.ai
 *.krisp.ai
+api.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1434,8 +1434,8 @@ www.elastic.co
 *.swiftype.com
 *.elstc.co
 *.elastic.co
-*.found.io
 cloud.elastic.co
+*.found.io
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -2501,7 +2501,6 @@ reservations.rezserver.com
 api.rezserver.com
 flyiin.com
 admin.rezserver.com
-secure.rezserver.com
 cruises.priceline.com
 www.priceline.com
 www.priceline.com
@@ -3394,9 +3393,9 @@ npmjs.com
 *.githubapp.com
 npmjs.org
 *.githubusercontent.com
+github.com
 api.github.com
 classroom.github.com
-github.com
 github.com
 api.github.com
 gist.github.com
@@ -3543,9 +3542,9 @@ arrive-server.shopifycloud.com
 *.shopifycs.com
 *.shopifycloud.com
 accounts.shopify.com
+partners.shopify.com
 shopify.plus
 admin.shopify.com
-partners.shopify.com
 linkpop.com
 shop.app
 *.shopify.com
@@ -3911,9 +3910,9 @@ b5s.hackerone-ext-content.com
 hackerone-user-content.com
 api.hackerone.com
 www.hackerone.com
+app.pullrequest.com
 hackerone-ext-content.com
 errors.hackerone.net
-app.pullrequest.com
 cover-photos.hackerone-user-content.com
 ctf.hacker101.com
 hackerone.com
