@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 21 15:19:59 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 21 15:47:42 UTC 2024)
 ```
 *.worldcoin-distributors.com
 getworldcoin.com
@@ -183,9 +183,9 @@ careers.booking.com
 secure.booking.com
 admin.booking.com
 distribution-xml.booking.com
-spark.fareharbor.com
 *.rentalcars.com
 booking.com
+spark.fareharbor.com
 account.booking.com
 *.booking.com
 *.booking.com
@@ -622,9 +622,9 @@ super-services.indriverapp.com
 auth2.indrive.tech
 watchdocs.indriverapp.com
 cargo.indrive.com
-*.indrive.com
 *.indriver.com
 *.indriverapp.com
+*.indrive.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -867,8 +867,8 @@ www.bookabach.co.nz
 www.hotwire.com
 www.expediacruises.com
 www.expediagroup.com
-www.vrbo.com
 www.hotels.com
+www.vrbo.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -1170,8 +1170,8 @@ docs.databricks.com
 labs.databricks.com
 customer-academy.databricks.com
 advocates.databricks.com
-support.databricks.com
 databricks.com
+support.databricks.com
 kb.databricks.com
 databricks.com
 academy.databricks.com
@@ -1749,12 +1749,12 @@ careers.tiktok.com
 live-backstage.tiktok.com
 creatormarketplace.tiktok.com
 www.pangleglobal.com
-partner.tiktokshop.com
 business.tiktok.com
+partner.tiktokshop.com
 ads.tiktok.com
 shop.tiktok.com
-*.tiktokv.com
 *.tiktok.com
+*.tiktokv.com
 tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -1834,24 +1834,27 @@ hackerone.affirm-odin.com
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www.superdrug.com
+www.trekpleister.nl
+www10.watsons.com.vn
+api.watsons.com.vn
+www10.watsons.com.tw
+www.watsons.com.tw
+api.watsons.com.tw
+www10.watsons.com.ph
+api.watsons.com.ph
+www.watsons.com.ph
+www.watsons.co.th
+www20.watsons.co.th
+www10.watsons.co.th
+api.watsons.co.th
 www.kruidvat.be
-app.marionnaud.cz
-app.marionnaud.it
-app.marionnaud.ro
-www.marionnaud.sk
-www.pns.hk
-app.marionnaud.hu
-www.marionnaud.ro
-app.kruidvat.nl
-app.iciparisxl.lu
-app.marionnaud.at
-www.marionnaud.ch
-www10.pns.hk
-api.pns.hk
+app.kruidvat.be
+mapi-sim.fortress.com.hk
+www.fortress.com.hk
+www.marionnaud.fr
+app.marionnaud.fr
+mapi.moneyback.com.hk
 www.moneyback.com.hk
-app.iciparisxl.nl
-app.superdrug.com
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -1919,6 +1922,9 @@ api.iciparisxl.be
 api.iciparisxl.lu
 api.iciparisxl.nl
 www.trekpleister.nl
+www.watsons.com.vn
+www10.watsons.com.vn
+api.watsons.com.vn
 https://www.kruidvat.nl/persoonlijk
 blog.watsons.com.tr
 https://www.kruidvat.nl/fotoservice
@@ -2213,11 +2219,11 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alibabacloud.com
 *.alibaba-inc.com
-*.1688.com
 *.alibaba.com
 *.aliyun.com
 *.taobao.com
 *.Daraz.com
+*.1688.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -3380,8 +3386,8 @@ education.github.com
 npmjs.com
 npmjs.org
 *.githubusercontent.com
-classroom.github.com
 github.com
+classroom.github.com
 *.githubapp.com
 api.github.com
 github.com
@@ -3745,8 +3751,8 @@ ide.x.ai
 grok.x.ai
 *.twimg.com
 api.x.ai
-x.com
 *.twitter.com
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
