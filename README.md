@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 21 20:43:49 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 21 21:17:41 UTC 2024)
 ```
 *.worldcoin-distributors.com
 getworldcoin.com
@@ -11,8 +11,8 @@ getworldcoin.com
 toolsforhumanity.com
 bioid-management.app
 *.consumer.worldcoin.org
-*.worldcoin.org
 worldcoin.org
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -52,9 +52,9 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.pornworld.com
-www.analvids.com
 www.ddfcontent.com
+www.analvids.com
+www.pornworld.com
 www.pornbox.com
 www.pornbox.com
 www.analvids.com
@@ -185,9 +185,9 @@ admin.booking.com
 distribution-xml.booking.com
 spark.fareharbor.com
 booking.com
+*.booking.com
 account.booking.com
 *.rentalcars.com
-*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -288,8 +288,8 @@ manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 www.gocardless.com
-*.gocardless-cicd.io
 api-sandbox.gocardless.com
+*.gocardless-cicd.io
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -520,12 +520,12 @@ location.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 hg.mozilla.org
 bugzilla.mozilla.org
-mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
+mozilla-pontoon-staging.herokuapp.com
 accounts.firefox.com
 firefox.settings.services.mozilla.com
-addons.allizom.org
 contile.services.mozilla.com
+addons.allizom.org
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -584,8 +584,8 @@ hiltonhotels.jp
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
-hilton.com
 *.hilton.com
+hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -1109,8 +1109,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-etoropartners.com
 bullsheet.me
+etoropartners.com
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1170,8 +1170,8 @@ docs.databricks.com
 labs.databricks.com
 customer-academy.databricks.com
 advocates.databricks.com
-support.databricks.com
 databricks.com
+support.databricks.com
 kb.databricks.com
 databricks.com
 academy.databricks.com
@@ -1197,8 +1197,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-api.krisp.ai
 *.krisp.ai
+api.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1749,13 +1749,13 @@ careers.tiktok.com
 live-backstage.tiktok.com
 creatormarketplace.tiktok.com
 www.pangleglobal.com
-partner.tiktokshop.com
 business.tiktok.com
+partner.tiktokshop.com
 shop.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 tiktok.com
 ads.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -3379,10 +3379,10 @@ education.github.com
 npmjs.com
 npmjs.org
 *.githubusercontent.com
-github.com
 classroom.github.com
 *.githubapp.com
 api.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3533,9 +3533,9 @@ shopify.plus
 partners.shopify.com
 linkpop.com
 your-store.myshopify.com
-shop.app
 *.shopify.com
 admin.shopify.com
+shop.app
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3620,7 +3620,7 @@ careers.ui.com
 uisp.com
 fw-update.ubnt.com
 unifi.ui.com
-account.ui.com
+store.ui.com
 *.ubnt.com
 *.ui.com
 store.ui.com
@@ -3855,10 +3855,10 @@ slackatwork.com
 slack-redir.net
 slack-imgs.com
 slack.com
-app.slack.com
 api.slack.com
 www.quip.com
 *.quip.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3899,9 +3899,9 @@ app.pullrequest.com
 ctf.hacker101.com
 cover-photos.hackerone-user-content.com
 www.hackerone.com
+hackerone-user-content.com
 api.hackerone.com
 hackerone.com
-hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
