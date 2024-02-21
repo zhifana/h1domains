@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 21 07:43:34 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 21 08:22:38 UTC 2024)
 ```
 *.worldcoin-distributors.com
 getworldcoin.com
@@ -11,8 +11,8 @@ getworldcoin.com
 *.consumer.worldcoin.org
 bioid-management.app
 toolsforhumanity.com
-*.worldcoin.org
 worldcoin.org
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -52,10 +52,10 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.pornworld.com
-www.analvids.com
 www.pornbox.com
 www.ddfcontent.com
+www.analvids.com
+www.pornworld.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -183,8 +183,8 @@ careers.booking.com
 secure.booking.com
 admin.booking.com
 account.booking.com
-distribution-xml.booking.com
 booking.com
+distribution-xml.booking.com
 spark.fareharbor.com
 *.rentalcars.com
 *.booking.com
@@ -283,13 +283,13 @@ connect-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
-*.gocardless-cicd.io
 manage-sandbox.gocardless.com
 api-sandbox.gocardless.com
 *.gocardless-lab.io
 *.gocardless.io
 *.gocardless-banking.io
 www.gocardless.com
+*.gocardless-cicd.io
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -388,7 +388,6 @@ visa.com.ua
 www.practicalmoneyskills.org
 www.practicalbusinessskills.org
 www.visa.co.ke
-www.visa.co.id
 www.visa.co.uk
 bd.visa.com
 www.visa.co.jp
@@ -405,6 +404,7 @@ www.fraedom.com
 visa.co.cr
 ht.visa.com
 www.visa.co.in
+www.authorize.net
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -623,8 +623,8 @@ auth2.indrive.tech
 watchdocs.indriverapp.com
 *.indriver.com
 cargo.indrive.com
-*.indriverapp.com
 *.indrive.com
+*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1049,8 +1049,8 @@ sorare.com
 api.sorare.com
 ws.sorare.com
 *.sheingsp.com
-*.romwe.com
 *.shein.com
+*.romwe.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
@@ -1109,8 +1109,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-bullsheet.me
 etoropartners.com
+bullsheet.me
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1197,8 +1197,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-*.krisp.ai
 api.krisp.ai
+*.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1749,14 +1749,14 @@ effecthouse.tiktok.com
 careers.tiktok.com
 live-backstage.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktokv.com
 www.pangleglobal.com
-business.tiktok.com
 partner.tiktokshop.com
+business.tiktok.com
 ads.tiktok.com
-tiktok.com
 shop.tiktok.com
+tiktok.com
 *.tiktok.com
+*.tiktokv.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -3151,8 +3151,8 @@ kartaview.org
 jira.grab.com
 *.grabpay.com
 *.taralite.com
-*.grab.com
 *.ovo.id
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3393,10 +3393,10 @@ education.github.com
 npmjs.com
 *.githubapp.com
 npmjs.org
-github.com
 *.githubusercontent.com
 api.github.com
 classroom.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3543,9 +3543,9 @@ arrive-server.shopifycloud.com
 *.shopifycs.com
 *.shopifycloud.com
 accounts.shopify.com
-partners.shopify.com
 shopify.plus
 admin.shopify.com
+partners.shopify.com
 linkpop.com
 shop.app
 *.shopify.com
