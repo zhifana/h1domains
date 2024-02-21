@@ -2,15 +2,15 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 21 18:23:32 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 21 18:42:50 UTC 2024)
 ```
 *.worldcoin-distributors.com
+getworldcoin.com
 *.toolsforhumanity.com
 *.worldcoin.dev
-getworldcoin.com
 toolsforhumanity.com
-bioid-management.app
 worldcoin.org
+bioid-management.app
 *.consumer.worldcoin.org
 *.worldcoin.org
 *.worldcoin.org
@@ -52,9 +52,9 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.pornworld.com
-www.analvids.com
 www.ddfcontent.com
+www.analvids.com
+www.pornworld.com
 www.pornbox.com
 www.pornbox.com
 www.analvids.com
@@ -184,10 +184,10 @@ secure.booking.com
 admin.booking.com
 distribution-xml.booking.com
 spark.fareharbor.com
-*.booking.com
 booking.com
-account.booking.com
 *.rentalcars.com
+account.booking.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -521,8 +521,8 @@ location.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 hg.mozilla.org
 bugzilla.mozilla.org
-mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
+mozilla-pontoon-staging.herokuapp.com
 accounts.firefox.com
 firefox.settings.services.mozilla.com
 addons.allizom.org
@@ -1170,8 +1170,8 @@ docs.databricks.com
 labs.databricks.com
 customer-academy.databricks.com
 advocates.databricks.com
-databricks.com
 support.databricks.com
+databricks.com
 kb.databricks.com
 databricks.com
 academy.databricks.com
@@ -1299,8 +1299,8 @@ capturingreality.com
 *.tstaging.tools
 *.tinderwebstaging.com
 *.tstaging.com
-*.tinder.com
 *.gotinder.com
+*.tinder.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1749,8 +1749,8 @@ careers.tiktok.com
 live-backstage.tiktok.com
 creatormarketplace.tiktok.com
 www.pangleglobal.com
-business.tiktok.com
 partner.tiktokshop.com
+business.tiktok.com
 shop.tiktok.com
 *.tiktokv.com
 *.tiktok.com
@@ -1818,9 +1818,9 @@ api.faraday.ai
 *.devicelock.com
 *.5nine.com
 *.acronis.work
-*.acronis.com
 account.acronis.com
 beta-cloud.acronis.com
+*.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -1835,19 +1835,24 @@ hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
 www.trekpleister.nl
-www10.watsons.com.vn
-api.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-mapi-sim.fortress.com.hk
-www.fortress.com.hk
-www.marionnaud.fr
-app.marionnaud.fr
-mapi.moneyback.com.hk
-www.moneyback.com.hk
+www.superdrug.com
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
+www.theperfumeshop.com
+app.theperfumeshop.com
+api.theperfumeshop.com
+api.watsons.com.my
+www.watsons.com.my
+www10.watsons.com.my
+www.iciparisxl.nl
+www.iciparisxl.be
+www.iciparisxl.lu
+app.iciparisxl.nl
+app.iciparisxl.be
+app.iciparisxl.lu
+www.marionnaud.at
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -3379,8 +3384,8 @@ education.github.com
 npmjs.com
 npmjs.org
 *.githubusercontent.com
-github.com
 classroom.github.com
+github.com
 *.githubapp.com
 api.github.com
 github.com
@@ -3529,13 +3534,13 @@ arrive-server.shopifycloud.com
 *.shopifycs.com
 *.shopifycloud.com
 accounts.shopify.com
-shopify.plus
 partners.shopify.com
+shopify.plus
 linkpop.com
 your-store.myshopify.com
-shop.app
-*.shopify.com
 admin.shopify.com
+*.shopify.com
+shop.app
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3578,9 +3583,9 @@ web.snapchat.com
 accounts.snapchat.com
 login.playcanvas.com
 *.sc-core.net
-snappublisher.snapchat.com
-playcanvas.com
 scan.snapchat.com
+playcanvas.com
+snappublisher.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3613,7 +3618,6 @@ spectacles.com
 map.snapchat.com
 story.snapchat.com
 *.sc-corp.net
-community.ui.com
 design.ui.com
 ispdesign.ui.com
 rma.ui.com
@@ -3856,10 +3860,10 @@ slackatwork.com
 slack-redir.net
 slack-imgs.com
 slack.com
+app.slack.com
 api.slack.com
 www.quip.com
 *.quip.com
-app.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3900,8 +3904,8 @@ app.pullrequest.com
 ctf.hacker101.com
 cover-photos.hackerone-user-content.com
 www.hackerone.com
-hackerone.com
 hackerone-user-content.com
+hackerone.com
 api.hackerone.com
 hackerone.com
 api.hackerone.com
