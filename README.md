@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 21 23:43:51 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 22 00:59:12 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.toolsforhumanity.com
@@ -52,9 +52,9 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.ddfcontent.com
-www.analvids.com
 www.pornworld.com
+www.analvids.com
+www.ddfcontent.com
 www.pornbox.com
 www.pornbox.com
 www.analvids.com
@@ -179,15 +179,15 @@ accommodations.booking.com
 chat.booking.com
 cars.booking.com
 widget.rentalcars.com
-careers.booking.com
 secure.booking.com
 admin.booking.com
 distribution-xml.booking.com
-*.rentalcars.com
-*.booking.com
 spark.fareharbor.com
 booking.com
+*.booking.com
+*.rentalcars.com
 account.booking.com
+careers.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -484,9 +484,9 @@ m.krisha.kz
 m.kolesa.kz
 id.kolesa.kz
 api.kolesa.kz
-krisha.kz
 api.avtoelon.uz
 avtoelon.uz
+krisha.kz
 kolesa.kz
 kolesa.kz
 m.kolesa.kz
@@ -584,8 +584,8 @@ hiltonhotels.jp
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
-hilton.com
 *.hilton.com
+hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -1197,8 +1197,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-api.krisp.ai
 *.krisp.ai
+api.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1749,13 +1749,13 @@ careers.tiktok.com
 live-backstage.tiktok.com
 creatormarketplace.tiktok.com
 www.pangleglobal.com
-partner.tiktokshop.com
 business.tiktok.com
 shop.tiktok.com
 *.tiktokv.com
 ads.tiktok.com
 *.tiktok.com
 tiktok.com
+partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1835,25 +1835,24 @@ hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
 www.trekpleister.nl
+www.superdrug.com
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-www10.watsons.com.sg
-www.watsons.com.sg
-api.watsons.com.sg
-www.watsons.com.hk
-www10.watsons.com.hk
-api.watsons.com.hk
-www10.watsons.co.id
-api.watsons.co.id
-www.watsons.co.id
-blog.watsons.com.tr
-app.watsons.com.tr
+api.watsons.com.my
+www.watsons.com.my
+www10.watsons.com.my
+www.iciparisxl.nl
+www.iciparisxl.be
+www.iciparisxl.lu
+app.iciparisxl.nl
+app.iciparisxl.be
+app.iciparisxl.lu
+www.marionnaud.at
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2406,8 +2405,8 @@ novel.pixiv.net
 booth.pm
 payment.pixiv.net
 www.pixiv.net
-*.fanbox.cc
 accounts.pixiv.net
+*.fanbox.cc
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -3535,8 +3534,8 @@ arrive-server.shopifycloud.com
 *.shopifycs.com
 *.shopifycloud.com
 accounts.shopify.com
-partners.shopify.com
 shopify.plus
+partners.shopify.com
 linkpop.com
 your-store.myshopify.com
 shop.app
@@ -3666,8 +3665,8 @@ next.airbnb.com
 assets.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
-*.airbnb.com
 www.airbnb.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3905,9 +3904,9 @@ app.pullrequest.com
 ctf.hacker101.com
 cover-photos.hackerone-user-content.com
 www.hackerone.com
+hackerone-user-content.com
 api.hackerone.com
 hackerone.com
-hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
