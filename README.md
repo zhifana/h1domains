@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 22 20:41:40 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 22 21:15:31 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
@@ -52,9 +52,9 @@ www.sheer.com
 my.sheer.com
 www.sheer.com
 my.sheer.com
-www.ddfcontent.com
-www.analvids.com
 www.pornworld.com
+www.analvids.com
+www.ddfcontent.com
 www.pornbox.com
 www.pornbox.com
 www.analvids.com
@@ -133,9 +133,9 @@ www.mercadopago.com.pe
 www.mercadopago.com.ar
 www.mercadolibre.com.pe
 www.mercadolibre.cl
-www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadolibre.com.ar
+www.mercadopago.cl
 api.mercadolibre.com
 www.mercadolivre.com.br
 www.mercadopago.com.br
@@ -184,10 +184,10 @@ booking.com
 *.rentalcars.com
 account.booking.com
 cars.booking.com
-*.booking.com
 secure.booking.com
 careers.booking.com
 spark.fareharbor.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -259,8 +259,8 @@ app.moderntreasury.com
 cdn.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicex.com
 test.nicehash.com
+test.nicex.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -677,9 +677,9 @@ oneview.malwarebytes.com
 *.mb-cosmos.com
 *.cyrus-security.com
 cloud.malwarebytes.com
-www.malwarebytes.com
 *.threatdown.com
 *.cloud.malwarebytes.com
+www.malwarebytes.com
 *.malwarebytes.com
 my.malwarebytes.com
 *.mwbsys.com
@@ -1834,24 +1834,25 @@ hackerone.affirm-odin.com
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www.superdrug.com
-app.superdrug.com
-api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.watsons.com.tw
-www.watsons.com.tw
-api.watsons.com.tw
-www10.watsons.com.ph
-api.watsons.com.ph
-www.watsons.com.ph
-www.watsons.co.th
-www20.watsons.co.th
-www10.watsons.co.th
-api.watsons.co.th
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www10.watsons.com.sg
+www.watsons.com.sg
+api.watsons.com.sg
+www.watsons.com.hk
+www10.watsons.com.hk
+api.watsons.com.hk
+www10.watsons.co.id
+api.watsons.co.id
+www.watsons.co.id
+blog.watsons.com.tr
+app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -3542,15 +3543,15 @@ yourcompany.udemy.com
 shopifyinbox.com
 *.shopifykloud.com
 *.shopifycloud.com
-partners.shopify.com
 shopify.plus
+partners.shopify.com
 linkpop.com
 shop.app
 arrive-server.shopifycloud.com
 *.shopify.com
-accounts.shopify.com
 *.shopifycs.com
 admin.shopify.com
+accounts.shopify.com
 your-store.myshopify.com
 *.shopifycs.com
 *.shopify.com
@@ -3594,9 +3595,9 @@ web.snapchat.com
 accounts.snapchat.com
 login.playcanvas.com
 *.sc-core.net
-scan.snapchat.com
-playcanvas.com
 snappublisher.snapchat.com
+playcanvas.com
+scan.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
