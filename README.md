@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 22 06:21:42 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 22 06:41:08 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.toolsforhumanity.com
@@ -52,9 +52,9 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
+www.ddfcontent.com
 www.pornworld.com
 www.analvids.com
-www.ddfcontent.com
 www.pornbox.com
 www.pornbox.com
 www.analvids.com
@@ -182,12 +182,12 @@ widget.rentalcars.com
 secure.booking.com
 admin.booking.com
 distribution-xml.booking.com
-spark.fareharbor.com
-booking.com
 *.rentalcars.com
 *.booking.com
-account.booking.com
+booking.com
 careers.booking.com
+account.booking.com
+spark.fareharbor.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -523,8 +523,8 @@ bugzilla.mozilla.org
 accounts.firefox.com
 firefox.settings.services.mozilla.com
 contile.services.mozilla.com
-addons.allizom.org
 phabricator.allizom.org
+addons.allizom.org
 mozilla-pontoon-staging.herokuapp.com
 addons.allizom.org
 accounts.firefox.com
@@ -584,8 +584,8 @@ hiltonhotels.jp
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
-*.hilton.com
 hilton.com
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -1842,16 +1842,18 @@ app.kruidvat.nl
 www.theperfumeshop.com
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.watsons.com.tw
-www.watsons.com.tw
-api.watsons.com.tw
-www10.watsons.com.ph
-api.watsons.com.ph
-www.watsons.com.ph
-www.watsons.co.th
-www20.watsons.co.th
-www10.watsons.co.th
-api.watsons.co.th
+api.watsons.com.my
+www.watsons.com.my
+www10.watsons.com.my
+www.iciparisxl.nl
+www.iciparisxl.be
+www.iciparisxl.lu
+app.iciparisxl.nl
+app.iciparisxl.be
+app.iciparisxl.lu
+www.marionnaud.at
+app.marionnaud.at
+www.marionnaud.ch
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2338,9 +2340,9 @@ http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
 *.rbx.com
-*.ra.roblox.com
 *.roblox.com
 *.guilded.gg
+*.ra.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2772,8 +2774,8 @@ decision.swiftfinancial.com
 paypal.me
 py.pl
 *.venmo.com
-paypalobjects.com
 *.hyperwallet.com
+paypalobjects.com
 *.xoom.com
 *.paypal.com
 www.paypal-*.com
@@ -3532,8 +3534,8 @@ arrive-server.shopifycloud.com
 *.shopifykloud.com
 *.shopifycloud.com
 accounts.shopify.com
-shopify.plus
 partners.shopify.com
+shopify.plus
 linkpop.com
 your-store.myshopify.com
 shop.app
@@ -3582,9 +3584,9 @@ web.snapchat.com
 accounts.snapchat.com
 login.playcanvas.com
 *.sc-core.net
-scan.snapchat.com
-playcanvas.com
 snappublisher.snapchat.com
+playcanvas.com
+scan.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3901,8 +3903,8 @@ hackerone-ext-content.com
 errors.hackerone.net
 app.pullrequest.com
 ctf.hacker101.com
-hackerone-user-content.com
 api.hackerone.com
+hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 www.hackerone.com
 hackerone.com
