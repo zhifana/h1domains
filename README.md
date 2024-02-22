@@ -2,15 +2,15 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 22 11:18:06 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 22 11:43:03 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
 toolsforhumanity.com
 bioid-management.app
 getworldcoin.com
-worldcoin.org
 *.toolsforhumanity.com
+worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin.org
 *.worldcoin.org
@@ -53,8 +53,8 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.ddfcontent.com
-www.pornworld.com
 www.analvids.com
+www.pornworld.com
 www.pornbox.com
 www.pornbox.com
 www.analvids.com
@@ -134,10 +134,10 @@ www.mercadopago.com.ar
 www.mercadolibre.com.co
 www.mercadolibre.com.pe
 www.mercadolibre.cl
-www.mercadopago.com.br
-www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadolibre.com.ar
+www.mercadopago.com.br
+www.mercadopago.cl
 api.mercadolibre.com
 www.mercadolivre.com.br
 api.mercadopago.com
@@ -484,8 +484,8 @@ m.krisha.kz
 m.kolesa.kz
 id.kolesa.kz
 api.kolesa.kz
-krisha.kz
 api.avtoelon.uz
+krisha.kz
 avtoelon.uz
 kolesa.kz
 kolesa.kz
@@ -721,8 +721,8 @@ tequila.kiwi.com
 www.kiwi.com
 jobs.kiwi.com
 *.kiwi.com
-auth.skypicker.com
 *.skypicker.com
+auth.skypicker.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1109,8 +1109,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-bullsheet.me
 etoropartners.com
+bullsheet.me
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1170,8 +1170,8 @@ docs.databricks.com
 labs.databricks.com
 customer-academy.databricks.com
 support.databricks.com
-kb.databricks.com
 databricks.com
+kb.databricks.com
 advocates.databricks.com
 databricks.com
 academy.databricks.com
@@ -1197,8 +1197,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-api.krisp.ai
 *.krisp.ai
+api.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1834,20 +1834,26 @@ hackerone.affirm-odin.com
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www10.watsons.com.vn
-api.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-mapi-sim.fortress.com.hk
-www.fortress.com.hk
-www.marionnaud.fr
-app.marionnaud.fr
-mapi.moneyback.com.hk
-www.moneyback.com.hk
+www.superdrug.com
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
+app.theperfumeshop.com
+api.theperfumeshop.com
+api.watsons.com.my
+www.watsons.com.my
+www10.watsons.com.my
+www.iciparisxl.nl
+www.iciparisxl.be
+www.iciparisxl.lu
+app.iciparisxl.nl
+app.iciparisxl.be
+app.iciparisxl.lu
+www.marionnaud.at
+app.marionnaud.at
+www.marionnaud.ch
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -1970,9 +1976,9 @@ store.playstation.com
 my.playstation.com
 my.account.sony.com
 *.api.playstation.com
-*.sonyentertainmentnetwork.com
 transact.playstation.com
 *.playstation.net
+*.sonyentertainmentnetwork.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2215,8 +2221,8 @@ amazonpayinsurance.in
 *.1688.com
 www.alibabagroup.com
 *.aliexpress.com
-*.aliyun.com
 *.taobao.com
+*.aliyun.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2531,8 +2537,8 @@ developers.smartsheet.com
 *invitations-api.trustpilot.com
 *share.trustpilot.com
 *business.trustpilot.com
-*www.trustpilot.com
 *legal.trustpilot.com
+*www.trustpilot.com
 *api.trustpilot.com
 *authenticate.trustpilot.com
 *invitations-api.trustpilot.com
@@ -2700,8 +2706,8 @@ www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
 *.grammarly.io
-*.grammarlyaws.com
 *.grammarly.com
+*.grammarlyaws.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -3206,8 +3212,8 @@ chatdate.app
 zodia.studio
 backstage.io
 api.spotify.com
-assets.spotify.com
 everynoise.com
+assets.spotify.com
 assets.spotify.com
 api.spotify.com
 everynoise.com
@@ -3543,9 +3549,9 @@ partners.shopify.com
 shopify.plus
 linkpop.com
 your-store.myshopify.com
-shop.app
-*.shopify.com
 admin.shopify.com
+*.shopify.com
+shop.app
 *.shopifycs.com
 arrive-server.shopifycloud.com
 *.shopifycs.com
@@ -3590,9 +3596,9 @@ web.snapchat.com
 accounts.snapchat.com
 login.playcanvas.com
 *.sc-core.net
-scan.snapchat.com
-playcanvas.com
 snappublisher.snapchat.com
+playcanvas.com
+scan.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3908,8 +3914,8 @@ hackerone-ext-content.com
 errors.hackerone.net
 app.pullrequest.com
 ctf.hacker101.com
-api.hackerone.com
 hackerone-user-content.com
+api.hackerone.com
 cover-photos.hackerone-user-content.com
 www.hackerone.com
 hackerone.com
