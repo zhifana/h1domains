@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 22 18:23:00 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 22 18:41:34 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
 toolsforhumanity.com
 bioid-management.app
 *.toolsforhumanity.com
-worldcoin.org
-*.consumer.worldcoin.org
 getworldcoin.com
+*.consumer.worldcoin.org
 *.worldcoin.org
+worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -180,8 +180,8 @@ chat.booking.com
 widget.rentalcars.com
 admin.booking.com
 distribution-xml.booking.com
-booking.com
 *.rentalcars.com
+booking.com
 account.booking.com
 cars.booking.com
 *.booking.com
@@ -288,8 +288,8 @@ manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 www.gocardless.com
-*.gocardless-cicd.io
 api-sandbox.gocardless.com
+*.gocardless-cicd.io
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -675,11 +675,11 @@ oneview.malwarebytes.com
 *.mbamupdates.com
 *.mwbsys.com
 *.mb-cosmos.com
-*.cloud.malwarebytes.com
-*.threatdown.com
-www.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+www.malwarebytes.com
+*.threatdown.com
+*.cloud.malwarebytes.com
 *.malwarebytes.com
 my.malwarebytes.com
 *.mwbsys.com
@@ -1109,8 +1109,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-bullsheet.me
 etoropartners.com
+bullsheet.me
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1170,8 +1170,8 @@ docs.databricks.com
 labs.databricks.com
 customer-academy.databricks.com
 support.databricks.com
-databricks.com
 kb.databricks.com
+databricks.com
 advocates.databricks.com
 databricks.com
 academy.databricks.com
@@ -1751,11 +1751,11 @@ creatormarketplace.tiktok.com
 www.pangleglobal.com
 business.tiktok.com
 *.tiktokv.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 shop.tiktok.com
-*.tiktok.com
 ads.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1834,24 +1834,25 @@ hackerone.affirm-odin.com
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www.superdrug.com
-app.superdrug.com
-api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.watsons.com.tw
-www.watsons.com.tw
-api.watsons.com.tw
-www10.watsons.com.ph
-api.watsons.com.ph
-www.watsons.com.ph
-www.watsons.co.th
-www20.watsons.co.th
-www10.watsons.co.th
-api.watsons.co.th
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www10.watsons.com.sg
+www.watsons.com.sg
+api.watsons.com.sg
+www.watsons.com.hk
+www10.watsons.com.hk
+api.watsons.com.hk
+www10.watsons.co.id
+api.watsons.co.id
+www.watsons.co.id
+blog.watsons.com.tr
+app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2779,7 +2780,6 @@ decision.swiftfinancial.com
 *.braintree-api.com
 *.braintreepayments.com
 *.paylution.com
-*.paypalcorp.com
 paypal.me
 py.pl
 *.venmo.com
@@ -2788,6 +2788,7 @@ paypalobjects.com
 *.xoom.com
 *.braintreegateway.com
 *.paypal.com
+*.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3396,9 +3397,9 @@ npmjs.org
 *.githubusercontent.com
 classroom.github.com
 *.githubapp.com
-api.github.com
 github.com
 npmjs.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3543,15 +3544,15 @@ shopifyinbox.com
 *.shopifykloud.com
 *.shopifycloud.com
 accounts.shopify.com
-partners.shopify.com
 shopify.plus
+partners.shopify.com
 linkpop.com
 shop.app
 arrive-server.shopifycloud.com
 *.shopify.com
-admin.shopify.com
 *.shopifycs.com
 your-store.myshopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3908,9 +3909,9 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
 hackerone.live
 b5s.hackerone-ext-content.com
+app.pullrequest.com
 hackerone-ext-content.com
 errors.hackerone.net
-app.pullrequest.com
 ctf.hacker101.com
 cover-photos.hackerone-user-content.com
 api.hackerone.com
