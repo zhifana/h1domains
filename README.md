@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 22 03:42:25 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 22 04:20:38 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.toolsforhumanity.com
@@ -52,9 +52,9 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.ddfcontent.com
-www.analvids.com
 www.pornworld.com
+www.analvids.com
+www.ddfcontent.com
 www.pornbox.com
 www.pornbox.com
 www.analvids.com
@@ -85,13 +85,13 @@ demo.dynamic.xyz
 app.dynamic.xyz
 editor.zyro.com
 www.niagahoster.co.id
-logo.zyro.com
 payments.hostinger.com
 cpanel.hostinger.com
 backend.zyro.com
 *.000webhost.com
 www.hostinger.com
 hpanel.hostinger.com
+logo.zyro.com
 www.zyro.com
 *.000webhost.com
 www.hostinger.com
@@ -184,8 +184,8 @@ admin.booking.com
 distribution-xml.booking.com
 spark.fareharbor.com
 booking.com
-*.booking.com
 *.rentalcars.com
+*.booking.com
 account.booking.com
 careers.booking.com
 *.booking.com
@@ -675,11 +675,11 @@ oneview.malwarebytes.com
 *.mbamupdates.com
 *.mwbsys.com
 *.mb-cosmos.com
-*.cloud.malwarebytes.com
-*.threatdown.com
-www.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+*.threatdown.com
+*.cloud.malwarebytes.com
+www.malwarebytes.com
 *.malwarebytes.com
 my.malwarebytes.com
 *.mwbsys.com
@@ -1008,8 +1008,8 @@ invoices.razorpay.com
 payroll.razorpay.com
 x.razorpay.com
 checkout.razorpay.com
-dashboard.razorpay.com
 api.razorpay.com
+dashboard.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -1170,8 +1170,8 @@ docs.databricks.com
 labs.databricks.com
 customer-academy.databricks.com
 advocates.databricks.com
-support.databricks.com
 databricks.com
+support.databricks.com
 kb.databricks.com
 databricks.com
 academy.databricks.com
@@ -1197,8 +1197,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-*.krisp.ai
 api.krisp.ai
+*.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -3534,13 +3534,13 @@ arrive-server.shopifycloud.com
 *.shopifycs.com
 *.shopifycloud.com
 accounts.shopify.com
-shopify.plus
 partners.shopify.com
+shopify.plus
 linkpop.com
 your-store.myshopify.com
-shop.app
-*.shopify.com
 admin.shopify.com
+*.shopify.com
+shop.app
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
