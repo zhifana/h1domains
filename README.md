@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 22 17:44:17 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 22 18:23:00 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
@@ -53,8 +53,8 @@ my.sheer.com
 www.sheer.com
 my.sheer.com
 www.ddfcontent.com
-www.analvids.com
 www.pornworld.com
+www.analvids.com
 www.pornbox.com
 www.pornbox.com
 www.analvids.com
@@ -186,8 +186,8 @@ account.booking.com
 cars.booking.com
 *.booking.com
 spark.fareharbor.com
-careers.booking.com
 secure.booking.com
+careers.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -288,8 +288,8 @@ manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 www.gocardless.com
-api-sandbox.gocardless.com
 *.gocardless-cicd.io
+api-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -675,11 +675,11 @@ oneview.malwarebytes.com
 *.mbamupdates.com
 *.mwbsys.com
 *.mb-cosmos.com
+*.cloud.malwarebytes.com
+*.threatdown.com
+www.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
-www.malwarebytes.com
-*.threatdown.com
-*.cloud.malwarebytes.com
 *.malwarebytes.com
 my.malwarebytes.com
 *.mwbsys.com
@@ -1109,8 +1109,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-etoropartners.com
 bullsheet.me
+etoropartners.com
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1197,8 +1197,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-*.krisp.ai
 api.krisp.ai
+*.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -2505,7 +2505,7 @@ flyiin.com
 admin.rezserver.com
 cruises.priceline.com
 secure.rezserver.com
-www.bookingholdings.com
+www.getaroom.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2786,8 +2786,8 @@ py.pl
 *.hyperwallet.com
 paypalobjects.com
 *.xoom.com
-*.paypal.com
 *.braintreegateway.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3396,8 +3396,8 @@ npmjs.org
 *.githubusercontent.com
 classroom.github.com
 *.githubapp.com
-github.com
 api.github.com
+github.com
 npmjs.com
 github.com
 api.github.com
@@ -3543,15 +3543,15 @@ shopifyinbox.com
 *.shopifykloud.com
 *.shopifycloud.com
 accounts.shopify.com
-shopify.plus
 partners.shopify.com
+shopify.plus
 linkpop.com
 shop.app
 arrive-server.shopifycloud.com
-your-store.myshopify.com
 *.shopify.com
 admin.shopify.com
 *.shopifycs.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3594,9 +3594,9 @@ web.snapchat.com
 accounts.snapchat.com
 login.playcanvas.com
 *.sc-core.net
-scan.snapchat.com
-playcanvas.com
 snappublisher.snapchat.com
+playcanvas.com
+scan.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
