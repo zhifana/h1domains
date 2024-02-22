@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 22 01:50:14 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 22 02:23:03 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.toolsforhumanity.com
@@ -11,8 +11,8 @@ toolsforhumanity.com
 bioid-management.app
 *.consumer.worldcoin.org
 worldcoin.org
-getworldcoin.com
 *.worldcoin.org
+getworldcoin.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -184,8 +184,8 @@ admin.booking.com
 distribution-xml.booking.com
 spark.fareharbor.com
 booking.com
-*.booking.com
 *.rentalcars.com
+*.booking.com
 account.booking.com
 careers.booking.com
 *.booking.com
@@ -484,9 +484,9 @@ m.krisha.kz
 m.kolesa.kz
 id.kolesa.kz
 api.kolesa.kz
+krisha.kz
 api.avtoelon.uz
 avtoelon.uz
-krisha.kz
 kolesa.kz
 kolesa.kz
 m.kolesa.kz
@@ -584,8 +584,8 @@ hiltonhotels.jp
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
-*.hilton.com
 hilton.com
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -721,8 +721,8 @@ auth.skypicker.com
 tequila.kiwi.com
 www.kiwi.com
 jobs.kiwi.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1197,8 +1197,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-*.krisp.ai
 api.krisp.ai
+*.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1484,7 +1484,6 @@ sh.reddit.com
 www.spiketrap.io
 matrix.redditspace.com
 ads-api.reddit.com
-oauth.reddit.com
 gateway.reddit.com
 mod.reddit.com
 *.redditinc.com
@@ -1499,6 +1498,7 @@ app.spiketrap.io
 ads.reddit.com
 www.reddit.com
 *.reddit.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1834,25 +1834,19 @@ hackerone.affirm-odin.com
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www.trekpleister.nl
-www.superdrug.com
-app.superdrug.com
-api.superdrug.com
+www10.watsons.com.vn
+api.watsons.com.vn
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+mapi-sim.fortress.com.hk
+www.fortress.com.hk
+www.marionnaud.fr
+app.marionnaud.fr
+mapi.moneyback.com.hk
+www.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
-www.theperfumeshop.com
-app.theperfumeshop.com
-api.theperfumeshop.com
-api.watsons.com.my
-www.watsons.com.my
-www10.watsons.com.my
-www.iciparisxl.nl
-www.iciparisxl.be
-www.iciparisxl.lu
-app.iciparisxl.nl
-app.iciparisxl.be
-app.iciparisxl.lu
-www.marionnaud.at
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2216,12 +2210,12 @@ amazonpayinsurance.in
 *.alibabacloud.com
 *.alibaba-inc.com
 *.alibaba.com
-*.aliyun.com
 *.taobao.com
 *.Daraz.com
 *.1688.com
 www.alibabagroup.com
 *.aliexpress.com
+*.aliyun.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2395,7 +2389,6 @@ https://coda.io/signup/email
 codahosted.io
 codacontent.io
 comic.pixiv.net
-sketch.pixiv.net
 sensei.pixiv.net
 hub.vroid.com
 dic.pixiv.net
@@ -2407,6 +2400,7 @@ payment.pixiv.net
 www.pixiv.net
 accounts.pixiv.net
 *.fanbox.cc
+sketch.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -3524,8 +3518,8 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 http://h1-your-domain.zendesk.com/sell
-yourcompany.udemy.com
 www.udemy.com
+yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
@@ -3534,8 +3528,8 @@ arrive-server.shopifycloud.com
 *.shopifycs.com
 *.shopifycloud.com
 accounts.shopify.com
-shopify.plus
 partners.shopify.com
+shopify.plus
 linkpop.com
 your-store.myshopify.com
 shop.app
@@ -3859,10 +3853,10 @@ spaces.pm
 slackatwork.com
 slack-redir.net
 slack-imgs.com
-app.slack.com
 api.slack.com
 www.quip.com
 *.quip.com
+app.slack.com
 slack.com
 slack.com
 api.slack.com
