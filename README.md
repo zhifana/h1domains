@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 22 10:42:08 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 22 11:18:06 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
 toolsforhumanity.com
 bioid-management.app
-*.worldcoin.org
 getworldcoin.com
 worldcoin.org
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -53,8 +53,8 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.ddfcontent.com
-www.analvids.com
 www.pornworld.com
+www.analvids.com
 www.pornbox.com
 www.pornbox.com
 www.analvids.com
@@ -181,8 +181,8 @@ widget.rentalcars.com
 secure.booking.com
 admin.booking.com
 distribution-xml.booking.com
-*.rentalcars.com
 booking.com
+*.rentalcars.com
 account.booking.com
 careers.booking.com
 spark.fareharbor.com
@@ -326,7 +326,6 @@ webhooks.gamma.redoxstage.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
 sftp.gamma.redoxstage.com
-app.gamma.redoxstage.com
 clientcert.gamma.redoxstage.com
 eets.gamma.redoxstage.com
 evening-earth.gamma.redoxstage.com
@@ -336,6 +335,7 @@ explore.redoxengine.com
 dashboard.gamma.redoxstage.com
 testapp.redoxengine.com
 www.redoxengine.com
+app.gamma.redoxstage.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -1109,8 +1109,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-etoropartners.com
 bullsheet.me
+etoropartners.com
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1170,8 +1170,8 @@ docs.databricks.com
 labs.databricks.com
 customer-academy.databricks.com
 support.databricks.com
-databricks.com
 kb.databricks.com
+databricks.com
 advocates.databricks.com
 databricks.com
 academy.databricks.com
@@ -1834,25 +1834,20 @@ hackerone.affirm-odin.com
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www.kruidvat.nl
-app.kruidvat.nl
-www.theperfumeshop.com
-app.theperfumeshop.com
-api.theperfumeshop.com
+www10.watsons.com.vn
+api.watsons.com.vn
 www10.pns.hk
 api.pns.hk
 www.pns.hk
-www10.watsons.com.sg
-www.watsons.com.sg
-api.watsons.com.sg
-www.watsons.com.hk
-www10.watsons.com.hk
-api.watsons.com.hk
-www10.watsons.co.id
-api.watsons.co.id
-www.watsons.co.id
-blog.watsons.com.tr
-app.watsons.com.tr
+mapi-sim.fortress.com.hk
+www.fortress.com.hk
+www.marionnaud.fr
+app.marionnaud.fr
+mapi.moneyback.com.hk
+www.moneyback.com.hk
+www.kruidvat.nl
+app.kruidvat.nl
+www.theperfumeshop.com
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -1976,8 +1971,8 @@ my.playstation.com
 my.account.sony.com
 *.api.playstation.com
 *.sonyentertainmentnetwork.com
-*.playstation.net
 transact.playstation.com
+*.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2220,8 +2215,8 @@ amazonpayinsurance.in
 *.1688.com
 www.alibabagroup.com
 *.aliexpress.com
-*.taobao.com
 *.aliyun.com
+*.taobao.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2405,8 +2400,8 @@ booth.pm
 payment.pixiv.net
 www.pixiv.net
 *.fanbox.cc
-sketch.pixiv.net
 accounts.pixiv.net
+sketch.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -3544,13 +3539,13 @@ shopifyinbox.com
 *.shopifykloud.com
 *.shopifycloud.com
 accounts.shopify.com
-shopify.plus
 partners.shopify.com
+shopify.plus
 linkpop.com
 your-store.myshopify.com
+shop.app
 *.shopify.com
 admin.shopify.com
-shop.app
 *.shopifycs.com
 arrive-server.shopifycloud.com
 *.shopifycs.com
@@ -3595,9 +3590,9 @@ web.snapchat.com
 accounts.snapchat.com
 login.playcanvas.com
 *.sc-core.net
-snappublisher.snapchat.com
-playcanvas.com
 scan.snapchat.com
+playcanvas.com
+snappublisher.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3870,10 +3865,10 @@ spaces.pm
 slackatwork.com
 slack-redir.net
 slack-imgs.com
-app.slack.com
 api.slack.com
 www.quip.com
 *.quip.com
+app.slack.com
 slack.com
 slack.com
 api.slack.com
@@ -3909,12 +3904,12 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
 hackerone.live
 b5s.hackerone-ext-content.com
-app.pullrequest.com
 hackerone-ext-content.com
 errors.hackerone.net
+app.pullrequest.com
 ctf.hacker101.com
-hackerone-user-content.com
 api.hackerone.com
+hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 www.hackerone.com
 hackerone.com
