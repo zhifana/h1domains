@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 22 14:43:47 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 22 15:22:16 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
 toolsforhumanity.com
 bioid-management.app
-worldcoin.org
 *.toolsforhumanity.com
-getworldcoin.com
+worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin.org
+getworldcoin.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -90,9 +90,9 @@ cpanel.hostinger.com
 backend.zyro.com
 *.000webhost.com
 www.hostinger.com
-hpanel.hostinger.com
 logo.zyro.com
 www.zyro.com
+hpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -107,13 +107,13 @@ https://passport.eufy.com/?app=eufy-us
 education.23andme.com
 api.23andme.com
 research.23andme.com
-store.23andme.com
 mediacenter.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 you.23andme.com
 auth.23andme.com
 blog.23andme.com
+store.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -186,8 +186,8 @@ booking.com
 careers.booking.com
 account.booking.com
 spark.fareharbor.com
-*.booking.com
 cars.booking.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -259,8 +259,8 @@ app.moderntreasury.com
 cdn.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicex.com
 test.nicehash.com
+test.nicex.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -677,9 +677,9 @@ oneview.malwarebytes.com
 *.mb-cosmos.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+www.malwarebytes.com
 *.threatdown.com
 *.cloud.malwarebytes.com
-www.malwarebytes.com
 *.malwarebytes.com
 my.malwarebytes.com
 *.mwbsys.com
@@ -1109,8 +1109,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-bullsheet.me
 etoropartners.com
+bullsheet.me
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1834,20 +1834,24 @@ hackerone.affirm-odin.com
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www10.watsons.com.vn
-api.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-mapi-sim.fortress.com.hk
-www.fortress.com.hk
-www.marionnaud.fr
-app.marionnaud.fr
-mapi.moneyback.com.hk
-www.moneyback.com.hk
+www.superdrug.com
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
+app.theperfumeshop.com
+api.theperfumeshop.com
+www10.watsons.com.tw
+www.watsons.com.tw
+api.watsons.com.tw
+www10.watsons.com.ph
+api.watsons.com.ph
+www.watsons.com.ph
+www.watsons.co.th
+www20.watsons.co.th
+www10.watsons.co.th
+api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2400,8 +2404,8 @@ booth.pm
 payment.pixiv.net
 www.pixiv.net
 *.fanbox.cc
-sketch.pixiv.net
 accounts.pixiv.net
+sketch.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -2502,7 +2506,7 @@ flyiin.com
 admin.rezserver.com
 cruises.priceline.com
 secure.rezserver.com
-priceline.com
+www.bookingholdings.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3393,9 +3397,9 @@ npmjs.org
 *.githubusercontent.com
 classroom.github.com
 *.githubapp.com
-api.github.com
 npmjs.com
 github.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3540,14 +3544,14 @@ shopifyinbox.com
 *.shopifykloud.com
 *.shopifycloud.com
 accounts.shopify.com
-shopify.plus
 partners.shopify.com
+shopify.plus
 linkpop.com
 shop.app
 arrive-server.shopifycloud.com
 your-store.myshopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopifycs.com
 *.shopify.com
@@ -3591,9 +3595,9 @@ web.snapchat.com
 accounts.snapchat.com
 login.playcanvas.com
 *.sc-core.net
-snappublisher.snapchat.com
-playcanvas.com
 scan.snapchat.com
+playcanvas.com
+snappublisher.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3911,9 +3915,9 @@ app.pullrequest.com
 ctf.hacker101.com
 hackerone-user-content.com
 cover-photos.hackerone-user-content.com
-www.hackerone.com
-hackerone.com
 api.hackerone.com
+hackerone.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4053,8 +4057,6 @@ usna.edu
 usnwc.edu
 usuhs.edu
 westpoint.edu
-api.recarga.com
-api.recarga.com
 *.runpanther.io
 *.runpanther.com
 *.panther.com
