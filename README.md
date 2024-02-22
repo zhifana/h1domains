@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 22 16:24:54 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 22 16:46:24 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
@@ -181,8 +181,8 @@ widget.rentalcars.com
 secure.booking.com
 admin.booking.com
 distribution-xml.booking.com
-booking.com
 *.rentalcars.com
+booking.com
 account.booking.com
 careers.booking.com
 cars.booking.com
@@ -259,8 +259,8 @@ app.moderntreasury.com
 cdn.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -288,8 +288,8 @@ manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 www.gocardless.com
-api-sandbox.gocardless.com
 *.gocardless-cicd.io
+api-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -718,11 +718,11 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 tequila.kiwi.com
-www.kiwi.com
 jobs.kiwi.com
 *.kiwi.com
 *.skypicker.com
 auth.skypicker.com
+www.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -932,9 +932,9 @@ askpam.ai
 pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
-test.deribit.com
 *.deribit.com
 insights.deribit.com
+test.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1059,8 +1059,8 @@ pwapi.ex2b.com
 api.excalls.mobi
 social-trading.exness.com
 pay.ibex.exchange
-exness.com
 my.exness.com
+exness.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1170,8 +1170,8 @@ docs.databricks.com
 labs.databricks.com
 customer-academy.databricks.com
 support.databricks.com
-kb.databricks.com
 databricks.com
+kb.databricks.com
 advocates.databricks.com
 databricks.com
 academy.databricks.com
@@ -1197,8 +1197,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-api.krisp.ai
 *.krisp.ai
+api.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1754,8 +1754,8 @@ business.tiktok.com
 tiktok.com
 partner.tiktokshop.com
 shop.tiktok.com
-ads.tiktok.com
 *.tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1834,20 +1834,25 @@ hackerone.affirm-odin.com
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www10.watsons.com.vn
-api.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-mapi-sim.fortress.com.hk
-www.fortress.com.hk
-www.marionnaud.fr
-app.marionnaud.fr
-mapi.moneyback.com.hk
-www.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
+app.theperfumeshop.com
+api.theperfumeshop.com
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www10.watsons.com.sg
+www.watsons.com.sg
+api.watsons.com.sg
+www.watsons.com.hk
+www10.watsons.com.hk
+api.watsons.com.hk
+www10.watsons.co.id
+api.watsons.co.id
+www.watsons.co.id
+blog.watsons.com.tr
+app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2213,9 +2218,9 @@ amazonpayinsurance.in
 *.Daraz.com
 www.alibabagroup.com
 *.aliexpress.com
+*.aliyun.com
 *.taobao.com
 *.1688.com
-*.aliyun.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -3539,8 +3544,8 @@ shopifyinbox.com
 *.shopifykloud.com
 *.shopifycloud.com
 accounts.shopify.com
-shopify.plus
 partners.shopify.com
+shopify.plus
 linkpop.com
 shop.app
 arrive-server.shopifycloud.com
@@ -3590,9 +3595,9 @@ web.snapchat.com
 accounts.snapchat.com
 login.playcanvas.com
 *.sc-core.net
-snappublisher.snapchat.com
-playcanvas.com
 scan.snapchat.com
+playcanvas.com
+snappublisher.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3904,15 +3909,15 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
 hackerone.live
 b5s.hackerone-ext-content.com
-app.pullrequest.com
 hackerone-ext-content.com
 errors.hackerone.net
+app.pullrequest.com
 ctf.hacker101.com
 hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 api.hackerone.com
-hackerone.com
 www.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
