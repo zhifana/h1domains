@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 23 22:18:08 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 23 22:42:35 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
@@ -11,8 +11,8 @@ worldcoin.org
 *.toolsforhumanity.com
 bioid-management.app
 *.consumer.worldcoin.org
-getworldcoin.com
 *.worldcoin.org
+getworldcoin.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -23,10 +23,10 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 rfc.tari.com
-www.tari.com
 textexplore.tari.com
 www.tarilabs.com
 explore.tari.com
+www.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -86,13 +86,13 @@ app.dynamic.xyz
 editor.zyro.com
 www.niagahoster.co.id
 payments.hostinger.com
+www.hostinger.com
 cpanel.hostinger.com
 backend.zyro.com
 logo.zyro.com
 www.zyro.com
 *.000webhost.com
 hpanel.hostinger.com
-www.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -138,8 +138,8 @@ www.mercadolibre.com.ar
 www.mercadolivre.com.br
 www.mercadopago.com.br
 www.mercadolibre.com.co
-api.mercadolibre.com
 www.mercadopago.cl
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -179,8 +179,8 @@ chat.booking.com
 widget.rentalcars.com
 admin.booking.com
 distribution-xml.booking.com
-booking.com
 *.rentalcars.com
+booking.com
 cars.booking.com
 secure.booking.com
 careers.booking.com
@@ -247,8 +247,8 @@ pentesting.gethypr.com
 hypr37448.gethypr.com
 pentesting3.gethypr.com
 pentesting2.gethypr.com
-*.hypr.com
 hypr74352.gethypr.com
+*.hypr.com
 *.hypr.com
 pentesting.gethypr.com
 pentesting3.gethypr.com
@@ -284,12 +284,12 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
 manage-sandbox.gocardless.com
+*.gocardless-cicd.io
 *.gocardless.io
 *.gocardless-banking.io
 www.gocardless.com
 api-sandbox.gocardless.com
 *.gocardless-lab.io
-*.gocardless-cicd.io
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -464,9 +464,9 @@ www.visainfinite.ca
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
+yourdomain.freshdesk.com
 yourdomain.freshchat.com
 yourdomain.freshservice.com
-yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -522,8 +522,8 @@ bugzilla.mozilla.org
 firefox.settings.services.mozilla.com
 contile.services.mozilla.com
 addons.allizom.org
-phabricator.allizom.org
 mozilla-pontoon-staging.herokuapp.com
+phabricator.allizom.org
 accounts.firefox.com
 addons.allizom.org
 accounts.firefox.com
@@ -568,8 +568,8 @@ community-tc.services.mozilla.com
 www.six-group.com
 www.six-group.com
 api-eu.floqast.app
-*.floqast.app
 *.eu.floqast.app
+*.floqast.app
 *.eu.floqast.app
 *.floqast.app
 api-eu.floqast.app
@@ -622,8 +622,8 @@ cargo.indrive.com
 *.indriver.com
 *.indrive.com
 new-order.eu-east-1.indriverapp.com
-*.indriverapp.com
 argocd.indrive.dev
+*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1169,8 +1169,8 @@ docs.databricks.com
 labs.databricks.com
 customer-academy.databricks.com
 support.databricks.com
-databricks.com
 kb.databricks.com
+databricks.com
 advocates.databricks.com
 databricks.com
 academy.databricks.com
@@ -1489,15 +1489,15 @@ mod.reddit.com
 old.reddit.com
 api.reddit.com
 *.redditmedia.com
-ads.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 *.snooguts.net
 *.reddithelp.com
 oauth.reddit.com
 www.reddit.com
-*.reddit.com
+ads.reddit.com
 accounts.reddit.com
+*.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1753,8 +1753,8 @@ effecthouse.tiktok.com
 *.tiktokv.com
 live-backstage.tiktok.com
 tiktok.com
-*.tiktok.com
 ads.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1841,18 +1841,16 @@ app.kruidvat.nl
 www.theperfumeshop.com
 app.theperfumeshop.com
 api.theperfumeshop.com
-api.watsons.com.my
-www.watsons.com.my
-www10.watsons.com.my
-www.iciparisxl.nl
-www.iciparisxl.be
-www.iciparisxl.lu
-app.iciparisxl.nl
-app.iciparisxl.be
-app.iciparisxl.lu
-www.marionnaud.at
-app.marionnaud.at
-www.marionnaud.ch
+www10.watsons.com.tw
+www.watsons.com.tw
+api.watsons.com.tw
+www10.watsons.com.ph
+api.watsons.com.ph
+www.watsons.com.ph
+www.watsons.co.th
+www20.watsons.co.th
+www10.watsons.co.th
+api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2402,8 +2400,8 @@ payment.pixiv.net
 sketch.pixiv.net
 accounts.pixiv.net
 www.pixiv.net
-dic.pixiv.net
 *.fanbox.cc
+dic.pixiv.net
 comic.pixiv.net
 *.fanbox.cc
 booth.pm
@@ -2505,7 +2503,7 @@ cruises.priceline.com
 www.bookingholdings.com
 priceline.com
 secure.rezserver.com
-admin.rezserver.com
+flyiin.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2703,9 +2701,9 @@ res.hyattinclusivecollection.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
+*.grammarlyaws.com
 *.grammarly.com
 *.grammarly.io
-*.grammarlyaws.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -2727,10 +2725,10 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
+*.fanduel.com
 us.tvg.com
 com.fanduel.android.live
 *racing.fanduel.com
-*.fanduel.com
 tvg.com
 *.fanduel.com
 *racing.fanduel.com
@@ -2786,8 +2784,8 @@ paypalobjects.com
 *.braintreegateway.com
 *.xoom.com
 *.hyperwallet.com
-*.paypalcorp.com
 *.paypal.com
+*.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3456,9 +3454,9 @@ winecellar.zomato.com
 api.grofers.com
 api2.grofers.com
 blinkit.com
-www.algolia.com
 *.algolia.net
 *.algolianet.com
+www.algolia.com
 *.algolia.net
 *.algolianet.com
 www.algolia.com
@@ -3544,14 +3542,14 @@ shopifyinbox.com
 shopify.plus
 linkpop.com
 arrive-server.shopifycloud.com
-*.shopifycs.com
-shop.app
+*.shopify.com
 *.shopifycloud.com
 admin.shopify.com
-partners.shopify.com
-*.shopify.com
-accounts.shopify.com
 your-store.myshopify.com
+*.shopifycs.com
+partners.shopify.com
+shop.app
+accounts.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3595,8 +3593,8 @@ login.playcanvas.com
 snappublisher.snapchat.com
 playcanvas.com
 scan.snapchat.com
-app.snapchat.com
 ads.snapchat.com
+app.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3672,11 +3670,11 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
 assets.airbnb.com
+www.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
 www.hoteltonight.com
 *.withairbnb.com
-www.airbnb.com
 *.airbnb.com
 www.airbnb.com
 next.airbnb.com
