@@ -2,15 +2,15 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 23 12:28:24 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 23 12:51:01 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
 toolsforhumanity.com
-*.toolsforhumanity.com
 worldcoin.org
-getworldcoin.com
+*.toolsforhumanity.com
 bioid-management.app
+getworldcoin.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin.org
@@ -179,8 +179,8 @@ chat.booking.com
 widget.rentalcars.com
 admin.booking.com
 distribution-xml.booking.com
-*.rentalcars.com
 booking.com
+*.rentalcars.com
 cars.booking.com
 secure.booking.com
 careers.booking.com
@@ -467,8 +467,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
 yourdomain.freshchat.com
-yourdomain.freshdesk.com
 yourdomain.freshservice.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -623,8 +623,8 @@ cargo.indrive.com
 *.indriver.com
 *.indrive.com
 new-order.eu-east-1.indriverapp.com
-*.indriverapp.com
 argocd.indrive.dev
+*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -675,11 +675,11 @@ oneview.malwarebytes.com
 *.mbamupdates.com
 *.mwbsys.com
 *.mb-cosmos.com
+*.cloud.malwarebytes.com
+*.threatdown.com
+www.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
-www.malwarebytes.com
-*.threatdown.com
-*.cloud.malwarebytes.com
 *.malwarebytes.com
 my.malwarebytes.com
 *.mwbsys.com
@@ -1109,8 +1109,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-etoropartners.com
 bullsheet.me
+etoropartners.com
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1750,11 +1750,11 @@ www.pangleglobal.com
 business.tiktok.com
 tiktok.com
 shop.tiktok.com
+ads.tiktok.com
 *.tiktok.com
 partner.tiktokshop.com
 effecthouse.tiktok.com
 *.tiktokv.com
-ads.tiktok.com
 live-backstage.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -3586,7 +3586,6 @@ create.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
 spectacles.com
-app.snapchat.com
 business.snapchat.com
 ads.snapchat.com
 www.bitmoji.com
@@ -3597,6 +3596,7 @@ login.playcanvas.com
 snappublisher.snapchat.com
 playcanvas.com
 scan.snapchat.com
+app.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3915,8 +3915,8 @@ api.hackerone.com
 hackerone-user-content.com
 app.pullrequest.com
 www.hackerone.com
-ctf.hacker101.com
 hackerone.com
+ctf.hacker101.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
