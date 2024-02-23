@@ -2,14 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 23 06:21:22 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 23 06:41:52 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
 toolsforhumanity.com
 worldcoin.org
-*.consumer.worldcoin.org
 *.toolsforhumanity.com
+*.consumer.worldcoin.org
 getworldcoin.com
 *.worldcoin.org
 bioid-management.app
@@ -52,8 +52,8 @@ www.sheer.com
 my.sheer.com
 www.sheer.com
 my.sheer.com
-www.pornworld.com
 www.ddfcontent.com
+www.pornworld.com
 www.pornbox.com
 www.analvids.com
 www.pornbox.com
@@ -180,13 +180,13 @@ chat.booking.com
 widget.rentalcars.com
 admin.booking.com
 distribution-xml.booking.com
-*.rentalcars.com
 booking.com
+*.rentalcars.com
 cars.booking.com
 secure.booking.com
 careers.booking.com
-spark.fareharbor.com
 *.booking.com
+spark.fareharbor.com
 account.booking.com
 *.booking.com
 *.rentalcars.com
@@ -237,8 +237,8 @@ api2.frontapp.com
 *.booztlet.com
 *.trip.com
 *.trip.com
-dashboard.mergify.com
 api.mergify.com
+dashboard.mergify.com
 api.mergify.com
 dashboard.mergify.com
 www.compass.com
@@ -677,9 +677,9 @@ oneview.malwarebytes.com
 *.mb-cosmos.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+www.malwarebytes.com
 *.threatdown.com
 *.cloud.malwarebytes.com
-www.malwarebytes.com
 *.malwarebytes.com
 my.malwarebytes.com
 *.mwbsys.com
@@ -720,8 +720,8 @@ cfapi.voikukka.fi
 tequila.kiwi.com
 jobs.kiwi.com
 *.kiwi.com
-auth.skypicker.com
 *.skypicker.com
+auth.skypicker.com
 www.kiwi.com
 *.kiwi.com
 *.skypicker.com
@@ -1109,8 +1109,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-etoropartners.com
 bullsheet.me
+etoropartners.com
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1170,8 +1170,8 @@ docs.databricks.com
 labs.databricks.com
 customer-academy.databricks.com
 support.databricks.com
-databricks.com
 kb.databricks.com
+databricks.com
 advocates.databricks.com
 databricks.com
 academy.databricks.com
@@ -1834,20 +1834,25 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www10.watsons.com.vn
-api.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-mapi-sim.fortress.com.hk
-www.fortress.com.hk
-www.marionnaud.fr
-app.marionnaud.fr
-mapi.moneyback.com.hk
-www.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
+app.theperfumeshop.com
+api.theperfumeshop.com
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www10.watsons.com.sg
+www.watsons.com.sg
+api.watsons.com.sg
+www.watsons.com.hk
+www10.watsons.com.hk
+api.watsons.com.hk
+www10.watsons.co.id
+api.watsons.co.id
+www.watsons.co.id
+blog.watsons.com.tr
+app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2398,9 +2403,9 @@ payment.pixiv.net
 sketch.pixiv.net
 accounts.pixiv.net
 www.pixiv.net
-*.fanbox.cc
-dic.pixiv.net
 comic.pixiv.net
+dic.pixiv.net
+*.fanbox.cc
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -2501,6 +2506,7 @@ admin.rezserver.com
 cruises.priceline.com
 www.bookingholdings.com
 press.priceline.com
+priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3542,11 +3548,11 @@ linkpop.com
 shop.app
 arrive-server.shopifycloud.com
 *.shopifycs.com
-admin.shopify.com
 partners.shopify.com
 *.shopify.com
 your-store.myshopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3589,9 +3595,9 @@ web.snapchat.com
 accounts.snapchat.com
 login.playcanvas.com
 *.sc-core.net
-scan.snapchat.com
-playcanvas.com
 snappublisher.snapchat.com
+playcanvas.com
+scan.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3671,8 +3677,8 @@ api.airbnb.com
 *.airbnbcitizen.com
 www.airbnb.com
 www.hoteltonight.com
-*.withairbnb.com
 *.airbnb.com
+*.withairbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
