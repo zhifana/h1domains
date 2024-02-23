@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 22 23:41:32 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 23 00:58:12 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
@@ -52,9 +52,9 @@ www.sheer.com
 my.sheer.com
 www.sheer.com
 my.sheer.com
-www.pornworld.com
-www.analvids.com
 www.ddfcontent.com
+www.analvids.com
+www.pornworld.com
 www.pornbox.com
 www.pornbox.com
 www.analvids.com
@@ -180,8 +180,8 @@ chat.booking.com
 widget.rentalcars.com
 admin.booking.com
 distribution-xml.booking.com
-*.rentalcars.com
 booking.com
+*.rentalcars.com
 account.booking.com
 cars.booking.com
 secure.booking.com
@@ -622,9 +622,9 @@ watchdocs.indriverapp.com
 cargo.indrive.com
 *.indriver.com
 *.indrive.com
-*.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 argocd.indrive.dev
+*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -720,8 +720,8 @@ cfapi.voikukka.fi
 tequila.kiwi.com
 jobs.kiwi.com
 *.kiwi.com
-*.skypicker.com
 auth.skypicker.com
+*.skypicker.com
 www.kiwi.com
 *.kiwi.com
 *.skypicker.com
@@ -932,9 +932,9 @@ askpam.ai
 pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
-*.deribit.com
 insights.deribit.com
 test.deribit.com
+*.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1109,8 +1109,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-bullsheet.me
 etoropartners.com
+bullsheet.me
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1197,8 +1197,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-*.krisp.ai
 api.krisp.ai
+*.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1754,8 +1754,8 @@ business.tiktok.com
 tiktok.com
 partner.tiktokshop.com
 ads.tiktok.com
-shop.tiktok.com
 *.tiktok.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1834,24 +1834,20 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www.superdrug.com
-app.superdrug.com
-api.superdrug.com
+www10.watsons.com.vn
+api.watsons.com.vn
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+mapi-sim.fortress.com.hk
+www.fortress.com.hk
+www.marionnaud.fr
+app.marionnaud.fr
+mapi.moneyback.com.hk
+www.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
-app.theperfumeshop.com
-api.theperfumeshop.com
-www10.watsons.com.tw
-www.watsons.com.tw
-api.watsons.com.tw
-www10.watsons.com.ph
-api.watsons.com.ph
-www.watsons.com.ph
-www.watsons.co.th
-www20.watsons.co.th
-www10.watsons.co.th
-api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2786,8 +2782,8 @@ paypalobjects.com
 *.hyperwallet.com
 *.braintreegateway.com
 *.paypalcorp.com
-*.xoom.com
 *.paypal.com
+*.xoom.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3395,10 +3391,10 @@ education.github.com
 npmjs.org
 *.githubusercontent.com
 classroom.github.com
-*.githubapp.com
 npmjs.com
-github.com
 api.github.com
+*.githubapp.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3542,15 +3538,15 @@ yourcompany.udemy.com
 shopifyinbox.com
 *.shopifykloud.com
 *.shopifycloud.com
-shopify.plus
 partners.shopify.com
+shopify.plus
 linkpop.com
 shop.app
 arrive-server.shopifycloud.com
 *.shopify.com
 *.shopifycs.com
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 your-store.myshopify.com
 *.shopifycs.com
 *.shopify.com
@@ -3594,9 +3590,9 @@ web.snapchat.com
 accounts.snapchat.com
 login.playcanvas.com
 *.sc-core.net
-snappublisher.snapchat.com
-playcanvas.com
 scan.snapchat.com
+playcanvas.com
+snappublisher.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
