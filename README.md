@@ -2,15 +2,15 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 23 14:43:13 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 23 15:22:52 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
 toolsforhumanity.com
 worldcoin.org
 *.toolsforhumanity.com
-bioid-management.app
 getworldcoin.com
+bioid-management.app
 *.consumer.worldcoin.org
 *.worldcoin.org
 *.worldcoin.org
@@ -25,8 +25,8 @@ worldcoin.org
 rfc.tari.com
 textexplore.tari.com
 www.tarilabs.com
-explore.tari.com
 www.tari.com
+explore.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -38,8 +38,8 @@ demo.arkoselabs.com
 customer-sessions.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
-www.arkoselabs.com
 portal.arkoselabs.com
+www.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
@@ -54,8 +54,8 @@ www.sheer.com
 my.sheer.com
 www.pornworld.com
 www.ddfcontent.com
-www.pornbox.com
 www.analvids.com
+www.pornbox.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -378,7 +378,6 @@ www.visa.co.il
 visa.co.ni
 bm.visa.com
 www.visa.co.th
-www.visa.co.ve
 visa.co.za
 www.visa.com.cn
 www.visa.com.hk
@@ -467,8 +466,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
 yourdomain.freshchat.com
-yourdomain.freshdesk.com
 yourdomain.freshservice.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -673,15 +672,15 @@ http://miro.com/blog
 oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mbamupdates.com
-*.mwbsys.com
 *.mb-cosmos.com
 *.cyrus-security.com
 cloud.malwarebytes.com
-*.threatdown.com
 *.cloud.malwarebytes.com
-www.malwarebytes.com
 my.malwarebytes.com
+*.threatdown.com
+www.malwarebytes.com
 *.malwarebytes.com
+*.mwbsys.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1749,13 +1748,13 @@ creatormarketplace.tiktok.com
 www.pangleglobal.com
 business.tiktok.com
 shop.tiktok.com
-ads.tiktok.com
-partner.tiktokshop.com
 *.tiktok.com
+partner.tiktokshop.com
 effecthouse.tiktok.com
 *.tiktokv.com
 live-backstage.tiktok.com
 tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1834,19 +1833,25 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www10.watsons.com.vn
-api.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-www.fortress.com.hk
-www.marionnaud.fr
-app.marionnaud.fr
-mapi.moneyback.com.hk
-www.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
+app.theperfumeshop.com
+api.theperfumeshop.com
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www10.watsons.com.sg
+www.watsons.com.sg
+api.watsons.com.sg
+www.watsons.com.hk
+www10.watsons.com.hk
+api.watsons.com.hk
+www10.watsons.co.id
+api.watsons.co.id
+www.watsons.co.id
+blog.watsons.com.tr
+app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2396,8 +2401,8 @@ payment.pixiv.net
 sketch.pixiv.net
 accounts.pixiv.net
 www.pixiv.net
-*.fanbox.cc
 dic.pixiv.net
+*.fanbox.cc
 comic.pixiv.net
 *.fanbox.cc
 booth.pm
@@ -2499,6 +2504,7 @@ cruises.priceline.com
 www.bookingholdings.com
 press.priceline.com
 priceline.com
+secure.rezserver.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2775,12 +2781,12 @@ decision.swiftfinancial.com
 paypal.me
 py.pl
 *.venmo.com
-*.hyperwallet.com
 paypalobjects.com
 *.braintreegateway.com
 *.xoom.com
-*.paypal.com
 *.paypalcorp.com
+*.paypal.com
+*.hyperwallet.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3539,12 +3545,12 @@ shopify.plus
 linkpop.com
 shop.app
 arrive-server.shopifycloud.com
-*.shopifycs.com
 partners.shopify.com
-your-store.myshopify.com
 accounts.shopify.com
 admin.shopify.com
+your-store.myshopify.com
 *.shopify.com
+*.shopifycs.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3586,9 +3592,9 @@ web.snapchat.com
 accounts.snapchat.com
 login.playcanvas.com
 *.sc-core.net
-scan.snapchat.com
-playcanvas.com
 snappublisher.snapchat.com
+playcanvas.com
+scan.snapchat.com
 app.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
@@ -3865,8 +3871,8 @@ slack-imgs.com
 www.quip.com
 *.quip.com
 slack.com
-api.slack.com
 app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3908,8 +3914,8 @@ hackerone-user-content.com
 ctf.hacker101.com
 www.hackerone.com
 app.pullrequest.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
