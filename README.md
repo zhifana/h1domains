@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 23 21:42:54 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 23 22:18:08 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
@@ -10,9 +10,9 @@ toolsforhumanity.com
 worldcoin.org
 *.toolsforhumanity.com
 bioid-management.app
-*.worldcoin.org
 *.consumer.worldcoin.org
 getworldcoin.com
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -23,10 +23,10 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 rfc.tari.com
+www.tari.com
 textexplore.tari.com
 www.tarilabs.com
 explore.tari.com
-www.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -52,8 +52,8 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.pornworld.com
 www.ddfcontent.com
+www.pornworld.com
 www.analvids.com
 www.pornbox.com
 www.pornbox.com
@@ -77,9 +77,9 @@ account-sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
-app.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
+app.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -179,8 +179,8 @@ chat.booking.com
 widget.rentalcars.com
 admin.booking.com
 distribution-xml.booking.com
-*.rentalcars.com
 booking.com
+*.rentalcars.com
 cars.booking.com
 secure.booking.com
 careers.booking.com
@@ -247,8 +247,8 @@ pentesting.gethypr.com
 hypr37448.gethypr.com
 pentesting3.gethypr.com
 pentesting2.gethypr.com
-hypr74352.gethypr.com
 *.hypr.com
+hypr74352.gethypr.com
 *.hypr.com
 pentesting.gethypr.com
 pentesting3.gethypr.com
@@ -284,12 +284,12 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
 manage-sandbox.gocardless.com
-*.gocardless-cicd.io
 *.gocardless.io
 *.gocardless-banking.io
 www.gocardless.com
 api-sandbox.gocardless.com
 *.gocardless-lab.io
+*.gocardless-cicd.io
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -568,8 +568,8 @@ community-tc.services.mozilla.com
 www.six-group.com
 www.six-group.com
 api-eu.floqast.app
-*.eu.floqast.app
 *.floqast.app
+*.eu.floqast.app
 *.eu.floqast.app
 *.floqast.app
 api-eu.floqast.app
@@ -1108,8 +1108,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-etoropartners.com
 bullsheet.me
+etoropartners.com
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1169,8 +1169,8 @@ docs.databricks.com
 labs.databricks.com
 customer-academy.databricks.com
 support.databricks.com
-kb.databricks.com
 databricks.com
+kb.databricks.com
 advocates.databricks.com
 databricks.com
 academy.databricks.com
@@ -1489,6 +1489,7 @@ mod.reddit.com
 old.reddit.com
 api.reddit.com
 *.redditmedia.com
+ads.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 *.snooguts.net
@@ -1497,7 +1498,6 @@ oauth.reddit.com
 www.reddit.com
 *.reddit.com
 accounts.reddit.com
-ads.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1841,16 +1841,18 @@ app.kruidvat.nl
 www.theperfumeshop.com
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.watsons.com.tw
-www.watsons.com.tw
-api.watsons.com.tw
-www10.watsons.com.ph
-api.watsons.com.ph
-www.watsons.com.ph
-www.watsons.co.th
-www20.watsons.co.th
-www10.watsons.co.th
-api.watsons.co.th
+api.watsons.com.my
+www.watsons.com.my
+www10.watsons.com.my
+www.iciparisxl.nl
+www.iciparisxl.be
+www.iciparisxl.lu
+app.iciparisxl.nl
+app.iciparisxl.be
+app.iciparisxl.lu
+www.marionnaud.at
+app.marionnaud.at
+www.marionnaud.ch
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2503,7 +2505,7 @@ cruises.priceline.com
 www.bookingholdings.com
 priceline.com
 secure.rezserver.com
-flyiin.com
+admin.rezserver.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2701,9 +2703,9 @@ res.hyattinclusivecollection.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
-*.grammarlyaws.com
 *.grammarly.com
 *.grammarly.io
+*.grammarlyaws.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -2777,7 +2779,6 @@ decision.swiftfinancial.com
 *.braintree-api.com
 *.braintreepayments.com
 *.paylution.com
-*.paypalcorp.com
 paypal.me
 py.pl
 *.venmo.com
@@ -2785,6 +2786,7 @@ paypalobjects.com
 *.braintreegateway.com
 *.xoom.com
 *.hyperwallet.com
+*.paypalcorp.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3454,9 +3456,9 @@ winecellar.zomato.com
 api.grofers.com
 api2.grofers.com
 blinkit.com
+www.algolia.com
 *.algolia.net
 *.algolianet.com
-www.algolia.com
 *.algolia.net
 *.algolianet.com
 www.algolia.com
@@ -3538,18 +3540,18 @@ yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
-shop.app
 *.shopifykloud.com
 shopify.plus
 linkpop.com
 arrive-server.shopifycloud.com
 *.shopifycs.com
+shop.app
 *.shopifycloud.com
 admin.shopify.com
-*.shopify.com
-your-store.myshopify.com
-accounts.shopify.com
 partners.shopify.com
+*.shopify.com
+accounts.shopify.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3590,9 +3592,9 @@ web.snapchat.com
 accounts.snapchat.com
 login.playcanvas.com
 *.sc-core.net
-scan.snapchat.com
-playcanvas.com
 snappublisher.snapchat.com
+playcanvas.com
+scan.snapchat.com
 app.snapchat.com
 ads.snapchat.com
 accounts.snapchat.com
@@ -3670,11 +3672,11 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
 assets.airbnb.com
-www.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
 www.hoteltonight.com
 *.withairbnb.com
+www.airbnb.com
 *.airbnb.com
 www.airbnb.com
 next.airbnb.com
@@ -3870,8 +3872,8 @@ slack-imgs.com
 www.quip.com
 *.quip.com
 slack.com
-app.slack.com
 api.slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3901,6 +3903,9 @@ profile-photos.hackerone-user-content.com
 mta-sts.wearehackerone.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
+hackerone.com
+hackerone-user-content.com
+hackerone.live
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
@@ -3908,13 +3913,10 @@ b5s.hackerone-ext-content.com
 hackerone-ext-content.com
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
-ctf.hacker101.com
-www.hackerone.com
 app.pullrequest.com
+www.hackerone.com
+ctf.hacker101.com
 api.hackerone.com
-hackerone.com
-hackerone-user-content.com
-hackerone.live
 hackerone.com
 api.hackerone.com
 www.hackerone.com
