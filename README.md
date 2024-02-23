@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 23 05:41:53 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 23 06:21:22 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
 toolsforhumanity.com
-*.toolsforhumanity.com
-bioid-management.app
 worldcoin.org
 *.consumer.worldcoin.org
-*.worldcoin.org
+*.toolsforhumanity.com
 getworldcoin.com
+*.worldcoin.org
+bioid-management.app
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -182,12 +182,12 @@ admin.booking.com
 distribution-xml.booking.com
 *.rentalcars.com
 booking.com
-account.booking.com
 cars.booking.com
 secure.booking.com
 careers.booking.com
 spark.fareharbor.com
 *.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -720,8 +720,8 @@ cfapi.voikukka.fi
 tequila.kiwi.com
 jobs.kiwi.com
 *.kiwi.com
-*.skypicker.com
 auth.skypicker.com
+*.skypicker.com
 www.kiwi.com
 *.kiwi.com
 *.skypicker.com
@@ -867,8 +867,8 @@ www.hotwire.com
 www.expediacruises.com
 www.hotels.com
 www.vrbo.com
-www.expediagroup.com
 www.expedia.com
+www.expediagroup.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -1170,8 +1170,8 @@ docs.databricks.com
 labs.databricks.com
 customer-academy.databricks.com
 support.databricks.com
-kb.databricks.com
 databricks.com
+kb.databricks.com
 advocates.databricks.com
 databricks.com
 academy.databricks.com
@@ -1197,8 +1197,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-*.krisp.ai
 api.krisp.ai
+*.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1752,10 +1752,10 @@ www.pangleglobal.com
 business.tiktok.com
 *.tiktokv.com
 tiktok.com
-partner.tiktokshop.com
 ads.tiktok.com
 shop.tiktok.com
 *.tiktok.com
+partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1834,25 +1834,20 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www.kruidvat.nl
-app.kruidvat.nl
-www.theperfumeshop.com
-app.theperfumeshop.com
-api.theperfumeshop.com
+www10.watsons.com.vn
+api.watsons.com.vn
 www10.pns.hk
 api.pns.hk
 www.pns.hk
-www10.watsons.com.sg
-www.watsons.com.sg
-api.watsons.com.sg
-www.watsons.com.hk
-www10.watsons.com.hk
-api.watsons.com.hk
-www10.watsons.co.id
-api.watsons.co.id
-www.watsons.co.id
-blog.watsons.com.tr
-app.watsons.com.tr
+mapi-sim.fortress.com.hk
+www.fortress.com.hk
+www.marionnaud.fr
+app.marionnaud.fr
+mapi.moneyback.com.hk
+www.moneyback.com.hk
+www.kruidvat.nl
+app.kruidvat.nl
+www.theperfumeshop.com
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2403,9 +2398,9 @@ payment.pixiv.net
 sketch.pixiv.net
 accounts.pixiv.net
 www.pixiv.net
-comic.pixiv.net
-dic.pixiv.net
 *.fanbox.cc
+dic.pixiv.net
+comic.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -3550,8 +3545,8 @@ arrive-server.shopifycloud.com
 admin.shopify.com
 partners.shopify.com
 *.shopify.com
-accounts.shopify.com
 your-store.myshopify.com
+accounts.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3871,8 +3866,8 @@ slack-imgs.com
 www.quip.com
 *.quip.com
 slack.com
-api.slack.com
 app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3912,9 +3907,9 @@ errors.hackerone.net
 ctf.hacker101.com
 cover-photos.hackerone-user-content.com
 api.hackerone.com
-www.hackerone.com
 hackerone-user-content.com
 app.pullrequest.com
+www.hackerone.com
 hackerone.com
 hackerone.com
 api.hackerone.com
