@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 23 10:43:19 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 23 11:17:33 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
 toolsforhumanity.com
-worldcoin.org
 *.toolsforhumanity.com
+worldcoin.org
 *.consumer.worldcoin.org
 getworldcoin.com
 bioid-management.app
@@ -52,8 +52,8 @@ www.sheer.com
 my.sheer.com
 www.sheer.com
 my.sheer.com
-www.pornworld.com
 www.ddfcontent.com
+www.pornworld.com
 www.pornbox.com
 www.analvids.com
 www.pornbox.com
@@ -179,15 +179,15 @@ chat.booking.com
 widget.rentalcars.com
 admin.booking.com
 distribution-xml.booking.com
-*.rentalcars.com
 booking.com
+*.rentalcars.com
 cars.booking.com
 secure.booking.com
 careers.booking.com
 spark.fareharbor.com
 *.booking.com
-account.booking.com
 portal.taxi.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -259,8 +259,8 @@ app.moderntreasury.com
 cdn.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -1170,8 +1170,8 @@ docs.databricks.com
 labs.databricks.com
 customer-academy.databricks.com
 support.databricks.com
-kb.databricks.com
 databricks.com
+kb.databricks.com
 advocates.databricks.com
 databricks.com
 academy.databricks.com
@@ -1750,8 +1750,8 @@ creatormarketplace.tiktok.com
 www.pangleglobal.com
 business.tiktok.com
 tiktok.com
-ads.tiktok.com
 shop.tiktok.com
+ads.tiktok.com
 *.tiktok.com
 partner.tiktokshop.com
 effecthouse.tiktok.com
@@ -1834,19 +1834,24 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www10.watsons.com.vn
-api.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-www.fortress.com.hk
-www.marionnaud.fr
-app.marionnaud.fr
-mapi.moneyback.com.hk
-www.moneyback.com.hk
+www.superdrug.com
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
+app.theperfumeshop.com
+api.theperfumeshop.com
+www10.watsons.com.tw
+www.watsons.com.tw
+api.watsons.com.tw
+www10.watsons.com.ph
+api.watsons.com.ph
+www.watsons.com.ph
+www.watsons.co.th
+www20.watsons.co.th
+www10.watsons.co.th
+api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -1969,8 +1974,8 @@ my.playstation.com
 my.account.sony.com
 *.api.playstation.com
 *.sonyentertainmentnetwork.com
-*.playstation.net
 transact.playstation.com
+*.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2499,7 +2504,6 @@ admin.rezserver.com
 cruises.priceline.com
 www.bookingholdings.com
 press.priceline.com
-www.getaroom.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3417,10 +3421,10 @@ registry.gitlab.com
 design.gitlab.com
 advisories.gitlab.com
 docs.gitlab.com
-*.gitlab.net
 customers.gitlab.com
 about.gitlab.com
 *.gitlab.org
+*.gitlab.net
 gitlab.com
 *.gitlab.net
 *.gitlab.org
@@ -3588,9 +3592,9 @@ web.snapchat.com
 accounts.snapchat.com
 login.playcanvas.com
 *.sc-core.net
-snappublisher.snapchat.com
-playcanvas.com
 scan.snapchat.com
+playcanvas.com
+snappublisher.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3669,8 +3673,8 @@ assets.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
 www.airbnb.com
-*.airbnb.com
 www.hoteltonight.com
+*.airbnb.com
 *.withairbnb.com
 www.airbnb.com
 next.airbnb.com
@@ -3768,6 +3772,7 @@ one.dash.cloudflare.com
 waf.cumulusfire.net
 api.cloudflare.com
 dash.cloudflare.com
+*.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
@@ -3906,8 +3911,8 @@ errors.hackerone.net
 cover-photos.hackerone-user-content.com
 api.hackerone.com
 hackerone-user-content.com
-app.pullrequest.com
 www.hackerone.com
+app.pullrequest.com
 ctf.hacker101.com
 hackerone.com
 hackerone.com
