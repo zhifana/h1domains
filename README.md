@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 23 18:41:54 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 23 19:17:31 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
