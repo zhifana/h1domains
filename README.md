@@ -2,15 +2,15 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 23 20:22:22 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 23 20:43:47 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
 toolsforhumanity.com
 worldcoin.org
 *.toolsforhumanity.com
-*.worldcoin.org
 bioid-management.app
+*.worldcoin.org
 *.consumer.worldcoin.org
 getworldcoin.com
 *.worldcoin.org
@@ -23,10 +23,10 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 rfc.tari.com
+www.tari.com
 textexplore.tari.com
 www.tarilabs.com
 explore.tari.com
-www.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -77,9 +77,9 @@ account-sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
+app.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
-app.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -179,14 +179,14 @@ chat.booking.com
 widget.rentalcars.com
 admin.booking.com
 distribution-xml.booking.com
-booking.com
 *.rentalcars.com
+booking.com
 cars.booking.com
 secure.booking.com
 careers.booking.com
 spark.fareharbor.com
-portal.taxi.booking.com
 account.booking.com
+portal.taxi.booking.com
 *.booking.com
 *.booking.com
 *.rentalcars.com
@@ -247,8 +247,8 @@ pentesting.gethypr.com
 hypr37448.gethypr.com
 pentesting3.gethypr.com
 pentesting2.gethypr.com
-*.hypr.com
 hypr74352.gethypr.com
+*.hypr.com
 *.hypr.com
 pentesting.gethypr.com
 pentesting3.gethypr.com
@@ -259,8 +259,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicex.com
 test.nicehash.com
+test.nicex.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -567,9 +567,9 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 www.six-group.com
 www.six-group.com
+*.eu.floqast.app
 api-eu.floqast.app
 *.floqast.app
-*.eu.floqast.app
 *.eu.floqast.app
 *.floqast.app
 api-eu.floqast.app
@@ -622,8 +622,8 @@ cargo.indrive.com
 *.indriver.com
 *.indrive.com
 new-order.eu-east-1.indriverapp.com
-argocd.indrive.dev
 *.indriverapp.com
+argocd.indrive.dev
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -673,14 +673,14 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mbamupdates.com
 *.mb-cosmos.com
-*.malwarebytes.com
-*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+*.cloud.malwarebytes.com
 my.malwarebytes.com
 *.threatdown.com
 www.malwarebytes.com
 *.mwbsys.com
+*.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -977,8 +977,8 @@ artifactory.corp.mongodb.com/
 https://www.*mongodb.com/*
 mongodb.live/*
 artifactory.corp.mongodb.com/
-checksw.com
 royal.checksw.com
+checksw.com
 checksw.com
 royal.checksw.com
 *.superpal.io/*
@@ -1108,8 +1108,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-bullsheet.me
 etoropartners.com
+bullsheet.me
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1149,9 +1149,9 @@ bullsheet.me
 admin.instacart.com
 shoppers.instacart.com
 api.instacart.com
-www.instacart.com
 *.instacart.com
 *.instacart.tools
+www.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1169,8 +1169,8 @@ docs.databricks.com
 labs.databricks.com
 customer-academy.databricks.com
 support.databricks.com
-databricks.com
 kb.databricks.com
+databricks.com
 advocates.databricks.com
 databricks.com
 academy.databricks.com
@@ -1196,8 +1196,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-api.krisp.ai
 *.krisp.ai
+api.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1489,15 +1489,15 @@ mod.reddit.com
 old.reddit.com
 api.reddit.com
 *.redditmedia.com
+ads.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 *.snooguts.net
 *.reddithelp.com
 oauth.reddit.com
 www.reddit.com
-accounts.reddit.com
 *.reddit.com
-ads.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1744,7 +1744,6 @@ academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 developers.tiktok.com
 careers.tiktok.com
-*.tiktok.com
 creatormarketplace.tiktok.com
 www.pangleglobal.com
 business.tiktok.com
@@ -1754,6 +1753,7 @@ effecthouse.tiktok.com
 *.tiktokv.com
 live-backstage.tiktok.com
 tiktok.com
+*.tiktok.com
 ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2402,8 +2402,8 @@ payment.pixiv.net
 sketch.pixiv.net
 accounts.pixiv.net
 www.pixiv.net
-dic.pixiv.net
 *.fanbox.cc
+dic.pixiv.net
 comic.pixiv.net
 *.fanbox.cc
 booth.pm
@@ -3443,10 +3443,10 @@ winecellar.zomato.com
 api2.grofers.com
 api.grofers.com
 *.zomans.com
-*.hyperpure.com
 *.runnr.in
 blinkit.com
 *.zomato.com
+*.hyperpure.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3456,9 +3456,9 @@ winecellar.zomato.com
 api.grofers.com
 api2.grofers.com
 blinkit.com
-www.algolia.com
 *.algolia.net
 *.algolianet.com
+www.algolia.com
 *.algolia.net
 *.algolianet.com
 www.algolia.com
@@ -3540,17 +3540,17 @@ yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
-*.shopify.com
-your-store.myshopify.com
+shop.app
 *.shopifykloud.com
 shopify.plus
 linkpop.com
 arrive-server.shopifycloud.com
-*.shopifycs.com
 partners.shopify.com
-shop.app
+*.shopifycs.com
 *.shopifycloud.com
 admin.shopify.com
+*.shopify.com
+your-store.myshopify.com
 accounts.shopify.com
 *.shopifycs.com
 *.shopify.com
@@ -3672,11 +3672,11 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
 assets.airbnb.com
-www.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
 www.hoteltonight.com
 *.withairbnb.com
+www.airbnb.com
 *.airbnb.com
 www.airbnb.com
 next.airbnb.com
@@ -3910,13 +3910,13 @@ b5s.hackerone-ext-content.com
 hackerone-ext-content.com
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
-ctf.hacker101.com
-www.hackerone.com
 app.pullrequest.com
+www.hackerone.com
+ctf.hacker101.com
 api.hackerone.com
-hackerone.com
 hackerone-user-content.com
 hackerone.live
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
