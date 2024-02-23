@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 23 09:41:41 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 23 10:21:36 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
@@ -25,8 +25,8 @@ worldcoin.org
 rfc.tari.com
 textexplore.tari.com
 www.tarilabs.com
-www.tari.com
 explore.tari.com
+www.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -52,8 +52,8 @@ www.sheer.com
 my.sheer.com
 www.sheer.com
 my.sheer.com
-www.pornworld.com
 www.ddfcontent.com
+www.pornworld.com
 www.pornbox.com
 www.analvids.com
 www.pornbox.com
@@ -133,13 +133,13 @@ www.mercadopago.com.pe
 www.mercadopago.com.ar
 www.mercadolibre.com.pe
 www.mercadolibre.cl
-www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadolibre.com.ar
 api.mercadolibre.com
 www.mercadolivre.com.br
 www.mercadopago.com.br
 www.mercadolibre.com.co
+www.mercadopago.cl
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -259,8 +259,8 @@ app.moderntreasury.com
 cdn.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -467,8 +467,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
 yourdomain.freshchat.com
-yourdomain.freshservice.com
 yourdomain.freshdesk.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -675,11 +675,11 @@ oneview.malwarebytes.com
 *.mbamupdates.com
 *.mwbsys.com
 *.mb-cosmos.com
-*.cloud.malwarebytes.com
-*.threatdown.com
-www.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+*.threatdown.com
+*.cloud.malwarebytes.com
+www.malwarebytes.com
 *.malwarebytes.com
 my.malwarebytes.com
 *.mwbsys.com
@@ -865,10 +865,10 @@ www.orbitz.com
 www.bookabach.co.nz
 www.hotwire.com
 www.expediacruises.com
-www.hotels.com
-www.vrbo.com
 www.expedia.com
 www.expediagroup.com
+www.hotels.com
+www.vrbo.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -1049,8 +1049,8 @@ sorare.com
 api.sorare.com
 ws.sorare.com
 *.sheingsp.com
-*.romwe.com
 *.shein.com
+*.romwe.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
@@ -1752,8 +1752,8 @@ business.tiktok.com
 tiktok.com
 ads.tiktok.com
 shop.tiktok.com
-*.tiktok.com
 partner.tiktokshop.com
+*.tiktok.com
 effecthouse.tiktok.com
 *.tiktokv.com
 *.tiktok.com
@@ -3190,8 +3190,8 @@ bma.bumble.com
 corp.badoo.com
 hotornot.com
 zodia.studio
-www.bumble.com
 badoo.com
+www.bumble.com
 www.bumble.com
 bma.bumble.com
 badoo.com
@@ -3549,9 +3549,9 @@ shop.app
 arrive-server.shopifycloud.com
 *.shopifycs.com
 partners.shopify.com
-accounts.shopify.com
 *.shopify.com
 your-store.myshopify.com
+accounts.shopify.com
 admin.shopify.com
 *.shopifycs.com
 *.shopify.com
@@ -3595,9 +3595,9 @@ web.snapchat.com
 accounts.snapchat.com
 login.playcanvas.com
 *.sc-core.net
-scan.snapchat.com
-playcanvas.com
 snappublisher.snapchat.com
+playcanvas.com
+scan.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3759,8 +3759,8 @@ ide.x.ai
 grok.x.ai
 *.twimg.com
 api.x.ai
-x.com
 *.twitter.com
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
