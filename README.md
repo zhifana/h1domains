@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 23 12:51:01 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 23 13:22:41 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
 toolsforhumanity.com
 worldcoin.org
 *.toolsforhumanity.com
-bioid-management.app
 getworldcoin.com
-*.worldcoin.org
+bioid-management.app
 *.consumer.worldcoin.org
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -52,8 +52,8 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.ddfcontent.com
 www.pornworld.com
+www.ddfcontent.com
 www.pornbox.com
 www.analvids.com
 www.pornbox.com
@@ -184,10 +184,10 @@ booking.com
 cars.booking.com
 secure.booking.com
 careers.booking.com
-spark.fareharbor.com
 *.booking.com
-portal.taxi.booking.com
+spark.fareharbor.com
 account.booking.com
+portal.taxi.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -623,8 +623,8 @@ cargo.indrive.com
 *.indriver.com
 *.indrive.com
 new-order.eu-east-1.indriverapp.com
-argocd.indrive.dev
 *.indriverapp.com
+argocd.indrive.dev
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -675,11 +675,11 @@ oneview.malwarebytes.com
 *.mbamupdates.com
 *.mwbsys.com
 *.mb-cosmos.com
-*.cloud.malwarebytes.com
-*.threatdown.com
-www.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+*.threatdown.com
+*.cloud.malwarebytes.com
+www.malwarebytes.com
 *.malwarebytes.com
 my.malwarebytes.com
 *.mwbsys.com
@@ -719,10 +719,10 @@ api.sokos.fi
 cfapi.voikukka.fi
 tequila.kiwi.com
 jobs.kiwi.com
-*.skypicker.com
 auth.skypicker.com
 www.kiwi.com
 *.kiwi.com
+*.skypicker.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1109,8 +1109,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-bullsheet.me
 etoropartners.com
+bullsheet.me
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1497,8 +1497,8 @@ app.spiketrap.io
 *.reddithelp.com
 ads.reddit.com
 oauth.reddit.com
-www.reddit.com
 *.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1751,8 +1751,8 @@ business.tiktok.com
 tiktok.com
 shop.tiktok.com
 ads.tiktok.com
-*.tiktok.com
 partner.tiktokshop.com
+*.tiktok.com
 effecthouse.tiktok.com
 *.tiktokv.com
 live-backstage.tiktok.com
@@ -1834,25 +1834,24 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
+www.superdrug.com
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-www10.watsons.com.sg
-www.watsons.com.sg
-api.watsons.com.sg
-www.watsons.com.hk
-www10.watsons.com.hk
-api.watsons.com.hk
-www10.watsons.co.id
-api.watsons.co.id
-www.watsons.co.id
-blog.watsons.com.tr
-app.watsons.com.tr
+www10.watsons.com.tw
+www.watsons.com.tw
+api.watsons.com.tw
+www10.watsons.com.ph
+api.watsons.com.ph
+www.watsons.com.ph
+www.watsons.co.th
+www20.watsons.co.th
+www10.watsons.co.th
+api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -3323,12 +3322,12 @@ www.starbucks.ca
 secureui.starbucks.com
 www.starbucks.com.br
 www.starbucks.com.sg
-www.starbucks.com.cn
 gift.starbucks.co.jp
 app.starbucks.com
 openapi.starbucks.com
 www.starbucks.com
 www.starbucks.co.kr
+www.starbucks.com.cn
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3675,9 +3674,9 @@ assets.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
 www.airbnb.com
-*.airbnb.com
 www.hoteltonight.com
 *.withairbnb.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
