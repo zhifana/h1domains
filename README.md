@@ -2,16 +2,16 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 23 08:21:33 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 23 08:41:20 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
 toolsforhumanity.com
-*.toolsforhumanity.com
 worldcoin.org
 *.consumer.worldcoin.org
-getworldcoin.com
+*.toolsforhumanity.com
 bioid-management.app
+getworldcoin.com
 *.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -52,8 +52,8 @@ www.sheer.com
 my.sheer.com
 www.sheer.com
 my.sheer.com
-www.ddfcontent.com
 www.pornworld.com
+www.ddfcontent.com
 www.pornbox.com
 www.analvids.com
 www.pornbox.com
@@ -179,8 +179,8 @@ chat.booking.com
 widget.rentalcars.com
 admin.booking.com
 distribution-xml.booking.com
-*.rentalcars.com
 booking.com
+*.rentalcars.com
 cars.booking.com
 secure.booking.com
 careers.booking.com
@@ -372,7 +372,6 @@ www.visa.com.sg
 www.visa.com.vn
 www.visa.co.ao
 www.visa.co.nz
-www.currencycloud.com
 bq.visa.com
 www.visa.com.kh
 www.visa.co.il
@@ -405,6 +404,7 @@ visa.co.cr
 ht.visa.com
 www.visa.co.in
 www.authorize.net
+www.yellowpepper.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -1834,20 +1834,26 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www10.watsons.com.vn
-api.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-mapi-sim.fortress.com.hk
-www.fortress.com.hk
-www.marionnaud.fr
-app.marionnaud.fr
-mapi.moneyback.com.hk
-www.moneyback.com.hk
+www.superdrug.com
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
+app.theperfumeshop.com
+api.theperfumeshop.com
+api.watsons.com.my
+www.watsons.com.my
+www10.watsons.com.my
+www.iciparisxl.nl
+www.iciparisxl.be
+www.iciparisxl.lu
+app.iciparisxl.nl
+app.iciparisxl.be
+app.iciparisxl.lu
+www.marionnaud.at
+app.marionnaud.at
+www.marionnaud.ch
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2398,8 +2404,8 @@ payment.pixiv.net
 sketch.pixiv.net
 accounts.pixiv.net
 www.pixiv.net
-*.fanbox.cc
 dic.pixiv.net
+*.fanbox.cc
 comic.pixiv.net
 *.fanbox.cc
 booth.pm
@@ -2501,6 +2507,7 @@ admin.rezserver.com
 cruises.priceline.com
 www.bookingholdings.com
 press.priceline.com
+priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2777,11 +2784,11 @@ decision.swiftfinancial.com
 paypal.me
 py.pl
 *.venmo.com
-paypalobjects.com
 *.hyperwallet.com
+paypalobjects.com
 *.braintreegateway.com
-*.paypalcorp.com
 *.xoom.com
+*.paypalcorp.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3543,9 +3550,9 @@ shop.app
 arrive-server.shopifycloud.com
 *.shopifycs.com
 partners.shopify.com
-accounts.shopify.com
 *.shopify.com
 your-store.myshopify.com
+accounts.shopify.com
 admin.shopify.com
 *.shopifycs.com
 *.shopify.com
@@ -3671,8 +3678,8 @@ api.airbnb.com
 *.airbnbcitizen.com
 www.airbnb.com
 www.hoteltonight.com
-*.withairbnb.com
 *.airbnb.com
+*.withairbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3866,8 +3873,8 @@ slack-imgs.com
 www.quip.com
 *.quip.com
 slack.com
-api.slack.com
 app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com
