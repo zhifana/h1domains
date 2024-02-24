@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 24 11:41:42 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 24 12:24:28 UTC 2024)
 ```
 *.worldcoin-distributors.com
 worldcoin.org
@@ -25,8 +25,8 @@ worldcoin.org
 rfc.tari.com
 textexplore.tari.com
 www.tarilabs.com
-explore.tari.com
 www.tari.com
+explore.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -48,12 +48,12 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-my.sheer.com
-www.sheer.com
 www.sheer.com
 my.sheer.com
-www.pornworld.com
+www.sheer.com
+my.sheer.com
 www.ddfcontent.com
+www.pornworld.com
 www.analvids.com
 www.pornbox.com
 www.pornbox.com
@@ -86,12 +86,12 @@ app.dynamic.xyz
 editor.zyro.com
 www.niagahoster.co.id
 payments.hostinger.com
+www.hostinger.com
 cpanel.hostinger.com
 backend.zyro.com
 logo.zyro.com
 www.zyro.com
 hpanel.hostinger.com
-www.hostinger.com
 *.000webhost.com
 *.000webhost.com
 www.hostinger.com
@@ -179,8 +179,8 @@ chat.booking.com
 widget.rentalcars.com
 admin.booking.com
 distribution-xml.booking.com
-*.rentalcars.com
 booking.com
+*.rentalcars.com
 cars.booking.com
 secure.booking.com
 careers.booking.com
@@ -1168,8 +1168,8 @@ docs.databricks.com
 labs.databricks.com
 customer-academy.databricks.com
 support.databricks.com
-kb.databricks.com
 databricks.com
+kb.databricks.com
 advocates.databricks.com
 databricks.com
 academy.databricks.com
@@ -1195,8 +1195,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-api.krisp.ai
 *.krisp.ai
+api.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1752,8 +1752,8 @@ effecthouse.tiktok.com
 *.tiktokv.com
 live-backstage.tiktok.com
 tiktok.com
-ads.tiktok.com
 *.tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1832,25 +1832,26 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
+www.superdrug.com
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-www10.watsons.com.sg
-www.watsons.com.sg
-api.watsons.com.sg
-www.watsons.com.hk
-www10.watsons.com.hk
-api.watsons.com.hk
-www10.watsons.co.id
-api.watsons.co.id
-www.watsons.co.id
-blog.watsons.com.tr
-app.watsons.com.tr
+api.watsons.com.my
+www.watsons.com.my
+www10.watsons.com.my
+www.iciparisxl.nl
+www.iciparisxl.be
+www.iciparisxl.lu
+app.iciparisxl.nl
+app.iciparisxl.be
+app.iciparisxl.lu
+www.marionnaud.at
+app.marionnaud.at
+www.marionnaud.ch
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2399,8 +2400,8 @@ booth.pm
 payment.pixiv.net
 sketch.pixiv.net
 www.pixiv.net
-*.fanbox.cc
 dic.pixiv.net
+*.fanbox.cc
 comic.pixiv.net
 accounts.pixiv.net
 *.fanbox.cc
@@ -2501,8 +2502,8 @@ reservations.rezserver.com
 api.rezserver.com
 cruises.priceline.com
 www.bookingholdings.com
-flyiin.com
 admin.rezserver.com
+flyiin.com
 www.getaroom.com
 www.priceline.com
 secure.rezserver.com
@@ -2701,9 +2702,9 @@ res.hyattinclusivecollection.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
+*.grammarlyaws.com
 *.grammarly.com
 *.grammarly.io
-*.grammarlyaws.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -2725,8 +2726,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-*racing.fanduel.com
 tvg.com
+*racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
 *.fanduel.com
@@ -3441,9 +3442,9 @@ winecellar.zomato.com
 api2.grofers.com
 api.grofers.com
 *.zomans.com
+*.hyperpure.com
 *.runnr.in
 blinkit.com
-*.hyperpure.com
 *.zomato.com
 *.zomato.com
 *.zdev.net
@@ -3533,20 +3534,20 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 http://h1-your-domain.zendesk.com/sell
-www.udemy.com
 yourcompany.udemy.com
+www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
 *.shopifykloud.com
 linkpop.com
 arrive-server.shopifycloud.com
-*.shopify.com
+*.shopifycs.com
 *.shopifycloud.com
 admin.shopify.com
-*.shopifycs.com
 accounts.shopify.com
 partners.shopify.com
+*.shopify.com
 your-store.myshopify.com
 shopify.plus
 shop.app
@@ -3670,10 +3671,10 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
 assets.airbnb.com
-www.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
 www.hoteltonight.com
+www.airbnb.com
 *.withairbnb.com
 *.airbnb.com
 www.airbnb.com
@@ -3870,8 +3871,8 @@ slack-imgs.com
 www.quip.com
 *.quip.com
 slack.com
-app.slack.com
 api.slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
