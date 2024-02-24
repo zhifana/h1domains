@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 24 19:42:13 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 24 20:17:21 UTC 2024)
 ```
 *.worldcoin-distributors.com
 worldcoin.org
@@ -52,8 +52,8 @@ www.sheer.com
 my.sheer.com
 www.sheer.com
 my.sheer.com
-www.pornworld.com
 www.ddfcontent.com
+www.pornworld.com
 www.analvids.com
 www.pornbox.com
 www.pornbox.com
@@ -86,12 +86,12 @@ app.dynamic.xyz
 editor.zyro.com
 www.niagahoster.co.id
 payments.hostinger.com
-www.hostinger.com
 cpanel.hostinger.com
 backend.zyro.com
 logo.zyro.com
 www.zyro.com
 hpanel.hostinger.com
+www.hostinger.com
 *.000webhost.com
 *.000webhost.com
 www.hostinger.com
@@ -673,14 +673,14 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mbamupdates.com
 *.mb-cosmos.com
+*.malwarebytes.com
+*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
-*.cloud.malwarebytes.com
 my.malwarebytes.com
 *.threatdown.com
 www.malwarebytes.com
 *.mwbsys.com
-*.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1481,7 +1481,6 @@ reddit.secure.force.com
 sh.reddit.com
 www.spiketrap.io
 matrix.redditspace.com
-ads-api.reddit.com
 gateway.reddit.com
 mod.reddit.com
 *.redditinc.com
@@ -1497,6 +1496,7 @@ www.reddit.com
 accounts.reddit.com
 ads.reddit.com
 *.reddit.com
+ads-api.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2703,8 +2703,8 @@ www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
 *.grammarlyaws.com
-*.grammarly.io
 *.grammarly.com
+*.grammarly.io
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -3396,8 +3396,8 @@ classroom.github.com
 npmjs.com
 *.githubapp.com
 github.com
-api.github.com
 *.githubusercontent.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3444,8 +3444,8 @@ api.grofers.com
 *.zomans.com
 *.runnr.in
 blinkit.com
-*.zomato.com
 *.hyperpure.com
+*.zomato.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3455,9 +3455,9 @@ winecellar.zomato.com
 api.grofers.com
 api2.grofers.com
 blinkit.com
-www.algolia.com
 *.algolia.net
 *.algolianet.com
+www.algolia.com
 *.algolia.net
 *.algolianet.com
 www.algolia.com
@@ -3543,12 +3543,12 @@ linkpop.com
 arrive-server.shopifycloud.com
 *.shopifycloud.com
 *.shopifycs.com
-partners.shopify.com
 accounts.shopify.com
+partners.shopify.com
 shopify.plus
 shop.app
-*.shopifykloud.com
 admin.shopify.com
+*.shopifykloud.com
 your-store.myshopify.com
 *.shopify.com
 *.shopifycs.com
@@ -3671,10 +3671,10 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
 assets.airbnb.com
-www.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
 www.hoteltonight.com
+www.airbnb.com
 *.withairbnb.com
 *.airbnb.com
 www.airbnb.com
