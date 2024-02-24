@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 24 00:57:40 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 24 01:44:54 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
@@ -10,8 +10,8 @@ toolsforhumanity.com
 worldcoin.org
 *.toolsforhumanity.com
 bioid-management.app
-getworldcoin.com
 *.consumer.worldcoin.org
+getworldcoin.com
 *.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -23,10 +23,10 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 rfc.tari.com
-www.tari.com
 textexplore.tari.com
 www.tarilabs.com
 explore.tari.com
+www.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -127,7 +127,6 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
-api.mercadolibre.com
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
@@ -138,6 +137,7 @@ www.mercadopago.com.mx
 www.mercadolivre.com.br
 www.mercadopago.com.br
 www.mercadolibre.com.co
+api.mercadolibre.com
 www.mercadopago.cl
 www.mercadolibre.com.ar
 api.mercadopago.com
@@ -179,8 +179,8 @@ chat.booking.com
 widget.rentalcars.com
 admin.booking.com
 distribution-xml.booking.com
-booking.com
 *.rentalcars.com
+booking.com
 cars.booking.com
 secure.booking.com
 careers.booking.com
@@ -259,8 +259,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -284,12 +284,12 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
 manage-sandbox.gocardless.com
+*.gocardless-cicd.io
 *.gocardless.io
 *.gocardless-banking.io
 www.gocardless.com
 api-sandbox.gocardless.com
 *.gocardless-lab.io
-*.gocardless-cicd.io
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -466,8 +466,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshservice.com
-yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -485,8 +485,8 @@ api.kolesa.kz
 api.avtoelon.uz
 avtoelon.uz
 id.kolesa.kz
-krisha.kz
 kolesa.kz
+krisha.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -622,8 +622,8 @@ cargo.indrive.com
 *.indriver.com
 *.indrive.com
 new-order.eu-east-1.indriverapp.com
-argocd.indrive.dev
 *.indriverapp.com
+argocd.indrive.dev
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -954,8 +954,8 @@ alexaanswers.amazon.com
 alexa.amazon.com
 creator.amazon.com
 a4k.amazon.com
-blueprints.amazon.com
 read.amazon.com
+blueprints.amazon.com
 read.amazon.com
 alexaanswers.amazon.com
 blueprints.amazon.com
@@ -1107,8 +1107,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-etoropartners.com
 bullsheet.me
+etoropartners.com
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1743,7 +1743,6 @@ academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 developers.tiktok.com
 careers.tiktok.com
-*.tiktok.com
 creatormarketplace.tiktok.com
 www.pangleglobal.com
 business.tiktok.com
@@ -1753,6 +1752,7 @@ effecthouse.tiktok.com
 *.tiktokv.com
 live-backstage.tiktok.com
 tiktok.com
+*.tiktok.com
 ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -1832,25 +1832,26 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
+www.superdrug.com
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-www10.watsons.com.sg
-www.watsons.com.sg
-api.watsons.com.sg
-www.watsons.com.hk
-www10.watsons.com.hk
-api.watsons.com.hk
-www10.watsons.co.id
-api.watsons.co.id
-www.watsons.co.id
-blog.watsons.com.tr
-app.watsons.com.tr
+api.watsons.com.my
+www.watsons.com.my
+www10.watsons.com.my
+www.iciparisxl.nl
+www.iciparisxl.be
+www.iciparisxl.lu
+app.iciparisxl.nl
+app.iciparisxl.be
+app.iciparisxl.lu
+www.marionnaud.at
+app.marionnaud.at
+www.marionnaud.ch
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2503,7 +2504,7 @@ cruises.priceline.com
 www.bookingholdings.com
 priceline.com
 secure.rezserver.com
-admin.rezserver.com
+flyiin.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2702,8 +2703,8 @@ www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
 *.grammarlyaws.com
-*.grammarly.io
 *.grammarly.com
+*.grammarly.io
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -2725,9 +2726,9 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-tvg.com
 *racing.fanduel.com
 *.fanduel.com
+tvg.com
 us.tvg.com
 com.fanduel.android.live
 *.fanduel.com
@@ -2784,8 +2785,8 @@ paypalobjects.com
 *.braintreegateway.com
 *.xoom.com
 *.hyperwallet.com
-*.paypal.com
 *.paypalcorp.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3441,10 +3442,10 @@ winecellar.zomato.com
 api2.grofers.com
 api.grofers.com
 *.zomans.com
-*.hyperpure.com
 *.runnr.in
 blinkit.com
 *.zomato.com
+*.hyperpure.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3533,23 +3534,23 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 http://h1-your-domain.zendesk.com/sell
-www.udemy.com
 yourcompany.udemy.com
+www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
+*.shopify.com
 *.shopifykloud.com
 shopify.plus
 linkpop.com
 arrive-server.shopifycloud.com
-*.shopify.com
+*.shopifycs.com
+shop.app
 *.shopifycloud.com
 admin.shopify.com
-your-store.myshopify.com
-*.shopifycs.com
 partners.shopify.com
-shop.app
 accounts.shopify.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3670,11 +3671,11 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
 assets.airbnb.com
-www.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
 www.hoteltonight.com
 *.airbnb.com
+www.airbnb.com
 *.withairbnb.com
 www.airbnb.com
 next.airbnb.com
@@ -3909,12 +3910,12 @@ hackerone-ext-content.com
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
 app.pullrequest.com
-www.hackerone.com
 ctf.hacker101.com
 api.hackerone.com
 hackerone-user-content.com
 hackerone.live
 hackerone.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
