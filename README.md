@@ -2,16 +2,16 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 24 09:41:24 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 24 10:18:38 UTC 2024)
 ```
 *.worldcoin-distributors.com
 worldcoin.org
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
 bioid-management.app
-toolsforhumanity.com
 *.worldcoin.dev
 getworldcoin.com
+toolsforhumanity.com
 *.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -179,8 +179,8 @@ chat.booking.com
 widget.rentalcars.com
 admin.booking.com
 distribution-xml.booking.com
-booking.com
 *.rentalcars.com
+booking.com
 cars.booking.com
 secure.booking.com
 careers.booking.com
@@ -402,8 +402,8 @@ www.fraedom.com
 visa.co.cr
 ht.visa.com
 www.visa.co.in
-www.authorize.net
 www.yellowpepper.com
+www.visa.com.br
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -466,8 +466,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshservice.com
-yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -480,13 +480,13 @@ m.avtoelon.uz
 api.krisha.kz
 app.krisha.kz
 m.krisha.kz
-m.kolesa.kz
 api.kolesa.kz
 api.avtoelon.uz
 avtoelon.uz
 id.kolesa.kz
 krisha.kz
 kolesa.kz
+m.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -622,8 +622,8 @@ cargo.indrive.com
 *.indriver.com
 *.indrive.com
 new-order.eu-east-1.indriverapp.com
-argocd.indrive.dev
 *.indriverapp.com
+argocd.indrive.dev
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -976,8 +976,8 @@ artifactory.corp.mongodb.com/
 https://www.*mongodb.com/*
 mongodb.live/*
 artifactory.corp.mongodb.com/
-royal.checksw.com
 checksw.com
+royal.checksw.com
 checksw.com
 royal.checksw.com
 *.superpal.io/*
@@ -1107,8 +1107,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-etoropartners.com
 bullsheet.me
+etoropartners.com
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1195,8 +1195,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-api.krisp.ai
 *.krisp.ai
+api.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1494,8 +1494,8 @@ app.spiketrap.io
 *.reddithelp.com
 oauth.reddit.com
 www.reddit.com
-accounts.reddit.com
 *.reddit.com
+accounts.reddit.com
 ads.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -2398,8 +2398,8 @@ booth.pm
 payment.pixiv.net
 sketch.pixiv.net
 www.pixiv.net
-dic.pixiv.net
 *.fanbox.cc
+dic.pixiv.net
 comic.pixiv.net
 accounts.pixiv.net
 *.fanbox.cc
@@ -2500,8 +2500,8 @@ reservations.rezserver.com
 api.rezserver.com
 cruises.priceline.com
 www.bookingholdings.com
-flyiin.com
 admin.rezserver.com
+flyiin.com
 www.getaroom.com
 www.priceline.com
 secure.rezserver.com
@@ -2700,9 +2700,9 @@ res.hyattinclusivecollection.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
-*.grammarlyaws.com
 *.grammarly.com
 *.grammarly.io
+*.grammarlyaws.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -2724,8 +2724,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-tvg.com
 *racing.fanduel.com
+tvg.com
 us.tvg.com
 com.fanduel.android.live
 *.fanduel.com
@@ -2783,8 +2783,8 @@ paypalobjects.com
 *.braintreegateway.com
 *.xoom.com
 *.paypalcorp.com
-*.paypal.com
 *.hyperwallet.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3440,10 +3440,10 @@ winecellar.zomato.com
 api2.grofers.com
 api.grofers.com
 *.zomans.com
+*.hyperpure.com
 *.runnr.in
 blinkit.com
 *.zomato.com
-*.hyperpure.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3453,9 +3453,9 @@ winecellar.zomato.com
 api.grofers.com
 api2.grofers.com
 blinkit.com
-www.algolia.com
 *.algolia.net
 *.algolianet.com
+www.algolia.com
 *.algolia.net
 *.algolianet.com
 www.algolia.com
@@ -3532,21 +3532,21 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 http://h1-your-domain.zendesk.com/sell
-yourcompany.udemy.com
 www.udemy.com
+yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
-*.shopify.com
+shop.app
 *.shopifykloud.com
 linkpop.com
 arrive-server.shopifycloud.com
 *.shopifycs.com
-shop.app
 *.shopifycloud.com
 admin.shopify.com
-partners.shopify.com
 accounts.shopify.com
+partners.shopify.com
+*.shopify.com
 your-store.myshopify.com
 shopify.plus
 *.shopifycs.com
@@ -3588,9 +3588,9 @@ www.bitmoji.com
 accounts.snapchat.com
 login.playcanvas.com
 *.sc-core.net
-snappublisher.snapchat.com
-playcanvas.com
 scan.snapchat.com
+playcanvas.com
+snappublisher.snapchat.com
 app.snapchat.com
 ads.snapchat.com
 web.snapchat.com
@@ -3869,8 +3869,8 @@ slack-imgs.com
 www.quip.com
 *.quip.com
 slack.com
-api.slack.com
 app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com
