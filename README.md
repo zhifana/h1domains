@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 24 23:17:23 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 24 23:40:10 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.toolsforhumanity.com
@@ -48,12 +48,12 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-www.sheer.com
 my.sheer.com
 www.sheer.com
+www.sheer.com
 my.sheer.com
-www.ddfcontent.com
 www.pornworld.com
+www.ddfcontent.com
 www.analvids.com
 www.pornbox.com
 www.pornbox.com
@@ -259,8 +259,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -673,14 +673,14 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mbamupdates.com
 *.mb-cosmos.com
+*.malwarebytes.com
+*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
-*.cloud.malwarebytes.com
 my.malwarebytes.com
 *.threatdown.com
 www.malwarebytes.com
 *.mwbsys.com
-*.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -976,8 +976,8 @@ artifactory.corp.mongodb.com/
 https://www.*mongodb.com/*
 mongodb.live/*
 artifactory.corp.mongodb.com/
-checksw.com
 royal.checksw.com
+checksw.com
 checksw.com
 royal.checksw.com
 *.superpal.io/*
@@ -1168,8 +1168,8 @@ docs.databricks.com
 labs.databricks.com
 customer-academy.databricks.com
 support.databricks.com
-kb.databricks.com
 databricks.com
+kb.databricks.com
 advocates.databricks.com
 databricks.com
 academy.databricks.com
@@ -1752,8 +1752,8 @@ effecthouse.tiktok.com
 *.tiktokv.com
 live-backstage.tiktok.com
 ads.tiktok.com
-tiktok.com
 *.tiktok.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1832,25 +1832,19 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www.kruidvat.nl
-app.kruidvat.nl
-www.theperfumeshop.com
-app.theperfumeshop.com
-api.theperfumeshop.com
+www10.watsons.com.vn
+api.watsons.com.vn
 www10.pns.hk
 api.pns.hk
 www.pns.hk
-www10.watsons.com.sg
-www.watsons.com.sg
-api.watsons.com.sg
-www.watsons.com.hk
-www10.watsons.com.hk
-api.watsons.com.hk
-www10.watsons.co.id
-api.watsons.co.id
-www.watsons.co.id
-blog.watsons.com.tr
-app.watsons.com.tr
+www.fortress.com.hk
+www.marionnaud.fr
+app.marionnaud.fr
+mapi.moneyback.com.hk
+www.moneyback.com.hk
+www.kruidvat.nl
+app.kruidvat.nl
+www.theperfumeshop.com
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2399,8 +2393,8 @@ booth.pm
 payment.pixiv.net
 sketch.pixiv.net
 www.pixiv.net
-dic.pixiv.net
 *.fanbox.cc
+dic.pixiv.net
 comic.pixiv.net
 accounts.pixiv.net
 *.fanbox.cc
@@ -3443,8 +3437,8 @@ api.grofers.com
 *.zomans.com
 *.runnr.in
 blinkit.com
-*.zomato.com
 *.hyperpure.com
+*.zomato.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3541,12 +3535,12 @@ shopifyinbox.com
 linkpop.com
 arrive-server.shopifycloud.com
 *.shopifycloud.com
-partners.shopify.com
 accounts.shopify.com
+partners.shopify.com
 shopify.plus
 shop.app
-*.shopifykloud.com
 admin.shopify.com
+*.shopifykloud.com
 your-store.myshopify.com
 *.shopify.com
 *.shopifycs.com
@@ -3591,8 +3585,8 @@ login.playcanvas.com
 snappublisher.snapchat.com
 playcanvas.com
 scan.snapchat.com
-app.snapchat.com
 ads.snapchat.com
+app.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
 accounts.snapchat.com
@@ -3900,8 +3894,6 @@ profile-photos.hackerone-user-content.com
 mta-sts.wearehackerone.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
-hackerone-user-content.com
-hackerone.live
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
@@ -3912,6 +3904,8 @@ cover-photos.hackerone-user-content.com
 app.pullrequest.com
 ctf.hacker101.com
 api.hackerone.com
+hackerone-user-content.com
+hackerone.live
 www.hackerone.com
 hackerone.com
 hackerone.com
