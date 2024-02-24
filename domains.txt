@@ -1,5 +1,5 @@
-*.bancointer.com.br
 *.inter.co
+*.bancointer.com.br
 *.inter.co
 *.bancointer.com.br
 *.worldcoin-distributors.com
@@ -21,7 +21,6 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 task-manager.biz
-your-domain.snapshotreport.biz
 your-domain.pdqs.mobi
 your-domain.smblogin.com
 your-domain.steprep.com
@@ -30,6 +29,7 @@ customervoice.biz
 *.apigateway.co
 *.vendasta-internal.com
 *.yesware.com
+your-domain.snapshotreport.biz
 partners.vendasta.com
 *.apigateway.co
 *.vendasta-internal.com
@@ -142,12 +142,12 @@ login.wellhive.com
 editor.zyro.com
 www.niagahoster.co.id
 payments.hostinger.com
+www.hostinger.com
 cpanel.hostinger.com
 backend.zyro.com
 logo.zyro.com
 www.zyro.com
 hpanel.hostinger.com
-www.hostinger.com
 *.000webhost.com
 *.000webhost.com
 www.hostinger.com
@@ -1304,12 +1304,12 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
 manage-sandbox.gocardless.com
+*.gocardless-cicd.io
 *.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 api-sandbox.gocardless.com
 *.gocardless-lab.io
-*.gocardless-cicd.io
 www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -2859,8 +2859,8 @@ api.avtoelon.uz
 avtoelon.uz
 id.kolesa.kz
 krisha.kz
-kolesa.kz
 m.kolesa.kz
+kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -3129,8 +3129,8 @@ watchdocs.indriverapp.com
 cargo.indrive.com
 *.indriver.com
 new-order.eu-east-1.indriverapp.com
-argocd.indrive.dev
 *.indriverapp.com
+argocd.indrive.dev
 *.indrive.com
 *.indriverapp.com
 *.indrive.com
@@ -3202,14 +3202,14 @@ oneview.malwarebytes.com
 *.mbamupdates.com
 *.mb-cosmos.com
 blog.malwarebytes.com
-*.malwarebytes.com
-*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+*.cloud.malwarebytes.com
 my.malwarebytes.com
 *.threatdown.com
 www.malwarebytes.com
 *.mwbsys.com
+*.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -3948,8 +3948,8 @@ artifactory.corp.mongodb.com/
 https://www.*mongodb.com/*
 mongodb.live/*
 artifactory.corp.mongodb.com/
-royal.checksw.com
 checksw.com
+royal.checksw.com
 checksw.com
 royal.checksw.com
 shard.wwwfeo.fossil.com.edgekey.net
@@ -4641,6 +4641,8 @@ paetec.net
 *.fidelity.com
 www.personalcreations.com
 *.gifts.com
+www.gifts.com
+*.iseeme.com
 *.simplytoimpress.com
 *.canvasworld.com
 iseeme.com
@@ -4650,8 +4652,6 @@ ai.planetart.com
 *.mycustomcase.com
 www.cafepress.com
 www.photoaffections.com
-*.iseeme.com
-www.gifts.com
 www.canvasworld.com
 www.simplytoimpress.com
 www.mycustomcase.com
@@ -4939,8 +4939,8 @@ docs.databricks.com
 labs.databricks.com
 customer-academy.databricks.com
 support.databricks.com
-databricks.com
 kb.databricks.com
+databricks.com
 advocates.databricks.com
 databricks.com
 academy.databricks.com
@@ -5032,8 +5032,8 @@ mytva.com
 tvawcma.com
 *.tva-energyright.com
 *.tva.com
-*.mytva.com
 tvars.com
+*.mytva.com
 *.tva.gov
 *.tva.gov
 *.tva.com
@@ -5069,8 +5069,8 @@ contact.krisp.ai
 url5145.krisp.ai
 krisp.ai
 help.krisp.ai
-*.krisp.ai
 api.krisp.ai
+*.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -7030,8 +7030,8 @@ effecthouse.tiktok.com
 *.tiktokv.com
 live-backstage.tiktok.com
 ads.tiktok.com
-*.tiktok.com
 tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -7719,8 +7719,8 @@ www.digitalocean.com
 api.cloudways.com
 www.cloudways.com
 *.digitalocean.com
-api.digitalocean.com
 cloud.digitalocean.com
+api.digitalocean.com
 *.digitalocean.com
 cloud.digitalocean.com
 api.digitalocean.com
@@ -8599,8 +8599,8 @@ booth.pm
 payment.pixiv.net
 sketch.pixiv.net
 www.pixiv.net
-*.fanbox.cc
 dic.pixiv.net
+*.fanbox.cc
 comic.pixiv.net
 accounts.pixiv.net
 *.fanbox.cc
@@ -8870,8 +8870,8 @@ reservations.rezserver.com
 api.rezserver.com
 cruises.priceline.com
 www.bookingholdings.com
-flyiin.com
 admin.rezserver.com
+flyiin.com
 secure.rezserver.com
 www.priceline.com
 secure.rezserver.com
@@ -9121,8 +9121,8 @@ www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
 *.grammarlyaws.com
-*.grammarly.com
 *.grammarly.io
+*.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -9501,6 +9501,7 @@ coalitioninc.com
 platform.thecoalition.com
 api.thecoalition.com
 coalitioninc.com
+www.toyota.com
 www.toyotafinancialpr.com
 www.toyotaconnected.com
 www.lexusfinancial.com
@@ -9519,7 +9520,6 @@ www.toyotaconnected.co.in
 www.toyotafinancial.com
 www.login.gac.toyota.com
 www.lexus.com
-www.toyota.com
 www.dashboard.gatekeepers.co.in
 www.toyotaconnected.co.in
 www.toyota.com
@@ -10101,8 +10101,8 @@ shopifyinbox.com
 linkpop.com
 arrive-server.shopifycloud.com
 *.shopifycloud.com
-accounts.shopify.com
 partners.shopify.com
+accounts.shopify.com
 shopify.plus
 shop.app
 admin.shopify.com
@@ -10148,9 +10148,9 @@ business.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 *.sc-core.net
-snappublisher.snapchat.com
-playcanvas.com
 scan.snapchat.com
+playcanvas.com
+snappublisher.snapchat.com
 app.snapchat.com
 ads.snapchat.com
 web.snapchat.com
@@ -10361,10 +10361,10 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
 assets.airbnb.com
+www.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
 www.hoteltonight.com
-www.airbnb.com
 *.withairbnb.com
 *.airbnb.com
 www.airbnb.com
