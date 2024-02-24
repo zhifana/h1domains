@@ -2,16 +2,16 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 24 14:15:44 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 24 14:42:26 UTC 2024)
 ```
 *.worldcoin-distributors.com
-worldcoin.org
 *.toolsforhumanity.com
+worldcoin.org
 *.consumer.worldcoin.org
 bioid-management.app
-toolsforhumanity.com
 *.worldcoin.dev
 getworldcoin.com
+toolsforhumanity.com
 *.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -25,8 +25,8 @@ worldcoin.org
 rfc.tari.com
 textexplore.tari.com
 www.tarilabs.com
-www.tari.com
 explore.tari.com
+www.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -622,8 +622,8 @@ cargo.indrive.com
 *.indriver.com
 *.indrive.com
 new-order.eu-east-1.indriverapp.com
-*.indriverapp.com
 argocd.indrive.dev
+*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1195,8 +1195,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-api.krisp.ai
 *.krisp.ai
+api.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1494,9 +1494,9 @@ app.spiketrap.io
 *.reddithelp.com
 oauth.reddit.com
 www.reddit.com
-*.reddit.com
 accounts.reddit.com
 ads.reddit.com
+*.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1840,16 +1840,18 @@ app.kruidvat.nl
 www.theperfumeshop.com
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.watsons.com.tw
-www.watsons.com.tw
-api.watsons.com.tw
-www10.watsons.com.ph
-api.watsons.com.ph
-www.watsons.com.ph
-www.watsons.co.th
-www20.watsons.co.th
-www10.watsons.co.th
-api.watsons.co.th
+api.watsons.com.my
+www.watsons.com.my
+www10.watsons.com.my
+www.iciparisxl.nl
+www.iciparisxl.be
+www.iciparisxl.lu
+app.iciparisxl.nl
+app.iciparisxl.be
+app.iciparisxl.lu
+www.marionnaud.at
+app.marionnaud.at
+www.marionnaud.ch
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2500,8 +2502,8 @@ reservations.rezserver.com
 api.rezserver.com
 cruises.priceline.com
 www.bookingholdings.com
-flyiin.com
 admin.rezserver.com
+flyiin.com
 www.getaroom.com
 www.priceline.com
 secure.rezserver.com
@@ -2724,8 +2726,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-tvg.com
 *racing.fanduel.com
+tvg.com
 us.tvg.com
 com.fanduel.android.live
 *.fanduel.com
@@ -3453,9 +3455,9 @@ winecellar.zomato.com
 api.grofers.com
 api2.grofers.com
 blinkit.com
+www.algolia.com
 *.algolia.net
 *.algolianet.com
-www.algolia.com
 *.algolia.net
 *.algolianet.com
 www.algolia.com
@@ -3539,16 +3541,16 @@ yourcompany.udemy.com
 shopifyinbox.com
 linkpop.com
 arrive-server.shopifycloud.com
-*.shopify.com
 *.shopifycloud.com
 admin.shopify.com
 *.shopifycs.com
-partners.shopify.com
 accounts.shopify.com
+partners.shopify.com
 your-store.myshopify.com
 shopify.plus
 shop.app
 *.shopifykloud.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3591,8 +3593,8 @@ login.playcanvas.com
 snappublisher.snapchat.com
 playcanvas.com
 scan.snapchat.com
-ads.snapchat.com
 app.snapchat.com
+ads.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
@@ -3669,10 +3671,10 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
 assets.airbnb.com
-www.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
 www.hoteltonight.com
+www.airbnb.com
 *.withairbnb.com
 *.airbnb.com
 www.airbnb.com
