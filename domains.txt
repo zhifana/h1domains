@@ -7,9 +7,9 @@ worldcoin.org
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
 bioid-management.app
+toolsforhumanity.com
 *.worldcoin.dev
 getworldcoin.com
-toolsforhumanity.com
 *.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -21,6 +21,7 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 task-manager.biz
+your-domain.snapshotreport.biz
 your-domain.pdqs.mobi
 your-domain.smblogin.com
 your-domain.steprep.com
@@ -28,9 +29,8 @@ your-domain.socialsmbs.com
 customervoice.biz
 *.apigateway.co
 *.vendasta-internal.com
-partners.vendasta.com
 *.yesware.com
-your-domain.snapshotreport.biz
+partners.vendasta.com
 *.apigateway.co
 *.vendasta-internal.com
 *.yesware.com
@@ -241,8 +241,8 @@ chat.booking.com
 widget.rentalcars.com
 admin.booking.com
 distribution-xml.booking.com
-*.rentalcars.com
 booking.com
+*.rentalcars.com
 cars.booking.com
 secure.booking.com
 careers.booking.com
@@ -1250,8 +1250,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -2840,8 +2840,8 @@ biologyfinder.com
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshservice.com
-yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -2859,8 +2859,8 @@ api.avtoelon.uz
 avtoelon.uz
 id.kolesa.kz
 krisha.kz
-kolesa.kz
 m.kolesa.kz
+kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -3652,8 +3652,8 @@ blog.varonis.br
 blog.varonis.ru
 blog.varonis.es
 varonis.net
-*.varonis.io
 *.varonis.com
+*.varonis.io
 *.varonis.com
 *.varonis.io
 blog.varonis.fr
@@ -3771,10 +3771,10 @@ app.citushealth.com/
 app.citushealth.ca
 resmed.co.uk
 resmed.com
+account.resmed.com
 www.citushealth.com
 careers.resmed.com
 onlinestore.resmed.com
-account.resmed.com
 narval-easy.resmed.eu
 resmed.com
 resupply.resmed.com
@@ -3948,8 +3948,8 @@ artifactory.corp.mongodb.com/
 https://www.*mongodb.com/*
 mongodb.live/*
 artifactory.corp.mongodb.com/
-checksw.com
 royal.checksw.com
+checksw.com
 checksw.com
 royal.checksw.com
 shard.wwwfeo.fossil.com.edgekey.net
@@ -4909,8 +4909,8 @@ www.alohi.com
 *.mycbdesk.com
 *.trgc.com
 *.anywhere.re
-*.realogy.*
 *.sothebysrealty.*
+*.realogy.*
 *.coldwellbanker.*
 *.cartus.com
 *.century21.*
@@ -5032,8 +5032,8 @@ mytva.com
 tvawcma.com
 *.tva-energyright.com
 *.tva.com
-tvars.com
 *.mytva.com
+tvars.com
 *.tva.gov
 *.tva.gov
 *.tva.com
@@ -5069,8 +5069,8 @@ contact.krisp.ai
 url5145.krisp.ai
 krisp.ai
 help.krisp.ai
-*.krisp.ai
 api.krisp.ai
+*.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -6202,8 +6202,8 @@ app.spiketrap.io
 *.reddithelp.com
 oauth.reddit.com
 www.reddit.com
-*.reddit.com
 accounts.reddit.com
+*.reddit.com
 ads.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -7718,8 +7718,8 @@ unified.cloudways.com
 www.digitalocean.com
 api.cloudways.com
 www.cloudways.com
-cloud.digitalocean.com
 *.digitalocean.com
+cloud.digitalocean.com
 api.digitalocean.com
 *.digitalocean.com
 cloud.digitalocean.com
@@ -8870,8 +8870,8 @@ reservations.rezserver.com
 api.rezserver.com
 cruises.priceline.com
 www.bookingholdings.com
-admin.rezserver.com
 flyiin.com
+admin.rezserver.com
 www.getaroom.com
 www.priceline.com
 secure.rezserver.com
@@ -9120,9 +9120,9 @@ res.hyattinclusivecollection.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
-*.grammarly.com
-*.grammarly.io
 *.grammarlyaws.com
+*.grammarly.io
+*.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -9501,7 +9501,6 @@ coalitioninc.com
 platform.thecoalition.com
 api.thecoalition.com
 coalitioninc.com
-www.toyota.com
 www.toyotafinancialpr.com
 www.toyotaconnected.com
 www.lexusfinancial.com
@@ -9520,6 +9519,7 @@ www.toyotaconnected.co.in
 www.toyotafinancial.com
 www.login.gac.toyota.com
 www.lexus.com
+www.toyota.com
 www.dashboard.gatekeepers.co.in
 www.toyotaconnected.co.in
 www.toyota.com
@@ -10098,7 +10098,6 @@ yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
-shop.app
 *.shopifykloud.com
 linkpop.com
 arrive-server.shopifycloud.com
@@ -10110,6 +10109,7 @@ partners.shopify.com
 *.shopify.com
 your-store.myshopify.com
 shopify.plus
+shop.app
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -10149,9 +10149,9 @@ www.bitmoji.com
 accounts.snapchat.com
 login.playcanvas.com
 *.sc-core.net
-scan.snapchat.com
-playcanvas.com
 snappublisher.snapchat.com
+playcanvas.com
+scan.snapchat.com
 app.snapchat.com
 ads.snapchat.com
 web.snapchat.com
@@ -10361,10 +10361,10 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
 assets.airbnb.com
+www.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
 www.hoteltonight.com
-www.airbnb.com
 *.withairbnb.com
 *.airbnb.com
 www.airbnb.com
@@ -10602,6 +10602,8 @@ profile-photos.hackerone-user-content.com
 mta-sts.wearehackerone.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
+hackerone-user-content.com
+hackerone.live
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
@@ -10612,8 +10614,6 @@ cover-photos.hackerone-user-content.com
 app.pullrequest.com
 ctf.hacker101.com
 api.hackerone.com
-hackerone-user-content.com
-hackerone.live
 www.hackerone.com
 hackerone.com
 hackerone.com
