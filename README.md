@@ -2,11 +2,11 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 24 12:24:28 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 24 12:49:30 UTC 2024)
 ```
 *.worldcoin-distributors.com
-worldcoin.org
 *.toolsforhumanity.com
+worldcoin.org
 *.consumer.worldcoin.org
 bioid-management.app
 *.worldcoin.dev
@@ -180,7 +180,6 @@ widget.rentalcars.com
 admin.booking.com
 distribution-xml.booking.com
 booking.com
-*.rentalcars.com
 cars.booking.com
 secure.booking.com
 careers.booking.com
@@ -188,6 +187,7 @@ spark.fareharbor.com
 account.booking.com
 portal.taxi.booking.com
 *.booking.com
+*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -284,11 +284,11 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
 manage-sandbox.gocardless.com
+*.gocardless-cicd.io
 *.gocardless.io
 *.gocardless-banking.io
 api-sandbox.gocardless.com
 *.gocardless-lab.io
-*.gocardless-cicd.io
 www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -1168,8 +1168,8 @@ docs.databricks.com
 labs.databricks.com
 customer-academy.databricks.com
 support.databricks.com
-databricks.com
 kb.databricks.com
+databricks.com
 advocates.databricks.com
 databricks.com
 academy.databricks.com
@@ -1195,8 +1195,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-*.krisp.ai
 api.krisp.ai
+*.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1494,8 +1494,8 @@ app.spiketrap.io
 *.reddithelp.com
 oauth.reddit.com
 www.reddit.com
-*.reddit.com
 accounts.reddit.com
+*.reddit.com
 ads.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -1752,8 +1752,8 @@ effecthouse.tiktok.com
 *.tiktokv.com
 live-backstage.tiktok.com
 tiktok.com
-*.tiktok.com
 ads.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2400,8 +2400,8 @@ booth.pm
 payment.pixiv.net
 sketch.pixiv.net
 www.pixiv.net
-dic.pixiv.net
 *.fanbox.cc
+dic.pixiv.net
 comic.pixiv.net
 accounts.pixiv.net
 *.fanbox.cc
@@ -2502,8 +2502,8 @@ reservations.rezserver.com
 api.rezserver.com
 cruises.priceline.com
 www.bookingholdings.com
-admin.rezserver.com
 flyiin.com
+admin.rezserver.com
 www.getaroom.com
 www.priceline.com
 secure.rezserver.com
@@ -2702,9 +2702,9 @@ res.hyattinclusivecollection.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
-*.grammarlyaws.com
 *.grammarly.com
 *.grammarly.io
+*.grammarlyaws.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -3275,8 +3275,8 @@ circolocorecords.com/
 lifeinvader.com
 prod.ros.rockstargames.com
 support.rockstargames.com
-*.rockstargames.com
 socialclub.rockstargames.com
+*.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3442,9 +3442,9 @@ winecellar.zomato.com
 api2.grofers.com
 api.grofers.com
 *.zomans.com
-*.hyperpure.com
 *.runnr.in
 blinkit.com
+*.hyperpure.com
 *.zomato.com
 *.zomato.com
 *.zdev.net
@@ -3534,20 +3534,20 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 http://h1-your-domain.zendesk.com/sell
-yourcompany.udemy.com
 www.udemy.com
+yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
 *.shopifykloud.com
 linkpop.com
 arrive-server.shopifycloud.com
-*.shopifycs.com
+*.shopify.com
 *.shopifycloud.com
 admin.shopify.com
-accounts.shopify.com
+*.shopifycs.com
 partners.shopify.com
-*.shopify.com
+accounts.shopify.com
 your-store.myshopify.com
 shopify.plus
 shop.app
@@ -3593,8 +3593,8 @@ login.playcanvas.com
 snappublisher.snapchat.com
 playcanvas.com
 scan.snapchat.com
-app.snapchat.com
 ads.snapchat.com
+app.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
@@ -3871,8 +3871,8 @@ slack-imgs.com
 www.quip.com
 *.quip.com
 slack.com
-api.slack.com
 app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3886,7 +3886,6 @@ spaces.pm
 www.quip.com
 *.quip.com
 proddata.xobni.yahoo.com
-le.yahooapis.com
 data.mail.yahoo.com
 data.mail.yahoo.com
 le.yahooapis.com
