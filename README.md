@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 25 09:15:56 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 25 09:41:04 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.toolsforhumanity.com
@@ -48,8 +48,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-www.sheer.com
 my.sheer.com
+www.sheer.com
 www.sheer.com
 my.sheer.com
 www.ddfcontent.com
@@ -86,12 +86,12 @@ app.dynamic.xyz
 editor.zyro.com
 www.niagahoster.co.id
 payments.hostinger.com
+www.hostinger.com
 cpanel.hostinger.com
 backend.zyro.com
 logo.zyro.com
 www.zyro.com
 hpanel.hostinger.com
-www.hostinger.com
 *.000webhost.com
 *.000webhost.com
 www.hostinger.com
@@ -259,8 +259,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -1752,8 +1752,8 @@ live-backstage.tiktok.com
 tiktok.com
 business.tiktok.com
 partner.tiktokshop.com
-ads.tiktok.com
 *.tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1832,25 +1832,26 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
+www.superdrug.com
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-www10.watsons.com.sg
-www.watsons.com.sg
-api.watsons.com.sg
-www.watsons.com.hk
-www10.watsons.com.hk
-api.watsons.com.hk
-www10.watsons.co.id
-api.watsons.co.id
-www.watsons.co.id
-blog.watsons.com.tr
-app.watsons.com.tr
+api.watsons.com.my
+www.watsons.com.my
+www10.watsons.com.my
+www.iciparisxl.nl
+www.iciparisxl.be
+www.iciparisxl.lu
+app.iciparisxl.nl
+app.iciparisxl.be
+app.iciparisxl.lu
+www.marionnaud.at
+app.marionnaud.at
+www.marionnaud.ch
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2399,8 +2400,8 @@ booth.pm
 payment.pixiv.net
 sketch.pixiv.net
 www.pixiv.net
-dic.pixiv.net
 *.fanbox.cc
+dic.pixiv.net
 comic.pixiv.net
 accounts.pixiv.net
 *.fanbox.cc
@@ -2702,8 +2703,8 @@ www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
 *.grammarlyaws.com
-*.grammarly.io
 *.grammarly.com
+*.grammarly.io
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -3541,15 +3542,15 @@ shopifyinbox.com
 linkpop.com
 arrive-server.shopifycloud.com
 *.shopifycloud.com
-partners.shopify.com
 accounts.shopify.com
+partners.shopify.com
 shopify.plus
 shop.app
 *.shopifykloud.com
-your-store.myshopify.com
 *.shopify.com
 *.shopifycs.com
 admin.shopify.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3591,8 +3592,8 @@ login.playcanvas.com
 snappublisher.snapchat.com
 playcanvas.com
 scan.snapchat.com
-app.snapchat.com
 ads.snapchat.com
+app.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
 accounts.snapchat.com
@@ -3870,8 +3871,8 @@ slack-imgs.com
 www.quip.com
 *.quip.com
 slack.com
-app.slack.com
 api.slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3906,8 +3907,8 @@ a5s.hackerone-ext-content.com
 b5s.hackerone-ext-content.com
 hackerone-ext-content.com
 errors.hackerone.net
-ctf.hacker101.com
 app.pullrequest.com
+ctf.hacker101.com
 hackerone-user-content.com
 hackerone.live
 cover-photos.hackerone-user-content.com
