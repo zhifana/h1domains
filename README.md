@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 25 16:42:32 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 25 17:17:04 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.consumer.worldcoin.org
@@ -259,8 +259,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicex.com
 test.nicehash.com
+test.nicex.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -284,11 +284,11 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
 manage-sandbox.gocardless.com
+*.gocardless-cicd.io
 *.gocardless.io
 *.gocardless-banking.io
 api-sandbox.gocardless.com
 *.gocardless-lab.io
-*.gocardless-cicd.io
 www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -621,8 +621,8 @@ watchdocs.indriverapp.com
 cargo.indrive.com
 *.indriver.com
 new-order.eu-east-1.indriverapp.com
-argocd.indrive.dev
 *.indriverapp.com
+argocd.indrive.dev
 *.indrive.com
 *.indriverapp.com
 *.indrive.com
@@ -750,6 +750,7 @@ sso.8x8.com
 voapi.8x8.com
 *.jitsi.net
 *.packet8.net
+connect.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -784,10 +785,10 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.napoleongames.be
-*.superbet.ro
 *.superbet.pl
 *.magicjackpot.ro
 *.superbet.com
+*.superbet.ro
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1468,7 +1469,6 @@ www.urbancompany.com
 www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
-new.reddit.com
 *.redditblog.com
 amp.reddit.com
 strapi.reddit.com
@@ -1494,8 +1494,9 @@ accounts.reddit.com
 ads.reddit.com
 *.reddit.com
 ads-api.reddit.com
-gql.reddit.com
 www.reddit.com
+gql.reddit.com
+new.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1831,23 +1832,19 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-app.superdrug.com
-api.superdrug.com
+www10.watsons.com.vn
+api.watsons.com.vn
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www.fortress.com.hk
+www.marionnaud.fr
+app.marionnaud.fr
+mapi.moneyback.com.hk
+www.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
-app.theperfumeshop.com
-api.theperfumeshop.com
-www10.watsons.com.tw
-www.watsons.com.tw
-api.watsons.com.tw
-www10.watsons.com.ph
-api.watsons.com.ph
-www.watsons.com.ph
-www.watsons.co.th
-www20.watsons.co.th
-www10.watsons.co.th
-api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2209,12 +2206,12 @@ amazonpayinsurance.in
 *.alibabacloud.com
 *.alibaba-inc.com
 *.Daraz.com
-www.alibabagroup.com
 *.aliexpress.com
 *.1688.com
 *.alibaba.com
 *.aliyun.com
 *.taobao.com
+www.alibabagroup.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2698,8 +2695,8 @@ res.hyattinclusivecollection.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
-*.grammarly.io
 *.grammarlyaws.com
+*.grammarly.io
 *.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
@@ -3451,9 +3448,9 @@ winecellar.zomato.com
 api.grofers.com
 api2.grofers.com
 blinkit.com
+www.algolia.com
 *.algolia.net
 *.algolianet.com
-www.algolia.com
 *.algolia.net
 *.algolianet.com
 www.algolia.com
@@ -3667,10 +3664,10 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
 assets.airbnb.com
-www.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
 www.hoteltonight.com
+www.airbnb.com
 *.withairbnb.com
 *.airbnb.com
 www.airbnb.com
@@ -3867,8 +3864,8 @@ slack-imgs.com
 www.quip.com
 *.quip.com
 slack.com
-app.slack.com
 api.slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3899,7 +3896,6 @@ hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
-b5s.hackerone-ext-content.com
 hackerone-ext-content.com
 errors.hackerone.net
 app.pullrequest.com
@@ -3911,6 +3907,7 @@ www.hackerone.com
 hackerone.com
 mta-sts.wearehackerone.com
 ctf.hacker101.com
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
