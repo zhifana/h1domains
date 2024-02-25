@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 25 11:15:18 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 25 11:41:57 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.toolsforhumanity.com
@@ -259,8 +259,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicex.com
 test.nicehash.com
+test.nicex.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -741,7 +741,6 @@ work.8x8.com
 *.p8t.us
 pay.8x8.com
 user-profile.8x8.com
-*.8x8.vc
 *.8x8.id
 *.8x8staging.com
 *.jit.si
@@ -1832,24 +1831,19 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www.superdrug.com
-app.superdrug.com
-api.superdrug.com
+www10.watsons.com.vn
+api.watsons.com.vn
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www.fortress.com.hk
+www.marionnaud.fr
+app.marionnaud.fr
+mapi.moneyback.com.hk
+www.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
-app.theperfumeshop.com
-api.theperfumeshop.com
-www10.watsons.com.tw
-www.watsons.com.tw
-api.watsons.com.tw
-www10.watsons.com.ph
-api.watsons.com.ph
-www.watsons.com.ph
-www.watsons.co.th
-www20.watsons.co.th
-www10.watsons.co.th
-api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2298,7 +2292,6 @@ gatewaydsaptst2.marriott.com
 passwordchallenge.marriott.com
 www.ritzcarlton.com
 *uat.marriott.com
-activities.marriott.com
 reservations.all-inclusive.marriott.com
 marrtool.com
 cpp.marriott.com
@@ -2308,6 +2301,7 @@ all-inclusive.marriott.com
 jobs.marriott.com
 www.marriott.com
 mgs.marriott.com
+activities.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2943,8 +2937,8 @@ www.dota2.com
 store.steampowered.com
 api.steampowered.com
 www.teamfortress.com
-steamcommunity.com
 www.counter-strike.net
+steamcommunity.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3587,11 +3581,11 @@ business.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 *.sc-core.net
-scan.snapchat.com
-playcanvas.com
 snappublisher.snapchat.com
-app.snapchat.com
+playcanvas.com
+scan.snapchat.com
 ads.snapchat.com
+app.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
 accounts.snapchat.com
@@ -3669,10 +3663,10 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
 assets.airbnb.com
+www.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
 www.hoteltonight.com
-www.airbnb.com
 *.withairbnb.com
 *.airbnb.com
 www.airbnb.com
@@ -3896,7 +3890,6 @@ hackathon-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 www.wearehackerone.com
 profile-photos.hackerone-user-content.com
-mta-sts.wearehackerone.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
@@ -3905,14 +3898,15 @@ a5s.hackerone-ext-content.com
 b5s.hackerone-ext-content.com
 hackerone-ext-content.com
 errors.hackerone.net
-app.pullrequest.com
 ctf.hacker101.com
+app.pullrequest.com
 hackerone-user-content.com
 hackerone.live
 cover-photos.hackerone-user-content.com
 api.hackerone.com
 www.hackerone.com
 hackerone.com
+mta-sts.wearehackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
