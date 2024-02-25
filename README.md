@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 25 18:39:42 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 25 19:16:57 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.consumer.worldcoin.org
@@ -52,8 +52,8 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.pornworld.com
 www.ddfcontent.com
+www.pornworld.com
 www.analvids.com
 www.pornbox.com
 www.pornbox.com
@@ -259,8 +259,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicex.com
 test.nicehash.com
+test.nicex.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -284,11 +284,11 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
 manage-sandbox.gocardless.com
+*.gocardless-cicd.io
 *.gocardless.io
 *.gocardless-banking.io
 api-sandbox.gocardless.com
 *.gocardless-lab.io
-*.gocardless-cicd.io
 www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -718,10 +718,10 @@ api.sokos.fi
 cfapi.voikukka.fi
 tequila.kiwi.com
 jobs.kiwi.com
-auth.skypicker.com
 www.kiwi.com
 *.skypicker.com
 *.kiwi.com
+auth.skypicker.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -750,6 +750,7 @@ sso.8x8.com
 voapi.8x8.com
 *.jitsi.net
 *.packet8.net
+*.8x8cloud.net
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -929,9 +930,9 @@ askpam.ai
 pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
-test.deribit.com
 insights.deribit.com
 *.deribit.com
+test.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1746,11 +1747,11 @@ shop.tiktok.com
 effecthouse.tiktok.com
 *.tiktokv.com
 tiktok.com
-business.tiktok.com
 partner.tiktokshop.com
 ads.tiktok.com
 www.pangleglobal.com
 *.tiktok.com
+business.tiktok.com
 live-backstage.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -1830,24 +1831,26 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-www10.watsons.com.sg
-www.watsons.com.sg
-api.watsons.com.sg
-www.watsons.com.hk
-www10.watsons.com.hk
-api.watsons.com.hk
-www10.watsons.co.id
-api.watsons.co.id
-www.watsons.co.id
-blog.watsons.com.tr
-app.watsons.com.tr
+api.watsons.com.my
+www.watsons.com.my
+www10.watsons.com.my
+www.iciparisxl.nl
+www.iciparisxl.be
+www.iciparisxl.lu
+app.iciparisxl.nl
+app.iciparisxl.be
+app.iciparisxl.lu
+www.marionnaud.at
+app.marionnaud.at
+www.marionnaud.ch
+app.marionnaud.ch
+www.marionnaud.cz
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2302,9 +2305,9 @@ cpp.marriott.com
 gatewaydsaptst1.marriott.com
 hotel-deals.marriott.com
 all-inclusive.marriott.com
-jobs.marriott.com
 mgs.marriott.com
 activities.marriott.com
+jobs.marriott.com
 www.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
@@ -3281,9 +3284,9 @@ store.rockstargames.com
 lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
-www.files.com
 app.files.com
 your-assigned-subdomain.files.com
+www.files.com
 app.files.com
 your-assigned-subdomain.files.com
 www.files.com
