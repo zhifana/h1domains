@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 25 21:40:23 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 25 22:17:14 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.consumer.worldcoin.org
@@ -673,13 +673,13 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mbamupdates.com
 *.mb-cosmos.com
+*.malwarebytes.com
+*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
-*.cloud.malwarebytes.com
 my.malwarebytes.com
 *.threatdown.com
 *.mwbsys.com
-*.malwarebytes.com
 www.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
@@ -750,6 +750,7 @@ sso.8x8.com
 voapi.8x8.com
 *.jitsi.net
 *.packet8.net
+connect.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -864,8 +865,8 @@ www.hotwire.com
 www.expediacruises.com
 www.expedia.com
 www.hotels.com
-www.vrbo.com
 www.expediagroup.com
+www.vrbo.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -1746,12 +1747,12 @@ effecthouse.tiktok.com
 *.tiktokv.com
 tiktok.com
 partner.tiktokshop.com
-ads.tiktok.com
 www.pangleglobal.com
 *.tiktok.com
 live-backstage.tiktok.com
 business.tiktok.com
 shop.tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1830,24 +1831,19 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www.kruidvat.nl
-app.kruidvat.nl
-app.theperfumeshop.com
-api.theperfumeshop.com
+www10.watsons.com.vn
+api.watsons.com.vn
 www10.pns.hk
 api.pns.hk
 www.pns.hk
-www10.watsons.com.sg
-www.watsons.com.sg
-api.watsons.com.sg
-www.watsons.com.hk
-www10.watsons.com.hk
-api.watsons.com.hk
-www10.watsons.co.id
-api.watsons.co.id
-www.watsons.co.id
-blog.watsons.com.tr
-app.watsons.com.tr
+www.fortress.com.hk
+www.marionnaud.fr
+app.marionnaud.fr
+mapi.moneyback.com.hk
+www.moneyback.com.hk
+www.kruidvat.nl
+app.kruidvat.nl
+app.theperfumeshop.com
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2393,8 +2389,8 @@ vroid.com
 novel.pixiv.net
 booth.pm
 payment.pixiv.net
-*.fanbox.cc
 dic.pixiv.net
+*.fanbox.cc
 comic.pixiv.net
 accounts.pixiv.net
 www.pixiv.net
@@ -2698,8 +2694,8 @@ res.hyattinclusivecollection.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
-*.grammarlyaws.com
 *.grammarly.io
+*.grammarlyaws.com
 *.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
@@ -3451,9 +3447,9 @@ winecellar.zomato.com
 api.grofers.com
 api2.grofers.com
 blinkit.com
-www.algolia.com
 *.algolia.net
 *.algolianet.com
+www.algolia.com
 *.algolia.net
 *.algolianet.com
 www.algolia.com
@@ -3585,11 +3581,11 @@ business.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 *.sc-core.net
-scan.snapchat.com
-playcanvas.com
 snappublisher.snapchat.com
-app.snapchat.com
+playcanvas.com
+scan.snapchat.com
 ads.snapchat.com
+app.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
 accounts.snapchat.com
@@ -3667,10 +3663,10 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
 assets.airbnb.com
+www.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
 www.hoteltonight.com
-www.airbnb.com
 *.withairbnb.com
 *.airbnb.com
 www.airbnb.com
