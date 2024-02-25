@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 25 20:40:11 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 25 21:16:21 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.consumer.worldcoin.org
@@ -284,11 +284,11 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
 manage-sandbox.gocardless.com
+*.gocardless-cicd.io
 *.gocardless.io
 *.gocardless-banking.io
 api-sandbox.gocardless.com
 *.gocardless-lab.io
-*.gocardless-cicd.io
 www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -621,8 +621,8 @@ watchdocs.indriverapp.com
 cargo.indrive.com
 *.indriver.com
 new-order.eu-east-1.indriverapp.com
-argocd.indrive.dev
 *.indriverapp.com
+argocd.indrive.dev
 *.indrive.com
 *.indriverapp.com
 *.indrive.com
@@ -1742,7 +1742,6 @@ fp-sg.tiktokv.com
 developers.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
-shop.tiktok.com
 effecthouse.tiktok.com
 *.tiktokv.com
 tiktok.com
@@ -1752,6 +1751,7 @@ www.pangleglobal.com
 *.tiktok.com
 live-backstage.tiktok.com
 business.tiktok.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2299,8 +2299,8 @@ hotel-deals.marriott.com
 all-inclusive.marriott.com
 mgs.marriott.com
 activities.marriott.com
-www.marriott.com
 jobs.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2717,8 +2717,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-tvg.com
 *racing.fanduel.com
+tvg.com
 us.tvg.com
 com.fanduel.android.live
 *.fanduel.com
@@ -3536,12 +3536,12 @@ partners.shopify.com
 shopify.plus
 *.shopifykloud.com
 *.shopifycs.com
-your-store.myshopify.com
 *.shopifycloud.com
 shop.app
 accounts.shopify.com
 *.shopify.com
 admin.shopify.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3662,10 +3662,10 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
 assets.airbnb.com
-www.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
 www.hoteltonight.com
+www.airbnb.com
 *.withairbnb.com
 *.airbnb.com
 www.airbnb.com
