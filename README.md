@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 26 14:49:37 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb 26 15:24:47 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -25,8 +25,8 @@ worldcoin.org
 rfc.tari.com
 textexplore.tari.com
 www.tarilabs.com
-www.tari.com
 explore.tari.com
+www.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -186,8 +186,8 @@ account.booking.com
 *.rentalcars.com
 portal.taxi.booking.com
 booking.com
-*.booking.com
 spark.fareharbor.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -672,12 +672,12 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mbamupdates.com
 *.mb-cosmos.com
-*.malwarebytes.com
-*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+*.cloud.malwarebytes.com
 *.threatdown.com
 *.mwbsys.com
+*.malwarebytes.com
 www.malwarebytes.com
 my.malwarebytes.com
 *.mwbsys.com
@@ -749,7 +749,6 @@ sso.8x8.com
 voapi.8x8.com
 *.jitsi.net
 *.packet8.net
-connect.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1106,8 +1105,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-bullsheet.me
 etoropartners.com
+bullsheet.me
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1295,8 +1294,8 @@ capturingreality.com
 *.tstaging.tools
 *.tinderwebstaging.com
 *.tstaging.com
-*.gotinder.com
 *.tinder.com
+*.gotinder.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1747,8 +1746,8 @@ partner.tiktokshop.com
 *.tiktok.com
 live-backstage.tiktok.com
 business.tiktok.com
-ads.tiktok.com
 *.tiktokv.com
+ads.tiktok.com
 tiktok.com
 shop.tiktok.com
 www.pangleglobal.com
@@ -1830,22 +1829,19 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-app.superdrug.com
-api.superdrug.com
+www10.watsons.com.vn
+api.watsons.com.vn
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www.fortress.com.hk
+www.marionnaud.fr
+app.marionnaud.fr
+mapi.moneyback.com.hk
+www.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
-api.theperfumeshop.com
-www10.watsons.com.tw
-www.watsons.com.tw
-api.watsons.com.tw
-www10.watsons.com.ph
-api.watsons.com.ph
-www.watsons.com.ph
-www.watsons.co.th
-www20.watsons.co.th
-www10.watsons.co.th
-api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2210,8 +2206,8 @@ www.alibabagroup.com
 *.alibabacloud.com
 *.1688.com
 *.alibaba.com
-*.aliyun.com
 *.taobao.com
+*.aliyun.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2498,8 +2494,8 @@ api.rezserver.com
 cruises.priceline.com
 www.bookingholdings.com
 admin.rezserver.com
-secure.rezserver.com
 press.priceline.com
+flyiin.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3534,7 +3530,6 @@ www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
-linkpop.com
 arrive-server.shopifycloud.com
 shopify.plus
 *.shopifykloud.com
@@ -3545,6 +3540,7 @@ your-store.myshopify.com
 accounts.shopify.com
 *.shopify.com
 partners.shopify.com
+linkpop.com
 admin.shopify.com
 *.shopifycs.com
 *.shopify.com
@@ -3580,17 +3576,17 @@ create.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
 spectacles.com
-business.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 *.sc-core.net
-playcanvas.com
 scan.snapchat.com
+playcanvas.com
 web.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 snappublisher.snapchat.com
 ads.snapchat.com
+business.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
