@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 26 13:47:55 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb 26 14:22:04 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -25,8 +25,8 @@ worldcoin.org
 rfc.tari.com
 textexplore.tari.com
 www.tarilabs.com
-explore.tari.com
 www.tari.com
+explore.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -284,11 +284,11 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
 manage-sandbox.gocardless.com
-*.gocardless-cicd.io
 *.gocardless.io
 *.gocardless-banking.io
 api-sandbox.gocardless.com
 *.gocardless-lab.io
+*.gocardless-cicd.io
 www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -749,7 +749,6 @@ sso.8x8.com
 voapi.8x8.com
 *.jitsi.net
 *.packet8.net
-connect.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1106,8 +1105,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-etoropartners.com
 bullsheet.me
+etoropartners.com
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1492,9 +1491,9 @@ ads-api.reddit.com
 gql.reddit.com
 new.reddit.com
 accounts.reddit.com
-ads.reddit.com
 *.reddit.com
 www.reddit.com
+ads.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1749,8 +1748,8 @@ www.pangleglobal.com
 live-backstage.tiktok.com
 business.tiktok.com
 shop.tiktok.com
-ads.tiktok.com
 *.tiktokv.com
+ads.tiktok.com
 tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2213,9 +2212,9 @@ amazonpayinsurance.in
 www.alibabagroup.com
 *.alibabacloud.com
 *.1688.com
-*.taobao.com
 *.alibaba.com
 *.aliyun.com
+*.taobao.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -3546,8 +3545,8 @@ shopify.plus
 *.shopifycloud.com
 shop.app
 *.shopifycs.com
-your-store.myshopify.com
 admin.shopify.com
+your-store.myshopify.com
 accounts.shopify.com
 *.shopify.com
 *.shopifycs.com
@@ -3588,13 +3587,13 @@ business.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 *.sc-core.net
-playcanvas.com
 scan.snapchat.com
+playcanvas.com
 ads.snapchat.com
-snappublisher.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
+snappublisher.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3879,20 +3878,20 @@ www.wearehackerone.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
+hackerone-user-content.com
+hackerone.live
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
 hackerone-ext-content.com
 errors.hackerone.net
 app.pullrequest.com
-hackerone-user-content.com
-hackerone.live
-www.hackerone.com
 mta-sts.wearehackerone.com
 ctf.hacker101.com
 b5s.hackerone-ext-content.com
-api.hackerone.com
 cover-photos.hackerone-user-content.com
+api.hackerone.com
+www.hackerone.com
 hackerone.com
 hackerone.com
 api.hackerone.com
