@@ -2,14 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 26 16:27:42 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb 26 16:46:01 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
 *.worldcoin.dev
 bioid-management.app
-*.toolsforhumanity.com
 *.consumer.worldcoin.org
+*.toolsforhumanity.com
 getworldcoin.com
 *.worldcoin.org
 worldcoin.org
@@ -52,8 +52,8 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.ddfcontent.com
 www.pornworld.com
+www.ddfcontent.com
 www.analvids.com
 www.pornbox.com
 www.pornbox.com
@@ -136,10 +136,10 @@ www.mercadolibre.cl
 www.mercadopago.com.mx
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
-www.mercadopago.cl
 www.mercadopago.com.br
 www.mercadolivre.com.br
 api.mercadolibre.com
+www.mercadopago.cl
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -186,8 +186,8 @@ account.booking.com
 *.rentalcars.com
 portal.taxi.booking.com
 booking.com
-*.booking.com
 spark.fareharbor.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -583,8 +583,8 @@ hiltonhotels.jp
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
-hilton.com
 *.hilton.com
+hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -749,6 +749,7 @@ sso.8x8.com
 voapi.8x8.com
 *.jitsi.net
 *.packet8.net
+connect.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1491,9 +1492,9 @@ ads-api.reddit.com
 new.reddit.com
 accounts.reddit.com
 ads.reddit.com
-www.reddit.com
-*.reddit.com
 gql.reddit.com
+*.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1745,12 +1746,12 @@ effecthouse.tiktok.com
 partner.tiktokshop.com
 live-backstage.tiktok.com
 business.tiktok.com
-ads.tiktok.com
 *.tiktokv.com
+ads.tiktok.com
 tiktok.com
+*.tiktok.com
 shop.tiktok.com
 www.pangleglobal.com
-*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2204,10 +2205,10 @@ amazonpayinsurance.in
 *.alibabacloud.com
 *.1688.com
 *.alibaba.com
-www.alibabagroup.com
+*.aliexpress.com
 *.taobao.com
 *.aliyun.com
-*.aliexpress.com
+www.alibabagroup.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2297,8 +2298,8 @@ hotel-deals.marriott.com
 all-inclusive.marriott.com
 mgs.marriott.com
 activities.marriott.com
-www.marriott.com
 jobs.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -3534,14 +3535,14 @@ arrive-server.shopifycloud.com
 shopify.plus
 *.shopifykloud.com
 *.shopifycloud.com
-shop.app
-your-store.myshopify.com
 accounts.shopify.com
 admin.shopify.com
-*.shopifycs.com
 partners.shopify.com
 *.shopify.com
 linkpop.com
+shop.app
+*.shopifycs.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3815,9 +3816,9 @@ institutional.coinbase.com
 api.custody.coinbase.com
 pro.coinbase.com
 cloud.coinbase.com
-api.coinbase.com
 coinbase.com
 *.coinbase.com
+api.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -3871,21 +3872,21 @@ www.wearehackerone.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
+hackerone-user-content.com
+hackerone.live
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
 hackerone-ext-content.com
 errors.hackerone.net
 app.pullrequest.com
-hackerone-user-content.com
-hackerone.live
 mta-sts.wearehackerone.com
 ctf.hacker101.com
 b5s.hackerone-ext-content.com
-api.hackerone.com
 cover-photos.hackerone-user-content.com
-www.hackerone.com
+api.hackerone.com
 hackerone.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
