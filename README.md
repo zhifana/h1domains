@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 26 09:44:10 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb 26 10:21:35 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -52,8 +52,8 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.ddfcontent.com
 www.pornworld.com
+www.ddfcontent.com
 www.analvids.com
 www.pornbox.com
 www.pornbox.com
@@ -90,9 +90,9 @@ cpanel.hostinger.com
 backend.zyro.com
 logo.zyro.com
 www.zyro.com
-hpanel.hostinger.com
 www.hostinger.com
 *.000webhost.com
+hpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -863,8 +863,8 @@ www.expediacruises.com
 www.expedia.com
 www.hotels.com
 www.expediagroup.com
-www.stayz.com.au
 www.vrbo.com
+www.stayz.com.au
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -1105,8 +1105,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-bullsheet.me
 etoropartners.com
+bullsheet.me
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1742,15 +1742,15 @@ developers.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 effecthouse.tiktok.com
-*.tiktokv.com
 tiktok.com
 partner.tiktokshop.com
 www.pangleglobal.com
 *.tiktok.com
 live-backstage.tiktok.com
 business.tiktok.com
-ads.tiktok.com
 shop.tiktok.com
+*.tiktokv.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2333,8 +2333,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2393,8 +2393,8 @@ vroid.com
 novel.pixiv.net
 booth.pm
 payment.pixiv.net
-*.fanbox.cc
 dic.pixiv.net
+*.fanbox.cc
 comic.pixiv.net
 accounts.pixiv.net
 www.pixiv.net
@@ -2700,8 +2700,8 @@ res.hyattinclusivecollection.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
-*.grammarly.io
 *.grammarlyaws.com
+*.grammarly.io
 *.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
@@ -2724,8 +2724,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-tvg.com
 *racing.fanduel.com
+tvg.com
 us.tvg.com
 com.fanduel.android.live
 *.fanduel.com
@@ -3207,18 +3207,18 @@ chatdate.app
 zodia.studio
 backstage.io
 assets.spotify.com
-everynoise.com
 api.spotify.com
+everynoise.com
 assets.spotify.com
 api.spotify.com
 everynoise.com
 backstage.io
-www.dashlane.com
 app.dashlane.com
 logs.dashlane.com
 console.dashlane.com
 api.dashlane.com
 ws1.dashlane.com
+www.dashlane.com
 ws1.dashlane.com
 www.dashlane.com
 console.dashlane.com
@@ -3547,8 +3547,8 @@ shop.app
 accounts.shopify.com
 *.shopifycs.com
 admin.shopify.com
-your-store.myshopify.com
 *.shopify.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3591,9 +3591,9 @@ playcanvas.com
 scan.snapchat.com
 ads.snapchat.com
 snappublisher.snapchat.com
-accounts.snapchat.com
 app.snapchat.com
 web.snapchat.com
+accounts.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3848,8 +3848,8 @@ slack-redir.net
 slack-imgs.com
 www.quip.com
 *.quip.com
-api.slack.com
 app.slack.com
+api.slack.com
 slack.com
 slack.com
 api.slack.com
