@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 27 19:18:29 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 27 19:42:44 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -84,10 +84,10 @@ app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
 payments.hostinger.com
-backend.zyro.com
 cpanel.hostinger.com
 logo.zyro.com
 www.zyro.com
+backend.zyro.com
 *.000webhost.com
 hpanel.hostinger.com
 editor.zyro.com
@@ -110,8 +110,8 @@ research.23andme.com
 mediacenter.23andme.com
 therapeutics.23andme.com
 blog.23andme.com
-medical.23andme.com
 you.23andme.com
+medical.23andme.com
 store.23andme.com
 auth.23andme.com
 api.23andme.com
@@ -186,8 +186,8 @@ secure.booking.com
 booking.com
 *.rentalcars.com
 account.booking.com
-*.booking.com
 spark.fareharbor.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -259,8 +259,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicex.com
 test.nicehash.com
+test.nicex.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -516,6 +516,7 @@ sync.services.mozilla.com
 crash-reports.allizom.org
 location.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
+aus5.mozilla.org
 hg.mozilla.org
 bugzilla.mozilla.org
 firefox.settings.services.mozilla.com
@@ -523,7 +524,6 @@ addons.allizom.org
 mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
 contile.services.mozilla.com
-aus5.mozilla.org
 accounts.firefox.com
 addons.allizom.org
 accounts.firefox.com
@@ -568,8 +568,8 @@ community-tc.services.mozilla.com
 www.six-group.com
 www.six-group.com
 *.eu.floqast.app
-*.floqast.app
 api-eu.floqast.app
+*.floqast.app
 *.eu.floqast.app
 *.floqast.app
 api-eu.floqast.app
@@ -580,10 +580,10 @@ hiltonhotels.jp
 *.hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 *.hiltonhotels.jp
-hilton.com
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
+hilton.com
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -786,8 +786,8 @@ admin.8x8.com
 *.napoleoncasino.be
 *.superbet.com
 *.superbet.pl
-*.superbet.ro
 *.napoleongames.be
+*.superbet.ro
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -855,8 +855,8 @@ www.flights.com
 www.travelocity.com
 www.carrentals.com
 www.cheaptickets.com
-www.abritel.fr
 www.ebookers.com
+www.stayz.com.au
 www.orbitz.com
 www.bookabach.co.nz
 www.hotwire.com
@@ -864,8 +864,8 @@ www.expediacruises.com
 www.expedia.com
 www.hotels.com
 www.expediagroup.com
-www.stayz.com.au
 www.vrbo.com
+www.abritel.fr
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -1003,10 +1003,10 @@ snaps.metamask.io
 portfolio.metamask.io
 invoices.razorpay.com
 payroll.razorpay.com
-api.razorpay.com
 checkout.razorpay.com
 x.razorpay.com
 dashboard.razorpay.com
+api.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -1106,8 +1106,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-bullsheet.me
 etoropartners.com
+bullsheet.me
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1193,9 +1193,9 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-account.krisp.ai
 api.krisp.ai
 *.krisp.ai
+account.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1428,9 +1428,9 @@ main.trafficfactory.biz
 www.elastic.co
 *.swiftype.com
 *.elstc.co
-*.elastic.co
 cloud.elastic.co
 *.found.io
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1633,9 +1633,9 @@ core.yoti.com
 ccloud.yoti.com
 code.yoti.com
 api.yoti.com
+www.yotisign.com
 identity.yoti.com
 hub.yoti.com
-www.yotisign.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1654,9 +1654,9 @@ netlify-rum.netlify.app
 *.services.netlify.com
 netlify-cdp-loader.netlify.app
 supportal.netlify.app
-app.netlify.com
 api.netlify.com
 internal.netlify.com
+app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -1672,8 +1672,8 @@ list-v2--netlify-plugins.netlify.app
 internal-docs.netlify.com
 supportal.netlify.app
 world.hey.com
-launchpad.37signals.com
 3.basecamp.com
+launchpad.37signals.com
 *.hey.com
 *.hey.com
 3.basecamp.com
@@ -1704,8 +1704,8 @@ api.sharefile.com
 www.cloud.com
 (yoursubdomain).sharefile.com
 eu.cloud.com
-citrix.cloud.com
 *.citrixworkspacesapi.net
+citrix.cloud.com
 accounts.cloud.com
 citrix.cloud.com
 www.cloud.com
@@ -1813,9 +1813,9 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-*.acronis.com
 beta-cloud.acronis.com
 *.acronis.work
+*.acronis.com
 account.acronis.com
 *-api-*.acronis.com
 *.acronis.com
@@ -2287,12 +2287,12 @@ gatewaydsapdev2.marriott.com
 hotel-deals.marriott.com
 homes-and-villas.marriott.com
 marrtool.com
+all-inclusive.marriott.com
 gatewaydsaptst1.marriott.com
 mgs.marriott.com
-passwordchallenge.marriott.com
-all-inclusive.marriott.com
 marriottfranchisetransactions.marriott.com
 www.marriott.com
+passwordchallenge.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2483,6 +2483,7 @@ uk.forescout.cloud
 de.forescout.cloud
 cysiv.com
 app.command.cysiv.com
+secure.rezserver.com
 reservations.rezserver.com
 api.rezserver.com
 cruises.priceline.com
@@ -2951,8 +2952,8 @@ js.crypto.com
 merchant.crypto.com
 tax.crypto.com
 *.crypto.com
-auth.crypto.com
 www.crypto.com
+auth.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3378,10 +3379,10 @@ education.github.com
 npmjs.org
 classroom.github.com
 *.githubapp.com
-api.github.com
 *.githubusercontent.com
 github.com
 npmjs.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3533,8 +3534,8 @@ shopify.plus
 partners.shopify.com
 your-store.myshopify.com
 *.shopify.com
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3569,16 +3570,16 @@ create.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
 spectacles.com
+app.snapchat.com
+snappublisher.snapchat.com
+ads.snapchat.com
+business.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 *.sc-core.net
 scan.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
-app.snapchat.com
-ads.snapchat.com
-business.snapchat.com
-snappublisher.snapchat.com
 playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
@@ -3656,8 +3657,8 @@ next.airbnb.com
 assets.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
-www.airbnb.com
 *.airbnb.com
+www.airbnb.com
 *.withairbnb.com
 *.hoteltonight-test.com
 www.hoteltonight.com
@@ -3805,9 +3806,9 @@ international.coinbase.com
 *.cbhq.net
 institutional.coinbase.com
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 cloud.coinbase.com
+api.coinbase.com
 *.coinbase.com
 coinbase.com
 *.base.org
@@ -3870,8 +3871,8 @@ a5s.hackerone-ext-content.com
 hackerone-ext-content.com
 mta-sts.wearehackerone.com
 cover-photos.hackerone-user-content.com
-b5s.hackerone-ext-content.com
 www.hackerone.com
+b5s.hackerone-ext-content.com
 app.pullrequest.com
 api.hackerone.com
 ctf.hacker101.com
