@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 27 06:22:02 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 27 06:41:07 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -25,8 +25,8 @@ worldcoin.org
 rfc.tari.com
 textexplore.tari.com
 www.tarilabs.com
-www.tari.com
 explore.tari.com
+www.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -52,8 +52,8 @@ www.sheer.com
 my.sheer.com
 www.sheer.com
 my.sheer.com
-www.pornworld.com
 www.ddfcontent.com
+www.pornworld.com
 www.analvids.com
 www.pornbox.com
 www.pornbox.com
@@ -77,9 +77,9 @@ account-sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
+app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
-app.dynamic-preprod.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -185,8 +185,8 @@ account.booking.com
 *.rentalcars.com
 portal.taxi.booking.com
 booking.com
-spark.fareharbor.com
 *.booking.com
+spark.fareharbor.com
 secure.booking.com
 *.booking.com
 *.rentalcars.com
@@ -247,8 +247,8 @@ pentesting.gethypr.com
 hypr37448.gethypr.com
 pentesting3.gethypr.com
 pentesting2.gethypr.com
-*.hypr.com
 hypr74352.gethypr.com
+*.hypr.com
 *.hypr.com
 pentesting.gethypr.com
 pentesting3.gethypr.com
@@ -476,6 +476,7 @@ yourdomain.myfreshworks.com
 app.avtoelon.uz
 id.avtoelon.uz
 app.kolesa.kz
+kolesa.kz
 api.krisha.kz
 app.krisha.kz
 m.krisha.kz
@@ -486,7 +487,6 @@ id.kolesa.kz
 krisha.kz
 m.kolesa.kz
 m.avtoelon.uz
-kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -749,7 +749,7 @@ sso.8x8.com
 voapi.8x8.com
 *.jitsi.net
 *.packet8.net
-connect.8x8.com
+*.8x8cloud.net
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -781,11 +781,11 @@ admin.8x8.com
 *.luckydays.ca
 *.napoleonsports.be
 *.luckydays.com
+*.napoleongames.be
+*.magicjackpot.ro
 *.superbet.ro
 *.superbet.pl
 *.superbet.rs
-*.napoleongames.be
-*.magicjackpot.ro
 *.napoleoncasino.be
 *.superbet.com
 *.superbet.ro
@@ -914,8 +914,8 @@ askpam.ai
 *.gravitational.io
 platform.teleport.sh
 *.goteleport.com
-teleport.sh
 *.gravitational.co
+teleport.sh
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -1054,10 +1054,10 @@ ws.sorare.com
 exnessaffiliates.com
 pwapi.ex2b.com
 api.excalls.mobi
-my.exness.com
 social-trading.exness.com
 pay.ibex.exchange
 exness.com
+my.exness.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1069,8 +1069,8 @@ social-trading.exness.com
 https://my.exness.com/pa/socialtrading
 exness.com
 api.smtp2go.com
-smtp2go.com
 app.smtp2go.com
+smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
@@ -1147,9 +1147,9 @@ bullsheet.me
 admin.instacart.com
 shoppers.instacart.com
 api.instacart.com
+*.instacart.tools
 *.instacart.com
 www.instacart.com
-*.instacart.tools
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1295,8 +1295,8 @@ capturingreality.com
 *.tstaging.tools
 *.tinderwebstaging.com
 *.tstaging.com
-*.gotinder.com
 *.tinder.com
+*.gotinder.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1308,10 +1308,10 @@ app.recordedfuture.com
 hatching.io
 tria.ge
 therecord.media
-securitytrails.com
 geminiadvisory.io
 id.recordedfuture.com
 www.recordedfuture.com
+securitytrails.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1493,8 +1493,8 @@ accounts.reddit.com
 ads-api.reddit.com
 www.reddit.com
 gql.reddit.com
-ads.reddit.com
 *.reddit.com
+ads.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1672,9 +1672,9 @@ list-v2--netlify-plugins.netlify.app
 internal-docs.netlify.com
 supportal.netlify.app
 world.hey.com
+3.basecamp.com
 launchpad.37signals.com
 *.hey.com
-3.basecamp.com
 *.hey.com
 3.basecamp.com
 launchpad.37signals.com
@@ -1740,17 +1740,17 @@ api.adm.cloud.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 developers.tiktok.com
+*.tiktokv.com
+tiktok.com
+*.tiktok.com
+shop.tiktok.com
+www.pangleglobal.com
+partner.tiktokshop.com
+live-backstage.tiktok.com
 creatormarketplace.tiktok.com
 effecthouse.tiktok.com
 business.tiktok.com
-*.tiktokv.com
 ads.tiktok.com
-tiktok.com
-*.tiktok.com
-partner.tiktokshop.com
-shop.tiktok.com
-www.pangleglobal.com
-live-backstage.tiktok.com
 careers.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -1825,8 +1825,8 @@ account.acronis.com
 beta-cloud.acronis.com
 account.acronis.com
 helpcenter.affirm.com
-hackerone.affirm-odin.com
 helpcenter.affirm.ca
+hackerone.affirm-odin.com
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
@@ -2203,14 +2203,14 @@ amazonpayinsurance.in
 *.aliexpress.ru
 *.tmall.com
 *.aliyun-inc.com
-*.alibaba.com
-*.taobao.com
-*.aliyun.com
-www.alibabagroup.com
-*.aliexpress.com
 *.alibaba-inc.com
 *.Daraz.com
 *.alibabacloud.com
+*.alibaba.com
+*.taobao.com
+www.alibabagroup.com
+*.aliyun.com
+*.aliexpress.com
 *.1688.com
 *.alibaba.com
 *.aliexpress.com
@@ -2328,9 +2328,9 @@ hotel-deals.marriott.com
 http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
+*.roblox.com
 *.ra.roblox.com
 *.rbx.com
-*.roblox.com
 *.guilded.gg
 *.roblox.com
 *.rbx.com
@@ -2389,8 +2389,8 @@ neoket.net
 vroid.com
 novel.pixiv.net
 payment.pixiv.net
-*.fanbox.cc
 dic.pixiv.net
+*.fanbox.cc
 comic.pixiv.net
 accounts.pixiv.net
 www.pixiv.net
@@ -2721,8 +2721,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-tvg.com
 *racing.fanduel.com
+tvg.com
 us.tvg.com
 com.fanduel.android.live
 *.fanduel.com
@@ -3279,9 +3279,9 @@ store.rockstargames.com
 lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
+www.files.com
 app.files.com
 your-assigned-subdomain.files.com
-www.files.com
 app.files.com
 your-assigned-subdomain.files.com
 www.files.com
@@ -3319,9 +3319,9 @@ gift.starbucks.co.jp
 app.starbucks.com
 openapi.starbucks.com
 www.starbucks.com.cn
+www.starbucks.de
 www.starbucks.com
 www.starbucks.co.kr
-www.starbucks.de
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3389,9 +3389,9 @@ npmjs.org
 classroom.github.com
 npmjs.com
 *.githubapp.com
+*.githubusercontent.com
 github.com
 api.github.com
-*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -3534,17 +3534,17 @@ www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
 arrive-server.shopifycloud.com
+*.shopifycloud.com
 linkpop.com
 *.shopifycs.com
-*.shopifycloud.com
+partners.shopify.com
 shop.app
+*.shopifykloud.com
 accounts.shopify.com
 *.shopify.com
 admin.shopify.com
 your-store.myshopify.com
 shopify.plus
-partners.shopify.com
-*.shopifykloud.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3587,9 +3587,9 @@ scan.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
+business.snapchat.com
 snappublisher.snapchat.com
 ads.snapchat.com
-business.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3748,6 +3748,7 @@ cloudflareworkers.com
 one.dash.cloudflare.com
 waf.cumulusfire.net
 dash.cloudflare.com
+dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
 api.cloudflare.com
@@ -3840,11 +3841,11 @@ edgeapi.slack.com
 spaces.pm
 slackatwork.com
 slack-redir.net
-slack.com
 slack-imgs.com
 www.quip.com
 *.quip.com
 api.slack.com
+slack.com
 app.slack.com
 slack.com
 api.slack.com
@@ -3873,17 +3874,17 @@ www.wearehackerone.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
+hackerone.live
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
 hackerone-ext-content.com
 errors.hackerone.net
-hackerone.live
 mta-sts.wearehackerone.com
 ctf.hacker101.com
 cover-photos.hackerone-user-content.com
-www.hackerone.com
 b5s.hackerone-ext-content.com
+www.hackerone.com
 hackerone-user-content.com
 app.pullrequest.com
 api.hackerone.com
