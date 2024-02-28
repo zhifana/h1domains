@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 28 08:42:52 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 28 09:19:38 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -23,9 +23,9 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 rfc.tari.com
-explore.tari.com
 textexplore.tari.com
 www.tarilabs.com
+explore.tari.com
 www.tari.com
 explore.tari.com
 rfc.tari.com
@@ -127,6 +127,9 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
+www.mercadolivre.com.br
+api.mercadolibre.com
+www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
@@ -135,9 +138,6 @@ www.mercadolibre.com.pe
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
-www.mercadolivre.com.br
-api.mercadolibre.com
-www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadopago.com.br
 api.mercadopago.com
@@ -182,9 +182,9 @@ cars.booking.com
 careers.booking.com
 portal.taxi.booking.com
 secure.booking.com
+booking.com
 *.rentalcars.com
 spark.fareharbor.com
-booking.com
 *.booking.com
 widget.rentalcars.com
 account.booking.com
@@ -516,6 +516,7 @@ sync.services.mozilla.com
 crash-reports.allizom.org
 location.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
+aus5.mozilla.org
 hg.mozilla.org
 bugzilla.mozilla.org
 firefox.settings.services.mozilla.com
@@ -523,7 +524,6 @@ addons.allizom.org
 mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
 contile.services.mozilla.com
-aus5.mozilla.org
 accounts.firefox.com
 addons.allizom.org
 accounts.firefox.com
@@ -620,9 +620,9 @@ argocd.indrive.dev
 ci.indrive.dev
 super-services.indriverapp.com
 *.indriverapp.com
-auth.indrive.tech
 *.indriver.com
 *.indrive.com
+auth.indrive.tech
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -672,12 +672,12 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mbamupdates.com
 *.mb-cosmos.com
-*.malwarebytes.com
-*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+*.cloud.malwarebytes.com
 *.threatdown.com
 *.mwbsys.com
+*.malwarebytes.com
 my.malwarebytes.com
 www.malwarebytes.com
 *.mwbsys.com
@@ -749,7 +749,7 @@ sso.8x8.com
 voapi.8x8.com
 *.jitsi.net
 *.packet8.net
-connect.8x8.com
+*.8x8cloud.net
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -785,9 +785,9 @@ admin.8x8.com
 *.superbet.rs
 *.napoleoncasino.be
 *.superbet.com
-*.superbet.pl
 *.napoleongames.be
 *.superbet.ro
+*.superbet.pl
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -856,7 +856,6 @@ www.travelocity.com
 www.carrentals.com
 www.cheaptickets.com
 www.ebookers.com
-www.stayz.com.au
 www.orbitz.com
 www.bookabach.co.nz
 www.hotwire.com
@@ -864,6 +863,7 @@ www.expediacruises.com
 www.expedia.com
 www.hotels.com
 www.expediagroup.com
+www.stayz.com.au
 www.vrbo.com
 www.abritel.fr
 www.hotels.com
@@ -914,8 +914,8 @@ askpam.ai
 *.gravitational.io
 platform.teleport.sh
 *.goteleport.com
-*.gravitational.co
 teleport.sh
+*.gravitational.co
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -1003,8 +1003,8 @@ snaps.metamask.io
 portfolio.metamask.io
 invoices.razorpay.com
 payroll.razorpay.com
-checkout.razorpay.com
 api.razorpay.com
+checkout.razorpay.com
 x.razorpay.com
 dashboard.razorpay.com
 dashboard.razorpay.com
@@ -1106,8 +1106,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-bullsheet.me
 etoropartners.com
+bullsheet.me
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1295,8 +1295,8 @@ capturingreality.com
 *.tstaging.tools
 *.tinderwebstaging.com
 *.tstaging.com
-*.gotinder.com
 *.tinder.com
+*.gotinder.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1428,9 +1428,9 @@ main.trafficfactory.biz
 www.elastic.co
 *.swiftype.com
 *.elstc.co
-*.elastic.co
 cloud.elastic.co
 *.found.io
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1493,8 +1493,8 @@ accounts.reddit.com
 ads-api.reddit.com
 gql.reddit.com
 ads.reddit.com
-www.reddit.com
 *.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1704,8 +1704,8 @@ api.sharefile.com
 www.cloud.com
 (yoursubdomain).sharefile.com
 eu.cloud.com
-accounts.cloud.com
 citrix.cloud.com
+accounts.cloud.com
 *.citrixworkspacesapi.net
 citrix.cloud.com
 www.cloud.com
@@ -2291,12 +2291,12 @@ hotel-deals.marriott.com
 homes-and-villas.marriott.com
 marrtool.com
 all-inclusive.marriott.com
-gatewaydsaptst1.marriott.com
 marriottfranchisetransactions.marriott.com
 mgs.marriott.com
 www.marriott.com
-www.ritzcarlton.com
 passwordchallenge.marriott.com
+www.ritzcarlton.com
+gatewaydsaptst1.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2322,8 +2322,8 @@ hotel-deals.marriott.com
 http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
-*.roblox.com
 *.ra.roblox.com
+*.roblox.com
 *.rbx.com
 *.guilded.gg
 *.roblox.com
@@ -2714,8 +2714,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-tvg.com
 *racing.fanduel.com
+tvg.com
 us.tvg.com
 com.fanduel.android.live
 *.fanduel.com
@@ -3196,8 +3196,8 @@ chatdate.app
 zodia.studio
 backstage.io
 assets.spotify.com
-api.spotify.com
 everynoise.com
+api.spotify.com
 assets.spotify.com
 api.spotify.com
 everynoise.com
@@ -3312,9 +3312,9 @@ gift.starbucks.co.jp
 app.starbucks.com
 openapi.starbucks.com
 www.starbucks.com.cn
-www.starbucks.de
 www.starbucks.com
 www.starbucks.co.kr
+www.starbucks.de
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3724,9 +3724,9 @@ ide.x.ai
 grok.x.ai
 *.twimg.com
 api.x.ai
-x.com
 gnip.com
 *.twitter.com
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3837,9 +3837,9 @@ slack-redir.net
 slack-imgs.com
 www.quip.com
 *.quip.com
-slack.com
 app.slack.com
 api.slack.com
+slack.com
 slack.com
 api.slack.com
 status.slack.com
