@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 28 12:27:34 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 28 12:51:12 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -23,9 +23,9 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 rfc.tari.com
-explore.tari.com
 textexplore.tari.com
 www.tarilabs.com
+explore.tari.com
 www.tari.com
 explore.tari.com
 rfc.tari.com
@@ -90,8 +90,8 @@ www.zyro.com
 backend.zyro.com
 hpanel.hostinger.com
 www.niagahoster.co.id
-*.000webhost.com
 editor.zyro.com
+*.000webhost.com
 www.hostinger.com
 *.000webhost.com
 www.hostinger.com
@@ -185,9 +185,9 @@ secure.booking.com
 *.rentalcars.com
 spark.fareharbor.com
 widget.rentalcars.com
-*.booking.com
 account.booking.com
 booking.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -259,8 +259,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicex.com
 test.nicehash.com
+test.nicex.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -391,6 +391,11 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
+www.authorize.net
+www.currencycloud.com
+www.cardinalcommerce.com
+aw.visa.com
+www.visainfinite.ca
 www.cybersource.com
 visa.com.au
 www.fraedom.com
@@ -399,11 +404,6 @@ ht.visa.com
 www.visa.co.in
 www.yellowpepper.com
 www.visa.co.id
-usa.visa.com
-www.visa.co.ve
-www.currencycloud.com
-www.cardinalcommerce.com
-aw.visa.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -465,8 +465,8 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
-yourdomain.freshchat.com
 yourdomain.freshdesk.com
+yourdomain.freshchat.com
 yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -485,8 +485,8 @@ krisha.kz
 m.kolesa.kz
 kolesa.kz
 avtoelon.uz
-m.avtoelon.uz
 id.kolesa.kz
+m.avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -515,7 +515,6 @@ shavar.services.mozilla.com
 sync.services.mozilla.com
 crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
-aus5.mozilla.org
 hg.mozilla.org
 bugzilla.mozilla.org
 firefox.settings.services.mozilla.com
@@ -523,6 +522,7 @@ addons.allizom.org
 mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
 contile.services.mozilla.com
+aus5.mozilla.org
 accounts.firefox.com
 location.services.mozilla.com
 addons.allizom.org
@@ -580,10 +580,10 @@ hiltonhotels.jp
 *.hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 *.hiltonhotels.jp
+hilton.com
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
-hilton.com
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -781,8 +781,8 @@ admin.8x8.com
 *.luckydays.ca
 *.napoleonsports.be
 *.luckydays.com
-*.magicjackpot.ro
 *.superbet.rs
+*.magicjackpot.ro
 *.napoleoncasino.be
 *.superbet.com
 *.napoleongames.be
@@ -913,9 +913,9 @@ askpam.ai
 *.teleport.dev
 *.gravitational.io
 platform.teleport.sh
+*.goteleport.com
 *.gravitational.co
 teleport.sh
-*.goteleport.com
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -1054,10 +1054,10 @@ ws.sorare.com
 exnessaffiliates.com
 pwapi.ex2b.com
 api.excalls.mobi
-my.exness.com
 social-trading.exness.com
 pay.ibex.exchange
 exness.com
+my.exness.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1493,8 +1493,8 @@ accounts.reddit.com
 ads-api.reddit.com
 gql.reddit.com
 ads.reddit.com
-www.reddit.com
 *.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1704,8 +1704,8 @@ api.sharefile.com
 www.cloud.com
 (yoursubdomain).sharefile.com
 eu.cloud.com
-citrix.cloud.com
 accounts.cloud.com
+citrix.cloud.com
 *.citrixworkspacesapi.net
 citrix.cloud.com
 www.cloud.com
@@ -2198,9 +2198,9 @@ amazonpayinsurance.in
 *.aliyun-inc.com
 *.alibaba-inc.com
 *.Daraz.com
-*.aliexpress.com
-*.aliyun.com
 www.alibabagroup.com
+*.aliyun.com
+*.aliexpress.com
 *.alimama.com
 *.taobao.com
 *.1688.com
@@ -3272,8 +3272,8 @@ store.rockstargames.com
 lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
-app.files.com
 www.files.com
+app.files.com
 your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
@@ -3412,8 +3412,8 @@ docs.gitlab.com
 customers.gitlab.com
 about.gitlab.com
 *.gitlab.org
-gitlab.com
 *.gitlab.net
+gitlab.com
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3578,8 +3578,8 @@ login.playcanvas.com
 scan.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
-ads.snapchat.com
 snappublisher.snapchat.com
+ads.snapchat.com
 playcanvas.com
 app.snapchat.com
 business.snapchat.com
@@ -3656,9 +3656,9 @@ callbacks.airbnb.com
 *.muscache.com
 next.airbnb.com
 assets.airbnb.com
+*.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
-*.airbnb.com
 *.hoteltonight-test.com
 *.withairbnb.com
 www.hoteltonight.com
@@ -3807,9 +3807,9 @@ international.coinbase.com
 *.cbhq.net
 institutional.coinbase.com
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 cloud.coinbase.com
-api.coinbase.com
 *.coinbase.com
 coinbase.com
 *.base.org
