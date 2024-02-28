@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 28 11:18:54 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 28 11:42:39 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -127,9 +127,6 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
-www.mercadolivre.com.br
-api.mercadolibre.com
-www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
@@ -138,6 +135,9 @@ www.mercadolibre.com.pe
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
+www.mercadolivre.com.br
+www.mercadopago.cl
+api.mercadolibre.com
 www.mercadopago.com.mx
 www.mercadopago.com.br
 api.mercadopago.com
@@ -182,8 +182,8 @@ cars.booking.com
 careers.booking.com
 portal.taxi.booking.com
 secure.booking.com
-*.rentalcars.com
 spark.fareharbor.com
+*.rentalcars.com
 *.booking.com
 widget.rentalcars.com
 account.booking.com
@@ -465,8 +465,8 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
-yourdomain.freshchat.com
 yourdomain.freshdesk.com
+yourdomain.freshchat.com
 yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -672,13 +672,13 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mbamupdates.com
 *.mb-cosmos.com
+my.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
 *.cloud.malwarebytes.com
 *.threatdown.com
 *.mwbsys.com
 *.malwarebytes.com
-my.malwarebytes.com
 www.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
@@ -913,9 +913,9 @@ askpam.ai
 *.teleport.dev
 *.gravitational.io
 platform.teleport.sh
-*.gravitational.co
-teleport.sh
 *.goteleport.com
+teleport.sh
+*.gravitational.co
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -1493,8 +1493,8 @@ accounts.reddit.com
 ads-api.reddit.com
 gql.reddit.com
 ads.reddit.com
-*.reddit.com
 www.reddit.com
+*.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1704,8 +1704,8 @@ api.sharefile.com
 www.cloud.com
 (yoursubdomain).sharefile.com
 eu.cloud.com
-accounts.cloud.com
 citrix.cloud.com
+accounts.cloud.com
 *.citrixworkspacesapi.net
 citrix.cloud.com
 www.cloud.com
@@ -1824,20 +1824,26 @@ account.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
 account.acronis.com
-www10.watsons.com.vn
-api.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-www.marionnaud.fr
-app.marionnaud.fr
-mapi.moneyback.com.hk
-www.moneyback.com.hk
+www.watsons.com.tr
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.watsons.com.tw
+api.watsons.com.my
+www.watsons.com.my
+www10.watsons.com.my
+www.iciparisxl.nl
+www.iciparisxl.be
+www.iciparisxl.lu
+app.iciparisxl.nl
+app.iciparisxl.be
+app.iciparisxl.lu
+www.marionnaud.at
+app.marionnaud.at
+www.marionnaud.ch
+app.marionnaud.ch
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2195,9 +2201,9 @@ amazonpayinsurance.in
 *.aliyun-inc.com
 *.alibaba-inc.com
 *.Daraz.com
-www.alibabagroup.com
-*.aliyun.com
 *.aliexpress.com
+*.aliyun.com
+www.alibabagroup.com
 *.alimama.com
 *.taobao.com
 *.1688.com
@@ -2290,10 +2296,10 @@ marrtool.com
 all-inclusive.marriott.com
 marriottfranchisetransactions.marriott.com
 mgs.marriott.com
-www.marriott.com
 passwordchallenge.marriott.com
 www.ritzcarlton.com
 gatewaydsaptst1.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2321,8 +2327,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2711,8 +2717,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-tvg.com
 *racing.fanduel.com
+tvg.com
 us.tvg.com
 com.fanduel.android.live
 *.fanduel.com
@@ -3259,8 +3265,8 @@ lifeinvader.com
 prod.ros.rockstargames.com
 support.rockstargames.com
 socialclub.rockstargames.com
-*.rockstargames.com
 rockstarnorth.com
+*.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3533,8 +3539,8 @@ partners.shopify.com
 accounts.shopify.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3575,11 +3581,11 @@ login.playcanvas.com
 scan.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
-business.snapchat.com
-snappublisher.snapchat.com
 ads.snapchat.com
+snappublisher.snapchat.com
 playcanvas.com
 app.snapchat.com
+business.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3653,9 +3659,9 @@ callbacks.airbnb.com
 *.muscache.com
 next.airbnb.com
 assets.airbnb.com
+*.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
-*.airbnb.com
 *.hoteltonight-test.com
 *.withairbnb.com
 www.hoteltonight.com
