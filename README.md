@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 28 08:22:03 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 28 08:42:52 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -23,9 +23,9 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 rfc.tari.com
+explore.tari.com
 textexplore.tari.com
 www.tarilabs.com
-explore.tari.com
 www.tari.com
 explore.tari.com
 rfc.tari.com
@@ -52,8 +52,8 @@ www.sheer.com
 my.sheer.com
 www.sheer.com
 my.sheer.com
-www.ddfcontent.com
 www.pornworld.com
+www.ddfcontent.com
 www.analvids.com
 www.pornbox.com
 www.pornbox.com
@@ -84,10 +84,10 @@ app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
 payments.hostinger.com
-backend.zyro.com
 cpanel.hostinger.com
 logo.zyro.com
 www.zyro.com
+backend.zyro.com
 hpanel.hostinger.com
 www.niagahoster.co.id
 *.000webhost.com
@@ -127,9 +127,6 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
-www.mercadolivre.com.br
-api.mercadolibre.com
-www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
@@ -138,6 +135,9 @@ www.mercadolibre.com.pe
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
+www.mercadolivre.com.br
+api.mercadolibre.com
+www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadopago.com.br
 api.mercadopago.com
@@ -182,9 +182,9 @@ cars.booking.com
 careers.booking.com
 portal.taxi.booking.com
 secure.booking.com
-booking.com
 *.rentalcars.com
 spark.fareharbor.com
+booking.com
 *.booking.com
 widget.rentalcars.com
 account.booking.com
@@ -465,8 +465,8 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
-yourdomain.freshdesk.com
 yourdomain.freshchat.com
+yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -749,7 +749,7 @@ sso.8x8.com
 voapi.8x8.com
 *.jitsi.net
 *.packet8.net
-*.8x8cloud.net
+connect.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -856,6 +856,7 @@ www.travelocity.com
 www.carrentals.com
 www.cheaptickets.com
 www.ebookers.com
+www.stayz.com.au
 www.orbitz.com
 www.bookabach.co.nz
 www.hotwire.com
@@ -863,7 +864,6 @@ www.expediacruises.com
 www.expedia.com
 www.hotels.com
 www.expediagroup.com
-www.stayz.com.au
 www.vrbo.com
 www.abritel.fr
 www.hotels.com
@@ -1106,8 +1106,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-etoropartners.com
 bullsheet.me
+etoropartners.com
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1428,9 +1428,9 @@ main.trafficfactory.biz
 www.elastic.co
 *.swiftype.com
 *.elstc.co
+*.elastic.co
 cloud.elastic.co
 *.found.io
-*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1493,8 +1493,8 @@ accounts.reddit.com
 ads-api.reddit.com
 gql.reddit.com
 ads.reddit.com
-*.reddit.com
 www.reddit.com
+*.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1672,9 +1672,9 @@ list-v2--netlify-plugins.netlify.app
 internal-docs.netlify.com
 supportal.netlify.app
 world.hey.com
-3.basecamp.com
 launchpad.37signals.com
 *.hey.com
+3.basecamp.com
 *.hey.com
 3.basecamp.com
 launchpad.37signals.com
@@ -1704,8 +1704,8 @@ api.sharefile.com
 www.cloud.com
 (yoursubdomain).sharefile.com
 eu.cloud.com
-citrix.cloud.com
 accounts.cloud.com
+citrix.cloud.com
 *.citrixworkspacesapi.net
 citrix.cloud.com
 www.cloud.com
@@ -1742,8 +1742,8 @@ fp-sg.tiktokv.com
 developers.tiktok.com
 creatormarketplace.tiktok.com
 effecthouse.tiktok.com
-shop.tiktok.com
 partner.tiktokshop.com
+shop.tiktok.com
 live-backstage.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
@@ -1824,20 +1824,23 @@ account.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
 account.acronis.com
-www10.watsons.com.vn
-api.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-www.marionnaud.fr
-app.marionnaud.fr
-mapi.moneyback.com.hk
-www.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.watsons.com.tw
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www10.watsons.com.sg
+www.watsons.com.sg
+api.watsons.com.sg
+www.watsons.com.hk
+www10.watsons.com.hk
+api.watsons.com.hk
+www10.watsons.co.id
+api.watsons.co.id
+www.watsons.co.id
+blog.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2193,16 +2196,16 @@ amazonpayinsurance.in
 *.aliexpress.ru
 *.tmall.com
 *.aliyun-inc.com
-*.aliyun.com
-www.alibabagroup.com
-*.aliexpress.com
 *.alibaba-inc.com
 *.Daraz.com
+www.alibabagroup.com
+*.aliyun.com
+*.aliexpress.com
 *.alimama.com
 *.taobao.com
-*.alibabacloud.com
 *.alibaba.com
 *.1688.com
+*.alibabacloud.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2281,8 +2284,8 @@ gatewaydsaptst2.marriott.com
 *uat.marriott.com
 reservations.all-inclusive.marriott.com
 cpp.marriott.com
-jobs.marriott.com
 activities.marriott.com
+jobs.marriott.com
 gatewaydsapdev2.marriott.com
 hotel-deals.marriott.com
 homes-and-villas.marriott.com
@@ -2291,8 +2294,8 @@ all-inclusive.marriott.com
 gatewaydsaptst1.marriott.com
 marriottfranchisetransactions.marriott.com
 mgs.marriott.com
-www.ritzcarlton.com
 www.marriott.com
+www.ritzcarlton.com
 passwordchallenge.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
@@ -2319,8 +2322,8 @@ hotel-deals.marriott.com
 http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
-*.ra.roblox.com
 *.roblox.com
+*.ra.roblox.com
 *.rbx.com
 *.guilded.gg
 *.roblox.com
@@ -2355,8 +2358,8 @@ app.nordpass.com
 app.nordpass.com
 *.line.naver.jp
 *.line.me
-*.line-apps.com
 *.line.biz
+*.line-apps.com
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -3270,8 +3273,8 @@ lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
 app.files.com
-your-assigned-subdomain.files.com
 www.files.com
+your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
 www.files.com
@@ -3309,9 +3312,9 @@ gift.starbucks.co.jp
 app.starbucks.com
 openapi.starbucks.com
 www.starbucks.com.cn
+www.starbucks.de
 www.starbucks.com
 www.starbucks.co.kr
-www.starbucks.de
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3504,8 +3507,8 @@ app.futuresimple.com
 apps.zendesk.com
 api.getbase.com
 app.smooch.io
-www.zendesk.com
 zopim.com
+www.zendesk.com
 h1-your-domain.zendesk.com
 www.zendesk.com
 developer.zendesk.com
@@ -3523,11 +3526,11 @@ www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
-*.shopifycloud.com
 linkpop.com
 *.shopifycs.com
-shop.app
+*.shopifycloud.com
 *.shopifykloud.com
+shop.app
 shopify.plus
 *.shopify.com
 partners.shopify.com
@@ -3575,9 +3578,9 @@ login.playcanvas.com
 scan.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
+ads.snapchat.com
 business.snapchat.com
 snappublisher.snapchat.com
-ads.snapchat.com
 playcanvas.com
 app.snapchat.com
 accounts.snapchat.com
@@ -3762,8 +3765,8 @@ intensedebate.com
 mailpoet.com
 www.tumblr.com
 *.tumblr.com
-akismet.com
 wordpress.com
+akismet.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
@@ -3831,10 +3834,10 @@ edgeapi.slack.com
 spaces.pm
 slackatwork.com
 slack-redir.net
-slack.com
 slack-imgs.com
 www.quip.com
 *.quip.com
+slack.com
 app.slack.com
 api.slack.com
 slack.com
