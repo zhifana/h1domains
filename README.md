@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 28 09:45:21 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 28 10:22:28 UTC 2024)
 ```
-getworldcoin.com
 *.worldcoin-distributors.com
 toolsforhumanity.com
 *.worldcoin.dev
 bioid-management.app
+getworldcoin.com
 worldcoin.org
 *.worldcoin.org
 *.toolsforhumanity.com
@@ -84,14 +84,14 @@ app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
 payments.hostinger.com
+backend.zyro.com
 cpanel.hostinger.com
 logo.zyro.com
 www.zyro.com
-backend.zyro.com
 hpanel.hostinger.com
 www.niagahoster.co.id
-editor.zyro.com
 *.000webhost.com
+editor.zyro.com
 www.hostinger.com
 *.000webhost.com
 www.hostinger.com
@@ -127,9 +127,6 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
-www.mercadolivre.com.br
-api.mercadolibre.com
-www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
@@ -138,6 +135,9 @@ www.mercadolibre.com.pe
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
+www.mercadolivre.com.br
+api.mercadolibre.com
+www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadopago.com.br
 api.mercadopago.com
@@ -283,9 +283,9 @@ connect-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
+*.gocardless-cicd.io
 api-sandbox.gocardless.com
 *.gocardless-lab.io
-*.gocardless-cicd.io
 manage-sandbox.gocardless.com
 www.gocardless.com
 *.gocardless.io
@@ -580,10 +580,10 @@ hiltonhotels.jp
 *.hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 *.hiltonhotels.jp
-hilton.com
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
+hilton.com
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -672,13 +672,13 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mbamupdates.com
 *.mb-cosmos.com
-my.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
 *.cloud.malwarebytes.com
 *.threatdown.com
 *.mwbsys.com
 *.malwarebytes.com
+my.malwarebytes.com
 www.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
@@ -914,8 +914,8 @@ askpam.ai
 *.gravitational.io
 platform.teleport.sh
 *.goteleport.com
-*.gravitational.co
 teleport.sh
+*.gravitational.co
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -1106,9 +1106,9 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-etoropartners.com
 bullsheet.me
 www.etoro.com
+etoropartners.com
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -1428,9 +1428,9 @@ main.trafficfactory.biz
 www.elastic.co
 *.swiftype.com
 *.elstc.co
+*.elastic.co
 cloud.elastic.co
 *.found.io
-*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1493,8 +1493,8 @@ accounts.reddit.com
 ads-api.reddit.com
 gql.reddit.com
 ads.reddit.com
-www.reddit.com
 *.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1813,9 +1813,9 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-*.acronis.com
 beta-cloud.acronis.com
 *.acronis.work
+*.acronis.com
 account.acronis.com
 *-api-*.acronis.com
 *.acronis.com
@@ -2198,14 +2198,14 @@ amazonpayinsurance.in
 *.aliyun-inc.com
 *.alibaba-inc.com
 *.Daraz.com
-www.alibabagroup.com
-*.aliyun.com
 *.aliexpress.com
+*.aliyun.com
+www.alibabagroup.com
 *.alimama.com
 *.taobao.com
-*.alibaba.com
 *.1688.com
 *.alibabacloud.com
+*.alibaba.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2284,8 +2284,8 @@ gatewaydsaptst2.marriott.com
 *uat.marriott.com
 reservations.all-inclusive.marriott.com
 cpp.marriott.com
-activities.marriott.com
 jobs.marriott.com
+activities.marriott.com
 gatewaydsapdev2.marriott.com
 hotel-deals.marriott.com
 homes-and-villas.marriott.com
@@ -2293,8 +2293,8 @@ marrtool.com
 all-inclusive.marriott.com
 marriottfranchisetransactions.marriott.com
 mgs.marriott.com
-passwordchallenge.marriott.com
 www.marriott.com
+passwordchallenge.marriott.com
 www.ritzcarlton.com
 gatewaydsaptst1.marriott.com
 homes-and-villas.marriott.com
@@ -2322,10 +2322,10 @@ hotel-deals.marriott.com
 http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
-*.roblox.com
 *.ra.roblox.com
 *.rbx.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3532,12 +3532,12 @@ linkpop.com
 shop.app
 *.shopifykloud.com
 shopify.plus
-*.shopify.com
 partners.shopify.com
 accounts.shopify.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 admin.shopify.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3578,9 +3578,9 @@ login.playcanvas.com
 scan.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
-ads.snapchat.com
 business.snapchat.com
 snappublisher.snapchat.com
+ads.snapchat.com
 playcanvas.com
 app.snapchat.com
 accounts.snapchat.com
@@ -3811,9 +3811,9 @@ api.custody.coinbase.com
 pro.coinbase.com
 cloud.coinbase.com
 api.coinbase.com
+*.base.org
 *.coinbase.com
 coinbase.com
-*.base.org
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -3879,8 +3879,8 @@ hackerone-user-content.com
 hackerone.live
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 app.pullrequest.com
-ctf.hacker101.com
 www.hackerone.com
+ctf.hacker101.com
 hackerone.com
 hackerone.com
 api.hackerone.com
