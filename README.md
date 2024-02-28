@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 28 07:43:15 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 28 08:22:03 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -84,15 +84,15 @@ app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
 payments.hostinger.com
+backend.zyro.com
 cpanel.hostinger.com
 logo.zyro.com
 www.zyro.com
-backend.zyro.com
 hpanel.hostinger.com
-www.hostinger.com
 www.niagahoster.co.id
-editor.zyro.com
 *.000webhost.com
+editor.zyro.com
+www.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -182,9 +182,9 @@ cars.booking.com
 careers.booking.com
 portal.taxi.booking.com
 secure.booking.com
-spark.fareharbor.com
 booking.com
 *.rentalcars.com
+spark.fareharbor.com
 *.booking.com
 widget.rentalcars.com
 account.booking.com
@@ -672,14 +672,14 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mbamupdates.com
 *.mb-cosmos.com
+*.malwarebytes.com
+*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
-*.cloud.malwarebytes.com
 *.threatdown.com
 *.mwbsys.com
-*.malwarebytes.com
-www.malwarebytes.com
 my.malwarebytes.com
+www.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -913,9 +913,9 @@ askpam.ai
 *.teleport.dev
 *.gravitational.io
 platform.teleport.sh
+*.goteleport.com
 *.gravitational.co
 teleport.sh
-*.goteleport.com
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -1106,8 +1106,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-bullsheet.me
 etoropartners.com
+bullsheet.me
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1295,8 +1295,8 @@ capturingreality.com
 *.tstaging.tools
 *.tinderwebstaging.com
 *.tstaging.com
-*.tinder.com
 *.gotinder.com
+*.tinder.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1308,10 +1308,10 @@ app.recordedfuture.com
 hatching.io
 tria.ge
 therecord.media
-securitytrails.com
 geminiadvisory.io
 id.recordedfuture.com
 www.recordedfuture.com
+securitytrails.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1483,15 +1483,15 @@ mod.reddit.com
 old.reddit.com
 api.reddit.com
 *.redditmedia.com
-accounts.reddit.com
-gql.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 *.snooguts.net
 *.reddithelp.com
 oauth.reddit.com
 new.reddit.com
+accounts.reddit.com
 ads-api.reddit.com
+gql.reddit.com
 ads.reddit.com
 *.reddit.com
 www.reddit.com
@@ -1672,8 +1672,8 @@ list-v2--netlify-plugins.netlify.app
 internal-docs.netlify.com
 supportal.netlify.app
 world.hey.com
-launchpad.37signals.com
 3.basecamp.com
+launchpad.37signals.com
 *.hey.com
 *.hey.com
 3.basecamp.com
@@ -1742,8 +1742,8 @@ fp-sg.tiktokv.com
 developers.tiktok.com
 creatormarketplace.tiktok.com
 effecthouse.tiktok.com
-partner.tiktokshop.com
 shop.tiktok.com
+partner.tiktokshop.com
 live-backstage.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
@@ -2281,8 +2281,8 @@ gatewaydsaptst2.marriott.com
 *uat.marriott.com
 reservations.all-inclusive.marriott.com
 cpp.marriott.com
-activities.marriott.com
 jobs.marriott.com
+activities.marriott.com
 gatewaydsapdev2.marriott.com
 hotel-deals.marriott.com
 homes-and-villas.marriott.com
@@ -2290,10 +2290,10 @@ marrtool.com
 all-inclusive.marriott.com
 gatewaydsaptst1.marriott.com
 marriottfranchisetransactions.marriott.com
-passwordchallenge.marriott.com
 mgs.marriott.com
-www.marriott.com
 www.ritzcarlton.com
+www.marriott.com
+passwordchallenge.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2711,8 +2711,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-*racing.fanduel.com
 tvg.com
+*racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
 *.fanduel.com
@@ -3193,8 +3193,8 @@ chatdate.app
 zodia.studio
 backstage.io
 assets.spotify.com
-everynoise.com
 api.spotify.com
+everynoise.com
 assets.spotify.com
 api.spotify.com
 everynoise.com
@@ -3259,8 +3259,8 @@ lifeinvader.com
 prod.ros.rockstargames.com
 support.rockstargames.com
 socialclub.rockstargames.com
-*.rockstargames.com
 rockstarnorth.com
+*.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3504,8 +3504,8 @@ app.futuresimple.com
 apps.zendesk.com
 api.getbase.com
 app.smooch.io
-zopim.com
 www.zendesk.com
+zopim.com
 h1-your-domain.zendesk.com
 www.zendesk.com
 developer.zendesk.com
@@ -3523,14 +3523,14 @@ www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
+*.shopifycloud.com
 linkpop.com
 *.shopifycs.com
-*.shopifycloud.com
 shop.app
-shopify.plus
 *.shopifykloud.com
-partners.shopify.com
+shopify.plus
 *.shopify.com
+partners.shopify.com
 accounts.shopify.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
@@ -3569,17 +3569,17 @@ create.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
 spectacles.com
-app.snapchat.com
-snappublisher.snapchat.com
-ads.snapchat.com
-business.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 *.sc-core.net
 scan.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
+business.snapchat.com
+snappublisher.snapchat.com
+ads.snapchat.com
 playcanvas.com
+app.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3831,10 +3831,10 @@ edgeapi.slack.com
 spaces.pm
 slackatwork.com
 slack-redir.net
+slack.com
 slack-imgs.com
 www.quip.com
 *.quip.com
-slack.com
 app.slack.com
 api.slack.com
 slack.com
@@ -3876,9 +3876,9 @@ hackerone-user-content.com
 hackerone.live
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone.com
-www.hackerone.com
 app.pullrequest.com
 ctf.hacker101.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
