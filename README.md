@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 28 17:46:42 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 28 18:23:53 UTC 2024)
 ```
 getworldcoin.com
 *.worldcoin-distributors.com
@@ -90,8 +90,8 @@ www.zyro.com
 backend.zyro.com
 hpanel.hostinger.com
 www.niagahoster.co.id
-editor.zyro.com
 *.000webhost.com
+editor.zyro.com
 www.hostinger.com
 *.000webhost.com
 www.hostinger.com
@@ -127,6 +127,8 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
+api.mercadolibre.com
+www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
@@ -135,8 +137,6 @@ www.mercadolibre.com.pe
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
-api.mercadolibre.com
-www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadopago.com.br
 www.mercadolivre.com.br
@@ -183,11 +183,11 @@ portal.taxi.booking.com
 secure.booking.com
 widget.rentalcars.com
 account.booking.com
-*.booking.com
 booking.com
 flights.booking.com
 *.rentalcars.com
 spark.fareharbor.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -259,8 +259,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicex.com
 test.nicehash.com
+test.nicex.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -390,11 +390,6 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
-www.authorize.net
-www.currencycloud.com
-www.cardinalcommerce.com
-aw.visa.com
-www.visainfinite.ca
 www.cybersource.com
 visa.com.au
 www.fraedom.com
@@ -404,6 +399,11 @@ www.yellowpepper.com
 www.visa.co.id
 usa.visa.com
 www.visa.co.ve
+www.currencycloud.com
+www.cardinalcommerce.com
+aw.visa.com
+www.authorize.net
+www.visainfinite.ca
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -580,10 +580,10 @@ hiltonhotels.jp
 *.hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 *.hiltonhotels.jp
+hilton.com
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
-hilton.com
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -749,7 +749,7 @@ sso.8x8.com
 voapi.8x8.com
 *.jitsi.net
 *.packet8.net
-connect.8x8.com
+*.8x8cloud.net
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -781,8 +781,8 @@ admin.8x8.com
 *.luckydays.ca
 *.napoleonsports.be
 *.luckydays.com
-*.magicjackpot.ro
 *.superbet.rs
+*.magicjackpot.ro
 *.napoleoncasino.be
 *.superbet.com
 *.napoleongames.be
@@ -1003,8 +1003,8 @@ snaps.metamask.io
 portfolio.metamask.io
 invoices.razorpay.com
 payroll.razorpay.com
-api.razorpay.com
 checkout.razorpay.com
+api.razorpay.com
 x.razorpay.com
 dashboard.razorpay.com
 dashboard.razorpay.com
@@ -1295,8 +1295,8 @@ capturingreality.com
 *.tstaging.tools
 *.tinderwebstaging.com
 *.tstaging.com
-*.gotinder.com
 *.tinder.com
+*.gotinder.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1487,8 +1487,8 @@ accounts.reddit.com
 ads-api.reddit.com
 gql.reddit.com
 ads.reddit.com
-www.reddit.com
 *.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1627,8 +1627,8 @@ core.yoti.com
 ccloud.yoti.com
 code.yoti.com
 api.yoti.com
-www.yotisign.com
 identity.yoti.com
+www.yotisign.com
 hub.yoti.com
 core.yoti.com
 api.yoti.com
@@ -1734,18 +1734,18 @@ api.adm.cloud.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 developers.tiktok.com
-creatormarketplace.tiktok.com
-effecthouse.tiktok.com
 partner.tiktokshop.com
 live-backstage.tiktok.com
+creatormarketplace.tiktok.com
+effecthouse.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-tiktok.com
 shop.tiktok.com
+tiktok.com
+www.pangleglobal.com
 business.tiktok.com
 ads.tiktok.com
 *.tiktok.com
-www.pangleglobal.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2190,9 +2190,9 @@ amazonpayinsurance.in
 *.aliyun-inc.com
 *.alibaba-inc.com
 *.Daraz.com
-*.aliexpress.com
-*.aliyun.com
 www.alibabagroup.com
+*.aliyun.com
+*.aliexpress.com
 *.alimama.com
 *.taobao.com
 *.1688.com
@@ -2284,8 +2284,8 @@ homes-and-villas.marriott.com
 marrtool.com
 all-inclusive.marriott.com
 marriottfranchisetransactions.marriott.com
-passwordchallenge.marriott.com
 www.ritzcarlton.com
+passwordchallenge.marriott.com
 gatewaydsaptst1.marriott.com
 mgs.marriott.com
 www.marriott.com
@@ -2350,8 +2350,8 @@ app.nordpass.com
 app.nordpass.com
 *.line.naver.jp
 *.line.me
-*.line-apps.com
 *.line.biz
+*.line-apps.com
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -2706,8 +2706,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-*racing.fanduel.com
 tvg.com
+*racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
 *.fanduel.com
@@ -2819,8 +2819,8 @@ testnet.bitmex.com
 testnet.bitmex.com
 *.staging-airtableblocks.com
 api-staging.airtable.com
-staging.airtable.com
 *.staging.airtable.com
+staging.airtable.com
 *.staging-airtableblocks.com
 *.staging.airtable.com
 staging.airtable.com
@@ -3131,8 +3131,8 @@ kartaview.org
 jira.grab.com
 *.grabpay.com
 *.taralite.com
-*.ovo.id
 *.grab.com
+*.ovo.id
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3518,11 +3518,11 @@ yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
-linkpop.com
 *.shopifycloud.com
-*.shopifykloud.com
+linkpop.com
 shop.app
 shopify.plus
+*.shopifykloud.com
 partners.shopify.com
 accounts.shopify.com
 arrive-server.shopifycloud.com
@@ -3652,9 +3652,9 @@ api.airbnb.com
 *.airbnbcitizen.com
 *.hoteltonight-test.com
 *.withairbnb.com
-www.hoteltonight.com
 *.airbnb.com
 www.airbnb.com
+www.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3756,8 +3756,8 @@ intensedebate.com
 mailpoet.com
 www.tumblr.com
 *.tumblr.com
-akismet.com
 wordpress.com
+akismet.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
@@ -3802,8 +3802,8 @@ api.custody.coinbase.com
 pro.coinbase.com
 cloud.coinbase.com
 api.coinbase.com
-*.coinbase.com
 *.base.org
+*.coinbase.com
 coinbase.com
 *.coinbase.com
 *.cbhq.net
@@ -3858,14 +3858,13 @@ www.wearehackerone.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
+b5s.hackerone-ext-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 a5s.hackerone-ext-content.com
 hackerone-ext-content.com
 mta-sts.wearehackerone.com
 cover-photos.hackerone-user-content.com
-b5s.hackerone-ext-content.com
 api.hackerone.com
-hackerone-user-content.com
 hackerone.live
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 app.pullrequest.com
@@ -3873,6 +3872,7 @@ www.hackerone.com
 ctf.hacker101.com
 errors.hackerone.net
 hackerone.com
+hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
