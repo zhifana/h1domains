@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 28 15:24:49 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 28 15:46:00 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -23,9 +23,9 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 rfc.tari.com
+explore.tari.com
 textexplore.tari.com
 www.tarilabs.com
-explore.tari.com
 www.tari.com
 explore.tari.com
 rfc.tari.com
@@ -52,8 +52,8 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.ddfcontent.com
 www.pornworld.com
+www.ddfcontent.com
 www.analvids.com
 www.pornbox.com
 www.pornbox.com
@@ -127,6 +127,8 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
+api.mercadolibre.com
+www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
@@ -135,8 +137,6 @@ www.mercadolibre.com.pe
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
-api.mercadolibre.com
-www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadopago.com.br
 www.mercadolivre.com.br
@@ -186,8 +186,8 @@ widget.rentalcars.com
 account.booking.com
 *.booking.com
 booking.com
-flights.booking.com
 *.rentalcars.com
+flights.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -391,11 +391,6 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
-www.authorize.net
-www.currencycloud.com
-www.cardinalcommerce.com
-aw.visa.com
-www.visainfinite.ca
 www.cybersource.com
 visa.com.au
 www.fraedom.com
@@ -404,6 +399,11 @@ www.visa.co.in
 www.yellowpepper.com
 www.visa.co.id
 usa.visa.com
+www.visa.co.ve
+www.currencycloud.com
+www.cardinalcommerce.com
+aw.visa.com
+www.authorize.net
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -485,8 +485,8 @@ krisha.kz
 m.kolesa.kz
 kolesa.kz
 avtoelon.uz
-m.avtoelon.uz
 id.kolesa.kz
+m.avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -515,7 +515,6 @@ shavar.services.mozilla.com
 sync.services.mozilla.com
 crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
-aus5.mozilla.org
 hg.mozilla.org
 bugzilla.mozilla.org
 firefox.settings.services.mozilla.com
@@ -523,6 +522,7 @@ addons.allizom.org
 mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
 contile.services.mozilla.com
+aus5.mozilla.org
 location.services.mozilla.com
 accounts.firefox.com
 addons.allizom.org
@@ -672,13 +672,13 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mbamupdates.com
 *.mb-cosmos.com
-*.malwarebytes.com
-*.cloud.malwarebytes.com
+my.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+*.cloud.malwarebytes.com
 *.threatdown.com
 *.mwbsys.com
-my.malwarebytes.com
+*.malwarebytes.com
 www.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
@@ -912,8 +912,8 @@ askpam.ai
 *.teleport.dev
 *.gravitational.io
 platform.teleport.sh
-*.gravitational.co
 teleport.sh
+*.gravitational.co
 *.goteleport.com
 cloud.gravitational.io
 *.goteleport.com
@@ -1193,8 +1193,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-api.krisp.ai
 account.krisp.ai
+api.krisp.ai
 *.krisp.ai
 *.krisp.ai
 krisp.ai
@@ -1813,9 +1813,9 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
+*.acronis.com
 beta-cloud.acronis.com
 *.acronis.work
-*.acronis.com
 account.acronis.com
 *-api-*.acronis.com
 *.acronis.com
@@ -2193,11 +2193,11 @@ amazonpayinsurance.in
 *.aliexpress.ru
 *.tmall.com
 *.aliyun-inc.com
-*.aliyun.com
-www.alibabagroup.com
-*.aliexpress.com
 *.alibaba-inc.com
 *.Daraz.com
+www.alibabagroup.com
+*.aliyun.com
+*.aliexpress.com
 *.alimama.com
 *.taobao.com
 *.1688.com
@@ -2281,8 +2281,8 @@ gatewaydsaptst2.marriott.com
 *uat.marriott.com
 reservations.all-inclusive.marriott.com
 cpp.marriott.com
-activities.marriott.com
 jobs.marriott.com
+activities.marriott.com
 gatewaydsapdev2.marriott.com
 hotel-deals.marriott.com
 homes-and-villas.marriott.com
@@ -2711,8 +2711,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-tvg.com
 *racing.fanduel.com
+tvg.com
 us.tvg.com
 com.fanduel.android.live
 *.fanduel.com
@@ -3259,8 +3259,8 @@ lifeinvader.com
 prod.ros.rockstargames.com
 support.rockstargames.com
 socialclub.rockstargames.com
-*.rockstargames.com
 rockstarnorth.com
+*.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3523,8 +3523,8 @@ www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
-linkpop.com
 *.shopifycloud.com
+linkpop.com
 shop.app
 shopify.plus
 *.shopifykloud.com
@@ -3532,9 +3532,9 @@ partners.shopify.com
 accounts.shopify.com
 arrive-server.shopifycloud.com
 *.shopify.com
-admin.shopify.com
 your-store.myshopify.com
 *.shopifycs.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3863,12 +3863,12 @@ www.wearehackerone.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
-b5s.hackerone-ext-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 a5s.hackerone-ext-content.com
 hackerone-ext-content.com
 mta-sts.wearehackerone.com
 cover-photos.hackerone-user-content.com
+b5s.hackerone-ext-content.com
 api.hackerone.com
 hackerone-user-content.com
 hackerone.live
@@ -3876,8 +3876,8 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 app.pullrequest.com
 www.hackerone.com
 hackerone.com
-ctf.hacker101.com
 errors.hackerone.net
+ctf.hacker101.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
