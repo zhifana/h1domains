@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 28 05:18:50 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 28 05:40:37 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -23,9 +23,9 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 rfc.tari.com
-explore.tari.com
 textexplore.tari.com
 www.tarilabs.com
+explore.tari.com
 www.tari.com
 explore.tari.com
 rfc.tari.com
@@ -88,11 +88,11 @@ cpanel.hostinger.com
 logo.zyro.com
 www.zyro.com
 backend.zyro.com
-*.000webhost.com
 hpanel.hostinger.com
 www.hostinger.com
 www.niagahoster.co.id
 editor.zyro.com
+*.000webhost.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -127,6 +127,9 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
+www.mercadolivre.com.br
+api.mercadolibre.com
+www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
@@ -135,9 +138,6 @@ www.mercadolibre.com.pe
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
-www.mercadolivre.com.br
-www.mercadopago.cl
-api.mercadolibre.com
 www.mercadopago.com.mx
 www.mercadopago.com.br
 api.mercadopago.com
@@ -247,8 +247,8 @@ pentesting.gethypr.com
 hypr37448.gethypr.com
 pentesting3.gethypr.com
 pentesting2.gethypr.com
-hypr74352.gethypr.com
 *.hypr.com
+hypr74352.gethypr.com
 *.hypr.com
 pentesting.gethypr.com
 pentesting3.gethypr.com
@@ -465,8 +465,8 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
-yourdomain.freshdesk.com
 yourdomain.freshchat.com
+yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -672,7 +672,6 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mbamupdates.com
 *.mb-cosmos.com
-my.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
 *.cloud.malwarebytes.com
@@ -680,6 +679,7 @@ cloud.malwarebytes.com
 *.mwbsys.com
 *.malwarebytes.com
 www.malwarebytes.com
+my.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -856,7 +856,6 @@ www.travelocity.com
 www.carrentals.com
 www.cheaptickets.com
 www.ebookers.com
-www.stayz.com.au
 www.orbitz.com
 www.bookabach.co.nz
 www.hotwire.com
@@ -864,6 +863,7 @@ www.expediacruises.com
 www.expedia.com
 www.hotels.com
 www.expediagroup.com
+www.stayz.com.au
 www.vrbo.com
 www.abritel.fr
 www.hotels.com
@@ -914,8 +914,8 @@ askpam.ai
 *.gravitational.io
 platform.teleport.sh
 *.goteleport.com
-teleport.sh
 *.gravitational.co
+teleport.sh
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -1003,8 +1003,8 @@ snaps.metamask.io
 portfolio.metamask.io
 invoices.razorpay.com
 payroll.razorpay.com
-api.razorpay.com
 checkout.razorpay.com
+api.razorpay.com
 x.razorpay.com
 dashboard.razorpay.com
 dashboard.razorpay.com
@@ -1054,10 +1054,10 @@ ws.sorare.com
 exnessaffiliates.com
 pwapi.ex2b.com
 api.excalls.mobi
+my.exness.com
 social-trading.exness.com
 pay.ibex.exchange
 exness.com
-my.exness.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1193,9 +1193,9 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
+account.krisp.ai
 api.krisp.ai
 *.krisp.ai
-account.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1672,8 +1672,8 @@ list-v2--netlify-plugins.netlify.app
 internal-docs.netlify.com
 supportal.netlify.app
 world.hey.com
-3.basecamp.com
 launchpad.37signals.com
+3.basecamp.com
 *.hey.com
 *.hey.com
 3.basecamp.com
@@ -2284,8 +2284,8 @@ gatewaydsaptst2.marriott.com
 *uat.marriott.com
 reservations.all-inclusive.marriott.com
 cpp.marriott.com
-jobs.marriott.com
 activities.marriott.com
+jobs.marriott.com
 gatewaydsapdev2.marriott.com
 hotel-deals.marriott.com
 homes-and-villas.marriott.com
@@ -2690,9 +2690,9 @@ res.hyattinclusivecollection.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
+*.grammarlyaws.com
 *.grammarly.io
 *.grammarly.com
-*.grammarlyaws.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -2714,8 +2714,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-tvg.com
 *racing.fanduel.com
+tvg.com
 us.tvg.com
 com.fanduel.android.live
 *.fanduel.com
@@ -3272,9 +3272,9 @@ store.rockstargames.com
 lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
+www.files.com
 app.files.com
 your-assigned-subdomain.files.com
-www.files.com
 app.files.com
 your-assigned-subdomain.files.com
 www.files.com
@@ -3431,8 +3431,8 @@ api.grofers.com
 *.zomans.com
 blinkit.com
 *.runnr.in
-*.hyperpure.com
 *.zomato.com
+*.hyperpure.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3507,8 +3507,8 @@ app.futuresimple.com
 apps.zendesk.com
 api.getbase.com
 app.smooch.io
-www.zendesk.com
 zopim.com
+www.zendesk.com
 h1-your-domain.zendesk.com
 www.zendesk.com
 developer.zendesk.com
@@ -3526,14 +3526,14 @@ www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
+*.shopifycloud.com
 linkpop.com
 *.shopifycs.com
-*.shopifycloud.com
 shop.app
-shopify.plus
 *.shopifykloud.com
-partners.shopify.com
+shopify.plus
 *.shopify.com
+partners.shopify.com
 accounts.shopify.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
@@ -3656,9 +3656,9 @@ callbacks.airbnb.com
 *.muscache.com
 next.airbnb.com
 assets.airbnb.com
+*.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
-*.airbnb.com
 *.hoteltonight-test.com
 www.airbnb.com
 *.withairbnb.com
@@ -3808,9 +3808,9 @@ international.coinbase.com
 *.cbhq.net
 institutional.coinbase.com
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 cloud.coinbase.com
-api.coinbase.com
 *.coinbase.com
 coinbase.com
 *.base.org
