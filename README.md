@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 28 09:19:38 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 28 09:45:21 UTC 2024)
 ```
+getworldcoin.com
 *.worldcoin-distributors.com
 toolsforhumanity.com
 *.worldcoin.dev
 bioid-management.app
-getworldcoin.com
 worldcoin.org
 *.worldcoin.org
 *.toolsforhumanity.com
@@ -48,12 +48,12 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-www.sheer.com
 my.sheer.com
 www.sheer.com
+www.sheer.com
 my.sheer.com
-www.pornworld.com
 www.ddfcontent.com
+www.pornworld.com
 www.analvids.com
 www.pornbox.com
 www.pornbox.com
@@ -90,8 +90,8 @@ www.zyro.com
 backend.zyro.com
 hpanel.hostinger.com
 www.niagahoster.co.id
-*.000webhost.com
 editor.zyro.com
+*.000webhost.com
 www.hostinger.com
 *.000webhost.com
 www.hostinger.com
@@ -185,8 +185,8 @@ secure.booking.com
 booking.com
 *.rentalcars.com
 spark.fareharbor.com
-*.booking.com
 widget.rentalcars.com
+*.booking.com
 account.booking.com
 *.booking.com
 *.rentalcars.com
@@ -481,12 +481,12 @@ app.krisha.kz
 m.krisha.kz
 api.kolesa.kz
 api.avtoelon.uz
-avtoelon.uz
 id.kolesa.kz
 krisha.kz
 m.kolesa.kz
 m.avtoelon.uz
 kolesa.kz
+avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -516,7 +516,6 @@ sync.services.mozilla.com
 crash-reports.allizom.org
 location.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
-aus5.mozilla.org
 hg.mozilla.org
 bugzilla.mozilla.org
 firefox.settings.services.mozilla.com
@@ -524,6 +523,7 @@ addons.allizom.org
 mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
 contile.services.mozilla.com
+aus5.mozilla.org
 accounts.firefox.com
 addons.allizom.org
 accounts.firefox.com
@@ -580,10 +580,10 @@ hiltonhotels.jp
 *.hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 *.hiltonhotels.jp
+hilton.com
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
-hilton.com
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -672,13 +672,13 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mbamupdates.com
 *.mb-cosmos.com
+my.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
 *.cloud.malwarebytes.com
 *.threatdown.com
 *.mwbsys.com
 *.malwarebytes.com
-my.malwarebytes.com
 www.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
@@ -914,8 +914,8 @@ askpam.ai
 *.gravitational.io
 platform.teleport.sh
 *.goteleport.com
-teleport.sh
 *.gravitational.co
+teleport.sh
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -1003,8 +1003,8 @@ snaps.metamask.io
 portfolio.metamask.io
 invoices.razorpay.com
 payroll.razorpay.com
-api.razorpay.com
 checkout.razorpay.com
+api.razorpay.com
 x.razorpay.com
 dashboard.razorpay.com
 dashboard.razorpay.com
@@ -1493,8 +1493,8 @@ accounts.reddit.com
 ads-api.reddit.com
 gql.reddit.com
 ads.reddit.com
-*.reddit.com
 www.reddit.com
+*.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1813,9 +1813,9 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
+*.acronis.com
 beta-cloud.acronis.com
 *.acronis.work
-*.acronis.com
 account.acronis.com
 *-api-*.acronis.com
 *.acronis.com
@@ -2293,8 +2293,8 @@ marrtool.com
 all-inclusive.marriott.com
 marriottfranchisetransactions.marriott.com
 mgs.marriott.com
-www.marriott.com
 passwordchallenge.marriott.com
+www.marriott.com
 www.ritzcarlton.com
 gatewaydsaptst1.marriott.com
 homes-and-villas.marriott.com
@@ -2322,8 +2322,8 @@ hotel-deals.marriott.com
 http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
-*.ra.roblox.com
 *.roblox.com
+*.ra.roblox.com
 *.rbx.com
 *.guilded.gg
 *.roblox.com
@@ -3262,8 +3262,8 @@ lifeinvader.com
 prod.ros.rockstargames.com
 support.rockstargames.com
 socialclub.rockstargames.com
-rockstarnorth.com
 *.rockstargames.com
+rockstarnorth.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3526,11 +3526,11 @@ www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
+*.shopifycloud.com
 linkpop.com
 *.shopifycs.com
-*.shopifycloud.com
-*.shopifykloud.com
 shop.app
+*.shopifykloud.com
 shopify.plus
 *.shopify.com
 partners.shopify.com
@@ -3724,9 +3724,9 @@ ide.x.ai
 grok.x.ai
 *.twimg.com
 api.x.ai
-gnip.com
-*.twitter.com
 x.com
+*.twitter.com
+gnip.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3878,10 +3878,10 @@ errors.hackerone.net
 hackerone-user-content.com
 hackerone.live
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-hackerone.com
 app.pullrequest.com
 ctf.hacker101.com
 www.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
