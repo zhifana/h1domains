@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 28 22:17:46 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 28 22:40:28 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -182,11 +182,11 @@ careers.booking.com
 portal.taxi.booking.com
 secure.booking.com
 account.booking.com
-*.booking.com
+spark.fareharbor.com
 booking.com
 *.rentalcars.com
 flights.booking.com
-spark.fareharbor.com
+*.booking.com
 widget.rentalcars.com
 *.booking.com
 *.rentalcars.com
@@ -403,7 +403,7 @@ www.currencycloud.com
 www.cardinalcommerce.com
 www.authorize.net
 www.visainfinite.ca
-www.visa.com.mx
+bb.visa.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -515,16 +515,16 @@ shavar.services.mozilla.com
 sync.services.mozilla.com
 crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
+aus5.mozilla.org
 hg.mozilla.org
 bugzilla.mozilla.org
 firefox.settings.services.mozilla.com
 addons.allizom.org
 phabricator.allizom.org
 contile.services.mozilla.com
-aus5.mozilla.org
-mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
 accounts.firefox.com
+mozilla-pontoon-staging.herokuapp.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -621,8 +621,8 @@ ci.indrive.dev
 super-services.indriverapp.com
 *.indriverapp.com
 auth.indrive.tech
-*.indriver.com
 *.indrive.com
+*.indriver.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -672,12 +672,12 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mbamupdates.com
 *.mb-cosmos.com
+*.malwarebytes.com
+*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
-*.cloud.malwarebytes.com
 *.threatdown.com
 *.mwbsys.com
-*.malwarebytes.com
 my.malwarebytes.com
 www.malwarebytes.com
 *.mwbsys.com
@@ -781,8 +781,8 @@ admin.8x8.com
 *.luckydays.ca
 *.napoleonsports.be
 *.luckydays.com
-*.superbet.rs
 *.magicjackpot.ro
+*.superbet.rs
 *.napoleoncasino.be
 *.superbet.com
 *.napoleongames.be
@@ -864,8 +864,8 @@ www.expedia.com
 www.hotels.com
 www.expediagroup.com
 www.stayz.com.au
-www.abritel.fr
 www.vrbo.com
+www.abritel.fr
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -912,10 +912,10 @@ askpam.ai
 *.teleport.dev
 *.gravitational.io
 platform.teleport.sh
-*.gravitational.co
 teleport.sh
-*.goteleport.com
+*.gravitational.co
 cloud.gravitational.io
+*.goteleport.com
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -1193,8 +1193,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-api.krisp.ai
 account.krisp.ai
+api.krisp.ai
 *.krisp.ai
 *.krisp.ai
 krisp.ai
@@ -1295,8 +1295,8 @@ capturingreality.com
 *.tstaging.tools
 *.tinderwebstaging.com
 *.tstaging.com
-*.tinder.com
 *.gotinder.com
+*.tinder.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1422,9 +1422,9 @@ https://www.xvideos.net/app/
 www.elastic.co
 *.swiftype.com
 *.elstc.co
+*.elastic.co
 cloud.elastic.co
 *.found.io
-*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1477,18 +1477,18 @@ mod.reddit.com
 old.reddit.com
 api.reddit.com
 *.redditmedia.com
-accounts.reddit.com
-gql.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 *.snooguts.net
 *.reddithelp.com
 oauth.reddit.com
 new.reddit.com
+accounts.reddit.com
 ads-api.reddit.com
+gql.reddit.com
 ads.reddit.com
-*.reddit.com
 www.reddit.com
+*.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1698,8 +1698,8 @@ api.sharefile.com
 www.cloud.com
 (yoursubdomain).sharefile.com
 eu.cloud.com
-citrix.cloud.com
 accounts.cloud.com
+citrix.cloud.com
 *.citrixworkspacesapi.net
 citrix.cloud.com
 www.cloud.com
@@ -1744,8 +1744,8 @@ www.pangleglobal.com
 shop.tiktok.com
 business.tiktok.com
 *.tiktok.com
-tiktok.com
 ads.tiktok.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1817,6 +1817,8 @@ account.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
 account.acronis.com
+sandbox.affirm.com
+sandbox.affirm.com
 www.watsons.com.tr
 app.superdrug.com
 api.superdrug.com
@@ -2193,9 +2195,9 @@ amazonpayinsurance.in
 *.aliyun-inc.com
 *.alibaba-inc.com
 *.Daraz.com
-www.alibabagroup.com
-*.aliyun.com
 *.aliexpress.com
+*.aliyun.com
+www.alibabagroup.com
 *.alimama.com
 *.taobao.com
 *.1688.com
@@ -2319,8 +2321,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3257,8 +3259,8 @@ lifeinvader.com
 prod.ros.rockstargames.com
 support.rockstargames.com
 socialclub.rockstargames.com
-rockstarnorth.com
 *.rockstargames.com
+rockstarnorth.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3377,8 +3379,8 @@ classroom.github.com
 *.githubapp.com
 *.githubusercontent.com
 npmjs.com
-api.github.com
 *.github.net
+api.github.com
 github.com
 github.com
 api.github.com
@@ -3521,16 +3523,16 @@ www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
-linkpop.com
 *.shopifycloud.com
-*.shopifykloud.com
+linkpop.com
 shop.app
+*.shopifykloud.com
 shopify.plus
 partners.shopify.com
 *.shopifycs.com
+*.shopify.com
 admin.shopify.com
 your-store.myshopify.com
-*.shopify.com
 accounts.shopify.com
 arrive-server.shopifycloud.com
 *.shopifycs.com
@@ -3566,18 +3568,18 @@ create.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
 spectacles.com
-snappublisher.snapchat.com
-ads.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
+snappublisher.snapchat.com
+ads.snapchat.com
 playcanvas.com
 app.snapchat.com
-business.snapchat.com
 *.sc-core.net
 kit.snapchat.com
+business.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3805,8 +3807,8 @@ api.custody.coinbase.com
 pro.coinbase.com
 cloud.coinbase.com
 api.coinbase.com
-*.coinbase.com
 *.base.org
+*.coinbase.com
 coinbase.com
 *.coinbase.com
 *.cbhq.net
@@ -3861,11 +3863,11 @@ www.wearehackerone.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
-b5s.hackerone-ext-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 a5s.hackerone-ext-content.com
 hackerone-ext-content.com
 mta-sts.wearehackerone.com
+b5s.hackerone-ext-content.com
 api.hackerone.com
 hackerone.live
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
