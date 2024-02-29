@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 29 13:43:19 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 29 14:22:05 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -54,8 +54,8 @@ www.sheer.com
 my.sheer.com
 www.ddfcontent.com
 www.pornbox.com
-www.analvids.com
 www.pornworld.com
+www.analvids.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -185,9 +185,9 @@ account.booking.com
 spark.fareharbor.com
 widget.rentalcars.com
 booking.com
+*.booking.com
 *.rentalcars.com
 flights.booking.com
-*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -288,8 +288,8 @@ api-sandbox.gocardless.com
 manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
-*.gocardless-lab.io
 www.gocardless.com
+*.gocardless-lab.io
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -390,6 +390,9 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
+www.authorize.net
+www.currencycloud.com
+www.visainfinite.ca
 www.cybersource.com
 visa.com.au
 www.fraedom.com
@@ -398,11 +401,8 @@ www.visa.co.in
 www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
-www.currencycloud.com
-www.authorize.net
-www.visainfinite.ca
-www.visa.com.mx
 cw.visa.com
+www.visa.com.mx
 bb.visa.com
 aw.visa.com
 bb.visa.com
@@ -483,10 +483,10 @@ api.kolesa.kz
 api.avtoelon.uz
 krisha.kz
 m.avtoelon.uz
-avtoelon.uz
 id.kolesa.kz
 kolesa.kz
 m.kolesa.kz
+avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -748,8 +748,8 @@ sso.8x8.com
 voapi.8x8.com
 *.jitsi.net
 *.packet8.net
-connect.8x8.com
 *.8x8cloud.net
+connect.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -781,8 +781,8 @@ admin.8x8.com
 *.luckydays.ca
 *.napoleonsports.be
 *.luckydays.com
-*.superbet.rs
 *.magicjackpot.ro
+*.superbet.rs
 *.superbet.com
 *.napoleongames.be
 *.superbet.ro
@@ -853,7 +853,6 @@ www.expediaagents.com
 www.fewo-direkt.de
 www.travelocity.com
 www.carrentals.com
-www.cheaptickets.com
 www.ebookers.com
 www.stayz.com.au
 www.orbitz.com
@@ -866,6 +865,7 @@ www.expediagroup.com
 www.vrbo.com
 www.abritel.fr
 www.flights.com
+www.cheaptickets.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -1628,8 +1628,8 @@ ccloud.yoti.com
 code.yoti.com
 api.yoti.com
 www.yotisign.com
-identity.yoti.com
 hub.yoti.com
+identity.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1819,22 +1819,23 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
-app.superdrug.com
-api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.watsons.com.tw
-www.watsons.com.tw
-api.watsons.com.tw
-www10.watsons.com.ph
-api.watsons.com.ph
-www.watsons.com.ph
-www.watsons.co.th
-www20.watsons.co.th
-www10.watsons.co.th
-api.watsons.co.th
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www10.watsons.com.sg
+www.watsons.com.sg
+api.watsons.com.sg
+www.watsons.com.hk
+www10.watsons.com.hk
+api.watsons.com.hk
+www10.watsons.co.id
+api.watsons.co.id
+www.watsons.co.id
+blog.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2173,9 +2174,9 @@ amazonpayinsurance.in
 *.aliyun-inc.com
 *.alibaba-inc.com
 *.Daraz.com
-*.aliexpress.com
-*.aliyun.com
 www.alibabagroup.com
+*.aliyun.com
+*.aliexpress.com
 *.alimama.com
 *.1688.com
 *.alibaba.com
@@ -2688,8 +2689,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-*racing.fanduel.com
 tvg.com
+*racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
 *.fanduel.com
@@ -2962,7 +2963,7 @@ synthetics.eu.newrelic.com
 *.nr-ops.net
 login.newrelic.com
 *.eu.newrelic.com
-one.newrelic.com
+*.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3111,8 +3112,8 @@ kartaview.org
 jira.grab.com
 *.grabpay.com
 *.ovo.id
-*.taralite.com
 *.grab.com
+*.taralite.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3244,8 +3245,8 @@ store.rockstargames.com
 lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
-app.files.com
 www.files.com
+app.files.com
 your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
@@ -3493,8 +3494,8 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 http://h1-your-domain.zendesk.com/sell
-yourcompany.udemy.com
 www.udemy.com
+yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
@@ -3504,12 +3505,12 @@ shop.app
 *.shopifykloud.com
 shopify.plus
 *.shopifycs.com
-*.shopify.com
 accounts.shopify.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 partners.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3544,8 +3545,8 @@ forum.playcanvas.com
 www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
-snappublisher.snapchat.com
 ads.snapchat.com
+snappublisher.snapchat.com
 playcanvas.com
 app.snapchat.com
 business.snapchat.com
@@ -3843,9 +3844,9 @@ hackerone-ext-content.com
 mta-sts.wearehackerone.com
 b5s.hackerone-ext-content.com
 hackerone.live
+hackerone-user-content.com
 ctf.hacker101.com
 errors.hackerone.net
-hackerone-user-content.com
 www.hackerone.com
 api.hackerone.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
