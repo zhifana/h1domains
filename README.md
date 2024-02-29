@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 29 19:17:51 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 29 19:44:27 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -10,9 +10,9 @@ toolsforhumanity.com
 worldcoin.org
 getworldcoin.com
 *.worldcoin.dev
-*.worldcoin.org
 bioid-management.app
 *.toolsforhumanity.com
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -23,8 +23,8 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 rfc.tari.com
-textexplore.tari.com
 explore.tari.com
+textexplore.tari.com
 www.tarilabs.com
 www.tari.com
 explore.tari.com
@@ -109,11 +109,11 @@ research.23andme.com
 mediacenter.23andme.com
 therapeutics.23andme.com
 blog.23andme.com
-you.23andme.com
 store.23andme.com
 education.23andme.com
 medical.23andme.com
 auth.23andme.com
+you.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -134,8 +134,8 @@ www.mercadolibre.com.pe
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
-api.mercadolibre.com
 www.mercadopago.cl
+api.mercadolibre.com
 www.mercadopago.com.mx
 www.mercadopago.com.br
 www.mercadolivre.com.br
@@ -184,8 +184,8 @@ secure.booking.com
 account.booking.com
 widget.rentalcars.com
 booking.com
-*.rentalcars.com
 flights.booking.com
+*.rentalcars.com
 spark.fareharbor.com
 *.booking.com
 *.booking.com
@@ -283,8 +283,8 @@ connect-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
-api-sandbox.gocardless.com
 *.gocardless-cicd.io
+api-sandbox.gocardless.com
 manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -483,10 +483,10 @@ api.kolesa.kz
 api.avtoelon.uz
 krisha.kz
 m.avtoelon.uz
-avtoelon.uz
 id.kolesa.kz
 kolesa.kz
 m.kolesa.kz
+avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -523,8 +523,8 @@ contile.services.mozilla.com
 aus5.mozilla.org
 location.services.mozilla.com
 accounts.firefox.com
-mozilla-pontoon-staging.herokuapp.com
 sync.services.mozilla.com
+mozilla-pontoon-staging.herokuapp.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -621,8 +621,8 @@ ci.indrive.dev
 super-services.indriverapp.com
 *.indriverapp.com
 auth.indrive.tech
-*.indrive.com
 *.indriver.com
+*.indrive.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -672,12 +672,12 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mbamupdates.com
 *.mb-cosmos.com
-*.malwarebytes.com
-*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+*.cloud.malwarebytes.com
 *.threatdown.com
 *.mwbsys.com
+*.malwarebytes.com
 my.malwarebytes.com
 www.malwarebytes.com
 *.mwbsys.com
@@ -781,8 +781,8 @@ admin.8x8.com
 *.luckydays.ca
 *.napoleonsports.be
 *.luckydays.com
-*.magicjackpot.ro
 *.superbet.rs
+*.magicjackpot.ro
 *.superbet.com
 *.napoleongames.be
 *.superbet.ro
@@ -854,6 +854,7 @@ www.fewo-direkt.de
 www.travelocity.com
 www.carrentals.com
 www.ebookers.com
+www.stayz.com.au
 www.orbitz.com
 www.bookabach.co.nz
 www.hotwire.com
@@ -861,7 +862,6 @@ www.expediacruises.com
 www.expedia.com
 www.hotels.com
 www.expediagroup.com
-www.stayz.com.au
 www.vrbo.com
 www.abritel.fr
 www.flights.com
@@ -1003,8 +1003,8 @@ snaps.metamask.io
 portfolio.metamask.io
 invoices.razorpay.com
 payroll.razorpay.com
-api.razorpay.com
 checkout.razorpay.com
+api.razorpay.com
 x.razorpay.com
 dashboard.razorpay.com
 dashboard.razorpay.com
@@ -1193,8 +1193,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-account.krisp.ai
 api.krisp.ai
+account.krisp.ai
 *.krisp.ai
 *.krisp.ai
 krisp.ai
@@ -1479,7 +1479,6 @@ api.reddit.com
 *.redditmedia.com
 redditforbusiness.com
 app.spiketrap.io
-*.snooguts.net
 *.reddithelp.com
 oauth.reddit.com
 new.reddit.com
@@ -1489,6 +1488,7 @@ gql.reddit.com
 www.reddit.com
 ads.reddit.com
 *.reddit.com
+*.snooguts.net
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1734,16 +1734,16 @@ api.adm.cloud.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 developers.tiktok.com
+live-backstage.tiktok.com
 creatormarketplace.tiktok.com
 effecthouse.tiktok.com
-live-backstage.tiktok.com
 careers.tiktok.com
-partner.tiktokshop.com
-shop.tiktok.com
 ads.tiktok.com
 tiktok.com
 business.tiktok.com
 *.tiktok.com
+shop.tiktok.com
+partner.tiktokshop.com
 *.tiktokv.com
 www.pangleglobal.com
 *.tiktok.com
@@ -1819,23 +1819,20 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
+www10.watsons.com.vn
+api.watsons.com.vn
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www.marionnaud.fr
+app.marionnaud.fr
+mapi.moneyback.com.hk
+www.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-www10.watsons.com.sg
-www.watsons.com.sg
-api.watsons.com.sg
-www.watsons.com.hk
-www10.watsons.com.hk
-api.watsons.com.hk
-www10.watsons.co.id
-api.watsons.co.id
-www.watsons.co.id
-blog.watsons.com.tr
+www10.watsons.com.tw
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2283,13 +2280,13 @@ homes-and-villas.marriott.com
 marrtool.com
 all-inclusive.marriott.com
 marriottfranchisetransactions.marriott.com
-passwordchallenge.marriott.com
 www.ritzcarlton.com
+passwordchallenge.marriott.com
 gatewaydsaptst1.marriott.com
 mgs.marriott.com
 cpp.marriott.com
-reservations.all-inclusive.marriott.com
 www.marriott.com
+reservations.all-inclusive.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2684,8 +2681,8 @@ www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
 *.grammarlyaws.com
-*.grammarly.io
 *.grammarly.com
+*.grammarly.io
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -2706,8 +2703,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-tvg.com
 *racing.fanduel.com
+tvg.com
 us.tvg.com
 com.fanduel.android.live
 *.fanduel.com
@@ -3129,8 +3126,8 @@ kartaview.org
 jira.grab.com
 *.grabpay.com
 *.ovo.id
-*.grab.com
 *.taralite.com
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3186,8 +3183,8 @@ chatdate.app
 zodia.studio
 backstage.io
 assets.spotify.com
-api.spotify.com
 everynoise.com
+api.spotify.com
 assets.spotify.com
 api.spotify.com
 everynoise.com
@@ -3523,11 +3520,11 @@ shopify.plus
 *.shopifycs.com
 accounts.shopify.com
 arrive-server.shopifycloud.com
-partners.shopify.com
 *.shopify.com
 shop.app
 admin.shopify.com
 your-store.myshopify.com
+partners.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3826,8 +3823,8 @@ slack-imgs.com
 www.quip.com
 *.quip.com
 slack.com
-api.slack.com
 app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com
