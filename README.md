@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 29 11:18:40 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 29 11:49:15 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
-bioid-management.app
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
 worldcoin.org
 getworldcoin.com
 *.worldcoin.org
 *.worldcoin.dev
+bioid-management.app
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -52,8 +52,8 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.ddfcontent.com
 www.pornworld.com
+www.ddfcontent.com
 www.analvids.com
 www.pornbox.com
 www.pornbox.com
@@ -78,16 +78,16 @@ sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 demo.dynamic.xyz
-app.dynamic-preprod.xyz
 app.dynamic.xyz
+app.dynamic-preprod.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
 payments.hostinger.com
-backend.zyro.com
 cpanel.hostinger.com
 logo.zyro.com
 www.zyro.com
+backend.zyro.com
 www.niagahoster.co.id
 editor.zyro.com
 www.hostinger.com
@@ -135,8 +135,8 @@ www.mercadolibre.com.pe
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
-api.mercadolibre.com
 www.mercadopago.cl
+api.mercadolibre.com
 www.mercadopago.com.mx
 www.mercadopago.com.br
 www.mercadolivre.com.br
@@ -184,10 +184,10 @@ secure.booking.com
 account.booking.com
 flights.booking.com
 spark.fareharbor.com
-booking.com
 widget.rentalcars.com
 *.rentalcars.com
 *.booking.com
+booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -288,8 +288,8 @@ api-sandbox.gocardless.com
 manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
-www.gocardless.com
 *.gocardless-lab.io
+www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -402,8 +402,8 @@ www.currencycloud.com
 www.authorize.net
 www.visainfinite.ca
 www.visa.com.mx
-bb.visa.com
 cw.visa.com
+bb.visa.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -483,9 +483,9 @@ api.kolesa.kz
 api.avtoelon.uz
 krisha.kz
 m.avtoelon.uz
+avtoelon.uz
 id.kolesa.kz
 kolesa.kz
-avtoelon.uz
 m.kolesa.kz
 kolesa.kz
 m.kolesa.kz
@@ -672,13 +672,13 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mbamupdates.com
 *.mb-cosmos.com
-my.malwarebytes.com
+*.malwarebytes.com
+*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
-*.cloud.malwarebytes.com
 *.threatdown.com
 *.mwbsys.com
-*.malwarebytes.com
+my.malwarebytes.com
 www.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
@@ -863,8 +863,8 @@ www.expedia.com
 www.hotels.com
 www.expediagroup.com
 www.stayz.com.au
-www.abritel.fr
 www.vrbo.com
+www.abritel.fr
 www.flights.com
 www.hotels.com
 www.expedia.com
@@ -1054,10 +1054,10 @@ ws.sorare.com
 exnessaffiliates.com
 pwapi.ex2b.com
 api.excalls.mobi
+my.exness.com
 social-trading.exness.com
 pay.ibex.exchange
 exness.com
-my.exness.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1295,8 +1295,8 @@ capturingreality.com
 *.tstaging.tools
 *.tinderwebstaging.com
 *.tstaging.com
-*.tinder.com
 *.gotinder.com
+*.tinder.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1421,10 +1421,10 @@ https://www.xvideos.net/app/
 *.eops.nl
 www.elastic.co
 *.swiftype.com
-*.elstc.co
 cloud.elastic.co
 *.found.io
 *.elastic.co
+*.elstc.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1477,15 +1477,15 @@ mod.reddit.com
 old.reddit.com
 api.reddit.com
 *.redditmedia.com
-accounts.reddit.com
-gql.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 *.snooguts.net
 *.reddithelp.com
 oauth.reddit.com
 new.reddit.com
+accounts.reddit.com
 ads-api.reddit.com
+gql.reddit.com
 www.reddit.com
 *.reddit.com
 ads.reddit.com
@@ -2190,11 +2190,11 @@ amazonpayinsurance.in
 *.aliexpress.ru
 *.tmall.com
 *.aliyun-inc.com
-*.alibaba-inc.com
-*.Daraz.com
-*.aliexpress.com
 *.aliyun.com
 www.alibabagroup.com
+*.aliexpress.com
+*.alibaba-inc.com
+*.Daraz.com
 *.alimama.com
 *.1688.com
 *.alibaba.com
@@ -2276,9 +2276,8 @@ dcfgatewaytst1.marriott.com
 lawmanager.marriott.com
 gatewaydsaptst2.marriott.com
 *uat.marriott.com
-reservations.all-inclusive.marriott.com
-activities.marriott.com
 jobs.marriott.com
+activities.marriott.com
 gatewaydsapdev2.marriott.com
 hotel-deals.marriott.com
 homes-and-villas.marriott.com
@@ -2291,6 +2290,7 @@ gatewaydsaptst1.marriott.com
 mgs.marriott.com
 www.marriott.com
 cpp.marriott.com
+reservations.all-inclusive.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2317,9 +2317,9 @@ http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
 *.rbx.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2923,8 +2923,8 @@ www.dota2.com
 api.steampowered.com
 www.teamfortress.com
 www.counter-strike.net
-store.steampowered.com
 steamcommunity.com
+store.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3130,8 +3130,8 @@ kartaview.org
 jira.grab.com
 *.grabpay.com
 *.ovo.id
-*.grab.com
 *.taralite.com
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3263,8 +3263,8 @@ store.rockstargames.com
 lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
-www.files.com
 app.files.com
+www.files.com
 your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
@@ -3517,13 +3517,13 @@ www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
-*.shopifycloud.com
 linkpop.com
+*.shopifycloud.com
 shop.app
 shopify.plus
 *.shopifykloud.com
-*.shopify.com
 *.shopifycs.com
+*.shopify.com
 accounts.shopify.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
@@ -3560,12 +3560,12 @@ msg.playcanvas.com
 create.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
+snappublisher.snapchat.com
+ads.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
 web.snapchat.com
-snappublisher.snapchat.com
-ads.snapchat.com
 playcanvas.com
 app.snapchat.com
 business.snapchat.com
@@ -3827,8 +3827,8 @@ slack-imgs.com
 www.quip.com
 *.quip.com
 app.slack.com
-api.slack.com
 slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com
