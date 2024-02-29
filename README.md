@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 29 10:20:45 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 29 10:43:16 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -84,10 +84,10 @@ app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
 payments.hostinger.com
-backend.zyro.com
 cpanel.hostinger.com
 logo.zyro.com
 www.zyro.com
+backend.zyro.com
 hpanel.hostinger.com
 www.niagahoster.co.id
 editor.zyro.com
@@ -127,6 +127,8 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
+api.mercadolibre.com
+www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
@@ -135,8 +137,6 @@ www.mercadolibre.com.pe
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
-api.mercadolibre.com
-www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadopago.com.br
 www.mercadolivre.com.br
@@ -182,9 +182,9 @@ careers.booking.com
 portal.taxi.booking.com
 secure.booking.com
 account.booking.com
-booking.com
 flights.booking.com
 spark.fareharbor.com
+booking.com
 widget.rentalcars.com
 *.rentalcars.com
 *.booking.com
@@ -483,9 +483,9 @@ api.kolesa.kz
 api.avtoelon.uz
 krisha.kz
 m.avtoelon.uz
-avtoelon.uz
 id.kolesa.kz
 kolesa.kz
+avtoelon.uz
 m.kolesa.kz
 kolesa.kz
 m.kolesa.kz
@@ -781,8 +781,8 @@ admin.8x8.com
 *.luckydays.ca
 *.napoleonsports.be
 *.luckydays.com
-*.superbet.rs
 *.magicjackpot.ro
+*.superbet.rs
 *.superbet.com
 *.napoleongames.be
 *.superbet.ro
@@ -1003,8 +1003,8 @@ snaps.metamask.io
 portfolio.metamask.io
 invoices.razorpay.com
 payroll.razorpay.com
-checkout.razorpay.com
 api.razorpay.com
+checkout.razorpay.com
 x.razorpay.com
 dashboard.razorpay.com
 dashboard.razorpay.com
@@ -1422,9 +1422,9 @@ https://www.xvideos.net/app/
 www.elastic.co
 *.swiftype.com
 *.elstc.co
+*.elastic.co
 cloud.elastic.co
 *.found.io
-*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1487,8 +1487,8 @@ accounts.reddit.com
 ads-api.reddit.com
 gql.reddit.com
 ads.reddit.com
-*.reddit.com
 www.reddit.com
+*.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1740,12 +1740,12 @@ live-backstage.tiktok.com
 careers.tiktok.com
 shop.tiktok.com
 ads.tiktok.com
-*.tiktok.com
 tiktok.com
 *.tiktokv.com
 business.tiktok.com
 partner.tiktokshop.com
 www.pangleglobal.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1819,23 +1819,22 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-www10.watsons.com.sg
-www.watsons.com.sg
-api.watsons.com.sg
-www.watsons.com.hk
-www10.watsons.com.hk
-api.watsons.com.hk
-www10.watsons.co.id
-api.watsons.co.id
-www.watsons.co.id
-blog.watsons.com.tr
+www10.watsons.com.tw
+www.watsons.com.tw
+api.watsons.com.tw
+www10.watsons.com.ph
+api.watsons.com.ph
+www.watsons.com.ph
+www.watsons.co.th
+www20.watsons.co.th
+www10.watsons.co.th
+api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2277,7 +2276,6 @@ lawmanager.marriott.com
 gatewaydsaptst2.marriott.com
 *uat.marriott.com
 reservations.all-inclusive.marriott.com
-cpp.marriott.com
 activities.marriott.com
 jobs.marriott.com
 gatewaydsapdev2.marriott.com
@@ -2291,6 +2289,7 @@ passwordchallenge.marriott.com
 gatewaydsaptst1.marriott.com
 mgs.marriott.com
 www.marriott.com
+cpp.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2317,9 +2316,9 @@ http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
-*.rbx.com
 *.guilded.gg
 *.roblox.com
+*.rbx.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2685,8 +2684,8 @@ www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
 *.grammarlyaws.com
-*.grammarly.io
 *.grammarly.com
+*.grammarly.io
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -3373,8 +3372,8 @@ classroom.github.com
 *.githubapp.com
 *.githubusercontent.com
 npmjs.com
-*.github.net
 api.github.com
+*.github.net
 github.com
 github.com
 api.github.com
@@ -3519,15 +3518,15 @@ yourcompany.udemy.com
 shopifyinbox.com
 linkpop.com
 *.shopifycloud.com
+*.shopifykloud.com
 shop.app
 shopify.plus
-*.shopifykloud.com
 *.shopifycs.com
 *.shopify.com
 accounts.shopify.com
 arrive-server.shopifycloud.com
-your-store.myshopify.com
 partners.shopify.com
+your-store.myshopify.com
 admin.shopify.com
 *.shopifycs.com
 *.shopify.com
@@ -3560,20 +3559,20 @@ msg.playcanvas.com
 create.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
+snappublisher.snapchat.com
+ads.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
 web.snapchat.com
-ads.snapchat.com
-snappublisher.snapchat.com
 playcanvas.com
 app.snapchat.com
 business.snapchat.com
 *.sc-core.net
-blog.playcanvas.com
-kit.snapchat.com
 accounts.snapchat.com
 spectacles.com
+kit.snapchat.com
+blog.playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3730,7 +3729,6 @@ cloudflareworkers.com
 *.teams.cloudflare.com
 one.dash.cloudflare.com
 waf.cumulusfire.net
-*.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
@@ -3755,8 +3753,8 @@ intensedebate.com
 mailpoet.com
 www.tumblr.com
 *.tumblr.com
-wordpress.com
 akismet.com
+wordpress.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
@@ -3869,9 +3867,9 @@ hackerone-user-content.com
 www.hackerone.com
 api.hackerone.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-hackerone.com
 cover-photos.hackerone-user-content.com
 app.pullrequest.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
