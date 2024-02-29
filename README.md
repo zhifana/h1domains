@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 29 03:41:40 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 29 04:19:31 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -52,8 +52,8 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.ddfcontent.com
 www.pornworld.com
+www.ddfcontent.com
 www.analvids.com
 www.pornbox.com
 www.pornbox.com
@@ -84,10 +84,10 @@ app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
 payments.hostinger.com
+backend.zyro.com
 cpanel.hostinger.com
 logo.zyro.com
 www.zyro.com
-backend.zyro.com
 hpanel.hostinger.com
 www.niagahoster.co.id
 editor.zyro.com
@@ -135,8 +135,8 @@ www.mercadolibre.com.pe
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
-www.mercadopago.cl
 api.mercadolibre.com
+www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadolivre.com.br
 www.mercadopago.com.br
@@ -259,8 +259,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicex.com
 test.nicehash.com
+test.nicex.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -283,8 +283,8 @@ connect-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
-api-sandbox.gocardless.com
 *.gocardless-cicd.io
+api-sandbox.gocardless.com
 manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -390,9 +390,6 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
-www.authorize.net
-www.currencycloud.com
-www.visainfinite.ca
 www.cybersource.com
 visa.com.au
 www.fraedom.com
@@ -401,9 +398,12 @@ www.visa.co.in
 www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
-cw.visa.com
-www.visa.com.mx
+www.currencycloud.com
+www.authorize.net
+www.visainfinite.ca
 bb.visa.com
+www.visa.com.mx
+cw.visa.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -484,8 +484,8 @@ api.avtoelon.uz
 krisha.kz
 m.kolesa.kz
 kolesa.kz
-avtoelon.uz
 m.avtoelon.uz
+avtoelon.uz
 id.kolesa.kz
 kolesa.kz
 m.kolesa.kz
@@ -514,13 +514,13 @@ crash-stats.allizom.org
 shavar.services.mozilla.com
 crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
-aus5.mozilla.org
 hg.mozilla.org
 bugzilla.mozilla.org
 firefox.settings.services.mozilla.com
 addons.allizom.org
 phabricator.allizom.org
 contile.services.mozilla.com
+aus5.mozilla.org
 location.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 sync.services.mozilla.com
@@ -781,8 +781,8 @@ admin.8x8.com
 *.luckydays.ca
 *.napoleonsports.be
 *.luckydays.com
-*.superbet.rs
 *.magicjackpot.ro
+*.superbet.rs
 *.napoleoncasino.be
 *.superbet.com
 *.napoleongames.be
@@ -856,6 +856,7 @@ www.travelocity.com
 www.carrentals.com
 www.cheaptickets.com
 www.ebookers.com
+www.stayz.com.au
 www.orbitz.com
 www.bookabach.co.nz
 www.hotwire.com
@@ -863,9 +864,8 @@ www.expediacruises.com
 www.expedia.com
 www.hotels.com
 www.expediagroup.com
-www.stayz.com.au
-www.abritel.fr
 www.vrbo.com
+www.abritel.fr
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -912,10 +912,10 @@ askpam.ai
 *.teleport.dev
 *.gravitational.io
 platform.teleport.sh
-teleport.sh
 *.gravitational.co
-cloud.gravitational.io
+teleport.sh
 *.goteleport.com
+cloud.gravitational.io
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -1193,8 +1193,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-account.krisp.ai
 api.krisp.ai
+account.krisp.ai
 *.krisp.ai
 *.krisp.ai
 krisp.ai
@@ -1627,8 +1627,8 @@ core.yoti.com
 ccloud.yoti.com
 code.yoti.com
 api.yoti.com
-www.yotisign.com
 identity.yoti.com
+www.yotisign.com
 hub.yoti.com
 core.yoti.com
 api.yoti.com
@@ -1734,14 +1734,14 @@ api.adm.cloud.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 developers.tiktok.com
-creatormarketplace.tiktok.com
-effecthouse.tiktok.com
 partner.tiktokshop.com
 live-backstage.tiktok.com
+creatormarketplace.tiktok.com
+effecthouse.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-www.pangleglobal.com
 shop.tiktok.com
+www.pangleglobal.com
 business.tiktok.com
 tiktok.com
 ads.tiktok.com
@@ -1961,8 +1961,8 @@ my.playstation.com
 my.account.sony.com
 *.api.playstation.com
 transact.playstation.com
-*.sonyentertainmentnetwork.com
 *.playstation.net
+*.sonyentertainmentnetwork.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2201,8 +2201,8 @@ www.alibabagroup.com
 *.alimama.com
 *.taobao.com
 *.1688.com
-*.alibabacloud.com
 *.alibaba.com
+*.alibabacloud.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2289,11 +2289,11 @@ homes-and-villas.marriott.com
 marrtool.com
 all-inclusive.marriott.com
 marriottfranchisetransactions.marriott.com
-www.ritzcarlton.com
 passwordchallenge.marriott.com
+www.ritzcarlton.com
 gatewaydsaptst1.marriott.com
-www.marriott.com
 mgs.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2321,8 +2321,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2688,8 +2688,8 @@ www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
 *.grammarlyaws.com
-*.grammarly.com
 *.grammarly.io
+*.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -2710,8 +2710,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-tvg.com
 *racing.fanduel.com
+tvg.com
 us.tvg.com
 com.fanduel.android.live
 *.fanduel.com
@@ -2928,9 +2928,9 @@ www.valvesoftware.com
 www.dota2.com
 api.steampowered.com
 www.teamfortress.com
-store.steampowered.com
 steamcommunity.com
 www.counter-strike.net
+store.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -2983,11 +2983,11 @@ infrastructure.eu.newrelic.com
 developer.newrelic.com
 alerts.eu.newrelic.com
 synthetics.newrelic.com
-*.nr-data.net
 synthetics.eu.newrelic.com
 *.nr-ops.net
 login.newrelic.com
 *.eu.newrelic.com
+one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3135,8 +3135,8 @@ grab.careers
 kartaview.org
 jira.grab.com
 *.grabpay.com
-*.ovo.id
 *.grab.com
+*.ovo.id
 *.taralite.com
 *.myteksi.com
 *.myteksi.net
@@ -3379,8 +3379,8 @@ classroom.github.com
 *.githubapp.com
 *.githubusercontent.com
 npmjs.com
-*.github.net
 api.github.com
+*.github.net
 github.com
 github.com
 api.github.com
@@ -3525,13 +3525,13 @@ yourcompany.udemy.com
 shopifyinbox.com
 linkpop.com
 *.shopifycloud.com
+*.shopifykloud.com
 shop.app
 shopify.plus
-*.shopifykloud.com
 *.shopifycs.com
-*.shopify.com
-your-store.myshopify.com
 admin.shopify.com
+your-store.myshopify.com
+*.shopify.com
 accounts.shopify.com
 arrive-server.shopifycloud.com
 partners.shopify.com
@@ -3568,18 +3568,18 @@ create.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
 spectacles.com
-snappublisher.snapchat.com
-ads.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
 web.snapchat.com
+snappublisher.snapchat.com
+ads.snapchat.com
 playcanvas.com
 app.snapchat.com
 business.snapchat.com
 *.sc-core.net
-kit.snapchat.com
 accounts.snapchat.com
+kit.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3761,8 +3761,8 @@ intensedebate.com
 mailpoet.com
 www.tumblr.com
 *.tumblr.com
-wordpress.com
 akismet.com
+wordpress.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
@@ -3872,9 +3872,9 @@ api.hackerone.com
 hackerone.live
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 app.pullrequest.com
+errors.hackerone.net
 hackerone-user-content.com
 ctf.hacker101.com
-errors.hackerone.net
 cover-photos.hackerone-user-content.com
 www.hackerone.com
 hackerone.com
