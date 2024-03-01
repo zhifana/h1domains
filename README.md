@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar  1 07:18:42 UTC 2024)
+## Domains with Bounties (Last Updated Fri Mar  1 07:47:21 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -283,8 +283,8 @@ connect-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
-api-sandbox.gocardless.com
 *.gocardless-cicd.io
+api-sandbox.gocardless.com
 manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -400,8 +400,8 @@ www.visa.co.id
 www.visa.co.ve
 www.currencycloud.com
 www.authorize.net
-www.visa.com.mx
 bb.visa.com
+www.visa.com.mx
 cw.visa.com
 www.tink.com
 aw.visa.com
@@ -485,8 +485,8 @@ krisha.kz
 m.avtoelon.uz
 avtoelon.uz
 id.kolesa.kz
-kolesa.kz
 m.kolesa.kz
+kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -521,9 +521,9 @@ phabricator.allizom.org
 contile.services.mozilla.com
 aus5.mozilla.org
 location.services.mozilla.com
+accounts.firefox.com
 sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
-accounts.firefox.com
 merino.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
@@ -621,8 +621,8 @@ ci.indrive.dev
 super-services.indriverapp.com
 *.indriverapp.com
 auth.indrive.tech
-*.indrive.com
 *.indriver.com
+*.indrive.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -854,7 +854,6 @@ www.fewo-direkt.de
 www.travelocity.com
 www.carrentals.com
 www.ebookers.com
-www.stayz.com.au
 www.orbitz.com
 www.bookabach.co.nz
 www.hotwire.com
@@ -862,6 +861,7 @@ www.expediacruises.com
 www.expedia.com
 www.hotels.com
 www.expediagroup.com
+www.stayz.com.au
 www.vrbo.com
 www.flights.com
 www.cheaptickets.com
@@ -912,10 +912,10 @@ askpam.ai
 *.teleport.dev
 *.gravitational.io
 platform.teleport.sh
-teleport.sh
 *.gravitational.co
-cloud.gravitational.io
+teleport.sh
 *.goteleport.com
+cloud.gravitational.io
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -1003,8 +1003,8 @@ snaps.metamask.io
 portfolio.metamask.io
 invoices.razorpay.com
 payroll.razorpay.com
-checkout.razorpay.com
 api.razorpay.com
+checkout.razorpay.com
 x.razorpay.com
 dashboard.razorpay.com
 dashboard.razorpay.com
@@ -1486,9 +1486,9 @@ accounts.reddit.com
 ads-api.reddit.com
 gql.reddit.com
 www.reddit.com
-*.reddit.com
 ads.reddit.com
 *.snooguts.net
+*.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1601,8 +1601,8 @@ internal-api-drive-stream.larksuite.com
 file.larksuite.com
 status.larksuite.com
 hackers_chosendomain.larksuite.com
-internal-api-lark-api.larksuite.com
 larksuite.com
+internal-api-lark-api.larksuite.com
 app.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
@@ -1649,8 +1649,8 @@ netlify-cdp-loader.netlify.app
 supportal.netlify.app
 api.netlify.com
 internal.netlify.com
-*.infra-prod.nsvcs.net
 app.netlify.com
+*.infra-prod.nsvcs.net
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -1819,26 +1819,22 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
-www.watsons.com.tr
 app.superdrug.com
 api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
-api.watsons.com.my
-www.watsons.com.my
-www10.watsons.com.my
-www.iciparisxl.nl
-www.iciparisxl.be
-www.iciparisxl.lu
-app.iciparisxl.nl
-app.iciparisxl.be
-app.iciparisxl.lu
-www.marionnaud.at
-app.marionnaud.at
-www.marionnaud.ch
-app.marionnaud.ch
+www10.watsons.com.tw
+www.watsons.com.tw
+api.watsons.com.tw
+www10.watsons.com.ph
+api.watsons.com.ph
+www.watsons.com.ph
+www.watsons.co.th
+www20.watsons.co.th
+www10.watsons.co.th
+api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2289,11 +2285,11 @@ all-inclusive.marriott.com
 marriottfranchisetransactions.marriott.com
 passwordchallenge.marriott.com
 www.ritzcarlton.com
-gatewaydsaptst1.marriott.com
-mgs.marriott.com
 cpp.marriott.com
 reservations.all-inclusive.marriott.com
 jobs.marriott.com
+gatewaydsaptst1.marriott.com
+mgs.marriott.com
 www.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
@@ -2772,8 +2768,8 @@ paypalobjects.com
 *.xoom.com
 *.hyperwallet.com
 *.paypalcorp.com
-*.braintreegateway.com
 *.paypal.com
+*.braintreegateway.com
 *.braintreepayments.com
 www.paypal-*.com
 *.xoom.com
@@ -2812,8 +2808,8 @@ secure.chaturbate.com
 *.mmcdn.com
 *.highwebmedia.com
 chaturbate.com
-*.cb.dev
 *.mmwebc.dev
+*.cb.dev
 *.highwebmedia.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -3259,8 +3255,8 @@ lifeinvader.com
 prod.ros.rockstargames.com
 support.rockstargames.com
 socialclub.rockstargames.com
-rockstarnorth.com
 *.rockstargames.com
+rockstarnorth.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3269,8 +3265,8 @@ store.rockstargames.com
 lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
-app.files.com
 www.files.com
+app.files.com
 your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
@@ -3523,8 +3519,8 @@ www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
-linkpop.com
 *.shopifycloud.com
+linkpop.com
 shopify.plus
 *.shopifykloud.com
 *.shopifycs.com
@@ -3778,8 +3774,8 @@ intensedebate.com
 mailpoet.com
 www.tumblr.com
 *.tumblr.com
-wordpress.com
 akismet.com
+wordpress.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
@@ -3850,8 +3846,8 @@ slack-redir.net
 slack-imgs.com
 www.quip.com
 *.quip.com
-app.slack.com
 slack.com
+app.slack.com
 api.slack.com
 slack.com
 api.slack.com
@@ -3885,16 +3881,16 @@ a5s.hackerone-ext-content.com
 hackerone-ext-content.com
 mta-sts.wearehackerone.com
 hackerone.live
-ctf.hacker101.com
 errors.hackerone.net
+ctf.hacker101.com
 api.hackerone.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 b5s.hackerone-ext-content.com
 hackerone-user-content.com
-hackerone.com
 cover-photos.hackerone-user-content.com
 app.pullrequest.com
 www.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
