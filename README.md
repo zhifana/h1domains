@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar  1 13:27:43 UTC 2024)
+## Domains with Bounties (Last Updated Fri Mar  1 13:44:27 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -111,9 +111,9 @@ therapeutics.23andme.com
 blog.23andme.com
 store.23andme.com
 education.23andme.com
-you.23andme.com
 medical.23andme.com
 auth.23andme.com
+you.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -862,8 +862,8 @@ www.hotels.com
 www.expediagroup.com
 www.stayz.com.au
 www.vrbo.com
-www.flights.com
 www.abritel.fr
+www.flights.com
 www.cheaptickets.com
 www.hotwire.com
 www.hotels.com
@@ -1601,8 +1601,8 @@ internal-api-drive-stream.larksuite.com
 file.larksuite.com
 status.larksuite.com
 hackers_chosendomain.larksuite.com
-larksuite.com
 internal-api-lark-api.larksuite.com
+larksuite.com
 app.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
@@ -1648,8 +1648,8 @@ netlify-rum.netlify.app
 netlify-cdp-loader.netlify.app
 supportal.netlify.app
 internal.netlify.com
-*.infra-prod.nsvcs.net
 app.netlify.com
+*.infra-prod.nsvcs.net
 api.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
@@ -1819,26 +1819,20 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
-www.watsons.com.tr
-app.superdrug.com
-api.superdrug.com
+www10.watsons.com.vn
+api.watsons.com.vn
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www.marionnaud.fr
+app.marionnaud.fr
+mapi.moneyback.com.hk
+www.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
-api.watsons.com.my
-www.watsons.com.my
-www10.watsons.com.my
-www.iciparisxl.nl
-www.iciparisxl.be
-www.iciparisxl.lu
-app.iciparisxl.nl
-app.iciparisxl.be
-app.iciparisxl.lu
-www.marionnaud.at
-app.marionnaud.at
-www.marionnaud.ch
-app.marionnaud.ch
+www10.watsons.com.tw
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2196,9 +2190,9 @@ updates.amazon.com
 *.aliyun-inc.com
 *.alibaba-inc.com
 *.Daraz.com
-www.alibabagroup.com
-*.aliyun.com
 *.aliexpress.com
+*.aliyun.com
+www.alibabagroup.com
 *.alimama.com
 *.alibaba.com
 *.alibabacloud.com
@@ -2285,12 +2279,12 @@ homes-and-villas.marriott.com
 marrtool.com
 all-inclusive.marriott.com
 marriottfranchisetransactions.marriott.com
-www.ritzcarlton.com
 passwordchallenge.marriott.com
-gatewaydsaptst1.marriott.com
-mgs.marriott.com
+www.ritzcarlton.com
 cpp.marriott.com
 reservations.all-inclusive.marriott.com
+gatewaydsaptst1.marriott.com
+mgs.marriott.com
 jobs.marriott.com
 www.marriott.com
 activities.marriott.com
@@ -2713,8 +2707,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-tvg.com
 *racing.fanduel.com
+tvg.com
 us.tvg.com
 com.fanduel.android.live
 www.tvg.com
@@ -2771,10 +2765,10 @@ py.pl
 paypalobjects.com
 *.xoom.com
 *.hyperwallet.com
-*.paypalcorp.com
 *.braintreegateway.com
 *.paypal.com
 *.braintreepayments.com
+*.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3306,9 +3300,9 @@ www.starbucks.com.sg
 gift.starbucks.co.jp
 openapi.starbucks.com
 www.starbucks.com.cn
-www.starbucks.de
 www.starbucks.com
 www.starbucks.co.kr
+www.starbucks.de
 app.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
@@ -3521,10 +3515,10 @@ www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
-linkpop.com
 *.shopifycloud.com
-*.shopifykloud.com
+linkpop.com
 shopify.plus
+*.shopifykloud.com
 *.shopifycs.com
 accounts.shopify.com
 arrive-server.shopifycloud.com
@@ -3721,8 +3715,8 @@ onboarding.greenhouse.io
 boards.greenhouse.io
 www.greenhouse.io
 app.greenhouse.io
-api.greenhouse.io
 interseller.io
+api.greenhouse.io
 app.greenhouse.io
 boards.greenhouse.io
 api.greenhouse.io
@@ -3777,8 +3771,8 @@ intensedebate.com
 mailpoet.com
 www.tumblr.com
 *.tumblr.com
-akismet.com
 wordpress.com
+akismet.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
@@ -3850,8 +3844,8 @@ slack-imgs.com
 www.quip.com
 *.quip.com
 app.slack.com
-api.slack.com
 slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3884,8 +3878,8 @@ a5s.hackerone-ext-content.com
 hackerone-ext-content.com
 mta-sts.wearehackerone.com
 hackerone.live
-errors.hackerone.net
 ctf.hacker101.com
+errors.hackerone.net
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 b5s.hackerone-ext-content.com
 hackerone-user-content.com
