@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar  1 12:53:12 UTC 2024)
+## Domains with Bounties (Last Updated Fri Mar  1 13:27:43 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -48,8 +48,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-my.sheer.com
 www.sheer.com
+my.sheer.com
 www.sheer.com
 my.sheer.com
 www.ddfcontent.com
@@ -84,9 +84,9 @@ app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
 payments.hostinger.com
-backend.zyro.com
 logo.zyro.com
 www.zyro.com
+backend.zyro.com
 www.niagahoster.co.id
 editor.zyro.com
 hpanel.hostinger.com
@@ -127,6 +127,7 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
+www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
@@ -134,11 +135,10 @@ www.mercadolibre.com.pe
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
-www.mercadopago.cl
 www.mercadopago.com.mx
-api.mercadolibre.com
 www.mercadolivre.com.br
 www.mercadopago.com.ar
+api.mercadolibre.com
 www.mercadopago.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -401,9 +401,9 @@ www.visa.co.ve
 www.currencycloud.com
 www.authorize.net
 www.visa.com.mx
-bb.visa.com
 cw.visa.com
-www.tink.com
+bb.visa.com
+www.visa.com.br
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -485,8 +485,8 @@ krisha.kz
 m.avtoelon.uz
 avtoelon.uz
 id.kolesa.kz
-m.kolesa.kz
 kolesa.kz
+m.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -1003,8 +1003,8 @@ snaps.metamask.io
 portfolio.metamask.io
 invoices.razorpay.com
 payroll.razorpay.com
-api.razorpay.com
 checkout.razorpay.com
+api.razorpay.com
 x.razorpay.com
 dashboard.razorpay.com
 dashboard.razorpay.com
@@ -1420,9 +1420,9 @@ https://www.xvideos.net/app/
 *.eops.nl
 www.elastic.co
 *.swiftype.com
-*.elastic.co
 cloud.elastic.co
 *.found.io
+*.elastic.co
 *.elstc.co
 *.elasticnet.co
 *.elastic.co
@@ -1487,8 +1487,8 @@ ads-api.reddit.com
 gql.reddit.com
 www.reddit.com
 ads.reddit.com
-*.snooguts.net
 *.reddit.com
+*.snooguts.net
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1737,14 +1737,14 @@ developers.tiktok.com
 creatormarketplace.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
-partner.tiktokshop.com
-shop.tiktok.com
 tiktok.com
+partner.tiktokshop.com
 *.tiktokv.com
-www.pangleglobal.com
+shop.tiktok.com
 live-backstage.tiktok.com
 *.tiktok.com
 ads.tiktok.com
+www.pangleglobal.com
 business.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -1960,9 +1960,9 @@ store.playstation.com
 my.playstation.com
 my.account.sony.com
 *.api.playstation.com
+transact.playstation.com
 *.sonyentertainmentnetwork.com
 *.playstation.net
-transact.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2713,8 +2713,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-*racing.fanduel.com
 tvg.com
+*racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
 www.tvg.com
@@ -3267,8 +3267,8 @@ store.rockstargames.com
 lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
-www.files.com
 app.files.com
+www.files.com
 your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
@@ -3378,8 +3378,8 @@ classroom.github.com
 *.githubusercontent.com
 npmjs.com
 *.github.net
-github.com
 api.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3521,8 +3521,8 @@ www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
-*.shopifycloud.com
 linkpop.com
+*.shopifycloud.com
 *.shopifykloud.com
 shopify.plus
 *.shopifycs.com
@@ -3573,11 +3573,11 @@ playcanvas.com
 app.snapchat.com
 business.snapchat.com
 *.sc-core.net
-web.snapchat.com
 accounts.snapchat.com
 spectacles.com
 kit.snapchat.com
 blog.playcanvas.com
+web.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3721,8 +3721,8 @@ onboarding.greenhouse.io
 boards.greenhouse.io
 www.greenhouse.io
 app.greenhouse.io
-interseller.io
 api.greenhouse.io
+interseller.io
 app.greenhouse.io
 boards.greenhouse.io
 api.greenhouse.io
@@ -3824,8 +3824,8 @@ pro.coinbase.com
 cloud.coinbase.com
 api.coinbase.com
 *.base.org
-*.coinbase.com
 coinbase.com
+*.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -3884,8 +3884,8 @@ a5s.hackerone-ext-content.com
 hackerone-ext-content.com
 mta-sts.wearehackerone.com
 hackerone.live
-ctf.hacker101.com
 errors.hackerone.net
+ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 b5s.hackerone-ext-content.com
 hackerone-user-content.com
