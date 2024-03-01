@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar  1 02:42:27 UTC 2024)
+## Domains with Bounties (Last Updated Fri Mar  1 03:23:08 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -54,8 +54,8 @@ www.sheer.com
 my.sheer.com
 www.ddfcontent.com
 www.analvids.com
-www.pornworld.com
 www.pornbox.com
+www.pornworld.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -68,9 +68,9 @@ http://sandbox-api.fireblocks.io
 *.sprint.apps.dynatracelabs.com
 university-staging.dynatracelabs.com
 *.sprint.dynatracelabs.com
-myaccount-hardening.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 account-sprint.dynatracelabs.com
+myaccount-hardening.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -84,7 +84,6 @@ app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
 payments.hostinger.com
-cpanel.hostinger.com
 logo.zyro.com
 www.zyro.com
 backend.zyro.com
@@ -93,6 +92,7 @@ editor.zyro.com
 www.hostinger.com
 *.000webhost.com
 hpanel.hostinger.com
+cpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -127,6 +127,7 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
+www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
@@ -134,7 +135,6 @@ www.mercadolibre.com.pe
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
-www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadolivre.com.br
 www.mercadopago.com.ar
@@ -184,8 +184,8 @@ secure.booking.com
 account.booking.com
 widget.rentalcars.com
 booking.com
-flights.booking.com
 *.rentalcars.com
+flights.booking.com
 spark.fareharbor.com
 *.booking.com
 *.booking.com
@@ -259,8 +259,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicex.com
 test.nicehash.com
+test.nicex.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -401,9 +401,9 @@ www.visa.co.ve
 www.currencycloud.com
 www.authorize.net
 www.visa.com.mx
-cw.visa.com
 bb.visa.com
-www.visa.com.br
+cw.visa.com
+www.tink.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -483,10 +483,10 @@ api.kolesa.kz
 api.avtoelon.uz
 krisha.kz
 m.avtoelon.uz
+avtoelon.uz
 id.kolesa.kz
 kolesa.kz
 m.kolesa.kz
-avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -513,13 +513,13 @@ crash-stats.allizom.org
 shavar.services.mozilla.com
 crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
+aus5.mozilla.org
 hg.mozilla.org
 bugzilla.mozilla.org
 firefox.settings.services.mozilla.com
 addons.allizom.org
 phabricator.allizom.org
 contile.services.mozilla.com
-aus5.mozilla.org
 location.services.mozilla.com
 accounts.firefox.com
 sync.services.mozilla.com
@@ -854,6 +854,7 @@ www.fewo-direkt.de
 www.travelocity.com
 www.carrentals.com
 www.ebookers.com
+www.stayz.com.au
 www.orbitz.com
 www.bookabach.co.nz
 www.hotwire.com
@@ -861,7 +862,6 @@ www.expediacruises.com
 www.expedia.com
 www.hotels.com
 www.expediagroup.com
-www.stayz.com.au
 www.vrbo.com
 www.flights.com
 www.cheaptickets.com
@@ -1420,9 +1420,9 @@ https://www.xvideos.net/app/
 *.eops.nl
 www.elastic.co
 *.swiftype.com
+*.elastic.co
 cloud.elastic.co
 *.found.io
-*.elastic.co
 *.elstc.co
 *.elasticnet.co
 *.elastic.co
@@ -1601,9 +1601,9 @@ internal-api-drive-stream.larksuite.com
 file.larksuite.com
 status.larksuite.com
 hackers_chosendomain.larksuite.com
-larksuite.com
 app.larksuite.com
 internal-api-lark-api.larksuite.com
+larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -1734,13 +1734,13 @@ api.adm.cloud.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 developers.tiktok.com
-live-backstage.tiktok.com
 creatormarketplace.tiktok.com
 effecthouse.tiktok.com
+live-backstage.tiktok.com
 careers.tiktok.com
 tiktok.com
-partner.tiktokshop.com
 *.tiktokv.com
+partner.tiktokshop.com
 business.tiktok.com
 shop.tiktok.com
 *.tiktok.com
@@ -1819,20 +1819,22 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
-www10.watsons.com.vn
-api.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-www.marionnaud.fr
-app.marionnaud.fr
-mapi.moneyback.com.hk
-www.moneyback.com.hk
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
 www10.watsons.com.tw
+www.watsons.com.tw
+api.watsons.com.tw
+www10.watsons.com.ph
+api.watsons.com.ph
+www.watsons.com.ph
+www.watsons.co.th
+www20.watsons.co.th
+www10.watsons.co.th
+api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2188,11 +2190,11 @@ updates.amazon.com
 *.aliexpress.ru
 *.tmall.com
 *.aliyun-inc.com
-*.aliyun.com
-www.alibabagroup.com
-*.aliexpress.com
 *.alibaba-inc.com
 *.Daraz.com
+www.alibabagroup.com
+*.aliyun.com
+*.aliexpress.com
 *.alimama.com
 *.1688.com
 *.alibaba.com
@@ -2283,11 +2285,11 @@ all-inclusive.marriott.com
 marriottfranchisetransactions.marriott.com
 passwordchallenge.marriott.com
 www.ritzcarlton.com
-gatewaydsaptst1.marriott.com
-mgs.marriott.com
 cpp.marriott.com
 reservations.all-inclusive.marriott.com
 jobs.marriott.com
+gatewaydsaptst1.marriott.com
+mgs.marriott.com
 www.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
@@ -2315,9 +2317,9 @@ http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
+*.rbx.com
 *.guilded.gg
 *.roblox.com
-*.rbx.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2705,8 +2707,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-*racing.fanduel.com
 tvg.com
+*racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
 www.tvg.com
@@ -3130,8 +3132,8 @@ kartaview.org
 jira.grab.com
 *.grabpay.com
 *.ovo.id
-*.taralite.com
 *.grab.com
+*.taralite.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3251,8 +3253,8 @@ lifeinvader.com
 prod.ros.rockstargames.com
 support.rockstargames.com
 socialclub.rockstargames.com
-*.rockstargames.com
 rockstarnorth.com
+*.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3525,8 +3527,8 @@ arrive-server.shopifycloud.com
 admin.shopify.com
 shop.app
 *.shopify.com
-partners.shopify.com
 your-store.myshopify.com
+partners.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3558,11 +3560,11 @@ msg.playcanvas.com
 create.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
-snappublisher.snapchat.com
-ads.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
+ads.snapchat.com
+snappublisher.snapchat.com
 playcanvas.com
 app.snapchat.com
 business.snapchat.com
