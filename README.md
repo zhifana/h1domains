@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar  1 10:49:49 UTC 2024)
+## Domains with Bounties (Last Updated Fri Mar  1 11:16:25 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -23,8 +23,8 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 rfc.tari.com
-textexplore.tari.com
 explore.tari.com
+textexplore.tari.com
 www.tarilabs.com
 www.tari.com
 explore.tari.com
@@ -68,9 +68,9 @@ http://sandbox-api.fireblocks.io
 *.sprint.apps.dynatracelabs.com
 university-staging.dynatracelabs.com
 *.sprint.dynatracelabs.com
-myaccount-hardening.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 account-sprint.dynatracelabs.com
+myaccount-hardening.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -84,9 +84,9 @@ app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
 payments.hostinger.com
+backend.zyro.com
 logo.zyro.com
 www.zyro.com
-backend.zyro.com
 www.niagahoster.co.id
 editor.zyro.com
 hpanel.hostinger.com
@@ -283,13 +283,13 @@ connect-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
-api-sandbox.gocardless.com
 *.gocardless-cicd.io
-manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 www.gocardless.com
 *.gocardless-lab.io
+manage-sandbox.gocardless.com
+api-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -390,6 +390,8 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
+www.authorize.net
+www.currencycloud.com
 www.cybersource.com
 visa.com.au
 www.fraedom.com
@@ -398,12 +400,10 @@ www.visa.co.in
 www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
-www.currencycloud.com
-www.authorize.net
+cw.visa.com
 www.visa.com.mx
 bb.visa.com
-cw.visa.com
-www.tink.com
+www.visa.com.br
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -672,12 +672,12 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mbamupdates.com
 *.mb-cosmos.com
-*.malwarebytes.com
-*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+*.cloud.malwarebytes.com
 *.threatdown.com
 *.mwbsys.com
+*.malwarebytes.com
 www.malwarebytes.com
 my.malwarebytes.com
 *.mwbsys.com
@@ -862,8 +862,8 @@ www.hotels.com
 www.expediagroup.com
 www.stayz.com.au
 www.vrbo.com
-www.flights.com
 www.abritel.fr
+www.flights.com
 www.cheaptickets.com
 www.hotwire.com
 www.hotels.com
@@ -912,10 +912,10 @@ askpam.ai
 *.teleport.dev
 *.gravitational.io
 platform.teleport.sh
-*.gravitational.co
 teleport.sh
-*.goteleport.com
+*.gravitational.co
 cloud.gravitational.io
+*.goteleport.com
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -1054,9 +1054,9 @@ ws.sorare.com
 exnessaffiliates.com
 pwapi.ex2b.com
 api.excalls.mobi
+my.exness.com
 social-trading.exness.com
 pay.ibex.exchange
-my.exness.com
 exness.com
 my.exness.com
 pay.ibex.exchange
@@ -1148,8 +1148,8 @@ admin.instacart.com
 shoppers.instacart.com
 api.instacart.com
 *.instacart.tools
-www.instacart.com
 *.instacart.com
+www.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1486,9 +1486,9 @@ accounts.reddit.com
 ads-api.reddit.com
 gql.reddit.com
 www.reddit.com
-*.reddit.com
 ads.reddit.com
 *.snooguts.net
+*.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1601,8 +1601,8 @@ internal-api-drive-stream.larksuite.com
 file.larksuite.com
 status.larksuite.com
 hackers_chosendomain.larksuite.com
-internal-api-lark-api.larksuite.com
 larksuite.com
+internal-api-lark-api.larksuite.com
 app.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
@@ -1819,20 +1819,23 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
-www10.watsons.com.vn
-api.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-www.marionnaud.fr
-app.marionnaud.fr
-mapi.moneyback.com.hk
-www.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.watsons.com.tw
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www10.watsons.com.sg
+www.watsons.com.sg
+api.watsons.com.sg
+www.watsons.com.hk
+www10.watsons.com.hk
+api.watsons.com.hk
+www10.watsons.co.id
+api.watsons.co.id
+www.watsons.co.id
+blog.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2188,11 +2191,11 @@ updates.amazon.com
 *.aliexpress.ru
 *.tmall.com
 *.aliyun-inc.com
-*.aliyun.com
-www.alibabagroup.com
-*.aliexpress.com
 *.alibaba-inc.com
 *.Daraz.com
+www.alibabagroup.com
+*.aliyun.com
+*.aliexpress.com
 *.alimama.com
 *.1688.com
 *.alibaba.com
@@ -2275,7 +2278,6 @@ lawmanager.marriott.com
 gatewaydsaptst2.marriott.com
 *uat.marriott.com
 gatewaydsapdev2.marriott.com
-hotel-deals.marriott.com
 homes-and-villas.marriott.com
 marrtool.com
 all-inclusive.marriott.com
@@ -2286,9 +2288,10 @@ gatewaydsaptst1.marriott.com
 mgs.marriott.com
 cpp.marriott.com
 reservations.all-inclusive.marriott.com
-jobs.marriott.com
 www.marriott.com
+jobs.marriott.com
 activities.marriott.com
+hotel-deals.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2806,8 +2809,8 @@ secure.chaturbate.com
 *.mmcdn.com
 *.highwebmedia.com
 chaturbate.com
-*.cb.dev
 *.mmwebc.dev
+*.cb.dev
 *.highwebmedia.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -3251,8 +3254,8 @@ lifeinvader.com
 prod.ros.rockstargames.com
 support.rockstargames.com
 socialclub.rockstargames.com
-*.rockstargames.com
 rockstarnorth.com
+*.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3515,8 +3518,8 @@ www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
-*.shopifycloud.com
 linkpop.com
+*.shopifycloud.com
 *.shopifykloud.com
 shopify.plus
 *.shopifycs.com
@@ -3883,10 +3886,10 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 b5s.hackerone-ext-content.com
 hackerone-user-content.com
 cover-photos.hackerone-user-content.com
-app.pullrequest.com
 www.hackerone.com
-hackerone.com
+app.pullrequest.com
 api.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
