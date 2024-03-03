@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar  3 09:17:35 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar  3 09:43:03 UTC 2024)
 ```
 *.worldcoin-distributors.com
 getworldcoin.com
@@ -23,8 +23,8 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 rfc.tari.com
-textexplore.tari.com
 explore.tari.com
+textexplore.tari.com
 www.tari.com
 www.tarilabs.com
 explore.tari.com
@@ -68,9 +68,9 @@ http://sandbox-api.fireblocks.io
 *.sprint.apps.dynatracelabs.com
 university-staging.dynatracelabs.com
 *.sprint.dynatracelabs.com
+myaccount-hardening.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 account-sprint.dynatracelabs.com
-myaccount-hardening.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -175,6 +175,7 @@ indicative-pricing.taxi.booking.com
 paymentcomponent.booking.com
 accommodations.booking.com
 chat.booking.com
+flights.booking.com
 admin.booking.com
 distribution-xml.booking.com
 careers.booking.com
@@ -182,7 +183,6 @@ portal.taxi.booking.com
 secure.booking.com
 widget.rentalcars.com
 spark.fareharbor.com
-flights.booking.com
 *.rentalcars.com
 account.booking.com
 cars.booking.com
@@ -231,8 +231,8 @@ api2.frontapp.com
 app.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -331,9 +331,9 @@ evening-earth.gamma.redoxstage.com
 launch.gamma.redoxstage.com
 explore.redoxengine.com
 10x.redoxengine.com
-testapp.redoxengine.com
 dashboard.gamma.redoxstage.com
 app.gamma.redoxstage.com
+testapp.redoxengine.com
 help.redoxengine.com
 www.redoxengine.com
 10x.redoxengine.com
@@ -398,8 +398,8 @@ www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
 www.authorize.net
-bb.visa.com
 www.visa.com.mx
+bb.visa.com
 cw.visa.com
 www.tink.com
 www.visa.com.br
@@ -476,6 +476,9 @@ yourdomain.myfreshworks.com
 app.avtoelon.uz
 id.avtoelon.uz
 app.kolesa.kz
+avtoelon.uz
+id.kolesa.kz
+kolesa.kz
 api.krisha.kz
 app.krisha.kz
 m.krisha.kz
@@ -483,9 +486,6 @@ api.kolesa.kz
 api.avtoelon.uz
 krisha.kz
 m.avtoelon.uz
-avtoelon.uz
-id.kolesa.kz
-kolesa.kz
 m.kolesa.kz
 kolesa.kz
 m.kolesa.kz
@@ -521,9 +521,9 @@ phabricator.allizom.org
 contile.services.mozilla.com
 aus5.mozilla.org
 location.services.mozilla.com
-accounts.firefox.com
 sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
+accounts.firefox.com
 merino.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
@@ -672,9 +672,9 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mbamupdates.com
 *.mb-cosmos.com
+*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
-*.cloud.malwarebytes.com
 *.threatdown.com
 *.mwbsys.com
 my.malwarebytes.com
@@ -975,8 +975,8 @@ artifactory.corp.mongodb.com/
 https://www.*mongodb.com/*
 mongodb.live/*
 artifactory.corp.mongodb.com/
-checksw.com
 royal.checksw.com
+checksw.com
 checksw.com
 royal.checksw.com
 *.superpal.io/*
@@ -1224,8 +1224,8 @@ woocommerce-adapter.judge.me
 bigcommerce-adapter.judge.me
 cache.judge.me
 api.evernote.com
-www.evernote.com
 accounts.evernote.com
+www.evernote.com
 www.evernote.com
 accounts.evernote.com
 api.evernote.com
@@ -1440,10 +1440,10 @@ js.stripe.com
 *.reckoproduction.com
 *.recko.io
 *.link.co
+app.taxjar.com
 api.stripe.com
 api.taxjar.com
 *.stripe.com
-app.taxjar.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1477,14 +1477,14 @@ mod.reddit.com
 old.reddit.com
 api.reddit.com
 *.redditmedia.com
+accounts.reddit.com
+gql.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 *.reddithelp.com
 oauth.reddit.com
 new.reddit.com
-accounts.reddit.com
 ads-api.reddit.com
-gql.reddit.com
 *.reddit.com
 ads.reddit.com
 *.snooguts.net
@@ -1601,9 +1601,9 @@ internal-api-drive-stream.larksuite.com
 file.larksuite.com
 status.larksuite.com
 app.larksuite.com
+hackers_chosendomain.larksuite.com
 larksuite.com
 internal-api-lark-api.larksuite.com
-hackers_chosendomain.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -1736,8 +1736,8 @@ fp-sg.tiktokv.com
 developers.tiktok.com
 creatormarketplace.tiktok.com
 effecthouse.tiktok.com
-partner.tiktokshop.com
 *.tiktokv.com
+partner.tiktokshop.com
 careers.tiktok.com
 shop.tiktok.com
 ads.tiktok.com
@@ -1819,21 +1819,23 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
-app.superdrug.com
-api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.watsons.com.tw
-www.watsons.com.tw
-api.watsons.com.tw
-www10.watsons.com.ph
-www.watsons.com.ph
-www.watsons.co.th
-www20.watsons.co.th
-www10.watsons.co.th
-api.watsons.co.th
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www10.watsons.com.sg
+www.watsons.com.sg
+api.watsons.com.sg
+www.watsons.com.hk
+www10.watsons.com.hk
+api.watsons.com.hk
+www10.watsons.co.id
+api.watsons.co.id
+www.watsons.co.id
+blog.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2061,6 +2063,7 @@ portal.polygon.technology
 *.ppbdev.com
 super6.skysports.com
 itv7.itv.com
+sellercentral.amazon.com
 music.amazon.com
 chat.amazon.com
 affiliate-program.amazon.com
@@ -2087,8 +2090,6 @@ imdbtv-backend-na.amazon.com
 mas-ext.amazon.com
 mas-sdk.amazon.com
 msh.amazon.com
-music-api.amazon.com
-music-hints-na.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2192,12 +2193,12 @@ updates.amazon.com
 *.aliexpress.ru
 *.tmall.com
 *.aliyun-inc.com
+*.alibabacloud.com
+*.aliexpress.com
 *.alibaba-inc.com
 *.Daraz.com
-*.aliexpress.com
 *.alimama.com
 www.alibabagroup.com
-*.alibabacloud.com
 *.taobao.com
 *.aliyun.com
 *.alibaba.com
@@ -2319,8 +2320,8 @@ http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
-*.rbx.com
 *.guilded.gg
+*.rbx.com
 *.roblox.com
 *.roblox.com
 *.rbx.com
@@ -2712,8 +2713,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-tvg.com
 *racing.fanduel.com
+tvg.com
 us.tvg.com
 com.fanduel.android.live
 www.tvg.com
@@ -2770,8 +2771,8 @@ paypalobjects.com
 *.xoom.com
 *.hyperwallet.com
 *.paylution.com
-*.paypalcorp.com
 *.braintreepayments.com
+*.paypalcorp.com
 *.paypal.com
 *.braintreegateway.com
 www.paypal-*.com
@@ -2951,8 +2952,8 @@ merchant.crypto.com
 tax.crypto.com
 auth.crypto.com
 www.crypto.com
-js.crypto.com
 *.crypto.com
+js.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -2985,9 +2986,9 @@ alerts.eu.newrelic.com
 synthetics.newrelic.com
 synthetics.eu.newrelic.com
 *.nr-ops.net
-*.newrelic.com
 login.newrelic.com
 *.eu.newrelic.com
+*.nr-data.net
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3450,8 +3451,8 @@ derivws.com
 secure-dfadmin.deriv.com
 *.deriv.cloud
 app.deriv.com
-api.deriv.com
 *.deriv.com
+api.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3567,8 +3568,8 @@ scan.snapchat.com
 snappublisher.snapchat.com
 ads.snapchat.com
 playcanvas.com
-*.sc-core.net
 business.snapchat.com
+*.sc-core.net
 spectacles.com
 kit.snapchat.com
 blog.playcanvas.com
@@ -3614,6 +3615,7 @@ rma.ui.com
 careers.ui.com
 uisp.com
 fw-update.ubnt.com
+*.ui.com
 store.ui.com
 *.ubnt.com
 *.ui.com
@@ -3848,8 +3850,8 @@ slackatwork.com
 slack-redir.net
 slack-imgs.com
 www.quip.com
-*.quip.com
 app.slack.com
+*.quip.com
 api.slack.com
 slack.com
 slack.com
@@ -3887,14 +3889,14 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 app.pullrequest.com
-www.hackerone.com
 www.wearehackerone.com
 hackerone.live
 errors.hackerone.net
-ctf.hacker101.com
 hackerone-user-content.com
 hackerone.com
 api.hackerone.com
+www.hackerone.com
+ctf.hacker101.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
