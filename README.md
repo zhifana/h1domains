@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar  5 17:44:36 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar  5 18:21:20 UTC 2024)
 ```
 *.worldcoin-distributors.com
 getworldcoin.com
@@ -108,10 +108,10 @@ research.23andme.com
 therapeutics.23andme.com
 blog.23andme.com
 education.23andme.com
+auth.23andme.com
 api.23andme.com
 mediacenter.23andme.com
 store.23andme.com
-auth.23andme.com
 medical.23andme.com
 you.23andme.com
 api.23andme.com
@@ -183,10 +183,10 @@ widget.rentalcars.com
 cars.booking.com
 booking.com
 flights.booking.com
-careers.booking.com
 spark.fareharbor.com
 www.fareharbor.com
 *.rentalcars.com
+careers.booking.com
 account.booking.com
 *.booking.com
 *.booking.com
@@ -285,12 +285,12 @@ connect-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
-*.gocardless-cicd.io
-www.gocardless.com
 *.gocardless-lab.io
 manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
+*.gocardless-cicd.io
+www.gocardless.com
 api-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -332,9 +332,9 @@ eets.gamma.redoxstage.com
 evening-earth.gamma.redoxstage.com
 launch.gamma.redoxstage.com
 explore.redoxengine.com
+testapp.redoxengine.com
 dashboard.gamma.redoxstage.com
 app.gamma.redoxstage.com
-testapp.redoxengine.com
 help.redoxengine.com
 www.redoxengine.com
 10x.redoxengine.com
@@ -391,8 +391,6 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
-www.visainfinite.ca
-www.authorize.net
 www.cybersource.com
 visa.com.au
 www.fraedom.com
@@ -401,11 +399,13 @@ www.visa.co.in
 www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
-cw.visa.com
+www.authorize.net
 www.visa.com.mx
+cw.visa.com
 bb.visa.com
 www.visa.com.br
 www.tink.com
+www.visa.com.ng
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -524,9 +524,9 @@ contile.services.mozilla.com
 accounts.firefox.com
 sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
-lando.services.mozilla.com
 bugzilla.mozilla.org
 location.services.mozilla.com
+lando.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -674,9 +674,9 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mbamupdates.com
 *.mb-cosmos.com
+*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
-*.cloud.malwarebytes.com
 *.threatdown.com
 *.mwbsys.com
 my.malwarebytes.com
@@ -853,20 +853,20 @@ www.lastminute.com.au
 www.wotif.com
 www.expediaagents.com
 www.fewo-direkt.de
+www.stayz.com.au
 www.bookabach.co.nz
 www.expediacruises.com
 www.hotels.com
 www.expediagroup.com
-www.stayz.com.au
 www.abritel.fr
-www.cheaptickets.com
 www.travelocity.com
 www.ebookers.com
-www.orbitz.com
 www.hotwire.com
 www.expedia.com
 www.flights.com
 www.carrentals.com
+www.cheaptickets.com
+www.orbitz.com
 www.vrbo.com
 www.hotels.com
 www.expedia.com
@@ -1007,8 +1007,8 @@ snaps.metamask.io
 portfolio.metamask.io
 invoices.razorpay.com
 payroll.razorpay.com
-checkout.razorpay.com
 api.razorpay.com
+checkout.razorpay.com
 dashboard.razorpay.com
 x.razorpay.com
 dashboard.razorpay.com
@@ -1488,10 +1488,10 @@ new.reddit.com
 accounts.reddit.com
 ads-api.reddit.com
 gql.reddit.com
-ads.reddit.com
 *.reddit.com
-old.reddit.com
+ads.reddit.com
 www.reddit.com
+old.reddit.com
 *.snooguts.net
 *.snooguts.net
 *.redditmedia.com
@@ -1652,9 +1652,9 @@ internal.netlify.com
 *.infra-prod.nsvcs.net
 app.netlify.com
 *.services.netlify.com
-api.netlify.com
-netlify-rum.netlify.app
 *.onegraph.com
+netlify-rum.netlify.app
+api.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -1738,18 +1738,18 @@ api.adm.cloud.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 developers.tiktok.com
+careers.tiktok.com
 creatormarketplace.tiktok.com
 effecthouse.tiktok.com
-careers.tiktok.com
 shop.tiktok.com
 tiktok.com
 live-backstage.tiktok.com
 www.pangleglobal.com
 *.tiktok.com
 partner.tiktokshop.com
-business.tiktok.com
 ads.tiktok.com
 *.tiktokv.com
+business.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2077,7 +2077,6 @@ api.amazon.com
 manufacturing.amazon.com
 apay-us.amazon.com
 aax-us-iad.amazon.com
-aca-livecards-service.amazon.com
 address-photos.amazon.com
 ads-setu-proxy.amazon.com
 alexa-comms-mobile-service-na.amazon.com
@@ -2102,6 +2101,7 @@ musiccentral.amazon.com
 pitangui.amazon.com
 preview-flex-capacity-na.amazon.com
 prod-dp-discovery-us-east-1.amazon.com
+rabbitinstruction-na.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2295,10 +2295,10 @@ marrtool.com
 all-inclusive.marriott.com
 marriottfranchisetransactions.marriott.com
 passwordchallenge.marriott.com
-cpp.marriott.com
-reservations.all-inclusive.marriott.com
 gatewaydsaptst1.marriott.com
 mgs.marriott.com
+cpp.marriott.com
+reservations.all-inclusive.marriott.com
 hotel-deals.marriott.com
 jobs.marriott.com
 www.ritzcarlton.com
@@ -3065,10 +3065,10 @@ hybrid-analysis.com
 *.reposify.com
 *.bionic.ai
 *.preempt.com
+www.crowdstrike.com
 *.humio.com
 falcon-sandbox.com
 *.crowdstrike.com
-www.crowdstrike.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3237,8 +3237,8 @@ wordpressfoundation.org
 gutenberg.run
 doaction.org
 *.wordcamp.org
-*.wordpress.org
 *.wordpress.net
+*.wordpress.org
 *.wordpress.org
 *.buddypress.org
 bbpress.org
@@ -3314,8 +3314,8 @@ www.starbucks.com.br
 www.starbucks.com.sg
 gift.starbucks.co.jp
 openapi.starbucks.com
-www.starbucks.de
 www.starbucks.co.kr
+www.starbucks.de
 www.starbucks.com.cn
 www.starbucks.com
 app.starbucks.com
@@ -3385,10 +3385,10 @@ npmjs.org
 *.githubusercontent.com
 *.github.net
 npmjs.com
-api.github.com
 education.github.com
 github.com
 classroom.github.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3540,9 +3540,9 @@ shop.app
 accounts.shopify.com
 *.shopify.com
 partners.shopify.com
-admin.shopify.com
 your-store.myshopify.com
 *.shopify.io
+admin.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3667,8 +3667,8 @@ assets.airbnb.com
 www.airbnb.com
 www.hoteltonight.com
 api.airbnb.com
-*.airbnb.com
 *.withairbnb.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3899,15 +3899,15 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 errors.hackerone.net
 b5s.hackerone-ext-content.com
 www.wearehackerone.com
-hackerone-user-content.com
 hackerone.live
+hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 ctf.hacker101.com
 api.hackerone.com
 reviewer.pullrequest.com
 app.pullrequest.com
-www.hackerone.com
 hackerone.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
