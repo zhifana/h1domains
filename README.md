@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar  5 12:28:38 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar  5 12:52:06 UTC 2024)
 ```
 *.worldcoin-distributors.com
 getworldcoin.com
@@ -10,8 +10,8 @@ bioid-management.app
 *.toolsforhumanity.com
 worldcoin.org
 *.worldcoin.dev
-*.worldcoin.org
 toolsforhumanity.com
+*.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -23,8 +23,8 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 rfc.tari.com
-textexplore.tari.com
 explore.tari.com
+textexplore.tari.com
 www.tarilabs.com
 www.tari.com
 explore.tari.com
@@ -84,9 +84,9 @@ app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
 payments.hostinger.com
-backend.zyro.com
 logo.zyro.com
 www.zyro.com
+backend.zyro.com
 www.niagahoster.co.id
 editor.zyro.com
 *.000webhost.com
@@ -391,8 +391,6 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
-www.visainfinite.ca
-www.authorize.net
 www.cybersource.com
 visa.com.au
 www.fraedom.com
@@ -401,11 +399,13 @@ www.visa.co.in
 www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
-cw.visa.com
+www.authorize.net
 www.visa.com.mx
 bb.visa.com
-www.visa.com.br
+cw.visa.com
 www.tink.com
+www.visa.com.br
+www.visa.com.ng
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -613,6 +613,7 @@ aws.indrive.tech
 ingest.clairvoyance.indrive.tech
 volans.tech
 injob.indriver.com
+*.indriver.com
 auth2.indrive.tech
 watchdocs.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -620,7 +621,6 @@ argocd.indrive.dev
 ci.indrive.dev
 super-services.indriverapp.com
 auth.indrive.tech
-*.indriver.com
 *.indrive.com
 cargo.indrive.com
 truck-api.eu-east-1.indriverapp.com
@@ -783,11 +783,11 @@ admin.8x8.com
 *.luckydays.ca
 *.napoleonsports.be
 *.luckydays.com
-*.superbet.pl
-*.superbet.rs
 *.magicjackpot.ro
+*.superbet.rs
 *.napoleongames.be
 *.napoleoncasino.be
+*.superbet.pl
 *.superbet.ro
 *.superbet.com
 *.superbet.ro
@@ -1007,8 +1007,8 @@ snaps.metamask.io
 portfolio.metamask.io
 invoices.razorpay.com
 payroll.razorpay.com
-api.razorpay.com
 checkout.razorpay.com
+api.razorpay.com
 dashboard.razorpay.com
 x.razorpay.com
 dashboard.razorpay.com
@@ -1423,8 +1423,8 @@ gold.xnxx.com
 https://www.xvideos.net/app/
 *.eops.nl
 www.elastic.co
-*.found.io
 *.elastic.co
+*.found.io
 *.elstc.co
 cloud.elastic.co
 *.swiftype.com
@@ -1738,14 +1738,14 @@ api.adm.cloud.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 developers.tiktok.com
-careers.tiktok.com
 creatormarketplace.tiktok.com
 effecthouse.tiktok.com
+careers.tiktok.com
 shop.tiktok.com
 tiktok.com
 live-backstage.tiktok.com
-*.tiktokv.com
 www.pangleglobal.com
+*.tiktokv.com
 partner.tiktokshop.com
 business.tiktok.com
 *.tiktok.com
@@ -1823,20 +1823,23 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
-www10.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-app.marionnaud.fr
-mapi.moneyback.com.hk
-www.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.watsons.com.tw
-api.watsons.com.tw
-www10.watsons.com.ph
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www10.watsons.com.sg
+www.watsons.com.sg
+api.watsons.com.sg
+www.watsons.com.hk
+www10.watsons.com.hk
+api.watsons.com.hk
+www10.watsons.co.id
+api.watsons.co.id
+www.watsons.co.id
+blog.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2289,17 +2292,17 @@ marrtool.com
 all-inclusive.marriott.com
 marriottfranchisetransactions.marriott.com
 passwordchallenge.marriott.com
-cpp.marriott.com
-reservations.all-inclusive.marriott.com
 gatewaydsaptst1.marriott.com
 mgs.marriott.com
+cpp.marriott.com
+reservations.all-inclusive.marriott.com
 hotel-deals.marriott.com
 jobs.marriott.com
 www.ritzcarlton.com
 sso.marriott.com
 www.marriott.com
-homes-and-villas.marriott.com
 activities.marriott.com
+homes-and-villas.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2718,8 +2721,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-*racing.fanduel.com
 tvg.com
+*racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
 www.tvg.com
@@ -2774,8 +2777,8 @@ py.pl
 *.xoom.com
 *.hyperwallet.com
 *.paylution.com
-*.braintreepayments.com
 *.paypalcorp.com
+*.braintreepayments.com
 *.braintreegateway.com
 *.braintree-api.com
 paypalobjects.com
@@ -3379,10 +3382,10 @@ npmjs.org
 *.githubusercontent.com
 *.github.net
 npmjs.com
-classroom.github.com
 api.github.com
 education.github.com
 github.com
+classroom.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3393,8 +3396,8 @@ education.github.com
 *.githubusercontent.com
 npmjs.com
 npmjs.org
-*ubereats.com
 *.uberinternal.com
+*ubereats.com
 *.uberinternal.com
 *ubereats.com
 api.mapbox.com
@@ -3530,9 +3533,9 @@ shopify.plus
 *.shopifycs.com
 arrive-server.shopifycloud.com
 *.shopifycloud.com
-shop.app
-*.shopify.com
 *.shopify.io
+*.shopify.com
+shop.app
 partners.shopify.com
 accounts.shopify.com
 your-store.myshopify.com
@@ -3893,8 +3896,8 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 errors.hackerone.net
 b5s.hackerone-ext-content.com
 www.wearehackerone.com
-hackerone-user-content.com
 hackerone.live
+hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 ctf.hacker101.com
 api.hackerone.com
