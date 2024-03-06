@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar  6 02:41:43 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar  6 03:18:47 UTC 2024)
 ```
 *.worldcoin-distributors.com
 getworldcoin.com
@@ -10,9 +10,9 @@ getworldcoin.com
 *.worldcoin.dev
 toolsforhumanity.com
 *.consumer.worldcoin.org
-worldcoin.org
 *.worldcoin.org
 bioid-management.app
+worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -84,9 +84,9 @@ app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
 payments.hostinger.com
+backend.zyro.com
 logo.zyro.com
 www.zyro.com
-backend.zyro.com
 www.niagahoster.co.id
 editor.zyro.com
 *.000webhost.com
@@ -108,10 +108,10 @@ research.23andme.com
 therapeutics.23andme.com
 blog.23andme.com
 education.23andme.com
-store.23andme.com
+auth.23andme.com
 api.23andme.com
 mediacenter.23andme.com
-auth.23andme.com
+store.23andme.com
 medical.23andme.com
 you.23andme.com
 api.23andme.com
@@ -127,19 +127,19 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
-www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadolibre.com.pe
+www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadopago.com.ar
 www.mercadolivre.com.br
 www.mercadopago.com.br
-api.mercadolibre.com
 www.mercadolibre.com.ar
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -186,8 +186,8 @@ flights.booking.com
 spark.fareharbor.com
 www.fareharbor.com
 *.rentalcars.com
-careers.booking.com
 account.booking.com
+careers.booking.com
 *.booking.com
 *.booking.com
 *.rentalcars.com
@@ -285,12 +285,12 @@ connect-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
+*.gocardless-cicd.io
+www.gocardless.com
 *.gocardless-lab.io
 manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
-*.gocardless-cicd.io
-www.gocardless.com
 api-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -401,10 +401,10 @@ www.visa.co.id
 www.visa.co.ve
 www.authorize.net
 www.visa.com.mx
-bb.visa.com
 cw.visa.com
-www.tink.com
+bb.visa.com
 www.visa.com.br
+www.tink.com
 www.visa.com.ng
 aw.visa.com
 bb.visa.com
@@ -525,8 +525,8 @@ mozilla-pontoon-staging.herokuapp.com
 bugzilla.mozilla.org
 location.services.mozilla.com
 lando.services.mozilla.com
-accounts.firefox.com
 merino.services.mozilla.com
+accounts.firefox.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -853,19 +853,19 @@ www.lastminute.com.au
 www.wotif.com
 www.expediaagents.com
 www.fewo-direkt.de
-www.stayz.com.au
 www.bookabach.co.nz
 www.expediacruises.com
 www.hotels.com
 www.expediagroup.com
+www.stayz.com.au
 www.abritel.fr
+www.cheaptickets.com
 www.travelocity.com
+www.orbitz.com
 www.ebookers.com
 www.hotwire.com
 www.flights.com
 www.carrentals.com
-www.cheaptickets.com
-www.orbitz.com
 www.vrbo.com
 www.expedia.com
 www.hotels.com
@@ -915,8 +915,8 @@ askpam.ai
 *.gravitational.io
 platform.teleport.sh
 *.gravitational.co
-*.goteleport.com
 cloud.gravitational.io
+*.goteleport.com
 teleport.sh
 *.goteleport.com
 *.gravitational.com
@@ -1651,8 +1651,8 @@ supportal.netlify.app
 internal.netlify.com
 *.infra-prod.nsvcs.net
 *.services.netlify.com
-netlify-rum.netlify.app
 *.onegraph.com
+netlify-rum.netlify.app
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -1821,13 +1821,8 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
-www10.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-app.marionnaud.fr
-mapi.moneyback.com.hk
-www.moneyback.com.hk
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
@@ -1836,6 +1831,9 @@ www10.watsons.com.tw
 api.watsons.com.tw
 www10.watsons.com.ph
 www.watsons.co.th
+www20.watsons.co.th
+www10.watsons.co.th
+api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2718,8 +2716,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-tvg.com
 *racing.fanduel.com
+tvg.com
 us.tvg.com
 com.fanduel.android.live
 www.tvg.com
@@ -2932,9 +2930,9 @@ playartifact.com
 www.valvesoftware.com
 www.dota2.com
 api.steampowered.com
+steamcommunity.com
 www.teamfortress.com
 www.counter-strike.net
-steamcommunity.com
 store.steampowered.com
 www.dota2.com
 support.steampowered.com
@@ -2990,9 +2988,9 @@ alerts.eu.newrelic.com
 synthetics.newrelic.com
 synthetics.eu.newrelic.com
 *.nr-ops.net
-*.newrelic.com
 login.newrelic.com
 *.eu.newrelic.com
+one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3270,8 +3268,8 @@ store.rockstargames.com
 lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
-www.files.com
 app.files.com
+www.files.com
 your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
@@ -3580,8 +3578,8 @@ blog.playcanvas.com
 *.sc-corp.net
 accounts.snapchat.com
 app.snapchat.com
-web.snapchat.com
 snappublisher.snapchat.com
+web.snapchat.com
 playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
@@ -3898,9 +3896,9 @@ api.hackerone.com
 reviewer.pullrequest.com
 app.pullrequest.com
 hackerone.com
-www.hackerone.com
-hackerone.live
 hackerone-user-content.com
+hackerone.live
+www.hackerone.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone.com
 api.hackerone.com
