@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar  6 23:19:16 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar  6 23:42:19 UTC 2024)
 ```
 cards.remitly.io
 api.remitly.io
@@ -58,8 +58,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-my.sheer.com
 www.sheer.com
+my.sheer.com
 www.sheer.com
 my.sheer.com
 www.pornworld.com
@@ -118,12 +118,12 @@ research.23andme.com
 therapeutics.23andme.com
 blog.23andme.com
 education.23andme.com
+store.23andme.com
 api.23andme.com
 mediacenter.23andme.com
-store.23andme.com
 medical.23andme.com
-auth.23andme.com
 you.23andme.com
+auth.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -193,8 +193,8 @@ cars.booking.com
 flights.booking.com
 spark.fareharbor.com
 www.fareharbor.com
-account.booking.com
 careers.booking.com
+account.booking.com
 booking.com
 *.booking.com
 *.rentalcars.com
@@ -295,11 +295,11 @@ connect-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
-www.gocardless.com
 *.gocardless-lab.io
 manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
+www.gocardless.com
 api-sandbox.gocardless.com
 *.gocardless-cicd.io
 *.gocardless.io
@@ -339,8 +339,8 @@ eets.gamma.redoxstage.com
 evening-earth.gamma.redoxstage.com
 launch.gamma.redoxstage.com
 explore.redoxengine.com
-testapp.redoxengine.com
 dashboard.gamma.redoxstage.com
+testapp.redoxengine.com
 www.redoxengine.com
 app.gamma.redoxstage.com
 testapi.redoxengine.com
@@ -532,8 +532,8 @@ sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
 lando.services.mozilla.com
-merino.services.mozilla.com
 accounts.firefox.com
+merino.services.mozilla.com
 bugzilla.mozilla.org
 addons.allizom.org
 accounts.firefox.com
@@ -1499,8 +1499,8 @@ accounts.reddit.com
 ads-api.reddit.com
 gql.reddit.com
 ads.reddit.com
-old.reddit.com
 www.reddit.com
+old.reddit.com
 *.snooguts.net
 *.reddithelp.com
 *.reddit.com
@@ -1615,8 +1615,8 @@ passport.larksuite.com
 internal-api-drive-stream.larksuite.com
 file.larksuite.com
 status.larksuite.com
-larksuite.com
 app.larksuite.com
+larksuite.com
 hackers_chosendomain.larksuite.com
 internal-api-lark-api.larksuite.com
 larksuite.com
@@ -1749,15 +1749,15 @@ api.adm.cloud.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 developers.tiktok.com
-careers.tiktok.com
 effecthouse.tiktok.com
+careers.tiktok.com
 live-backstage.tiktok.com
 business.tiktok.com
 *.tiktokv.com
 shop.tiktok.com
-tiktok.com
 www.pangleglobal.com
 creatormarketplace.tiktok.com
+tiktok.com
 partner.tiktokshop.com
 *.tiktok.com
 ads.tiktok.com
@@ -1832,27 +1832,19 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
-www.watsons.com.tr
 app.superdrug.com
 api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
-api.watsons.com.my
-www10.watsons.com.my
-www.iciparisxl.nl
-www.iciparisxl.be
-www.iciparisxl.lu
-app.iciparisxl.nl
-app.iciparisxl.be
-app.iciparisxl.lu
-www.marionnaud.at
-app.marionnaud.at
-app.marionnaud.ch
-www.marionnaud.cz
-app.marionnaud.cz
-www.marionnaud.hu
+www10.watsons.com.tw
+api.watsons.com.tw
+www10.watsons.com.ph
+www.watsons.co.th
+www20.watsons.co.th
+www10.watsons.co.th
+api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2791,8 +2783,8 @@ paypal.me
 py.pl
 *.venmo.com
 *.paylution.com
-*.braintreepayments.com
 *.paypalcorp.com
+*.braintreepayments.com
 *.braintree-api.com
 paypalobjects.com
 *.xoom.com
@@ -3157,9 +3149,9 @@ grab.careers
 kartaview.org
 jira.grab.com
 *.grabpay.com
-*.grab.com
 *.ovo.id
 *.taralite.com
+*.grab.com
 *.myteksi.net
 *.grabtaxi.com
 *.myteksi.com
@@ -3327,11 +3319,11 @@ www.starbucks.com.br
 www.starbucks.com.sg
 gift.starbucks.co.jp
 openapi.starbucks.com
-www.starbucks.co.kr
 www.starbucks.de
+www.starbucks.co.kr
 www.starbucks.com.cn
-www.starbucks.com
 app.starbucks.com
+www.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3380,9 +3372,9 @@ yelptop100.com
 *.yelp-support.com
 *.yelpwifi.com
 yelptop100.com
+getharvest.com
 id.getharvest.com
 harvestapp.com
-getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3551,11 +3543,11 @@ arrive-server.shopifycloud.com
 shop.app
 *.shopify.com
 accounts.shopify.com
-admin.shopify.com
 *.shopify.io
 shopifyinbox.com
 partners.shopify.com
 your-store.myshopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3591,8 +3583,8 @@ www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
 ads.snapchat.com
-*.sc-core.net
 business.snapchat.com
+*.sc-core.net
 spectacles.com
 kit.snapchat.com
 blog.playcanvas.com
@@ -3876,9 +3868,9 @@ slack-redir.net
 www.quip.com
 *.quip.com
 slack.com
+api.slack.com
 slack-imgs.com
 app.slack.com
-api.slack.com
 slack.com
 api.slack.com
 status.slack.com
