@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar  6 12:30:34 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar  6 12:54:47 UTC 2024)
 ```
 *.worldcoin-distributors.com
 getworldcoin.com
@@ -23,10 +23,10 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 rfc.tari.com
-textexplore.tari.com
 explore.tari.com
-www.tari.com
+textexplore.tari.com
 www.tarilabs.com
+www.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -108,9 +108,9 @@ research.23andme.com
 therapeutics.23andme.com
 blog.23andme.com
 education.23andme.com
-store.23andme.com
 api.23andme.com
 mediacenter.23andme.com
+store.23andme.com
 medical.23andme.com
 you.23andme.com
 auth.23andme.com
@@ -127,11 +127,11 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
-www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadolibre.com.pe
+www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadolibre.cl
 www.mercadolibre.com.co
@@ -175,7 +175,6 @@ indicative-pricing.taxi.booking.com
 paymentcomponent.booking.com
 accommodations.booking.com
 chat.booking.com
-admin.booking.com
 distribution-xml.booking.com
 portal.taxi.booking.com
 secure.booking.com
@@ -185,10 +184,11 @@ booking.com
 flights.booking.com
 spark.fareharbor.com
 www.fareharbor.com
+account.booking.com
 careers.booking.com
 *.booking.com
-account.booking.com
 *.rentalcars.com
+admin.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -522,8 +522,8 @@ sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
 lando.services.mozilla.com
-merino.services.mozilla.com
 accounts.firefox.com
+merino.services.mozilla.com
 bugzilla.mozilla.org
 addons.allizom.org
 accounts.firefox.com
@@ -1031,8 +1031,8 @@ www.momondo.com
 www.swoodoo.com
 www.cheapflights.com
 www.mundi.com.br
-www.hotelscombined.com
 www.checkfelix.com
+www.hotelscombined.com
 www.kayak.com
 www.kayak.com
 www.swoodoo.com
@@ -1424,12 +1424,12 @@ gold.xnxx.com
 https://www.xvideos.net/app/
 *.eops.nl
 www.elastic.co
-*.elastic.co
 *.found.io
 *.elstc.co
 *.swiftype.com
 *.elasticnet.co
 cloud.elastic.co
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1488,10 +1488,10 @@ new.reddit.com
 accounts.reddit.com
 ads-api.reddit.com
 gql.reddit.com
-ads.reddit.com
 *.reddit.com
-old.reddit.com
+ads.reddit.com
 www.reddit.com
+old.reddit.com
 *.snooguts.net
 *.reddithelp.com
 *.snooguts.net
@@ -1632,8 +1632,8 @@ core.yoti.com
 ccloud.yoti.com
 code.yoti.com
 api.yoti.com
-www.yotisign.com
 identity.yoti.com
+www.yotisign.com
 hub.yoti.com
 core.yoti.com
 api.yoti.com
@@ -1809,8 +1809,8 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-beta-cloud.acronis.com
 *.acronis.work
+beta-cloud.acronis.com
 account.acronis.com
 *.acronis.com
 *-api-*.acronis.com
@@ -2365,8 +2365,8 @@ app.nordpass.com
 *.line.biz
 *.line.naver.jp
 *.line.me
-*.linecorp.com
 *.line-apps.com
+*.linecorp.com
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -2778,12 +2778,12 @@ py.pl
 *.venmo.com
 *.hyperwallet.com
 *.paylution.com
-*.paypalcorp.com
 *.braintreepayments.com
+*.paypalcorp.com
 *.braintree-api.com
 paypalobjects.com
-*.braintree.tools
 *.xoom.com
+*.braintree.tools
 *.braintreegateway.com
 *.paypal.com
 www.paypal-*.com
@@ -2939,8 +2939,8 @@ www.dota2.com
 www.teamfortress.com
 steamcommunity.com
 store.steampowered.com
-api.steampowered.com
 www.counter-strike.net
+api.steampowered.com
 help.steampowered.com
 www.dota2.com
 support.steampowered.com
@@ -3094,8 +3094,8 @@ privatetarget-1-www.zigzag
 *.beta.lahitapiola.fi
 *.tapiola.fi
 ext-gw.lahitapiola.fi
-secure.lahitapiola.fi
 verkkopalvelu.tapiola.fi
+secure.lahitapiola.fi
 yrityspalvelu.tapiola.fi
 www.lahitapiola.fi
 *.lahitapiolarahoitus.fi
@@ -3276,8 +3276,8 @@ store.rockstargames.com
 lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
-app.files.com
 www.files.com
+app.files.com
 your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
@@ -3314,11 +3314,11 @@ www.starbucks.com.br
 www.starbucks.com.sg
 gift.starbucks.co.jp
 openapi.starbucks.com
-www.starbucks.de
 www.starbucks.co.kr
+www.starbucks.de
 www.starbucks.com.cn
-app.starbucks.com
 www.starbucks.com
+app.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3531,16 +3531,16 @@ www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
 linkpop.com
-shopify.plus
 *.shopifykloud.com
+shopify.plus
 *.shopifycs.com
 arrive-server.shopifycloud.com
 *.shopifycloud.com
 partners.shopify.com
 shop.app
+admin.shopify.com
 *.shopify.com
 accounts.shopify.com
-admin.shopify.com
 *.shopify.io
 your-store.myshopify.com
 *.shopifycs.com
@@ -3578,8 +3578,8 @@ www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
 ads.snapchat.com
-*.sc-core.net
 business.snapchat.com
+*.sc-core.net
 spectacles.com
 kit.snapchat.com
 blog.playcanvas.com
