@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar  7 11:18:57 UTC 2024)
+## Domains with Bounties (Last Updated Thu Mar  7 11:44:41 UTC 2024)
 ```
 cards.remitly.io
 api.remitly.io
@@ -58,8 +58,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-my.sheer.com
 www.sheer.com
+my.sheer.com
 www.sheer.com
 my.sheer.com
 www.pornworld.com
@@ -495,8 +495,8 @@ m.avtoelon.uz
 avtoelon.uz
 m.kolesa.kz
 kolesa.kz
-id.kolesa.kz
 krisha.kz
+id.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -522,12 +522,12 @@ crash-stats.allizom.org
 shavar.services.mozilla.com
 crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
+aus5.mozilla.org
 hg.mozilla.org
 firefox.settings.services.mozilla.com
 addons.allizom.org
 phabricator.allizom.org
 contile.services.mozilla.com
-aus5.mozilla.org
 sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
@@ -681,12 +681,12 @@ http://miro.com/blog
 oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mb-cosmos.com
+my.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
 *.cloud.malwarebytes.com
 *.threatdown.com
 *.mwbsys.com
-my.malwarebytes.com
 www.malwarebytes.com
 *.mbamupdates.com
 *.malwarebytes.com
@@ -795,8 +795,8 @@ admin.8x8.com
 *.napoleongames.be
 *.napoleoncasino.be
 *.superbet.com
-*.superbet.pl
 *.superbet.rs
+*.superbet.pl
 *.superbet.ro
 *.superbet.ro
 *.superbet.rs
@@ -860,18 +860,18 @@ www.lastminute.com.au
 www.wotif.com
 www.expediaagents.com
 www.fewo-direkt.de
-www.stayz.com.au
 www.bookabach.co.nz
 www.expediacruises.com
 www.hotels.com
 www.expediagroup.com
+www.stayz.com.au
+www.cheaptickets.com
 www.travelocity.com
+www.orbitz.com
 www.ebookers.com
 www.hotwire.com
 www.flights.com
 www.carrentals.com
-www.cheaptickets.com
-www.orbitz.com
 www.vrbo.com
 www.expedia.com
 www.abritel.fr
@@ -1040,8 +1040,8 @@ www.momondo.com
 www.swoodoo.com
 www.cheapflights.com
 www.mundi.com.br
-www.hotelscombined.com
 www.checkfelix.com
+www.hotelscombined.com
 www.kayak.com
 www.kayak.com
 www.swoodoo.com
@@ -1490,16 +1490,16 @@ mod.reddit.com
 *.redditinc.com
 api.reddit.com
 *.redditmedia.com
+accounts.reddit.com
+gql.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 oauth.reddit.com
 new.reddit.com
-accounts.reddit.com
 ads-api.reddit.com
-gql.reddit.com
 ads.reddit.com
-www.reddit.com
 old.reddit.com
+www.reddit.com
 *.snooguts.net
 *.reddithelp.com
 *.reddit.com
@@ -1641,8 +1641,8 @@ core.yoti.com
 ccloud.yoti.com
 code.yoti.com
 api.yoti.com
-identity.yoti.com
 www.yotisign.com
+identity.yoti.com
 hub.yoti.com
 core.yoti.com
 api.yoti.com
@@ -1755,8 +1755,8 @@ business.tiktok.com
 *.tiktokv.com
 shop.tiktok.com
 www.pangleglobal.com
-creatormarketplace.tiktok.com
 partner.tiktokshop.com
+creatormarketplace.tiktok.com
 *.tiktok.com
 tiktok.com
 ads.tiktok.com
@@ -1831,13 +1831,8 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
-www10.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-app.marionnaud.fr
-mapi.moneyback.com.hk
-www.moneyback.com.hk
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
@@ -1846,6 +1841,9 @@ www10.watsons.com.tw
 api.watsons.com.tw
 www10.watsons.com.ph
 www.watsons.co.th
+www20.watsons.co.th
+www10.watsons.co.th
+api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2216,9 +2214,9 @@ updates.amazon.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 www.alibabagroup.com
-*.aliexpress.com
 *.alibaba.com
 *.aliyun.com
+*.aliexpress.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2298,10 +2296,10 @@ gatewaydsapdev2.marriott.com
 marrtool.com
 marriottfranchisetransactions.marriott.com
 passwordchallenge.marriott.com
-gatewaydsaptst1.marriott.com
-mgs.marriott.com
 cpp.marriott.com
 reservations.all-inclusive.marriott.com
+gatewaydsaptst1.marriott.com
+mgs.marriott.com
 hotel-deals.marriott.com
 jobs.marriott.com
 www.ritzcarlton.com
@@ -2942,12 +2940,12 @@ support.steampowered.com
 playartifact.com
 www.valvesoftware.com
 www.dota2.com
-www.teamfortress.com
 store.steampowered.com
 www.counter-strike.net
 help.steampowered.com
 api.steampowered.com
 steamcommunity.com
+www.teamfortress.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3268,11 +3266,11 @@ gutenberg.run
 store.rockstargames.com
 circolocorecords.com/
 lifeinvader.com
-prod.ros.rockstargames.com
 support.rockstargames.com
 rockstarnorth.com
 *.rockstargames.com
 socialclub.rockstargames.com
+prod.ros.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3372,9 +3370,9 @@ yelptop100.com
 *.yelp-support.com
 *.yelpwifi.com
 yelptop100.com
+getharvest.com
 id.getharvest.com
 harvestapp.com
-getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3517,8 +3515,8 @@ apps.zendesk.com
 api.getbase.com
 app.smooch.io
 zopim.com
-h1-your-domain.zendesk.com
 www.zendesk.com
+h1-your-domain.zendesk.com
 www.zendesk.com
 developer.zendesk.com
 h1-your-domain.zendesk.com
@@ -3583,8 +3581,8 @@ www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
 ads.snapchat.com
-business.snapchat.com
 *.sc-core.net
+business.snapchat.com
 spectacles.com
 kit.snapchat.com
 blog.playcanvas.com
@@ -3836,9 +3834,9 @@ international.coinbase.com
 *.cbhq.net
 institutional.coinbase.com
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 cloud.coinbase.com
-api.coinbase.com
 *.base.org
 coinbase.com
 *.coinbase.com
@@ -3868,8 +3866,8 @@ slack-redir.net
 www.quip.com
 *.quip.com
 slack.com
-slack-imgs.com
 api.slack.com
+slack-imgs.com
 app.slack.com
 slack.com
 api.slack.com
@@ -3908,11 +3906,11 @@ reviewer.pullrequest.com
 app.pullrequest.com
 hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-www.hackerone.com
 errors.hackerone.net
 ctf.hacker101.com
 hackerone.live
 api.hackerone.com
+www.hackerone.com
 hackerone.com
 hackerone.com
 api.hackerone.com
