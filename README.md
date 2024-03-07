@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar  7 01:58:34 UTC 2024)
+## Domains with Bounties (Last Updated Thu Mar  7 02:17:58 UTC 2024)
 ```
 cards.remitly.io
 api.remitly.io
@@ -21,8 +21,8 @@ getworldcoin.com
 toolsforhumanity.com
 worldcoin.org
 bioid-management.app
-*.worldcoin.org
 *.consumer.worldcoin.org
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -34,8 +34,8 @@ bioid-management.app
 worldcoin.org
 rfc.tari.com
 textexplore.tari.com
-www.tari.com
 www.tarilabs.com
+www.tari.com
 explore.tari.com
 explore.tari.com
 rfc.tari.com
@@ -118,12 +118,12 @@ research.23andme.com
 therapeutics.23andme.com
 blog.23andme.com
 education.23andme.com
-store.23andme.com
 api.23andme.com
 mediacenter.23andme.com
+store.23andme.com
 medical.23andme.com
-you.23andme.com
 auth.23andme.com
+you.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -192,11 +192,11 @@ widget.rentalcars.com
 cars.booking.com
 flights.booking.com
 spark.fareharbor.com
-careers.booking.com
 account.booking.com
+careers.booking.com
+booking.com
 *.rentalcars.com
 admin.booking.com
-booking.com
 www.fareharbor.com
 *.booking.com
 *.booking.com
@@ -339,8 +339,8 @@ eets.gamma.redoxstage.com
 evening-earth.gamma.redoxstage.com
 launch.gamma.redoxstage.com
 explore.redoxengine.com
-testapp.redoxengine.com
 dashboard.gamma.redoxstage.com
+testapp.redoxengine.com
 app.gamma.redoxstage.com
 help.redoxengine.com
 10x.redoxengine.com
@@ -408,8 +408,8 @@ www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
 www.authorize.net
-bb.visa.com
 www.visa.com.mx
+bb.visa.com
 cw.visa.com
 www.tink.com
 www.visa.com.br
@@ -532,8 +532,8 @@ sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
 lando.services.mozilla.com
-accounts.firefox.com
 merino.services.mozilla.com
+accounts.firefox.com
 bugzilla.mozilla.org
 addons.allizom.org
 accounts.firefox.com
@@ -792,11 +792,11 @@ admin.8x8.com
 *.luckydays.ca
 *.napoleonsports.be
 *.luckydays.com
-*.superbet.pl
-*.superbet.rs
 *.magicjackpot.ro
+*.superbet.rs
 *.napoleongames.be
 *.napoleoncasino.be
+*.superbet.pl
 *.superbet.ro
 *.superbet.com
 *.superbet.ro
@@ -1819,8 +1819,8 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-beta-cloud.acronis.com
 *.acronis.work
+beta-cloud.acronis.com
 account.acronis.com
 *.acronis.com
 *-api-*.acronis.com
@@ -1832,21 +1832,27 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
-www10.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-app.marionnaud.fr
-mapi.moneyback.com.hk
-www.moneyback.com.hk
+www.watsons.com.tr
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.watsons.com.tw
-api.watsons.com.tw
-www10.watsons.com.ph
-www.watsons.co.th
+api.watsons.com.my
+www10.watsons.com.my
+www.iciparisxl.nl
+www.iciparisxl.be
+www.iciparisxl.lu
+app.iciparisxl.nl
+app.iciparisxl.be
+app.iciparisxl.lu
+www.marionnaud.at
+app.marionnaud.at
+app.marionnaud.ch
+www.marionnaud.cz
+app.marionnaud.cz
+www.marionnaud.hu
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2732,8 +2738,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-*racing.fanduel.com
 tvg.com
+*racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
 www.tvg.com
@@ -2785,8 +2791,8 @@ paypal.me
 py.pl
 *.venmo.com
 *.paylution.com
-*.braintreepayments.com
 *.paypalcorp.com
+*.braintreepayments.com
 *.braintree-api.com
 paypalobjects.com
 *.xoom.com
@@ -2968,9 +2974,9 @@ auth.crypto.com
 www.crypto.com
 js.crypto.com
 pay.crypto.com
+merchant.crypto.com
 *.mona.co
 *.crypto.com
-merchant.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3101,8 +3107,8 @@ privatetarget-1-www.zigzag
 *.beta.lahitapiola.fi
 *.tapiola.fi
 ext-gw.lahitapiola.fi
-verkkopalvelu.tapiola.fi
 secure.lahitapiola.fi
+verkkopalvelu.tapiola.fi
 yrityspalvelu.tapiola.fi
 www.lahitapiola.fi
 *.lahitapiolarahoitus.fi
@@ -3536,20 +3542,20 @@ www.udemy.com
 yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
-*.shopifycloud.com
 linkpop.com
-*.shopifykloud.com
 shopify.plus
+*.shopifykloud.com
 *.shopifycs.com
 arrive-server.shopifycloud.com
+*.shopifycloud.com
 shop.app
 *.shopify.com
-shopifyinbox.com
 *.shopify.io
+shopifyinbox.com
 your-store.myshopify.com
-admin.shopify.com
 accounts.shopify.com
 partners.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3870,8 +3876,8 @@ slack-redir.net
 www.quip.com
 *.quip.com
 slack.com
-slack-imgs.com
 api.slack.com
+slack-imgs.com
 app.slack.com
 slack.com
 api.slack.com
