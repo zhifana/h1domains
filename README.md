@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar  7 18:24:01 UTC 2024)
+## Domains with Bounties (Last Updated Thu Mar  7 18:43:25 UTC 2024)
 ```
 cards.remitly.io
 api.remitly.io
@@ -62,10 +62,10 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.analvids.com
 www.ddfcontent.com
-www.pornbox.com
 www.pornworld.com
+www.analvids.com
+www.pornbox.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -118,9 +118,9 @@ research.23andme.com
 therapeutics.23andme.com
 blog.23andme.com
 education.23andme.com
-store.23andme.com
 api.23andme.com
 mediacenter.23andme.com
+store.23andme.com
 medical.23andme.com
 auth.23andme.com
 you.23andme.com
@@ -295,11 +295,11 @@ connect-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
-www.gocardless.com
 *.gocardless-lab.io
 manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
+www.gocardless.com
 api-sandbox.gocardless.com
 *.gocardless-cicd.io
 *.gocardless.io
@@ -339,8 +339,8 @@ eets.gamma.redoxstage.com
 evening-earth.gamma.redoxstage.com
 launch.gamma.redoxstage.com
 explore.redoxengine.com
-dashboard.gamma.redoxstage.com
 testapp.redoxengine.com
+dashboard.gamma.redoxstage.com
 app.gamma.redoxstage.com
 help.redoxengine.com
 testapi.redoxengine.com
@@ -397,8 +397,6 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
-www.visainfinite.ca
-www.authorize.net
 www.cybersource.com
 visa.com.au
 www.fraedom.com
@@ -407,13 +405,15 @@ www.visa.co.in
 www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
-cw.visa.com
+www.authorize.net
 www.visa.com.mx
 bb.visa.com
-www.visa.com.br
+cw.visa.com
 www.tink.com
+www.visa.com.br
 www.visa.com.ng
 www.cardinalcommerce.com
+aw.visa.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -522,12 +522,12 @@ crash-stats.allizom.org
 shavar.services.mozilla.com
 crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
+aus5.mozilla.org
 hg.mozilla.org
 firefox.settings.services.mozilla.com
 addons.allizom.org
 phabricator.allizom.org
 contile.services.mozilla.com
-aus5.mozilla.org
 sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
@@ -880,8 +880,8 @@ www.vrbo.com
 *.travelocity.ca
 *.expediapartnercentral.com
 *.wotif.com
-*.lastminute.co.nz
 *.lastminute.com.au
+*.carrentals.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -921,8 +921,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.workers.dev
 *.magiceden.dev
-magiceden.io
 *.magiceden.io
+magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -940,8 +940,8 @@ askpam.ai
 *.gravitational.io
 platform.teleport.sh
 *.gravitational.co
-*.goteleport.com
 cloud.gravitational.io
+*.goteleport.com
 teleport.sh
 *.goteleport.com
 *.gravitational.com
@@ -1177,8 +1177,8 @@ shoppers.instacart.com
 api.instacart.com
 *.instacart.tools
 *.instacart.com
-www.instacart.com
 admin.instacart.com
+www.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1224,9 +1224,9 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-*.krisp.ai
-account.krisp.ai
 api.krisp.ai
+account.krisp.ai
+*.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1678,8 +1678,8 @@ supportal.netlify.app
 internal.netlify.com
 *.infra-prod.nsvcs.net
 *.services.netlify.com
-*.onegraph.com
 netlify-rum.netlify.app
+*.onegraph.com
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -1848,19 +1848,27 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
+www.watsons.com.tr
 app.superdrug.com
 api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.watsons.com.tw
-api.watsons.com.tw
-www10.watsons.com.ph
-www.watsons.co.th
-www20.watsons.co.th
-www10.watsons.co.th
-api.watsons.co.th
+api.watsons.com.my
+www10.watsons.com.my
+www.iciparisxl.nl
+www.iciparisxl.be
+www.iciparisxl.lu
+app.iciparisxl.nl
+app.iciparisxl.be
+app.iciparisxl.lu
+www.marionnaud.at
+app.marionnaud.at
+app.marionnaud.ch
+www.marionnaud.cz
+app.marionnaud.cz
+www.marionnaud.hu
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2322,10 +2330,10 @@ www.ritzcarlton.com
 sso.marriott.com
 activities.marriott.com
 all-inclusive.marriott.com
-homes-and-villas.marriott.com
 marrtool.com
-careers.marriott.com
+homes-and-villas.marriott.com
 moments.marriottbonvoy.com
+careers.marriott.com
 help.marriott.com
 www.marriott.com
 homes-and-villas.marriott.com
@@ -2358,8 +2366,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2752,8 +2760,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-*racing.fanduel.com
 tvg.com
+*racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
 www.tvg.com
@@ -3392,9 +3400,9 @@ yelptop100.com
 *.yelp-support.com
 *.yelpwifi.com
 yelptop100.com
+getharvest.com
 id.getharvest.com
 harvestapp.com
-getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3412,8 +3420,8 @@ npmjs.com
 education.github.com
 classroom.github.com
 *.githubusercontent.com
-api.github.com
 github.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3691,8 +3699,8 @@ assets.airbnb.com
 api.airbnb.com
 *.withairbnb.com
 www.airbnb.com
-*.hoteltonight-test.com
 www.hoteltonight.com
+*.hoteltonight-test.com
 *.airbnb.com
 www.airbnb.com
 next.airbnb.com
@@ -3856,9 +3864,9 @@ international.coinbase.com
 *.cbhq.net
 institutional.coinbase.com
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 cloud.coinbase.com
+api.coinbase.com
 *.base.org
 coinbase.com
 *.coinbase.com
@@ -3931,8 +3939,8 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 errors.hackerone.net
 hackerone.live
 api.hackerone.com
-www.hackerone.com
 ctf.hacker101.com
+www.hackerone.com
 hackerone.com
 hackerone.com
 api.hackerone.com
