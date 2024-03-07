@@ -2,11 +2,11 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar  7 08:42:12 UTC 2024)
+## Domains with Bounties (Last Updated Thu Mar  7 09:18:28 UTC 2024)
 ```
 cards.remitly.io
-api.remitly.io
 app.rewire.to
+api.remitly.io
 rewire.com
 remitly.com
 remitly.com
@@ -94,8 +94,8 @@ app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
 payments.hostinger.com
-logo.zyro.com
 backend.zyro.com
+logo.zyro.com
 www.niagahoster.co.id
 editor.zyro.com
 *.000webhost.com
@@ -137,11 +137,11 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
+www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadolibre.com.pe
-www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadolibre.cl
 www.mercadolibre.com.co
@@ -193,12 +193,12 @@ cars.booking.com
 flights.booking.com
 spark.fareharbor.com
 careers.booking.com
-account.booking.com
 admin.booking.com
 www.fareharbor.com
 booking.com
 *.booking.com
 *.rentalcars.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -267,8 +267,8 @@ pentesting3.gethypr.com
 pentesting2.gethypr.com
 hypr74352.gethypr.com
 hypr37448.gethypr.com
-cdn.moderntreasury.com
 app.moderntreasury.com
+cdn.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
 test.nicex.com
@@ -295,11 +295,11 @@ connect-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
+www.gocardless.com
 *.gocardless-lab.io
 manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
-www.gocardless.com
 api-sandbox.gocardless.com
 *.gocardless-cicd.io
 *.gocardless.io
@@ -339,8 +339,8 @@ eets.gamma.redoxstage.com
 evening-earth.gamma.redoxstage.com
 launch.gamma.redoxstage.com
 explore.redoxengine.com
-dashboard.gamma.redoxstage.com
 testapp.redoxengine.com
+dashboard.gamma.redoxstage.com
 app.gamma.redoxstage.com
 help.redoxengine.com
 10x.redoxengine.com
@@ -495,8 +495,8 @@ m.avtoelon.uz
 avtoelon.uz
 m.kolesa.kz
 kolesa.kz
-id.kolesa.kz
 krisha.kz
+id.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -522,12 +522,12 @@ crash-stats.allizom.org
 shavar.services.mozilla.com
 crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
+aus5.mozilla.org
 hg.mozilla.org
 firefox.settings.services.mozilla.com
 addons.allizom.org
 phabricator.allizom.org
 contile.services.mozilla.com
-aus5.mozilla.org
 sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
@@ -681,9 +681,9 @@ http://miro.com/blog
 oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mb-cosmos.com
+*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
-*.cloud.malwarebytes.com
 *.threatdown.com
 *.mwbsys.com
 my.malwarebytes.com
@@ -795,8 +795,8 @@ admin.8x8.com
 *.napoleongames.be
 *.napoleoncasino.be
 *.superbet.com
-*.superbet.rs
 *.superbet.pl
+*.superbet.rs
 *.superbet.ro
 *.superbet.ro
 *.superbet.rs
@@ -860,18 +860,18 @@ www.lastminute.com.au
 www.wotif.com
 www.expediaagents.com
 www.fewo-direkt.de
+www.stayz.com.au
 www.bookabach.co.nz
 www.expediacruises.com
 www.hotels.com
 www.expediagroup.com
-www.stayz.com.au
-www.cheaptickets.com
 www.travelocity.com
 www.ebookers.com
-www.orbitz.com
 www.hotwire.com
 www.flights.com
 www.carrentals.com
+www.cheaptickets.com
+www.orbitz.com
 www.vrbo.com
 www.expedia.com
 www.abritel.fr
@@ -923,8 +923,8 @@ askpam.ai
 *.gravitational.io
 platform.teleport.sh
 *.gravitational.co
-cloud.gravitational.io
 *.goteleport.com
+cloud.gravitational.io
 teleport.sh
 *.goteleport.com
 *.gravitational.com
@@ -1040,8 +1040,8 @@ www.momondo.com
 www.swoodoo.com
 www.cheapflights.com
 www.mundi.com.br
-www.hotelscombined.com
 www.checkfelix.com
+www.hotelscombined.com
 www.kayak.com
 www.kayak.com
 www.swoodoo.com
@@ -1490,16 +1490,16 @@ mod.reddit.com
 *.redditinc.com
 api.reddit.com
 *.redditmedia.com
+accounts.reddit.com
+gql.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 oauth.reddit.com
 new.reddit.com
-accounts.reddit.com
 ads-api.reddit.com
-gql.reddit.com
 ads.reddit.com
-www.reddit.com
 old.reddit.com
+www.reddit.com
 *.snooguts.net
 *.reddithelp.com
 *.reddit.com
@@ -1614,8 +1614,8 @@ passport.larksuite.com
 internal-api-drive-stream.larksuite.com
 file.larksuite.com
 status.larksuite.com
-larksuite.com
 app.larksuite.com
+larksuite.com
 hackers_chosendomain.larksuite.com
 internal-api-lark-api.larksuite.com
 larksuite.com
@@ -1831,13 +1831,8 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
-www10.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-app.marionnaud.fr
-mapi.moneyback.com.hk
-www.moneyback.com.hk
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
@@ -1846,6 +1841,9 @@ www10.watsons.com.tw
 api.watsons.com.tw
 www10.watsons.com.ph
 www.watsons.co.th
+www20.watsons.co.th
+www10.watsons.co.th
+api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2214,11 +2212,11 @@ updates.amazon.com
 *.1688.com
 *.alibabacloud.com
 *.alibaba-inc.com
-*.aliyun.com
 *.aliyun-inc.com
 www.alibabagroup.com
 *.aliexpress.com
 *.alibaba.com
+*.aliyun.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2337,8 +2335,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2731,8 +2729,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-*racing.fanduel.com
 tvg.com
+*racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
 www.tvg.com
@@ -2943,11 +2941,11 @@ playartifact.com
 www.valvesoftware.com
 www.dota2.com
 www.teamfortress.com
-steamcommunity.com
 store.steampowered.com
 www.counter-strike.net
 help.steampowered.com
 api.steampowered.com
+steamcommunity.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3583,8 +3581,8 @@ www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
 ads.snapchat.com
-business.snapchat.com
 *.sc-core.net
+business.snapchat.com
 spectacles.com
 kit.snapchat.com
 blog.playcanvas.com
@@ -3868,8 +3866,8 @@ slack-redir.net
 www.quip.com
 *.quip.com
 slack.com
-api.slack.com
 slack-imgs.com
+api.slack.com
 app.slack.com
 slack.com
 api.slack.com
@@ -3912,8 +3910,8 @@ www.hackerone.com
 errors.hackerone.net
 ctf.hacker101.com
 hackerone.live
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
