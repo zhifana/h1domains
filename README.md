@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar  8 05:18:14 UTC 2024)
+## Domains with Bounties (Last Updated Fri Mar  8 05:41:47 UTC 2024)
 ```
 cards.remitly.io
 app.rewire.to
 api.remitly.io
-rewire.com
 remitly.com
+rewire.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -34,8 +34,8 @@ bioid-management.app
 worldcoin.org
 rfc.tari.com
 textexplore.tari.com
-www.tari.com
 www.tarilabs.com
+www.tari.com
 explore.tari.com
 explore.tari.com
 rfc.tari.com
@@ -94,8 +94,8 @@ app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
 payments.hostinger.com
-logo.zyro.com
 backend.zyro.com
+logo.zyro.com
 www.niagahoster.co.id
 editor.zyro.com
 cpanel.hostinger.com
@@ -295,11 +295,11 @@ connect-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
+www.gocardless.com
 *.gocardless-lab.io
 manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
-www.gocardless.com
 api-sandbox.gocardless.com
 *.gocardless-cicd.io
 *.gocardless.io
@@ -397,6 +397,8 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
+www.visainfinite.ca
+www.authorize.net
 www.cybersource.com
 visa.com.au
 www.fraedom.com
@@ -405,15 +407,13 @@ www.visa.co.in
 www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
-www.authorize.net
+cw.visa.com
 www.visa.com.mx
 bb.visa.com
-cw.visa.com
-www.tink.com
 www.visa.com.br
+www.tink.com
 www.visa.com.ng
 www.cardinalcommerce.com
-aw.visa.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -681,9 +681,9 @@ http://miro.com/blog
 oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mb-cosmos.com
+*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
-*.cloud.malwarebytes.com
 *.threatdown.com
 *.mwbsys.com
 my.malwarebytes.com
@@ -795,8 +795,8 @@ admin.8x8.com
 *.napoleongames.be
 *.napoleoncasino.be
 *.superbet.com
-*.superbet.pl
 *.superbet.rs
+*.superbet.pl
 *.superbet.ro
 *.superbet.ro
 *.superbet.rs
@@ -860,25 +860,25 @@ www.lastminute.com.au
 www.wotif.com
 www.expediaagents.com
 www.fewo-direkt.de
+www.stayz.com.au
 www.bookabach.co.nz
 www.expediacruises.com
 www.hotels.com
 www.expediagroup.com
-www.stayz.com.au
-www.cheaptickets.com
 www.travelocity.com
-www.orbitz.com
 www.ebookers.com
 www.hotwire.com
 www.flights.com
 www.carrentals.com
+www.cheaptickets.com
+www.orbitz.com
 www.expedia.com
 www.abritel.fr
 www.expediapartnersolutions.com
-*.lastminute.co.nz
+*.expediapartnercentral.com
 *.cheaptickets.com
 *.travelocity.ca
-*.expediapartnercentral.com
+*.lastminute.co.nz
 *.lastminute.com.au
 *.carrentals.com
 *.expediacruises.com
@@ -941,8 +941,8 @@ platform.teleport.sh
 *.gravitational.co
 *.goteleport.com
 cloud.gravitational.io
-teleport.sh
 *.gravitational.io
+teleport.sh
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -1507,15 +1507,15 @@ mod.reddit.com
 *.redditinc.com
 api.reddit.com
 *.redditmedia.com
-accounts.reddit.com
-gql.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 oauth.reddit.com
 new.reddit.com
+accounts.reddit.com
+gql.reddit.com
 ads.reddit.com
-old.reddit.com
 www.reddit.com
+old.reddit.com
 *.snooguts.net
 *.reddithelp.com
 *.reddit.com
@@ -1631,8 +1631,8 @@ passport.larksuite.com
 internal-api-drive-stream.larksuite.com
 file.larksuite.com
 status.larksuite.com
-larksuite.com
 app.larksuite.com
+larksuite.com
 hackers_chosendomain.larksuite.com
 internal-api-lark-api.larksuite.com
 larksuite.com
@@ -1835,8 +1835,8 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-beta-cloud.acronis.com
 *.acronis.work
+beta-cloud.acronis.com
 account.acronis.com
 *.acronis.com
 *-api-*.acronis.com
@@ -1848,8 +1848,13 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
-app.superdrug.com
-api.superdrug.com
+www10.watsons.com.vn
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+app.marionnaud.fr
+mapi.moneyback.com.hk
+www.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
@@ -1858,9 +1863,6 @@ www10.watsons.com.tw
 api.watsons.com.tw
 www10.watsons.com.ph
 www.watsons.co.th
-www20.watsons.co.th
-www10.watsons.co.th
-api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2313,10 +2315,10 @@ gatewaydsaptst2.marriott.com
 gatewaydsapdev2.marriott.com
 marriottfranchisetransactions.marriott.com
 passwordchallenge.marriott.com
-gatewaydsaptst1.marriott.com
-mgs.marriott.com
 cpp.marriott.com
 reservations.all-inclusive.marriott.com
+gatewaydsaptst1.marriott.com
+mgs.marriott.com
 hotel-deals.marriott.com
 jobs.marriott.com
 www.ritzcarlton.com
@@ -2753,8 +2755,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-*racing.fanduel.com
 tvg.com
+*racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
 www.tvg.com
@@ -2913,7 +2915,6 @@ www.rocaton.com
 *.gs.de
 *.goldmanpfm.com
 *.foliodigitalwealth.com
-*.vennhypotheken.nl
 api.foliofn.com
 *.advisorsolutions.gs.com
 apigw.foliofn.com
@@ -3227,8 +3228,8 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 backstage.io
-assets.spotify.com
 api.spotify.com
+assets.spotify.com
 assets.spotify.com
 api.spotify.com
 backstage.io
@@ -3393,9 +3394,9 @@ yelptop100.com
 *.yelp-support.com
 *.yelpwifi.com
 yelptop100.com
+getharvest.com
 id.getharvest.com
 harvestapp.com
-getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3693,8 +3694,8 @@ api.airbnb.com
 *.withairbnb.com
 www.airbnb.com
 *.hoteltonight-test.com
-*.airbnb.com
 www.hoteltonight.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
