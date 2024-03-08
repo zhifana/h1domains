@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar  8 09:17:11 UTC 2024)
+## Domains with Bounties (Last Updated Fri Mar  8 09:43:03 UTC 2024)
 ```
 cards.remitly.io
 api.remitly.io
@@ -101,8 +101,8 @@ editor.zyro.com
 cpanel.hostinger.com
 hpanel.hostinger.com
 www.zyro.com
-www.hostinger.com
 *.000webhost.com
+www.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -197,8 +197,8 @@ admin.booking.com
 booking.com
 account.booking.com
 www.fareharbor.com
-*.rentalcars.com
 *.booking.com
+*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -243,8 +243,8 @@ api2.frontapp.com
 app.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -795,8 +795,8 @@ admin.8x8.com
 *.napoleongames.be
 *.napoleoncasino.be
 *.superbet.com
-*.superbet.pl
 *.superbet.rs
+*.superbet.pl
 *.superbet.ro
 *.superbet.ro
 *.superbet.rs
@@ -860,24 +860,24 @@ www.lastminute.com.au
 www.wotif.com
 www.expediaagents.com
 www.fewo-direkt.de
-www.stayz.com.au
 www.expediacruises.com
 www.hotels.com
 www.expediagroup.com
+www.stayz.com.au
+www.cheaptickets.com
 www.travelocity.com
+www.orbitz.com
 www.ebookers.com
 www.hotwire.com
 www.flights.com
 www.carrentals.com
-www.cheaptickets.com
-www.orbitz.com
 www.expedia.com
 www.abritel.fr
 www.expediapartnersolutions.com
-*.expediapartnercentral.com
+*.lastminute.co.nz
 *.cheaptickets.com
 *.travelocity.ca
-*.lastminute.co.nz
+*.expediapartnercentral.com
 *.lastminute.com.au
 *.carrentals.com
 *.wotif.com
@@ -921,8 +921,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.workers.dev
 *.magiceden.dev
-*.magiceden.io
 magiceden.io
+*.magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -941,8 +941,8 @@ platform.teleport.sh
 *.gravitational.co
 *.goteleport.com
 cloud.gravitational.io
-teleport.sh
 *.gravitational.io
+teleport.sh
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -1176,8 +1176,8 @@ bullsheet.me
 shoppers.instacart.com
 api.instacart.com
 *.instacart.tools
-www.instacart.com
 admin.instacart.com
+www.instacart.com
 *.instacart.com
 *.instacart.com
 *.instacart.tools
@@ -1224,9 +1224,9 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-*.krisp.ai
-account.krisp.ai
 api.krisp.ai
+account.krisp.ai
+*.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1514,8 +1514,8 @@ new.reddit.com
 accounts.reddit.com
 gql.reddit.com
 ads.reddit.com
-old.reddit.com
 www.reddit.com
+old.reddit.com
 *.snooguts.net
 *.reddithelp.com
 *.reddit.com
@@ -1658,8 +1658,8 @@ core.yoti.com
 ccloud.yoti.com
 code.yoti.com
 api.yoti.com
-www.yotisign.com
 identity.yoti.com
+www.yotisign.com
 hub.yoti.com
 core.yoti.com
 api.yoti.com
@@ -1680,8 +1680,8 @@ internal.netlify.com
 netlify-rum.netlify.app
 api.netlify.com
 *.onegraph.com
-*.services.netlify.com
 app.netlify.com
+*.services.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -1837,8 +1837,8 @@ api.faraday.ai
 *.5nine.com
 *.acronis.work
 beta-cloud.acronis.com
-account.acronis.com
 *.acronis.com
+account.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -1848,23 +1848,19 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-www10.watsons.com.sg
-www.watsons.com.sg
-api.watsons.com.sg
-www.watsons.com.hk
-www10.watsons.com.hk
-api.watsons.com.hk
-www10.watsons.co.id
-api.watsons.co.id
-www.watsons.co.id
-blog.watsons.com.tr
+www10.watsons.com.tw
+api.watsons.com.tw
+www10.watsons.com.ph
+www.watsons.co.th
+www20.watsons.co.th
+www10.watsons.co.th
+api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2100,9 +2096,7 @@ manufacturing.amazon.com
 apay-us.amazon.com
 aax-us-iad.amazon.com
 address-photos.amazon.com
-ads-setu-proxy.amazon.com
 alexa-comms-mobile-service-na.amazon.com
-cloudaccesstelemetry-us-east-1.amazon.com
 completion.amazon.com
 data-na.amazon.com
 dolphin.amazon.com
@@ -2126,6 +2120,8 @@ prod-dp-discovery-us-east-1.amazon.com
 rabbitinstruction-na.amazon.com
 relay.amazon.com
 spapi-na.amazon.com
+advertising-api.amazon.com
+advertising.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2328,10 +2324,10 @@ sso.marriott.com
 activities.marriott.com
 all-inclusive.marriott.com
 homes-and-villas.marriott.com
-marrtool.com
-careers.marriott.com
 moments.marriottbonvoy.com
+careers.marriott.com
 help.marriott.com
+marrtool.com
 www.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
@@ -2756,8 +2752,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-*racing.fanduel.com
 tvg.com
+*racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
 www.tvg.com
@@ -2810,7 +2806,6 @@ py.pl
 *.venmo.com
 *.paylution.com
 *.paypalcorp.com
-*.braintree-api.com
 paypalobjects.com
 *.xoom.com
 *.braintree.tools
@@ -2818,6 +2813,7 @@ paypalobjects.com
 *.braintreepayments.com
 *.paypal.com
 *.hyperwallet.com
+*.braintree-api.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2969,8 +2965,8 @@ store.steampowered.com
 help.steampowered.com
 api.steampowered.com
 steamcommunity.com
-www.teamfortress.com
 www.counter-strike.net
+www.teamfortress.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3229,8 +3225,8 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 backstage.io
-assets.spotify.com
 api.spotify.com
+assets.spotify.com
 assets.spotify.com
 api.spotify.com
 backstage.io
@@ -3294,8 +3290,8 @@ lifeinvader.com
 support.rockstargames.com
 rockstarnorth.com
 *.rockstargames.com
-prod.ros.rockstargames.com
 socialclub.rockstargames.com
+prod.ros.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3395,9 +3391,9 @@ yelptop100.com
 *.yelp-support.com
 *.yelpwifi.com
 yelptop100.com
-getharvest.com
 id.getharvest.com
 harvestapp.com
+getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3606,8 +3602,8 @@ www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
 ads.snapchat.com
-*.sc-core.net
 business.snapchat.com
+*.sc-core.net
 spectacles.com
 kit.snapchat.com
 blog.playcanvas.com
@@ -3694,9 +3690,9 @@ assets.airbnb.com
 api.airbnb.com
 *.withairbnb.com
 www.airbnb.com
-*.hoteltonight-test.com
-www.hoteltonight.com
 *.airbnb.com
+www.hoteltonight.com
+*.hoteltonight-test.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3929,7 +3925,6 @@ www.wearehackerone.com
 reviewer.pullrequest.com
 app.pullrequest.com
 errors.hackerone.net
-hackerone.live
 ctf.hacker101.com
 hackerone-user-content.com
 api.hackerone.com
@@ -3937,6 +3932,7 @@ cover-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.hackerone.com
 hackerone.com
+hackerone.live
 hackerone.com
 api.hackerone.com
 www.hackerone.com
