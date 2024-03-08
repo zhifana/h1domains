@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar  8 09:43:03 UTC 2024)
+## Domains with Bounties (Last Updated Fri Mar  8 10:21:52 UTC 2024)
 ```
 cards.remitly.io
-api.remitly.io
 rewire.com
 app.rewire.to
 remitly.com
+api.remitly.io
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -34,8 +34,8 @@ bioid-management.app
 worldcoin.org
 rfc.tari.com
 textexplore.tari.com
-www.tarilabs.com
 www.tari.com
+www.tarilabs.com
 explore.tari.com
 explore.tari.com
 rfc.tari.com
@@ -137,11 +137,11 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
+www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadolibre.com.pe
-www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadolibre.cl
 www.mercadolibre.com.co
@@ -195,10 +195,10 @@ spark.fareharbor.com
 careers.booking.com
 admin.booking.com
 booking.com
-account.booking.com
 www.fareharbor.com
-*.booking.com
+account.booking.com
 *.rentalcars.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -243,8 +243,8 @@ api2.frontapp.com
 app.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -406,14 +406,14 @@ www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
 www.authorize.net
-bb.visa.com
 www.visa.com.mx
 cw.visa.com
-www.tink.com
+bb.visa.com
 www.visa.com.br
+www.tink.com
 www.visa.com.ng
+www.cardinalcommerce.com
 aw.visa.com
-visa.co.cr
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -495,8 +495,8 @@ m.avtoelon.uz
 avtoelon.uz
 m.kolesa.kz
 kolesa.kz
-krisha.kz
 id.kolesa.kz
+krisha.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -522,12 +522,12 @@ crash-stats.allizom.org
 shavar.services.mozilla.com
 crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
-aus5.mozilla.org
 hg.mozilla.org
 firefox.settings.services.mozilla.com
 addons.allizom.org
 phabricator.allizom.org
 contile.services.mozilla.com
+aus5.mozilla.org
 sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
@@ -684,12 +684,12 @@ oneview.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
 *.cloud.malwarebytes.com
-*.threatdown.com
 *.mwbsys.com
 my.malwarebytes.com
 www.malwarebytes.com
 *.mbamupdates.com
 *.malwarebytes.com
+*.threatdown.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -795,8 +795,8 @@ admin.8x8.com
 *.napoleongames.be
 *.napoleoncasino.be
 *.superbet.com
-*.superbet.rs
 *.superbet.pl
+*.superbet.rs
 *.superbet.ro
 *.superbet.ro
 *.superbet.rs
@@ -941,8 +941,8 @@ platform.teleport.sh
 *.gravitational.co
 *.goteleport.com
 cloud.gravitational.io
-*.gravitational.io
 teleport.sh
+*.gravitational.io
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -1176,8 +1176,8 @@ bullsheet.me
 shoppers.instacart.com
 api.instacart.com
 *.instacart.tools
-admin.instacart.com
 www.instacart.com
+admin.instacart.com
 *.instacart.com
 *.instacart.com
 *.instacart.tools
@@ -1514,8 +1514,8 @@ new.reddit.com
 accounts.reddit.com
 gql.reddit.com
 ads.reddit.com
-www.reddit.com
 old.reddit.com
+www.reddit.com
 *.snooguts.net
 *.reddithelp.com
 *.reddit.com
@@ -1658,8 +1658,8 @@ core.yoti.com
 ccloud.yoti.com
 code.yoti.com
 api.yoti.com
-identity.yoti.com
 www.yotisign.com
+identity.yoti.com
 hub.yoti.com
 core.yoti.com
 api.yoti.com
@@ -1848,8 +1848,13 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
-app.superdrug.com
-api.superdrug.com
+www10.watsons.com.vn
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+app.marionnaud.fr
+mapi.moneyback.com.hk
+www.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
@@ -1858,9 +1863,6 @@ www10.watsons.com.tw
 api.watsons.com.tw
 www10.watsons.com.ph
 www.watsons.co.th
-www20.watsons.co.th
-www10.watsons.co.th
-api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2313,10 +2315,10 @@ gatewaydsaptst2.marriott.com
 gatewaydsapdev2.marriott.com
 marriottfranchisetransactions.marriott.com
 passwordchallenge.marriott.com
-gatewaydsaptst1.marriott.com
-mgs.marriott.com
 cpp.marriott.com
 reservations.all-inclusive.marriott.com
+gatewaydsaptst1.marriott.com
+mgs.marriott.com
 hotel-deals.marriott.com
 jobs.marriott.com
 www.ritzcarlton.com
@@ -2324,8 +2326,8 @@ sso.marriott.com
 activities.marriott.com
 all-inclusive.marriott.com
 homes-and-villas.marriott.com
-moments.marriottbonvoy.com
 careers.marriott.com
+moments.marriottbonvoy.com
 help.marriott.com
 marrtool.com
 www.marriott.com
@@ -2811,9 +2813,9 @@ paypalobjects.com
 *.braintree.tools
 *.braintreegateway.com
 *.braintreepayments.com
-*.paypal.com
 *.hyperwallet.com
 *.braintree-api.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3117,8 +3119,8 @@ privatetarget-1-www.zigzag
 *.lahitapiola.fi
 *.beta.lahitapiola.fi
 ext-gw.lahitapiola.fi
-verkkopalvelu.tapiola.fi
 secure.lahitapiola.fi
+verkkopalvelu.tapiola.fi
 www.lahitapiola.fi
 *.tapiola.fi
 yrityspalvelu.tapiola.fi
@@ -3144,9 +3146,9 @@ privatetarget-1-www.zigzag
 *.seoquake.com
 *.scatec.io
 *.sellzone.com
-*.myinsights.io
 *.semrush.net
 *.semrush.com
+*.myinsights.io
 *.semrush.com
 *.semrush.net
 *.seoquake.com
@@ -3169,10 +3171,10 @@ kartaview.org
 jira.grab.com
 *.grabpay.com
 *.myteksi.net
-*.ovo.id
 *.grabtaxi.com
 *.taralite.com
 *.grab.com
+*.ovo.id
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3338,11 +3340,11 @@ www.starbucks.com.br
 www.starbucks.com.sg
 gift.starbucks.co.jp
 openapi.starbucks.com
-www.starbucks.co.kr
 www.starbucks.de
+www.starbucks.co.kr
 www.starbucks.com.cn
-www.starbucks.com
 app.starbucks.com
+www.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3440,8 +3442,8 @@ docs.gitlab.com
 customers.gitlab.com
 *.gitlab.net
 *.gitlab.org
-gitlab.com
 about.gitlab.com
+gitlab.com
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3558,15 +3560,15 @@ linkpop.com
 shopify.plus
 *.shopifycs.com
 arrive-server.shopifycloud.com
-*.shopifycloud.com
 shopifyinbox.com
 *.shopify.io
-accounts.shopify.com
 your-store.myshopify.com
+accounts.shopify.com
 partners.shopify.com
 admin.shopify.com
 *.shopify.com
 shop.app
+*.shopifycloud.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3598,10 +3600,10 @@ msg.playcanvas.com
 create.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
+ads.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
-ads.snapchat.com
 business.snapchat.com
 *.sc-core.net
 spectacles.com
@@ -3611,8 +3613,8 @@ blog.playcanvas.com
 snappublisher.snapchat.com
 app.snapchat.com
 accounts.snapchat.com
-web.snapchat.com
 playcanvas.com
+web.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3690,8 +3692,8 @@ assets.airbnb.com
 api.airbnb.com
 *.withairbnb.com
 www.airbnb.com
-*.airbnb.com
 www.hoteltonight.com
+*.airbnb.com
 *.hoteltonight-test.com
 www.airbnb.com
 next.airbnb.com
