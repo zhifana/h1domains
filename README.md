@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar  9 22:36:12 UTC 2024)
+## Domains with Bounties (Last Updated Sat Mar  9 23:17:13 UTC 2024)
 ```
 cards.remitly.io
 api.remitly.io
@@ -19,8 +19,8 @@ getworldcoin.com
 *.worldcoin.dev
 worldcoin.org
 bioid-management.app
-*.consumer.worldcoin.org
 *.worldcoin.org
+*.consumer.worldcoin.org
 *.toolsforhumanity.com
 toolsforhumanity.com
 *.worldcoin.org
@@ -87,9 +87,9 @@ account-sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
-demo.dynamic.xyz
 app.dynamic-preprod.xyz
 app.dynamic.xyz
+demo.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -287,11 +287,11 @@ connect-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
+www.gocardless.com
 *.gocardless-lab.io
 manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
-www.gocardless.com
 api-sandbox.gocardless.com
 *.gocardless-cicd.io
 *.gocardless.io
@@ -398,13 +398,13 @@ www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
 www.authorize.net
-bb.visa.com
 www.visa.com.mx
+bb.visa.com
 cw.visa.com
 www.tink.com
 www.visa.com.ng
-visa.co.cr
 www.cardinalcommerce.com
+visa.co.cr
 www.visa.co.uk
 aw.visa.com
 bb.visa.com
@@ -487,8 +487,8 @@ m.avtoelon.uz
 avtoelon.uz
 m.kolesa.kz
 kolesa.kz
-krisha.kz
 id.kolesa.kz
+krisha.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -514,12 +514,12 @@ crash-stats.allizom.org
 shavar.services.mozilla.com
 crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
-aus5.mozilla.org
 hg.mozilla.org
 firefox.settings.services.mozilla.com
 addons.allizom.org
 phabricator.allizom.org
 contile.services.mozilla.com
+aus5.mozilla.org
 sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
@@ -581,10 +581,10 @@ hiltonhotels.jp
 *.hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 *.hiltonhotels.jp
-hilton.com
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
+hilton.com
 *.hilton.com
 hilton.io
 *.hilton.com
@@ -753,6 +753,7 @@ admin.8x8.com
 *.jit.si
 connect.8x8.com
 *.8x8.vc
+*.8x8.vc
 *.jit.si
 *.jitsi.net
 *.8x8staging.com
@@ -787,8 +788,8 @@ admin.8x8.com
 *.napoleongames.be
 *.napoleoncasino.be
 *.superbet.com
-*.superbet.pl
 *.superbet.rs
+*.superbet.pl
 *.superbet.ro
 *.superbet.ro
 *.superbet.rs
@@ -863,17 +864,17 @@ www.flights.com
 www.carrentals.com
 www.abritel.fr
 www.expediapartnersolutions.com
-*.lastminute.com.au
 *.cheaptickets.com
 *.travelocity.ca
 *.expediapartnercentral.com
+*.lastminute.com.au
 *.travelocity.com
 www.bookabach.co.nz
 *.vrbo.com
 www.vrbo.com
 *.wotif.com
 *.expediacruises.com
-*.carrentals.com
+www.travelocity.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -930,8 +931,8 @@ zerobounce.net
 *.teleport.dev
 platform.teleport.sh
 *.gravitational.co
-cloud.gravitational.io
 *.goteleport.com
+cloud.gravitational.io
 *.gravitational.io
 teleport.sh
 askpam.ai
@@ -1048,8 +1049,8 @@ business.kayak.com
 www.swoodoo.com
 www.cheapflights.com
 www.mundi.com.br
-www.checkfelix.com
 www.hotelscombined.com
+www.checkfelix.com
 www.kayak.com
 www.momondo.com
 www.kayak.com
@@ -1464,9 +1465,9 @@ js.stripe.com
 *.link.co
 api.stripe.com
 api.taxjar.com
+*.getbouncer.com
 *.stripe.com
 app.taxjar.com
-*.getbouncer.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1622,8 +1623,8 @@ passport.larksuite.com
 internal-api-drive-stream.larksuite.com
 file.larksuite.com
 status.larksuite.com
-larksuite.com
 app.larksuite.com
+larksuite.com
 hackers_chosendomain.larksuite.com
 internal-api-lark-api.larksuite.com
 open.larksuite.com
@@ -1826,10 +1827,10 @@ app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
-beta-cloud.acronis.com
 *.acronis.work
-*.acronis.com
+beta-cloud.acronis.com
 account.acronis.com
+*.acronis.com
 *.5nine.com
 *-api-*.acronis.com
 *.acronis.com
@@ -3149,8 +3150,8 @@ privatetarget-1-www.zigzag
 *.scatec.io
 *.sellzone.com
 *.semrush.net
-*.myinsights.io
 *.semrush.com
+*.myinsights.io
 *.seoquake.com
 *.semrush.com
 *.semrush.net
@@ -3176,8 +3177,8 @@ jira.grab.com
 *.myteksi.net
 *.grabtaxi.com
 *.taralite.com
-*.grab.com
 *.ovo.id
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3414,9 +3415,9 @@ npmjs.org
 npmjs.com
 education.github.com
 *.githubusercontent.com
+api.github.com
 *.githubapp.com
 github.com
-api.github.com
 classroom.github.com
 github.com
 api.github.com
@@ -3559,19 +3560,19 @@ www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 linkpop.com
-shopify.plus
 *.shopifykloud.com
+shopify.plus
 *.shopifycs.com
 arrive-server.shopifycloud.com
 *.shopify.io
-shop.app
 partners.shopify.com
+shop.app
 your-store.myshopify.com
 *.shopifycloud.com
 shopifyinbox.com
 admin.shopify.com
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
