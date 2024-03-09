@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar  9 16:43:38 UTC 2024)
+## Domains with Bounties (Last Updated Sat Mar  9 17:18:18 UTC 2024)
 ```
 cards.remitly.io
 api.remitly.io
@@ -525,8 +525,8 @@ mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
 lando.services.mozilla.com
 merino.services.mozilla.com
-bugzilla.mozilla.org
 accounts.firefox.com
+bugzilla.mozilla.org
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -611,7 +611,6 @@ aws.indrive.tech
 ingest.clairvoyance.indrive.tech
 volans.tech
 injob.indriver.com
-profile-api.eu-east-1.indriverapp.com
 auth2.indrive.tech
 new-order.eu-east-1.indriverapp.com
 argocd.indrive.dev
@@ -623,6 +622,7 @@ cargo.indrive.com
 *.indriver.com
 file-storage-front.eu-east-1.indriverapp.com
 *.indriverapp.com
+profile-api.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 watchdocs.indriverapp.com
 *.indriverapp.com
@@ -752,6 +752,7 @@ voapi.8x8.com
 admin.8x8.com
 *.jit.si
 connect.8x8.com
+*.8x8.vc
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1672,8 +1673,8 @@ internal.netlify.com
 netlify-rum.netlify.app
 api.netlify.com
 *.onegraph.com
-*.services.netlify.com
 app.netlify.com
+*.services.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -1757,18 +1758,18 @@ api.adm.cloud.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 developers.tiktok.com
-careers.tiktok.com
 effecthouse.tiktok.com
+careers.tiktok.com
 live-backstage.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
-shop.tiktok.com
 tiktok.com
+shop.tiktok.com
 www.pangleglobal.com
 business.tiktok.com
-partner.tiktokshop.com
-*.tiktok.com
 ads.tiktok.com
+*.tiktok.com
+partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1826,8 +1827,8 @@ app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
-beta-cloud.acronis.com
 *.acronis.work
+beta-cloud.acronis.com
 *.acronis.com
 account.acronis.com
 *.5nine.com
@@ -2234,8 +2235,8 @@ www.alibabagroup.com
 *.taobao.com
 *.alibaba-inc.com
 *.aliyun.com
-*.tmall.com
 *.Daraz.com
+*.tmall.com
 *.aliexpress.com
 *.alibaba.com
 *.aliexpress.com
@@ -2315,24 +2316,24 @@ gatewaydsaptst2.marriott.com
 gatewaydsapdev2.marriott.com
 marriottfranchisetransactions.marriott.com
 passwordchallenge.marriott.com
+cpp.marriott.com
 gatewaydsaptst1.marriott.com
 mgs.marriott.com
-cpp.marriott.com
 hotel-deals.marriott.com
 jobs.marriott.com
 www.ritzcarlton.com
 sso.marriott.com
 activities.marriott.com
 all-inclusive.marriott.com
-moments.marriottbonvoy.com
 careers.marriott.com
+moments.marriottbonvoy.com
 help.marriott.com
 marrtool.com
 www.marriott.com
-homes-and-villas.marriott.com
-reservations.all-inclusive.marriott.com
 mipartnerprivileges.marriott.com
+reservations.all-inclusive.marriott.com
 travelagents.marriott.com/
+homes-and-villas.marriott.com
 traveler.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
@@ -2399,10 +2400,10 @@ app.nordpass.com
 *.nordvpn.com
 *.nordvpn.com
 app.nordpass.com
-*.line.me
 *.line.biz
 *.line.naver.jp
 *.line-apps.com
+*.line.me
 *.linecorp.com
 *.line.me
 *.line-apps.com
@@ -2820,9 +2821,9 @@ paypalobjects.com
 *.braintree-api.com
 *.braintreepayments.com
 *.paypalcorp.com
-*.paypal.com
 api.loanbuilder.com
 *.braintreegateway.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3347,11 +3348,11 @@ www.starbucks.com.br
 www.starbucks.com.sg
 gift.starbucks.co.jp
 openapi.starbucks.com
-www.starbucks.co.kr
 www.starbucks.de
+www.starbucks.co.kr
 www.starbucks.com.cn
-www.starbucks.com
 app.starbucks.com
+www.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3607,10 +3608,10 @@ msg.playcanvas.com
 create.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
+ads.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
-ads.snapchat.com
 *.sc-core.net
 spectacles.com
 kit.snapchat.com
@@ -3618,8 +3619,8 @@ blog.playcanvas.com
 snappublisher.snapchat.com
 app.snapchat.com
 playcanvas.com
-web.snapchat.com
 *.sc-corp.net
+web.snapchat.com
 accounts.snapchat.com
 business.snapchat.com
 accounts.snapchat.com
@@ -3698,8 +3699,8 @@ assets.airbnb.com
 *.airbnbcitizen.com
 api.airbnb.com
 www.airbnb.com
-*.airbnb.com
 www.hoteltonight.com
+*.airbnb.com
 *.hoteltonight-test.com
 *.withairbnb.com
 www.airbnb.com
