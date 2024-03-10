@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 10 13:19:37 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 10 13:39:57 UTC 2024)
 ```
 cards.remitly.io
 api.remitly.io
@@ -137,18 +137,18 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
-www.mercadopago.com.ar
-www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadolibre.com.pe
+www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadopago.com.br
-api.mercadolibre.com
+www.mercadopago.com.ar
 www.mercadolivre.com.br
+api.mercadolibre.com
 www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -399,8 +399,8 @@ www.visa.co.id
 www.visa.co.ve
 www.authorize.net
 www.visa.com.mx
-cw.visa.com
 bb.visa.com
+cw.visa.com
 www.tink.com
 www.visa.com.ng
 www.cardinalcommerce.com
@@ -514,12 +514,12 @@ crash-stats.allizom.org
 shavar.services.mozilla.com
 crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
+aus5.mozilla.org
 hg.mozilla.org
 firefox.settings.services.mozilla.com
 addons.allizom.org
 phabricator.allizom.org
 contile.services.mozilla.com
-aus5.mozilla.org
 sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
@@ -611,7 +611,6 @@ aws.indrive.tech
 ingest.clairvoyance.indrive.tech
 volans.tech
 injob.indriver.com
-profile-api.eu-east-1.indriverapp.com
 auth2.indrive.tech
 new-order.eu-east-1.indriverapp.com
 argocd.indrive.dev
@@ -623,6 +622,7 @@ cargo.indrive.com
 *.indriver.com
 file-storage-front.eu-east-1.indriverapp.com
 *.indriverapp.com
+profile-api.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 watchdocs.indriverapp.com
 *.indriverapp.com
@@ -673,11 +673,11 @@ http://miro.com/blog
 oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mb-cosmos.com
-*.cloud.malwarebytes.com
+my.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+*.cloud.malwarebytes.com
 *.mwbsys.com
-my.malwarebytes.com
 www.malwarebytes.com
 *.mbamupdates.com
 *.threatdown.com
@@ -789,8 +789,8 @@ admin.8x8.com
 *.napoleongames.be
 *.napoleoncasino.be
 *.superbet.com
-*.superbet.rs
 *.superbet.pl
+*.superbet.rs
 *.superbet.ro
 *.superbet.ro
 *.superbet.rs
@@ -1050,8 +1050,8 @@ business.kayak.com
 www.swoodoo.com
 www.cheapflights.com
 www.mundi.com.br
-www.checkfelix.com
 www.hotelscombined.com
+www.checkfelix.com
 www.momondo.com
 www.kayak.com
 www.kayak.com
@@ -1218,8 +1218,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-account.krisp.ai
 api.krisp.ai
+account.krisp.ai
 *.krisp.ai
 *.krisp.ai
 krisp.ai
@@ -1501,11 +1501,11 @@ mod.reddit.com
 *.redditinc.com
 api.reddit.com
 *.redditmedia.com
-gql.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 oauth.reddit.com
 new.reddit.com
+gql.reddit.com
 ads.reddit.com
 www.reddit.com
 *.snooguts.net
@@ -1674,8 +1674,8 @@ internal.netlify.com
 netlify-rum.netlify.app
 api.netlify.com
 *.onegraph.com
-app.netlify.com
 *.services.netlify.com
+app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -2229,10 +2229,10 @@ updates.amazon.com
 www.alibabagroup.com
 *.alibaba.com
 *.taobao.com
-*.Daraz.com
-*.aliyun.com
-*.tmall.com
 *.alibaba-inc.com
+*.aliyun.com
+*.Daraz.com
+*.tmall.com
 *.aliexpress.com
 *.alibaba.com
 *.aliexpress.com
@@ -2312,9 +2312,9 @@ gatewaydsaptst2.marriott.com
 gatewaydsapdev2.marriott.com
 marriottfranchisetransactions.marriott.com
 passwordchallenge.marriott.com
-cpp.marriott.com
 gatewaydsaptst1.marriott.com
 mgs.marriott.com
+cpp.marriott.com
 hotel-deals.marriott.com
 jobs.marriott.com
 www.ritzcarlton.com
@@ -2324,10 +2324,10 @@ all-inclusive.marriott.com
 careers.marriott.com
 moments.marriottbonvoy.com
 marrtool.com
-mipartnerprivileges.marriott.com
-reservations.all-inclusive.marriott.com
-travelagents.marriott.com/
 homes-and-villas.marriott.com
+reservations.all-inclusive.marriott.com
+mipartnerprivileges.marriott.com
+travelagents.marriott.com/
 traveler.marriott.com
 help.marriott.com
 www.marriott.com
@@ -2971,8 +2971,8 @@ help.steampowered.com
 api.steampowered.com
 steamcommunity.com
 www.teamfortress.com
-www.counter-strike.net
 www.dota2.com
+www.counter-strike.net
 support.steampowered.com
 www.dota2.com
 support.steampowered.com
@@ -3123,8 +3123,8 @@ privatetarget-1-www.zigzag
 *.lahitapiolarahoitus.fi
 *.beta.lahitapiola.fi
 ext-gw.lahitapiola.fi
-secure.lahitapiola.fi
 verkkopalvelu.tapiola.fi
+secure.lahitapiola.fi
 www.lahitapiola.fi
 *.tapiola.fi
 yrityspalvelu.tapiola.fi
@@ -3398,9 +3398,9 @@ yelptop100.com
 *.yelp-support.com
 *.yelpwifi.com
 yelptop100.com
-getharvest.com
 id.getharvest.com
 harvestapp.com
+getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3417,8 +3417,8 @@ npmjs.com
 education.github.com
 *.githubusercontent.com
 *.githubapp.com
-github.com
 api.github.com
+github.com
 classroom.github.com
 github.com
 api.github.com
@@ -3561,8 +3561,8 @@ www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 linkpop.com
-shopify.plus
 *.shopifykloud.com
+shopify.plus
 arrive-server.shopifycloud.com
 *.shopify.io
 shop.app
@@ -3570,8 +3570,8 @@ partners.shopify.com
 *.shopifycloud.com
 shopifyinbox.com
 admin.shopify.com
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopifycs.com
 your-store.myshopify.com
 *.shopifycs.com
@@ -3605,10 +3605,10 @@ msg.playcanvas.com
 create.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
+ads.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
-ads.snapchat.com
 *.sc-core.net
 spectacles.com
 kit.snapchat.com
@@ -3618,8 +3618,8 @@ playcanvas.com
 web.snapchat.com
 business.snapchat.com
 *.sc-corp.net
-app.snapchat.com
 accounts.snapchat.com
+app.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3697,9 +3697,9 @@ assets.airbnb.com
 api.airbnb.com
 www.airbnb.com
 www.hoteltonight.com
-*.airbnb.com
 *.hoteltonight-test.com
 *.withairbnb.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3862,8 +3862,8 @@ international.coinbase.com
 *.cbhq.net
 institutional.coinbase.com
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
+api.coinbase.com
 *.base.org
 *.coinbase.com
 commerce.coinbase.com
