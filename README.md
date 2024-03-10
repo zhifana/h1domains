@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 10 03:42:22 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 10 04:19:41 UTC 2024)
 ```
 cards.remitly.io
 api.remitly.io
@@ -137,17 +137,17 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
+api.mercadolibre.com
 www.mercadopago.com.ar
-www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadolibre.com.pe
+www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadopago.com.br
-api.mercadolibre.com
 www.mercadolivre.com.br
 www.mercadolibre.com.ar
 api.mercadopago.com
@@ -580,10 +580,10 @@ hiltonlocalbiz.com
 hiltonhotels.jp
 *.hiltonlocalbiz.com
 *.hiltonhotels.jp
-hilton.com
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
+hilton.com
 *.hilton.com
 hilton.io
 *.hiltonbusinessonline.com
@@ -721,8 +721,8 @@ tequila.kiwi.com
 jobs.kiwi.com
 www.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -789,8 +789,8 @@ admin.8x8.com
 *.napoleongames.be
 *.napoleoncasino.be
 *.superbet.com
-*.superbet.pl
 *.superbet.rs
+*.superbet.pl
 *.superbet.ro
 *.superbet.ro
 *.superbet.rs
@@ -854,26 +854,26 @@ www.lastminute.com.au
 www.wotif.com
 www.expediaagents.com
 www.fewo-direkt.de
+www.stayz.com.au
 www.expediacruises.com
 www.hotels.com
-www.stayz.com.au
-www.cheaptickets.com
 www.ebookers.com
-www.orbitz.com
 www.hotwire.com
 www.flights.com
 www.carrentals.com
+www.cheaptickets.com
+www.orbitz.com
 www.abritel.fr
 www.expediapartnersolutions.com
-*.lastminute.com.au
+*.expediapartnercentral.com
 *.cheaptickets.com
 *.travelocity.ca
-*.expediapartnercentral.com
-*.expediacruises.com
+*.lastminute.com.au
 *.travelocity.com
 www.bookabach.co.nz
 *.vrbo.com
 www.vrbo.com
+*.expediacruises.com
 *.wotif.com
 www.expedia.com
 *.vrbo.com
@@ -1624,8 +1624,8 @@ passport.larksuite.com
 internal-api-drive-stream.larksuite.com
 file.larksuite.com
 status.larksuite.com
-app.larksuite.com
 larksuite.com
+app.larksuite.com
 hackers_chosendomain.larksuite.com
 internal-api-lark-api.larksuite.com
 open.larksuite.com
@@ -1652,8 +1652,8 @@ core.yoti.com
 ccloud.yoti.com
 code.yoti.com
 api.yoti.com
-www.yotisign.com
 identity.yoti.com
+www.yotisign.com
 hub.yoti.com
 core.yoti.com
 api.yoti.com
@@ -1674,8 +1674,8 @@ internal.netlify.com
 netlify-rum.netlify.app
 api.netlify.com
 *.onegraph.com
-*.services.netlify.com
 app.netlify.com
+*.services.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -1759,12 +1759,12 @@ api.adm.cloud.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 developers.tiktok.com
-effecthouse.tiktok.com
 careers.tiktok.com
+effecthouse.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
-tiktok.com
 shop.tiktok.com
+tiktok.com
 www.pangleglobal.com
 business.tiktok.com
 partner.tiktokshop.com
@@ -2319,15 +2319,15 @@ www.ritzcarlton.com
 sso.marriott.com
 activities.marriott.com
 all-inclusive.marriott.com
-moments.marriottbonvoy.com
 careers.marriott.com
+moments.marriottbonvoy.com
 help.marriott.com
 marrtool.com
 www.marriott.com
 homes-and-villas.marriott.com
 reservations.all-inclusive.marriott.com
-mipartnerprivileges.marriott.com
 travelagents.marriott.com/
+mipartnerprivileges.marriott.com
 traveler.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
@@ -2394,10 +2394,10 @@ app.nordpass.com
 *.nordvpn.com
 *.nordvpn.com
 app.nordpass.com
-*.line.me
 *.line.biz
 *.line.naver.jp
 *.line-apps.com
+*.line.me
 *.linecorp.com
 *.line.me
 *.line-apps.com
@@ -2534,7 +2534,7 @@ api.rezserver.com
 admin.rezserver.com
 www.bookingholdings.com
 secure.rezserver.com
-flyiin.com
+press.priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3859,8 +3859,8 @@ international.coinbase.com
 *.cbhq.net
 institutional.coinbase.com
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
+api.coinbase.com
 *.base.org
 *.coinbase.com
 commerce.coinbase.com
