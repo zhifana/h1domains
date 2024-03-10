@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 10 17:41:52 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 10 18:20:10 UTC 2024)
 ```
 cards.remitly.io
 api.remitly.io
@@ -137,18 +137,18 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
+www.mercadopago.com.ar
+www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadolibre.com.pe
-www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadopago.com.br
-www.mercadopago.com.ar
-www.mercadolivre.com.br
 api.mercadolibre.com
+www.mercadolivre.com.br
 www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -399,8 +399,8 @@ www.visa.co.id
 www.visa.co.ve
 www.authorize.net
 www.visa.com.mx
-bb.visa.com
 cw.visa.com
+bb.visa.com
 www.tink.com
 www.visa.com.ng
 www.cardinalcommerce.com
@@ -486,8 +486,8 @@ api.avtoelon.uz
 m.avtoelon.uz
 avtoelon.uz
 m.kolesa.kz
-id.kolesa.kz
 krisha.kz
+id.kolesa.kz
 kolesa.kz
 kolesa.kz
 m.kolesa.kz
@@ -516,7 +516,6 @@ crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
 hg.mozilla.org
 firefox.settings.services.mozilla.com
-addons.allizom.org
 phabricator.allizom.org
 contile.services.mozilla.com
 aus5.mozilla.org
@@ -527,6 +526,7 @@ lando.services.mozilla.com
 merino.services.mozilla.com
 accounts.firefox.com
 bugzilla.mozilla.org
+addons.allizom.org
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -611,6 +611,7 @@ aws.indrive.tech
 ingest.clairvoyance.indrive.tech
 volans.tech
 injob.indriver.com
+profile-api.eu-east-1.indriverapp.com
 auth2.indrive.tech
 new-order.eu-east-1.indriverapp.com
 argocd.indrive.dev
@@ -622,7 +623,6 @@ cargo.indrive.com
 *.indriver.com
 file-storage-front.eu-east-1.indriverapp.com
 *.indriverapp.com
-profile-api.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 watchdocs.indriverapp.com
 *.indriverapp.com
@@ -752,8 +752,8 @@ voapi.8x8.com
 admin.8x8.com
 *.jit.si
 connect.8x8.com
-cloud8.8x8.com
 *.8x8.vc
+cloud8.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -789,8 +789,8 @@ admin.8x8.com
 *.napoleongames.be
 *.napoleoncasino.be
 *.superbet.com
-*.superbet.rs
 *.superbet.pl
+*.superbet.rs
 *.superbet.ro
 *.superbet.ro
 *.superbet.rs
@@ -858,8 +858,8 @@ www.expediacruises.com
 www.hotels.com
 www.stayz.com.au
 www.cheaptickets.com
-www.orbitz.com
 www.ebookers.com
+www.orbitz.com
 www.hotwire.com
 www.flights.com
 www.carrentals.com
@@ -932,8 +932,8 @@ zerobounce.net
 *.teleport.dev
 platform.teleport.sh
 *.gravitational.co
-cloud.gravitational.io
 *.goteleport.com
+cloud.gravitational.io
 *.gravitational.io
 teleport.sh
 askpam.ai
@@ -1218,8 +1218,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-account.krisp.ai
 api.krisp.ai
+account.krisp.ai
 *.krisp.ai
 *.krisp.ai
 krisp.ai
@@ -1507,13 +1507,13 @@ oauth.reddit.com
 new.reddit.com
 gql.reddit.com
 ads.reddit.com
-www.reddit.com
 *.snooguts.net
 *.reddit.com
 ads-api.reddit.com
 *.reddithelp.com
 accounts.reddit.com
 old.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1624,8 +1624,8 @@ passport.larksuite.com
 internal-api-drive-stream.larksuite.com
 file.larksuite.com
 status.larksuite.com
-app.larksuite.com
 larksuite.com
+app.larksuite.com
 hackers_chosendomain.larksuite.com
 internal-api-lark-api.larksuite.com
 open.larksuite.com
@@ -1828,8 +1828,8 @@ app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
-*.acronis.work
 beta-cloud.acronis.com
+*.acronis.work
 *.acronis.com
 account.acronis.com
 *.5nine.com
@@ -1842,21 +1842,23 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
-www10.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-app.marionnaud.fr
-mapi.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.watsons.com.tw
-api.watsons.com.tw
-www10.watsons.com.ph
-www.watsons.co.th
-www20.watsons.co.th
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www10.watsons.com.sg
+www.watsons.com.sg
+api.watsons.com.sg
+www.watsons.com.hk
+www10.watsons.com.hk
+api.watsons.com.hk
+www10.watsons.co.id
+api.watsons.co.id
+www.watsons.co.id
+blog.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2971,8 +2973,8 @@ help.steampowered.com
 api.steampowered.com
 steamcommunity.com
 www.teamfortress.com
-www.counter-strike.net
 www.dota2.com
+www.counter-strike.net
 support.steampowered.com
 www.dota2.com
 support.steampowered.com
@@ -3561,8 +3563,8 @@ www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 linkpop.com
-shopify.plus
 *.shopifykloud.com
+shopify.plus
 arrive-server.shopifycloud.com
 *.shopify.io
 shop.app
@@ -3570,8 +3572,8 @@ partners.shopify.com
 *.shopifycloud.com
 shopifyinbox.com
 admin.shopify.com
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopifycs.com
 your-store.myshopify.com
 *.shopifycs.com
@@ -3862,8 +3864,8 @@ international.coinbase.com
 *.cbhq.net
 institutional.coinbase.com
 api.custody.coinbase.com
-pro.coinbase.com
 api.coinbase.com
+pro.coinbase.com
 *.base.org
 *.coinbase.com
 commerce.coinbase.com
@@ -3931,9 +3933,9 @@ b5s.hackerone-ext-content.com
 www.wearehackerone.com
 reviewer.pullrequest.com
 errors.hackerone.net
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
 hackerone.live
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
 hackerone-user-content.com
