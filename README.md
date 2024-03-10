@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 10 01:03:51 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 10 01:59:36 UTC 2024)
 ```
 cards.remitly.io
 api.remitly.io
@@ -19,8 +19,8 @@ getworldcoin.com
 *.worldcoin.dev
 worldcoin.org
 bioid-management.app
-*.worldcoin.org
 *.consumer.worldcoin.org
+*.worldcoin.org
 *.toolsforhumanity.com
 toolsforhumanity.com
 *.worldcoin.org
@@ -138,11 +138,11 @@ www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
 www.mercadopago.com.ar
-www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadolibre.com.pe
+www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadolibre.cl
 www.mercadolibre.com.co
@@ -389,6 +389,7 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
+www.authorize.net
 www.cybersource.com
 visa.com.au
 www.fraedom.com
@@ -397,9 +398,8 @@ www.visa.co.in
 www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
-www.authorize.net
-www.visa.com.mx
 cw.visa.com
+www.visa.com.mx
 bb.visa.com
 www.tink.com
 www.visa.com.ng
@@ -487,8 +487,8 @@ m.avtoelon.uz
 avtoelon.uz
 m.kolesa.kz
 kolesa.kz
-id.kolesa.kz
 krisha.kz
+id.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -581,10 +581,10 @@ hiltonhotels.jp
 *.hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 *.hiltonhotels.jp
-hilton.com
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
+hilton.com
 *.hilton.com
 hilton.io
 *.hilton.com
@@ -752,7 +752,7 @@ voapi.8x8.com
 admin.8x8.com
 *.jit.si
 connect.8x8.com
-cloud8.8x8.com
+*.8x8.vc
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -788,8 +788,8 @@ admin.8x8.com
 *.napoleongames.be
 *.napoleoncasino.be
 *.superbet.com
-*.superbet.pl
 *.superbet.rs
+*.superbet.pl
 *.superbet.ro
 *.superbet.ro
 *.superbet.rs
@@ -853,27 +853,27 @@ www.lastminute.com.au
 www.wotif.com
 www.expediaagents.com
 www.fewo-direkt.de
-www.stayz.com.au
 www.expediacruises.com
 www.hotels.com
+www.stayz.com.au
+www.cheaptickets.com
+www.orbitz.com
 www.ebookers.com
 www.hotwire.com
 www.flights.com
 www.carrentals.com
-www.cheaptickets.com
-www.orbitz.com
 www.abritel.fr
 www.expediapartnersolutions.com
-*.expediapartnercentral.com
+*.lastminute.com.au
 *.cheaptickets.com
 *.travelocity.ca
-*.lastminute.com.au
+*.expediapartnercentral.com
 *.travelocity.com
 www.bookabach.co.nz
 *.vrbo.com
 www.vrbo.com
-*.expediacruises.com
 *.wotif.com
+*.expediacruises.com
 www.expedia.com
 *.vrbo.com
 *.hotwire.com
@@ -1623,8 +1623,8 @@ passport.larksuite.com
 internal-api-drive-stream.larksuite.com
 file.larksuite.com
 status.larksuite.com
-larksuite.com
 app.larksuite.com
+larksuite.com
 hackers_chosendomain.larksuite.com
 internal-api-lark-api.larksuite.com
 open.larksuite.com
@@ -1651,8 +1651,8 @@ core.yoti.com
 ccloud.yoti.com
 code.yoti.com
 api.yoti.com
-identity.yoti.com
 www.yotisign.com
+identity.yoti.com
 hub.yoti.com
 core.yoti.com
 api.yoti.com
@@ -1762,8 +1762,8 @@ effecthouse.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
-shop.tiktok.com
 tiktok.com
+shop.tiktok.com
 www.pangleglobal.com
 business.tiktok.com
 ads.tiktok.com
@@ -1829,8 +1829,8 @@ api.faraday.ai
 *.devicelock.com
 *.acronis.work
 beta-cloud.acronis.com
-*.acronis.com
 account.acronis.com
+*.acronis.com
 *.5nine.com
 *-api-*.acronis.com
 *.acronis.com
@@ -1841,23 +1841,19 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-www10.watsons.com.sg
-www.watsons.com.sg
-api.watsons.com.sg
-www.watsons.com.hk
-www10.watsons.com.hk
-api.watsons.com.hk
-www10.watsons.co.id
-api.watsons.co.id
-www.watsons.co.id
-blog.watsons.com.tr
+www10.watsons.com.tw
+api.watsons.com.tw
+www10.watsons.com.ph
+www.watsons.co.th
+www20.watsons.co.th
+www10.watsons.co.th
+api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2121,6 +2117,7 @@ appstore-tv-prod-na.amazon.com
 cscentral.amazon.com
 av-na.amazon.com
 dcape-na.amazon.com
+dna.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2757,8 +2754,8 @@ promos.tvg.com
 mobile-prod.tvg.com
 www.4njbets.com
 sportsbook.fanduel.com
-*racing.fanduel.com
 tvg.com
+*racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
 www.tvg.com
@@ -3416,8 +3413,8 @@ npmjs.com
 education.github.com
 *.githubusercontent.com
 *.githubapp.com
-api.github.com
 github.com
+api.github.com
 classroom.github.com
 github.com
 api.github.com
@@ -3565,10 +3562,10 @@ shopify.plus
 *.shopifycs.com
 arrive-server.shopifycloud.com
 *.shopify.io
-shop.app
 partners.shopify.com
-*.shopifycloud.com
+shop.app
 your-store.myshopify.com
+*.shopifycloud.com
 shopifyinbox.com
 admin.shopify.com
 *.shopify.com
@@ -3604,10 +3601,10 @@ msg.playcanvas.com
 create.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
-ads.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
+ads.snapchat.com
 *.sc-core.net
 spectacles.com
 kit.snapchat.com
