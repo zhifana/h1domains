@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 10 03:18:47 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 10 03:42:22 UTC 2024)
 ```
 cards.remitly.io
 api.remitly.io
@@ -33,8 +33,8 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 textexplore.tari.com
-www.tarilabs.com
 www.tari.com
+www.tarilabs.com
 explore.tari.com
 rfc.tari.com
 explore.tari.com
@@ -63,9 +63,9 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.ddfcontent.com
-www.analvids.com
 www.pornworld.com
 www.pornbox.com
+www.analvids.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -287,13 +287,13 @@ connect-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
-www.gocardless.com
 *.gocardless-lab.io
 manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 api-sandbox.gocardless.com
 *.gocardless-cicd.io
+www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -389,6 +389,7 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
+www.authorize.net
 www.cybersource.com
 visa.com.au
 www.fraedom.com
@@ -397,9 +398,8 @@ www.visa.co.in
 www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
-www.authorize.net
-www.visa.com.mx
 cw.visa.com
+www.visa.com.mx
 bb.visa.com
 www.tink.com
 www.visa.com.ng
@@ -673,9 +673,9 @@ http://miro.com/blog
 oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mb-cosmos.com
-*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+*.cloud.malwarebytes.com
 *.mwbsys.com
 my.malwarebytes.com
 www.malwarebytes.com
@@ -789,8 +789,8 @@ admin.8x8.com
 *.napoleongames.be
 *.napoleoncasino.be
 *.superbet.com
-*.superbet.rs
 *.superbet.pl
+*.superbet.rs
 *.superbet.ro
 *.superbet.ro
 *.superbet.rs
@@ -858,8 +858,8 @@ www.expediacruises.com
 www.hotels.com
 www.stayz.com.au
 www.cheaptickets.com
-www.orbitz.com
 www.ebookers.com
+www.orbitz.com
 www.hotwire.com
 www.flights.com
 www.carrentals.com
@@ -869,12 +869,12 @@ www.expediapartnersolutions.com
 *.cheaptickets.com
 *.travelocity.ca
 *.expediapartnercentral.com
+*.expediacruises.com
 *.travelocity.com
 www.bookabach.co.nz
 *.vrbo.com
 www.vrbo.com
 *.wotif.com
-*.expediacruises.com
 www.expedia.com
 *.vrbo.com
 *.hotwire.com
@@ -1597,8 +1597,8 @@ wp-integ.chime.com
 wp-qa.chime.com
 stream.launchdarkly.com
 docs.launchdarkly.com
-events.launchdarkly.com
 app.launchdarkly.com
+events.launchdarkly.com
 app.launchdarkly.com
 events.launchdarkly.com
 stream.launchdarkly.com
@@ -1652,8 +1652,8 @@ core.yoti.com
 ccloud.yoti.com
 code.yoti.com
 api.yoti.com
-identity.yoti.com
 www.yotisign.com
+identity.yoti.com
 hub.yoti.com
 core.yoti.com
 api.yoti.com
@@ -1763,14 +1763,14 @@ effecthouse.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
-shop.tiktok.com
 tiktok.com
+shop.tiktok.com
 www.pangleglobal.com
 business.tiktok.com
-ads.tiktok.com
 partner.tiktokshop.com
 live-backstage.tiktok.com
 *.tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1842,12 +1842,8 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
-www10.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-app.marionnaud.fr
-mapi.moneyback.com.hk
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
@@ -1857,6 +1853,8 @@ api.watsons.com.tw
 www10.watsons.com.ph
 www.watsons.co.th
 www20.watsons.co.th
+www10.watsons.co.th
+api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2229,10 +2227,10 @@ updates.amazon.com
 www.alibabagroup.com
 *.alibaba.com
 *.taobao.com
-*.alibaba-inc.com
+*.Daraz.com
 *.aliyun.com
 *.tmall.com
-*.Daraz.com
+*.alibaba-inc.com
 *.aliexpress.com
 *.alibaba.com
 *.aliexpress.com
@@ -2312,24 +2310,24 @@ gatewaydsaptst2.marriott.com
 gatewaydsapdev2.marriott.com
 marriottfranchisetransactions.marriott.com
 passwordchallenge.marriott.com
-cpp.marriott.com
 gatewaydsaptst1.marriott.com
 mgs.marriott.com
+cpp.marriott.com
 hotel-deals.marriott.com
 jobs.marriott.com
 www.ritzcarlton.com
 sso.marriott.com
 activities.marriott.com
 all-inclusive.marriott.com
-careers.marriott.com
 moments.marriottbonvoy.com
+careers.marriott.com
 help.marriott.com
 marrtool.com
 www.marriott.com
-mipartnerprivileges.marriott.com
-reservations.all-inclusive.marriott.com
-travelagents.marriott.com/
 homes-and-villas.marriott.com
+reservations.all-inclusive.marriott.com
+mipartnerprivileges.marriott.com
+travelagents.marriott.com/
 traveler.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
@@ -2396,10 +2394,10 @@ app.nordpass.com
 *.nordvpn.com
 *.nordvpn.com
 app.nordpass.com
+*.line.me
 *.line.biz
 *.line.naver.jp
 *.line-apps.com
-*.line.me
 *.linecorp.com
 *.line.me
 *.line-apps.com
@@ -2816,10 +2814,10 @@ paypalobjects.com
 *.hyperwallet.com
 *.braintree-api.com
 *.braintreepayments.com
-*.paypalcorp.com
 api.loanbuilder.com
 *.braintreegateway.com
 *.paypal.com
+*.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3415,9 +3413,9 @@ npmjs.org
 npmjs.com
 education.github.com
 *.githubusercontent.com
-api.github.com
 *.githubapp.com
 github.com
+api.github.com
 classroom.github.com
 github.com
 api.github.com
@@ -3604,10 +3602,10 @@ msg.playcanvas.com
 create.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
-ads.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
+ads.snapchat.com
 *.sc-core.net
 spectacles.com
 kit.snapchat.com
@@ -3861,8 +3859,8 @@ international.coinbase.com
 *.cbhq.net
 institutional.coinbase.com
 api.custody.coinbase.com
-pro.coinbase.com
 api.coinbase.com
+pro.coinbase.com
 *.base.org
 *.coinbase.com
 commerce.coinbase.com
