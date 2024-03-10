@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 10 15:40:57 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 10 16:20:52 UTC 2024)
 ```
 cards.remitly.io
 api.remitly.io
@@ -33,8 +33,8 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 textexplore.tari.com
-www.tarilabs.com
 www.tari.com
+www.tarilabs.com
 explore.tari.com
 rfc.tari.com
 explore.tari.com
@@ -137,7 +137,6 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
-www.mercadopago.com.ar
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
@@ -147,8 +146,9 @@ www.mercadopago.com.mx
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadopago.com.br
-api.mercadolibre.com
+www.mercadopago.com.ar
 www.mercadolivre.com.br
+api.mercadolibre.com
 www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -580,9 +580,9 @@ hiltonlocalbiz.com
 hiltonhotels.jp
 *.hiltonlocalbiz.com
 *.hiltonhotels.jp
-hilton.com
 hiltonbusinessonline.com
 *.hilton.io
+hilton.com
 *.hilton.com
 hilton.io
 *.hiltonbusinessonline.com
@@ -673,11 +673,11 @@ http://miro.com/blog
 oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mb-cosmos.com
-my.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
 *.cloud.malwarebytes.com
 *.mwbsys.com
+my.malwarebytes.com
 www.malwarebytes.com
 *.mbamupdates.com
 *.threatdown.com
@@ -752,8 +752,8 @@ voapi.8x8.com
 admin.8x8.com
 *.jit.si
 connect.8x8.com
-*.8x8.vc
 cloud8.8x8.com
+*.8x8.vc
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -789,8 +789,8 @@ admin.8x8.com
 *.napoleongames.be
 *.napoleoncasino.be
 *.superbet.com
-*.superbet.rs
 *.superbet.pl
+*.superbet.rs
 *.superbet.ro
 *.superbet.ro
 *.superbet.rs
@@ -858,8 +858,8 @@ www.expediacruises.com
 www.hotels.com
 www.stayz.com.au
 www.cheaptickets.com
-www.orbitz.com
 www.ebookers.com
+www.orbitz.com
 www.hotwire.com
 www.flights.com
 www.carrentals.com
@@ -868,11 +868,11 @@ www.expediapartnersolutions.com
 *.cheaptickets.com
 *.travelocity.ca
 *.expediapartnercentral.com
+*.expediacruises.com
 www.bookabach.co.nz
 *.vrbo.com
 www.vrbo.com
 *.wotif.com
-*.expediacruises.com
 www.expedia.com
 www.travelocity.com
 www.expediagroup.com
@@ -1652,8 +1652,8 @@ core.yoti.com
 ccloud.yoti.com
 code.yoti.com
 api.yoti.com
-identity.yoti.com
 www.yotisign.com
+identity.yoti.com
 hub.yoti.com
 core.yoti.com
 api.yoti.com
@@ -1674,8 +1674,8 @@ internal.netlify.com
 netlify-rum.netlify.app
 api.netlify.com
 *.onegraph.com
-app.netlify.com
 *.services.netlify.com
+app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -1830,8 +1830,8 @@ api.faraday.ai
 *.devicelock.com
 *.acronis.work
 beta-cloud.acronis.com
-account.acronis.com
 *.acronis.com
+account.acronis.com
 *.5nine.com
 *-api-*.acronis.com
 *.acronis.com
@@ -1842,27 +1842,21 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
-www.watsons.com.tr
-app.superdrug.com
-api.superdrug.com
+www10.watsons.com.vn
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+app.marionnaud.fr
+mapi.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
-api.watsons.com.my
-www10.watsons.com.my
-www.iciparisxl.nl
-www.iciparisxl.be
-www.iciparisxl.lu
-app.iciparisxl.nl
-app.iciparisxl.be
-app.iciparisxl.lu
-www.marionnaud.at
-app.marionnaud.at
-app.marionnaud.ch
-www.marionnaud.cz
-app.marionnaud.cz
-www.marionnaud.hu
+www10.watsons.com.tw
+api.watsons.com.tw
+www10.watsons.com.ph
+www.watsons.co.th
+www20.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2332,8 +2326,8 @@ moments.marriottbonvoy.com
 marrtool.com
 homes-and-villas.marriott.com
 reservations.all-inclusive.marriott.com
-travelagents.marriott.com/
 mipartnerprivileges.marriott.com
+travelagents.marriott.com/
 help.marriott.com
 www.marriott.com
 traveler.marriott.com
@@ -3184,8 +3178,8 @@ jira.grab.com
 *.myteksi.net
 *.grabtaxi.com
 *.taralite.com
-*.grab.com
 *.ovo.id
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3353,8 +3347,8 @@ gift.starbucks.co.jp
 openapi.starbucks.com
 www.starbucks.de
 www.starbucks.com.cn
-app.starbucks.com
 www.starbucks.com
+app.starbucks.com
 www.starbucks.co.kr
 www.starbucksreserve.com
 gift.starbucks.co.jp
@@ -3937,9 +3931,9 @@ b5s.hackerone-ext-content.com
 www.wearehackerone.com
 reviewer.pullrequest.com
 errors.hackerone.net
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
 hackerone.live
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
 hackerone-user-content.com
