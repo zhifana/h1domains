@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 11 20:20:47 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 11 20:44:36 UTC 2024)
 ```
 www.dyson.no
 api.dyson.se
@@ -305,8 +305,8 @@ webonboarding-eu.truecaller.com
 cards.remitly.io
 api.remitly.io
 rewire.com
-remitly.com
 app.rewire.to
+remitly.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -399,8 +399,8 @@ cpanel.hostinger.com
 logo.zyro.com
 www.zyro.com
 www.hostinger.com
-hpanel.hostinger.com
 *.000webhost.com
+hpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -420,8 +420,8 @@ medical.23andme.com
 you.23andme.com
 mediacenter.23andme.com
 api.23andme.com
-therapeutics.23andme.com
 auth.23andme.com
+therapeutics.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -435,6 +435,7 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
+www.mercadopago.com.ar
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
@@ -443,11 +444,10 @@ www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadolibre.cl
 www.mercadolibre.com.co
-www.mercadopago.com.ar
 www.mercadolibre.com.ar
-www.mercadolivre.com.br
-www.mercadopago.com.br
 api.mercadolibre.com
+www.mercadopago.com.br
+www.mercadolivre.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -687,6 +687,7 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
+www.authorize.net
 www.cybersource.com
 visa.com.au
 www.fraedom.com
@@ -695,9 +696,8 @@ www.visa.co.in
 www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
-www.authorize.net
-www.visa.com.mx
 cw.visa.com
+www.visa.com.mx
 bb.visa.com
 www.tink.com
 www.visa.com.ng
@@ -784,8 +784,8 @@ api.avtoelon.uz
 m.avtoelon.uz
 avtoelon.uz
 m.kolesa.kz
-krisha.kz
 id.kolesa.kz
+krisha.kz
 kolesa.kz
 kolesa.kz
 m.kolesa.kz
@@ -909,6 +909,7 @@ aws.indrive.tech
 ingest.clairvoyance.indrive.tech
 volans.tech
 injob.indriver.com
+profile-api.eu-east-1.indriverapp.com
 auth2.indrive.tech
 new-order.eu-east-1.indriverapp.com
 argocd.indrive.dev
@@ -918,7 +919,6 @@ auth.indrive.tech
 cargo.indrive.com
 *.indriver.com
 file-storage-front.eu-east-1.indriverapp.com
-profile-api.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 watchdocs.indriverapp.com
 *.indrive.com
@@ -1049,8 +1049,8 @@ voapi.8x8.com
 admin.8x8.com
 *.jit.si
 connect.8x8.com
-*.8x8.vc
 cloud8.8x8.com
+*.8x8.vc
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1085,8 +1085,8 @@ admin.8x8.com
 *.magicjackpot.ro
 *.napoleongames.be
 *.napoleoncasino.be
-*.superbet.rs
 *.superbet.pl
+*.superbet.rs
 *.superbet.ro
 *.superbet.com
 *.superbet.ro
@@ -1146,22 +1146,22 @@ www.ebookers.fi
 www.mrjet.se
 www.expediaagents.com
 www.fewo-direkt.de
-www.hotels.com
 www.stayz.com.au
+www.hotels.com
 www.ebookers.com
-www.orbitz.com
 www.flights.com
+www.orbitz.com
 www.expediapartnersolutions.com
+*.expediapartnercentral.com
 *.cheaptickets.com
 *.travelocity.ca
-*.expediapartnercentral.com
 www.bookabach.co.nz
 *.vrbo.com
 *.lastminute.co.nz
 *.wotif.com
 www.abritel.fr
-*.lastminute.com.au
 *.travelocity.com
+*.lastminute.com.au
 *.carrentals.com
 www.expediagroup.com
 www.expedia.com
@@ -1410,8 +1410,8 @@ r.etoro.com
 bullsheet.me
 etoropartners.com
 charts.etoro.com
-delta.app
 www.etoro.com
+delta.app
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -1791,8 +1791,8 @@ ads.reddit.com
 ads-api.reddit.com
 old.reddit.com
 accounts.reddit.com
-*.reddithelp.com
 www.reddit.com
+*.reddithelp.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1876,8 +1876,8 @@ wp-integ.chime.com
 wp-qa.chime.com
 stream.launchdarkly.com
 docs.launchdarkly.com
-app.launchdarkly.com
 events.launchdarkly.com
+app.launchdarkly.com
 app.launchdarkly.com
 events.launchdarkly.com
 stream.launchdarkly.com
@@ -1952,8 +1952,8 @@ internal.netlify.com
 *.infra-prod.nsvcs.net
 netlify-rum.netlify.app
 *.onegraph.com
-*.services.netlify.com
 app.netlify.com
+*.services.netlify.com
 api.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
@@ -2038,8 +2038,8 @@ api.adm.cloud.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 developers.tiktok.com
-effecthouse.tiktok.com
 careers.tiktok.com
+effecthouse.tiktok.com
 creatormarketplace.tiktok.com
 shop.tiktok.com
 www.pangleglobal.com
@@ -2047,9 +2047,9 @@ business.tiktok.com
 partner.tiktokshop.com
 live-backstage.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 ads.tiktok.com
 tiktok.com
-*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2107,8 +2107,8 @@ app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
-beta-cloud.acronis.com
 *.acronis.work
+beta-cloud.acronis.com
 account.acronis.com
 *.5nine.com
 *.acronis.com
@@ -2121,27 +2121,21 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
-www.watsons.com.tr
-app.superdrug.com
-api.superdrug.com
+www10.watsons.com.vn
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+app.marionnaud.fr
+mapi.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
-api.watsons.com.my
-www10.watsons.com.my
-www.iciparisxl.nl
-www.iciparisxl.be
-www.iciparisxl.lu
-app.iciparisxl.nl
-app.iciparisxl.be
-app.iciparisxl.lu
-www.marionnaud.at
-app.marionnaud.at
-app.marionnaud.ch
-www.marionnaud.cz
-app.marionnaud.cz
-www.marionnaud.hu
+www10.watsons.com.tw
+api.watsons.com.tw
+www10.watsons.com.ph
+www.watsons.co.th
+www20.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2681,9 +2675,9 @@ app.nordpass.com
 *.nordvpn.com
 *.nordvpn.com
 app.nordpass.com
-*.line.me
 *.line.naver.jp
 *.line-apps.com
+*.line.me
 *.linecorp.com
 *.line.biz
 *.line.me
@@ -3104,8 +3098,8 @@ paypalobjects.com
 *.paypalcorp.com
 my.swiftfinancial.com
 api.loanbuilder.com
-www.loanbuilder.com
 *.paypal.com
+www.loanbuilder.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3256,8 +3250,8 @@ help.steampowered.com
 api.steampowered.com
 steamcommunity.com
 www.teamfortress.com
-www.dota2.com
 www.counter-strike.net
+www.dota2.com
 support.steampowered.com
 www.dota2.com
 support.steampowered.com
@@ -3278,8 +3272,8 @@ js.crypto.com
 merchant.crypto.com
 *.crypto.com
 tax.crypto.com
-www.crypto.com
 *.mona.co
+www.crypto.com
 pay.crypto.com
 *.crypto.com
 *.mona.co
@@ -3362,8 +3356,8 @@ privatetarget-1-www.zigzag
 *.lahitapiolarahoitus.fi
 *.beta.lahitapiola.fi
 ext-gw.lahitapiola.fi
-secure.lahitapiola.fi
 verkkopalvelu.tapiola.fi
+secure.lahitapiola.fi
 *.tapiola.fi
 yrityspalvelu.tapiola.fi
 *.lahitapiola.fi
@@ -3391,8 +3385,8 @@ privatetarget-1-www.zigzag
 *.sellzone.com
 *.semrush.net
 *.myinsights.io
-*.semrush.com
 *.seoquake.com
+*.semrush.com
 *.semrush.com
 *.semrush.net
 *.seoquake.com
@@ -3637,9 +3631,9 @@ yelptop100.com
 *.yelp-support.com
 *.yelpwifi.com
 yelptop100.com
+getharvest.com
 id.getharvest.com
 harvestapp.com
-getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3669,8 +3663,8 @@ education.github.com
 *.githubusercontent.com
 npmjs.com
 npmjs.org
-*ubereats.com
 *.uberinternal.com
+*ubereats.com
 *.uberinternal.com
 *ubereats.com
 api.mapbox.com
@@ -3808,11 +3802,11 @@ partners.shopify.com
 shopifyinbox.com
 *.shopifycs.com
 your-store.myshopify.com
-admin.shopify.com
+*.shopify.com
 accounts.shopify.com
 shop.app
 *.shopify.io
-*.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3844,10 +3838,10 @@ msg.playcanvas.com
 create.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
+ads.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
-ads.snapchat.com
 *.sc-core.net
 spectacles.com
 kit.snapchat.com
