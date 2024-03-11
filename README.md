@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 11 14:44:21 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 11 15:29:31 UTC 2024)
 ```
 www.dyson.no
 api.dyson.se
@@ -90,7 +90,6 @@ www.dyson.vn
 www.dyson.cn
 shop.dyson.ru
 *.dyson.com
-business.truecaller.com
 pixel.truecaller.com
 placement-rules-noneu.truecaller.com
 premium-noneu.truecaller.com
@@ -139,6 +138,7 @@ web-consent-noneu.truecaller.com
 web.truecaller.com
 webdirectory-noneu.truecaller.com
 webonboarding-noneu.truecaller.com
+www.truecaller.com
 business.truecaller.com
 account-noneu.truecaller.com
 account-onboarding-noneu.truecaller.com
@@ -438,18 +438,18 @@ www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
 www.mercadopago.com.ar
+www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadolibre.com.pe
-www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadolivre.com.br
-www.mercadolibre.com.ar
 www.mercadopago.com.br
 api.mercadolibre.com
+www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -689,6 +689,7 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
+www.authorize.net
 www.cybersource.com
 visa.com.au
 www.fraedom.com
@@ -697,10 +698,9 @@ www.visa.co.in
 www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
-www.authorize.net
+cw.visa.com
 www.visa.com.mx
 bb.visa.com
-cw.visa.com
 www.tink.com
 www.visa.com.ng
 www.cardinalcommerce.com
@@ -767,9 +767,9 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshchat.com
 yourdomain.freshcaller.com
+yourdomain.freshservice.com
 yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
-yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -786,8 +786,8 @@ api.avtoelon.uz
 m.avtoelon.uz
 avtoelon.uz
 m.kolesa.kz
-krisha.kz
 id.kolesa.kz
+krisha.kz
 kolesa.kz
 kolesa.kz
 m.kolesa.kz
@@ -814,11 +814,11 @@ crash-stats.allizom.org
 shavar.services.mozilla.com
 crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
-aus5.mozilla.org
 hg.mozilla.org
 firefox.settings.services.mozilla.com
 phabricator.allizom.org
 contile.services.mozilla.com
+aus5.mozilla.org
 sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
@@ -911,6 +911,7 @@ aws.indrive.tech
 ingest.clairvoyance.indrive.tech
 volans.tech
 injob.indriver.com
+profile-api.eu-east-1.indriverapp.com
 auth2.indrive.tech
 new-order.eu-east-1.indriverapp.com
 argocd.indrive.dev
@@ -920,7 +921,6 @@ auth.indrive.tech
 cargo.indrive.com
 *.indriver.com
 file-storage-front.eu-east-1.indriverapp.com
-profile-api.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 watchdocs.indriverapp.com
 *.indriverapp.com
@@ -973,11 +973,11 @@ http://miro.com/blog
 oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mb-cosmos.com
+my.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
 *.cloud.malwarebytes.com
 *.mwbsys.com
-my.malwarebytes.com
 www.malwarebytes.com
 *.mbamupdates.com
 *.threatdown.com
@@ -1052,8 +1052,8 @@ voapi.8x8.com
 admin.8x8.com
 *.jit.si
 connect.8x8.com
-cloud8.8x8.com
 *.8x8.vc
+cloud8.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1149,27 +1149,27 @@ www.ebookers.fi
 www.mrjet.se
 www.expediaagents.com
 www.fewo-direkt.de
-www.hotels.com
 www.stayz.com.au
+www.hotels.com
 www.ebookers.com
-www.orbitz.com
 www.flights.com
+www.orbitz.com
 www.expediapartnersolutions.com
+*.expediapartnercentral.com
 *.cheaptickets.com
 *.travelocity.ca
-*.expediapartnercentral.com
 www.bookabach.co.nz
 *.vrbo.com
-*.expediacruises.com
 *.lastminute.co.nz
 *.wotif.com
 www.abritel.fr
-*.lastminute.com.au
 *.travelocity.com
+*.lastminute.com.au
 *.carrentals.com
 www.expediagroup.com
 www.expedia.com
 *.hotwire.com
+*.expediacruises.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1502,8 +1502,8 @@ download.krisp.ai
 teams.krisp.ai
 krisp.ai
 *.krisp.ai
-api.krisp.ai
 account.krisp.ai
+api.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1792,10 +1792,10 @@ ads.reddit.com
 *.snooguts.net
 *.reddit.com
 ads-api.reddit.com
-accounts.reddit.com
 old.reddit.com
 www.reddit.com
 *.reddithelp.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1956,8 +1956,8 @@ internal.netlify.com
 netlify-rum.netlify.app
 api.netlify.com
 *.onegraph.com
-*.services.netlify.com
 app.netlify.com
+*.services.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -2110,8 +2110,8 @@ app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
-*.acronis.work
 beta-cloud.acronis.com
+*.acronis.work
 account.acronis.com
 *.5nine.com
 *.acronis.com
@@ -2613,8 +2613,8 @@ mipartnerprivileges.marriott.com
 homes-and-villas.marriott.com
 help.marriott.com
 www.marriott.com
-traveler.marriott.com
 travelagents.marriott.com/
+traveler.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -3040,7 +3040,6 @@ service.tvg.com
 m.4njbets.tvg.com
 promos.tvg.com
 mobile-prod.tvg.com
-www.4njbets.com
 sportsbook.fanduel.com
 *racing.fanduel.com
 tvg.com
@@ -3049,6 +3048,7 @@ com.fanduel.android.live
 fdbox.net
 *.fanduel.com
 www.tvg.com
+www.4njbets.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3078,7 +3078,6 @@ matomo.cloud
 https://github.com/matomo-org/docker
 *.paydiant.com
 www.swiftcapital.com
-my.swiftfinancial.com
 swiftcapital.com
 my.loanbuilder.com
 www.loanbuilder.com
@@ -3105,6 +3104,7 @@ api.loanbuilder.com
 *.braintreegateway.com
 *.paypalcorp.com
 *.paypal.com
+my.swiftfinancial.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3255,8 +3255,8 @@ help.steampowered.com
 api.steampowered.com
 steamcommunity.com
 www.teamfortress.com
-www.dota2.com
 www.counter-strike.net
+www.dota2.com
 support.steampowered.com
 www.dota2.com
 support.steampowered.com
@@ -3277,8 +3277,8 @@ js.crypto.com
 merchant.crypto.com
 *.crypto.com
 tax.crypto.com
-*.mona.co
 www.crypto.com
+*.mona.co
 pay.crypto.com
 *.crypto.com
 *.mona.co
@@ -3390,8 +3390,8 @@ privatetarget-1-www.zigzag
 *.sellzone.com
 *.semrush.net
 *.myinsights.io
-*.semrush.com
 *.seoquake.com
+*.semrush.com
 *.semrush.com
 *.semrush.net
 *.seoquake.com
@@ -3799,18 +3799,18 @@ yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 linkpop.com
-shopify.plus
 *.shopifykloud.com
+shopify.plus
 arrive-server.shopifycloud.com
 *.shopify.io
 partners.shopify.com
 *.shopifycloud.com
 shopifyinbox.com
 *.shopify.com
-admin.shopify.com
 *.shopifycs.com
 your-store.myshopify.com
 accounts.shopify.com
+admin.shopify.com
 shop.app
 *.shopifycs.com
 *.shopify.io
@@ -3934,10 +3934,10 @@ assets.airbnb.com
 *.airbnbcitizen.com
 api.airbnb.com
 www.airbnb.com
-www.hoteltonight.com
 *.hoteltonight-test.com
 *.withairbnb.com
 *.airbnb.com
+www.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4167,9 +4167,9 @@ mta-sts.wearehackerone.com
 b5s.hackerone-ext-content.com
 www.wearehackerone.com
 errors.hackerone.net
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
 hackerone.live
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
 hackerone-user-content.com
@@ -4339,8 +4339,6 @@ console.aiven.io
 api.aiven.io
 aivencloud.com
 help.aiven.io
-ota.helium.com
-ota.helium.com
 https://github.com/evolveum/midpoint
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 u.magento.com
