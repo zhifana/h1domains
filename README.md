@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 11 11:20:03 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 11 11:43:15 UTC 2024)
 ```
 www.dyson.no
 api.dyson.se
@@ -90,6 +90,7 @@ www.dyson.vn
 www.dyson.cn
 shop.dyson.ru
 *.dyson.com
+business.truecaller.com
 pixel.truecaller.com
 placement-rules-noneu.truecaller.com
 premium-noneu.truecaller.com
@@ -138,7 +139,6 @@ web-consent-noneu.truecaller.com
 web.truecaller.com
 webdirectory-noneu.truecaller.com
 webonboarding-noneu.truecaller.com
-www.truecaller.com
 business.truecaller.com
 account-noneu.truecaller.com
 account-onboarding-noneu.truecaller.com
@@ -335,8 +335,8 @@ worldcoin.org
 textexplore.tari.com
 www.tari.com
 explore.tari.com
-www.tarilabs.com
 rfc.tari.com
+www.tarilabs.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -437,7 +437,6 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
-www.mercadopago.com.ar
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
@@ -447,8 +446,9 @@ www.mercadopago.com.mx
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadopago.com.br
-api.mercadolibre.com
+www.mercadopago.com.ar
 www.mercadolivre.com.br
+api.mercadolibre.com
 www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -814,11 +814,11 @@ crash-stats.allizom.org
 shavar.services.mozilla.com
 crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
+aus5.mozilla.org
 hg.mozilla.org
 firefox.settings.services.mozilla.com
 phabricator.allizom.org
 contile.services.mozilla.com
-aus5.mozilla.org
 sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
@@ -973,9 +973,9 @@ http://miro.com/blog
 oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mb-cosmos.com
+*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
-*.cloud.malwarebytes.com
 *.mwbsys.com
 my.malwarebytes.com
 www.malwarebytes.com
@@ -1052,8 +1052,8 @@ voapi.8x8.com
 admin.8x8.com
 *.jit.si
 connect.8x8.com
-cloud8.8x8.com
 *.8x8.vc
+cloud8.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1088,8 +1088,8 @@ admin.8x8.com
 *.magicjackpot.ro
 *.napoleongames.be
 *.napoleoncasino.be
-*.superbet.rs
 *.superbet.pl
+*.superbet.rs
 *.superbet.ro
 *.superbet.com
 *.superbet.ro
@@ -1161,15 +1161,15 @@ www.expediapartnersolutions.com
 www.bookabach.co.nz
 *.vrbo.com
 www.expedia.com
-www.expediagroup.com
 *.expediacruises.com
 *.lastminute.co.nz
 *.wotif.com
 www.abritel.fr
 *.lastminute.com.au
 *.travelocity.com
-*.hotwire.com
 *.carrentals.com
+www.expediagroup.com
+*.hotwire.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1956,8 +1956,8 @@ internal.netlify.com
 netlify-rum.netlify.app
 api.netlify.com
 *.onegraph.com
-app.netlify.com
 *.services.netlify.com
+app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -2110,8 +2110,8 @@ app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
-*.acronis.work
 beta-cloud.acronis.com
+*.acronis.work
 account.acronis.com
 *.5nine.com
 *.acronis.com
@@ -2124,12 +2124,8 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
-www10.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-app.marionnaud.fr
-mapi.moneyback.com.hk
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
@@ -2139,6 +2135,8 @@ api.watsons.com.tw
 www10.watsons.com.ph
 www.watsons.co.th
 www20.watsons.co.th
+www10.watsons.co.th
+api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2511,11 +2509,11 @@ updates.amazon.com
 www.alibabagroup.com
 *.alibaba.com
 *.alibaba-inc.com
-*.aliyun.com
 *.Daraz.com
 *.aliexpress.com
 *.tmall.com
 *.taobao.com
+*.aliyun.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2594,9 +2592,9 @@ gatewaydsaptst2.marriott.com
 gatewaydsapdev2.marriott.com
 marriottfranchisetransactions.marriott.com
 passwordchallenge.marriott.com
+cpp.marriott.com
 gatewaydsaptst1.marriott.com
 mgs.marriott.com
-cpp.marriott.com
 hotel-deals.marriott.com
 jobs.marriott.com
 www.ritzcarlton.com
@@ -2606,10 +2604,10 @@ all-inclusive.marriott.com
 careers.marriott.com
 moments.marriottbonvoy.com
 marrtool.com
-homes-and-villas.marriott.com
-reservations.all-inclusive.marriott.com
 mipartnerprivileges.marriott.com
+reservations.all-inclusive.marriott.com
 travelagents.marriott.com/
+homes-and-villas.marriott.com
 help.marriott.com
 www.marriott.com
 traveler.marriott.com
@@ -2678,10 +2676,10 @@ app.nordpass.com
 *.nordvpn.com
 *.nordvpn.com
 app.nordpass.com
+*.line.me
 *.line.biz
 *.line.naver.jp
 *.line-apps.com
-*.line.me
 *.linecorp.com
 *.line.me
 *.line-apps.com
@@ -3253,8 +3251,8 @@ help.steampowered.com
 api.steampowered.com
 steamcommunity.com
 www.teamfortress.com
-www.counter-strike.net
 www.dota2.com
+www.counter-strike.net
 support.steampowered.com
 www.dota2.com
 support.steampowered.com
@@ -3274,9 +3272,9 @@ auth.crypto.com
 js.crypto.com
 merchant.crypto.com
 *.crypto.com
-tax.crypto.com
 *.mona.co
 www.crypto.com
+tax.crypto.com
 pay.crypto.com
 *.crypto.com
 *.mona.co
@@ -3843,8 +3841,8 @@ yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 linkpop.com
-shopify.plus
 *.shopifykloud.com
+shopify.plus
 arrive-server.shopifycloud.com
 *.shopify.io
 shop.app
@@ -3887,10 +3885,10 @@ msg.playcanvas.com
 create.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
-ads.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
+ads.snapchat.com
 *.sc-core.net
 spectacles.com
 kit.snapchat.com
@@ -3899,8 +3897,8 @@ snappublisher.snapchat.com
 business.snapchat.com
 *.sc-corp.net
 playcanvas.com
-accounts.snapchat.com
 app.snapchat.com
+accounts.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
@@ -4213,15 +4211,15 @@ b5s.hackerone-ext-content.com
 www.wearehackerone.com
 reviewer.pullrequest.com
 errors.hackerone.net
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
 hackerone.live
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
 hackerone-user-content.com
-www.hackerone.com
 hackerone.com
 api.hackerone.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
