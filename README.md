@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 11 13:20:55 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 11 13:47:31 UTC 2024)
 ```
 www.dyson.no
 api.dyson.se
@@ -401,8 +401,8 @@ cpanel.hostinger.com
 logo.zyro.com
 www.zyro.com
 www.hostinger.com
-*.000webhost.com
 hpanel.hostinger.com
+*.000webhost.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -415,7 +415,6 @@ logo.zyro.com
 www.niagahoster.co.id
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
-therapeutics.23andme.com
 blog.23andme.com
 education.23andme.com
 store.23andme.com
@@ -424,6 +423,7 @@ you.23andme.com
 mediacenter.23andme.com
 api.23andme.com
 auth.23andme.com
+therapeutics.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -767,9 +767,9 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshchat.com
 yourdomain.freshcaller.com
+yourdomain.freshservice.com
 yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
-yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -911,6 +911,7 @@ aws.indrive.tech
 ingest.clairvoyance.indrive.tech
 volans.tech
 injob.indriver.com
+profile-api.eu-east-1.indriverapp.com
 auth2.indrive.tech
 new-order.eu-east-1.indriverapp.com
 argocd.indrive.dev
@@ -920,11 +921,10 @@ auth.indrive.tech
 cargo.indrive.com
 *.indriver.com
 file-storage-front.eu-east-1.indriverapp.com
-*.indriverapp.com
-profile-api.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 watchdocs.indriverapp.com
 *.indrive.com
+*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -973,11 +973,11 @@ http://miro.com/blog
 oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mb-cosmos.com
+my.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
 *.cloud.malwarebytes.com
 *.mwbsys.com
-my.malwarebytes.com
 www.malwarebytes.com
 *.mbamupdates.com
 *.threatdown.com
@@ -1052,8 +1052,8 @@ voapi.8x8.com
 admin.8x8.com
 *.jit.si
 connect.8x8.com
-*.8x8.vc
 cloud8.8x8.com
+*.8x8.vc
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1088,8 +1088,8 @@ admin.8x8.com
 *.magicjackpot.ro
 *.napoleongames.be
 *.napoleoncasino.be
-*.superbet.rs
 *.superbet.pl
+*.superbet.rs
 *.superbet.ro
 *.superbet.com
 *.superbet.ro
@@ -1149,23 +1149,23 @@ www.ebookers.fi
 www.mrjet.se
 www.expediaagents.com
 www.fewo-direkt.de
-www.stayz.com.au
 www.hotels.com
+www.stayz.com.au
+www.orbitz.com
 www.ebookers.com
 www.flights.com
-www.orbitz.com
 www.expediapartnersolutions.com
-*.expediapartnercentral.com
 *.cheaptickets.com
 *.travelocity.ca
+*.expediapartnercentral.com
 www.bookabach.co.nz
 *.vrbo.com
 *.expediacruises.com
 *.lastminute.co.nz
 *.wotif.com
 www.abritel.fr
-*.travelocity.com
 *.lastminute.com.au
+*.travelocity.com
 *.carrentals.com
 www.expediagroup.com
 www.expedia.com
@@ -1783,11 +1783,11 @@ mod.reddit.com
 *.redditinc.com
 api.reddit.com
 *.redditmedia.com
-gql.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 oauth.reddit.com
 new.reddit.com
+gql.reddit.com
 ads.reddit.com
 *.snooguts.net
 *.reddit.com
@@ -1879,8 +1879,8 @@ wp-integ.chime.com
 wp-qa.chime.com
 stream.launchdarkly.com
 docs.launchdarkly.com
-app.launchdarkly.com
 events.launchdarkly.com
+app.launchdarkly.com
 app.launchdarkly.com
 events.launchdarkly.com
 stream.launchdarkly.com
@@ -2110,8 +2110,8 @@ app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
-*.acronis.work
 beta-cloud.acronis.com
+*.acronis.work
 account.acronis.com
 *.5nine.com
 *.acronis.com
@@ -2124,21 +2124,23 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
-www10.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-app.marionnaud.fr
-mapi.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.watsons.com.tw
-api.watsons.com.tw
-www10.watsons.com.ph
-www.watsons.co.th
-www20.watsons.co.th
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www10.watsons.com.sg
+www.watsons.com.sg
+api.watsons.com.sg
+www.watsons.com.hk
+www10.watsons.com.hk
+api.watsons.com.hk
+www10.watsons.co.id
+api.watsons.co.id
+www.watsons.co.id
+blog.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2603,8 +2605,8 @@ www.ritzcarlton.com
 sso.marriott.com
 activities.marriott.com
 all-inclusive.marriott.com
-moments.marriottbonvoy.com
 careers.marriott.com
+moments.marriottbonvoy.com
 marrtool.com
 reservations.all-inclusive.marriott.com
 mipartnerprivileges.marriott.com
@@ -2678,10 +2680,10 @@ app.nordpass.com
 *.nordvpn.com
 *.nordvpn.com
 app.nordpass.com
+*.line.me
 *.line.biz
 *.line.naver.jp
 *.line-apps.com
-*.line.me
 *.linecorp.com
 *.line.me
 *.line-apps.com
@@ -3044,9 +3046,9 @@ tvg.com
 *racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
-www.tvg.com
 fdbox.net
 *.fanduel.com
+www.tvg.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3253,8 +3255,8 @@ help.steampowered.com
 api.steampowered.com
 steamcommunity.com
 www.teamfortress.com
-www.counter-strike.net
 www.dota2.com
+www.counter-strike.net
 support.steampowered.com
 www.dota2.com
 support.steampowered.com
@@ -3433,9 +3435,9 @@ privatetarget-1-www.zigzag
 *.scatec.io
 *.sellzone.com
 *.semrush.net
-*.seoquake.com
 *.myinsights.io
 *.semrush.com
+*.seoquake.com
 *.semrush.com
 *.semrush.net
 *.seoquake.com
@@ -3680,9 +3682,9 @@ yelptop100.com
 *.yelp-support.com
 *.yelpwifi.com
 yelptop100.com
+getharvest.com
 id.getharvest.com
 harvestapp.com
-getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3843,12 +3845,12 @@ yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 linkpop.com
-*.shopifykloud.com
 shopify.plus
+*.shopifykloud.com
 arrive-server.shopifycloud.com
 *.shopify.io
-partners.shopify.com
 shop.app
+partners.shopify.com
 *.shopifycloud.com
 shopifyinbox.com
 *.shopify.com
@@ -4144,8 +4146,8 @@ international.coinbase.com
 *.cbhq.net
 institutional.coinbase.com
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
+api.coinbase.com
 *.base.org
 *.coinbase.com
 commerce.coinbase.com
