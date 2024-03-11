@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 11 17:21:08 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 11 17:45:43 UTC 2024)
 ```
 www.dyson.no
 api.dyson.se
@@ -306,9 +306,9 @@ webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
 api.remitly.io
-app.rewire.to
-remitly.com
 rewire.com
+remitly.com
+app.rewire.to
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -401,8 +401,8 @@ cpanel.hostinger.com
 logo.zyro.com
 www.zyro.com
 www.hostinger.com
-*.000webhost.com
 hpanel.hostinger.com
+*.000webhost.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -689,6 +689,7 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
+www.authorize.net
 www.cybersource.com
 visa.com.au
 www.fraedom.com
@@ -697,10 +698,9 @@ www.visa.co.in
 www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
-www.authorize.net
+cw.visa.com
 www.visa.com.mx
 bb.visa.com
-cw.visa.com
 www.tink.com
 www.visa.com.ng
 www.cardinalcommerce.com
@@ -815,7 +815,6 @@ shavar.services.mozilla.com
 crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
 hg.mozilla.org
-firefox.settings.services.mozilla.com
 phabricator.allizom.org
 contile.services.mozilla.com
 aus5.mozilla.org
@@ -827,6 +826,7 @@ merino.services.mozilla.com
 addons.allizom.org
 bugzilla.mozilla.org
 accounts.firefox.com
+firefox.settings.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -1051,8 +1051,8 @@ voapi.8x8.com
 admin.8x8.com
 *.jit.si
 connect.8x8.com
-cloud8.8x8.com
 *.8x8.vc
+cloud8.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1412,8 +1412,8 @@ r.etoro.com
 bullsheet.me
 etoropartners.com
 charts.etoro.com
-www.etoro.com
 delta.app
+www.etoro.com
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -1501,8 +1501,8 @@ download.krisp.ai
 teams.krisp.ai
 krisp.ai
 *.krisp.ai
-api.krisp.ai
 account.krisp.ai
+api.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1782,19 +1782,19 @@ mod.reddit.com
 *.redditinc.com
 api.reddit.com
 *.redditmedia.com
-gql.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 oauth.reddit.com
 new.reddit.com
+gql.reddit.com
 ads.reddit.com
 *.snooguts.net
 *.reddit.com
 ads-api.reddit.com
 old.reddit.com
-*.reddithelp.com
 accounts.reddit.com
 www.reddit.com
+*.reddithelp.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1954,8 +1954,8 @@ internal.netlify.com
 *.infra-prod.nsvcs.net
 netlify-rum.netlify.app
 *.onegraph.com
-*.services.netlify.com
 app.netlify.com
+*.services.netlify.com
 api.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
@@ -2050,8 +2050,8 @@ partner.tiktokshop.com
 live-backstage.tiktok.com
 ads.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2123,19 +2123,27 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
+www.watsons.com.tr
 app.superdrug.com
 api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.watsons.com.tw
-api.watsons.com.tw
-www10.watsons.com.ph
-www.watsons.co.th
-www20.watsons.co.th
-www10.watsons.co.th
-api.watsons.co.th
+api.watsons.com.my
+www10.watsons.com.my
+www.iciparisxl.nl
+www.iciparisxl.be
+www.iciparisxl.lu
+app.iciparisxl.nl
+app.iciparisxl.be
+app.iciparisxl.lu
+www.marionnaud.at
+app.marionnaud.at
+app.marionnaud.ch
+www.marionnaud.cz
+app.marionnaud.cz
+www.marionnaud.hu
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -3036,14 +3044,14 @@ m.4njbets.tvg.com
 promos.tvg.com
 mobile-prod.tvg.com
 sportsbook.fanduel.com
-*racing.fanduel.com
 tvg.com
+*racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
 fdbox.net
 *.fanduel.com
-www.tvg.com
 www.4njbets.com
+www.tvg.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3075,7 +3083,6 @@ https://github.com/matomo-org/docker
 www.swiftcapital.com
 swiftcapital.com
 my.loanbuilder.com
-www.loanbuilder.com
 api.swiftfinancial.com
 loanbuilder.com
 pigeon.swiftfinancial.com
@@ -3100,6 +3107,7 @@ api.loanbuilder.com
 *.paypalcorp.com
 my.swiftfinancial.com
 *.paypal.com
+www.loanbuilder.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3271,9 +3279,9 @@ auth.crypto.com
 js.crypto.com
 merchant.crypto.com
 *.crypto.com
-*.mona.co
-www.crypto.com
 tax.crypto.com
+www.crypto.com
+*.mona.co
 pay.crypto.com
 *.crypto.com
 *.mona.co
@@ -3356,8 +3364,8 @@ privatetarget-1-www.zigzag
 *.lahitapiolarahoitus.fi
 *.beta.lahitapiola.fi
 ext-gw.lahitapiola.fi
-verkkopalvelu.tapiola.fi
 secure.lahitapiola.fi
+verkkopalvelu.tapiola.fi
 *.tapiola.fi
 yrityspalvelu.tapiola.fi
 *.lahitapiola.fi
@@ -3385,8 +3393,8 @@ privatetarget-1-www.zigzag
 *.sellzone.com
 *.semrush.net
 *.myinsights.io
-*.semrush.com
 *.seoquake.com
+*.semrush.com
 *.semrush.com
 *.semrush.net
 *.seoquake.com
@@ -3631,9 +3639,9 @@ yelptop100.com
 *.yelp-support.com
 *.yelpwifi.com
 yelptop100.com
-getharvest.com
 id.getharvest.com
 harvestapp.com
+getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -4097,12 +4105,12 @@ institutional.coinbase.com
 api.custody.coinbase.com
 pro.coinbase.com
 api.coinbase.com
-*.base.org
 *.coinbase.com
 commerce.coinbase.com
 nft.coinbase.com
 cloud.coinbase.com
 coinbase.com
+*.base.org
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -4170,9 +4178,9 @@ hackerone-user-content.com
 api.hackerone.com
 www.hackerone.com
 hackerone-ext-content.com
+hackerone.com
 reviewer.pullrequest.com
 ctf.hacker101.com
-hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
