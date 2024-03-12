@@ -334,8 +334,8 @@ toolsforhumanity,bioid-management.app,True
 toolsforhumanity,*.worldcoin.dev,True
 toolsforhumanity,worldcoin.org,True
 toolsforhumanity,*.toolsforhumanity.com,True
-toolsforhumanity,*.worldcoin.org,True
 toolsforhumanity,*.consumer.worldcoin.org,True
+toolsforhumanity,*.worldcoin.org,True
 toolsforhumanity,*.worldcoin.org,True
 toolsforhumanity,*.consumer.worldcoin.org,True
 toolsforhumanity,*.worldcoin-distributors.com,True
@@ -513,7 +513,6 @@ egress-vdp,www.egress.com,False
 23andme_bbp,research.23andme.com,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.ar,True
-mercadolibre,www.mercadopago.com.br,True
 mercadolibre,www.mercadopago.com.mx,True
 mercadolibre,www.mercadopago.com.co,True
 mercadolibre,www.mercadopago.com.pe,True
@@ -526,6 +525,7 @@ mercadolibre,www.mercadolibre.com.uy,True
 mercadolibre,www.mercadolibre.cl,True
 mercadolibre,www.mercadopago.cl,True
 mercadolibre,api.mercadolibre.com,True
+mercadolibre,www.mercadopago.com.br,True
 mercadolibre,www.mercadolivre.com.br,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.ar,True
@@ -3345,8 +3345,8 @@ hilton,*.hiltonbusinessonline.com,True
 hilton,hilton.com.tr,True
 hilton,hiltonbusinessonline.com,True
 hilton,hiltonlocalbiz.com,True
-hilton,*.hilton.com,True
 hilton,*.hilton.com.tr,True
+hilton,*.hilton.com,True
 hilton,*.hilton.com,True
 hilton,*.hilton.io,True
 hilton,*.hilton.com.tr,True
@@ -3566,7 +3566,6 @@ svb-financial,api.svb.com,False
 svb-financial,https://openbanking.svb.com/open-banking/v3.1/,False
 svb-financial,developer.svb.com,False
 svb-financial,www.cipherbio.com,False
-s-pankki,online.s-pankki.fi,True
 s-pankki,www.s-pankki.fi,True
 s-pankki,mobile.s-pankki.fi,True
 s-pankki,www.s-kaupat.fi,True
@@ -3577,6 +3576,7 @@ s-pankki,www.sokos.fi,True
 s-pankki,api.sokos.fi,True
 s-pankki,cfapi.voikukka.fi,True
 s-pankki,digili.s-cloud.fi,True
+s-pankki,online.s-pankki.fi,True
 s-pankki,online.s-pankki.fi,True
 s-pankki,www.s-pankki.fi,True
 s-pankki,https://crosskey.io/stores/s-pankki/apis,True
@@ -5579,7 +5579,6 @@ recorded-future,therecord.media,True
 gsa_bbp,federalist-proxy.app.cloud.gov,True
 gsa_bbp,account.fr.cloud.gov,True
 gsa_bbp,ci.fr.cloud.gov,True
-gsa_bbp,dashboard.fr.cloud.gov,True
 gsa_bbp,login.fr.cloud.gov,True
 gsa_bbp,logs.fr.cloud.gov,True
 gsa_bbp,www.data.gov,True
@@ -8191,9 +8190,9 @@ marriott,giftcards.marriott.com,False
 marriott,*uat.marriott.com,True
 marriott,moments.marriottbonvoy.com,True
 marriott,help.marriott.com,True
-marriott,traveler.marriott.com,True
 marriott,travelagents.marriott.com/,True
 marriott,mipartnerprivileges.marriott.com,True
+marriott,traveler.marriott.com,True
 marriott,homes-and-villas.marriott.com,True
 marriott,careers.marriott.com,True
 marriott,sso.marriott.com,True
@@ -9223,7 +9222,6 @@ chainlink,chain.link,False
 priceline,api.rezserver.com,True
 priceline,admin.rezserver.com,True
 priceline,www.priceline.com,True
-priceline,secure.rezserver.com,True
 priceline,reservations.rezserver.com,True
 priceline,cruises.priceline.com,True
 priceline,press.priceline.com,True
@@ -9499,10 +9497,10 @@ fanduel,pabets.tvg.com,True
 fanduel,promos.tvg.com,True
 fanduel,service.tvg.com,True
 fanduel,us.tvg.com,True
-fanduel,www.4njbets.com,True
 fanduel,*.fanduel.com,True
 fanduel,tvg.com,True
 fanduel,fdbox.net,True
+fanduel,www.4njbets.com,True
 fanduel,*.fanduel.com,True
 fanduel,*racing.fanduel.com,True
 fanduel,fdbox.net,True
@@ -9737,9 +9735,9 @@ valve,www.valvesoftware.com,True
 valve,partner.steamgames.com,True
 valve,playartifact.com,True
 valve,api.steampowered.com,True
+valve,store.steampowered.com,True
 valve,www.teamfortress.com,True
 valve,help.steampowered.com,True
-valve,store.steampowered.com,True
 valve,steamcommunity.com,True
 valve,www.dota2.com,True
 valve,support.steampowered.com,True
@@ -10150,7 +10148,6 @@ starbucks,www.starbucks.fr,True
 starbucks,www.starbucks.co.uk,True
 starbucks,www.starbucks.com.br,True
 starbucks,www.starbucks.ca,True
-starbucks,www.starbucks.com,True
 starbucks,app.starbucks.com,True
 starbucks,openapi.starbucks.com,True
 starbucks,secureui.starbucks.com,True
@@ -10158,6 +10155,7 @@ starbucks,card.starbucks.com.sg,True
 starbucks,www.starbucks.com.sg,True
 starbucks,cart.starbucks.co.jp,True
 starbucks,www.starbucks.co.kr,True
+starbucks,www.starbucks.com,True
 starbucks,gift.starbucks.co.jp,True
 starbucks,www.starbucksreserve.com,True
 starbucks,gift.starbucks.co.jp,True
@@ -10267,7 +10265,6 @@ moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
 moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
-github,api.github.com,True
 github,gist.github.com,True
 github,classroom.github.com,True
 github,*.githubapp.com,True
@@ -10277,6 +10274,7 @@ github,*.githubusercontent.com,True
 github,npmjs.com,True
 github,npmjs.org,True
 github,github.com,True
+github,api.github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
@@ -10366,8 +10364,8 @@ radancy,werkenbijdefensie.nl,True
 radancy,werkenbijderet.nl,True
 radancy,mijnkombijdepolitie.nl,True
 radancy,doorstromen.mijnkombijdepolitie.nl,True
-radancy,devmaximum.com,True
 radancy,www.werkenbijbakertilly.nl,True
+radancy,devmaximum.com,True
 radancy,acme-challenge.nl,True
 radancy,nossl.nl,True
 radancy,no-reply.cloud,True
@@ -10702,8 +10700,8 @@ airbnb,*.airbnb-aws.com,True
 airbnb,*.luxuryretreats.com,True
 airbnb,*.hoteltonight-test.com,True
 airbnb,www.hoteltonight.com,True
-airbnb,*.airbnbcitizen.com,True
 airbnb,www.airbnb.com,True
+airbnb,*.airbnbcitizen.com,True
 airbnb,www.airbnb.com,True
 airbnb,next.airbnb.com,True
 airbnb,api.airbnb.com,True
@@ -10886,8 +10884,8 @@ coinbase,*.base.org,True
 coinbase,international.coinbase.com,True
 coinbase,nft.coinbase.com,True
 coinbase,coinbase.com,True
-coinbase,cloud.coinbase.com,True
 coinbase,*.coinbase.com,True
+coinbase,cloud.coinbase.com,True
 coinbase,*.coinbase.com,True
 coinbase,*.cbhq.net,True
 coinbase,pro.coinbase.com,True
@@ -10930,6 +10928,7 @@ slack,*.quip.com,True
 yahoo,le.yahooapis.com,True
 yahoo,onepush.query.yahoo.com,True
 yahoo,proddata.xobni.yahoo.com,True
+yahoo,apis.mail.yahoo.com,True
 yahoo,data.mail.yahoo.com,True
 yahoo,le.yahooapis.com,True
 yahoo,onepush.query.yahoo.com,True

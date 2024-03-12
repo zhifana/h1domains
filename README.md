@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 12 22:42:44 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar 12 23:21:46 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -335,8 +335,8 @@ bioid-management.app
 *.worldcoin.dev
 worldcoin.org
 *.toolsforhumanity.com
-*.worldcoin.org
 *.consumer.worldcoin.org
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -450,7 +450,6 @@ you.23andme.com
 research.23andme.com
 api.mercadopago.com
 www.mercadopago.com.ar
-www.mercadopago.com.br
 www.mercadopago.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
@@ -463,6 +462,7 @@ www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.cl
 api.mercadolibre.com
+www.mercadopago.com.br
 www.mercadolivre.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -901,8 +901,8 @@ hiltonhotels.jp
 hilton.com.tr
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-*.hilton.com
 *.hilton.com.tr
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -1010,7 +1010,6 @@ www.malwarebytes.com
 my.malwarebytes.com
 cloud.malwarebytes.com
 oneview.malwarebytes.com
-online.s-pankki.fi
 www.s-pankki.fi
 mobile.s-pankki.fi
 www.s-kaupat.fi
@@ -1021,6 +1020,7 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
+online.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
 https://crosskey.io/stores/s-pankki/apis
@@ -1659,7 +1659,6 @@ therecord.media
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
-dashboard.fr.cloud.gov
 login.fr.cloud.gov
 logs.fr.cloud.gov
 www.data.gov
@@ -2660,9 +2659,9 @@ www.marriott.com
 *uat.marriott.com
 moments.marriottbonvoy.com
 help.marriott.com
-traveler.marriott.com
 travelagents.marriott.com/
 mipartnerprivileges.marriott.com
+traveler.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2851,7 +2850,6 @@ app.command.cysiv.com
 api.rezserver.com
 admin.rezserver.com
 www.priceline.com
-secure.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
 press.priceline.com
@@ -3077,10 +3075,10 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 us.tvg.com
-www.4njbets.com
 *.fanduel.com
 tvg.com
 fdbox.net
+www.4njbets.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3303,9 +3301,9 @@ www.valvesoftware.com
 partner.steamgames.com
 playartifact.com
 api.steampowered.com
+store.steampowered.com
 www.teamfortress.com
 help.steampowered.com
-store.steampowered.com
 steamcommunity.com
 www.dota2.com
 support.steampowered.com
@@ -3630,7 +3628,6 @@ www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
 www.starbucks.ca
-www.starbucks.com
 app.starbucks.com
 openapi.starbucks.com
 secureui.starbucks.com
@@ -3638,6 +3635,7 @@ card.starbucks.com.sg
 www.starbucks.com.sg
 cart.starbucks.co.jp
 www.starbucks.co.kr
+www.starbucks.com
 gift.starbucks.co.jp
 www.starbucksreserve.com
 gift.starbucks.co.jp
@@ -3699,7 +3697,6 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 gist.github.com
 classroom.github.com
 *.githubapp.com
@@ -3709,6 +3706,7 @@ education.github.com
 npmjs.com
 npmjs.org
 github.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3798,8 +3796,8 @@ werkenbijdefensie.nl
 werkenbijderet.nl
 mijnkombijdepolitie.nl
 doorstromen.mijnkombijdepolitie.nl
-devmaximum.com
 www.werkenbijbakertilly.nl
+devmaximum.com
 acme-challenge.nl
 nossl.nl
 no-reply.cloud
@@ -3992,8 +3990,8 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 *.hoteltonight-test.com
 www.hoteltonight.com
-*.airbnbcitizen.com
 www.airbnb.com
+*.airbnbcitizen.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4166,8 +4164,8 @@ institutional.coinbase.com
 international.coinbase.com
 nft.coinbase.com
 coinbase.com
-cloud.coinbase.com
 *.coinbase.com
+cloud.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -4210,6 +4208,7 @@ www.quip.com
 le.yahooapis.com
 onepush.query.yahoo.com
 proddata.xobni.yahoo.com
+apis.mail.yahoo.com
 data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
