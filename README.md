@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 12 15:24:16 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar 12 15:50:55 UTC 2024)
 ```
 www.dyson.no
 api.dyson.se
@@ -308,8 +308,8 @@ webonboarding-eu.truecaller.com
 cards.remitly.io
 app.rewire.to
 rewire.com
-remitly.com
 api.remitly.io
+remitly.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -438,7 +438,6 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
-www.mercadopago.com.ar
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
@@ -447,10 +446,11 @@ www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadolibre.cl
 www.mercadolibre.com.co
-www.mercadolivre.com.br
 api.mercadolibre.com
 www.mercadopago.com.br
+www.mercadolivre.com.br
 www.mercadolibre.com.ar
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -814,10 +814,10 @@ push.services.mozilla.com
 crash-stats.allizom.org
 shavar.services.mozilla.com
 crash-reports.allizom.org
+aus5.mozilla.org
 hg.mozilla.org
 phabricator.allizom.org
 contile.services.mozilla.com
-aus5.mozilla.org
 sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
@@ -885,9 +885,9 @@ hiltonbusinessonline.com
 *.hilton.io
 hilton.io
 *.hiltonbusinessonline.com
-*.hilton.com
 *.hilton.com.tr
 hilton.com
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -912,6 +912,7 @@ aws.indrive.tech
 ingest.clairvoyance.indrive.tech
 volans.tech
 injob.indriver.com
+profile-api.eu-east-1.indriverapp.com
 auth2.indrive.tech
 new-order.eu-east-1.indriverapp.com
 argocd.indrive.dev
@@ -921,7 +922,6 @@ auth.indrive.tech
 cargo.indrive.com
 *.indriver.com
 file-storage-front.eu-east-1.indriverapp.com
-profile-api.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 watchdocs.indriverapp.com
 *.indriverapp.com
@@ -974,9 +974,9 @@ http://miro.com/blog
 oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mb-cosmos.com
-*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+*.cloud.malwarebytes.com
 *.mwbsys.com
 my.malwarebytes.com
 www.malwarebytes.com
@@ -1052,8 +1052,8 @@ voapi.8x8.com
 admin.8x8.com
 *.jit.si
 connect.8x8.com
-*.8x8.vc
 cloud8.8x8.com
+*.8x8.vc
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1215,8 +1215,8 @@ zerobounce.net
 *.teleport.dev
 platform.teleport.sh
 *.gravitational.co
-cloud.gravitational.io
 *.goteleport.com
+cloud.gravitational.io
 *.gravitational.io
 teleport.sh
 askpam.ai
@@ -1502,8 +1502,8 @@ download.krisp.ai
 teams.krisp.ai
 krisp.ai
 *.krisp.ai
-api.krisp.ai
 account.krisp.ai
+api.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1793,9 +1793,9 @@ ads.reddit.com
 *.reddit.com
 ads-api.reddit.com
 old.reddit.com
-*.reddithelp.com
-www.reddit.com
 accounts.reddit.com
+www.reddit.com
+*.reddithelp.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1934,8 +1934,8 @@ core.yoti.com
 ccloud.yoti.com
 code.yoti.com
 api.yoti.com
-identity.yoti.com
 www.yotisign.com
+identity.yoti.com
 hub.yoti.com
 core.yoti.com
 api.yoti.com
@@ -2124,27 +2124,23 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
-www.watsons.com.tr
-app.superdrug.com
-api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
-api.watsons.com.my
-www10.watsons.com.my
-www.iciparisxl.nl
-www.iciparisxl.be
-www.iciparisxl.lu
-app.iciparisxl.nl
-app.iciparisxl.be
-app.iciparisxl.lu
-www.marionnaud.at
-app.marionnaud.at
-app.marionnaud.ch
-www.marionnaud.cz
-app.marionnaud.cz
-www.marionnaud.hu
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www10.watsons.com.sg
+www.watsons.com.sg
+api.watsons.com.sg
+www.watsons.com.hk
+www10.watsons.com.hk
+api.watsons.com.hk
+www10.watsons.co.id
+api.watsons.co.id
+www.watsons.co.id
+blog.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2516,12 +2512,12 @@ updates.amazon.com
 www.alibabagroup.com
 *.tmall.com
 *.Daraz.com
-*.alibaba-inc.com
 *.aliexpress.com
 *.1688.com
 *.taobao.com
-*.alibaba.com
 *.aliyun.com
+*.alibaba.com
+*.alibaba-inc.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2616,8 +2612,8 @@ mipartnerprivileges.marriott.com
 homes-and-villas.marriott.com
 help.marriott.com
 www.marriott.com
-moments.marriottbonvoy.com
 travelagents.marriott.com/
+moments.marriottbonvoy.com
 traveler.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
@@ -2674,8 +2670,8 @@ k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
 docs.datastax.com
-www.datastax.com
 astra.datastax.com
+www.datastax.com
 www.datastax.com
 downloads.datastax.com
 docs.datastax.com
@@ -2824,7 +2820,7 @@ admin.rezserver.com
 press.priceline.com
 flyiin.com
 www.bookingholdings.com
-cruises.priceline.com
+www.priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3145,8 +3141,8 @@ billingsupport.chaturbate.com
 *.highwebmedia.com
 *.mmwebc.dev
 *.cb.dev
-chaturbate.com
 secure.chaturbate.com
+chaturbate.com
 *.highwebmedia.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -3455,8 +3451,8 @@ bma.bumble.com
 corp.badoo.com
 hotornot.com
 badoo.com
-www.bumble.com
 getofficial.co
+www.bumble.com
 www.bumble.com
 bma.bumble.com
 badoo.com
@@ -3641,9 +3637,9 @@ yelptop100.com
 *.yelp-support.com
 *.yelpwifi.com
 yelptop100.com
+getharvest.com
 id.getharvest.com
 harvestapp.com
-getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3657,9 +3653,9 @@ npmjs.org
 *.githubusercontent.com
 *.githubapp.com
 api.github.com
+npmjs.com
 classroom.github.com
 *.github.net
-npmjs.com
 gist.github.com
 github.com
 education.github.com
@@ -3804,15 +3800,15 @@ yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 linkpop.com
-shopify.plus
 *.shopifykloud.com
+shopify.plus
 arrive-server.shopifycloud.com
 *.shopifycloud.com
 shopifyinbox.com
 *.shopifycs.com
 accounts.shopify.com
-admin.shopify.com
 shop.app
+admin.shopify.com
 *.shopify.io
 *.shopify.com
 partners.shopify.com
@@ -3848,9 +3844,9 @@ msg.playcanvas.com
 create.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
-ads.snapchat.com
 www.bitmoji.com
 scan.snapchat.com
+ads.snapchat.com
 *.sc-core.net
 spectacles.com
 kit.snapchat.com
@@ -4177,9 +4173,9 @@ hackerone-ext-content.com
 reviewer.pullrequest.com
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-cover-photos.hackerone-user-content.com
-hackerone.live
 app.pullrequest.com
+hackerone.live
+cover-photos.hackerone-user-content.com
 www.hackerone.com
 api.hackerone.com
 hackerone.com
