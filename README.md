@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 12 21:18:56 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar 12 21:41:02 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -327,7 +327,6 @@ api.remitly.io
 cards.remitly.io
 rewire.com
 app.rewire.to
-*.worldcoin.org
 *.consumer.worldcoin.org
 toolsforhumanity.com
 getworldcoin.com
@@ -336,6 +335,7 @@ bioid-management.app
 *.worldcoin.dev
 worldcoin.org
 *.toolsforhumanity.com
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -508,10 +508,10 @@ www.fareharbor.com
 spark.fareharbor.com
 kyc-onboarding.booking.com
 secure.booking.com
-account.booking.com
-careers.booking.com
 *.booking.com
+account.booking.com
 *.rentalcars.com
+careers.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -1929,7 +1929,6 @@ http://bitso.com/alpha
 nvio.mx
 nvio.ar
 hackers_chosendomain.larksuite.com
-larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
 open.larksuite.com
@@ -1941,6 +1940,7 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
+larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2071,7 +2071,6 @@ api.adm.cloud.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 developers.tiktok.com
-business.tiktok.com
 tiktok.com
 shop.tiktok.com
 live-backstage.tiktok.com
@@ -2080,9 +2079,10 @@ fp-sg.tiktokv.com
 effecthouse.tiktok.com
 ads.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 www.pangleglobal.com
 partner.tiktokshop.com
+business.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2451,6 +2451,7 @@ mas-ext.amazon.com
 mas-sdk.amazon.com
 msh.amazon.com
 music-api.amazon.com
+music-hints-na.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2778,6 +2779,74 @@ neoket.net
 novel.pixiv.net
 https://vroid.com/studio
 coban.pixiv.net
+datapod-2-druid-ingest.production.forescoutcloud.net
+iris-testing-us-east-1-nlb-4df4bbde6f6e2bbb.elb.us-east-1.amazonaws.com
+datapod-1-100-druid-ingest.development.forescoutcloud.net
+datapod-1-100-druid-query.development.forescoutcloud.net
+datapod-1-100-druid-ingest.testing.forescoutcloud.net
+a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com
+datapod-1-druid-ingest.production.forescoutcloud.net
+datapod-1-100-druid-query.production.forescoutcloud.net
+logstash-props.devicecloud.acceptance.forescoutcloud.net
+datapod-2-ingest.acceptance.forescoutcloud.net
+www.forescout.com
+datapod-2-ingest.acceptance.forescoutcloud.net
+datapod-2-query.acceptance.forescoutcloud.net
+datapod-1-ingest.production.forescoutcloud.net
+datapod-1-query.production.forescoutcloud.net
+mgmtpod-1-dashboard.production.forescoutcloud.net
+mgmtpod-1.production.forescoutcloud.net
+logstash-props.devicecloud.acceptance.forescoutcloud.net
+datapod-1-100-druid-ingest.development.forescoutcloud.net
+datapod-1-100-druid-query.development.forescoutcloud.net
+datapod-1-100-druid-ingest.testing.forescoutcloud.net
+a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com
+datapod-1-druid-ingest.production.forescoutcloud.net
+datapod-1-100-druid-query.production.forescoutcloud.net
+datapod-2-druid-ingest.production.forescoutcloud.net
+https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/upload
+https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/polling
+https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/package
+http://logstash-props.devicecloud.production.forescoutcloud.net/api/v1/properties
+http://backend-api.devicecloud.production.forescoutcloud.net/api/v1/settings
+http://datapod-1-druid-ingest.production.forescoutcloud.net/v1/upload
+http://mgmtpod-1.production.forescoutcloud.net/oauth/token
+http://datapod-1-druid-query.production.forescoutcloud.net/v2/query/grouptogroup
+http://datapod-1-druid-query.production.forescoutcloud.net/v2/query/firstreporttimeentry
+http://datapod-1-druid-query.production.forescoutcloud.net/v2/query/iplist
+http://datapod-1-druid-query.production.forescoutcloud.net/v3/matrixoverview
+http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/overlappingzones
+http://datapod-1-druid-query.production.forescoutcloud.net/v1/query/agg
+http://datapod-1-druid-query.production.forescoutcloud.net/v1/polling
+http://datapod-1-druid-query.production.forescoutcloud.net/v2/query/overlappinggroups
+http://datapod-1-druid-query.production.forescoutcloud.net/v2/matrixoverview
+http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/zonetozone
+http://datapod-1-druid-query.production.forescoutcloud.net/v2/deletestatus
+http://datapod-1-druid-query.production.forescoutcloud.net/v2/query/ips/bysrc
+http://datapod-1-druid-query.production.forescoutcloud.net/v2/service-list
+http://datapod-1-druid-query.production.forescoutcloud.net/v2/query/ips/bydst/details
+http://datapod-1-druid-query.production.forescoutcloud.net/v2/services
+iris-testing-us-east-1-nlb-4df4bbde6f6e2bbb.elb.us-east-1.amazonaws.com
+updates.forescout.com
+streaming.iris.acceptance.forescoutcloud.net
+app.iris.acceptance.forescoutcloud.net
+mgmt-sensors.iris.acceptance.forescoutcloud.net
+obs-sensors.iris.acceptance.forescoutcloud.net
+streaming-api.iris.acceptance.forescoutcloud.net
+aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com
+streaming.iris.production.forescoutcloud.net
+app.iris.production.forescoutcloud.net
+mgmt-sensors.iris.production.forescoutcloud.net
+obs-sensors.iris.production.forescoutcloud.net
+streaming-api.iris.production.forescoutcloud.net
+ab2b0c50cdc7b445391f99d4957850c5-cd4ccfdb37dfafad.elb.us-east-1.amazonaws.com
+streaming-gw.iris.production.forescoutcloud.net
+community.forescout.com
+us.forescout.cloud
+uk.forescout.cloud
+de.forescout.cloud
+cysiv.com
+app.command.cysiv.com
 api.rezserver.com
 admin.rezserver.com
 www.priceline.com
@@ -2853,7 +2922,6 @@ dashboard.omise.co
 offsite.omise.co
 www.omise.co
 www.opn.ooo
-hyatt.com
 www.hyatt.com
 world.hyatt.com
 salesportal.hyatt.com
@@ -2899,6 +2967,7 @@ new.www.vaxvacationaccess.com
 res.blueskytours.globalbookingsolutions.com
 res.fr.travelbrandsagent.com
 res.southwestvacations.com
+res.universalorlandovacations.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -3227,7 +3296,6 @@ api.foliofn.com
 *.foliofirst.com
 *.folioinvesting.com
 developer.valvesoftware.com
-www.teamfortress.com
 www.counter-strike.net
 www.dota2.com
 support.steampowered.com
@@ -3239,6 +3307,7 @@ playartifact.com
 help.steampowered.com
 api.steampowered.com
 steamcommunity.com
+www.teamfortress.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3253,7 +3322,6 @@ playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
 www.crypto.com
-*.crypto.com
 auth.crypto.com
 pay.crypto.com
 app.mona.co
@@ -3261,6 +3329,7 @@ tax.crypto.com
 *.mona.co
 js.crypto.com
 merchant.crypto.com
+*.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3781,7 +3850,6 @@ www.udemy.com
 yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
-*.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
 linkpop.com
@@ -3795,6 +3863,7 @@ accounts.shopify.com
 admin.shopify.com
 partners.shopify.com
 your-store.myshopify.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -4088,11 +4157,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
-api.coinbase.com
 institutional.coinbase.com
 *.base.org
 international.coinbase.com
@@ -4139,9 +4208,9 @@ slack-imgs.com
 spaces.pm
 www.quip.com
 *.quip.com
-data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
+proddata.xobni.yahoo.com
 data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
@@ -4161,7 +4230,6 @@ hackathon-photos.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
-hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
@@ -4170,6 +4238,7 @@ ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
 hackerone.com
+hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
