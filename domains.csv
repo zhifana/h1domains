@@ -38,7 +38,7 @@ dyson,www.dyson.com.mx,True
 dyson,www.dyson.com.sg,True
 dyson,www.dyson.co.kr,True
 dyson,www.dyson.co.nz,True
-dyson,www.dyson.com.tr,True
+dyson,www.dyson.ae,True
 dyson,*.dyson.com,True
 dyson,www.dyson.co.uk,True
 dyson,www.dyson.com,True
@@ -315,8 +315,8 @@ truecaller_bbp,webonboarding-eu.truecaller.com,True
 remitly,cards.remitly.io,True
 remitly,rewire.com,True
 remitly,app.rewire.to,True
-remitly,remitly.com,True
 remitly,api.remitly.io,True
+remitly,remitly.com,True
 remitly,remitly.com,True
 remitly,api.remitly.io,True
 remitly,cards.remitly.io,True
@@ -438,9 +438,9 @@ fireblocks,sandbox.fireblocks.io,True
 fireblocks,http://sb-mobile-api.fireblocks.io,True
 fireblocks,http://sb-console-api.fireblocks.io,True
 fireblocks,http://sandbox-api.fireblocks.io,True
-dynatrace,sso-sprint.dynatracelabs.com,True
 dynatrace,account-sprint.dynatracelabs.com,True
 dynatrace,*.sprint.dynatracelabs.com,True
+dynatrace,sso-sprint.dynatracelabs.com,True
 dynatrace,university-staging.dynatracelabs.com,True
 dynatrace,myaccount-hardening.dynatracelabs.com,True
 dynatrace,*.sprint.apps.dynatracelabs.com,True
@@ -471,9 +471,9 @@ hostinger,logo.zyro.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,hpanel.hostinger.com,True
 hostinger,payments.hostinger.com,True
-hostinger,www.hostinger.com,True
 hostinger,www.niagahoster.co.id,True
 hostinger,*.000webhost.com,True
+hostinger,www.hostinger.com,True
 hostinger,*.000webhost.com,True
 hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
@@ -547,7 +547,6 @@ temu,www.temu.com,True
 temu,www.temu.com,True
 bookingcom,booking.com,True
 bookingcom,careers.booking.com,True
-bookingcom,account.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,paymentcomponent.booking.com,True
 bookingcom,metasearch-api.booking.com,True
@@ -570,12 +569,13 @@ bookingcom,secure-supply-xml.booking.com,True
 bookingcom,taxi.booking.com,True
 bookingcom,widget.rentalcars.com,True
 bookingcom,cars.booking.com,True
-bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,www.fareharbor.com,True
 bookingcom,spark.fareharbor.com,True
 bookingcom,kyc-onboarding.booking.com,True
 bookingcom,secure.booking.com,True
+bookingcom,account.booking.com,True
+bookingcom,*.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
@@ -3330,8 +3330,8 @@ prolinx-vdp,mail1.wspsecure.co.uk,False
 prolinx-vdp,skanska-secure-partner.co.uk,False
 prolinx-vdp,www.prolinx.co.uk,False
 floqast,api-eu.floqast.app,True
-floqast,*.floqast.app,True
 floqast,*.eu.floqast.app,True
+floqast,*.floqast.app,True
 floqast,*.eu.floqast.app,True
 floqast,*.floqast.app,True
 floqast,api-eu.floqast.app,True
@@ -5475,7 +5475,6 @@ evernote,api.evernote.com,True
 evernote,accounts.stage.evernote.com,False
 evernote,api.stage.evernote.com,False
 epicgames,*.unrealtournament.com,True
-epicgames,*.rocketleague.com,True
 epicgames,*.psynet.gg,True
 epicgames,*.epicgames.dev,True
 epicgames,metahuman.unrealengine.com,True
@@ -5490,9 +5489,10 @@ epicgames,*.cubicmotion.com,True
 epicgames,*.oncatapult.com,True
 epicgames,*.fallguys.com,True
 epicgames,*.easy.ac,True
-epicgames,*.sketchfab.com,True
 epicgames,*.quixel.com,True
 epicgames,*.superawesome.tv,True
+epicgames,*.superawesome.com,True
+epicgames,*.popjam.com,True
 epicgames,*.rocketleague.com,True
 epicgames,*.psynet.gg,True
 epicgames,*.unrealtournament.com,True
@@ -6259,7 +6259,6 @@ aig,www.aig.com.br,False
 aig,www-264.aig.com,False
 aig,www.vfis.com,False
 aig,www.glatfelters.com,False
-aig,*.aig.com,False
 aig,*.myretirementmanager.com,False
 aig,www.layahealthcare.ie,False
 aig,services.aig.co.il,False
@@ -6274,6 +6273,7 @@ aig,*.aig.co.jp,False
 aig,www.corebridgefinancial.com,False
 aig,www.lifeandretirement.aig.com,False
 aig,*.corebridgefinancial.com,False
+aig,*.aig.com,False
 aig,*.aig.com,False
 aig,*.myretirementmanager.com,False
 aig,*.corebridgefinancial.com,False
@@ -6418,6 +6418,7 @@ zebra_vdp,takeback.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,*.fetchcore-cloud.com,False
 zebra_vdp,*.zebrasports.com,False
+zebra_vdp,artifactory-us.zebra.com,False
 zebra_vdp,*.cto-si.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
@@ -7187,6 +7188,7 @@ bitso,http://bitso.com/alpha,True
 bitso,nvio.mx,True
 bitso,nvio.ar,True
 lark_technologies,hackers_chosendomain.larksuite.com,True
+lark_technologies,larksuite.com,True
 lark_technologies,lark-frontier.byteoversea.com,True
 lark_technologies,file.larksuite.com,True
 lark_technologies,open.larksuite.com,True
@@ -7198,7 +7200,6 @@ lark_technologies,passport.larksuite.com,True
 lark_technologies,internal-api.larksuite.com,True
 lark_technologies,internal-api-lark-api.larksuite.com,True
 lark_technologies,internal-api-drive-stream.larksuite.com,True
-lark_technologies,larksuite.com,True
 lark_technologies,larksuite.com,True
 lark_technologies,lark-frontier.byteoversea.com,True
 lark_technologies,file.larksuite.com,True
@@ -7306,10 +7307,10 @@ netlify,netlify-rum.netlify.app,True
 netlify,list-v2--netlify-plugins.netlify.app,True
 netlify,internal-docs.netlify.com,True
 netlify,supportal.netlify.app,True
-basecamp,3.basecamp.com,True
 basecamp,launchpad.37signals.com,True
 basecamp,*.hey.com,True
 basecamp,world.hey.com,True
+basecamp,3.basecamp.com,True
 basecamp,*.hey.com,True
 basecamp,3.basecamp.com,True
 basecamp,launchpad.37signals.com,True
@@ -7385,10 +7386,10 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,fp-sg.tiktokv.com,True
 tiktok,effecthouse.tiktok.com,True
-tiktok,*.tiktokv.com,True
 tiktok,partner.tiktokshop.com,True
 tiktok,ads.tiktok.com,True
 tiktok,*.tiktok.com,True
+tiktok,*.tiktokv.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -7892,7 +7893,6 @@ insulet_corporation,www.omnipod.com,False
 insulet_corporation,www.insulet.com,False
 amazonvrp,music.amazon.com,True
 amazonvrp,chat.amazon.com,True
-amazonvrp,affiliate-program.amazon.com,True
 amazonvrp,track.amazon.com,True
 amazonvrp,api.amazon.com,True
 amazonvrp,manufacturing.amazon.com,True
@@ -7914,6 +7914,7 @@ amazonvrp,ftvsacs-na.amazon.com,True
 amazonvrp,gateway-ink.amazon.com,True
 amazonvrp,imdbtv-backend-na.amazon.com,True
 amazonvrp,mas-ext.amazon.com,True
+amazonvrp,mas-sdk.amazon.com,True
 amazonvrp,*.amazon.cl,True
 amazonvrp,*.amazon.co.za,True
 amazonvrp,*.amazon.com.au,True
@@ -8420,9 +8421,9 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,get8x8.com,False
 8x8,sso.8x8.com,False
 8x8,*.mycontactual.com,False
-8x8,*.8x8.vc,False
 8x8,*.jitsi.org,False
 8x8,*.jit.si,False
+8x8,*.8x8.vc,False
 8x8,*.wavecell.com,False
 8x8,*.8x8.id,False
 8x8,*.8x8.uk,False
@@ -9656,7 +9657,6 @@ arkadiyt-projects,*.arkadiyt.com,False
 liberapay,*.liberapay.com,True
 liberapay,*.liberapay.com,True
 goldmansachs,*.marcus.co.uk,True
-goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
 goldmansachs,*.marcus.com,True
 goldmansachs,*.honestdollar.com,True
@@ -9763,11 +9763,11 @@ crypto,www.crypto.com,True
 crypto,*.crypto.com,True
 crypto,auth.crypto.com,True
 crypto,pay.crypto.com,True
-crypto,js.crypto.com,True
 crypto,app.mona.co,True
 crypto,tax.crypto.com,True
 crypto,*.mona.co,True
 crypto,merchant.crypto.com,True
+crypto,js.crypto.com,True
 crypto,*.crypto.com,True
 crypto,*.mona.co,True
 crypto,www.crypto.com,True
@@ -9823,7 +9823,6 @@ coalition,api.thecoalition.com,False
 coalition,coalitioninc.com,False
 toyota,www.dashboard.gatekeepers.co.in,False
 toyota,www.toyotaconnected.co.in,False
-toyota,www.toyota.com,False
 toyota,www.lexus.com,False
 toyota,www.toyotaconnected.com,False
 toyota,www.toyotafinancialpr.com,False
@@ -9840,6 +9839,7 @@ toyota,www.toyotacertificados.com,False
 toyota,www.toyotacertified.com,False
 toyota,www.toyotafinancial.com,False
 toyota,www.login.gac.toyota.com,False
+toyota,www.toyota.com,False
 toyota,www.dashboard.gatekeepers.co.in,False
 toyota,www.toyotaconnected.co.in,False
 toyota,www.toyota.com,False
@@ -10930,6 +10930,7 @@ slack,slack-imgs.com,True
 slack,spaces.pm,True
 slack,www.quip.com,True
 slack,*.quip.com,True
+yahoo,data.mail.yahoo.com,True
 yahoo,data.mail.yahoo.com,True
 yahoo,le.yahooapis.com,True
 yahoo,onepush.query.yahoo.com,True

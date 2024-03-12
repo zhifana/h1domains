@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 12 19:19:35 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar 12 19:42:16 UTC 2024)
 ```
 *.dyson.com
 www.dyson.co.uk
@@ -43,7 +43,7 @@ www.dyson.com.mx
 www.dyson.com.sg
 www.dyson.co.kr
 www.dyson.co.nz
-www.dyson.com.tr
+www.dyson.ae
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -320,8 +320,8 @@ webonboarding-eu.truecaller.com
 cards.remitly.io
 rewire.com
 app.rewire.to
-remitly.com
 api.remitly.io
+remitly.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -388,9 +388,9 @@ sandbox.fireblocks.io
 http://sb-mobile-api.fireblocks.io
 http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
-sso-sprint.dynatracelabs.com
 account-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
+sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
@@ -413,9 +413,9 @@ logo.zyro.com
 cpanel.hostinger.com
 hpanel.hostinger.com
 payments.hostinger.com
-www.hostinger.com
 www.niagahoster.co.id
 *.000webhost.com
+www.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -483,7 +483,6 @@ www.temu.com
 www.temu.com
 booking.com
 careers.booking.com
-account.booking.com
 supplier.auth.toag.booking.com
 paymentcomponent.booking.com
 metasearch-api.booking.com
@@ -506,12 +505,13 @@ secure-supply-xml.booking.com
 taxi.booking.com
 widget.rentalcars.com
 cars.booking.com
-*.booking.com
 *.rentalcars.com
 www.fareharbor.com
 spark.fareharbor.com
 kyc-onboarding.booking.com
 secure.booking.com
+account.booking.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -885,8 +885,8 @@ monitor.mozilla.org
 www.six-group.com
 www.six-group.com
 api-eu.floqast.app
-*.floqast.app
 *.eu.floqast.app
+*.floqast.app
 *.eu.floqast.app
 *.floqast.app
 api-eu.floqast.app
@@ -1554,7 +1554,6 @@ www.evernote.com
 accounts.evernote.com
 api.evernote.com
 *.unrealtournament.com
-*.rocketleague.com
 *.psynet.gg
 *.epicgames.dev
 metahuman.unrealengine.com
@@ -1569,9 +1568,10 @@ twinmotion.unrealengine.com
 *.oncatapult.com
 *.fallguys.com
 *.easy.ac
-*.sketchfab.com
 *.quixel.com
 *.superawesome.tv
+*.superawesome.com
+*.popjam.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -1929,6 +1929,7 @@ http://bitso.com/alpha
 nvio.mx
 nvio.ar
 hackers_chosendomain.larksuite.com
+larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
 open.larksuite.com
@@ -1940,7 +1941,6 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
-larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2002,10 +2002,10 @@ netlify-rum.netlify.app
 list-v2--netlify-plugins.netlify.app
 internal-docs.netlify.com
 supportal.netlify.app
-3.basecamp.com
 launchpad.37signals.com
 *.hey.com
 world.hey.com
+3.basecamp.com
 *.hey.com
 3.basecamp.com
 launchpad.37signals.com
@@ -2079,10 +2079,10 @@ academy-outbound-ads.tiktok.com
 www.pangleglobal.com
 fp-sg.tiktokv.com
 effecthouse.tiktok.com
-*.tiktokv.com
 partner.tiktokshop.com
 ads.tiktok.com
 *.tiktok.com
+*.tiktokv.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2428,7 +2428,6 @@ super6.skysports.com
 itv7.itv.com
 music.amazon.com
 chat.amazon.com
-affiliate-program.amazon.com
 track.amazon.com
 api.amazon.com
 manufacturing.amazon.com
@@ -2450,6 +2449,7 @@ ftvsacs-na.amazon.com
 gateway-ink.amazon.com
 imdbtv-backend-na.amazon.com
 mas-ext.amazon.com
+mas-sdk.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -3223,7 +3223,6 @@ www.shipt.com
 *.liberapay.com
 *.liberapay.com
 *.marcus.co.uk
-*.gs.com
 *.goldman.com
 *.marcus.com
 *.honestdollar.com
@@ -3324,11 +3323,11 @@ www.crypto.com
 *.crypto.com
 auth.crypto.com
 pay.crypto.com
-js.crypto.com
 app.mona.co
 tax.crypto.com
 *.mona.co
 merchant.crypto.com
+js.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -4207,6 +4206,7 @@ slack-imgs.com
 spaces.pm
 www.quip.com
 *.quip.com
+data.mail.yahoo.com
 data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
