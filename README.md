@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 12 05:20:37 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar 12 05:42:11 UTC 2024)
 ```
 www.dyson.no
 api.dyson.se
@@ -306,9 +306,9 @@ webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
 api.remitly.io
+app.rewire.to
 rewire.com
 remitly.com
-app.rewire.to
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -438,17 +438,17 @@ www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
 www.mercadopago.com.ar
-www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadolibre.com.pe
+www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadolibre.cl
 www.mercadolibre.com.co
-www.mercadopago.com.br
 www.mercadolibre.com.ar
 api.mercadolibre.com
+www.mercadopago.com.br
 www.mercadolivre.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -549,8 +549,8 @@ api2.frontapp.com
 *.booztlet.com
 *.trip.com
 *.trip.com
-api.mergify.com
 dashboard.mergify.com
+api.mergify.com
 api.mergify.com
 dashboard.mergify.com
 www.compass.com
@@ -689,7 +689,6 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
-www.authorize.net
 www.cybersource.com
 visa.com.au
 www.fraedom.com
@@ -698,8 +697,9 @@ www.visa.co.in
 www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
-cw.visa.com
+www.authorize.net
 www.visa.com.mx
+cw.visa.com
 bb.visa.com
 www.tink.com
 www.visa.com.ng
@@ -786,8 +786,8 @@ api.avtoelon.uz
 m.avtoelon.uz
 avtoelon.uz
 m.kolesa.kz
-id.kolesa.kz
 krisha.kz
+id.kolesa.kz
 kolesa.kz
 kolesa.kz
 m.kolesa.kz
@@ -813,10 +813,10 @@ push.services.mozilla.com
 crash-stats.allizom.org
 shavar.services.mozilla.com
 crash-reports.allizom.org
+aus5.mozilla.org
 hg.mozilla.org
 phabricator.allizom.org
 contile.services.mozilla.com
-aus5.mozilla.org
 sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
@@ -973,9 +973,9 @@ http://miro.com/blog
 oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mb-cosmos.com
+*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
-*.cloud.malwarebytes.com
 *.mwbsys.com
 my.malwarebytes.com
 www.malwarebytes.com
@@ -1051,8 +1051,8 @@ voapi.8x8.com
 admin.8x8.com
 *.jit.si
 connect.8x8.com
-cloud8.8x8.com
 *.8x8.vc
+cloud8.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1087,8 +1087,8 @@ admin.8x8.com
 *.magicjackpot.ro
 *.napoleongames.be
 *.napoleoncasino.be
-*.superbet.pl
 *.superbet.rs
+*.superbet.pl
 *.superbet.ro
 *.superbet.com
 *.superbet.ro
@@ -1501,8 +1501,8 @@ download.krisp.ai
 teams.krisp.ai
 krisp.ai
 *.krisp.ai
-api.krisp.ai
 account.krisp.ai
+api.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1782,19 +1782,19 @@ mod.reddit.com
 *.redditinc.com
 api.reddit.com
 *.redditmedia.com
-gql.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 oauth.reddit.com
 new.reddit.com
+gql.reddit.com
 ads.reddit.com
 *.snooguts.net
 *.reddit.com
 ads-api.reddit.com
 old.reddit.com
-*.reddithelp.com
 accounts.reddit.com
 www.reddit.com
+*.reddithelp.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2048,8 +2048,8 @@ www.pangleglobal.com
 business.tiktok.com
 partner.tiktokshop.com
 live-backstage.tiktok.com
-ads.tiktok.com
 *.tiktok.com
+ads.tiktok.com
 tiktok.com
 *.tiktokv.com
 *.tiktok.com
@@ -2123,8 +2123,12 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
-app.superdrug.com
-api.superdrug.com
+www10.watsons.com.vn
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+app.marionnaud.fr
+mapi.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
@@ -2134,8 +2138,6 @@ api.watsons.com.tw
 www10.watsons.com.ph
 www.watsons.co.th
 www20.watsons.co.th
-www10.watsons.co.th
-api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -3034,12 +3036,12 @@ m.4njbets.tvg.com
 promos.tvg.com
 mobile-prod.tvg.com
 sportsbook.fanduel.com
-tvg.com
 *racing.fanduel.com
+tvg.com
 us.tvg.com
 com.fanduel.android.live
-www.4njbets.com
 www.tvg.com
+www.4njbets.com
 fdbox.net
 *.fanduel.com
 *.fanduel.com
@@ -3095,9 +3097,9 @@ paypalobjects.com
 *.braintreegateway.com
 *.paypalcorp.com
 my.swiftfinancial.com
+www.loanbuilder.com
 api.loanbuilder.com
 *.paypal.com
-www.loanbuilder.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3327,10 +3329,10 @@ hybrid-analysis.com
 *.reposify.com
 *.bionic.ai
 *.preempt.com
-falcon-sandbox.com
 www.crowdstrike.com
 *.crowdstrike.com
 *.humio.com
+falcon-sandbox.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3799,12 +3801,12 @@ arrive-server.shopifycloud.com
 shopifyinbox.com
 *.shopifycs.com
 *.shopify.com
+partners.shopify.com
 accounts.shopify.com
 *.shopify.io
-partners.shopify.com
-shop.app
 your-store.myshopify.com
 admin.shopify.com
+shop.app
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3929,8 +3931,8 @@ api.airbnb.com
 *.hoteltonight-test.com
 *.withairbnb.com
 *.airbnb.com
-www.airbnb.com
 www.hoteltonight.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4099,8 +4101,8 @@ commerce.coinbase.com
 nft.coinbase.com
 cloud.coinbase.com
 coinbase.com
-api.coinbase.com
 *.base.org
+api.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -4166,11 +4168,11 @@ cover-photos.hackerone-user-content.com
 hackerone-user-content.com
 api.hackerone.com
 www.hackerone.com
-hackerone-ext-content.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-reviewer.pullrequest.com
 ctf.hacker101.com
 hackerone.com
+hackerone-ext-content.com
+reviewer.pullrequest.com
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
