@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 12 22:17:44 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar 12 22:42:44 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -320,9 +320,9 @@ webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
 rewire.com
-app.rewire.to
 api.remitly.io
 remitly.com
+app.rewire.to
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -509,8 +509,8 @@ www.fareharbor.com
 spark.fareharbor.com
 kyc-onboarding.booking.com
 secure.booking.com
-account.booking.com
 *.booking.com
+account.booking.com
 *.rentalcars.com
 careers.booking.com
 *.booking.com
@@ -557,8 +557,8 @@ api2.frontapp.com
 app.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -901,8 +901,8 @@ hiltonhotels.jp
 hilton.com.tr
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-*.hilton.com.tr
 *.hilton.com
+*.hilton.com.tr
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -2854,9 +2854,7 @@ www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
-www.bookingholdings.com
 press.priceline.com
-priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3061,12 +3059,10 @@ grammarly.ai
 *.grammarlyaws.com
 *.grammarly.com
 grammarly.ai
-fdbox.net
 fanduel.design
 com.fanduel.android.live
 sportsbook.fanduel.com
 *racing.fanduel.com
-tvg.com
 4njbets.tvgnetwork.com
 www.tvg.com
 b2b.tvgnetwork.com
@@ -3083,6 +3079,8 @@ service.tvg.com
 us.tvg.com
 www.4njbets.com
 *.fanduel.com
+tvg.com
+fdbox.net
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3305,10 +3303,10 @@ www.valvesoftware.com
 partner.steamgames.com
 playartifact.com
 api.steampowered.com
-steamcommunity.com
 www.teamfortress.com
 help.steampowered.com
 store.steampowered.com
+steamcommunity.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3639,8 +3637,8 @@ secureui.starbucks.com
 card.starbucks.com.sg
 www.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
 www.starbucks.co.kr
+gift.starbucks.co.jp
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3860,11 +3858,11 @@ shopify.plus
 arrive-server.shopifycloud.com
 *.shopifycs.com
 accounts.shopify.com
-admin.shopify.com
 partners.shopify.com
 your-store.myshopify.com
 *.shopify.io
 *.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3994,8 +3992,8 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 *.hoteltonight-test.com
 www.hoteltonight.com
-www.airbnb.com
 *.airbnbcitizen.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4158,17 +4156,17 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
-api.coinbase.com
 *.base.org
 international.coinbase.com
 nft.coinbase.com
-cloud.coinbase.com
 coinbase.com
+cloud.coinbase.com
 *.coinbase.com
 *.coinbase.com
 *.cbhq.net
