@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 11 23:41:50 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar 12 00:59:27 UTC 2024)
 ```
 www.dyson.no
 api.dyson.se
@@ -29,6 +29,7 @@ api.dyson.ie
 www.dyson.co.kr
 www.dyson.pt
 www.dyson.fr
+api.dyson.dk
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -88,7 +89,6 @@ www.dyson.vn
 www.dyson.cn
 shop.dyson.ru
 *.dyson.com
-business.truecaller.com
 pixel.truecaller.com
 placement-rules-noneu.truecaller.com
 premium-noneu.truecaller.com
@@ -137,6 +137,7 @@ web-consent-noneu.truecaller.com
 web.truecaller.com
 webdirectory-noneu.truecaller.com
 webonboarding-noneu.truecaller.com
+premium-eu.truecaller.com
 business.truecaller.com
 account-noneu.truecaller.com
 account-onboarding-noneu.truecaller.com
@@ -304,9 +305,9 @@ webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
 api.remitly.io
-remitly.com
-rewire.com
 app.rewire.to
+rewire.com
+remitly.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -362,8 +363,8 @@ www.sheer.com
 my.sheer.com
 www.ddfcontent.com
 www.analvids.com
-www.pornbox.com
 www.pornworld.com
+www.pornbox.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -399,8 +400,8 @@ cpanel.hostinger.com
 logo.zyro.com
 www.zyro.com
 www.hostinger.com
-hpanel.hostinger.com
 *.000webhost.com
+hpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -420,8 +421,8 @@ medical.23andme.com
 you.23andme.com
 mediacenter.23andme.com
 api.23andme.com
-auth.23andme.com
 therapeutics.23andme.com
+auth.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -435,7 +436,6 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
-www.mercadopago.com.ar
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
@@ -444,10 +444,11 @@ www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadolibre.cl
 www.mercadolibre.com.co
+www.mercadopago.com.ar
 www.mercadolibre.com.ar
-api.mercadolibre.com
-www.mercadopago.com.br
 www.mercadolivre.com.br
+www.mercadopago.com.br
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -467,7 +468,6 @@ www.mercadopago.cl
 www.temu.com
 www.temu.com
 kyc-onboarding.booking.com
-taxi.booking.com
 supplier.auth.toag.booking.com
 autocomplete.booking.com
 paynotifications.booking.com
@@ -497,6 +497,7 @@ booking.com
 account.booking.com
 secure.booking.com
 *.booking.com
+taxi.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -687,7 +688,6 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
-www.authorize.net
 www.cybersource.com
 visa.com.au
 www.fraedom.com
@@ -696,8 +696,9 @@ www.visa.co.in
 www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
-cw.visa.com
+www.authorize.net
 www.visa.com.mx
+cw.visa.com
 bb.visa.com
 www.tink.com
 www.visa.com.ng
@@ -1019,8 +1020,8 @@ tequila.kiwi.com
 jobs.kiwi.com
 www.kiwi.com
 *.skypicker.com
-auth.skypicker.com
 *.kiwi.com
+auth.skypicker.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1049,8 +1050,8 @@ voapi.8x8.com
 admin.8x8.com
 *.jit.si
 connect.8x8.com
-*.8x8.vc
 cloud8.8x8.com
+*.8x8.vc
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1499,8 +1500,8 @@ download.krisp.ai
 teams.krisp.ai
 krisp.ai
 *.krisp.ai
-account.krisp.ai
 api.krisp.ai
+account.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -2107,8 +2108,8 @@ app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
-*.acronis.work
 beta-cloud.acronis.com
+*.acronis.work
 *.5nine.com
 *.acronis.com
 account.acronis.com
@@ -2121,12 +2122,8 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
-www10.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-app.marionnaud.fr
-mapi.moneyback.com.hk
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
@@ -2136,6 +2133,8 @@ api.watsons.com.tw
 www10.watsons.com.ph
 www.watsons.co.th
 www20.watsons.co.th
+www10.watsons.co.th
+api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2502,14 +2501,14 @@ read.amazon.com
 updates.amazon.com
 *.alimama.com
 *.aliexpress.ru
-*.1688.com
 *.alibabacloud.com
 *.aliyun-inc.com
 www.alibabagroup.com
 *.tmall.com
-*.Daraz.com
 *.aliyun.com
+*.Daraz.com
 *.alibaba.com
+*.1688.com
 *.alibaba-inc.com
 *.taobao.com
 *.aliexpress.com
@@ -2565,10 +2564,10 @@ www.32red.com
 *.vladcazino.ro
 *.kes.kindredext.net
 *.unibet.fr
-*.unibet.com
 *.mariacasino.com
 *.casinohuone.com
 *.bingo.com
+*.unibet.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2591,9 +2590,9 @@ gatewaydsaptst2.marriott.com
 gatewaydsapdev2.marriott.com
 marriottfranchisetransactions.marriott.com
 passwordchallenge.marriott.com
+cpp.marriott.com
 gatewaydsaptst1.marriott.com
 mgs.marriott.com
-cpp.marriott.com
 hotel-deals.marriott.com
 jobs.marriott.com
 www.ritzcarlton.com
@@ -2603,13 +2602,13 @@ all-inclusive.marriott.com
 careers.marriott.com
 moments.marriottbonvoy.com
 marrtool.com
-reservations.all-inclusive.marriott.com
 mipartnerprivileges.marriott.com
+reservations.all-inclusive.marriott.com
 homes-and-villas.marriott.com
 help.marriott.com
 www.marriott.com
-travelagents.marriott.com/
 traveler.marriott.com
+travelagents.marriott.com/
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -3035,14 +3034,14 @@ m.4njbets.tvg.com
 promos.tvg.com
 mobile-prod.tvg.com
 sportsbook.fanduel.com
-tvg.com
 *racing.fanduel.com
+tvg.com
 us.tvg.com
 com.fanduel.android.live
+www.tvg.com
 www.4njbets.com
 fdbox.net
 *.fanduel.com
-www.tvg.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3096,9 +3095,9 @@ paypalobjects.com
 *.braintreegateway.com
 *.paypalcorp.com
 my.swiftfinancial.com
+www.loanbuilder.com
 api.loanbuilder.com
 *.paypal.com
-www.loanbuilder.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3265,7 +3264,6 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-app.mona.co
 auth.crypto.com
 js.crypto.com
 merchant.crypto.com
@@ -3274,6 +3272,7 @@ tax.crypto.com
 *.mona.co
 www.crypto.com
 pay.crypto.com
+app.mona.co
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3384,8 +3383,8 @@ privatetarget-1-www.zigzag
 *.sellzone.com
 *.semrush.net
 *.myinsights.io
-*.semrush.com
 *.seoquake.com
+*.semrush.com
 *.semrush.com
 *.semrush.net
 *.seoquake.com
@@ -3793,19 +3792,19 @@ yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 linkpop.com
-*.shopifykloud.com
 shopify.plus
+*.shopifykloud.com
 arrive-server.shopifycloud.com
 *.shopifycloud.com
 shopifyinbox.com
 *.shopifycs.com
 *.shopify.com
+partners.shopify.com
 accounts.shopify.com
 *.shopify.io
-partners.shopify.com
-shop.app
 your-store.myshopify.com
 admin.shopify.com
+shop.app
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -4168,10 +4167,10 @@ hackerone-user-content.com
 api.hackerone.com
 www.hackerone.com
 hackerone-ext-content.com
-hackerone.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 reviewer.pullrequest.com
 ctf.hacker101.com
+hackerone.com
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
