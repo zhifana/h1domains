@@ -38,6 +38,7 @@ dyson,www.dyson.com.mx,True
 dyson,www.dyson.com.sg,True
 dyson,www.dyson.co.kr,True
 dyson,www.dyson.co.nz,True
+dyson,www.dyson.com.tr,True
 dyson,*.dyson.com,True
 dyson,www.dyson.co.uk,True
 dyson,www.dyson.com,True
@@ -311,11 +312,11 @@ truecaller_bbp,verification-eu.truecaller.com,True
 truecaller_bbp,video-callerid-eu.truecaller.com,True
 truecaller_bbp,webdirectory-eu.truecaller.com,True
 truecaller_bbp,webonboarding-eu.truecaller.com,True
-remitly,api.remitly.io,True
 remitly,cards.remitly.io,True
 remitly,rewire.com,True
 remitly,app.rewire.to,True
 remitly,remitly.com,True
+remitly,api.remitly.io,True
 remitly,remitly.com,True
 remitly,api.remitly.io,True
 remitly,cards.remitly.io,True
@@ -437,9 +438,9 @@ fireblocks,sandbox.fireblocks.io,True
 fireblocks,http://sb-mobile-api.fireblocks.io,True
 fireblocks,http://sb-console-api.fireblocks.io,True
 fireblocks,http://sandbox-api.fireblocks.io,True
+dynatrace,sso-sprint.dynatracelabs.com,True
 dynatrace,account-sprint.dynatracelabs.com,True
 dynatrace,*.sprint.dynatracelabs.com,True
-dynatrace,sso-sprint.dynatracelabs.com,True
 dynatrace,university-staging.dynatracelabs.com,True
 dynatrace,myaccount-hardening.dynatracelabs.com,True
 dynatrace,*.sprint.apps.dynatracelabs.com,True
@@ -1540,8 +1541,8 @@ cbre,flatfileui.brokerhub.cbre.com,False
 cbre,flooredproducts.cbre.com,False
 cbre,fmdashboard.cbre.com,False
 cbre,fmsdemo-aws.dev.gcso.cbre.com,False
-fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
+fronthq,app.frontapp.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 boozt,*.boozt.com,True
@@ -3734,7 +3735,6 @@ kkr_vdp,ksam.com,False
 8x8-bounty,cloud8.8x8.com,True
 8x8-bounty,pay.8x8.com,True
 8x8-bounty,admin.8x8.com,True
-superbet,*.superbet.com,True
 superbet,*.superbet.rs,True
 superbet,*.magicjackpot.ro,True
 superbet,*.superbet.ro,True
@@ -3746,6 +3746,7 @@ superbet,*.napoleondice.be,True
 superbet,*.napoleongames.be,True
 superbet,*.napoleonsports.be,True
 superbet,*.superbet.pl,True
+superbet,*.superbet.com,True
 superbet,*.superbet.ro,True
 superbet,*.superbet.rs,True
 superbet,*.superbet.com,True
@@ -3996,10 +3997,10 @@ teleport,*.gravitational.co,True
 teleport,teleport.sh,True
 teleport,*.gravitational.io,True
 teleport,*.teleportinfra.sh,True
-teleport,askpam.ai,True
 teleport,cloud.gravitational.io,True
 teleport,h1-your-domain.teleport.sh,False
 teleport,platform.teleport.sh,True
+teleport,askpam.ai,True
 teleport,*.goteleport.com,True
 teleport,*.gravitational.com,True
 teleport,*.teleport.dev,True
@@ -4017,7 +4018,6 @@ avalara,*.papercrane.io,False
 avalara,*.inposia.com,False
 avalara,*.netleglobal.com,False
 avalara,*.crowdreason.com,False
-avalara,*.track1099.com,False
 avalara,*.3ce.com,False
 avalara,*.davosalestax.com,False
 avalara,*.ttrus.com,False
@@ -4025,6 +4025,7 @@ avalara,*.impendulo.com,False
 avalara,*.avalara.com,False
 avalara,*.avalara.net,False
 avalara,*.avalara.io,False
+avalara,*.track1099.com,False
 avalara,*.avalara.com,False
 avalara,*.avalara.net,False
 avalara,*.avalara.io,False
@@ -5388,13 +5389,13 @@ krisp,teams.krisp.ai,True
 krisp,download.krisp.ai,True
 krisp,analytics.krisp.ai,True
 krisp,upld.krisp.ai,True
-krisp,*.krisp.ai,True
 krisp,help.krisp.ai,False
 krisp,whatsnew.krisp.ai,False
 krisp,jobs.krisp.ai,False
 krisp,resources.krisp.ai,False
 krisp,contact.krisp.ai,False
 krisp,url5145.krisp.ai,False
+krisp,*.krisp.ai,True
 krisp,*.krisp.ai,True
 krisp,krisp.ai,True
 krisp,account.krisp.ai,True
@@ -5609,7 +5610,6 @@ gsa_bbp,*.code.gov,True
 gsa_bbp,www.fedramp.gov,True
 gsa_bbp,marketplace.fedramp.gov,True
 gsa_bbp,*.search.gov,True
-gsa_bbp,www.usa.gov,True
 gsa_bbp,federalist.18f.gov,True
 gsa_bbp,cloud.gov,True
 gsa_bbp,federalist-docs.18f.gov,True
@@ -7187,7 +7187,6 @@ bitso,http://bitso.com/alpha,True
 bitso,nvio.mx,True
 bitso,nvio.ar,True
 lark_technologies,hackers_chosendomain.larksuite.com,True
-lark_technologies,larksuite.com,True
 lark_technologies,lark-frontier.byteoversea.com,True
 lark_technologies,file.larksuite.com,True
 lark_technologies,open.larksuite.com,True
@@ -7199,6 +7198,7 @@ lark_technologies,passport.larksuite.com,True
 lark_technologies,internal-api.larksuite.com,True
 lark_technologies,internal-api-lark-api.larksuite.com,True
 lark_technologies,internal-api-drive-stream.larksuite.com,True
+lark_technologies,larksuite.com,True
 lark_technologies,larksuite.com,True
 lark_technologies,lark-frontier.byteoversea.com,True
 lark_technologies,file.larksuite.com,True
@@ -7377,7 +7377,6 @@ citrix,*developer.cloud.com,False
 tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,developers.tiktok.com,True
-tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -7389,6 +7388,7 @@ tiktok,effecthouse.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,partner.tiktokshop.com,True
 tiktok,ads.tiktok.com,True
+tiktok,*.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -7824,7 +7824,6 @@ flutteruki,*.skybettest.net,True
 flutteruki,*.skybettingandgaming.design,True
 flutteruki,*.skybettingandgaming.info,True
 flutteruki,*.betsharedservices.io,True
-flutteruki,*.sportinglife.com,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
 flutteruki,*.betfair.es,True
@@ -8421,9 +8420,9 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,get8x8.com,False
 8x8,sso.8x8.com,False
 8x8,*.mycontactual.com,False
+8x8,*.8x8.vc,False
 8x8,*.jitsi.org,False
 8x8,*.jit.si,False
-8x8,*.8x8.vc,False
 8x8,*.wavecell.com,False
 8x8,*.8x8.id,False
 8x8,*.8x8.uk,False
@@ -9217,8 +9216,8 @@ equifax,*.datacredito2.com,False
 equifax,*.datacredito3.com,False
 equifax,*.equifax.cl,False
 equifax,*.equifax.com,False
-chainlink,chain.link,False
 chainlink,*.smartcontract.com,False
+chainlink,chain.link,False
 chainlink,*.smartcontract.com,False
 chainlink,chain.link,False
 priceline,api.rezserver.com,True
@@ -9229,7 +9228,6 @@ priceline,reservations.rezserver.com,True
 priceline,cruises.priceline.com,True
 priceline,www.bookingholdings.com,True
 priceline,press.priceline.com,True
-priceline,flyiin.com,True
 priceline,priceline.com,True
 priceline,www.priceline.com,True
 priceline,secure.rezserver.com,True
@@ -9537,20 +9535,11 @@ matomo,matomo.cloud,True
 matomo,matomo.cloud,True
 matomo,https://github.com/matomo-org/docker,True
 paypal,*.xoom.com,True
-paypal,*.braintreegateway.com,True
 paypal,*.paydiant.com,True
 paypal,*.venmo.com,True
 paypal,paypalobjects.com,True
 paypal,paypal.me,True
 paypal,py.pl,True
-paypal,*.braintreepayments.com,True
-paypal,*.braintree-api.com,True
-paypal,*.braintree.tools,True
-paypal,prequal.swiftfinancial.com,True
-paypal,partner.swiftfinancial.com,True
-paypal,decision.swiftfinancial.com,True
-paypal,pigeon.swiftfinancial.com,True
-paypal,scrutiny.swiftfinancial.com,True
 paypal,www.swiftcapital.com,True
 paypal,www.loanbuilder.com,True
 paypal,www.swiftfinancial.com,True
@@ -9561,10 +9550,19 @@ paypal,my.loanbuilder.com,True
 paypal,loanbuilder.com,True
 paypal,swiftfinancial.com,True
 paypal,swiftcapital.com,True
+paypal,*.braintreepayments.com,True
+paypal,*.braintree-api.com,True
+paypal,*.braintree.tools,True
+paypal,prequal.swiftfinancial.com,True
+paypal,partner.swiftfinancial.com,True
+paypal,decision.swiftfinancial.com,True
+paypal,pigeon.swiftfinancial.com,True
+paypal,scrutiny.swiftfinancial.com,True
 paypal,*.hyperwallet.com,True
 paypal,*.paylution.com,True
-paypal,*.paypal.com,True
 paypal,*.paypalcorp.com,True
+paypal,*.braintreegateway.com,True
+paypal,*.paypal.com,True
 paypal,www.paypal-*.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True
@@ -9666,7 +9664,6 @@ goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gspublishing.com,True
 goldmansachs,research.gs.com,True
 goldmansachs,*.ayco.com,True
-goldmansachs,*.gsam.com,True
 goldmansachs,*.claritymoney.com,False
 goldmansachs,*.gsselect.com,True
 goldmansachs,www.rocaton.com,True
@@ -9765,12 +9762,12 @@ valve,wiki.teamfortress.com,False
 crypto,www.crypto.com,True
 crypto,*.crypto.com,True
 crypto,auth.crypto.com,True
-crypto,merchant.crypto.com,True
 crypto,pay.crypto.com,True
 crypto,js.crypto.com,True
 crypto,app.mona.co,True
 crypto,tax.crypto.com,True
 crypto,*.mona.co,True
+crypto,merchant.crypto.com,True
 crypto,*.crypto.com,True
 crypto,*.mona.co,True
 crypto,www.crypto.com,True
@@ -9970,7 +9967,6 @@ grab,p.grabtaxi.com,True
 grab,gamma.grab.co,True
 grab,manage.grab.co,True
 grab,jira.grab.com,True
-grab,wiki.grab.com,True
 grab,api.grabpay.com,True
 grab,*.grabpay.com,True
 grab,xtramile.grabpay.com,True
@@ -9979,6 +9975,7 @@ grab,gifts.grab.com,True
 grab,*.ovo.id,True
 grab,*.taralite.com,True
 grab,kartaview.org,True
+grab,wiki.grab.com,True
 grab,*.myteksi.com,True
 grab,*.myteksi.net,True
 grab,*.grab.com,True
@@ -10035,8 +10032,8 @@ bumble,ccardsus1.badoo.com,True
 bumble,chatdate.app,True
 bumble,getofficial.co,True
 spotify,assets.spotify.com,True
-spotify,api.spotify.com,True
 spotify,backstage.io,True
+spotify,api.spotify.com,True
 spotify,assets.spotify.com,True
 spotify,api.spotify.com,True
 spotify,backstage.io,True
@@ -10436,9 +10433,9 @@ shopify,arrive-server.shopifycloud.com,True
 shopify,*.shopifycs.com,True
 shopify,your-store.myshopify.com,True
 shopify,partners.shopify.com,True
-shopify,*.shopify.io,True
 shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,*.shopify.io,True
 shopify,*.shopifycs.com,True
 shopify,*.shopify.io,True
 shopify,*.shopify.com,True
@@ -10732,7 +10729,6 @@ airbnb,*.hoteltonight-test.com,True
 airbnb,www.hoteltonight.com,True
 vimeo,*.vimeo.com,True
 vimeo,checkout.vimeo.com,True
-vimeo,www.vimeo.com,True
 vimeo,player.vimeo.com,True
 vimeo,api.vimeo.com,True
 vimeo,*.cloud.vimeo.com,True
@@ -10960,8 +10956,8 @@ security,app.pullrequest.com,True
 security,reviewer.pullrequest.com,True
 security,ctf.hacker101.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
-security,hackerone.com,True
 security,www.wearehackerone.com,True
+security,hackerone.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True

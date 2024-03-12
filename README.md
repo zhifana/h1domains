@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 12 18:44:00 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar 12 19:19:35 UTC 2024)
 ```
 *.dyson.com
 www.dyson.co.uk
@@ -43,6 +43,7 @@ www.dyson.com.mx
 www.dyson.com.sg
 www.dyson.co.kr
 www.dyson.co.nz
+www.dyson.com.tr
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -316,11 +317,11 @@ verification-eu.truecaller.com
 video-callerid-eu.truecaller.com
 webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
-api.remitly.io
 cards.remitly.io
 rewire.com
 app.rewire.to
 remitly.com
+api.remitly.io
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -387,9 +388,9 @@ sandbox.fireblocks.io
 http://sb-mobile-api.fireblocks.io
 http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
+sso-sprint.dynatracelabs.com
 account-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
-sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
@@ -551,8 +552,8 @@ api.au.frontegg.com
 portal.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-app.frontapp.com
 api2.frontapp.com
+app.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 *.boozt.com
@@ -1095,7 +1096,6 @@ https://webrtc.8x8.com/
 cloud8.8x8.com
 pay.8x8.com
 admin.8x8.com
-*.superbet.com
 *.superbet.rs
 *.magicjackpot.ro
 *.superbet.ro
@@ -1107,6 +1107,7 @@ admin.8x8.com
 *.napoleongames.be
 *.napoleonsports.be
 *.superbet.pl
+*.superbet.com
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1232,9 +1233,9 @@ zerobounce.net
 teleport.sh
 *.gravitational.io
 *.teleportinfra.sh
-askpam.ai
 cloud.gravitational.io
 platform.teleport.sh
+askpam.ai
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -1686,7 +1687,6 @@ tock.18f.gov
 www.fedramp.gov
 marketplace.fedramp.gov
 *.search.gov
-www.usa.gov
 federalist.18f.gov
 cloud.gov
 federalist-docs.18f.gov
@@ -1929,7 +1929,6 @@ http://bitso.com/alpha
 nvio.mx
 nvio.ar
 hackers_chosendomain.larksuite.com
-larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
 open.larksuite.com
@@ -1941,6 +1940,7 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
+larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2071,7 +2071,6 @@ api.adm.cloud.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 developers.tiktok.com
-*.tiktok.com
 business.tiktok.com
 tiktok.com
 shop.tiktok.com
@@ -2083,6 +2082,7 @@ effecthouse.tiktok.com
 *.tiktokv.com
 partner.tiktokshop.com
 ads.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2388,7 +2388,6 @@ portal.polygon.technology
 *.skybettingandgaming.design
 *.skybettingandgaming.info
 *.betsharedservices.io
-*.sportinglife.com
 *.betfair.com
 *.paddypower.com
 *.betfair.es
@@ -2854,7 +2853,6 @@ reservations.rezserver.com
 cruises.priceline.com
 www.bookingholdings.com
 press.priceline.com
-flyiin.com
 priceline.com
 www.priceline.com
 secure.rezserver.com
@@ -3110,20 +3108,11 @@ matomo.cloud
 matomo.cloud
 https://github.com/matomo-org/docker
 *.xoom.com
-*.braintreegateway.com
 *.paydiant.com
 *.venmo.com
 paypalobjects.com
 paypal.me
 py.pl
-*.braintreepayments.com
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.loanbuilder.com
 www.swiftfinancial.com
@@ -3134,10 +3123,19 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
+*.braintreepayments.com
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
-*.paypal.com
 *.paypalcorp.com
+*.braintreegateway.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3233,7 +3231,6 @@ www.shipt.com
 *.gspublishing.com
 research.gs.com
 *.ayco.com
-*.gsam.com
 *.gsselect.com
 www.rocaton.com
 *.gs-mosaic.qa.gs.com
@@ -3326,12 +3323,12 @@ developer.valvesoftware.com
 www.crypto.com
 *.crypto.com
 auth.crypto.com
-merchant.crypto.com
 pay.crypto.com
 js.crypto.com
 app.mona.co
 tax.crypto.com
 *.mona.co
+merchant.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3461,7 +3458,6 @@ p.grabtaxi.com
 gamma.grab.co
 manage.grab.co
 jira.grab.com
-wiki.grab.com
 api.grabpay.com
 *.grabpay.com
 xtramile.grabpay.com
@@ -3470,6 +3466,7 @@ gifts.grab.com
 *.ovo.id
 *.taralite.com
 kartaview.org
+wiki.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3524,8 +3521,8 @@ ccardsus1.badoo.com
 chatdate.app
 getofficial.co
 assets.spotify.com
-api.spotify.com
 backstage.io
+api.spotify.com
 assets.spotify.com
 api.spotify.com
 backstage.io
@@ -3863,9 +3860,9 @@ arrive-server.shopifycloud.com
 *.shopifycs.com
 your-store.myshopify.com
 partners.shopify.com
-*.shopify.io
 admin.shopify.com
 accounts.shopify.com
+*.shopify.io
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -4019,7 +4016,6 @@ callbacks.airbnb.com
 www.hoteltonight.com
 *.vimeo.com
 checkout.vimeo.com
-www.vimeo.com
 player.vimeo.com
 api.vimeo.com
 *.cloud.vimeo.com
@@ -4237,8 +4233,8 @@ app.pullrequest.com
 reviewer.pullrequest.com
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-hackerone.com
 www.wearehackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
