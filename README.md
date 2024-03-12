@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 12 20:20:56 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar 12 20:42:00 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -510,8 +510,8 @@ www.fareharbor.com
 spark.fareharbor.com
 kyc-onboarding.booking.com
 secure.booking.com
-account.booking.com
 *.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -895,13 +895,13 @@ hilton.io
 *.hiltonlocalbiz.com
 *.hiltonhotels.jp
 hiltonhotels.jp
-*.hilton.com
 *.hilton.io
 *.hiltonbusinessonline.com
 hilton.com.tr
 hiltonbusinessonline.com
 hiltonlocalbiz.com
 *.hilton.com.tr
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -1213,9 +1213,9 @@ www.stayz.com.au
 www.expediagroup.com
 www.flights.com
 magiceden.io
-*.magiceden.io
 *.magiceden.dev
 *.magiceden.workers.dev
+*.magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1317,9 +1317,9 @@ www.dolap.com
 www.trendyol-milla.com
 *.sidefx.com
 *.sidefx.com
-metamask.io
 portfolio.metamask.io
 snaps.metamask.io
+metamask.io
 metamask.io
 snaps.metamask.io
 portfolio.metamask.io
@@ -1335,9 +1335,9 @@ checkout.razorpay.com
 invoices.razorpay.com
 payroll.razorpay.com
 x.razorpay.com
-www.linkedin.com
 api.linkedin.com
 business.linkedin.com
+www.linkedin.com
 www.linkedin.com
 api.linkedin.com
 business.linkedin.com
@@ -1559,7 +1559,6 @@ api.evernote.com
 metahuman.unrealengine.com
 twinmotion.unrealengine.com
 *.psyonix.com
-*.epicgames.com
 *.unrealengine.com
 *.fortnite.com
 *.mediatonic.co.uk
@@ -1572,6 +1571,7 @@ twinmotion.unrealengine.com
 *.superawesome.tv
 *.superawesome.com
 *.popjam.com
+*.rukkaz.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -1754,13 +1754,13 @@ www.xvideos.red
 www.xnxx.com
 gold.xnxx.com
 https://www.xvideos.net/app/
-cloud.elastic.co
 *.elastic.co
 *.found.io
 www.elastic.co
 *.elstc.co
 *.elasticnet.co
 *.eops.nl
+cloud.elastic.co
 *.swiftype.com
 *.elastic.co
 *.found.io
@@ -1776,11 +1776,11 @@ api.stripe.com
 api.taxjar.com
 app.taxjar.com
 js.stripe.com
-*.getbouncer.com
 *.recko.io
 *.reckoproduction.com
 *.reckostaging.com
 *.link.co
+*.getbouncer.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1929,7 +1929,6 @@ http://bitso.com/alpha
 nvio.mx
 nvio.ar
 hackers_chosendomain.larksuite.com
-larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
 open.larksuite.com
@@ -1941,6 +1940,7 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
+larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2076,13 +2076,13 @@ tiktok.com
 shop.tiktok.com
 live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
-www.pangleglobal.com
 fp-sg.tiktokv.com
 effecthouse.tiktok.com
-partner.tiktokshop.com
 ads.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+partner.tiktokshop.com
+*.tiktok.com
+www.pangleglobal.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -3113,6 +3113,14 @@ https://github.com/matomo-org/docker
 paypalobjects.com
 paypal.me
 py.pl
+*.braintreepayments.com
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.loanbuilder.com
 www.swiftfinancial.com
@@ -3123,14 +3131,6 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
-*.braintreepayments.com
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
 *.paypalcorp.com
@@ -3636,8 +3636,8 @@ secureui.starbucks.com
 card.starbucks.com.sg
 www.starbucks.com.sg
 cart.starbucks.co.jp
-www.starbucks.co.kr
 gift.starbucks.co.jp
+www.starbucks.co.kr
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3828,11 +3828,11 @@ api.smooch.io
 smooch.io
 www.zendesk.com
 developer.zendesk.com
-h1-your-domain.zendesk.com
 apps.zendesk.com
 zopim.com
 app.futuresimple.com
 api.getbase.com
+h1-your-domain.zendesk.com
 www.zendesk.com
 developer.zendesk.com
 h1-your-domain.zendesk.com
@@ -4162,9 +4162,9 @@ commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
 *.base.org
-coinbase.com
 international.coinbase.com
 nft.coinbase.com
+coinbase.com
 cloud.coinbase.com
 *.coinbase.com
 *.coinbase.com
@@ -4182,7 +4182,6 @@ nft.coinbase.com
 http://coinbase.com
 international.coinbase.com
 *.base.org
-slack.com
 api.slack.com
 status.slack.com
 slackb.com
@@ -4194,6 +4193,7 @@ spaces.pm
 www.quip.com
 *.quip.com
 app.slack.com
+slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4403,13 +4403,13 @@ https://github.com/evolveum/midpoint
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 marketplace.magento.com
 magentocommerce.com
-repo.magento.com
 magento.com
 accounts.magento.cloud
 u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
+repo.magento.com
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
