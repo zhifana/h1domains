@@ -2,9 +2,8 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 12 19:42:16 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar 12 20:20:56 UTC 2024)
 ```
-*.dyson.com
 www.dyson.co.uk
 www.dysoncanada.ca
 www.dyson.it
@@ -44,6 +43,7 @@ www.dyson.com.sg
 www.dyson.co.kr
 www.dyson.co.nz
 www.dyson.ae
+www.dyson.co.il
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -320,8 +320,8 @@ webonboarding-eu.truecaller.com
 cards.remitly.io
 rewire.com
 app.rewire.to
-api.remitly.io
 remitly.com
+api.remitly.io
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -388,9 +388,9 @@ sandbox.fireblocks.io
 http://sb-mobile-api.fireblocks.io
 http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
+sso-sprint.dynatracelabs.com
 account-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
-sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
@@ -455,7 +455,6 @@ www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadopago.com.uy
 www.mercadolibre.com.ar
-www.mercadolivre.com.br
 www.mercadolibre.com.mx
 www.mercadolibre.com.co
 www.mercadolibre.com.pe
@@ -463,6 +462,7 @@ www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.cl
 api.mercadolibre.com
+www.mercadolivre.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -865,12 +865,12 @@ profiler.firefox.com
 vpn.mozilla.org
 relay.firefox.com
 api.profiler.firefox.com
-www.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 support.mozilla.org
 hg.mozilla.org
 monitor.mozilla.org
+www.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -897,11 +897,11 @@ hilton.io
 hiltonhotels.jp
 *.hilton.com
 *.hilton.io
-*.hilton.com.tr
 *.hiltonbusinessonline.com
 hilton.com.tr
 hiltonbusinessonline.com
 hiltonlocalbiz.com
+*.hilton.com.tr
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -1144,11 +1144,11 @@ hv-mtl.com
 *.10ktf.com
 *.wenewmoments.com
 *.boredapeyachtclub.com
-*.yuga.com
 *.yugalabs.io
 *.otherside.xyz
 *.meebits.app
 *.cryptopunks.app
+*.yuga.com
 *.boredapeyachtclub.com
 *.yuga.com
 *.yugalabs.io
@@ -1757,11 +1757,11 @@ https://www.xvideos.net/app/
 cloud.elastic.co
 *.elastic.co
 *.found.io
-*.swiftype.com
 www.elastic.co
 *.elstc.co
 *.elasticnet.co
 *.eops.nl
+*.swiftype.com
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1915,8 +1915,8 @@ app.launchdarkly.com
 events.launchdarkly.com
 stream.launchdarkly.com
 docs.launchdarkly.com
-fetlife.com
 *.fetlife.com
+fetlife.com
 *.fetlife.com
 fetlife.com
 bitso.com
@@ -2431,7 +2431,6 @@ chat.amazon.com
 track.amazon.com
 api.amazon.com
 manufacturing.amazon.com
-apay-us.amazon.com
 aax-us-iad.amazon.com
 aca-livecards-service.amazon.com
 address-photos.amazon.com
@@ -2450,6 +2449,7 @@ gateway-ink.amazon.com
 imdbtv-backend-na.amazon.com
 mas-ext.amazon.com
 mas-sdk.amazon.com
+msh.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2786,7 +2786,7 @@ a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 datapod-1-100-druid-query.production.forescoutcloud.net
 logstash-props.devicecloud.acceptance.forescoutcloud.net
-www.forescout.com
+datapod-2-ingest.acceptance.forescoutcloud.net
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 datapod-2-query.acceptance.forescoutcloud.net
@@ -3059,7 +3059,6 @@ grammarly.ai
 *.grammarly.com
 grammarly.ai
 fdbox.net
-*.fanduel.com
 fanduel.design
 com.fanduel.android.live
 sportsbook.fanduel.com
@@ -3080,6 +3079,7 @@ promos.tvg.com
 service.tvg.com
 us.tvg.com
 www.4njbets.com
+*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3188,10 +3188,10 @@ testnet.bitmex.com
 *.bitmex.com
 *.bitmex.com
 testnet.bitmex.com
-staging.airtable.com
 *.staging-airtableblocks.com
 *.staging.airtable.com
 api-staging.airtable.com
+staging.airtable.com
 *.staging-airtableblocks.com
 *.staging.airtable.com
 staging.airtable.com
@@ -3326,8 +3326,8 @@ pay.crypto.com
 app.mona.co
 tax.crypto.com
 *.mona.co
-merchant.crypto.com
 js.crypto.com
+merchant.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3621,7 +3621,6 @@ portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
 www.starbucksreserve.com
-gift.starbucks.co.jp
 login.starbucks.co.jp
 www.starbucks.co.jp
 www.starbucks.com.cn
@@ -3634,10 +3633,11 @@ www.starbucks.com
 app.starbucks.com
 openapi.starbucks.com
 secureui.starbucks.com
-www.starbucks.co.kr
 card.starbucks.com.sg
 www.starbucks.com.sg
 cart.starbucks.co.jp
+www.starbucks.co.kr
+gift.starbucks.co.jp
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3797,8 +3797,8 @@ werkenbijdefensie.nl
 werkenbijderet.nl
 mijnkombijdepolitie.nl
 doorstromen.mijnkombijdepolitie.nl
-www.werkenbijbakertilly.nl
 devmaximum.com
+www.werkenbijbakertilly.nl
 acme-challenge.nl
 nossl.nl
 no-reply.cloud
@@ -3858,10 +3858,10 @@ shopify.plus
 arrive-server.shopifycloud.com
 *.shopifycs.com
 your-store.myshopify.com
-partners.shopify.com
-admin.shopify.com
 accounts.shopify.com
 *.shopify.io
+partners.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3973,7 +3973,6 @@ imagine.magento.com
 magentolive.com
 account.magento.com
 accounts.magento.cloud
-www.airbnb.com
 next.airbnb.com
 api.airbnb.com
 support-api.airbnb.com
@@ -3984,7 +3983,6 @@ one.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
 *.airbnb.com
-*.airbnbcitizen.com
 *.atairbnb.com
 *.withairbnb.com
 *.byairbnb.com
@@ -3993,6 +3991,8 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 *.hoteltonight-test.com
 www.hoteltonight.com
+www.airbnb.com
+*.airbnbcitizen.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4155,17 +4155,17 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
-api.coinbase.com
 *.base.org
-cloud.coinbase.com
 coinbase.com
 international.coinbase.com
 nft.coinbase.com
+cloud.coinbase.com
 *.coinbase.com
 *.coinbase.com
 *.cbhq.net
@@ -4207,6 +4207,7 @@ spaces.pm
 www.quip.com
 *.quip.com
 data.mail.yahoo.com
+le.yahooapis.com
 data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
