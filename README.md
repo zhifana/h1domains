@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 07:17:43 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 07:43:45 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -390,11 +390,11 @@ http://sb-mobile-api.fireblocks.io
 http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
 sso-sprint.dynatracelabs.com
-account-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
+account-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -509,8 +509,8 @@ spark.fareharbor.com
 kyc-onboarding.booking.com
 secure.booking.com
 account.booking.com
-*.rentalcars.com
 careers.booking.com
+*.rentalcars.com
 *.booking.com
 booking.com
 *.booking.com
@@ -1010,7 +1010,6 @@ www.malwarebytes.com
 my.malwarebytes.com
 cloud.malwarebytes.com
 oneview.malwarebytes.com
-www.s-pankki.fi
 mobile.s-pankki.fi
 www.s-kaupat.fi
 extranet.s-pankki.fi
@@ -1021,6 +1020,7 @@ api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
 online.s-pankki.fi
+www.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
 https://crosskey.io/stores/s-pankki/apis
@@ -1176,7 +1176,6 @@ www.expediaagents.com
 *.lastminute.co.nz
 *.lastminute.com.au
 *.travelocity.com
-*.expediapartnercentral.com
 www.abritel.fr
 www.bookabach.co.nz
 www.fewo-direkt.de
@@ -1184,8 +1183,9 @@ www.stayz.com.au
 www.expediagroup.com
 www.flights.com
 *.travelocity.ca
-www.expedia.com
 *.expediacruises.com
+www.expedia.com
+*.expediapartnercentral.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1927,7 +1927,6 @@ api.bitso.com
 http://bitso.com/alpha
 nvio.mx
 nvio.ar
-larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
 open.larksuite.com
@@ -1938,8 +1937,9 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
-app.larksuite.com
+larksuite.com
 hackers_chosendomain.larksuite.com
+app.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2022,7 +2022,6 @@ launch.cloud.com
 (yoursubdomain).sf-api.com
 (yoursubdomain).sf-api.eu
 sf-rp-eu.sharefile.com
-(yoursubdomain).sharefile.eu
 sf-rp-us.sharefile.com
 secure.sharefile.com
 sf-rp.sharefile.com
@@ -2037,6 +2036,7 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 (yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.eu
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -2550,9 +2550,7 @@ na.account.amazon.com
 paragon-na.amazon.com
 read.amazon.com
 updates.amazon.com
-*.alibaba.com
 *.taobao.com
-*.tmall.com
 *.aliyun.com
 *.alibabacloud.com
 *.1688.com
@@ -2563,6 +2561,8 @@ www.alibabagroup.com
 *.aliexpress.ru
 *.Daraz.com
 *.aliexpress.com
+*.alibaba.com
+*.tmall.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -3409,8 +3409,8 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-*.beta.lahitapiola.fi
 *.lahitapiola.fi
+*.beta.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3460,8 +3460,8 @@ gifts.grab.com
 *.ovo.id
 *.taralite.com
 kartaview.org
-wiki.grab.com
 *.grab.com
+wiki.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3632,8 +3632,8 @@ card.starbucks.com.sg
 www.starbucks.com.sg
 cart.starbucks.co.jp
 www.starbucks.co.kr
-www.starbucks.com
 gift.starbucks.co.jp
+www.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3854,8 +3854,8 @@ arrive-server.shopifycloud.com
 *.shopifycs.com
 accounts.shopify.com
 your-store.myshopify.com
-*.shopify.com
 partners.shopify.com
+*.shopify.com
 admin.shopify.com
 *.shopify.io
 *.shopifycs.com
@@ -3987,8 +3987,8 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 *.hoteltonight-test.com
 www.hoteltonight.com
-*.airbnbcitizen.com
 www.airbnb.com
+*.airbnbcitizen.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4151,12 +4151,12 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
+api.coinbase.com
 *.base.org
 international.coinbase.com
 nft.coinbase.com
@@ -4215,7 +4215,6 @@ yimg.com
 *.vpn.hackerone.net
 errors.hackerone.net
 api.hackerone.com
-www.hackerone.com
 hackerone.live
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
@@ -4233,6 +4232,7 @@ ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
 hackerone-user-content.com
+www.hackerone.com
 hackerone.com
 hackerone.com
 api.hackerone.com
