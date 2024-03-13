@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 22:14:33 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 22:42:29 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -333,10 +333,10 @@ getworldcoin.com
 *.worldcoin-distributors.com
 bioid-management.app
 *.worldcoin.dev
-worldcoin.org
 *.toolsforhumanity.com
-*.worldcoin.org
 *.consumer.worldcoin.org
+worldcoin.org
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -389,8 +389,8 @@ sandbox.fireblocks.io
 http://sb-mobile-api.fireblocks.io
 http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
-*.sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
+*.sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -402,8 +402,8 @@ sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 demo.dynamic.xyz
-app.dynamic.xyz
 app.dynamic-preprod.xyz
+app.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -459,11 +459,11 @@ www.mercadolibre.com.pe
 www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.cl
-www.mercadopago.com.br
 www.mercadolivre.com.br
+api.mercadolibre.com
+www.mercadopago.com.br
 www.mercadopago.com.ar
 www.mercadolibre.com.ar
-api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -508,10 +508,10 @@ spark.fareharbor.com
 kyc-onboarding.booking.com
 account.booking.com
 careers.booking.com
-secure.booking.com
 widget.rentalcars.com
 booking.com
 *.booking.com
+secure.booking.com
 *.rentalcars.com
 *.booking.com
 *.rentalcars.com
@@ -869,8 +869,8 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 support.mozilla.org
 hg.mozilla.org
-www.mozilla.org
 monitor.mozilla.org
+www.mozilla.org
 developer.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
@@ -1180,11 +1180,11 @@ www.fewo-direkt.de
 www.stayz.com.au
 www.expediagroup.com
 www.flights.com
-*.travelocity.ca
-*.travelocity.com
 www.expedia.com
 *.expediacruises.com
 *.expediapartnercentral.com
+*.travelocity.com
+*.travelocity.ca
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1517,8 +1517,8 @@ teams.krisp.ai
 download.krisp.ai
 analytics.krisp.ai
 upld.krisp.ai
-*.krisp.ai
 api.krisp.ai
+*.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1771,12 +1771,12 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
-*.recko.io
-js.stripe.com
-*.getbouncer.com
-app.taxjar.com
 *.touchtechpayments.com
 api.stripe.com
+*.recko.io
+*.getbouncer.com
+app.taxjar.com
+js.stripe.com
 *.stripe.com
 api.stripe.com
 *.stripe.com
@@ -1813,7 +1813,6 @@ strapi.reddit.com
 m.reddit.com
 reddit.secure.force.com
 s.reddit.com
-*.reddit.com
 sh.reddit.com
 *.redditmedia.com
 redditforbusiness.com
@@ -1823,6 +1822,7 @@ old.reddit.com
 www.reddit.com
 ads.reddit.com
 matrix.redditspace.com
+*.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2077,8 +2077,8 @@ www.pangleglobal.com
 business.tiktok.com
 *.tiktokv.com
 tiktok.com
-ads.tiktok.com
 *.tiktok.com
+ads.tiktok.com
 partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
@@ -2345,8 +2345,8 @@ portal.polygon.technology
 *.miui.com
 *.xiaomiyoupin.com
 *.miwifi.com
-*.xiaomi.com
 *.mi.com
+*.xiaomi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -2558,8 +2558,8 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.ru
 *.Daraz.com
-*.alibaba.com
 *.aliexpress.com
+*.alibaba.com
 *.aliyun.com
 *.tmall.com
 *.alibaba.com
@@ -3298,10 +3298,10 @@ partner.steamgames.com
 playartifact.com
 www.teamfortress.com
 help.steampowered.com
-steamcommunity.com
 store.steampowered.com
 www.counter-strike.net
 api.steampowered.com
+steamcommunity.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3322,8 +3322,8 @@ app.mona.co
 *.crypto.com
 js.crypto.com
 tax.crypto.com
-merchant.crypto.com
 *.mona.co
+merchant.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3409,8 +3409,8 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-*.lahitapiola.fi
 *.beta.lahitapiola.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3581,8 +3581,8 @@ rockstarnorth.com
 support.rockstargames.com
 circolocorecords.com/
 store.rockstargames.com
-prod.ros.rockstargames.com
 *.rockstargames.com
+prod.ros.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3702,8 +3702,8 @@ education.github.com
 npmjs.com
 npmjs.org
 api.github.com
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3750,8 +3750,8 @@ winecellar.zomato.com
 api.grofers.com
 api2.grofers.com
 blinkit.com
-*.runnr.in
 *.zomato.com
+*.runnr.in
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3856,8 +3856,8 @@ shopifyinbox.com
 your-store.myshopify.com
 partners.shopify.com
 admin.shopify.com
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3883,7 +3883,6 @@ accounts.snapchat.com
 app.snapchat.com
 map.snapchat.com
 story.snapchat.com
-ads.snapchat.com
 businesshelp.snapchat.com
 store.snapchat.com
 *.sc-core.net
@@ -3903,6 +3902,7 @@ playcanv.as
 *.sc-corp.net
 web.snapchat.com
 login.playcanvas.com
+ads.snapchat.com
 playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
@@ -4150,16 +4150,16 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
-api.coinbase.com
 *.base.org
 international.coinbase.com
-cloud.coinbase.com
 *.coinbase.com
+cloud.coinbase.com
 coinbase.com
 nft.coinbase.com
 *.coinbase.com
@@ -4225,14 +4225,14 @@ reviewer.pullrequest.com
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
-hackerone-user-content.com
-app.pullrequest.com
 cover-photos.hackerone-user-content.com
-hackerone-ext-content.com
+app.pullrequest.com
 www.hackerone.com
+hackerone-ext-content.com
 api.hackerone.com
 hackathon-photos.hackerone-user-content.com
 hackerone.com
+hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
