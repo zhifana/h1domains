@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 03:20:21 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 03:42:36 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -389,9 +389,9 @@ sandbox.fireblocks.io
 http://sb-mobile-api.fireblocks.io
 http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
+sso-sprint.dynatracelabs.com
 account-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
-sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
@@ -510,8 +510,8 @@ spark.fareharbor.com
 kyc-onboarding.booking.com
 secure.booking.com
 account.booking.com
-*.rentalcars.com
 careers.booking.com
+*.rentalcars.com
 *.booking.com
 *.booking.com
 *.rentalcars.com
@@ -1060,7 +1060,6 @@ cloud8.8x8.com
 *.p8t.us
 *.wavecell.com
 pay.8x8.com
-sso.8x8.com
 platform.8x8.com
 *.chalet.8x8.com
 work.8x8.com
@@ -2024,7 +2023,6 @@ launch.cloud.com
 (yoursubdomain).sf-api.com
 (yoursubdomain).sf-api.eu
 sf-rp-eu.sharefile.com
-(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 sf-rp-us.sharefile.com
 secure.sharefile.com
@@ -2038,6 +2036,7 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
+(yoursubdomain).sharefile.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -2168,7 +2167,6 @@ www.kruidvat.be
 www.iciparisxl.nl
 www.iciparisxl.be
 www.iciparisxl.lu
-www.theperfumeshop.com
 app.kruidvat.nl
 app.kruidvat.be
 app.iciparisxl.nl
@@ -3133,8 +3131,8 @@ scrutiny.swiftfinancial.com
 *.paylution.com
 *.braintreegateway.com
 *.paypalcorp.com
-*.paypal.com
 www.loanbuilder.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3634,8 +3632,8 @@ card.starbucks.com.sg
 www.starbucks.com.sg
 cart.starbucks.co.jp
 www.starbucks.co.kr
-www.starbucks.com
 gift.starbucks.co.jp
+www.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3857,9 +3855,9 @@ arrive-server.shopifycloud.com
 accounts.shopify.com
 your-store.myshopify.com
 *.shopify.io
+partners.shopify.com
 *.shopify.com
 admin.shopify.com
-partners.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com

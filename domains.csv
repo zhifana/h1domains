@@ -438,9 +438,9 @@ fireblocks,sandbox.fireblocks.io,True
 fireblocks,http://sb-mobile-api.fireblocks.io,True
 fireblocks,http://sb-console-api.fireblocks.io,True
 fireblocks,http://sandbox-api.fireblocks.io,True
+dynatrace,sso-sprint.dynatracelabs.com,True
 dynatrace,account-sprint.dynatracelabs.com,True
 dynatrace,*.sprint.dynatracelabs.com,True
-dynatrace,sso-sprint.dynatracelabs.com,True
 dynatrace,university-staging.dynatracelabs.com,True
 dynatrace,myaccount-hardening.dynatracelabs.com,True
 dynatrace,*.sprint.apps.dynatracelabs.com,True
@@ -573,8 +573,8 @@ bookingcom,spark.fareharbor.com,True
 bookingcom,kyc-onboarding.booking.com,True
 bookingcom,secure.booking.com,True
 bookingcom,account.booking.com,True
-bookingcom,*.rentalcars.com,True
 bookingcom,careers.booking.com,True
+bookingcom,*.rentalcars.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
@@ -3698,7 +3698,6 @@ kkr_vdp,ksam.com,False
 8x8-bounty,*.p8t.us,True
 8x8-bounty,*.wavecell.com,True
 8x8-bounty,pay.8x8.com,True
-8x8-bounty,sso.8x8.com,True
 8x8-bounty,platform.8x8.com,True
 8x8-bounty,*.chalet.8x8.com,True
 8x8-bounty,work.8x8.com,True
@@ -7327,7 +7326,6 @@ citrix,*developer.cloud.com,False
 citrix,(yoursubdomain).sf-api.com,True
 citrix,(yoursubdomain).sf-api.eu,True
 citrix,sf-rp-eu.sharefile.com,True
-citrix,(yoursubdomain).sharefile.com,True
 citrix,(yoursubdomain).sharefile.eu,True
 citrix,sf-rp-us.sharefile.com,True
 citrix,secure.sharefile.com,True
@@ -7341,6 +7339,7 @@ citrix,(yoursubdomain).us.iws.cloud.com,True
 citrix,(yoursubdomain).ap.iws.cloud.com,True
 citrix,(yoursubdomain).eu.iws.cloud.com,True
 citrix,(youriwssubdomain).cloud.com,True
+citrix,(yoursubdomain).sharefile.com,True
 citrix,citrix.cloud.com,True
 citrix,www.cloud.com,True
 citrix,ap-s.cloud.com,True
@@ -7554,7 +7553,6 @@ watson_group,www.kruidvat.be,True
 watson_group,www.iciparisxl.nl,True
 watson_group,www.iciparisxl.be,True
 watson_group,www.iciparisxl.lu,True
-watson_group,www.theperfumeshop.com,True
 watson_group,app.kruidvat.nl,True
 watson_group,app.kruidvat.be,True
 watson_group,app.iciparisxl.nl,True
@@ -8418,7 +8416,6 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,accountmanager.8x8.com,False
 8x8,*.contactnow.8x8.com,False
 8x8,get8x8.com,False
-8x8,sso.8x8.com,False
 8x8,*.mycontactual.com,False
 8x8,*.jitsi.org,False
 8x8,*.jit.si,False
@@ -9556,8 +9553,8 @@ paypal,*.hyperwallet.com,True
 paypal,*.paylution.com,True
 paypal,*.braintreegateway.com,True
 paypal,*.paypalcorp.com,True
-paypal,*.paypal.com,True
 paypal,www.loanbuilder.com,True
+paypal,*.paypal.com,True
 paypal,www.paypal-*.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True
@@ -10153,8 +10150,8 @@ starbucks,card.starbucks.com.sg,True
 starbucks,www.starbucks.com.sg,True
 starbucks,cart.starbucks.co.jp,True
 starbucks,www.starbucks.co.kr,True
-starbucks,www.starbucks.com,True
 starbucks,gift.starbucks.co.jp,True
+starbucks,www.starbucks.com,True
 starbucks,www.starbucksreserve.com,True
 starbucks,gift.starbucks.co.jp,True
 starbucks,login.starbucks.co.jp,True
@@ -10426,9 +10423,9 @@ shopify,*.shopifycs.com,True
 shopify,accounts.shopify.com,True
 shopify,your-store.myshopify.com,True
 shopify,*.shopify.io,True
+shopify,partners.shopify.com,True
 shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
-shopify,partners.shopify.com,True
 shopify,*.shopifycs.com,True
 shopify,*.shopify.io,True
 shopify,*.shopify.com,True
