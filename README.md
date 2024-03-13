@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 20:43:28 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 21:18:34 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -32,7 +32,6 @@ api.dyson.de
 api.dyson.ch
 api.dyson.fr
 api.dyson.ie
-api.fi.dyson.com
 www.dyson.com.mx
 www.dyson.com.sg
 www.dyson.co.kr
@@ -41,10 +40,10 @@ www.dyson.ae
 www.dyson.hk
 shop.dyson.co.za
 www.sa.dyson.com
-www.dyson.cz
 www.dyson.com.ro
 *.cp.dyson.com
 www.dyson.cn
+shop.dyson.ru
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -147,13 +146,13 @@ enterprise-auth-noneu.truecaller.com
 enterprise-bizengage-noneu.truecaller.com
 enterprise-biznumbers-noneu.truecaller.com
 enterprise-feedback-noneu.truecaller.com
-enterprise-reports-noneu.truecaller.com
 enterprise-service-management-noneu.truecaller.com
 enterprise-survey-asia-south1.truecaller.com
 enterprise-survey-noneu.truecaller.com
 enterprise-webhooks-noneu.truecaller.com
 feedback-asia-south1.truecaller.com
 filter-store4-asia-south1.truecaller.com
+filter-store4.truecaller.com
 business.truecaller.com
 account-noneu.truecaller.com
 account-onboarding-noneu.truecaller.com
@@ -322,8 +321,8 @@ webonboarding-eu.truecaller.com
 cards.remitly.io
 rewire.com
 app.rewire.to
-remitly.com
 api.remitly.io
+remitly.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -403,8 +402,8 @@ sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 demo.dynamic.xyz
-app.dynamic-preprod.xyz
 app.dynamic.xyz
+app.dynamic-preprod.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -462,9 +461,9 @@ www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadopago.com.br
 www.mercadolivre.com.br
+www.mercadopago.com.ar
 www.mercadolibre.com.ar
 api.mercadolibre.com
-www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -511,9 +510,9 @@ account.booking.com
 careers.booking.com
 secure.booking.com
 widget.rentalcars.com
-booking.com
 *.booking.com
 *.rentalcars.com
+booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -564,8 +563,8 @@ api2.frontapp.com
 *.booztlet.com
 *.trip.com
 *.trip.com
-api.mergify.com
 dashboard.mergify.com
+api.mergify.com
 api.mergify.com
 dashboard.mergify.com
 www.compass.com
@@ -699,7 +698,6 @@ www.visa.com.lk
 www.visa.com.ms
 www.visa.com.my
 www.visa.com.ng
-www.visa.com.ph
 www.visa.com.sg
 www.visa.com.tr
 visa.com.ua
@@ -723,6 +721,7 @@ www.cardinalcommerce.com
 www.yellowpepper.com
 www.fraedom.com
 www.tink.com
+www.practicalmoneyskills.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -870,8 +869,8 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 support.mozilla.org
 hg.mozilla.org
-www.mozilla.org
 monitor.mozilla.org
+www.mozilla.org
 developer.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
@@ -1778,8 +1777,8 @@ js.stripe.com
 *.getbouncer.com
 app.taxjar.com
 *.touchtechpayments.com
-*.stripe.com
 api.stripe.com
+*.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1823,8 +1822,8 @@ app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
 www.reddit.com
-ads.reddit.com
 matrix.redditspace.com
+ads.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1927,6 +1926,7 @@ api.bitso.com
 http://bitso.com/alpha
 nvio.mx
 nvio.ar
+larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
 api.larksuite.com
@@ -1936,10 +1936,9 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
-larksuite.com
-open.larksuite.com
 app.larksuite.com
 hackers_chosendomain.larksuite.com
+open.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2034,8 +2033,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-www.cloud.com
 (yoursubdomain).sharefile.com
+www.cloud.com
 (yoursubdomain).sharefile.eu
 citrix.cloud.com
 www.cloud.com
@@ -2071,16 +2070,16 @@ developers.tiktok.com
 live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
-careers.tiktok.com
-shop.tiktok.com
 effecthouse.tiktok.com
-creatormarketplace.tiktok.com
-www.pangleglobal.com
+shop.tiktok.com
+careers.tiktok.com
 business.tiktok.com
 *.tiktokv.com
-tiktok.com
+www.pangleglobal.com
 ads.tiktok.com
 partner.tiktokshop.com
+creatormarketplace.tiktok.com
+tiktok.com
 *.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -3075,10 +3074,10 @@ promos.tvg.com
 service.tvg.com
 us.tvg.com
 tvg.com
-fdbox.net
-fanduel.design
 www.4njbets.com
 *.fanduel.com
+fanduel.design
+fdbox.net
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3111,14 +3110,6 @@ https://github.com/matomo-org/docker
 *.venmo.com
 paypal.me
 py.pl
-*.braintreepayments.com
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3127,6 +3118,14 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
+*.braintreepayments.com
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
 *.braintreegateway.com
@@ -3853,9 +3852,9 @@ shop.app
 shopify.plus
 arrive-server.shopifycloud.com
 *.shopifycs.com
+accounts.shopify.com
 *.shopify.io
 shopifyinbox.com
-accounts.shopify.com
 your-store.myshopify.com
 partners.shopify.com
 admin.shopify.com
@@ -4152,18 +4151,18 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
-api.coinbase.com
 *.base.org
 international.coinbase.com
-nft.coinbase.com
-cloud.coinbase.com
 *.coinbase.com
+cloud.coinbase.com
 coinbase.com
+nft.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -4402,13 +4401,13 @@ https://github.com/evolveum/midpoint
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 marketplace.magento.com
 magentocommerce.com
-magento.com
 u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
 repo.magento.com
 accounts.magento.cloud
+magento.com
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
