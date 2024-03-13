@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 19:17:36 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 19:43:12 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -336,8 +336,8 @@ bioid-management.app
 *.worldcoin.dev
 worldcoin.org
 *.toolsforhumanity.com
-*.worldcoin.org
 *.consumer.worldcoin.org
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -403,8 +403,8 @@ sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 demo.dynamic.xyz
-app.dynamic.xyz
 app.dynamic-preprod.xyz
+app.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -412,12 +412,12 @@ www.zyro.com
 backend.zyro.com
 editor.zyro.com
 logo.zyro.com
-cpanel.hostinger.com
 payments.hostinger.com
 *.000webhost.com
 www.hostinger.com
 hpanel.hostinger.com
 www.niagahoster.co.id
+cpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -511,9 +511,9 @@ account.booking.com
 careers.booking.com
 secure.booking.com
 widget.rentalcars.com
-*.booking.com
-booking.com
 *.rentalcars.com
+booking.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -1776,10 +1776,10 @@ js.stripe.com
 *.reckoproduction.com
 *.reckostaging.com
 *.link.co
-api.stripe.com
-app.taxjar.com
 *.getbouncer.com
+api.stripe.com
 *.stripe.com
+app.taxjar.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1808,7 +1808,6 @@ new.reddit.com
 api.reddit.com
 mod.reddit.com
 oauth.reddit.com
-ads.reddit.com
 gql.reddit.com
 accounts.reddit.com
 gateway.reddit.com
@@ -1825,6 +1824,7 @@ app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
 www.reddit.com
+ads.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1927,6 +1927,7 @@ api.bitso.com
 http://bitso.com/alpha
 nvio.mx
 nvio.ar
+larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
 api.larksuite.com
@@ -1936,10 +1937,9 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
-larksuite.com
-open.larksuite.com
 app.larksuite.com
 hackers_chosendomain.larksuite.com
+open.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2071,17 +2071,17 @@ developers.tiktok.com
 live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
-careers.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
+careers.tiktok.com
 creatormarketplace.tiktok.com
 www.pangleglobal.com
 business.tiktok.com
 *.tiktokv.com
-partner.tiktokshop.com
 *.tiktok.com
-ads.tiktok.com
+partner.tiktokshop.com
 tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2125,8 +2125,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-nft.io
 platform.enjin.io
+nft.io
 nft.io
 platform.enjin.io
 api.figma.com
@@ -2344,11 +2344,11 @@ watchgod.polygon.technology
 open-api.polygon.technology
 faucet.polygon.technology
 portal.polygon.technology
-*.mi.com
 *.xiaomi.com
 *.miui.com
 *.xiaomiyoupin.com
 *.miwifi.com
+*.mi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -3075,9 +3075,9 @@ promos.tvg.com
 service.tvg.com
 us.tvg.com
 tvg.com
-www.4njbets.com
-*.fanduel.com
 fanduel.design
+*.fanduel.com
+www.4njbets.com
 fdbox.net
 *.fanduel.com
 *racing.fanduel.com
@@ -3111,14 +3111,6 @@ https://github.com/matomo-org/docker
 *.venmo.com
 paypal.me
 py.pl
-www.swiftcapital.com
-www.swiftfinancial.com
-api.swiftfinancial.com
-api.loanbuilder.com
-my.loanbuilder.com
-loanbuilder.com
-swiftfinancial.com
-swiftcapital.com
 *.braintreepayments.com
 *.braintree-api.com
 *.braintree.tools
@@ -3127,6 +3119,14 @@ partner.swiftfinancial.com
 decision.swiftfinancial.com
 pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
+www.swiftcapital.com
+www.swiftfinancial.com
+api.swiftfinancial.com
+api.loanbuilder.com
+my.loanbuilder.com
+loanbuilder.com
+swiftfinancial.com
+swiftcapital.com
 *.hyperwallet.com
 *.paylution.com
 *.braintreegateway.com
@@ -3411,8 +3411,8 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-*.beta.lahitapiola.fi
 *.lahitapiola.fi
+*.beta.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -4067,7 +4067,6 @@ jss.greenhouse.io
 interseller.io
 app.interseller.io
 www.greenhouse.io
-*.twitter.com
 *.vine.co
 *.twimg.com
 gnip.com
@@ -4075,6 +4074,7 @@ api.x.ai
 grok.x.ai
 ide.x.ai
 x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4189,8 +4189,8 @@ spaces.pm
 www.quip.com
 *.quip.com
 api.slack.com
-app.slack.com
 slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
