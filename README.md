@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 11:20:42 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 11:43:21 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -320,9 +320,9 @@ webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
 rewire.com
+api.remitly.io
 remitly.com
 app.rewire.to
-api.remitly.io
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -511,8 +511,8 @@ account.booking.com
 careers.booking.com
 *.booking.com
 booking.com
-secure.booking.com
 *.rentalcars.com
+secure.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -783,8 +783,8 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshdesk.com
 yourdomain.freshcaller.com
-yourdomain.freshchat.com
 yourdomain.myfreshworks.com
+yourdomain.freshchat.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -901,8 +901,8 @@ hiltonhotels.jp
 hilton.com.tr
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-*.hilton.com
 *.hilton.com.tr
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -1181,10 +1181,10 @@ www.stayz.com.au
 www.expediagroup.com
 www.flights.com
 *.travelocity.ca
+*.travelocity.com
 www.expedia.com
 *.expediacruises.com
 *.expediapartnercentral.com
-*.travelocity.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1213,8 +1213,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.dev
 *.magiceden.io
-magiceden.io
 *.magiceden.workers.dev
+magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1927,6 +1927,7 @@ api.bitso.com
 http://bitso.com/alpha
 nvio.mx
 nvio.ar
+larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
 open.larksuite.com
@@ -1937,9 +1938,8 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
-larksuite.com
-hackers_chosendomain.larksuite.com
 app.larksuite.com
+hackers_chosendomain.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2559,9 +2559,9 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.ru
 *.Daraz.com
+*.tmall.com
 *.aliexpress.com
 *.alibaba.com
-*.tmall.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2850,6 +2850,7 @@ www.priceline.com
 reservations.rezserver.com
 cruises.priceline.com
 press.priceline.com
+www.bookingholdings.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3109,14 +3110,6 @@ https://github.com/matomo-org/docker
 paypalobjects.com
 paypal.me
 py.pl
-*.braintreepayments.com
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3125,13 +3118,21 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
+*.braintreepayments.com
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
 *.braintreegateway.com
 *.paypalcorp.com
 www.loanbuilder.com
-my.swiftfinancial.com
 *.paypal.com
+my.swiftfinancial.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3296,8 +3297,8 @@ www.valvesoftware.com
 partner.steamgames.com
 playartifact.com
 api.steampowered.com
-www.teamfortress.com
 help.steampowered.com
+www.teamfortress.com
 steamcommunity.com
 store.steampowered.com
 www.counter-strike.net
@@ -3318,11 +3319,11 @@ www.crypto.com
 auth.crypto.com
 pay.crypto.com
 app.mona.co
-tax.crypto.com
 *.mona.co
 merchant.crypto.com
 *.crypto.com
 js.crypto.com
+tax.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3791,8 +3792,8 @@ secure-dfadmin.deriv.com
 werkenbijdefensie.nl
 mijnkombijdepolitie.nl
 doorstromen.mijnkombijdepolitie.nl
-devmaximum.com
 www.werkenbijbakertilly.nl
+devmaximum.com
 acme-challenge.nl
 nossl.nl
 no-reply.cloud
@@ -4149,11 +4150,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
+api.coinbase.com
 institutional.coinbase.com
 *.base.org
 international.coinbase.com
@@ -4228,10 +4229,10 @@ ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
 hackerone-user-content.com
-www.hackerone.com
-cover-photos.hackerone-user-content.com
 app.pullrequest.com
 hackerone.com
+www.hackerone.com
+cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
