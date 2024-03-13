@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 09:18:58 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 09:43:42 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -321,8 +321,8 @@ webonboarding-eu.truecaller.com
 cards.remitly.io
 rewire.com
 app.rewire.to
-remitly.com
 api.remitly.io
+remitly.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -1097,7 +1097,6 @@ pay.8x8.com
 admin.8x8.com
 *.superbet.rs
 *.magicjackpot.ro
-*.superbet.ro
 *.spinaway.com
 *.luckydays.com
 *.luckydays.ca
@@ -1106,6 +1105,7 @@ admin.8x8.com
 *.napoleongames.be
 *.napoleonsports.be
 *.superbet.pl
+*.superbet.ro
 *.superbet.com
 *.superbet.ro
 *.superbet.rs
@@ -1211,10 +1211,10 @@ www.fewo-direkt.de
 www.stayz.com.au
 www.expediagroup.com
 www.flights.com
-magiceden.io
 *.magiceden.dev
 *.magiceden.io
 *.magiceden.workers.dev
+magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1535,11 +1535,11 @@ admin.wickr.com
 *.clubhouse.com
 *.joinclubhouse.com
 *.clubhouseapi.com
-judge.me
 shop.judge.me
 woocommerce-adapter.judge.me
 bigcommerce-adapter.judge.me
 cache.judge.me
+judge.me
 judge.me
 https://judge.me/reviews
 shop.judge.me
@@ -2073,14 +2073,14 @@ academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 business.tiktok.com
 creatormarketplace.tiktok.com
-www.pangleglobal.com
 partner.tiktokshop.com
-*.tiktokv.com
+www.pangleglobal.com
 shop.tiktok.com
 tiktok.com
 effecthouse.tiktok.com
 *.tiktok.com
 ads.tiktok.com
+*.tiktokv.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -3130,8 +3130,8 @@ swiftcapital.com
 *.braintreegateway.com
 *.paypalcorp.com
 www.loanbuilder.com
-*.paypal.com
 my.swiftfinancial.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3631,8 +3631,8 @@ card.starbucks.com.sg
 www.starbucks.com.sg
 cart.starbucks.co.jp
 www.starbucks.co.kr
-www.starbucks.com
 gift.starbucks.co.jp
+www.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3791,8 +3791,8 @@ secure-dfadmin.deriv.com
 werkenbijdefensie.nl
 mijnkombijdepolitie.nl
 doorstromen.mijnkombijdepolitie.nl
-www.werkenbijbakertilly.nl
 devmaximum.com
+www.werkenbijbakertilly.nl
 acme-challenge.nl
 nossl.nl
 no-reply.cloud
@@ -3938,7 +3938,6 @@ story.snapchat.com
 *.ubnt.com
 store.ui.com
 community.ui.com
-*.ui.com
 account.ui.com
 fw-update.ubnt.com
 rma.ui.com
@@ -4069,10 +4068,10 @@ www.greenhouse.io
 *.vine.co
 *.twimg.com
 gnip.com
-x.com
 api.x.ai
 grok.x.ai
 ide.x.ai
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4150,12 +4149,12 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
-api.coinbase.com
 *.base.org
 international.coinbase.com
 nft.coinbase.com
