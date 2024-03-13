@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 15:44:36 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 16:24:12 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -336,8 +336,8 @@ bioid-management.app
 *.worldcoin.dev
 worldcoin.org
 *.toolsforhumanity.com
-*.consumer.worldcoin.org
 *.worldcoin.org
+*.consumer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -390,8 +390,8 @@ sandbox.fireblocks.io
 http://sb-mobile-api.fireblocks.io
 http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
-sso-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
+sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -450,7 +450,6 @@ therapeutics.23andme.com
 you.23andme.com
 research.23andme.com
 api.mercadopago.com
-www.mercadopago.com.ar
 www.mercadopago.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
@@ -462,9 +461,10 @@ www.mercadolibre.com.pe
 www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.cl
-api.mercadolibre.com
 www.mercadopago.com.br
+api.mercadolibre.com
 www.mercadolivre.com.br
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -510,10 +510,10 @@ kyc-onboarding.booking.com
 account.booking.com
 careers.booking.com
 secure.booking.com
-booking.com
-*.rentalcars.com
 *.booking.com
+booking.com
 widget.rentalcars.com
+*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -1490,8 +1490,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -2072,16 +2072,16 @@ live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 business.tiktok.com
-creatormarketplace.tiktok.com
 tiktok.com
 www.pangleglobal.com
-partner.tiktokshop.com
-effecthouse.tiktok.com
-ads.tiktok.com
-shop.tiktok.com
 careers.tiktok.com
+partner.tiktokshop.com
+shop.tiktok.com
+effecthouse.tiktok.com
 *.tiktokv.com
+ads.tiktok.com
 *.tiktok.com
+creatormarketplace.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2657,9 +2657,9 @@ hotel-deals.marriott.com
 moments.marriottbonvoy.com
 help.marriott.com
 mipartnerprivileges.marriott.com
-www.marriott.com
 travelagents.marriott.com/
 traveler.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2954,7 +2954,6 @@ www.beachbound.com
 book.applevacations.com
 book.booktandl.com
 login.fr.travelbrandsagent.com
-login.www.vaxvacationaccess.com
 new.www.vaxvacationaccess.com
 res.blueskytours.globalbookingsolutions.com
 res.fr.travelbrandsagent.com
@@ -2964,6 +2963,7 @@ res.vacations.united.com
 res.vacations.universalstudioshollywood.com
 reservations.wynnvacations.com
 rezagent.triseptsolutions.com
+shop.wyndhamvacationownership.trisept.travel
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -3074,10 +3074,10 @@ promos.tvg.com
 service.tvg.com
 us.tvg.com
 tvg.com
-www.4njbets.com
-fdbox.net
 *.fanduel.com
 fanduel.design
+fdbox.net
+www.4njbets.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3111,14 +3111,6 @@ https://github.com/matomo-org/docker
 paypalobjects.com
 paypal.me
 py.pl
-www.swiftcapital.com
-www.swiftfinancial.com
-api.swiftfinancial.com
-api.loanbuilder.com
-my.loanbuilder.com
-loanbuilder.com
-swiftfinancial.com
-swiftcapital.com
 *.braintreepayments.com
 *.braintree-api.com
 *.braintree.tools
@@ -3127,13 +3119,21 @@ partner.swiftfinancial.com
 decision.swiftfinancial.com
 pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
+www.swiftcapital.com
+www.swiftfinancial.com
+api.swiftfinancial.com
+api.loanbuilder.com
+my.loanbuilder.com
+loanbuilder.com
+swiftfinancial.com
+swiftcapital.com
 *.hyperwallet.com
 *.paylution.com
 *.braintreegateway.com
 *.paypalcorp.com
-*.paypal.com
 www.loanbuilder.com
 my.swiftfinancial.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3187,9 +3187,9 @@ testnet.bitmex.com
 *.bitmex.com
 testnet.bitmex.com
 *.staging-airtableblocks.com
-*.staging.airtable.com
 api-staging.airtable.com
 staging.airtable.com
+*.staging.airtable.com
 *.staging-airtableblocks.com
 *.staging.airtable.com
 staging.airtable.com
@@ -3297,8 +3297,8 @@ partner.steampowered.com
 www.valvesoftware.com
 partner.steamgames.com
 playartifact.com
-www.teamfortress.com
 help.steampowered.com
+www.teamfortress.com
 steamcommunity.com
 store.steampowered.com
 www.counter-strike.net
@@ -3321,9 +3321,9 @@ auth.crypto.com
 pay.crypto.com
 app.mona.co
 *.mona.co
+js.crypto.com
 merchant.crypto.com
 *.crypto.com
-js.crypto.com
 tax.crypto.com
 *.crypto.com
 *.mona.co
@@ -3410,8 +3410,8 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-*.lahitapiola.fi
 *.beta.lahitapiola.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3523,11 +3523,11 @@ assets.spotify.com
 api.spotify.com
 backstage.io
 ws1.dashlane.com
-www.dashlane.com
 console.dashlane.com
 app.dashlane.com
 logs.dashlane.com
 api.dashlane.com
+www.dashlane.com
 ws1.dashlane.com
 www.dashlane.com
 console.dashlane.com
@@ -3633,8 +3633,8 @@ card.starbucks.com.sg
 www.starbucks.com.sg
 cart.starbucks.co.jp
 www.starbucks.co.kr
-www.starbucks.com
 gift.starbucks.co.jp
+www.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3702,9 +3702,9 @@ classroom.github.com
 education.github.com
 npmjs.com
 npmjs.org
+api.github.com
 *.githubusercontent.com
 github.com
-api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3751,8 +3751,8 @@ winecellar.zomato.com
 api.grofers.com
 api2.grofers.com
 blinkit.com
-*.zomato.com
 *.runnr.in
+*.zomato.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3853,12 +3853,12 @@ shopify.plus
 arrive-server.shopifycloud.com
 *.shopifycs.com
 partners.shopify.com
-accounts.shopify.com
 *.shopify.io
 shopifyinbox.com
-*.shopify.com
+accounts.shopify.com
 admin.shopify.com
 your-store.myshopify.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3987,8 +3987,8 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 www.hoteltonight.com
 www.airbnb.com
-*.airbnb.com
 *.airbnbcitizen.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4151,17 +4151,17 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
+api.coinbase.com
 institutional.coinbase.com
 *.base.org
 international.coinbase.com
 nft.coinbase.com
-coinbase.com
 cloud.coinbase.com
+coinbase.com
 *.coinbase.com
 *.coinbase.com
 *.cbhq.net
@@ -4218,7 +4218,6 @@ hackerone.live
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
 b5s.hackerone-ext-content.com
-hackathon-photos.hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
@@ -4232,8 +4231,9 @@ cover-photos.hackerone-user-content.com
 app.pullrequest.com
 www.hackerone.com
 hackerone-ext-content.com
-hackerone.com
 api.hackerone.com
+hackathon-photos.hackerone-user-content.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
