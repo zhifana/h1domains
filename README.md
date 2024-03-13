@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 20:17:28 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 20:43:28 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -111,7 +111,6 @@ account-onboarding-noneu.truecaller.com
 ads-audience-ingestion-noneu.truecaller.com
 ads-audience-uploader.truecaller.com
 ads-config-engine-noneu.truecaller.com
-ads-partner-noneu.truecaller.com
 ads-rules-asia-south1.truecaller.com
 ads-rules-noneu.truecaller.com
 ads5-asia-south1.truecaller.com
@@ -144,7 +143,6 @@ duo.truecaller.com
 edge-locations5.truecaller.com
 email-verification-noneu.truecaller.com
 enterprise-account-management-noneu.truecaller.com
-enterprise-accounts-noneu.truecaller.com
 enterprise-auth-noneu.truecaller.com
 enterprise-bizengage-noneu.truecaller.com
 enterprise-biznumbers-noneu.truecaller.com
@@ -154,6 +152,8 @@ enterprise-service-management-noneu.truecaller.com
 enterprise-survey-asia-south1.truecaller.com
 enterprise-survey-noneu.truecaller.com
 enterprise-webhooks-noneu.truecaller.com
+feedback-asia-south1.truecaller.com
+filter-store4-asia-south1.truecaller.com
 business.truecaller.com
 account-noneu.truecaller.com
 account-onboarding-noneu.truecaller.com
@@ -390,8 +390,8 @@ sandbox.fireblocks.io
 http://sb-mobile-api.fireblocks.io
 http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
-sso-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
+sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -461,8 +461,8 @@ www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadopago.com.br
-www.mercadolibre.com.ar
 www.mercadolivre.com.br
+www.mercadolibre.com.ar
 api.mercadolibre.com
 www.mercadopago.com.ar
 api.mercadopago.com
@@ -1773,13 +1773,13 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
-api.stripe.com
-*.touchtechpayments.com
 *.recko.io
+js.stripe.com
 *.getbouncer.com
 app.taxjar.com
-js.stripe.com
+*.touchtechpayments.com
 *.stripe.com
+api.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1823,8 +1823,8 @@ app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
 www.reddit.com
-matrix.redditspace.com
 ads.reddit.com
+matrix.redditspace.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1927,7 +1927,6 @@ api.bitso.com
 http://bitso.com/alpha
 nvio.mx
 nvio.ar
-larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
 api.larksuite.com
@@ -1937,9 +1936,10 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
+larksuite.com
+open.larksuite.com
 app.larksuite.com
 hackers_chosendomain.larksuite.com
-open.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2034,8 +2034,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 citrix.cloud.com
 www.cloud.com
@@ -2071,17 +2071,17 @@ developers.tiktok.com
 live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
-effecthouse.tiktok.com
-shop.tiktok.com
 careers.tiktok.com
+shop.tiktok.com
+effecthouse.tiktok.com
+creatormarketplace.tiktok.com
+www.pangleglobal.com
 business.tiktok.com
 *.tiktokv.com
-partner.tiktokshop.com
-www.pangleglobal.com
-*.tiktok.com
-ads.tiktok.com
-creatormarketplace.tiktok.com
 tiktok.com
+ads.tiktok.com
+partner.tiktokshop.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2347,15 +2347,14 @@ portal.polygon.technology
 *.miui.com
 *.xiaomiyoupin.com
 *.miwifi.com
-*.mi.com
 *.xiaomi.com
+*.mi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
 *.xiaomiyoupin.com
 *.miwifi.com
 *.betfair.com
-*.paddypower.com
 *.betfair.es
 *.betfair.ro
 *.betfair.se
@@ -2385,6 +2384,7 @@ portal.polygon.technology
 *.skybettingandgaming.design
 *.skybettingandgaming.info
 *.betsharedservices.io
+super6.skysports.com
 *.betfair.com
 *.paddypower.com
 *.betfair.es
@@ -2560,8 +2560,8 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.ru
 *.Daraz.com
-*.alibaba.com
 *.aliexpress.com
+*.alibaba.com
 *.aliyun.com
 *.tmall.com
 *.alibaba.com
@@ -3075,10 +3075,10 @@ promos.tvg.com
 service.tvg.com
 us.tvg.com
 tvg.com
-fanduel.design
-*.fanduel.com
-www.4njbets.com
 fdbox.net
+fanduel.design
+www.4njbets.com
+*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3298,8 +3298,8 @@ partner.steampowered.com
 www.valvesoftware.com
 partner.steamgames.com
 playartifact.com
-help.steampowered.com
 www.teamfortress.com
+help.steampowered.com
 steamcommunity.com
 store.steampowered.com
 www.counter-strike.net
@@ -3580,11 +3580,11 @@ gutenberg.run
 socialclub.rockstargames.com
 lifeinvader.com
 rockstarnorth.com
-prod.ros.rockstargames.com
 support.rockstargames.com
 circolocorecords.com/
 store.rockstargames.com
 *.rockstargames.com
+prod.ros.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3703,8 +3703,8 @@ classroom.github.com
 education.github.com
 npmjs.com
 npmjs.org
-*.githubusercontent.com
 api.github.com
+*.githubusercontent.com
 github.com
 github.com
 api.github.com
@@ -3853,9 +3853,9 @@ shop.app
 shopify.plus
 arrive-server.shopifycloud.com
 *.shopifycs.com
-accounts.shopify.com
 *.shopify.io
 shopifyinbox.com
+accounts.shopify.com
 your-store.myshopify.com
 partners.shopify.com
 admin.shopify.com
@@ -4152,17 +4152,17 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
+api.coinbase.com
 *.base.org
 international.coinbase.com
 nft.coinbase.com
-*.coinbase.com
 cloud.coinbase.com
+*.coinbase.com
 coinbase.com
 *.coinbase.com
 *.cbhq.net
