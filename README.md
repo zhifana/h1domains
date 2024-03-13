@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 22:42:29 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 23:18:46 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -335,8 +335,8 @@ bioid-management.app
 *.worldcoin.dev
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
-worldcoin.org
 *.worldcoin.org
+worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -459,11 +459,11 @@ www.mercadolibre.com.pe
 www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.cl
-www.mercadolivre.com.br
 api.mercadolibre.com
 www.mercadopago.com.br
 www.mercadopago.com.ar
 www.mercadolibre.com.ar
+www.mercadolivre.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -509,8 +509,8 @@ kyc-onboarding.booking.com
 account.booking.com
 careers.booking.com
 widget.rentalcars.com
-booking.com
 *.booking.com
+booking.com
 secure.booking.com
 *.rentalcars.com
 *.booking.com
@@ -828,7 +828,6 @@ api.tideplatform.in
 addons.allizom.org
 accounts.firefox.com
 location.services.mozilla.com
-sync.services.mozilla.com
 push.services.mozilla.com
 crash-reports.allizom.org
 crash-stats.allizom.org
@@ -843,6 +842,7 @@ lando.services.mozilla.com
 phabricator.allizom.org
 firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
+sync.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -1180,11 +1180,11 @@ www.fewo-direkt.de
 www.stayz.com.au
 www.expediagroup.com
 www.flights.com
-www.expedia.com
-*.expediacruises.com
-*.expediapartnercentral.com
-*.travelocity.com
 *.travelocity.ca
+*.travelocity.com
+www.expedia.com
+*.expediapartnercentral.com
+*.expediacruises.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1757,8 +1757,8 @@ www.elastic.co
 *.elstc.co
 *.elasticnet.co
 *.eops.nl
-*.swiftype.com
 cloud.elastic.co
+*.swiftype.com
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1820,8 +1820,8 @@ app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
 www.reddit.com
-ads.reddit.com
 matrix.redditspace.com
+ads.reddit.com
 *.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -2032,8 +2032,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 citrix.cloud.com
 www.cloud.com
@@ -2069,17 +2069,17 @@ developers.tiktok.com
 live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
-careers.tiktok.com
-shop.tiktok.com
 effecthouse.tiktok.com
-creatormarketplace.tiktok.com
-www.pangleglobal.com
+shop.tiktok.com
+careers.tiktok.com
 business.tiktok.com
 *.tiktokv.com
+www.pangleglobal.com
+creatormarketplace.tiktok.com
 tiktok.com
-*.tiktok.com
 ads.tiktok.com
 partner.tiktokshop.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -3322,8 +3322,8 @@ app.mona.co
 *.crypto.com
 js.crypto.com
 tax.crypto.com
-*.mona.co
 merchant.crypto.com
+*.mona.co
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3792,8 +3792,8 @@ secure-dfadmin.deriv.com
 werkenbijdefensie.nl
 mijnkombijdepolitie.nl
 doorstromen.mijnkombijdepolitie.nl
-devmaximum.com
 www.werkenbijbakertilly.nl
+devmaximum.com
 acme-challenge.nl
 nossl.nl
 no-reply.cloud
@@ -3902,8 +3902,8 @@ playcanv.as
 *.sc-corp.net
 web.snapchat.com
 login.playcanvas.com
-ads.snapchat.com
 playcanvas.com
+ads.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -4187,8 +4187,8 @@ spaces.pm
 www.quip.com
 *.quip.com
 api.slack.com
-app.slack.com
 slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4225,10 +4225,10 @@ reviewer.pullrequest.com
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
-cover-photos.hackerone-user-content.com
 app.pullrequest.com
-www.hackerone.com
+cover-photos.hackerone-user-content.com
 hackerone-ext-content.com
+www.hackerone.com
 api.hackerone.com
 hackathon-photos.hackerone-user-content.com
 hackerone.com
