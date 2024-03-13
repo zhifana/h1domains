@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 01:56:20 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 02:25:49 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -436,8 +436,8 @@ mediacenter.23andme.com
 medical.23andme.com
 store.23andme.com
 therapeutics.23andme.com
-you.23andme.com
 research.23andme.com
+you.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -1928,7 +1928,6 @@ api.bitso.com
 http://bitso.com/alpha
 nvio.mx
 nvio.ar
-larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
 open.larksuite.com
@@ -1939,6 +1938,7 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
+larksuite.com
 hackers_chosendomain.larksuite.com
 app.larksuite.com
 larksuite.com
@@ -2077,12 +2077,12 @@ fp-sg.tiktokv.com
 effecthouse.tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
-ads.tiktok.com
 *.tiktokv.com
+ads.tiktok.com
 www.pangleglobal.com
 partner.tiktokshop.com
-tiktok.com
 *.tiktok.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2752,7 +2752,6 @@ codahosted.io
 codacontent.io
 sketch.pixiv.net
 sensei.pixiv.net
-accounts.pixiv.net
 www.pixiv.net
 booth.pm
 comic.pixiv.net
@@ -2764,6 +2763,7 @@ payment.pixiv.net
 neoket.net
 novel.pixiv.net
 coban.pixiv.net
+accounts.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -2940,7 +2940,6 @@ booking.beachbound.com
 book.beachbound.com
 book.extraholidaysvacations.com
 holidays-nz.fijiairways.com
-res.en.travelbrandsagent.com
 res.funjet.com
 res.marival.globalbookingsolutions.com
 res.secretsresorts.com
@@ -2965,6 +2964,7 @@ res.fr.travelbrandsagent.com
 res.southwestvacations.com
 res.universalorlandovacations.com
 res.vacations.united.com
+res.vacations.universalstudioshollywood.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -3635,8 +3635,8 @@ card.starbucks.com.sg
 www.starbucks.com.sg
 cart.starbucks.co.jp
 www.starbucks.co.kr
-www.starbucks.com
 gift.starbucks.co.jp
+www.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3859,8 +3859,8 @@ accounts.shopify.com
 your-store.myshopify.com
 *.shopify.io
 *.shopify.com
-admin.shopify.com
 partners.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
