@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 13:45:02 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 14:22:02 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -390,8 +390,8 @@ sandbox.fireblocks.io
 http://sb-mobile-api.fireblocks.io
 http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
-*.sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
+*.sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
@@ -784,8 +784,8 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshdesk.com
 yourdomain.freshcaller.com
-yourdomain.freshchat.com
 yourdomain.myfreshworks.com
+yourdomain.freshchat.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -870,8 +870,8 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 support.mozilla.org
 hg.mozilla.org
-www.mozilla.org
 monitor.mozilla.org
+www.mozilla.org
 developer.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
@@ -902,8 +902,8 @@ hiltonhotels.jp
 hilton.com.tr
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-*.hilton.com.tr
 *.hilton.com
+*.hilton.com.tr
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -1182,10 +1182,10 @@ www.stayz.com.au
 www.expediagroup.com
 www.flights.com
 *.travelocity.ca
-www.expedia.com
-*.expediapartnercentral.com
-*.expediacruises.com
 *.travelocity.com
+www.expedia.com
+*.expediacruises.com
+*.expediapartnercentral.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1214,8 +1214,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.dev
 *.magiceden.io
-magiceden.io
 *.magiceden.workers.dev
+magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1769,7 +1769,6 @@ cloud.elastic.co
 *.eops.nl
 www.elastic.co
 cloud.elastic.co
-api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
 api.taxjar.com
@@ -1780,6 +1779,7 @@ js.stripe.com
 *.reckostaging.com
 *.link.co
 *.getbouncer.com
+api.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1930,7 +1930,6 @@ nvio.ar
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
-open.larksuite.com
 api.larksuite.com
 caldav.larksuite.com
 status.larksuite.com
@@ -1940,6 +1939,7 @@ internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 app.larksuite.com
 hackers_chosendomain.larksuite.com
+open.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -1985,8 +1985,8 @@ internal-docs.netlify.com
 internal.netlify.com
 *.ops.netlify.com
 app.netlify.com
-*.infra-prod.nsvcs.net
 api.netlify.com
+*.infra-prod.nsvcs.net
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -2073,14 +2073,14 @@ academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 business.tiktok.com
 creatormarketplace.tiktok.com
-partner.tiktokshop.com
 tiktok.com
-*.tiktokv.com
 www.pangleglobal.com
+partner.tiktokshop.com
+effecthouse.tiktok.com
 ads.tiktok.com
 shop.tiktok.com
-effecthouse.tiktok.com
 careers.tiktok.com
+*.tiktokv.com
 *.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -3075,9 +3075,9 @@ service.tvg.com
 us.tvg.com
 tvg.com
 www.4njbets.com
-fanduel.design
 fdbox.net
 *.fanduel.com
+fanduel.design
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3111,14 +3111,6 @@ https://github.com/matomo-org/docker
 paypalobjects.com
 paypal.me
 py.pl
-www.swiftcapital.com
-www.swiftfinancial.com
-api.swiftfinancial.com
-api.loanbuilder.com
-my.loanbuilder.com
-loanbuilder.com
-swiftfinancial.com
-swiftcapital.com
 *.braintreepayments.com
 *.braintree-api.com
 *.braintree.tools
@@ -3127,6 +3119,14 @@ partner.swiftfinancial.com
 decision.swiftfinancial.com
 pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
+www.swiftcapital.com
+www.swiftfinancial.com
+api.swiftfinancial.com
+api.loanbuilder.com
+my.loanbuilder.com
+loanbuilder.com
+swiftfinancial.com
+swiftcapital.com
 *.hyperwallet.com
 *.paylution.com
 *.braintreegateway.com
@@ -3297,12 +3297,12 @@ partner.steampowered.com
 www.valvesoftware.com
 partner.steamgames.com
 playartifact.com
-api.steampowered.com
 www.teamfortress.com
 help.steampowered.com
 steamcommunity.com
 store.steampowered.com
 www.counter-strike.net
+api.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3751,8 +3751,8 @@ winecellar.zomato.com
 api.grofers.com
 api2.grofers.com
 blinkit.com
-*.runnr.in
 *.zomato.com
+*.runnr.in
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3855,9 +3855,9 @@ arrive-server.shopifycloud.com
 *.shopifycs.com
 partners.shopify.com
 *.shopify.com
-admin.shopify.com
-your-store.myshopify.com
 accounts.shopify.com
+your-store.myshopify.com
+admin.shopify.com
 *.shopify.io
 *.shopifycs.com
 *.shopify.io
@@ -3986,9 +3986,9 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 *.hoteltonight-test.com
 www.hoteltonight.com
-www.airbnb.com
 *.airbnbcitizen.com
 *.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4151,11 +4151,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
-api.coinbase.com
 institutional.coinbase.com
 *.base.org
 international.coinbase.com
@@ -4178,7 +4178,6 @@ nft.coinbase.com
 http://coinbase.com
 international.coinbase.com
 *.base.org
-api.slack.com
 status.slack.com
 slackb.com
 edgeapi.slack.com
@@ -4190,6 +4189,7 @@ www.quip.com
 *.quip.com
 slack.com
 app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4214,7 +4214,6 @@ apis.mail.yahoo.com
 yimg.com
 *.vpn.hackerone.net
 errors.hackerone.net
-api.hackerone.com
 hackerone.live
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
@@ -4231,9 +4230,10 @@ www.wearehackerone.com
 hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 app.pullrequest.com
-hackerone.com
 www.hackerone.com
 hackerone-ext-content.com
+hackerone.com
+api.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
