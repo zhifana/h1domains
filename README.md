@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 05:19:53 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 05:40:57 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -389,9 +389,9 @@ sandbox.fireblocks.io
 http://sb-mobile-api.fireblocks.io
 http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
-sso-sprint.dynatracelabs.com
 account-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
+sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
@@ -482,7 +482,6 @@ www.mercadolibre.cl
 www.mercadopago.cl
 www.temu.com
 www.temu.com
-booking.com
 supplier.auth.toag.booking.com
 paymentcomponent.booking.com
 metasearch-api.booking.com
@@ -513,6 +512,7 @@ account.booking.com
 *.rentalcars.com
 careers.booking.com
 *.booking.com
+booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -870,8 +870,8 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 support.mozilla.org
 hg.mozilla.org
-monitor.mozilla.org
 www.mozilla.org
+monitor.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -1324,11 +1324,11 @@ metamask.io
 snaps.metamask.io
 portfolio.metamask.io
 dashboard.razorpay.com
-api.razorpay.com
 checkout.razorpay.com
 invoices.razorpay.com
 payroll.razorpay.com
 x.razorpay.com
+api.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -1361,9 +1361,9 @@ www.cheapflights.com
 www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
-sorare.com
 api.sorare.com
 ws.sorare.com
+sorare.com
 sorare.com
 api.sorare.com
 ws.sorare.com
@@ -2076,12 +2076,12 @@ fp-sg.tiktokv.com
 effecthouse.tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
-tiktok.com
 ads.tiktok.com
-*.tiktokv.com
-partner.tiktokshop.com
 *.tiktok.com
+tiktok.com
 www.pangleglobal.com
+partner.tiktokshop.com
+*.tiktokv.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -3110,6 +3110,14 @@ https://github.com/matomo-org/docker
 paypalobjects.com
 paypal.me
 py.pl
+*.braintreepayments.com
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3119,20 +3127,12 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
-*.braintreepayments.com
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
 *.braintreegateway.com
 *.paypalcorp.com
-*.paypal.com
 www.loanbuilder.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3793,8 +3793,8 @@ werkenbijdefensie.nl
 werkenbijderet.nl
 mijnkombijdepolitie.nl
 doorstromen.mijnkombijdepolitie.nl
-devmaximum.com
 www.werkenbijbakertilly.nl
+devmaximum.com
 acme-challenge.nl
 nossl.nl
 no-reply.cloud
