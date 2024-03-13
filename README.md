@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 10:21:11 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 10:42:35 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -41,9 +41,9 @@ www.dyson.com.sg
 www.dyson.co.kr
 www.dyson.co.nz
 www.dyson.ae
-www.dyson.co.il
 www.dyson.hk
 www.dyson.co.th
+www.dyson.my
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -389,8 +389,8 @@ sandbox.fireblocks.io
 http://sb-mobile-api.fireblocks.io
 http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
-*.sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
+*.sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
@@ -869,8 +869,8 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 support.mozilla.org
 hg.mozilla.org
-monitor.mozilla.org
 www.mozilla.org
+monitor.mozilla.org
 developer.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
@@ -917,7 +917,6 @@ hiltonlocalbiz.com
 hiltonhotels.jp
 *.okx.com
 *.okx.com
-watchdocs.indriverapp.com
 injob.indriver.com
 super-services.indriverapp.com
 priority.eu-east-1.indriverapp.com
@@ -926,7 +925,6 @@ messenger.eu-east-1.indriverapp.com
 ab-platform-api.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
-*.indriverapp.com
 *.indriver.com
 *.indrive.com
 cargo.indrive.com
@@ -941,6 +939,8 @@ aws.indrive.tech
 debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 new-order.eu-east-1.indriverapp.com
+*.indriverapp.com
+watchdocs.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1181,10 +1181,10 @@ www.stayz.com.au
 www.expediagroup.com
 www.flights.com
 *.travelocity.ca
-*.travelocity.com
 www.expedia.com
 *.expediacruises.com
 *.expediapartnercentral.com
+*.travelocity.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1213,8 +1213,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.dev
 *.magiceden.io
-*.magiceden.workers.dev
 magiceden.io
+*.magiceden.workers.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1926,7 +1926,6 @@ api.bitso.com
 http://bitso.com/alpha
 nvio.mx
 nvio.ar
-larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
 open.larksuite.com
@@ -1937,8 +1936,9 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
-app.larksuite.com
+larksuite.com
 hackers_chosendomain.larksuite.com
+app.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2033,8 +2033,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-www.cloud.com
 (yoursubdomain).sharefile.com
+www.cloud.com
 (yoursubdomain).sharefile.eu
 citrix.cloud.com
 www.cloud.com
@@ -2079,8 +2079,8 @@ tiktok.com
 effecthouse.tiktok.com
 ads.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 www.pangleglobal.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2862,9 +2862,9 @@ priceline.com
 press.priceline.com
 www.bookingholdings.com
 admin.smartsheet.com
-app.smartsheet.com
 developers.smartsheet.com
 www.smartsheet.com
+app.smartsheet.com
 app.smartsheet.com
 http://api.smartsheet.com/2.0
 admin.smartsheet.com
@@ -3320,9 +3320,9 @@ pay.crypto.com
 app.mona.co
 tax.crypto.com
 *.mona.co
-js.crypto.com
 merchant.crypto.com
 *.crypto.com
+js.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3791,8 +3791,8 @@ secure-dfadmin.deriv.com
 werkenbijdefensie.nl
 mijnkombijdepolitie.nl
 doorstromen.mijnkombijdepolitie.nl
-devmaximum.com
 www.werkenbijbakertilly.nl
+devmaximum.com
 acme-challenge.nl
 nossl.nl
 no-reply.cloud
@@ -3853,8 +3853,8 @@ arrive-server.shopifycloud.com
 *.shopifycs.com
 accounts.shopify.com
 your-store.myshopify.com
-partners.shopify.com
 *.shopify.com
+partners.shopify.com
 admin.shopify.com
 *.shopify.io
 *.shopifycs.com
@@ -4223,7 +4223,6 @@ hackathon-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
-app.pullrequest.com
 reviewer.pullrequest.com
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
@@ -4232,6 +4231,7 @@ hackerone-user-content.com
 www.hackerone.com
 cover-photos.hackerone-user-content.com
 hackerone.com
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
