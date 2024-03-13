@@ -438,8 +438,8 @@ fireblocks,sandbox.fireblocks.io,True
 fireblocks,http://sb-mobile-api.fireblocks.io,True
 fireblocks,http://sb-console-api.fireblocks.io,True
 fireblocks,http://sandbox-api.fireblocks.io,True
-dynatrace,sso-sprint.dynatracelabs.com,True
 dynatrace,*.sprint.dynatracelabs.com,True
+dynatrace,sso-sprint.dynatracelabs.com,True
 dynatrace,university-staging.dynatracelabs.com,True
 dynatrace,myaccount-hardening.dynatracelabs.com,True
 dynatrace,*.sprint.apps.dynatracelabs.com,True
@@ -469,11 +469,11 @@ hostinger,backend.zyro.com,True
 hostinger,editor.zyro.com,True
 hostinger,logo.zyro.com,True
 hostinger,cpanel.hostinger.com,True
-hostinger,hpanel.hostinger.com,True
 hostinger,payments.hostinger.com,True
 hostinger,www.niagahoster.co.id,True
 hostinger,*.000webhost.com,True
 hostinger,www.hostinger.com,True
+hostinger,hpanel.hostinger.com,True
 hostinger,*.000webhost.com,True
 hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
@@ -653,8 +653,8 @@ navient_solutions,payments.msbpay.navient.com,False
 navient_solutions,www.navirefi.com,False
 navient_solutions,apply2.navirefi.com,False
 navient_solutions,wsmb2bresv.navient.com,False
-frontegg,portal.au.frontegg.com,True
 frontegg,api.au.frontegg.com,True
+frontegg,portal.au.frontegg.com,True
 frontegg,api.au.frontegg.com,True
 frontegg,portal.au.frontegg.com,True
 cbre,*.cbre.*,False
@@ -2200,10 +2200,10 @@ daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.setra.de,False
-daimler_truck,*.daimlertruck.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.freightliner.com,False
 daimler_truck,*detroitconnect.com,False
+daimler_truck,*.daimlertruck.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -3159,8 +3159,8 @@ clarivate,biologybrowser.org,False
 clarivate,biologyfinder.com,False
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshcaller.com,True
-freshworks,yourdomain.freshchat.com,True
 freshworks,yourdomain.myfreshworks.com,True
+freshworks,yourdomain.freshchat.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshservice.com,True
@@ -3242,7 +3242,6 @@ mozilla_critical_services,firefox-ci-tc.services.mozilla.com,True
 mozilla_critical_services,mozilla-pontoon-staging.herokuapp.com,True
 mozilla_critical_services,shavar.services.mozilla.com,True
 mozilla_critical_services,phabricator.allizom.org,True
-mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,profiler.firefox.com,True
 mozilla_core_services,vpn.mozilla.org,True
 mozilla_core_services,relay.firefox.com,True
@@ -3251,8 +3250,9 @@ mozilla_core_services,stage.taskcluster.nonprod.cloudops.mozgcp.net,True
 mozilla_core_services,community-tc.services.mozilla.com,True
 mozilla_core_services,support.mozilla.org,True
 mozilla_core_services,hg.mozilla.org,True
-mozilla_core_services,www.mozilla.org,True
 mozilla_core_services,monitor.mozilla.org,True
+mozilla_core_services,www.mozilla.org,True
+mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,profiler.firefox.com,True
 mozilla_core_services,vpn.mozilla.org,True
@@ -3501,10 +3501,10 @@ miro,http://miro.com/blog,True
 abb,abb.com.br,False
 abb,*.abb.com.tr,False
 abb,*.abb.com.cn,False
-abb,*.baldor.com,False
 abb,*.cylon.com,False
-abb,*.tnb.com,False
 abb,*.abb.com,False
+abb,*.tnb.com,False
+abb,*.baldor.com,False
 abb,*.abb.com,False
 abb,*.tnb.com,False
 abb,*.abb.com.tr,False
@@ -3857,10 +3857,10 @@ expediagroup_bbp,www.stayz.com.au,True
 expediagroup_bbp,www.expediagroup.com,True
 expediagroup_bbp,www.flights.com,True
 expediagroup_bbp,*.travelocity.ca,True
+expediagroup_bbp,*.travelocity.com,True
 expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,*.expediacruises.com,True
 expediagroup_bbp,*.expediapartnercentral.com,True
-expediagroup_bbp,*.travelocity.com,True
 expediagroup_bbp,*.vrbo.com,True
 expediagroup_bbp,*.hotwire.com,True
 expediagroup_bbp,*.carrentals.com,True
@@ -3917,9 +3917,9 @@ expediagroup,thailand.airasiago.com,False
 expediagroup,*.travelocity.ca,False
 expediagroup,*.expediacruises.com,False
 expediagroup,*.expediapartnercentral.com,False
-expediagroup,*.expedia.com,False
 expediagroup,*.travelocity.com,False
 expediagroup,*.carrentals.com,False
+expediagroup,*.expedia.com,False
 expediagroup,*.expedia.com,False
 expediagroup,*.hotwire.com,False
 expediagroup,*.orbitz.com,False
@@ -4967,7 +4967,6 @@ planetart,www.gifts.com,False
 planetart,www.cafepress.com,False
 planetart,www.canvasworld.com,False
 planetart,www.mycustomcase.com,False
-planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
 planetart,*.iseeme.com,False
@@ -4978,6 +4977,7 @@ planetart,iseeme.com,False
 planetart,www.simplytoimpress.com,False
 planetart,ai.planetart.com,False
 planetart,*.personalcreations.com,False
+planetart,*.cafepress.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -5712,7 +5712,6 @@ elastic,*.elasticnet.co,True
 elastic,*.eops.nl,True
 elastic,www.elastic.co,True
 elastic,cloud.elastic.co,True
-john-deere,deere.com,False
 john-deere,partsadvisor.deere.com,False
 john-deere,myjohndeere.deere.com,False
 john-deere,jdquote2.deere.com,False
@@ -5746,7 +5745,6 @@ john-deere,hvc.bearflagrobotics.com,False
 john-deere,www.bearflagrobotics.com,False
 john-deere,hb-backend-public.dev.bearflagrobotics.com,False
 john-deere,api.agrisync.com,False
-john-deere,app.agrisync.com,False
 john-deere,crm-connector.agrisync.com,False
 john-deere,cs-admin.agrisync.com,False
 john-deere,dc-service.agrisync.com,False
@@ -5757,6 +5755,8 @@ john-deere,dev-cs-admin.agrisync.com,False
 john-deere,dev-dc-service.agrisync.com,False
 john-deere,dev-diagnostics.agrisync.com,False
 john-deere,dev-ms-vendors1.agrisync.com,False
+john-deere,dev-ss-dashboard.agrisync.com,False
+john-deere,dev-vhb.agrisync.com,False
 john-deere,https://deere.com,False
 john-deere,partsadvisor.deere.com,False
 john-deere,myjohndeere.deere.com,False
@@ -6530,8 +6530,6 @@ reddit,meta-api.reddit.com,True
 reddit,amp.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,ads-api.reddit.com,True
-reddit,www.reddit.com,True
-reddit,old.reddit.com,True
 reddit,new.reddit.com,True
 reddit,*.redditinc.com,True
 reddit,*.redditblog.com,True
@@ -6554,6 +6552,8 @@ reddit,matrix.redditspace.com,True
 reddit,redditforbusiness.com,True
 reddit,app.spiketrap.io,True
 reddit,www.spiketrap.io,True
+reddit,www.reddit.com,True
+reddit,old.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -7378,13 +7378,13 @@ tiktok,fp-sg.tiktokv.com,True
 tiktok,business.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,partner.tiktokshop.com,True
-tiktok,www.pangleglobal.com,True
 tiktok,shop.tiktok.com,True
 tiktok,tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
-tiktok,*.tiktok.com,True
 tiktok,ads.tiktok.com,True
 tiktok,*.tiktokv.com,True
+tiktok,*.tiktok.com,True
+tiktok,www.pangleglobal.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -8021,9 +8021,9 @@ alibaba,www.alibabagroup.com,True
 alibaba,*.alimama.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.Daraz.com,True
+alibaba,*.tmall.com,True
 alibaba,*.aliexpress.com,True
 alibaba,*.alibaba.com,True
-alibaba,*.tmall.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
 alibaba,*.taobao.com,True
@@ -8224,8 +8224,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.roblox.com,True
 roblox,*.guilded.gg,True
+roblox,*.roblox.com,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -8499,7 +8499,6 @@ mtn_group,mtn.bj,False
 mtn_group,mtncameroon.net,False
 mtn_group,mtncongo.net,False
 mtn_group,mtn.ci,False
-mtn_group,mtn.com.gh,False
 mtn_group,lonestarcell.com,False
 mtn_group,mtn.sd,False
 mtn_group,mtn.co.sz,False
@@ -8513,6 +8512,7 @@ mtn_group,mtnplay.co.zm,False
 mtn_group,www.mtn.zm,False
 mtn_group,mtngbissau.com,False
 mtn_group,ringtune.mtn.co.za,False
+mtn_group,dep.mtn.co.za,False
 mtn_group,mtn.com,False
 mtn_group,mtn.co.za,False
 mtn_group,mtn.com.af,False
@@ -9490,10 +9490,10 @@ fanduel,pabets.tvg.com,True
 fanduel,promos.tvg.com,True
 fanduel,service.tvg.com,True
 fanduel,us.tvg.com,True
-fanduel,*.fanduel.com,True
 fanduel,tvg.com,True
 fanduel,www.4njbets.com,True
 fanduel,fdbox.net,True
+fanduel,*.fanduel.com,True
 fanduel,*.fanduel.com,True
 fanduel,*racing.fanduel.com,True
 fanduel,fdbox.net,True
@@ -10682,7 +10682,6 @@ airbnb,omgpro.airbnb.com,True
 airbnb,one.airbnb.com,True
 airbnb,open.airbnb.com,True
 airbnb,callbacks.airbnb.com,True
-airbnb,*.airbnb.com,True
 airbnb,*.atairbnb.com,True
 airbnb,*.withairbnb.com,True
 airbnb,*.byairbnb.com,True
@@ -10691,8 +10690,9 @@ airbnb,*.airbnb-aws.com,True
 airbnb,*.luxuryretreats.com,True
 airbnb,*.hoteltonight-test.com,True
 airbnb,www.hoteltonight.com,True
-airbnb,*.airbnbcitizen.com,True
 airbnb,www.airbnb.com,True
+airbnb,*.airbnbcitizen.com,True
+airbnb,*.airbnb.com,True
 airbnb,www.airbnb.com,True
 airbnb,next.airbnb.com,True
 airbnb,api.airbnb.com,True
@@ -10865,12 +10865,12 @@ irccloud,team-irc.irccloud.com,True
 irccloud,blog.irccloud.com,True
 coinbase,*.cbhq.net,True
 coinbase,api.custody.coinbase.com,True
-coinbase,api.coinbase.com,True
 coinbase,pro.coinbase.com,True
 coinbase,custody.coinbase.com,True
 coinbase,commerce.coinbase.com,True
 coinbase,prime.coinbase.com,True
 coinbase,institutional.coinbase.com,True
+coinbase,api.coinbase.com,True
 coinbase,*.base.org,True
 coinbase,international.coinbase.com,True
 coinbase,nft.coinbase.com,True
@@ -10946,8 +10946,8 @@ security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,T
 security,www.wearehackerone.com,True
 security,hackerone-user-content.com,True
 security,www.hackerone.com,True
-security,hackerone.com,True
 security,cover-photos.hackerone-user-content.com,True
+security,hackerone.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True

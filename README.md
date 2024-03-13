@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 09:43:42 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 10:21:11 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -389,8 +389,8 @@ sandbox.fireblocks.io
 http://sb-mobile-api.fireblocks.io
 http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
-sso-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
+sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
@@ -412,11 +412,11 @@ backend.zyro.com
 editor.zyro.com
 logo.zyro.com
 cpanel.hostinger.com
-hpanel.hostinger.com
 payments.hostinger.com
 www.niagahoster.co.id
 *.000webhost.com
 www.hostinger.com
+hpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -549,8 +549,8 @@ spark.fareharbor.com
 www.fareharbor.com
 *.bybit.com
 *.bybit.com
-portal.au.frontegg.com
 api.au.frontegg.com
+portal.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 api2.frontapp.com
@@ -783,8 +783,8 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshdesk.com
 yourdomain.freshcaller.com
-yourdomain.freshchat.com
 yourdomain.myfreshworks.com
+yourdomain.freshchat.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -861,7 +861,6 @@ firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 phabricator.allizom.org
-developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
 relay.firefox.com
@@ -870,8 +869,9 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 support.mozilla.org
 hg.mozilla.org
-www.mozilla.org
 monitor.mozilla.org
+www.mozilla.org
+developer.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -1181,10 +1181,10 @@ www.stayz.com.au
 www.expediagroup.com
 www.flights.com
 *.travelocity.ca
+*.travelocity.com
 www.expedia.com
 *.expediacruises.com
 *.expediapartnercentral.com
-*.travelocity.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1800,8 +1800,6 @@ meta-api.reddit.com
 amp.reddit.com
 *.snooguts.net
 ads-api.reddit.com
-www.reddit.com
-old.reddit.com
 new.reddit.com
 *.redditinc.com
 *.redditblog.com
@@ -1824,6 +1822,8 @@ matrix.redditspace.com
 redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
+www.reddit.com
+old.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2074,13 +2074,13 @@ fp-sg.tiktokv.com
 business.tiktok.com
 creatormarketplace.tiktok.com
 partner.tiktokshop.com
-www.pangleglobal.com
 shop.tiktok.com
 tiktok.com
 effecthouse.tiktok.com
-*.tiktok.com
 ads.tiktok.com
 *.tiktokv.com
+*.tiktok.com
+www.pangleglobal.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2559,9 +2559,9 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.ru
 *.Daraz.com
+*.tmall.com
 *.aliexpress.com
 *.alibaba.com
-*.tmall.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2692,8 +2692,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3072,10 +3072,10 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 us.tvg.com
-*.fanduel.com
 tvg.com
 www.4njbets.com
 fdbox.net
+*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3976,7 +3976,6 @@ omgpro.airbnb.com
 one.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
-*.airbnb.com
 *.atairbnb.com
 *.withairbnb.com
 *.byairbnb.com
@@ -3985,8 +3984,9 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 *.hoteltonight-test.com
 www.hoteltonight.com
-*.airbnbcitizen.com
 www.airbnb.com
+*.airbnbcitizen.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4149,12 +4149,12 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
+api.coinbase.com
 *.base.org
 international.coinbase.com
 nft.coinbase.com
@@ -4230,8 +4230,8 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
 hackerone-user-content.com
 www.hackerone.com
-hackerone.com
 cover-photos.hackerone-user-content.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com

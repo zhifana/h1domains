@@ -437,8 +437,8 @@ sandbox.fireblocks.io
 http://sb-mobile-api.fireblocks.io
 http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
-sso-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
+sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
@@ -468,11 +468,11 @@ backend.zyro.com
 editor.zyro.com
 logo.zyro.com
 cpanel.hostinger.com
-hpanel.hostinger.com
 payments.hostinger.com
 www.niagahoster.co.id
 *.000webhost.com
 www.hostinger.com
+hpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -652,8 +652,8 @@ payments.msbpay.navient.com
 www.navirefi.com
 apply2.navirefi.com
 wsmb2bresv.navient.com
-portal.au.frontegg.com
 api.au.frontegg.com
+portal.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 *.cbre.*
@@ -2199,10 +2199,10 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 *.westernstar.com
 *.bharatbenz.com
 *.setra.de
-*.daimlertruck.com
 *exceleratorparts.com
 *.freightliner.com
 *detroitconnect.com
+*.daimlertruck.com
 *exceleratorparts.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
@@ -3158,8 +3158,8 @@ biologybrowser.org
 biologyfinder.com
 yourdomain.freshdesk.com
 yourdomain.freshcaller.com
-yourdomain.freshchat.com
 yourdomain.myfreshworks.com
+yourdomain.freshchat.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -3241,7 +3241,6 @@ firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 phabricator.allizom.org
-developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
 relay.firefox.com
@@ -3250,8 +3249,9 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 support.mozilla.org
 hg.mozilla.org
-www.mozilla.org
 monitor.mozilla.org
+www.mozilla.org
+developer.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -3500,10 +3500,10 @@ http://miro.com/blog
 abb.com.br
 *.abb.com.tr
 *.abb.com.cn
-*.baldor.com
 *.cylon.com
-*.tnb.com
 *.abb.com
+*.tnb.com
+*.baldor.com
 *.abb.com
 *.tnb.com
 *.abb.com.tr
@@ -3856,10 +3856,10 @@ www.stayz.com.au
 www.expediagroup.com
 www.flights.com
 *.travelocity.ca
+*.travelocity.com
 www.expedia.com
 *.expediacruises.com
 *.expediapartnercentral.com
-*.travelocity.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -3916,9 +3916,9 @@ thailand.airasiago.com
 *.travelocity.ca
 *.expediacruises.com
 *.expediapartnercentral.com
-*.expedia.com
 *.travelocity.com
 *.carrentals.com
+*.expedia.com
 *.expedia.com
 *.hotwire.com
 *.orbitz.com
@@ -4966,7 +4966,6 @@ www.gifts.com
 www.cafepress.com
 www.canvasworld.com
 www.mycustomcase.com
-*.cafepress.com
 *.canvasworld.com
 *.gifts.com
 *.iseeme.com
@@ -4977,6 +4976,7 @@ iseeme.com
 www.simplytoimpress.com
 ai.planetart.com
 *.personalcreations.com
+*.cafepress.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -5711,7 +5711,6 @@ cloud.elastic.co
 *.eops.nl
 www.elastic.co
 cloud.elastic.co
-deere.com
 partsadvisor.deere.com
 myjohndeere.deere.com
 jdquote2.deere.com
@@ -5745,7 +5744,6 @@ hvc.bearflagrobotics.com
 www.bearflagrobotics.com
 hb-backend-public.dev.bearflagrobotics.com
 api.agrisync.com
-app.agrisync.com
 crm-connector.agrisync.com
 cs-admin.agrisync.com
 dc-service.agrisync.com
@@ -5756,6 +5754,8 @@ dev-cs-admin.agrisync.com
 dev-dc-service.agrisync.com
 dev-diagnostics.agrisync.com
 dev-ms-vendors1.agrisync.com
+dev-ss-dashboard.agrisync.com
+dev-vhb.agrisync.com
 https://deere.com
 partsadvisor.deere.com
 myjohndeere.deere.com
@@ -6529,8 +6529,6 @@ meta-api.reddit.com
 amp.reddit.com
 *.snooguts.net
 ads-api.reddit.com
-www.reddit.com
-old.reddit.com
 new.reddit.com
 *.redditinc.com
 *.redditblog.com
@@ -6553,6 +6551,8 @@ matrix.redditspace.com
 redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
+www.reddit.com
+old.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -7377,13 +7377,13 @@ fp-sg.tiktokv.com
 business.tiktok.com
 creatormarketplace.tiktok.com
 partner.tiktokshop.com
-www.pangleglobal.com
 shop.tiktok.com
 tiktok.com
 effecthouse.tiktok.com
-*.tiktok.com
 ads.tiktok.com
 *.tiktokv.com
+*.tiktok.com
+www.pangleglobal.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -8020,9 +8020,9 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.ru
 *.Daraz.com
+*.tmall.com
 *.aliexpress.com
 *.alibaba.com
-*.tmall.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -8223,8 +8223,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -8498,7 +8498,6 @@ mtn.bj
 mtncameroon.net
 mtncongo.net
 mtn.ci
-mtn.com.gh
 lonestarcell.com
 mtn.sd
 mtn.co.sz
@@ -8512,6 +8511,7 @@ mtnplay.co.zm
 www.mtn.zm
 mtngbissau.com
 ringtune.mtn.co.za
+dep.mtn.co.za
 mtn.com
 mtn.co.za
 mtn.com.af
@@ -9489,10 +9489,10 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 us.tvg.com
-*.fanduel.com
 tvg.com
 www.4njbets.com
 fdbox.net
+*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -10681,7 +10681,6 @@ omgpro.airbnb.com
 one.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
-*.airbnb.com
 *.atairbnb.com
 *.withairbnb.com
 *.byairbnb.com
@@ -10690,8 +10689,9 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 *.hoteltonight-test.com
 www.hoteltonight.com
-*.airbnbcitizen.com
 www.airbnb.com
+*.airbnbcitizen.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -10864,12 +10864,12 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
+api.coinbase.com
 *.base.org
 international.coinbase.com
 nft.coinbase.com
@@ -10945,8 +10945,8 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
 hackerone-user-content.com
 www.hackerone.com
-hackerone.com
 cover-photos.hackerone-user-content.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
