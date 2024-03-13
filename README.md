@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 17:45:46 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 18:24:39 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -322,8 +322,8 @@ webonboarding-eu.truecaller.com
 cards.remitly.io
 rewire.com
 app.rewire.to
-api.remitly.io
 remitly.com
+api.remitly.io
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -336,8 +336,8 @@ bioid-management.app
 *.worldcoin.dev
 worldcoin.org
 *.toolsforhumanity.com
-*.worldcoin.org
 *.consumer.worldcoin.org
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -390,8 +390,8 @@ sandbox.fireblocks.io
 http://sb-mobile-api.fireblocks.io
 http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
-*.sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
+*.sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -461,10 +461,10 @@ www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadopago.com.br
-www.mercadopago.com.ar
-www.mercadolibre.com.ar
 api.mercadolibre.com
 www.mercadolivre.com.br
+www.mercadopago.com.ar
+www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -512,8 +512,8 @@ careers.booking.com
 secure.booking.com
 widget.rentalcars.com
 booking.com
-*.booking.com
 *.rentalcars.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -902,8 +902,8 @@ hilton.com.tr
 hiltonbusinessonline.com
 hiltonlocalbiz.com
 *.hilton.com.tr
-*.hilton.com
 *.hiltonbusinessonline.com
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -1769,7 +1769,6 @@ cloud.elastic.co
 *.eops.nl
 www.elastic.co
 cloud.elastic.co
-*.stripe.com
 *.touchtechpayments.com
 api.taxjar.com
 js.stripe.com
@@ -1780,6 +1779,7 @@ js.stripe.com
 api.stripe.com
 app.taxjar.com
 *.getbouncer.com
+*.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1927,7 +1927,6 @@ api.bitso.com
 http://bitso.com/alpha
 nvio.mx
 nvio.ar
-larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
 api.larksuite.com
@@ -1937,9 +1936,10 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
+larksuite.com
+open.larksuite.com
 app.larksuite.com
 hackers_chosendomain.larksuite.com
-open.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2034,8 +2034,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-www.cloud.com
 (yoursubdomain).sharefile.com
+www.cloud.com
 (yoursubdomain).sharefile.eu
 citrix.cloud.com
 www.cloud.com
@@ -2071,17 +2071,17 @@ developers.tiktok.com
 live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
-tiktok.com
+careers.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
-careers.tiktok.com
 creatormarketplace.tiktok.com
 www.pangleglobal.com
 business.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 partner.tiktokshop.com
+*.tiktok.com
 ads.tiktok.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2450,6 +2450,7 @@ music-api.amazon.com
 music-hints-na.amazon.com
 musicapp.amazon.com
 musiccentral.amazon.com
+pitangui.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2559,8 +2560,8 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.ru
 *.Daraz.com
-*.alibaba.com
 *.aliexpress.com
+*.alibaba.com
 *.aliyun.com
 *.tmall.com
 *.alibaba.com
@@ -2611,7 +2612,6 @@ maria.casino
 *.vladcazino.ro
 *.unibet.fr
 *.storspiller.com
-*.bingo.com
 *.mariacasino.com
 *.kolikkopelit.com
 *.casinohuone.com
@@ -2619,6 +2619,7 @@ maria.casino
 www.32red.com
 *.kes.kindredext.net
 *.highrolling.nu
+*.bingo.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -3732,8 +3733,8 @@ about.gitlab.com
 docs.gitlab.com
 design.gitlab.com
 advisories.gitlab.com
-gitlab.com
 *.gitlab.net
+gitlab.com
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -4155,13 +4156,13 @@ pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
-institutional.coinbase.com
 api.coinbase.com
+institutional.coinbase.com
 *.base.org
 international.coinbase.com
 nft.coinbase.com
-cloud.coinbase.com
 *.coinbase.com
+cloud.coinbase.com
 coinbase.com
 *.coinbase.com
 *.cbhq.net
@@ -4188,8 +4189,8 @@ spaces.pm
 www.quip.com
 *.quip.com
 api.slack.com
-slack.com
 app.slack.com
+slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4227,10 +4228,10 @@ ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
 hackerone-user-content.com
-cover-photos.hackerone-user-content.com
 app.pullrequest.com
-www.hackerone.com
+cover-photos.hackerone-user-content.com
 hackerone-ext-content.com
+www.hackerone.com
 api.hackerone.com
 hackathon-photos.hackerone-user-content.com
 hackerone.com
