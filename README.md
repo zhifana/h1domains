@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 12:53:04 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 13:18:57 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -320,9 +320,9 @@ webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
 rewire.com
-api.remitly.io
 app.rewire.to
 remitly.com
+api.remitly.io
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -509,9 +509,9 @@ spark.fareharbor.com
 kyc-onboarding.booking.com
 account.booking.com
 careers.booking.com
-*.booking.com
-booking.com
 secure.booking.com
+booking.com
+*.booking.com
 *.rentalcars.com
 *.booking.com
 *.rentalcars.com
@@ -784,8 +784,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshdesk.com
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
-yourdomain.freshservice.com
 yourdomain.freshchat.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -869,8 +869,8 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 support.mozilla.org
 hg.mozilla.org
-www.mozilla.org
 monitor.mozilla.org
+www.mozilla.org
 developer.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
@@ -1181,10 +1181,10 @@ www.stayz.com.au
 www.expediagroup.com
 www.flights.com
 *.travelocity.ca
+*.travelocity.com
 www.expedia.com
 *.expediacruises.com
 *.expediapartnercentral.com
-*.travelocity.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1643,8 +1643,8 @@ securitytrails.com
 geminiadvisory.io
 hatching.io
 tria.ge
-www.recordedfuture.com
 app.recordedfuture.com
+www.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1926,6 +1926,7 @@ api.bitso.com
 http://bitso.com/alpha
 nvio.mx
 nvio.ar
+larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
 open.larksuite.com
@@ -1936,7 +1937,6 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
-larksuite.com
 app.larksuite.com
 hackers_chosendomain.larksuite.com
 larksuite.com
@@ -1984,8 +1984,8 @@ internal-docs.netlify.com
 internal.netlify.com
 *.ops.netlify.com
 app.netlify.com
-api.netlify.com
 *.infra-prod.nsvcs.net
+api.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -2074,8 +2074,8 @@ fp-sg.tiktokv.com
 business.tiktok.com
 creatormarketplace.tiktok.com
 partner.tiktokshop.com
-*.tiktokv.com
 tiktok.com
+*.tiktokv.com
 www.pangleglobal.com
 ads.tiktok.com
 shop.tiktok.com
@@ -2586,7 +2586,6 @@ www.bmw-motorrad.de
 configure.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
-auth.magic.link
 dashboard.magic.link
 api.magic.link
 fortmatic.com
@@ -2594,6 +2593,7 @@ api.fortmatic.com
 x2.fortmatic.com
 careers.fortmatic.com
 dashboard.fortmatic.com
+auth.magic.link
 api.fortmatic.com
 x2.fortmatic.com
 careers.fortmatic.com
@@ -2845,11 +2845,11 @@ cysiv.com
 app.command.cysiv.com
 api.rezserver.com
 admin.rezserver.com
-www.priceline.com
 reservations.rezserver.com
 cruises.priceline.com
 press.priceline.com
 www.bookingholdings.com
+secure.rezserver.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3073,8 +3073,8 @@ service.tvg.com
 us.tvg.com
 tvg.com
 www.4njbets.com
-fdbox.net
 *.fanduel.com
+fdbox.net
 fanduel.design
 *.fanduel.com
 *racing.fanduel.com
@@ -3130,8 +3130,8 @@ scrutiny.swiftfinancial.com
 *.braintreegateway.com
 *.paypalcorp.com
 www.loanbuilder.com
-*.paypal.com
 my.swiftfinancial.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3319,10 +3319,10 @@ auth.crypto.com
 pay.crypto.com
 app.mona.co
 *.mona.co
+tax.crypto.com
 merchant.crypto.com
 *.crypto.com
 js.crypto.com
-tax.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3839,8 +3839,8 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 http://h1-your-domain.zendesk.com/sell
-www.udemy.com
 yourcompany.udemy.com
+www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 *.shopifykloud.com
@@ -3852,11 +3852,11 @@ shopify.plus
 arrive-server.shopifycloud.com
 *.shopifycs.com
 accounts.shopify.com
-your-store.myshopify.com
-*.shopify.com
 partners.shopify.com
-admin.shopify.com
+*.shopify.com
 *.shopify.io
+your-store.myshopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -4149,18 +4149,18 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
+api.coinbase.com
 *.base.org
 international.coinbase.com
 nft.coinbase.com
 *.coinbase.com
-cloud.coinbase.com
 coinbase.com
+cloud.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -4228,10 +4228,10 @@ ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
 hackerone-user-content.com
-www.hackerone.com
 cover-photos.hackerone-user-content.com
 app.pullrequest.com
 hackerone.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
