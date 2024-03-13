@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 18:42:53 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 19:17:36 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -23,7 +23,6 @@ api.dysoncanada.ca
 api.dyson.dk
 api.dyson.it
 api.dyson.es
-api.dyson.co.uk
 api.dyson.at
 api.dyson.nl
 api.dyson.be
@@ -40,11 +39,12 @@ www.dyson.co.kr
 www.dyson.co.nz
 www.dyson.ae
 www.dyson.hk
-www.dyson.my
 shop.dyson.co.za
 www.sa.dyson.com
 www.dyson.cz
 www.dyson.com.ro
+*.cp.dyson.com
+www.dyson.cn
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -336,8 +336,8 @@ bioid-management.app
 *.worldcoin.dev
 worldcoin.org
 *.toolsforhumanity.com
-*.consumer.worldcoin.org
 *.worldcoin.org
+*.consumer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -462,9 +462,9 @@ www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadopago.com.br
 www.mercadolivre.com.br
-api.mercadolibre.com
 www.mercadopago.com.ar
 www.mercadolibre.com.ar
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -511,9 +511,9 @@ account.booking.com
 careers.booking.com
 secure.booking.com
 widget.rentalcars.com
+*.booking.com
 booking.com
 *.rentalcars.com
-*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -1035,11 +1035,11 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 www.kiwi.com
-*.kiwi.com
 auth.skypicker.com
 tequila.kiwi.com
 jobs.kiwi.com
 *.skypicker.com
+*.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1181,11 +1181,11 @@ www.fewo-direkt.de
 www.stayz.com.au
 www.expediagroup.com
 www.flights.com
-*.travelocity.ca
 www.expedia.com
-*.expediapartnercentral.com
 *.expediacruises.com
+*.expediapartnercentral.com
 *.travelocity.com
+*.travelocity.ca
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -2002,9 +2002,9 @@ list-v2--netlify-plugins.netlify.app
 internal-docs.netlify.com
 supportal.netlify.app
 launchpad.37signals.com
-*.hey.com
 world.hey.com
 3.basecamp.com
+*.hey.com
 *.hey.com
 3.basecamp.com
 launchpad.37signals.com
@@ -2034,8 +2034,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 citrix.cloud.com
 www.cloud.com
@@ -2071,17 +2071,17 @@ developers.tiktok.com
 live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
+careers.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
-careers.tiktok.com
-business.tiktok.com
-*.tiktokv.com
-ads.tiktok.com
-tiktok.com
 creatormarketplace.tiktok.com
 www.pangleglobal.com
-*.tiktok.com
+business.tiktok.com
+*.tiktokv.com
 partner.tiktokshop.com
+*.tiktok.com
+ads.tiktok.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2423,7 +2423,6 @@ portal.polygon.technology
 *.ppbdev.com
 super6.skysports.com
 itv7.itv.com
-music.amazon.com
 chat.amazon.com
 track.amazon.com
 api.amazon.com
@@ -2451,6 +2450,7 @@ music-hints-na.amazon.com
 musicapp.amazon.com
 musiccentral.amazon.com
 pitangui.amazon.com
+preview-flex-capacity-na.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2694,8 +2694,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3133,8 +3133,8 @@ scrutiny.swiftfinancial.com
 www.loanbuilder.com
 my.swiftfinancial.com
 *.paypalcorp.com
-*.paypal.com
 paypalobjects.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3321,11 +3321,11 @@ www.crypto.com
 auth.crypto.com
 pay.crypto.com
 app.mona.co
-*.mona.co
-js.crypto.com
 merchant.crypto.com
 *.crypto.com
+js.crypto.com
 tax.crypto.com
+*.mona.co
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3857,9 +3857,9 @@ accounts.shopify.com
 *.shopify.io
 shopifyinbox.com
 your-store.myshopify.com
-*.shopify.com
 partners.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3988,8 +3988,8 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 www.hoteltonight.com
 www.airbnb.com
-*.airbnb.com
 *.airbnbcitizen.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4152,17 +4152,17 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
-api.coinbase.com
 *.base.org
 international.coinbase.com
 nft.coinbase.com
-cloud.coinbase.com
 *.coinbase.com
+cloud.coinbase.com
 coinbase.com
 *.coinbase.com
 *.cbhq.net
@@ -4189,8 +4189,8 @@ spaces.pm
 www.quip.com
 *.quip.com
 api.slack.com
-slack.com
 app.slack.com
+slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4228,13 +4228,13 @@ ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
 hackerone-user-content.com
-cover-photos.hackerone-user-content.com
 app.pullrequest.com
-www.hackerone.com
+cover-photos.hackerone-user-content.com
 hackerone-ext-content.com
+www.hackerone.com
 api.hackerone.com
-hackathon-photos.hackerone-user-content.com
 hackerone.com
+hackathon-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
