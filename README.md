@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 10:42:35 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 11:20:42 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -35,7 +35,6 @@ api.dyson.ch
 api.dyson.fr
 api.dyson.ie
 api.fi.dyson.com
-www.dyson.pl
 www.dyson.com.mx
 www.dyson.com.sg
 www.dyson.co.kr
@@ -44,6 +43,7 @@ www.dyson.ae
 www.dyson.hk
 www.dyson.co.th
 www.dyson.my
+shop.dyson.co.za
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -320,9 +320,9 @@ webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
 rewire.com
+remitly.com
 app.rewire.to
 api.remitly.io
-remitly.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -507,11 +507,11 @@ cars.booking.com
 www.fareharbor.com
 spark.fareharbor.com
 kyc-onboarding.booking.com
-secure.booking.com
 account.booking.com
 careers.booking.com
 *.booking.com
 booking.com
+secure.booking.com
 *.rentalcars.com
 *.booking.com
 *.rentalcars.com
@@ -783,8 +783,8 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshdesk.com
 yourdomain.freshcaller.com
-yourdomain.myfreshworks.com
 yourdomain.freshchat.com
+yourdomain.myfreshworks.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -838,11 +838,11 @@ hg.mozilla.org
 contile.services.mozilla.com
 merino.services.mozilla.com
 firefox.settings.services.mozilla.com
-firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 phabricator.allizom.org
+firefox-ci-tc.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -980,8 +980,8 @@ skinport.com
 app.skinport.com
 api.skinport.com
 http://skinport.com/blog/
-miro.com
 api.miro.com
+miro.com
 http://miro.com/app
 miro.com
 api.miro.com
@@ -1478,7 +1478,6 @@ www.instacart.com
 admin.instacart.com
 shoppers.instacart.com
 academy.databricks.com
-accounts.cloud.databricks.com
 demo.cloud.databricks.com
 docs.databricks.com
 help.databricks.com
@@ -1491,6 +1490,7 @@ customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1571,6 +1571,7 @@ twinmotion.unrealengine.com
 *.superawesome.com
 *.popjam.com
 *.rukkaz.com
+*.jellychat.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -1822,8 +1823,8 @@ matrix.redditspace.com
 redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
-www.reddit.com
 old.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2033,8 +2034,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 citrix.cloud.com
 www.cloud.com
@@ -2074,13 +2075,13 @@ fp-sg.tiktokv.com
 business.tiktok.com
 creatormarketplace.tiktok.com
 partner.tiktokshop.com
+www.pangleglobal.com
+*.tiktok.com
 shop.tiktok.com
 tiktok.com
 effecthouse.tiktok.com
 ads.tiktok.com
 *.tiktokv.com
-www.pangleglobal.com
-*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2356,7 +2357,6 @@ portal.polygon.technology
 *.betfair.com
 *.paddypower.com
 *.betfair.es
-*.betfair.it
 *.betfair.ro
 *.betfair.se
 *.paddypower.it
@@ -2559,9 +2559,9 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.ru
 *.Daraz.com
-*.tmall.com
 *.aliexpress.com
 *.alibaba.com
+*.tmall.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2692,8 +2692,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3054,7 +3054,6 @@ grammarly.ai
 *.grammarlyaws.com
 *.grammarly.com
 grammarly.ai
-fanduel.design
 com.fanduel.android.live
 sportsbook.fanduel.com
 *racing.fanduel.com
@@ -3076,6 +3075,7 @@ tvg.com
 www.4njbets.com
 fdbox.net
 *.fanduel.com
+fanduel.design
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3651,10 +3651,10 @@ www.starbucks.com.sg
 cart.starbucks.co.jp
 openapi.starbucks.com
 secureui.starbucks.com
-*.blockchain.com
 www.blockchain.info
 api.blockchain.info
 ws.blockchain.info
+*.blockchain.com
 *.blockchain.com
 www.blockchain.info
 api.blockchain.info
@@ -3791,8 +3791,8 @@ secure-dfadmin.deriv.com
 werkenbijdefensie.nl
 mijnkombijdepolitie.nl
 doorstromen.mijnkombijdepolitie.nl
-www.werkenbijbakertilly.nl
 devmaximum.com
+www.werkenbijbakertilly.nl
 acme-challenge.nl
 nossl.nl
 no-reply.cloud
@@ -3984,8 +3984,8 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 *.hoteltonight-test.com
 www.hoteltonight.com
-www.airbnb.com
 *.airbnbcitizen.com
+www.airbnb.com
 *.airbnb.com
 www.airbnb.com
 next.airbnb.com
@@ -4149,12 +4149,12 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
-api.coinbase.com
 *.base.org
 international.coinbase.com
 nft.coinbase.com
@@ -4230,8 +4230,8 @@ www.wearehackerone.com
 hackerone-user-content.com
 www.hackerone.com
 cover-photos.hackerone-user-content.com
-hackerone.com
 app.pullrequest.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
