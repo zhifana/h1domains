@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 12:29:45 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 12:53:04 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -320,8 +320,8 @@ webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
 rewire.com
-app.rewire.to
 api.remitly.io
+app.rewire.to
 remitly.com
 remitly.com
 api.remitly.io
@@ -509,10 +509,10 @@ spark.fareharbor.com
 kyc-onboarding.booking.com
 account.booking.com
 careers.booking.com
-secure.booking.com
-*.rentalcars.com
 *.booking.com
 booking.com
+secure.booking.com
+*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -1489,8 +1489,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1926,7 +1926,6 @@ api.bitso.com
 http://bitso.com/alpha
 nvio.mx
 nvio.ar
-larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
 open.larksuite.com
@@ -1937,6 +1936,7 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
+larksuite.com
 app.larksuite.com
 hackers_chosendomain.larksuite.com
 larksuite.com
@@ -2549,7 +2549,6 @@ paragon-na.amazon.com
 read.amazon.com
 updates.amazon.com
 *.taobao.com
-*.aliyun.com
 *.alibabacloud.com
 *.1688.com
 *.alibaba-inc.com
@@ -2558,9 +2557,10 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.ru
 *.Daraz.com
-*.aliexpress.com
 *.alibaba.com
+*.aliexpress.com
 *.tmall.com
+*.aliyun.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -3109,14 +3109,6 @@ https://github.com/matomo-org/docker
 paypalobjects.com
 paypal.me
 py.pl
-*.braintreepayments.com
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3125,13 +3117,21 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
+*.braintreepayments.com
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
 *.braintreegateway.com
 *.paypalcorp.com
 www.loanbuilder.com
-my.swiftfinancial.com
 *.paypal.com
+my.swiftfinancial.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3296,8 +3296,8 @@ www.valvesoftware.com
 partner.steamgames.com
 playartifact.com
 api.steampowered.com
-help.steampowered.com
 www.teamfortress.com
+help.steampowered.com
 steamcommunity.com
 store.steampowered.com
 www.counter-strike.net
@@ -3408,8 +3408,8 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-*.beta.lahitapiola.fi
 *.lahitapiola.fi
+*.beta.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3631,8 +3631,8 @@ card.starbucks.com.sg
 www.starbucks.com.sg
 cart.starbucks.co.jp
 www.starbucks.co.kr
-gift.starbucks.co.jp
 www.starbucks.com
+gift.starbucks.co.jp
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3791,8 +3791,8 @@ secure-dfadmin.deriv.com
 werkenbijdefensie.nl
 mijnkombijdepolitie.nl
 doorstromen.mijnkombijdepolitie.nl
-www.werkenbijbakertilly.nl
 devmaximum.com
+www.werkenbijbakertilly.nl
 acme-challenge.nl
 nossl.nl
 no-reply.cloud
@@ -3839,8 +3839,8 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 http://h1-your-domain.zendesk.com/sell
-yourcompany.udemy.com
 www.udemy.com
+yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 *.shopifykloud.com
@@ -4228,10 +4228,10 @@ ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
 hackerone-user-content.com
-app.pullrequest.com
-hackerone.com
 www.hackerone.com
 cover-photos.hackerone-user-content.com
+app.pullrequest.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
