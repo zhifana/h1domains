@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 23:18:46 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 23:42:29 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -334,9 +334,9 @@ getworldcoin.com
 bioid-management.app
 *.worldcoin.dev
 *.toolsforhumanity.com
-*.consumer.worldcoin.org
 *.worldcoin.org
 worldcoin.org
+*.consumer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -402,8 +402,8 @@ sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 demo.dynamic.xyz
-app.dynamic-preprod.xyz
 app.dynamic.xyz
+app.dynamic-preprod.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -509,8 +509,8 @@ kyc-onboarding.booking.com
 account.booking.com
 careers.booking.com
 widget.rentalcars.com
-*.booking.com
 booking.com
+*.booking.com
 secure.booking.com
 *.rentalcars.com
 *.booking.com
@@ -841,8 +841,8 @@ shavar.services.mozilla.com
 lando.services.mozilla.com
 phabricator.allizom.org
 firefox-ci-tc.services.mozilla.com
-aus5.mozilla.org
 sync.services.mozilla.com
+aus5.mozilla.org
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -1180,10 +1180,10 @@ www.fewo-direkt.de
 www.stayz.com.au
 www.expediagroup.com
 www.flights.com
-*.travelocity.ca
-*.travelocity.com
 www.expedia.com
 *.expediapartnercentral.com
+*.travelocity.com
+*.travelocity.ca
 *.expediacruises.com
 *.vrbo.com
 *.hotwire.com
@@ -1771,12 +1771,12 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
-*.touchtechpayments.com
-api.stripe.com
 *.recko.io
+js.stripe.com
 *.getbouncer.com
 app.taxjar.com
-js.stripe.com
+*.touchtechpayments.com
+api.stripe.com
 *.stripe.com
 api.stripe.com
 *.stripe.com
@@ -1820,8 +1820,8 @@ app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
 www.reddit.com
-matrix.redditspace.com
 ads.reddit.com
+matrix.redditspace.com
 *.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -2032,8 +2032,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-www.cloud.com
 (yoursubdomain).sharefile.com
+www.cloud.com
 (yoursubdomain).sharefile.eu
 citrix.cloud.com
 www.cloud.com
@@ -2069,16 +2069,16 @@ developers.tiktok.com
 live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
-effecthouse.tiktok.com
 shop.tiktok.com
+effecthouse.tiktok.com
 careers.tiktok.com
 business.tiktok.com
 *.tiktokv.com
-www.pangleglobal.com
-creatormarketplace.tiktok.com
 tiktok.com
-ads.tiktok.com
+creatormarketplace.tiktok.com
+www.pangleglobal.com
 partner.tiktokshop.com
+ads.tiktok.com
 *.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2144,12 +2144,12 @@ api.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
-*.acronis.com
 *.5nine.com
 *.devicelock.com
 *.acronis.work
 beta-cloud.acronis.com
 account.acronis.com
+*.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -3073,9 +3073,9 @@ promos.tvg.com
 service.tvg.com
 us.tvg.com
 tvg.com
-fanduel.design
-*.fanduel.com
 www.4njbets.com
+*.fanduel.com
+fanduel.design
 fdbox.net
 *.fanduel.com
 *racing.fanduel.com
@@ -3296,8 +3296,8 @@ partner.steampowered.com
 www.valvesoftware.com
 partner.steamgames.com
 playartifact.com
-www.teamfortress.com
 help.steampowered.com
+www.teamfortress.com
 store.steampowered.com
 www.counter-strike.net
 api.steampowered.com
@@ -3902,8 +3902,8 @@ playcanv.as
 *.sc-corp.net
 web.snapchat.com
 login.playcanvas.com
-playcanvas.com
 ads.snapchat.com
+playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -4187,8 +4187,8 @@ spaces.pm
 www.quip.com
 *.quip.com
 api.slack.com
-slack.com
 app.slack.com
+slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4225,10 +4225,10 @@ reviewer.pullrequest.com
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
-app.pullrequest.com
 cover-photos.hackerone-user-content.com
-hackerone-ext-content.com
+app.pullrequest.com
 www.hackerone.com
+hackerone-ext-content.com
 api.hackerone.com
 hackathon-photos.hackerone-user-content.com
 hackerone.com
