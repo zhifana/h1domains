@@ -438,9 +438,9 @@ fireblocks,sandbox.fireblocks.io,True
 fireblocks,http://sb-mobile-api.fireblocks.io,True
 fireblocks,http://sb-console-api.fireblocks.io,True
 fireblocks,http://sandbox-api.fireblocks.io,True
-dynatrace,sso-sprint.dynatracelabs.com,True
 dynatrace,account-sprint.dynatracelabs.com,True
 dynatrace,*.sprint.dynatracelabs.com,True
+dynatrace,sso-sprint.dynatracelabs.com,True
 dynatrace,university-staging.dynatracelabs.com,True
 dynatrace,myaccount-hardening.dynatracelabs.com,True
 dynatrace,*.sprint.apps.dynatracelabs.com,True
@@ -573,8 +573,8 @@ bookingcom,spark.fareharbor.com,True
 bookingcom,kyc-onboarding.booking.com,True
 bookingcom,secure.booking.com,True
 bookingcom,account.booking.com,True
-bookingcom,careers.booking.com,True
 bookingcom,*.rentalcars.com,True
+bookingcom,careers.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
@@ -2019,8 +2019,8 @@ aven_response,*.aven.com,False
 aven_response,aven.com,False
 aven_response,my.aven.com,False
 aven_response,notary.aven.com,False
-servicenow-disclosure,*.service-now.com,False
 servicenow-disclosure,*.servicenow.com,False
+servicenow-disclosure,*.service-now.com,False
 servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
 shi_vdp,accounts.shi.com,False
@@ -2131,7 +2131,7 @@ visa,www.authorize.net,True
 visa,www.cardinalcommerce.com,True
 visa,www.yellowpepper.com,True
 visa,www.fraedom.com,True
-visa,usa.visa.com,True
+visa,www.tink.com,True
 visa,aw.visa.com,True
 visa,bb.visa.com,True
 visa,bd.visa.com,True
@@ -3160,8 +3160,8 @@ clarivate,biologyfinder.com,False
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshchat.com,True
 freshworks,yourdomain.freshcaller.com,True
-freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.myfreshworks.com,True
+freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshchat.com,True
@@ -3251,8 +3251,8 @@ mozilla_core_services,stage.taskcluster.nonprod.cloudops.mozgcp.net,True
 mozilla_core_services,community-tc.services.mozilla.com,True
 mozilla_core_services,support.mozilla.org,True
 mozilla_core_services,hg.mozilla.org,True
-mozilla_core_services,www.mozilla.org,True
 mozilla_core_services,monitor.mozilla.org,True
+mozilla_core_services,www.mozilla.org,True
 mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,profiler.firefox.com,True
 mozilla_core_services,vpn.mozilla.org,True
@@ -3770,8 +3770,8 @@ moonpay,moonpay.com,True
 moonpay,hypermint.com,True
 doppler,doppler.team,True
 doppler,api.doppler.com,True
-doppler,dashboard.doppler.com,True
 doppler,share.doppler.com,True
+doppler,dashboard.doppler.com,True
 doppler,doppler.team,True
 doppler,api.doppler.com,True
 doppler,dashboard.doppler.com,True
@@ -3959,8 +3959,8 @@ magic-eden,eng.magiceden.io,False
 magic-eden,eng.magiceden.dev,False
 magic-eden,magiceden.io,True
 magic-eden,*.magiceden.dev,True
-magic-eden,*.magiceden.workers.dev,True
 magic-eden,*.magiceden.io,True
+magic-eden,*.magiceden.workers.dev,True
 magic-eden,magiceden.io,True
 magic-eden,*.magiceden.io,True
 magic-eden,*.magiceden.dev,True
@@ -4791,7 +4791,6 @@ mount-sinai-health,*.healthbytesnyc.com,False
 mount-sinai-health,*.mountsinaidoctors.org,False
 mount-sinai-health,*.snch.org,False
 mount-sinai-health,*.southnassau.org,False
-mars,*.mars.com,False
 mars,*.marschocolate.com,False
 mars,*.mms.com,False
 mars,*.pedigree.com,False
@@ -4841,6 +4840,7 @@ mars,*.findroyalcanin.com,False
 mars,*.jornadasroyalcanin.com.ar,False
 mars,*.miroyalcanin.cl,False
 mars,*.miroyalcanin.com.ar,False
+mars,*.mivetshop.com.ar,False
 mars,*.mars.com,False
 mars,*.marschocolate.com,False
 mars,*.mms.com,False
@@ -7194,8 +7194,8 @@ lark_technologies,passport.larksuite.com,True
 lark_technologies,internal-api.larksuite.com,True
 lark_technologies,internal-api-lark-api.larksuite.com,True
 lark_technologies,internal-api-drive-stream.larksuite.com,True
-lark_technologies,hackers_chosendomain.larksuite.com,True
 lark_technologies,app.larksuite.com,True
+lark_technologies,hackers_chosendomain.larksuite.com,True
 lark_technologies,larksuite.com,True
 lark_technologies,lark-frontier.byteoversea.com,True
 lark_technologies,file.larksuite.com,True
@@ -7380,8 +7380,8 @@ tiktok,fp-sg.tiktokv.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
-tiktok,*.tiktokv.com,True
 tiktok,ads.tiktok.com,True
+tiktok,*.tiktokv.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,partner.tiktokshop.com,True
 tiktok,*.tiktok.com,True
@@ -9553,8 +9553,8 @@ paypal,*.hyperwallet.com,True
 paypal,*.paylution.com,True
 paypal,*.braintreegateway.com,True
 paypal,*.paypalcorp.com,True
-paypal,www.loanbuilder.com,True
 paypal,*.paypal.com,True
+paypal,www.loanbuilder.com,True
 paypal,www.paypal-*.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True
@@ -9729,8 +9729,8 @@ valve,www.valvesoftware.com,True
 valve,partner.steamgames.com,True
 valve,playartifact.com,True
 valve,api.steampowered.com,True
-valve,www.teamfortress.com,True
 valve,help.steampowered.com,True
+valve,www.teamfortress.com,True
 valve,steamcommunity.com,True
 valve,store.steampowered.com,True
 valve,www.counter-strike.net,True
@@ -9914,7 +9914,6 @@ localtapiola,api.lahitapiola.fi,True
 localtapiola,privatetarget-2-secure.zigzag,True
 localtapiola,privatetarget-1-www.zigzag,True
 semrush,*.berush.com,False
-semrush,*.semrush.com,True
 semrush,*.semrush.net,True
 semrush,*.seoquake.com,True
 semrush,*.seoab.io,True
@@ -9924,6 +9923,7 @@ semrush,investors.semrush.com,False
 semrush,*.sellzone.com,True
 semrush,*.prowly.com,False
 semrush,*.myinsights.io,True
+semrush,*.semrush.com,True
 semrush,*.semrush.com,True
 semrush,*.semrush.net,True
 semrush,*.seoquake.com,True
@@ -10150,8 +10150,8 @@ starbucks,card.starbucks.com.sg,True
 starbucks,www.starbucks.com.sg,True
 starbucks,cart.starbucks.co.jp,True
 starbucks,www.starbucks.co.kr,True
-starbucks,gift.starbucks.co.jp,True
 starbucks,www.starbucks.com,True
+starbucks,gift.starbucks.co.jp,True
 starbucks,www.starbucksreserve.com,True
 starbucks,gift.starbucks.co.jp,True
 starbucks,login.starbucks.co.jp,True
@@ -10695,8 +10695,8 @@ airbnb,*.airbnb-aws.com,True
 airbnb,*.luxuryretreats.com,True
 airbnb,*.hoteltonight-test.com,True
 airbnb,www.hoteltonight.com,True
-airbnb,*.airbnbcitizen.com,True
 airbnb,www.airbnb.com,True
+airbnb,*.airbnbcitizen.com,True
 airbnb,www.airbnb.com,True
 airbnb,next.airbnb.com,True
 airbnb,api.airbnb.com,True
@@ -10717,7 +10717,6 @@ airbnb,*.airbnb-aws.com,True
 airbnb,*.luxuryretreats.com,True
 airbnb,*.hoteltonight-test.com,True
 airbnb,www.hoteltonight.com,True
-vimeo,*.vimeo.com,True
 vimeo,checkout.vimeo.com,True
 vimeo,player.vimeo.com,True
 vimeo,api.vimeo.com,True
@@ -10732,6 +10731,7 @@ vimeo,www.magisto.com,True
 vimeo,*.magisto.com,True
 vimeo,staging.magisto.com,True
 vimeo,applause1.magisto.com,True
+vimeo,*.livestream.com,True
 vimeo,*.cloud.vimeo.com,True
 vimeo,*.vimeo.com,True
 vimeo,*.vhx.tv,True

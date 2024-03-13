@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 03:42:36 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 04:20:40 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -389,9 +389,9 @@ sandbox.fireblocks.io
 http://sb-mobile-api.fireblocks.io
 http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
-sso-sprint.dynatracelabs.com
 account-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
+sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
@@ -510,8 +510,8 @@ spark.fareharbor.com
 kyc-onboarding.booking.com
 secure.booking.com
 account.booking.com
-careers.booking.com
 *.rentalcars.com
+careers.booking.com
 *.booking.com
 *.booking.com
 *.rentalcars.com
@@ -721,7 +721,7 @@ www.authorize.net
 www.cardinalcommerce.com
 www.yellowpepper.com
 www.fraedom.com
-usa.visa.com
+www.tink.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -784,8 +784,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshdesk.com
 yourdomain.freshchat.com
 yourdomain.freshcaller.com
-yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -870,8 +870,8 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 support.mozilla.org
 hg.mozilla.org
-www.mozilla.org
 monitor.mozilla.org
+www.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -1132,8 +1132,8 @@ moonpay.com
 hypermint.com
 doppler.team
 api.doppler.com
-dashboard.doppler.com
 share.doppler.com
+dashboard.doppler.com
 doppler.team
 api.doppler.com
 dashboard.doppler.com
@@ -1214,8 +1214,8 @@ www.expediagroup.com
 www.flights.com
 magiceden.io
 *.magiceden.dev
-*.magiceden.workers.dev
 *.magiceden.io
+*.magiceden.workers.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1938,8 +1938,8 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
-hackers_chosendomain.larksuite.com
 app.larksuite.com
+hackers_chosendomain.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2076,8 +2076,8 @@ fp-sg.tiktokv.com
 effecthouse.tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktokv.com
 ads.tiktok.com
+*.tiktokv.com
 www.pangleglobal.com
 partner.tiktokshop.com
 *.tiktok.com
@@ -3131,8 +3131,8 @@ scrutiny.swiftfinancial.com
 *.paylution.com
 *.braintreegateway.com
 *.paypalcorp.com
-www.loanbuilder.com
 *.paypal.com
+www.loanbuilder.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3297,8 +3297,8 @@ www.valvesoftware.com
 partner.steamgames.com
 playartifact.com
 api.steampowered.com
-www.teamfortress.com
 help.steampowered.com
+www.teamfortress.com
 steamcommunity.com
 store.steampowered.com
 www.counter-strike.net
@@ -3429,13 +3429,13 @@ asiointi.lahitapiola.fi
 api.lahitapiola.fi
 privatetarget-2-secure.zigzag
 privatetarget-1-www.zigzag
-*.semrush.com
 *.semrush.net
 *.seoquake.com
 *.seoab.io
 *.scatec.io
 *.sellzone.com
 *.myinsights.io
+*.semrush.com
 *.semrush.com
 *.semrush.net
 *.seoquake.com
@@ -3632,8 +3632,8 @@ card.starbucks.com.sg
 www.starbucks.com.sg
 cart.starbucks.co.jp
 www.starbucks.co.kr
-gift.starbucks.co.jp
 www.starbucks.com
+gift.starbucks.co.jp
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3987,8 +3987,8 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 *.hoteltonight-test.com
 www.hoteltonight.com
-*.airbnbcitizen.com
 www.airbnb.com
+*.airbnbcitizen.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4009,7 +4009,6 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 *.hoteltonight-test.com
 www.hoteltonight.com
-*.vimeo.com
 checkout.vimeo.com
 player.vimeo.com
 api.vimeo.com
@@ -4024,6 +4023,7 @@ www.magisto.com
 *.magisto.com
 staging.magisto.com
 applause1.magisto.com
+*.livestream.com
 *.cloud.vimeo.com
 *.vimeo.com
 *.vhx.tv
