@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 08:42:12 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 09:18:58 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -36,7 +36,6 @@ api.dyson.fr
 api.dyson.ie
 api.fi.dyson.com
 www.dyson.pl
-www.dyson.in
 www.dyson.com.mx
 www.dyson.com.sg
 www.dyson.co.kr
@@ -44,6 +43,7 @@ www.dyson.co.nz
 www.dyson.ae
 www.dyson.co.il
 www.dyson.hk
+www.dyson.co.th
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -321,8 +321,8 @@ webonboarding-eu.truecaller.com
 cards.remitly.io
 rewire.com
 app.rewire.to
-api.remitly.io
 remitly.com
+api.remitly.io
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -509,10 +509,10 @@ spark.fareharbor.com
 kyc-onboarding.booking.com
 secure.booking.com
 account.booking.com
-*.rentalcars.com
 careers.booking.com
 *.booking.com
 booking.com
+*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -549,8 +549,8 @@ spark.fareharbor.com
 www.fareharbor.com
 *.bybit.com
 *.bybit.com
-api.au.frontegg.com
 portal.au.frontegg.com
+api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 api2.frontapp.com
@@ -783,8 +783,8 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshdesk.com
 yourdomain.freshcaller.com
-yourdomain.myfreshworks.com
 yourdomain.freshchat.com
+yourdomain.myfreshworks.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -1069,7 +1069,6 @@ sso.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
-admin.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1478,7 +1477,6 @@ api.instacart.com
 www.instacart.com
 admin.instacart.com
 shoppers.instacart.com
-databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
 demo.cloud.databricks.com
@@ -1492,6 +1490,7 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1927,6 +1926,7 @@ api.bitso.com
 http://bitso.com/alpha
 nvio.mx
 nvio.ar
+larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
 open.larksuite.com
@@ -1937,9 +1937,8 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
-larksuite.com
-hackers_chosendomain.larksuite.com
 app.larksuite.com
+hackers_chosendomain.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2072,7 +2071,6 @@ developers.tiktok.com
 live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
-effecthouse.tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
 www.pangleglobal.com
@@ -2080,8 +2078,9 @@ partner.tiktokshop.com
 *.tiktokv.com
 shop.tiktok.com
 tiktok.com
-ads.tiktok.com
+effecthouse.tiktok.com
 *.tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -3297,8 +3296,8 @@ www.valvesoftware.com
 partner.steamgames.com
 playartifact.com
 api.steampowered.com
-help.steampowered.com
 www.teamfortress.com
+help.steampowered.com
 steamcommunity.com
 store.steampowered.com
 www.counter-strike.net
@@ -3460,8 +3459,8 @@ gifts.grab.com
 *.ovo.id
 *.taralite.com
 kartaview.org
-*.grab.com
 wiki.grab.com
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3515,9 +3514,9 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-assets.spotify.com
 backstage.io
 api.spotify.com
+assets.spotify.com
 assets.spotify.com
 api.spotify.com
 backstage.io
@@ -3632,8 +3631,8 @@ card.starbucks.com.sg
 www.starbucks.com.sg
 cart.starbucks.co.jp
 www.starbucks.co.kr
-gift.starbucks.co.jp
 www.starbucks.com
+gift.starbucks.co.jp
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3840,8 +3839,8 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 http://h1-your-domain.zendesk.com/sell
-www.udemy.com
 yourcompany.udemy.com
+www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 *.shopifykloud.com
@@ -3854,8 +3853,8 @@ arrive-server.shopifycloud.com
 *.shopifycs.com
 accounts.shopify.com
 your-store.myshopify.com
-*.shopify.com
 partners.shopify.com
+*.shopify.com
 admin.shopify.com
 *.shopify.io
 *.shopifycs.com
@@ -3987,8 +3986,8 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 *.hoteltonight-test.com
 www.hoteltonight.com
-www.airbnb.com
 *.airbnbcitizen.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
