@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 14:42:40 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 15:19:42 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -322,8 +322,8 @@ webonboarding-eu.truecaller.com
 cards.remitly.io
 rewire.com
 app.rewire.to
-api.remitly.io
 remitly.com
+api.remitly.io
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -390,8 +390,8 @@ sandbox.fireblocks.io
 http://sb-mobile-api.fireblocks.io
 http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
-*.sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
+*.sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -510,9 +510,9 @@ spark.fareharbor.com
 kyc-onboarding.booking.com
 account.booking.com
 careers.booking.com
+secure.booking.com
 booking.com
 *.booking.com
-secure.booking.com
 *.rentalcars.com
 *.booking.com
 *.rentalcars.com
@@ -1182,10 +1182,10 @@ www.stayz.com.au
 www.expediagroup.com
 www.flights.com
 *.travelocity.ca
+*.travelocity.com
 www.expedia.com
 *.expediacruises.com
 *.expediapartnercentral.com
-*.travelocity.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1214,8 +1214,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.dev
 *.magiceden.io
-*.magiceden.workers.dev
 magiceden.io
+*.magiceden.workers.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1347,12 +1347,12 @@ business.linkedin.com
 *.simpletax.ca
 www.swoodoo.com
 www.checkfelix.com
-www.kayak.com
 business.kayak.com
 www.momondo.com
 www.cheapflights.com
 www.mundi.com.br
 www.hotelscombined.com
+www.kayak.com
 www.kayak.com
 www.swoodoo.com
 www.checkfelix.com
@@ -1985,8 +1985,8 @@ internal-docs.netlify.com
 internal.netlify.com
 *.ops.netlify.com
 app.netlify.com
-*.infra-prod.nsvcs.net
 api.netlify.com
+*.infra-prod.nsvcs.net
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -2034,8 +2034,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 citrix.cloud.com
 www.cloud.com
@@ -2073,15 +2073,15 @@ academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 business.tiktok.com
 creatormarketplace.tiktok.com
-tiktok.com
-www.pangleglobal.com
 partner.tiktokshop.com
-effecthouse.tiktok.com
+www.pangleglobal.com
+tiktok.com
 ads.tiktok.com
 shop.tiktok.com
-careers.tiktok.com
+effecthouse.tiktok.com
 *.tiktokv.com
 *.tiktok.com
+careers.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2559,8 +2559,8 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.ru
 *.Daraz.com
-*.alibaba.com
 *.aliexpress.com
+*.alibaba.com
 *.aliyun.com
 *.tmall.com
 *.alibaba.com
@@ -2653,13 +2653,13 @@ passwordchallenge.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 hotel-deals.marriott.com
-www.marriott.com
 *uat.marriott.com
 moments.marriottbonvoy.com
 help.marriott.com
 travelagents.marriott.com/
 mipartnerprivileges.marriott.com
 traveler.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -3297,8 +3297,8 @@ partner.steampowered.com
 www.valvesoftware.com
 partner.steamgames.com
 playartifact.com
-www.teamfortress.com
 help.steampowered.com
+www.teamfortress.com
 steamcommunity.com
 store.steampowered.com
 www.counter-strike.net
@@ -3410,8 +3410,8 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-*.lahitapiola.fi
 *.beta.lahitapiola.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3612,8 +3612,8 @@ try.discourse.org
 try.discourse.org
 *.quora.com
 *.quora.com
-portswigger.net
 forum.portswigger.net
+portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
@@ -3751,8 +3751,8 @@ winecellar.zomato.com
 api.grofers.com
 api2.grofers.com
 blinkit.com
-*.zomato.com
 *.runnr.in
+*.zomato.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3852,13 +3852,13 @@ shop.app
 shopify.plus
 arrive-server.shopifycloud.com
 *.shopifycs.com
-*.shopify.com
 partners.shopify.com
 accounts.shopify.com
 your-store.myshopify.com
-shopifyinbox.com
 *.shopify.io
+shopifyinbox.com
 admin.shopify.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3986,8 +3986,8 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 *.hoteltonight-test.com
 www.hoteltonight.com
-*.airbnb.com
 www.airbnb.com
+*.airbnb.com
 *.airbnbcitizen.com
 www.airbnb.com
 next.airbnb.com
@@ -4232,8 +4232,8 @@ cover-photos.hackerone-user-content.com
 app.pullrequest.com
 www.hackerone.com
 hackerone-ext-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
