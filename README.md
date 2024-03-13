@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 08:20:58 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 08:42:12 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -462,8 +462,8 @@ www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.cl
 api.mercadolibre.com
-www.mercadolivre.com.br
 www.mercadopago.com.br
+www.mercadolivre.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -509,8 +509,8 @@ spark.fareharbor.com
 kyc-onboarding.booking.com
 secure.booking.com
 account.booking.com
-careers.booking.com
 *.rentalcars.com
+careers.booking.com
 *.booking.com
 booking.com
 *.booking.com
@@ -783,8 +783,8 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshdesk.com
 yourdomain.freshcaller.com
-yourdomain.freshchat.com
 yourdomain.myfreshworks.com
+yourdomain.freshchat.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -870,8 +870,8 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 support.mozilla.org
 hg.mozilla.org
-monitor.mozilla.org
 www.mozilla.org
+monitor.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -1175,7 +1175,6 @@ www.expediaagents.com
 *.cheaptickets.com
 *.lastminute.co.nz
 *.lastminute.com.au
-*.travelocity.com
 www.abritel.fr
 www.bookabach.co.nz
 www.fewo-direkt.de
@@ -1186,6 +1185,7 @@ www.flights.com
 www.expedia.com
 *.expediacruises.com
 *.expediapartnercentral.com
+*.travelocity.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1927,7 +1927,6 @@ api.bitso.com
 http://bitso.com/alpha
 nvio.mx
 nvio.ar
-larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
 open.larksuite.com
@@ -1938,8 +1937,9 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
-app.larksuite.com
+larksuite.com
 hackers_chosendomain.larksuite.com
+app.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2078,10 +2078,10 @@ creatormarketplace.tiktok.com
 www.pangleglobal.com
 partner.tiktokshop.com
 *.tiktokv.com
-*.tiktok.com
 shop.tiktok.com
 tiktok.com
 ads.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -3110,15 +3110,6 @@ https://github.com/matomo-org/docker
 paypalobjects.com
 paypal.me
 py.pl
-www.swiftcapital.com
-www.swiftfinancial.com
-api.swiftfinancial.com
-my.swiftfinancial.com
-api.loanbuilder.com
-my.loanbuilder.com
-loanbuilder.com
-swiftfinancial.com
-swiftcapital.com
 *.braintreepayments.com
 *.braintree-api.com
 *.braintree.tools
@@ -3127,12 +3118,21 @@ partner.swiftfinancial.com
 decision.swiftfinancial.com
 pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
+www.swiftcapital.com
+www.swiftfinancial.com
+api.swiftfinancial.com
+api.loanbuilder.com
+my.loanbuilder.com
+loanbuilder.com
+swiftfinancial.com
+swiftcapital.com
 *.hyperwallet.com
 *.paylution.com
 *.braintreegateway.com
 *.paypalcorp.com
 www.loanbuilder.com
 *.paypal.com
+my.swiftfinancial.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3297,8 +3297,8 @@ www.valvesoftware.com
 partner.steamgames.com
 playartifact.com
 api.steampowered.com
-www.teamfortress.com
 help.steampowered.com
+www.teamfortress.com
 steamcommunity.com
 store.steampowered.com
 www.counter-strike.net
@@ -3792,8 +3792,8 @@ secure-dfadmin.deriv.com
 werkenbijdefensie.nl
 mijnkombijdepolitie.nl
 doorstromen.mijnkombijdepolitie.nl
-devmaximum.com
 www.werkenbijbakertilly.nl
+devmaximum.com
 acme-challenge.nl
 nossl.nl
 no-reply.cloud
@@ -3854,8 +3854,8 @@ arrive-server.shopifycloud.com
 *.shopifycs.com
 accounts.shopify.com
 your-store.myshopify.com
-partners.shopify.com
 *.shopify.com
+partners.shopify.com
 admin.shopify.com
 *.shopify.io
 *.shopifycs.com
@@ -3987,8 +3987,8 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 *.hoteltonight-test.com
 www.hoteltonight.com
-*.airbnbcitizen.com
 www.airbnb.com
+*.airbnbcitizen.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4151,12 +4151,12 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
+api.coinbase.com
 *.base.org
 international.coinbase.com
 nft.coinbase.com
