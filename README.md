@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 04:42:39 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 05:19:53 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -870,8 +870,8 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 support.mozilla.org
 hg.mozilla.org
-www.mozilla.org
 monitor.mozilla.org
+www.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -1161,7 +1161,6 @@ hv-mtl.com
 dookeydash.com
 hv-mtl.com
 www.hotels.com
-www.expedia.com
 www.hotwirepartnercentral.com
 www.orbitz.com
 www.ebookers.com
@@ -1186,6 +1185,7 @@ www.stayz.com.au
 www.expediagroup.com
 www.flights.com
 *.travelocity.ca
+www.expedia.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1468,10 +1468,10 @@ delta.app
 bullsheet.me
 *.instacart.tools
 api.instacart.com
-www.instacart.com
 admin.instacart.com
 shoppers.instacart.com
 *.instacart.com
+www.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1938,8 +1938,8 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
-hackers_chosendomain.larksuite.com
 app.larksuite.com
+hackers_chosendomain.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -3297,8 +3297,8 @@ www.valvesoftware.com
 partner.steamgames.com
 playartifact.com
 api.steampowered.com
-help.steampowered.com
 www.teamfortress.com
+help.steampowered.com
 steamcommunity.com
 store.steampowered.com
 www.counter-strike.net
@@ -3409,8 +3409,8 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-*.lahitapiola.fi
 *.beta.lahitapiola.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3793,8 +3793,8 @@ werkenbijdefensie.nl
 werkenbijderet.nl
 mijnkombijdepolitie.nl
 doorstromen.mijnkombijdepolitie.nl
-www.werkenbijbakertilly.nl
 devmaximum.com
+www.werkenbijbakertilly.nl
 acme-challenge.nl
 nossl.nl
 no-reply.cloud
