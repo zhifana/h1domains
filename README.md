@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar 14 16:43:33 UTC 2024)
+## Domains with Bounties (Last Updated Thu Mar 14 17:19:58 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -333,8 +333,8 @@ getworldcoin.com
 bioid-management.app
 *.worldcoin.dev
 *.toolsforhumanity.com
-*.consumer.worldcoin.org
 worldcoin.org
+*.consumer.worldcoin.org
 *.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -392,8 +392,8 @@ sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
-*.sprint.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
+*.sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -411,9 +411,9 @@ backend.zyro.com
 editor.zyro.com
 logo.zyro.com
 payments.hostinger.com
+www.niagahoster.co.id
 *.000webhost.com
 www.hostinger.com
-www.niagahoster.co.id
 hpanel.hostinger.com
 cpanel.hostinger.com
 *.000webhost.com
@@ -508,10 +508,10 @@ kyc-onboarding.booking.com
 careers.booking.com
 widget.rentalcars.com
 booking.com
+account.booking.com
+secure.booking.com
 *.booking.com
 *.rentalcars.com
-secure.booking.com
-account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -548,8 +548,8 @@ spark.fareharbor.com
 www.fareharbor.com
 *.bybit.com
 *.bybit.com
-api.au.frontegg.com
 portal.au.frontegg.com
+api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 api2.frontapp.com
@@ -783,8 +783,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
-yourdomain.freshchat.com
 yourdomain.myfreshworks.com
+yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -838,9 +838,9 @@ mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 phabricator.allizom.org
-firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
+firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
@@ -868,8 +868,8 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 support.mozilla.org
 hg.mozilla.org
-developer.mozilla.org
 monitor.mozilla.org
+developer.mozilla.org
 www.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
@@ -1179,11 +1179,11 @@ www.fewo-direkt.de
 www.stayz.com.au
 www.expediagroup.com
 www.flights.com
-*.travelocity.ca
 *.expediapartnercentral.com
-*.travelocity.com
+*.travelocity.ca
 www.expedia.com
 *.expediacruises.com
+*.travelocity.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1979,8 +1979,8 @@ internal-docs.netlify.com
 *.services-prod.nsvcs.net
 internal.netlify.com
 *.ops.netlify.com
-api.netlify.com
 *.infra-prod.nsvcs.net
+api.netlify.com
 app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
@@ -2027,8 +2027,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 adm.cloud.com
 citrix.cloud.com
@@ -2065,18 +2065,18 @@ api.adm.cloud.com
 live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
-creatormarketplace.tiktok.com
-developers.tiktok.com
-effecthouse.tiktok.com
 careers.tiktok.com
+effecthouse.tiktok.com
+creatormarketplace.tiktok.com
 business.tiktok.com
-ads.tiktok.com
-partner.tiktokshop.com
+developers.tiktok.com
 *.tiktokv.com
 www.pangleglobal.com
 shop.tiktok.com
-tiktok.com
 *.tiktok.com
+tiktok.com
+ads.tiktok.com
+partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2142,10 +2142,10 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.acronis.work
-*.acronis.com
 account.acronis.com
-*.5nine.com
+*.acronis.com
 beta-cloud.acronis.com
+*.5nine.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2348,7 +2348,6 @@ portal.polygon.technology
 *.miui.com
 *.xiaomiyoupin.com
 *.miwifi.com
-*.betfair.com
 *.betfair.es
 *.betfair.ro
 *.betfair.se
@@ -2379,6 +2378,7 @@ portal.polygon.technology
 *.skybettingandgaming.info
 *.betsharedservices.io
 super6.skysports.com
+itv7.itv.com
 *.betfair.com
 *.paddypower.com
 *.betfair.es
@@ -2557,8 +2557,8 @@ www.alibabagroup.com
 *.alibaba.com
 *.taobao.com
 *.alibabacloud.com
-*.tmall.com
 *.aliexpress.com
+*.tmall.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2576,8 +2576,8 @@ configure.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
 www.mini.de
-www.bmw.de
 www.bmw-motorrad.de
+www.bmw.de
 www.bmw.de
 www.mini.de
 www.bmw-motorrad.de
@@ -3067,11 +3067,11 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 us.tvg.com
-www.4njbets.com
 tvg.com
 fanduel.design
-www.tvg.com
+www.4njbets.com
 *.fanduel.com
+www.tvg.com
 fdbox.net
 *.fanduel.com
 *racing.fanduel.com
@@ -3112,7 +3112,6 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
-*.braintreepayments.com
 *.braintree-api.com
 *.braintree.tools
 prequal.swiftfinancial.com
@@ -3125,10 +3124,11 @@ scrutiny.swiftfinancial.com
 www.loanbuilder.com
 my.swiftfinancial.com
 *.paypalcorp.com
-*.braintreegateway.com
 *.venmo.com
+*.braintreegateway.com
 paypalobjects.com
 *.paypal.com
+*.braintreepayments.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3166,8 +3166,8 @@ m.chaturbate.com
 billingsupport.chaturbate.com
 *.mmcdn.com
 *.mmwebc.dev
-*.cb.dev
 chaturbate.com
+*.cb.dev
 *.highwebmedia.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -3697,8 +3697,8 @@ classroom.github.com
 education.github.com
 npmjs.com
 npmjs.org
-*.githubusercontent.com
 api.github.com
+*.githubusercontent.com
 github.com
 github.com
 api.github.com
@@ -3842,7 +3842,6 @@ www.udemy.com
 yourcompany.udemy.com
 *.shopifykloud.com
 linkpop.com
-shop.app
 shopify.plus
 arrive-server.shopifycloud.com
 *.shopifycs.com
@@ -3850,10 +3849,11 @@ arrive-server.shopifycloud.com
 shopifyinbox.com
 your-store.myshopify.com
 partners.shopify.com
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifycloud.com
+shop.app
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3897,8 +3897,8 @@ store.playcanvas.com
 playcanv.as
 *.sc-corp.net
 web.snapchat.com
-login.playcanvas.com
 ads.snapchat.com
+login.playcanvas.com
 playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
@@ -3981,8 +3981,8 @@ www.hoteltonight.com
 *.airbnbcitizen.com
 *.withairbnb.com
 www.airbnb.com
-api.airbnb.com
 *.airbnb.com
+api.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4179,8 +4179,8 @@ slack-redir.net
 spaces.pm
 www.quip.com
 *.quip.com
-slack.com
 api.slack.com
+slack.com
 slack-imgs.com
 app.slack.com
 slack.com
@@ -4398,9 +4398,9 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-magento.com
 repo.magento.com
 accounts.magento.cloud
+magento.com
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
