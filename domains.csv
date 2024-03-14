@@ -331,8 +331,8 @@ toolsforhumanity,*.worldcoin-distributors.com,True
 toolsforhumanity,bioid-management.app,True
 toolsforhumanity,*.worldcoin.dev,True
 toolsforhumanity,*.toolsforhumanity.com,True
-toolsforhumanity,*.consumer.worldcoin.org,True
 toolsforhumanity,worldcoin.org,True
+toolsforhumanity,*.consumer.worldcoin.org,True
 toolsforhumanity,*.worldcoin.org,True
 toolsforhumanity,*.worldcoin.org,True
 toolsforhumanity,*.consumer.worldcoin.org,True
@@ -350,10 +350,10 @@ vendasta,your-domain.steprep.com,False
 vendasta,your-domain.smblogin.com,False
 vendasta,your-domain.pdqs.mobi,False
 vendasta,task-manager.biz,False
-vendasta,your-domain.snapshotreport.biz,False
 vendasta,*.vendasta-internal.com,False
 vendasta,*.yesware.com,False
 vendasta,partners.vendasta.com,False
+vendasta,your-domain.snapshotreport.biz,False
 vendasta,*.apigateway.co,False
 vendasta,*.vendasta-internal.com,False
 vendasta,*.yesware.com,False
@@ -450,8 +450,8 @@ dynatrace,sso-sprint.dynatracelabs.com,True
 dynatrace,university-staging.dynatracelabs.com,True
 dynatrace,myaccount-hardening.dynatracelabs.com,True
 dynamic_labs,demo.dynamic.xyz,True
-dynamic_labs,app.dynamic.xyz,True
 dynamic_labs,app.dynamic-preprod.xyz,True
+dynamic_labs,app.dynamic.xyz,True
 dynamic_labs,app.dynamic-preprod.xyz,True
 dynamic_labs,demo.dynamic.xyz,True
 dynamic_labs,app.dynamic.xyz,True
@@ -468,11 +468,11 @@ hostinger,backend.zyro.com,True
 hostinger,editor.zyro.com,True
 hostinger,logo.zyro.com,True
 hostinger,payments.hostinger.com,True
-hostinger,www.niagahoster.co.id,True
 hostinger,*.000webhost.com,True
 hostinger,www.hostinger.com,True
-hostinger,hpanel.hostinger.com,True
+hostinger,www.niagahoster.co.id,True
 hostinger,cpanel.hostinger.com,True
+hostinger,hpanel.hostinger.com,True
 hostinger,*.000webhost.com,True
 hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
@@ -3157,10 +3157,10 @@ clarivate,biologybrowser.com,False
 clarivate,biologybrowser.org,False
 clarivate,biologyfinder.com,False
 freshworks,yourdomain.freshcaller.com,True
-freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshservice.com,True
-freshworks,yourdomain.myfreshworks.com,True
+freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshchat.com,True
+freshworks,yourdomain.myfreshworks.com,True
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshchat.com,True
@@ -3285,9 +3285,9 @@ shutterfly_vdp,*.sbs.shutterfly.com,False
 shutterfly_vdp,*.sf-cdn.com,False
 shutterfly_vdp,blog.spoonflower.com,False
 shutterfly_vdp,photo.walgreens.com,False
-shutterfly_vdp,www.spoonflower.com,False
 shutterfly_vdp,*.shutterfly.com,False
 shutterfly_vdp,snapfish.com,False
+shutterfly_vdp,www.spoonflower.com,False
 shutterfly_vdp,*.photoccino.com,False
 shutterfly_vdp,*.shutterfly.com,False
 shutterfly_vdp,*.snapfish.com,False
@@ -3342,8 +3342,8 @@ hilton,hilton.com.tr,True
 hilton,hiltonbusinessonline.com,True
 hilton,hiltonlocalbiz.com,True
 hilton,*.hilton.com.tr,True
-hilton,hilton.com,True
 hilton,*.hiltonbusinessonline.com,True
+hilton,hilton.com,True
 hilton,hilton.io,True
 hilton,*.hilton.com,True
 hilton,*.hilton.com,True
@@ -3410,8 +3410,8 @@ apnic,* IPv4 addresses,False
 apnic,* IPv6 addresses,False
 okx,*.okx.com,True
 okx,*.okx.com,True
-city_of_los_angeles_vdp,*.lacity.org,False
 city_of_los_angeles_vdp,*.lacity.gov,False
+city_of_los_angeles_vdp,*.lacity.org,False
 city_of_los_angeles_vdp,*.lacity.org,False
 city_of_los_angeles_vdp,*.lacity.gov,False
 fastly-vdp,docs.fastly.com,False
@@ -3574,8 +3574,8 @@ s-pankki,www.sokos.fi,True
 s-pankki,api.sokos.fi,True
 s-pankki,cfapi.voikukka.fi,True
 s-pankki,digili.s-cloud.fi,True
-s-pankki,online.s-pankki.fi,True
 s-pankki,www.s-pankki.fi,True
+s-pankki,online.s-pankki.fi,True
 s-pankki,online.s-pankki.fi,True
 s-pankki,www.s-pankki.fi,True
 s-pankki,https://crosskey.io/stores/s-pankki/apis,True
@@ -5061,9 +5061,9 @@ kayak,business.kayak.com,True
 kayak,www.momondo.com,True
 kayak,www.cheapflights.com,True
 kayak,www.mundi.com.br,True
-kayak,www.hotelscombined.com,True
 kayak,www.kayak.com,True
 kayak,www.checkfelix.com,True
+kayak,www.hotelscombined.com,True
 kayak,www.kayak.com,True
 kayak,www.swoodoo.com,True
 kayak,www.checkfelix.com,True
@@ -5111,9 +5111,9 @@ exness,https://my.exness.com/pa/pim/manager,True
 exness,social-trading.exness.com,True
 exness,https://my.exness.com/pa/socialtrading,True
 exness,exness.com,True
-smtp2go,smtp2go.com,True
 smtp2go,app.smtp2go.com,True
 smtp2go,api.smtp2go.com,True
+smtp2go,smtp2go.com,True
 smtp2go,smtp2go.com,True
 smtp2go,app.smtp2go.com,True
 smtp2go,api.smtp2go.com,True
@@ -6546,9 +6546,9 @@ reddit,*.redditmedia.com,True
 reddit,redditforbusiness.com,True
 reddit,app.spiketrap.io,True
 reddit,www.spiketrap.io,True
+reddit,ads.reddit.com,True
 reddit,old.reddit.com,True
 reddit,www.reddit.com,True
-reddit,ads.reddit.com,True
 reddit,*.reddit.com,True
 reddit,matrix.redditspace.com,True
 reddit,*.snooguts.net,True
@@ -7331,8 +7331,8 @@ citrix,(yoursubdomain).us.iws.cloud.com,True
 citrix,(yoursubdomain).ap.iws.cloud.com,True
 citrix,(yoursubdomain).eu.iws.cloud.com,True
 citrix,(youriwssubdomain).cloud.com,True
-citrix,(yoursubdomain).sharefile.com,True
 citrix,www.cloud.com,True
+citrix,(yoursubdomain).sharefile.com,True
 citrix,(yoursubdomain).sharefile.eu,True
 citrix,adm.cloud.com,True
 citrix,citrix.cloud.com,True
@@ -7530,8 +7530,8 @@ rebellion-defense,www.rebelliondefense.com,False
 acronis,*-api-*.acronis.com,True
 acronis,*.devicelock.com,True
 acronis,*.acronis.work,True
-acronis,account.acronis.com,True
 acronis,*.acronis.com,True
+acronis,account.acronis.com,True
 acronis,beta-cloud.acronis.com,True
 acronis,*.5nine.com,True
 acronis,*-api-*.acronis.com,True
@@ -8415,9 +8415,9 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.contactnow.8x8.com,False
 8x8,get8x8.com,False
 8x8,*.mycontactual.com,False
-8x8,*.8x8.vc,False
 8x8,*.jitsi.org,False
 8x8,*.jit.si,False
+8x8,*.8x8.vc,False
 8x8,*.wavecell.com,False
 8x8,*.8x8.id,False
 8x8,*.8x8.uk,False
@@ -9486,9 +9486,9 @@ fanduel,us.tvg.com,True
 fanduel,tvg.com,True
 fanduel,fanduel.design,True
 fanduel,www.4njbets.com,True
-fanduel,*.fanduel.com,True
 fanduel,www.tvg.com,True
 fanduel,fdbox.net,True
+fanduel,*.fanduel.com,True
 fanduel,*.fanduel.com,True
 fanduel,*racing.fanduel.com,True
 fanduel,fdbox.net,True
@@ -9542,8 +9542,8 @@ paypal,*.paylution.com,True
 paypal,www.loanbuilder.com,True
 paypal,my.swiftfinancial.com,True
 paypal,*.paypalcorp.com,True
-paypal,*.braintreegateway.com,True
 paypal,*.venmo.com,True
+paypal,*.braintreegateway.com,True
 paypal,paypalobjects.com,True
 paypal,*.paypal.com,True
 paypal,*.braintreepayments.com,True
@@ -9584,8 +9584,8 @@ chaturbate,*.securegatewayaccess.com,True
 chaturbate,billingsupport.chaturbate.com,True
 chaturbate,*.mmcdn.com,True
 chaturbate,*.mmwebc.dev,True
-chaturbate,chaturbate.com,True
 chaturbate,*.cb.dev,True
+chaturbate,chaturbate.com,True
 chaturbate,*.highwebmedia.com,True
 chaturbate,*.securegatewayaccess.com,True
 chaturbate,*.mmcdn.com,True
@@ -9841,7 +9841,6 @@ toyota,www.toyotacertificados.com,False
 toyota,www.toyotacertified.com,False
 toyota,www.toyotafinancial.com,False
 toyota,www.login.gac.toyota.com,False
-crowdstrike,*.crowdstrike.com,True
 crowdstrike,www.crowdstrike.org,True
 crowdstrike,falcon-sandbox.com,True
 crowdstrike,hybrid-analysis.com,True
@@ -9852,6 +9851,7 @@ crowdstrike,*.reposify.com,True
 crowdstrike,*.bionic.ai,True
 crowdstrike,*.preempt.com,True
 crowdstrike,*.preemptsecurity.com,True
+crowdstrike,*.crowdstrike.com,True
 crowdstrike,*.crowdstrike.com,True
 crowdstrike,*.humio.com,True
 crowdstrike,*.securecircle.com,True
@@ -10682,8 +10682,8 @@ airbnb,*.hoteltonight-test.com,True
 airbnb,www.hoteltonight.com,True
 airbnb,*.airbnbcitizen.com,True
 airbnb,*.withairbnb.com,True
-airbnb,*.airbnb.com,True
 airbnb,api.airbnb.com,True
+airbnb,*.airbnb.com,True
 airbnb,www.airbnb.com,True
 airbnb,www.airbnb.com,True
 airbnb,next.airbnb.com,True
@@ -10856,11 +10856,11 @@ irccloud,team-irc.irccloud.com,True
 irccloud,blog.irccloud.com,True
 coinbase,*.cbhq.net,True
 coinbase,api.custody.coinbase.com,True
+coinbase,api.coinbase.com,True
 coinbase,pro.coinbase.com,True
 coinbase,custody.coinbase.com,True
 coinbase,commerce.coinbase.com,True
 coinbase,prime.coinbase.com,True
-coinbase,api.coinbase.com,True
 coinbase,institutional.coinbase.com,True
 coinbase,*.base.org,True
 coinbase,international.coinbase.com,True
@@ -10936,9 +10936,9 @@ security,hackerone.live,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
 security,hackerone-ext-content.com,True
-security,hackerone.com,True
 security,errors.hackerone.net,True
 security,ctf.hacker101.com,True
+security,hackerone.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
@@ -11315,9 +11315,9 @@ magento,u.magento.com,True
 magento,imagine.magento.com,True
 magento,magentolive.com,True
 magento,account.magento.com,True
-magento,magento.com,True
 magento,repo.magento.com,True
 magento,accounts.magento.cloud,True
+magento,magento.com,True
 magento,marketplace.magento.com,True
 magento,magentocommerce.com,True
 magento,repo.magento.com,True
