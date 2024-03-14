@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar 14 19:17:38 UTC 2024)
+## Domains with Bounties (Last Updated Thu Mar 14 19:40:47 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -319,8 +319,8 @@ webonboarding-eu.truecaller.com
 cards.remitly.io
 app.rewire.to
 rewire.com
-remitly.com
 api.remitly.io
+remitly.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -413,8 +413,8 @@ payments.hostinger.com
 *.000webhost.com
 www.hostinger.com
 www.niagahoster.co.id
-hpanel.hostinger.com
 cpanel.hostinger.com
+hpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -459,8 +459,8 @@ www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadolibre.com.ar
 www.mercadopago.com.ar
-api.mercadolibre.com
 www.mercadopago.com.br
+api.mercadolibre.com
 www.mercadolivre.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -504,12 +504,12 @@ cars.booking.com
 www.fareharbor.com
 spark.fareharbor.com
 kyc-onboarding.booking.com
-booking.com
 careers.booking.com
 widget.rentalcars.com
+booking.com
 account.booking.com
-secure.booking.com
 *.rentalcars.com
+secure.booking.com
 *.booking.com
 *.booking.com
 *.rentalcars.com
@@ -780,8 +780,8 @@ www.visainfinite.ca
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
-yourdomain.freshdesk.com
 yourdomain.freshservice.com
+yourdomain.freshdesk.com
 yourdomain.freshchat.com
 yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
@@ -897,8 +897,8 @@ hilton.com.tr
 hiltonbusinessonline.com
 hiltonlocalbiz.com
 *.hilton.com.tr
-*.hiltonbusinessonline.com
 hilton.com
+*.hiltonbusinessonline.com
 hilton.io
 *.hilton.com
 *.hilton.com
@@ -1247,8 +1247,8 @@ pb.deribit.com
 *.deribit.com
 tools.deribit.com
 metrics.deribit.com
-insights.deribit.com
 test.deribit.com
+insights.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1487,8 +1487,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1766,12 +1766,12 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
+api.stripe.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
 *.touchtechpayments.com
 *.stripe.com
-api.stripe.com
 app.taxjar.com
 api.stripe.com
 *.stripe.com
@@ -1976,8 +1976,8 @@ internal-docs.netlify.com
 *.services-prod.nsvcs.net
 internal.netlify.com
 *.ops.netlify.com
-*.infra-prod.nsvcs.net
 api.netlify.com
+*.infra-prod.nsvcs.net
 app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
@@ -2573,8 +2573,8 @@ configure.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
 www.mini.de
-www.bmw.de
 www.bmw-motorrad.de
+www.bmw.de
 www.bmw.de
 www.mini.de
 www.bmw-motorrad.de
@@ -3064,9 +3064,9 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 us.tvg.com
-fanduel.design
-tvg.com
 www.4njbets.com
+tvg.com
+fanduel.design
 www.tvg.com
 fdbox.net
 *.fanduel.com
@@ -3101,6 +3101,13 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3109,13 +3116,6 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
 www.loanbuilder.com
@@ -3124,8 +3124,8 @@ my.swiftfinancial.com
 *.braintreegateway.com
 *.venmo.com
 paypalobjects.com
-*.paypal.com
 *.braintreepayments.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3163,8 +3163,8 @@ m.chaturbate.com
 billingsupport.chaturbate.com
 *.mmcdn.com
 *.mmwebc.dev
-*.cb.dev
 chaturbate.com
+*.cb.dev
 *.highwebmedia.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -3694,8 +3694,8 @@ classroom.github.com
 education.github.com
 npmjs.com
 npmjs.org
-api.github.com
 *.githubusercontent.com
+api.github.com
 github.com
 github.com
 api.github.com
@@ -3842,7 +3842,6 @@ linkpop.com
 shopify.plus
 arrive-server.shopifycloud.com
 *.shopifycs.com
-*.shopify.io
 shopifyinbox.com
 your-store.myshopify.com
 admin.shopify.com
@@ -3851,6 +3850,7 @@ admin.shopify.com
 shop.app
 partners.shopify.com
 accounts.shopify.com
+*.shopify.io
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3977,8 +3977,8 @@ callbacks.airbnb.com
 www.hoteltonight.com
 *.airbnbcitizen.com
 *.withairbnb.com
-api.airbnb.com
 *.airbnb.com
+api.airbnb.com
 www.airbnb.com
 www.airbnb.com
 next.airbnb.com
@@ -4063,8 +4063,8 @@ gnip.com
 api.x.ai
 grok.x.ai
 ide.x.ai
-*.twitter.com
 x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4099,12 +4099,12 @@ t.umblr.com
 akismet.com
 happy.tools
 my.pressable.com
-wordpress.com
 intensedebate.com
 simplenote.com
 simperium.com
 gravatar.com
 mailpoet.com
+wordpress.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
@@ -4145,8 +4145,8 @@ pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
-institutional.coinbase.com
 api.coinbase.com
+institutional.coinbase.com
 *.base.org
 international.coinbase.com
 cloud.coinbase.com
@@ -4213,10 +4213,10 @@ cover-photos-us-east-2.hackerone-user-content.com
 reviewer.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
+hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 app.pullrequest.com
 hackathon-photos.hackerone-user-content.com
-hackerone-user-content.com
 hackerone.live
 api.hackerone.com
 www.hackerone.com
