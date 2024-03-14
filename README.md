@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar 14 10:40:53 UTC 2024)
+## Domains with Bounties (Last Updated Thu Mar 14 11:16:58 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -401,8 +401,8 @@ sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 demo.dynamic.xyz
-app.dynamic.xyz
 app.dynamic-preprod.xyz
+app.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -411,11 +411,11 @@ backend.zyro.com
 editor.zyro.com
 logo.zyro.com
 payments.hostinger.com
+www.niagahoster.co.id
 *.000webhost.com
 www.hostinger.com
-www.niagahoster.co.id
-cpanel.hostinger.com
 hpanel.hostinger.com
+cpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -781,10 +781,10 @@ www.visainfinite.ca
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
-yourdomain.freshservice.com
 yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
+yourdomain.freshservice.com
 yourdomain.freshchat.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -868,9 +868,9 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 support.mozilla.org
 hg.mozilla.org
+monitor.mozilla.org
 www.mozilla.org
 developer.mozilla.org
-monitor.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -898,8 +898,8 @@ hiltonhotels.jp
 hilton.com.tr
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-*.hiltonbusinessonline.com
 *.hilton.com.tr
+*.hiltonbusinessonline.com
 *.hilton.com
 hilton.com
 *.hilton.com
@@ -1035,8 +1035,8 @@ cfapi.voikukka.fi
 www.kiwi.com
 auth.skypicker.com
 jobs.kiwi.com
-*.kiwi.com
 tequila.kiwi.com
+*.kiwi.com
 *.skypicker.com
 *.kiwi.com
 *.skypicker.com
@@ -1179,9 +1179,9 @@ www.fewo-direkt.de
 www.stayz.com.au
 www.expediagroup.com
 www.flights.com
-*.travelocity.ca
 www.expedia.com
 *.expediapartnercentral.com
+*.travelocity.ca
 *.travelocity.com
 *.expediacruises.com
 *.vrbo.com
@@ -1769,10 +1769,10 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
-*.touchtechpayments.com
 *.recko.io
-app.taxjar.com
 js.stripe.com
+app.taxjar.com
+*.touchtechpayments.com
 *.stripe.com
 api.stripe.com
 *.getbouncer.com
@@ -1816,10 +1816,10 @@ sh.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
+matrix.redditspace.com
+ads.reddit.com
 old.reddit.com
 www.reddit.com
-ads.reddit.com
-matrix.redditspace.com
 *.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -2066,17 +2066,17 @@ api.adm.cloud.com
 live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
-effecthouse.tiktok.com
 careers.tiktok.com
+effecthouse.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
-tiktok.com
 developers.tiktok.com
+tiktok.com
 ads.tiktok.com
-partner.tiktokshop.com
 *.tiktokv.com
 www.pangleglobal.com
 shop.tiktok.com
+partner.tiktokshop.com
 *.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2558,9 +2558,9 @@ www.alibabagroup.com
 *.Daraz.com
 *.aliexpress.com
 *.aliyun.com
-*.tmall.com
-*.taobao.com
 *.alibaba.com
+*.taobao.com
+*.tmall.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -3072,8 +3072,8 @@ service.tvg.com
 us.tvg.com
 tvg.com
 fanduel.design
-www.4njbets.com
 *.fanduel.com
+www.4njbets.com
 fdbox.net
 *.fanduel.com
 *racing.fanduel.com
@@ -3168,8 +3168,8 @@ m.chaturbate.com
 billingsupport.chaturbate.com
 *.mmcdn.com
 *.mmwebc.dev
-*.cb.dev
 chaturbate.com
+*.cb.dev
 *.highwebmedia.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -3294,12 +3294,12 @@ partner.steampowered.com
 www.valvesoftware.com
 partner.steamgames.com
 playartifact.com
-help.steampowered.com
 www.teamfortress.com
+help.steampowered.com
 www.counter-strike.net
-api.steampowered.com
-store.steampowered.com
 steamcommunity.com
+store.steampowered.com
+api.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3699,8 +3699,8 @@ classroom.github.com
 education.github.com
 npmjs.com
 npmjs.org
-api.github.com
 *.githubusercontent.com
+api.github.com
 github.com
 github.com
 api.github.com
@@ -3981,8 +3981,8 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 www.hoteltonight.com
 *.airbnbcitizen.com
-api.airbnb.com
 *.withairbnb.com
+api.airbnb.com
 *.airbnb.com
 www.airbnb.com
 www.airbnb.com
@@ -4181,10 +4181,10 @@ slack-redir.net
 spaces.pm
 www.quip.com
 *.quip.com
-api.slack.com
 slack.com
-app.slack.com
+api.slack.com
 slack-imgs.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4226,9 +4226,9 @@ cover-photos.hackerone-user-content.com
 hackerone-ext-content.com
 hackerone-user-content.com
 www.hackerone.com
-hackerone.com
 hackerone.live
 api.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4400,8 +4400,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 magento.com
 marketplace.magento.com
 magentocommerce.com
