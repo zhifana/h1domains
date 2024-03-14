@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar 14 06:20:40 UTC 2024)
+## Domains with Bounties (Last Updated Thu Mar 14 06:41:09 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -335,8 +335,8 @@ bioid-management.app
 *.worldcoin.dev
 *.toolsforhumanity.com
 *.worldcoin.org
-*.consumer.worldcoin.org
 worldcoin.org
+*.consumer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -393,8 +393,8 @@ sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
-*.sprint.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
+*.sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -460,10 +460,10 @@ www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.cl
 api.mercadolibre.com
-www.mercadolibre.com.ar
-www.mercadolivre.com.br
 www.mercadopago.com.br
 www.mercadopago.com.ar
+www.mercadolibre.com.ar
+www.mercadolivre.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -783,9 +783,9 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshchat.com
-yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -900,8 +900,8 @@ hiltonhotels.jp
 hilton.com.tr
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-*.hilton.com.tr
 *.hiltonbusinessonline.com
+*.hilton.com.tr
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -1180,10 +1180,10 @@ www.fewo-direkt.de
 www.stayz.com.au
 www.expediagroup.com
 www.flights.com
+*.travelocity.ca
 www.expedia.com
 *.expediapartnercentral.com
 *.travelocity.com
-*.travelocity.ca
 *.expediacruises.com
 *.vrbo.com
 *.hotwire.com
@@ -1213,8 +1213,8 @@ www.expediagroup.com
 www.flights.com
 magiceden.io
 *.magiceden.io
-*.magiceden.workers.dev
 *.magiceden.dev
+*.magiceden.workers.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1469,8 +1469,8 @@ bullsheet.me
 api.instacart.com
 admin.instacart.com
 shoppers.instacart.com
-*.instacart.com
 www.instacart.com
+*.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1489,8 +1489,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1769,6 +1769,7 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
+api.stripe.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
@@ -1776,7 +1777,6 @@ js.stripe.com
 app.taxjar.com
 *.touchtechpayments.com
 *.stripe.com
-api.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1817,11 +1817,11 @@ sh.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
-*.reddit.com
 old.reddit.com
 www.reddit.com
 ads.reddit.com
 matrix.redditspace.com
+*.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2031,8 +2031,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 citrix.cloud.com
 www.cloud.com
@@ -2067,15 +2067,15 @@ api.adm.cloud.com
 live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
-shop.tiktok.com
-effecthouse.tiktok.com
-careers.tiktok.com
 creatormarketplace.tiktok.com
+partner.tiktokshop.com
+developers.tiktok.com
+effecthouse.tiktok.com
+shop.tiktok.com
+careers.tiktok.com
 business.tiktok.com
 *.tiktokv.com
-partner.tiktokshop.com
 tiktok.com
-developers.tiktok.com
 ads.tiktok.com
 www.pangleglobal.com
 *.tiktok.com
@@ -2122,8 +2122,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-platform.enjin.io
 nft.io
+platform.enjin.io
 nft.io
 platform.enjin.io
 api.figma.com
@@ -2559,9 +2559,9 @@ www.alibabagroup.com
 *.Daraz.com
 *.aliexpress.com
 *.aliyun.com
-*.tmall.com
 *.taobao.com
 *.alibaba.com
+*.tmall.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -3072,11 +3072,11 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 us.tvg.com
-tvg.com
-fanduel.design
 *.fanduel.com
 www.4njbets.com
 fdbox.net
+tvg.com
+fanduel.design
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3126,10 +3126,10 @@ pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
-*.paypalcorp.com
-paypalobjects.com
 www.loanbuilder.com
 my.swiftfinancial.com
+*.paypalcorp.com
+paypalobjects.com
 *.braintreegateway.com
 *.paypal.com
 *.venmo.com
@@ -3296,8 +3296,8 @@ partner.steampowered.com
 www.valvesoftware.com
 partner.steamgames.com
 playartifact.com
-www.teamfortress.com
 help.steampowered.com
+www.teamfortress.com
 www.counter-strike.net
 api.steampowered.com
 steamcommunity.com
@@ -3320,10 +3320,10 @@ auth.crypto.com
 pay.crypto.com
 app.mona.co
 *.mona.co
-*.crypto.com
-js.crypto.com
-tax.crypto.com
 merchant.crypto.com
+js.crypto.com
+*.crypto.com
+tax.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3409,8 +3409,8 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-*.beta.lahitapiola.fi
 *.lahitapiola.fi
+*.beta.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3701,9 +3701,9 @@ classroom.github.com
 education.github.com
 npmjs.com
 npmjs.org
-api.github.com
 *.githubusercontent.com
 github.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -4183,8 +4183,8 @@ slack-redir.net
 spaces.pm
 www.quip.com
 *.quip.com
-api.slack.com
 slack.com
+api.slack.com
 slack-imgs.com
 app.slack.com
 slack.com
