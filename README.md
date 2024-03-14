@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar 14 16:24:25 UTC 2024)
+## Domains with Bounties (Last Updated Thu Mar 14 16:43:33 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -333,8 +333,8 @@ getworldcoin.com
 bioid-management.app
 *.worldcoin.dev
 *.toolsforhumanity.com
-worldcoin.org
 *.consumer.worldcoin.org
+worldcoin.org
 *.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -459,10 +459,10 @@ www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadolibre.com.ar
-www.mercadolivre.com.br
 www.mercadopago.com.ar
 www.mercadopago.com.br
 api.mercadolibre.com
+www.mercadolivre.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -781,8 +781,8 @@ www.visainfinite.ca
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
-yourdomain.freshservice.com
 yourdomain.freshdesk.com
+yourdomain.freshservice.com
 yourdomain.freshchat.com
 yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
@@ -868,9 +868,9 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 support.mozilla.org
 hg.mozilla.org
-www.mozilla.org
 developer.mozilla.org
 monitor.mozilla.org
+www.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -1179,11 +1179,11 @@ www.fewo-direkt.de
 www.stayz.com.au
 www.expediagroup.com
 www.flights.com
-*.expediapartnercentral.com
 *.travelocity.ca
+*.expediapartnercentral.com
+*.travelocity.com
 www.expedia.com
 *.expediacruises.com
-*.travelocity.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1348,9 +1348,9 @@ business.kayak.com
 www.momondo.com
 www.cheapflights.com
 www.mundi.com.br
-www.hotelscombined.com
 www.kayak.com
 www.checkfelix.com
+www.hotelscombined.com
 www.kayak.com
 www.swoodoo.com
 www.checkfelix.com
@@ -1488,8 +1488,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1754,8 +1754,8 @@ www.elastic.co
 *.elstc.co
 *.elasticnet.co
 *.eops.nl
-*.swiftype.com
 cloud.elastic.co
+*.swiftype.com
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1922,6 +1922,7 @@ api.bitso.com
 http://bitso.com/alpha
 nvio.mx
 nvio.ar
+larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
 api.larksuite.com
@@ -1931,9 +1932,8 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
-larksuite.com
-open.larksuite.com
 app.larksuite.com
+open.larksuite.com
 hackers_chosendomain.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
@@ -1979,8 +1979,8 @@ internal-docs.netlify.com
 *.services-prod.nsvcs.net
 internal.netlify.com
 *.ops.netlify.com
-*.infra-prod.nsvcs.net
 api.netlify.com
+*.infra-prod.nsvcs.net
 app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
@@ -2142,10 +2142,10 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.acronis.work
-account.acronis.com
 *.acronis.com
-beta-cloud.acronis.com
+account.acronis.com
 *.5nine.com
+beta-cloud.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2554,9 +2554,9 @@ www.alibabagroup.com
 *.aliexpress.ru
 *.Daraz.com
 *.aliyun.com
-*.alibabacloud.com
-*.taobao.com
 *.alibaba.com
+*.taobao.com
+*.alibabacloud.com
 *.tmall.com
 *.aliexpress.com
 *.alibaba.com
@@ -3067,12 +3067,12 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 us.tvg.com
+www.4njbets.com
 tvg.com
 fanduel.design
-www.4njbets.com
+www.tvg.com
 *.fanduel.com
 fdbox.net
-www.tvg.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3122,12 +3122,12 @@ pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
-*.paypalcorp.com
 www.loanbuilder.com
 my.swiftfinancial.com
+*.paypalcorp.com
 *.braintreegateway.com
-paypalobjects.com
 *.venmo.com
+paypalobjects.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3315,10 +3315,10 @@ www.crypto.com
 auth.crypto.com
 pay.crypto.com
 app.mona.co
-*.mona.co
 *.crypto.com
 js.crypto.com
 tax.crypto.com
+*.mona.co
 merchant.crypto.com
 *.crypto.com
 *.mona.co
@@ -3456,8 +3456,8 @@ gifts.grab.com
 *.taralite.com
 kartaview.org
 wiki.grab.com
-*.grab.com
 *.myteksi.com
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3850,8 +3850,8 @@ arrive-server.shopifycloud.com
 shopifyinbox.com
 your-store.myshopify.com
 partners.shopify.com
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifycloud.com
 *.shopifycs.com
@@ -3897,8 +3897,8 @@ store.playcanvas.com
 playcanv.as
 *.sc-corp.net
 web.snapchat.com
-ads.snapchat.com
 login.playcanvas.com
+ads.snapchat.com
 playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
@@ -3980,8 +3980,8 @@ callbacks.airbnb.com
 www.hoteltonight.com
 *.airbnbcitizen.com
 *.withairbnb.com
-api.airbnb.com
 www.airbnb.com
+api.airbnb.com
 *.airbnb.com
 www.airbnb.com
 next.airbnb.com
@@ -4144,16 +4144,16 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
-api.coinbase.com
 *.base.org
 international.coinbase.com
-cloud.coinbase.com
 *.coinbase.com
+cloud.coinbase.com
 coinbase.com
 nft.coinbase.com
 *.coinbase.com
@@ -4398,9 +4398,9 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
+magento.com
 repo.magento.com
 accounts.magento.cloud
-magento.com
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
