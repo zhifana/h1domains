@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar 14 13:21:53 UTC 2024)
+## Domains with Bounties (Last Updated Thu Mar 14 13:42:59 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -318,9 +318,9 @@ webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
 app.rewire.to
-api.remitly.io
-remitly.com
 rewire.com
+remitly.com
+api.remitly.io
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -391,8 +391,8 @@ sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
-*.sprint.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
+*.sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -400,8 +400,8 @@ sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 demo.dynamic.xyz
-app.dynamic-preprod.xyz
 app.dynamic.xyz
+app.dynamic-preprod.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -897,9 +897,9 @@ hilton.com.tr
 hiltonbusinessonline.com
 hiltonlocalbiz.com
 *.hilton.com.tr
-hilton.com
 *.hilton.com
 *.hiltonbusinessonline.com
+hilton.com
 hilton.io
 *.hilton.com
 *.hilton.io
@@ -1638,8 +1638,8 @@ securitytrails.com
 geminiadvisory.io
 hatching.io
 tria.ge
-www.recordedfuture.com
 app.recordedfuture.com
+www.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1753,8 +1753,8 @@ www.elastic.co
 *.elstc.co
 *.elasticnet.co
 *.eops.nl
-cloud.elastic.co
 *.swiftype.com
+cloud.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1921,7 +1921,6 @@ api.bitso.com
 http://bitso.com/alpha
 nvio.mx
 nvio.ar
-larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
 api.larksuite.com
@@ -1931,8 +1930,9 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
-app.larksuite.com
+larksuite.com
 open.larksuite.com
+app.larksuite.com
 hackers_chosendomain.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
@@ -1978,9 +1978,9 @@ internal-docs.netlify.com
 *.services-prod.nsvcs.net
 internal.netlify.com
 *.ops.netlify.com
-api.netlify.com
 app.netlify.com
 *.infra-prod.nsvcs.net
+api.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -2064,17 +2064,17 @@ api.adm.cloud.com
 live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
-careers.tiktok.com
-effecthouse.tiktok.com
 creatormarketplace.tiktok.com
-business.tiktok.com
 developers.tiktok.com
+effecthouse.tiktok.com
+careers.tiktok.com
+business.tiktok.com
 tiktok.com
 ads.tiktok.com
+partner.tiktokshop.com
 *.tiktokv.com
 www.pangleglobal.com
 shop.tiktok.com
-partner.tiktokshop.com
 *.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2555,9 +2555,9 @@ www.alibabagroup.com
 *.Daraz.com
 *.aliexpress.com
 *.aliyun.com
-*.alibabacloud.com
-*.taobao.com
 *.alibaba.com
+*.taobao.com
+*.alibabacloud.com
 *.tmall.com
 *.alibaba.com
 *.aliexpress.com
@@ -3126,10 +3126,10 @@ scrutiny.swiftfinancial.com
 www.loanbuilder.com
 my.swiftfinancial.com
 *.paypalcorp.com
-*.venmo.com
-*.paypal.com
 *.braintreegateway.com
+*.venmo.com
 paypalobjects.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3167,8 +3167,8 @@ m.chaturbate.com
 billingsupport.chaturbate.com
 *.mmcdn.com
 *.mmwebc.dev
-chaturbate.com
 *.cb.dev
+chaturbate.com
 *.highwebmedia.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -3293,8 +3293,8 @@ partner.steampowered.com
 www.valvesoftware.com
 partner.steamgames.com
 playartifact.com
-help.steampowered.com
 www.teamfortress.com
+help.steampowered.com
 www.counter-strike.net
 steamcommunity.com
 api.steampowered.com
@@ -3799,8 +3799,8 @@ preprod.nl
 qatest.nl
 rudderplatform.com
 werkenbijdnb.nl
-werkenbijderet.nl
 www.werkenbijbakertilly.nl
+werkenbijderet.nl
 werkenbijdefensie.nl
 werkenbijderet.nl
 www.werkenbijbakertilly.nl
@@ -3847,12 +3847,12 @@ shop.app
 shopify.plus
 arrive-server.shopifycloud.com
 *.shopifycs.com
-*.shopify.io
-shopifyinbox.com
-your-store.myshopify.com
 partners.shopify.com
 admin.shopify.com
 *.shopify.com
+*.shopify.io
+shopifyinbox.com
+your-store.myshopify.com
 *.shopifycloud.com
 accounts.shopify.com
 *.shopifycs.com
@@ -4149,12 +4149,12 @@ pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
-institutional.coinbase.com
 api.coinbase.com
+institutional.coinbase.com
 *.base.org
 international.coinbase.com
-cloud.coinbase.com
 *.coinbase.com
+cloud.coinbase.com
 coinbase.com
 nft.coinbase.com
 *.coinbase.com
@@ -4219,11 +4219,11 @@ reviewer.pullrequest.com
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
-hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 app.pullrequest.com
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
+hackerone-user-content.com
 hackerone.live
 api.hackerone.com
 hackerone.com
@@ -4399,9 +4399,9 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-magento.com
 repo.magento.com
 accounts.magento.cloud
+magento.com
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
