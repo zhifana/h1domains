@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar 14 17:19:58 UTC 2024)
+## Domains with Bounties (Last Updated Thu Mar 14 17:43:53 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -505,12 +505,12 @@ cars.booking.com
 www.fareharbor.com
 spark.fareharbor.com
 kyc-onboarding.booking.com
+booking.com
 careers.booking.com
 widget.rentalcars.com
-booking.com
 account.booking.com
-secure.booking.com
 *.booking.com
+secure.booking.com
 *.rentalcars.com
 *.booking.com
 *.rentalcars.com
@@ -783,8 +783,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
-yourdomain.myfreshworks.com
 yourdomain.freshchat.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -837,11 +837,11 @@ merino.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
-phabricator.allizom.org
+firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
-firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
+phabricator.allizom.org
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -1166,7 +1166,6 @@ www.ebookers.fi
 www.mrjet.se
 www.expediapartnersolutions.com
 www.expediaagents.com
-*.vrbo.com
 *.hotwire.com
 *.carrentals.com
 *.wotif.com
@@ -1182,8 +1181,9 @@ www.flights.com
 *.expediapartnercentral.com
 *.travelocity.ca
 www.expedia.com
-*.expediacruises.com
 *.travelocity.com
+*.vrbo.com
+*.expediacruises.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1348,9 +1348,9 @@ business.kayak.com
 www.momondo.com
 www.cheapflights.com
 www.mundi.com.br
+www.hotelscombined.com
 www.kayak.com
 www.checkfelix.com
-www.hotelscombined.com
 www.kayak.com
 www.swoodoo.com
 www.checkfelix.com
@@ -1767,13 +1767,13 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
+api.stripe.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
 app.taxjar.com
 *.touchtechpayments.com
 *.stripe.com
-api.stripe.com
 *.getbouncer.com
 api.stripe.com
 *.stripe.com
@@ -1979,8 +1979,8 @@ internal-docs.netlify.com
 *.services-prod.nsvcs.net
 internal.netlify.com
 *.ops.netlify.com
-*.infra-prod.nsvcs.net
 api.netlify.com
+*.infra-prod.nsvcs.net
 app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
@@ -2027,8 +2027,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-www.cloud.com
 (yoursubdomain).sharefile.com
+www.cloud.com
 (yoursubdomain).sharefile.eu
 adm.cloud.com
 citrix.cloud.com
@@ -2142,8 +2142,8 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.acronis.work
-account.acronis.com
 *.acronis.com
+account.acronis.com
 beta-cloud.acronis.com
 *.5nine.com
 *-api-*.acronis.com
@@ -2554,8 +2554,8 @@ www.alibabagroup.com
 *.aliexpress.ru
 *.Daraz.com
 *.aliyun.com
-*.alibaba.com
 *.taobao.com
+*.alibaba.com
 *.alibabacloud.com
 *.aliexpress.com
 *.tmall.com
@@ -2576,8 +2576,8 @@ configure.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
 www.mini.de
-www.bmw-motorrad.de
 www.bmw.de
+www.bmw-motorrad.de
 www.bmw.de
 www.mini.de
 www.bmw-motorrad.de
@@ -3067,11 +3067,11 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 us.tvg.com
+www.4njbets.com
 tvg.com
 fanduel.design
-www.4njbets.com
-*.fanduel.com
 www.tvg.com
+*.fanduel.com
 fdbox.net
 *.fanduel.com
 *racing.fanduel.com
@@ -3315,10 +3315,10 @@ www.crypto.com
 auth.crypto.com
 pay.crypto.com
 app.mona.co
+*.mona.co
 *.crypto.com
 js.crypto.com
 tax.crypto.com
-*.mona.co
 merchant.crypto.com
 *.crypto.com
 *.mona.co
@@ -3697,8 +3697,8 @@ classroom.github.com
 education.github.com
 npmjs.com
 npmjs.org
-api.github.com
 *.githubusercontent.com
+api.github.com
 github.com
 github.com
 api.github.com
@@ -3897,8 +3897,8 @@ store.playcanvas.com
 playcanv.as
 *.sc-corp.net
 web.snapchat.com
-ads.snapchat.com
 login.playcanvas.com
+ads.snapchat.com
 playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
@@ -3980,9 +3980,9 @@ callbacks.airbnb.com
 www.hoteltonight.com
 *.airbnbcitizen.com
 *.withairbnb.com
-www.airbnb.com
 *.airbnb.com
 api.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4206,7 +4206,6 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 *.vpn.hackerone.net
-errors.hackerone.net
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
 b5s.hackerone-ext-content.com
@@ -4217,16 +4216,17 @@ cover-photos-us-east-2.hackerone-user-content.com
 reviewer.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
-hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 app.pullrequest.com
 hackathon-photos.hackerone-user-content.com
+hackerone-user-content.com
 hackerone.live
 api.hackerone.com
 www.hackerone.com
 hackerone-ext-content.com
-ctf.hacker101.com
 hackerone.com
+errors.hackerone.net
+ctf.hacker101.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
