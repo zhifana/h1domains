@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar 14 11:16:58 UTC 2024)
+## Domains with Bounties (Last Updated Thu Mar 14 11:41:21 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -38,7 +38,6 @@ www.dyson.co.kr
 www.dyson.co.nz
 www.dyson.ae
 www.dyson.hk
-shop.dyson.co.za
 www.sa.dyson.com
 www.dyson.com.ro
 *.cp.dyson.com
@@ -510,8 +509,8 @@ careers.booking.com
 widget.rentalcars.com
 booking.com
 secure.booking.com
-*.rentalcars.com
 *.booking.com
+*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -781,8 +780,8 @@ www.visainfinite.ca
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
-yourdomain.freshdesk.com
 yourdomain.freshservice.com
+yourdomain.freshdesk.com
 yourdomain.freshchat.com
 yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
@@ -868,9 +867,9 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 support.mozilla.org
 hg.mozilla.org
-monitor.mozilla.org
 www.mozilla.org
 developer.mozilla.org
+monitor.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -899,9 +898,9 @@ hilton.com.tr
 hiltonbusinessonline.com
 hiltonlocalbiz.com
 *.hilton.com.tr
-*.hiltonbusinessonline.com
-*.hilton.com
 hilton.com
+*.hilton.com
+*.hiltonbusinessonline.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -1179,9 +1178,9 @@ www.fewo-direkt.de
 www.stayz.com.au
 www.expediagroup.com
 www.flights.com
+*.travelocity.ca
 www.expedia.com
 *.expediapartnercentral.com
-*.travelocity.ca
 *.travelocity.com
 *.expediacruises.com
 *.vrbo.com
@@ -1488,8 +1487,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1640,8 +1639,8 @@ securitytrails.com
 geminiadvisory.io
 hatching.io
 tria.ge
-www.recordedfuture.com
 app.recordedfuture.com
+www.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1768,13 +1767,13 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
+api.stripe.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
 app.taxjar.com
 *.touchtechpayments.com
 *.stripe.com
-api.stripe.com
 *.getbouncer.com
 api.stripe.com
 *.stripe.com
@@ -1816,10 +1815,10 @@ sh.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
-matrix.redditspace.com
-ads.reddit.com
 old.reddit.com
 www.reddit.com
+ads.reddit.com
+matrix.redditspace.com
 *.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -2145,8 +2144,8 @@ api.faraday.ai
 *.5nine.com
 *.devicelock.com
 *.acronis.work
-account.acronis.com
 *.acronis.com
+account.acronis.com
 beta-cloud.acronis.com
 *-api-*.acronis.com
 *.acronis.com
@@ -2558,8 +2557,8 @@ www.alibabagroup.com
 *.Daraz.com
 *.aliexpress.com
 *.aliyun.com
-*.alibaba.com
 *.taobao.com
+*.alibaba.com
 *.tmall.com
 *.alibaba.com
 *.aliexpress.com
@@ -2709,10 +2708,10 @@ prow.k8s.io
 kubernetes.io
 k8s.io
 kubernetes-csi.github.io
-www.datastax.com
 downloads.datastax.com
 docs.datastax.com
 astra.datastax.com
+www.datastax.com
 www.datastax.com
 downloads.datastax.com
 docs.datastax.com
@@ -2848,6 +2847,7 @@ admin.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
 press.priceline.com
+flyiin.com
 secure.rezserver.com
 www.priceline.com
 secure.rezserver.com
@@ -3070,10 +3070,10 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 us.tvg.com
-tvg.com
 fanduel.design
-*.fanduel.com
+tvg.com
 www.4njbets.com
+*.fanduel.com
 fdbox.net
 *.fanduel.com
 *racing.fanduel.com
@@ -3124,12 +3124,12 @@ pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
-*.paypalcorp.com
 www.loanbuilder.com
 my.swiftfinancial.com
+*.paypalcorp.com
 *.braintreegateway.com
-*.paypal.com
 paypalobjects.com
+*.paypal.com
 *.venmo.com
 www.paypal-*.com
 *.xoom.com
@@ -3168,8 +3168,8 @@ m.chaturbate.com
 billingsupport.chaturbate.com
 *.mmcdn.com
 *.mmwebc.dev
-chaturbate.com
 *.cb.dev
+chaturbate.com
 *.highwebmedia.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -3298,8 +3298,8 @@ www.teamfortress.com
 help.steampowered.com
 www.counter-strike.net
 steamcommunity.com
-store.steampowered.com
 api.steampowered.com
+store.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3699,8 +3699,8 @@ classroom.github.com
 education.github.com
 npmjs.com
 npmjs.org
-*.githubusercontent.com
 api.github.com
+*.githubusercontent.com
 github.com
 github.com
 api.github.com
@@ -4068,8 +4068,8 @@ gnip.com
 api.x.ai
 grok.x.ai
 ide.x.ai
-*.twitter.com
 x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4146,16 +4146,16 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
+api.coinbase.com
 *.base.org
 international.coinbase.com
-*.coinbase.com
 cloud.coinbase.com
+*.coinbase.com
 coinbase.com
 nft.coinbase.com
 *.coinbase.com
@@ -4220,15 +4220,15 @@ reviewer.pullrequest.com
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
-hackathon-photos.hackerone-user-content.com
-app.pullrequest.com
 cover-photos.hackerone-user-content.com
+app.pullrequest.com
 hackerone-ext-content.com
+hackathon-photos.hackerone-user-content.com
 hackerone-user-content.com
-www.hackerone.com
 hackerone.live
 api.hackerone.com
 hackerone.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
