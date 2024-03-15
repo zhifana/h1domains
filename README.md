@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar 15 19:18:16 UTC 2024)
+## Domains with Bounties (Last Updated Fri Mar 15 19:43:12 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -318,8 +318,8 @@ cards.remitly.io
 app.rewire.to
 api.remitly.io
 rewire.com
-remitly.com
 rates.rewire.com
+remitly.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -331,8 +331,8 @@ getworldcoin.com
 *.worldcoin-distributors.com
 bioid-management.app
 *.worldcoin.dev
-worldcoin.org
 *.consumer.worldcoin.org
+worldcoin.org
 *.toolsforhumanity.com
 *.worldcoin.org
 *.worldcoin.org
@@ -389,8 +389,8 @@ http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
-*.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
+*.sprint.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 account-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
@@ -457,11 +457,11 @@ www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadolibre.com.ar
-www.mercadopago.com.br
 api.mercadolibre.com
 www.mercadolivre.com.br
 www.mercadopago.com.ar
 api.mercadopago.com
+www.mercadopago.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -501,13 +501,13 @@ secure-supply-xml.booking.com
 taxi.booking.com
 cars.booking.com
 kyc-onboarding.booking.com
-booking.com
 careers.booking.com
 widget.rentalcars.com
+booking.com
+*.rentalcars.com
 secure.booking.com
 www.fareharbor.com
 admin.booking.com
-*.rentalcars.com
 account.booking.com
 spark.fareharbor.com
 *.booking.com
@@ -547,8 +547,8 @@ spark.fareharbor.com
 www.fareharbor.com
 *.bybit.com
 *.bybit.com
-portal.au.frontegg.com
 api.au.frontegg.com
+portal.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 api2.frontapp.com
@@ -780,8 +780,8 @@ www.visainfinite.ca
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
-yourdomain.freshchat.com
 yourdomain.freshdesk.com
+yourdomain.freshchat.com
 yourdomain.freshservice.com
 yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
@@ -837,10 +837,10 @@ lando.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
+firefox.settings.services.mozilla.com
+addons.allizom.org
 phabricator.allizom.org
 accounts.firefox.com
-addons.allizom.org
-firefox.settings.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -965,8 +965,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-*.grindr.com
 web.grindr.com
+*.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1119,8 +1119,8 @@ admin.8x8.com
 moonpay.com
 hypermint.com
 *.moonpay.com
-*.moonpaycloud.com
 *.hypermint.com
+*.moonpaycloud.com
 *.moonpaycloud.com
 *.hypermint.com
 *.moonpay.com
@@ -1210,8 +1210,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.io
 magiceden.io
-*.magiceden.dev
 *.magiceden.workers.dev
+*.magiceden.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1336,8 +1336,8 @@ business.kayak.com
 www.cheapflights.com
 www.mundi.com.br
 www.kayak.com
-www.momondo.com
 www.checkfelix.com
+www.momondo.com
 www.hotelscombined.com
 www.kayak.com
 www.swoodoo.com
@@ -1348,8 +1348,8 @@ www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
 ws.sorare.com
-sorare.com
 api.sorare.com
+sorare.com
 sorare.com
 api.sorare.com
 ws.sorare.com
@@ -1741,8 +1741,8 @@ www.elastic.co
 *.elasticnet.co
 *.eops.nl
 cloud.elastic.co
-*.swiftype.com
 *.elastic.co
+*.swiftype.com
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -2011,8 +2011,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 adm.cloud.com
 citrix.cloud.com
@@ -2127,9 +2127,9 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.acronis.work
-account.acronis.com
 beta-cloud.acronis.com
 *.5nine.com
+account.acronis.com
 *.acronis.com
 *-api-*.acronis.com
 *.acronis.com
@@ -2541,9 +2541,9 @@ www.alibabagroup.com
 *.aliexpress.ru
 *.Daraz.com
 *.aliyun.com
-*.aliexpress.com
 *.alibaba.com
 *.taobao.com
+*.aliexpress.com
 *.alibabacloud.com
 *.tmall.com
 *.alibaba.com
@@ -2600,8 +2600,8 @@ maria.casino
 www.32red.com
 *.kes.kindredext.net
 *.highrolling.nu
-*.unibet.com
 *.bingo.com
+*.unibet.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2832,8 +2832,9 @@ api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
+secure.rezserver.com
+www.priceline.com
 priceline.com
-www.getaroom.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3049,14 +3050,14 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
-ia.tvg.com
-tvg.com
-login.tvg.com
-www.tvg.com
-mobile-prod.tvg.com
-*racing.fanduel.com
-www.4njbets.com
 us.tvg.com
+ia.tvg.com
+www.4njbets.com
+tvg.com
+mobile-prod.tvg.com
+login.tvg.com
+*racing.fanduel.com
+www.tvg.com
 *.fanduel.com
 fdbox.net
 *.fanduel.com
@@ -3303,8 +3304,8 @@ app.mona.co
 js.crypto.com
 merchant.crypto.com
 pay.crypto.com
-*.crypto.com
 www.crypto.com
+*.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3679,12 +3680,12 @@ classroom.github.com
 *.githubapp.com
 *.github.net
 education.github.com
-npmjs.com
 npmjs.org
 *.githubusercontent.com
 api.github.com
 gist.github.com
 github.com
+npmjs.com
 github.com
 api.github.com
 gist.github.com
@@ -3754,11 +3755,11 @@ cashier.deriv.com
 *.deriv.cloud
 secure-dfadmin.deriv.com
 *.derivws.com
-derivws.com
-*.deriv.com
-app.deriv.com
 oauth.deriv.com
 api.deriv.com
+app.deriv.com
+*.deriv.com
+derivws.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3821,8 +3822,8 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 http://h1-your-domain.zendesk.com/sell
-yourcompany.udemy.com
 www.udemy.com
+yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 *.shopifykloud.com
@@ -3881,9 +3882,9 @@ playcanv.as
 web.snapchat.com
 login.playcanvas.com
 ads.snapchat.com
-playcanvas.com
-accounts.snapchat.com
 app.snapchat.com
+accounts.snapchat.com
+playcanvas.com
 business.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
@@ -4090,9 +4091,9 @@ my.pressable.com
 intensedebate.com
 simplenote.com
 simperium.com
-gravatar.com
 mailpoet.com
 wordpress.com
+gravatar.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
@@ -4164,9 +4165,9 @@ slack-redir.net
 spaces.pm
 www.quip.com
 *.quip.com
-slack.com
-slack-imgs.com
 api.slack.com
+slack-imgs.com
+slack.com
 app.slack.com
 slack.com
 api.slack.com
@@ -4393,8 +4394,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 magento.com
 marketplace.magento.com
 magentocommerce.com
