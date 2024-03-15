@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar 15 15:20:04 UTC 2024)
+## Domains with Bounties (Last Updated Fri Mar 15 15:43:53 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -585,9 +585,9 @@ https://api-test.nicehash.com
 test.nicex.com
 neuralprisma.com
 prismalabsteam.com
-lensa-ai.com
 prisma-ai.com
 appapi.neuralprisma.com
+lensa-ai.com
 neuralprisma.com
 prismalabsteam.com
 lensa-ai.com
@@ -781,8 +781,8 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
-yourdomain.freshservice.com
 yourdomain.freshdesk.com
+yourdomain.freshservice.com
 yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -838,9 +838,9 @@ firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
 firefox.settings.services.mozilla.com
+addons.allizom.org
 phabricator.allizom.org
 accounts.firefox.com
-addons.allizom.org
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -868,8 +868,8 @@ community-tc.services.mozilla.com
 support.mozilla.org
 hg.mozilla.org
 developer.mozilla.org
-www.mozilla.org
 monitor.mozilla.org
+www.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -899,8 +899,8 @@ hiltonlocalbiz.com
 *.hilton.com.tr
 hilton.io
 *.hilton.com
-hilton.com
 *.hiltonbusinessonline.com
+hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -965,15 +965,15 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-*.grindr.com
 web.grindr.com
+*.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
 api.skinport.com
-app.skinport.com
 skinport.com
+app.skinport.com
 skinport.com
 app.skinport.com
 api.skinport.com
@@ -1015,9 +1015,9 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
+mobile.s-pankki.fi
 www.s-pankki.fi
 www.prisma.fi
-mobile.s-pankki.fi
 online.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
@@ -1181,8 +1181,8 @@ www.expediapartnersolutions.com
 *.travelocity.com
 *.carrentals.com
 *.travelocity.ca
-*.expediacruises.com
 *.vrbo.com
+*.expediacruises.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1965,8 +1965,8 @@ internal-docs.netlify.com
 *.services-prod.nsvcs.net
 internal.netlify.com
 *.ops.netlify.com
-api.netlify.com
 *.infra-prod.nsvcs.net
+api.netlify.com
 app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
@@ -2049,19 +2049,19 @@ api.adm.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
 live-backstage.tiktok.com
-creatormarketplace.tiktok.com
-effecthouse.tiktok.com
 careers.tiktok.com
-shop.tiktok.com
+effecthouse.tiktok.com
+creatormarketplace.tiktok.com
 tiktok.com
+shop.tiktok.com
 business.tiktok.com
 ads.tiktok.com
 fp-sg.tiktokv.com
 *.tiktokv.com
-www.pangleglobal.com
-*.tiktok.com
-partner.tiktokshop.com
 academy-outbound-ads.tiktok.com
+www.pangleglobal.com
+partner.tiktokshop.com
+*.tiktok.com
 developers.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2128,8 +2128,8 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.acronis.work
-beta-cloud.acronis.com
 *.5nine.com
+beta-cloud.acronis.com
 *.acronis.com
 account.acronis.com
 *-api-*.acronis.com
@@ -2545,8 +2545,8 @@ www.alibabagroup.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
-*.tmall.com
 *.alibabacloud.com
+*.tmall.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2601,8 +2601,8 @@ maria.casino
 www.32red.com
 *.kes.kindredext.net
 *.highrolling.nu
-*.unibet.com
 *.bingo.com
+*.unibet.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2834,8 +2834,8 @@ admin.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
 flyiin.com
-priceline.com
 www.getaroom.com
+priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3053,13 +3053,13 @@ service.tvg.com
 fanduel.design
 *.fanduel.com
 ia.tvg.com
-tvg.com
-mobile-prod.tvg.com
-login.tvg.com
-*racing.fanduel.com
-www.tvg.com
-us.tvg.com
 www.4njbets.com
+us.tvg.com
+tvg.com
+login.tvg.com
+www.tvg.com
+mobile-prod.tvg.com
+*racing.fanduel.com
 fdbox.net
 *.fanduel.com
 *racing.fanduel.com
@@ -3109,14 +3109,14 @@ pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
-*.paypalcorp.com
 www.loanbuilder.com
 my.swiftfinancial.com
-*.venmo.com
+*.paypalcorp.com
 *.braintreepayments.com
-*.paypal.com
+*.venmo.com
 *.braintreegateway.com
 paypalobjects.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3299,15 +3299,15 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-www.crypto.com
+auth.crypto.com
 *.mona.co
 tax.crypto.com
-auth.crypto.com
 app.mona.co
 js.crypto.com
 merchant.crypto.com
 pay.crypto.com
 *.crypto.com
+www.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3755,13 +3755,13 @@ www.algolia.com
 smarttrader.deriv.com
 cashier.deriv.com
 *.deriv.cloud
-oauth.deriv.com
 secure-dfadmin.deriv.com
 *.derivws.com
 derivws.com
 api.deriv.com
 *.deriv.com
 app.deriv.com
+oauth.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3811,8 +3811,8 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 www.zendesk.com
-smooch.io
 h1-your-domain.zendesk.com
+smooch.io
 www.zendesk.com
 developer.zendesk.com
 h1-your-domain.zendesk.com
@@ -3885,8 +3885,8 @@ web.snapchat.com
 login.playcanvas.com
 ads.snapchat.com
 app.snapchat.com
-accounts.snapchat.com
 playcanvas.com
+accounts.snapchat.com
 business.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
@@ -3968,9 +3968,9 @@ www.hoteltonight.com
 *.airbnbcitizen.com
 *.withairbnb.com
 api.airbnb.com
-next.airbnb.com
 *.airbnb.com
 www.airbnb.com
+next.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4054,8 +4054,8 @@ api.x.ai
 grok.x.ai
 ide.x.ai
 x.com
-*.twitter.com
 *.twimg.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4169,8 +4169,8 @@ www.quip.com
 *.quip.com
 slack.com
 slack-imgs.com
-app.slack.com
 api.slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
