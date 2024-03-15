@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar 15 12:27:35 UTC 2024)
+## Domains with Bounties (Last Updated Fri Mar 15 12:51:56 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -318,8 +318,8 @@ cards.remitly.io
 app.rewire.to
 api.remitly.io
 rewire.com
-rates.rewire.com
 remitly.com
+rates.rewire.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -390,8 +390,8 @@ http://sandbox-api.fireblocks.io
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 *.sprint.dynatracelabs.com
-*.sprint.apps.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
+*.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
@@ -782,8 +782,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshservice.com
-yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -838,9 +838,9 @@ firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
 firefox.settings.services.mozilla.com
+addons.allizom.org
 phabricator.allizom.org
 accounts.firefox.com
-addons.allizom.org
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -965,8 +965,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-*.grindr.com
 web.grindr.com
+*.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1016,9 +1016,9 @@ api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
 online.s-pankki.fi
-mobile.s-pankki.fi
 www.s-pankki.fi
 www.prisma.fi
+mobile.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
 https://crosskey.io/stores/s-pankki/apis
@@ -1211,8 +1211,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.io
 magiceden.io
-*.magiceden.workers.dev
 *.magiceden.dev
+*.magiceden.workers.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1638,8 +1638,8 @@ securitytrails.com
 geminiadvisory.io
 hatching.io
 tria.ge
-www.recordedfuture.com
 app.recordedfuture.com
+www.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1919,7 +1919,6 @@ api.bitso.com
 http://bitso.com/alpha
 nvio.mx
 nvio.ar
-larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
 api.larksuite.com
@@ -1929,8 +1928,9 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
-app.larksuite.com
+larksuite.com
 open.larksuite.com
+app.larksuite.com
 hackers_chosendomain.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
@@ -2023,8 +2023,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 adm.cloud.com
 citrix.cloud.com
@@ -2060,20 +2060,20 @@ api.adm.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
 live-backstage.tiktok.com
-effecthouse.tiktok.com
 careers.tiktok.com
+effecthouse.tiktok.com
 creatormarketplace.tiktok.com
 developers.tiktok.com
-shop.tiktok.com
 tiktok.com
 partner.tiktokshop.com
 www.pangleglobal.com
+shop.tiktok.com
 business.tiktok.com
 ads.tiktok.com
 fp-sg.tiktokv.com
 *.tiktokv.com
-*.tiktok.com
 academy-outbound-ads.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2141,8 +2141,8 @@ api.faraday.ai
 *.acronis.work
 *.acronis.com
 account.acronis.com
-beta-cloud.acronis.com
 *.5nine.com
+beta-cloud.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2553,11 +2553,11 @@ www.alibabagroup.com
 *.aliexpress.ru
 *.Daraz.com
 *.aliyun.com
-*.aliexpress.com
-*.alibaba.com
 *.taobao.com
-*.tmall.com
+*.alibaba.com
+*.aliexpress.com
 *.alibabacloud.com
+*.tmall.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2612,8 +2612,8 @@ maria.casino
 www.32red.com
 *.kes.kindredext.net
 *.highrolling.nu
-*.bingo.com
 *.unibet.com
+*.bingo.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2652,9 +2652,9 @@ moments.marriottbonvoy.com
 help.marriott.com
 mipartnerprivileges.marriott.com
 travelagents.marriott.com/
+www.marriott.com
 traveler.marriott.com
 activities.marriott.com
-www.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2845,6 +2845,7 @@ admin.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
 flyiin.com
+www.getaroom.com
 priceline.com
 www.priceline.com
 secure.rezserver.com
@@ -3062,14 +3063,14 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 *.fanduel.com
-us.tvg.com
 ia.tvg.com
-www.4njbets.com
 tvg.com
 mobile-prod.tvg.com
 login.tvg.com
 *racing.fanduel.com
 www.tvg.com
+us.tvg.com
+www.4njbets.com
 fdbox.net
 *.fanduel.com
 *racing.fanduel.com
@@ -3122,11 +3123,11 @@ scrutiny.swiftfinancial.com
 www.loanbuilder.com
 my.swiftfinancial.com
 *.paypalcorp.com
-paypalobjects.com
-*.braintreepayments.com
 *.venmo.com
-*.paypal.com
+*.braintreepayments.com
+paypalobjects.com
 *.braintreegateway.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3164,8 +3165,8 @@ m.chaturbate.com
 billingsupport.chaturbate.com
 *.mmcdn.com
 *.mmwebc.dev
-chaturbate.com
 *.cb.dev
+chaturbate.com
 *.highwebmedia.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -3289,12 +3290,12 @@ partner.steampowered.com
 www.valvesoftware.com
 partner.steamgames.com
 playartifact.com
-www.teamfortress.com
 help.steampowered.com
+www.teamfortress.com
 www.counter-strike.net
 api.steampowered.com
-www.dota2.com
 store.steampowered.com
+www.dota2.com
 steamcommunity.com
 www.dota2.com
 support.steampowered.com
@@ -3315,9 +3316,9 @@ tax.crypto.com
 auth.crypto.com
 app.mona.co
 js.crypto.com
+*.crypto.com
 merchant.crypto.com
 pay.crypto.com
-*.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3453,9 +3454,9 @@ gifts.grab.com
 *.taralite.com
 kartaview.org
 wiki.grab.com
+*.grab.com
 *.myteksi.com
 grab.careers
-*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3821,8 +3822,8 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 www.zendesk.com
-smooch.io
 h1-your-domain.zendesk.com
+smooch.io
 www.zendesk.com
 developer.zendesk.com
 h1-your-domain.zendesk.com
@@ -3893,8 +3894,8 @@ store.playcanvas.com
 playcanv.as
 *.sc-corp.net
 web.snapchat.com
-ads.snapchat.com
 login.playcanvas.com
+ads.snapchat.com
 app.snapchat.com
 playcanvas.com
 accounts.snapchat.com
@@ -3976,8 +3977,8 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 www.hoteltonight.com
 *.airbnbcitizen.com
-api.airbnb.com
 *.withairbnb.com
+api.airbnb.com
 next.airbnb.com
 *.airbnb.com
 www.airbnb.com
@@ -4064,8 +4065,8 @@ api.x.ai
 grok.x.ai
 ide.x.ai
 x.com
-*.twimg.com
 *.twitter.com
+*.twimg.com
 *.twitter.com
 *.vine.co
 *.twimg.com
