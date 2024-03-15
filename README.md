@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar 15 15:43:53 UTC 2024)
+## Domains with Bounties (Last Updated Fri Mar 15 16:23:56 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -332,8 +332,8 @@ getworldcoin.com
 bioid-management.app
 *.worldcoin.dev
 worldcoin.org
-*.toolsforhumanity.com
 *.consumer.worldcoin.org
+*.toolsforhumanity.com
 *.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -390,9 +390,9 @@ http://sandbox-api.fireblocks.io
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 *.sprint.dynatracelabs.com
-*.sprint.apps.dynatracelabs.com
-account-sprint.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
+account-sprint.dynatracelabs.com
+*.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -413,8 +413,8 @@ payments.hostinger.com
 www.niagahoster.co.id
 hpanel.hostinger.com
 cpanel.hostinger.com
-www.hostinger.com
 *.000webhost.com
+www.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -507,10 +507,10 @@ booking.com
 secure.booking.com
 www.fareharbor.com
 admin.booking.com
-account.booking.com
-spark.fareharbor.com
 *.rentalcars.com
+account.booking.com
 *.booking.com
+spark.fareharbor.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -838,9 +838,9 @@ firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
 firefox.settings.services.mozilla.com
-addons.allizom.org
 phabricator.allizom.org
 accounts.firefox.com
+addons.allizom.org
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -965,8 +965,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-web.grindr.com
 *.grindr.com
+web.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1047,7 +1047,6 @@ jobs.kiwi.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
-connect.8x8.com
 sms.8x8.com
 user-profile.8x8.com
 voapi.8x8.com
@@ -1177,10 +1176,10 @@ www.expediagroup.com
 www.flights.com
 *.expediapartnercentral.com
 www.expedia.com
-www.expediapartnersolutions.com
 *.travelocity.com
 *.carrentals.com
 *.travelocity.ca
+www.expediapartnersolutions.com
 *.vrbo.com
 *.expediacruises.com
 *.vrbo.com
@@ -1211,8 +1210,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.io
 magiceden.io
-*.magiceden.workers.dev
 *.magiceden.dev
+*.magiceden.workers.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1337,9 +1336,9 @@ business.kayak.com
 www.cheapflights.com
 www.mundi.com.br
 www.kayak.com
-www.checkfelix.com
 www.hotelscombined.com
 www.momondo.com
+www.checkfelix.com
 www.kayak.com
 www.swoodoo.com
 www.checkfelix.com
@@ -1742,8 +1741,8 @@ www.elastic.co
 *.elasticnet.co
 *.eops.nl
 cloud.elastic.co
-*.swiftype.com
 *.elastic.co
+*.swiftype.com
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1801,9 +1800,9 @@ redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
+*.reddit.com
 www.reddit.com
 ads.reddit.com
-*.reddit.com
 *.reddithelp.com
 matrix.redditspace.com
 *.snooguts.net
@@ -1965,8 +1964,8 @@ internal-docs.netlify.com
 *.services-prod.nsvcs.net
 internal.netlify.com
 *.ops.netlify.com
-*.infra-prod.nsvcs.net
 api.netlify.com
+*.infra-prod.nsvcs.net
 app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
@@ -2055,7 +2054,6 @@ creatormarketplace.tiktok.com
 tiktok.com
 shop.tiktok.com
 business.tiktok.com
-ads.tiktok.com
 fp-sg.tiktokv.com
 *.tiktokv.com
 academy-outbound-ads.tiktok.com
@@ -2063,6 +2061,7 @@ www.pangleglobal.com
 partner.tiktokshop.com
 *.tiktok.com
 developers.tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2109,8 +2108,8 @@ platform.enjin.io
 nft.io
 nft.io
 platform.enjin.io
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 cs.money
@@ -2128,8 +2127,8 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.acronis.work
-*.5nine.com
 beta-cloud.acronis.com
+*.5nine.com
 *.acronis.com
 account.acronis.com
 *-api-*.acronis.com
@@ -2642,8 +2641,8 @@ help.marriott.com
 mipartnerprivileges.marriott.com
 travelagents.marriott.com/
 traveler.marriott.com
-www.marriott.com
 activities.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -3154,8 +3153,8 @@ m.chaturbate.com
 billingsupport.chaturbate.com
 *.mmcdn.com
 *.mmwebc.dev
-chaturbate.com
 *.cb.dev
+chaturbate.com
 *.highwebmedia.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -3834,14 +3833,14 @@ shopify.plus
 arrive-server.shopifycloud.com
 *.shopifycs.com
 shopifyinbox.com
-your-store.myshopify.com
 admin.shopify.com
 *.shopifycloud.com
 shop.app
-partners.shopify.com
 *.shopify.io
 accounts.shopify.com
 *.shopify.com
+partners.shopify.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3968,9 +3967,9 @@ www.hoteltonight.com
 *.airbnbcitizen.com
 *.withairbnb.com
 api.airbnb.com
+next.airbnb.com
 *.airbnb.com
 www.airbnb.com
-next.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4132,11 +4131,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
-api.coinbase.com
 institutional.coinbase.com
 *.base.org
 international.coinbase.com
@@ -4396,9 +4395,9 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
+magento.com
 repo.magento.com
 accounts.magento.cloud
-magento.com
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
