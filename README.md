@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar 15 02:41:54 UTC 2024)
+## Domains with Bounties (Last Updated Fri Mar 15 03:19:25 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -318,8 +318,8 @@ webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
 app.rewire.to
-rewire.com
 api.remitly.io
+rewire.com
 remitly.com
 remitly.com
 api.remitly.io
@@ -332,9 +332,9 @@ getworldcoin.com
 bioid-management.app
 *.worldcoin.dev
 *.toolsforhumanity.com
+*.worldcoin.org
 worldcoin.org
 *.consumer.worldcoin.org
-*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -400,8 +400,8 @@ sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 demo.dynamic.xyz
-app.dynamic-preprod.xyz
 app.dynamic.xyz
+app.dynamic-preprod.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -502,9 +502,9 @@ taxi.booking.com
 cars.booking.com
 spark.fareharbor.com
 kyc-onboarding.booking.com
+booking.com
 careers.booking.com
 widget.rentalcars.com
-booking.com
 account.booking.com
 secure.booking.com
 *.booking.com
@@ -555,8 +555,8 @@ api2.frontapp.com
 app.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -780,9 +780,9 @@ www.visainfinite.ca
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
+yourdomain.freshservice.com
 yourdomain.freshchat.com
 yourdomain.myfreshworks.com
-yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -897,10 +897,10 @@ hilton.com.tr
 hiltonbusinessonline.com
 hiltonlocalbiz.com
 *.hilton.com.tr
-*.hilton.com
-*.hiltonbusinessonline.com
 hilton.com
 hilton.io
+*.hilton.com
+*.hiltonbusinessonline.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -972,8 +972,8 @@ web.grindr.com
 *.grindr.mobi
 web.grindr.com
 api.skinport.com
-skinport.com
 app.skinport.com
+skinport.com
 skinport.com
 app.skinport.com
 api.skinport.com
@@ -1017,8 +1017,8 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
-online.s-pankki.fi
 www.s-pankki.fi
+online.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
 https://crosskey.io/stores/s-pankki/apis
@@ -1177,10 +1177,10 @@ www.fewo-direkt.de
 www.stayz.com.au
 www.expediagroup.com
 www.flights.com
-*.travelocity.ca
 *.expediapartnercentral.com
-*.travelocity.com
+*.travelocity.ca
 www.expedia.com
+*.travelocity.com
 *.vrbo.com
 *.expediacruises.com
 *.vrbo.com
@@ -1210,9 +1210,9 @@ www.stayz.com.au
 www.expediagroup.com
 www.flights.com
 *.magiceden.io
-magiceden.io
 *.magiceden.workers.dev
 *.magiceden.dev
+magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1753,8 +1753,8 @@ www.elastic.co
 *.elstc.co
 *.elasticnet.co
 *.eops.nl
-cloud.elastic.co
 *.swiftype.com
+cloud.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -2061,14 +2061,14 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
+careers.tiktok.com
+effecthouse.tiktok.com
 creatormarketplace.tiktok.com
 developers.tiktok.com
-effecthouse.tiktok.com
-careers.tiktok.com
-shop.tiktok.com
 tiktok.com
 partner.tiktokshop.com
 www.pangleglobal.com
+shop.tiktok.com
 business.tiktok.com
 *.tiktok.com
 ads.tiktok.com
@@ -2338,8 +2338,8 @@ portal.polygon.technology
 *.miui.com
 *.xiaomiyoupin.com
 *.miwifi.com
-*.mi.com
 *.xiaomi.com
+*.mi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -2574,9 +2574,9 @@ www.alibabagroup.com
 configure.bmw.de
 konfigurator.bmw-motorrad.de
 www.mini.de
-configure.mini.de
 www.bmw.de
 www.bmw-motorrad.de
+configure.mini.de
 www.bmw.de
 www.mini.de
 www.bmw-motorrad.de
@@ -2612,8 +2612,8 @@ maria.casino
 www.32red.com
 *.kes.kindredext.net
 *.highrolling.nu
-*.bingo.com
 *.unibet.com
+*.bingo.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2845,8 +2845,7 @@ admin.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
 flyiin.com
-priceline.com
-www.getaroom.com
+secure.rezserver.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3065,13 +3064,13 @@ service.tvg.com
 fanduel.design
 *.fanduel.com
 ia.tvg.com
-tvg.com
-mobile-prod.tvg.com
-login.tvg.com
-*racing.fanduel.com
-www.tvg.com
-us.tvg.com
 www.4njbets.com
+us.tvg.com
+tvg.com
+login.tvg.com
+www.tvg.com
+mobile-prod.tvg.com
+*racing.fanduel.com
 fdbox.net
 *.fanduel.com
 *racing.fanduel.com
@@ -3104,13 +3103,6 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3119,16 +3111,23 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
+*.paypalcorp.com
 www.loanbuilder.com
 my.swiftfinancial.com
-*.paypalcorp.com
 paypalobjects.com
 *.venmo.com
+*.braintreegateway.com
 *.braintreepayments.com
 *.paypal.com
-*.braintreegateway.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3166,8 +3165,8 @@ m.chaturbate.com
 billingsupport.chaturbate.com
 *.mmcdn.com
 *.mmwebc.dev
-*.cb.dev
 chaturbate.com
+*.cb.dev
 *.highwebmedia.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -3317,9 +3316,9 @@ pay.crypto.com
 app.mona.co
 js.crypto.com
 tax.crypto.com
-*.mona.co
-merchant.crypto.com
 *.crypto.com
+merchant.crypto.com
+*.mona.co
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3771,9 +3770,9 @@ cashier.deriv.com
 oauth.deriv.com
 api.deriv.com
 secure-dfadmin.deriv.com
-derivws.com
 *.derivws.com
 app.deriv.com
+derivws.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3895,8 +3894,8 @@ store.playcanvas.com
 playcanv.as
 *.sc-corp.net
 web.snapchat.com
-login.playcanvas.com
 ads.snapchat.com
+login.playcanvas.com
 playcanvas.com
 app.snapchat.com
 accounts.snapchat.com
@@ -4065,8 +4064,8 @@ gnip.com
 api.x.ai
 grok.x.ai
 ide.x.ai
-*.twitter.com
 x.com
+*.twitter.com
 *.twimg.com
 *.twitter.com
 *.vine.co
@@ -4144,11 +4143,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
+api.coinbase.com
 institutional.coinbase.com
 *.base.org
 international.coinbase.com
@@ -4398,8 +4397,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 magento.com
 marketplace.magento.com
 magentocommerce.com
