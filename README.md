@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar 15 03:44:20 UTC 2024)
+## Domains with Bounties (Last Updated Fri Mar 15 04:21:09 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -318,8 +318,8 @@ webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
 app.rewire.to
-rewire.com
 api.remitly.io
+rewire.com
 remitly.com
 remitly.com
 api.remitly.io
@@ -400,8 +400,8 @@ sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 demo.dynamic.xyz
-app.dynamic-preprod.xyz
 app.dynamic.xyz
+app.dynamic-preprod.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -457,11 +457,11 @@ www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadolibre.com.ar
+www.mercadopago.com.ar
 www.mercadopago.com.br
 api.mercadolibre.com
 www.mercadolivre.com.br
 api.mercadopago.com
-www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -555,8 +555,8 @@ api2.frontapp.com
 app.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -781,9 +781,9 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
-yourdomain.myfreshworks.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -834,9 +834,9 @@ merino.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
+firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
-firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 phabricator.allizom.org
 accounts.firefox.com
@@ -897,10 +897,10 @@ hilton.com.tr
 hiltonbusinessonline.com
 hiltonlocalbiz.com
 *.hilton.com.tr
-*.hilton.com
-*.hiltonbusinessonline.com
 hilton.com
 hilton.io
+*.hilton.com
+*.hiltonbusinessonline.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -965,15 +965,15 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-web.grindr.com
 *.grindr.com
+web.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
 api.skinport.com
-app.skinport.com
 skinport.com
+app.skinport.com
 skinport.com
 app.skinport.com
 api.skinport.com
@@ -1017,8 +1017,8 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
-online.s-pankki.fi
 www.s-pankki.fi
+online.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
 https://crosskey.io/stores/s-pankki/apis
@@ -1210,9 +1210,9 @@ www.stayz.com.au
 www.expediagroup.com
 www.flights.com
 *.magiceden.io
+magiceden.io
 *.magiceden.workers.dev
 *.magiceden.dev
-magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1753,8 +1753,8 @@ www.elastic.co
 *.elstc.co
 *.elasticnet.co
 *.eops.nl
-cloud.elastic.co
 *.swiftype.com
+cloud.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1813,10 +1813,10 @@ app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
 matrix.redditspace.com
-*.reddithelp.com
 *.reddit.com
 www.reddit.com
 ads.reddit.com
+*.reddithelp.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1976,8 +1976,8 @@ internal-docs.netlify.com
 *.services-prod.nsvcs.net
 internal.netlify.com
 *.ops.netlify.com
-api.netlify.com
 *.infra-prod.nsvcs.net
+api.netlify.com
 app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
@@ -2139,10 +2139,10 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.acronis.work
-*.acronis.com
 account.acronis.com
-*.5nine.com
+*.acronis.com
 beta-cloud.acronis.com
+*.5nine.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2574,9 +2574,9 @@ www.alibabagroup.com
 configure.bmw.de
 konfigurator.bmw-motorrad.de
 www.mini.de
+configure.mini.de
 www.bmw.de
 www.bmw-motorrad.de
-configure.mini.de
 www.bmw.de
 www.mini.de
 www.bmw-motorrad.de
@@ -3065,13 +3065,13 @@ service.tvg.com
 fanduel.design
 *.fanduel.com
 ia.tvg.com
+www.4njbets.com
+us.tvg.com
 tvg.com
 login.tvg.com
 www.tvg.com
 mobile-prod.tvg.com
 *racing.fanduel.com
-www.4njbets.com
-us.tvg.com
 fdbox.net
 *.fanduel.com
 *racing.fanduel.com
@@ -3104,6 +3104,13 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3112,21 +3119,14 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
 www.loanbuilder.com
 my.swiftfinancial.com
 *.paypalcorp.com
 paypalobjects.com
-*.braintreepayments.com
 *.venmo.com
+*.braintreepayments.com
 *.braintreegateway.com
 *.paypal.com
 www.paypal-*.com
@@ -3166,8 +3166,8 @@ m.chaturbate.com
 billingsupport.chaturbate.com
 *.mmcdn.com
 *.mmwebc.dev
-chaturbate.com
 *.cb.dev
+chaturbate.com
 *.highwebmedia.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -3292,8 +3292,8 @@ partner.steampowered.com
 www.valvesoftware.com
 partner.steamgames.com
 playartifact.com
-help.steampowered.com
 www.teamfortress.com
+help.steampowered.com
 www.counter-strike.net
 steamcommunity.com
 api.steampowered.com
@@ -3316,10 +3316,10 @@ pay.crypto.com
 js.crypto.com
 *.crypto.com
 *.mona.co
-merchant.crypto.com
 tax.crypto.com
 auth.crypto.com
 app.mona.co
+merchant.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3529,7 +3529,6 @@ console.dashlane.com
 app.dashlane.com
 logs.dashlane.com
 api.dashlane.com
-*.wordpress.org
 api.wordpress.org
 *.buddypress.org
 bbpress.org
@@ -3550,6 +3549,7 @@ planet.wordpress.org
 wordpressfoundation.org
 doaction.org
 gutenberg.run
+*.wordpress.org
 *.wordpress.org
 *.buddypress.org
 bbpress.org
@@ -4144,12 +4144,12 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
+api.coinbase.com
 *.base.org
 international.coinbase.com
 cloud.coinbase.com
@@ -4218,14 +4218,14 @@ www.wearehackerone.com
 cover-photos.hackerone-user-content.com
 app.pullrequest.com
 hackathon-photos.hackerone-user-content.com
-api.hackerone.com
-www.hackerone.com
 hackerone-ext-content.com
 errors.hackerone.net
 ctf.hacker101.com
 hackerone-user-content.com
 hackerone.live
 reviewer.pullrequest.com
+api.hackerone.com
+www.hackerone.com
 hackerone.com
 hackerone.com
 api.hackerone.com
