@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar 16 01:48:31 UTC 2024)
+## Domains with Bounties (Last Updated Sat Mar 16 02:23:45 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -389,9 +389,9 @@ http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
+*.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
-*.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
@@ -411,10 +411,10 @@ editor.zyro.com
 logo.zyro.com
 payments.hostinger.com
 www.niagahoster.co.id
-hpanel.hostinger.com
 cpanel.hostinger.com
-*.000webhost.com
+hpanel.hostinger.com
 www.hostinger.com
+*.000webhost.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -433,9 +433,9 @@ education.23andme.com
 mediacenter.23andme.com
 medical.23andme.com
 research.23andme.com
-store.23andme.com
 therapeutics.23andme.com
 you.23andme.com
+store.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -501,12 +501,12 @@ secure-supply-xml.booking.com
 taxi.booking.com
 cars.booking.com
 kyc-onboarding.booking.com
-booking.com
 careers.booking.com
 widget.rentalcars.com
+booking.com
+*.rentalcars.com
 secure.booking.com
 admin.booking.com
-*.rentalcars.com
 account.booking.com
 spark.fareharbor.com
 *.booking.com
@@ -547,8 +547,8 @@ spark.fareharbor.com
 www.fareharbor.com
 *.bybit.com
 *.bybit.com
-api.au.frontegg.com
 portal.au.frontegg.com
+api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 api2.frontapp.com
@@ -965,8 +965,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-web.grindr.com
 *.grindr.com
+web.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1034,8 +1034,8 @@ cfapi.voikukka.fi
 www.kiwi.com
 auth.skypicker.com
 jobs.kiwi.com
-tequila.kiwi.com
 *.skypicker.com
+tequila.kiwi.com
 *.kiwi.com
 *.kiwi.com
 *.skypicker.com
@@ -1176,11 +1176,11 @@ www.flights.com
 *.expediapartnercentral.com
 www.expedia.com
 *.travelocity.com
-*.travelocity.ca
 *.carrentals.com
+*.travelocity.ca
 www.expediapartnersolutions.com
-*.vrbo.com
 *.expediacruises.com
+*.vrbo.com
 www.fewo-direkt.de
 *.vrbo.com
 *.hotwire.com
@@ -1246,8 +1246,8 @@ pb.deribit.com
 *.deribit.com
 tools.deribit.com
 metrics.deribit.com
-test.deribit.com
 insights.deribit.com
+test.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1348,8 +1348,8 @@ www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
 ws.sorare.com
-sorare.com
 api.sorare.com
+sorare.com
 sorare.com
 api.sorare.com
 ws.sorare.com
@@ -1476,8 +1476,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1627,8 +1627,8 @@ securitytrails.com
 geminiadvisory.io
 hatching.io
 tria.ge
-app.recordedfuture.com
 www.recordedfuture.com
+app.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1741,8 +1741,8 @@ www.elastic.co
 *.elasticnet.co
 *.eops.nl
 cloud.elastic.co
-*.elastic.co
 *.swiftype.com
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1800,10 +1800,10 @@ redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
-matrix.redditspace.com
-www.reddit.com
-*.reddit.com
 *.reddithelp.com
+*.reddit.com
+www.reddit.com
+matrix.redditspace.com
 ads.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -2049,7 +2049,6 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 live-backstage.tiktok.com
 effecthouse.tiktok.com
-creatormarketplace.tiktok.com
 shop.tiktok.com
 business.tiktok.com
 fp-sg.tiktokv.com
@@ -2062,6 +2061,7 @@ partner.tiktokshop.com
 www.pangleglobal.com
 ads.tiktok.com
 *.tiktok.com
+creatormarketplace.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2127,10 +2127,10 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.acronis.work
-beta-cloud.acronis.com
-*.acronis.com
 account.acronis.com
+beta-cloud.acronis.com
 *.5nine.com
+*.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2541,8 +2541,8 @@ www.alibabagroup.com
 *.aliexpress.ru
 *.Daraz.com
 *.aliyun.com
-*.aliexpress.com
 *.taobao.com
+*.aliexpress.com
 *.alibabacloud.com
 *.tmall.com
 *.alibaba.com
@@ -3051,12 +3051,12 @@ service.tvg.com
 fanduel.design
 ia.tvg.com
 tvg.com
-mobile-prod.tvg.com
 login.tvg.com
-*racing.fanduel.com
 www.tvg.com
-us.tvg.com
+mobile-prod.tvg.com
+*racing.fanduel.com
 www.4njbets.com
+us.tvg.com
 *.fanduel.com
 fdbox.net
 *.fanduel.com
@@ -3107,13 +3107,13 @@ pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
-*.paypalcorp.com
 www.loanbuilder.com
 my.swiftfinancial.com
-*.braintreegateway.com
-paypalobjects.com
+*.paypalcorp.com
 *.venmo.com
 *.braintreepayments.com
+*.braintreegateway.com
+paypalobjects.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3296,15 +3296,15 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
+merchant.crypto.com
+pay.crypto.com
 *.mona.co
 tax.crypto.com
 auth.crypto.com
 app.mona.co
 js.crypto.com
-merchant.crypto.com
-pay.crypto.com
-*.crypto.com
 www.crypto.com
+*.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3683,8 +3683,8 @@ npmjs.org
 *.githubusercontent.com
 api.github.com
 gist.github.com
-github.com
 npmjs.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3754,9 +3754,9 @@ cashier.deriv.com
 secure-dfadmin.deriv.com
 *.derivws.com
 oauth.deriv.com
-api.deriv.com
 app.deriv.com
 derivws.com
+api.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.deriv.com
@@ -3878,11 +3878,11 @@ rt.playcanvas.com
 store.playcanvas.com
 playcanv.as
 *.sc-corp.net
-login.playcanvas.com
 ads.snapchat.com
+login.playcanvas.com
 app.snapchat.com
-accounts.snapchat.com
 playcanvas.com
+accounts.snapchat.com
 business.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
