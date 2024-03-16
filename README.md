@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar 16 09:17:43 UTC 2024)
+## Domains with Bounties (Last Updated Sat Mar 16 09:41:54 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -388,9 +388,9 @@ http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
+*.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
-*.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
@@ -410,8 +410,8 @@ editor.zyro.com
 logo.zyro.com
 payments.hostinger.com
 www.niagahoster.co.id
-cpanel.hostinger.com
 hpanel.hostinger.com
+cpanel.hostinger.com
 www.hostinger.com
 *.000webhost.com
 *.000webhost.com
@@ -833,12 +833,12 @@ merino.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
+firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
-firefox-ci-tc.services.mozilla.com
-firefox.settings.services.mozilla.com
 accounts.firefox.com
 addons.allizom.org
+firefox.settings.services.mozilla.com
 phabricator.allizom.org
 addons.allizom.org
 accounts.firefox.com
@@ -1014,9 +1014,9 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
+mobile.s-pankki.fi
 www.s-pankki.fi
 www.prisma.fi
-mobile.s-pankki.fi
 online.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
@@ -1033,8 +1033,8 @@ cfapi.voikukka.fi
 www.kiwi.com
 auth.skypicker.com
 jobs.kiwi.com
-*.skypicker.com
 tequila.kiwi.com
+*.skypicker.com
 *.kiwi.com
 *.kiwi.com
 *.skypicker.com
@@ -1175,8 +1175,8 @@ www.flights.com
 *.expediapartnercentral.com
 www.expedia.com
 *.travelocity.com
-*.carrentals.com
 *.travelocity.ca
+*.carrentals.com
 www.expediapartnersolutions.com
 *.vrbo.com
 www.fewo-direkt.de
@@ -1740,8 +1740,8 @@ www.elastic.co
 *.elasticnet.co
 *.eops.nl
 cloud.elastic.co
-*.elastic.co
 *.swiftype.com
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1754,9 +1754,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
+*.touchtechpayments.com
 *.recko.io
 js.stripe.com
-*.touchtechpayments.com
 *.stripe.com
 api.stripe.com
 app.taxjar.com
@@ -1799,9 +1799,9 @@ redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
-matrix.redditspace.com
-www.reddit.com
 *.reddit.com
+www.reddit.com
+matrix.redditspace.com
 ads.reddit.com
 *.reddithelp.com
 *.snooguts.net
@@ -2013,9 +2013,9 @@ api.adm.cloud.com
 (yoursubdomain).sharefile.com
 www.cloud.com
 (yoursubdomain).sharefile.eu
+secure.sharefile.com
 adm.cloud.com
 citrix.cloud.com
-secure.sharefile.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -2054,13 +2054,13 @@ fp-sg.tiktokv.com
 *.tiktokv.com
 academy-outbound-ads.tiktok.com
 developers.tiktok.com
-tiktok.com
 careers.tiktok.com
+tiktok.com
 www.pangleglobal.com
 partner.tiktokshop.com
 ads.tiktok.com
-creatormarketplace.tiktok.com
 *.tiktok.com
+creatormarketplace.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2539,9 +2539,9 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.ru
 *.aliyun.com
-*.alibabacloud.com
 *.taobao.com
 *.aliexpress.com
+*.alibabacloud.com
 *.tmall.com
 *.alibaba.com
 *.Daraz.com
@@ -2599,8 +2599,8 @@ maria.casino
 www.32red.com
 *.kes.kindredext.net
 *.highrolling.nu
-*.bingo.com
 *.unibet.com
+*.bingo.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2831,6 +2831,7 @@ api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
+secure.rezserver.com
 priceline.com
 www.getaroom.com
 www.priceline.com
@@ -3106,13 +3107,13 @@ pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
-*.paypalcorp.com
 www.loanbuilder.com
 my.swiftfinancial.com
-*.braintreegateway.com
-paypalobjects.com
+*.paypalcorp.com
 *.venmo.com
 *.braintreepayments.com
+*.braintreegateway.com
+paypalobjects.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3433,7 +3434,6 @@ api.grabpay.com
 *.grabpay.com
 xtramile.grabpay.com
 *.grab-sure.com
-*.ovo.id
 *.taralite.com
 kartaview.org
 wiki.grab.com
@@ -3442,6 +3442,7 @@ grab.careers
 *.grab.com
 gifts.grab.com
 jira.grab.com
+*.ovo.id
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3755,8 +3756,8 @@ oauth.deriv.com
 app.deriv.com
 derivws.com
 *.deriv.cloud
-*.binary.com
 *.deriv.com
+*.binary.com
 api.deriv.com
 *.deriv.com
 *.deriv.cloud
@@ -3880,8 +3881,8 @@ playcanv.as
 login.playcanvas.com
 ads.snapchat.com
 app.snapchat.com
-accounts.snapchat.com
 playcanvas.com
+accounts.snapchat.com
 business.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
