@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar 16 17:12:24 UTC 2024)
+## Domains with Bounties (Last Updated Sat Mar 16 17:41:14 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -330,9 +330,9 @@ getworldcoin.com
 *.worldcoin-distributors.com
 bioid-management.app
 *.worldcoin.dev
+*.consumer.worldcoin.org
 worldcoin.org
 *.toolsforhumanity.com
-*.consumer.worldcoin.org
 *.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -389,8 +389,8 @@ http://sandbox-api.fireblocks.io
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 *.sprint.dynatracelabs.com
-*.sprint.apps.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
+*.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
@@ -432,8 +432,8 @@ education.23andme.com
 mediacenter.23andme.com
 medical.23andme.com
 research.23andme.com
-therapeutics.23andme.com
 store.23andme.com
+therapeutics.23andme.com
 you.23andme.com
 api.23andme.com
 auth.23andme.com
@@ -456,11 +456,11 @@ www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadopago.com.br
-www.mercadolibre.com.ar
 api.mercadolibre.com
 api.mercadopago.com
-www.mercadolivre.com.br
+www.mercadolibre.com.ar
 www.mercadopago.com.ar
+www.mercadolivre.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -833,9 +833,9 @@ merino.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
+firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
-firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 addons.allizom.org
 phabricator.allizom.org
@@ -1033,8 +1033,8 @@ cfapi.voikukka.fi
 www.kiwi.com
 auth.skypicker.com
 jobs.kiwi.com
-*.skypicker.com
 tequila.kiwi.com
+*.skypicker.com
 *.kiwi.com
 *.kiwi.com
 *.skypicker.com
@@ -1242,11 +1242,11 @@ platform.teleport.sh
 cloud.gravitational.io
 askpam.ai
 pb.deribit.com
-*.deribit.com
 tools.deribit.com
 metrics.deribit.com
 insights.deribit.com
 test.deribit.com
+*.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1475,8 +1475,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1754,9 +1754,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
-*.touchtechpayments.com
 *.recko.io
 js.stripe.com
+*.touchtechpayments.com
 *.stripe.com
 api.stripe.com
 app.taxjar.com
@@ -1799,9 +1799,9 @@ redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
-matrix.redditspace.com
-www.reddit.com
 *.reddit.com
+www.reddit.com
+matrix.redditspace.com
 ads.reddit.com
 *.reddithelp.com
 *.snooguts.net
@@ -2058,8 +2058,8 @@ tiktok.com
 careers.tiktok.com
 www.pangleglobal.com
 ads.tiktok.com
-*.tiktok.com
 creatormarketplace.tiktok.com
+*.tiktok.com
 partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
@@ -2539,8 +2539,8 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.ru
 *.aliyun.com
-*.aliexpress.com
 *.taobao.com
+*.aliexpress.com
 *.alibabacloud.com
 *.tmall.com
 *.alibaba.com
@@ -2639,9 +2639,9 @@ moments.marriottbonvoy.com
 help.marriott.com
 mipartnerprivileges.marriott.com
 travelagents.marriott.com/
-traveler.marriott.com
 www.marriott.com
 activities.marriott.com
+traveler.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2831,6 +2831,7 @@ api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
+secure.rezserver.com
 priceline.com
 www.getaroom.com
 www.priceline.com
@@ -2891,8 +2892,8 @@ vault.omise.co
 api.omise.co
 offsite.omise.co
 www.opn.ooo
-dashboard.omise.co
 www.omise.co
+dashboard.omise.co
 vault.omise.co
 api.omise.co
 dashboard.omise.co
@@ -3089,13 +3090,6 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3104,15 +3098,22 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
+*.paypalcorp.com
 www.loanbuilder.com
 my.swiftfinancial.com
-*.paypalcorp.com
+*.braintreegateway.com
+paypalobjects.com
 *.venmo.com
 *.braintreepayments.com
-paypalobjects.com
-*.braintreegateway.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3295,14 +3296,14 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-pay.crypto.com
 *.mona.co
 tax.crypto.com
 auth.crypto.com
 app.mona.co
 js.crypto.com
-www.crypto.com
+pay.crypto.com
 *.crypto.com
+www.crypto.com
 merchant.crypto.com
 *.crypto.com
 *.mona.co
@@ -3438,10 +3439,10 @@ kartaview.org
 wiki.grab.com
 grab.careers
 *.myteksi.com
-*.grab.com
 gifts.grab.com
-jira.grab.com
 *.ovo.id
+*.grab.com
+jira.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3730,8 +3731,8 @@ winecellar.zomato.com
 api.grofers.com
 api2.grofers.com
 *.runnr.in
-*.zomato.com
 blinkit.com
+*.zomato.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3754,9 +3755,9 @@ oauth.deriv.com
 app.deriv.com
 derivws.com
 *.deriv.cloud
-smarttrader.deriv.com
-*.binary.com
 *.deriv.com
+*.binary.com
+smarttrader.deriv.com
 api.deriv.com
 *.deriv.com
 *.deriv.cloud
@@ -3820,8 +3821,8 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 http://h1-your-domain.zendesk.com/sell
-www.udemy.com
 yourcompany.udemy.com
+www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 *.shopifykloud.com
@@ -3880,8 +3881,8 @@ playcanv.as
 login.playcanvas.com
 ads.snapchat.com
 app.snapchat.com
-accounts.snapchat.com
 playcanvas.com
+accounts.snapchat.com
 business.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
@@ -4128,11 +4129,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
+api.coinbase.com
 institutional.coinbase.com
 *.base.org
 international.coinbase.com
@@ -4198,8 +4199,8 @@ profile-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-app.pullrequest.com
 hackathon-photos.hackerone-user-content.com
+app.pullrequest.com
 hackerone-ext-content.com
 hackerone.live
 reviewer.pullrequest.com
@@ -4392,8 +4393,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 magento.com
 marketplace.magento.com
 magentocommerce.com
