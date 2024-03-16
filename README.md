@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar 16 04:20:28 UTC 2024)
+## Domains with Bounties (Last Updated Sat Mar 16 04:41:17 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -331,9 +331,9 @@ getworldcoin.com
 *.worldcoin-distributors.com
 bioid-management.app
 *.worldcoin.dev
-*.consumer.worldcoin.org
 worldcoin.org
 *.toolsforhumanity.com
+*.consumer.worldcoin.org
 *.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -389,8 +389,8 @@ http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
-*.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
+*.sprint.apps.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 account-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
@@ -411,10 +411,10 @@ editor.zyro.com
 logo.zyro.com
 payments.hostinger.com
 www.niagahoster.co.id
-cpanel.hostinger.com
 hpanel.hostinger.com
-www.hostinger.com
+cpanel.hostinger.com
 *.000webhost.com
+www.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -433,9 +433,9 @@ education.23andme.com
 mediacenter.23andme.com
 medical.23andme.com
 research.23andme.com
-store.23andme.com
 therapeutics.23andme.com
 you.23andme.com
+store.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -501,12 +501,12 @@ secure-supply-xml.booking.com
 taxi.booking.com
 cars.booking.com
 kyc-onboarding.booking.com
-booking.com
 careers.booking.com
 widget.rentalcars.com
+booking.com
+*.rentalcars.com
 secure.booking.com
 admin.booking.com
-*.rentalcars.com
 account.booking.com
 spark.fareharbor.com
 *.booking.com
@@ -780,8 +780,8 @@ www.visainfinite.ca
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
-yourdomain.freshdesk.com
 yourdomain.freshchat.com
+yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
@@ -1119,8 +1119,8 @@ admin.8x8.com
 moonpay.com
 hypermint.com
 *.moonpay.com
-*.hypermint.com
 *.moonpaycloud.com
+*.hypermint.com
 *.moonpaycloud.com
 *.hypermint.com
 *.moonpay.com
@@ -1175,10 +1175,10 @@ www.expediagroup.com
 www.flights.com
 *.expediapartnercentral.com
 www.expedia.com
-www.expediapartnersolutions.com
 *.travelocity.com
-*.carrentals.com
 *.travelocity.ca
+*.carrentals.com
+www.expediapartnersolutions.com
 *.vrbo.com
 *.expediacruises.com
 www.fewo-direkt.de
@@ -1476,8 +1476,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1800,9 +1800,9 @@ redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
-matrix.redditspace.com
-www.reddit.com
 *.reddit.com
+www.reddit.com
+matrix.redditspace.com
 ads.reddit.com
 *.reddithelp.com
 *.snooguts.net
@@ -1907,7 +1907,6 @@ api.bitso.com
 http://bitso.com/alpha
 nvio.mx
 nvio.ar
-larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
 api.larksuite.com
@@ -1917,9 +1916,10 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
-app.larksuite.com
 open.larksuite.com
+app.larksuite.com
 hackers_chosendomain.larksuite.com
+larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2011,8 +2011,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 adm.cloud.com
 citrix.cloud.com
@@ -2055,10 +2055,10 @@ fp-sg.tiktokv.com
 *.tiktokv.com
 academy-outbound-ads.tiktok.com
 developers.tiktok.com
-tiktok.com
 careers.tiktok.com
-partner.tiktokshop.com
+tiktok.com
 www.pangleglobal.com
+partner.tiktokshop.com
 ads.tiktok.com
 *.tiktok.com
 creatormarketplace.tiktok.com
@@ -2540,9 +2540,9 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.ru
 *.aliyun.com
+*.alibabacloud.com
 *.taobao.com
 *.aliexpress.com
-*.alibabacloud.com
 *.tmall.com
 *.alibaba.com
 *.Daraz.com
@@ -2562,9 +2562,9 @@ www.alibabagroup.com
 configure.bmw.de
 konfigurator.bmw-motorrad.de
 www.mini.de
-www.bmw.de
-www.bmw-motorrad.de
 configure.mini.de
+www.bmw-motorrad.de
+www.bmw.de
 www.bmw.de
 www.mini.de
 www.bmw-motorrad.de
@@ -3107,13 +3107,13 @@ pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
-*.paypalcorp.com
 www.loanbuilder.com
 my.swiftfinancial.com
-*.braintreegateway.com
-paypalobjects.com
+*.paypalcorp.com
 *.venmo.com
 *.braintreepayments.com
+*.braintreegateway.com
+paypalobjects.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3296,13 +3296,13 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-merchant.crypto.com
-pay.crypto.com
+auth.crypto.com
 *.mona.co
 tax.crypto.com
-auth.crypto.com
 app.mona.co
 js.crypto.com
+merchant.crypto.com
+pay.crypto.com
 www.crypto.com
 *.crypto.com
 *.crypto.com
@@ -3683,8 +3683,8 @@ npmjs.org
 *.githubusercontent.com
 api.github.com
 gist.github.com
-github.com
 npmjs.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3821,8 +3821,8 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 http://h1-your-domain.zendesk.com/sell
-www.udemy.com
 yourcompany.udemy.com
+www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 *.shopifykloud.com
@@ -3878,11 +3878,11 @@ rt.playcanvas.com
 store.playcanvas.com
 playcanv.as
 *.sc-corp.net
-ads.snapchat.com
 login.playcanvas.com
-app.snapchat.com
+ads.snapchat.com
 playcanvas.com
 accounts.snapchat.com
+app.snapchat.com
 business.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
@@ -4067,7 +4067,6 @@ cloudflareworkers.com
 api.cloudflare.com
 waf.cumulusfire.net
 one.dash.cloudflare.com
-*.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
