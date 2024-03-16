@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar 16 22:40:18 UTC 2024)
+## Domains with Bounties (Last Updated Sat Mar 16 23:19:41 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -314,10 +314,10 @@ video-callerid-eu.truecaller.com
 webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
-rewire.com
 api.remitly.io
 rates.rewire.com
 remitly.com
+rewire.com
 app.rewire.to
 remitly.com
 api.remitly.io
@@ -331,8 +331,8 @@ getworldcoin.com
 bioid-management.app
 *.worldcoin.dev
 worldcoin.org
-*.consumer.worldcoin.org
 *.toolsforhumanity.com
+*.consumer.worldcoin.org
 *.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -410,8 +410,8 @@ editor.zyro.com
 logo.zyro.com
 payments.hostinger.com
 www.niagahoster.co.id
-hpanel.hostinger.com
 cpanel.hostinger.com
+hpanel.hostinger.com
 www.hostinger.com
 *.000webhost.com
 *.000webhost.com
@@ -432,8 +432,8 @@ education.23andme.com
 mediacenter.23andme.com
 medical.23andme.com
 research.23andme.com
-store.23andme.com
 therapeutics.23andme.com
+store.23andme.com
 you.23andme.com
 api.23andme.com
 auth.23andme.com
@@ -457,9 +457,9 @@ www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadopago.com.br
 api.mercadopago.com
-www.mercadopago.com.ar
 api.mercadolibre.com
 www.mercadolivre.com.br
+www.mercadopago.com.ar
 www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -833,9 +833,9 @@ merino.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
-firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
+firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 addons.allizom.org
 phabricator.allizom.org
@@ -1045,7 +1045,6 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 *.8x8.vc
 *.jit.si
-*.jitsi.net
 sms.8x8.com
 user-profile.8x8.com
 voapi.8x8.com
@@ -1065,6 +1064,7 @@ work-staging.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
 admin.8x8.com
+sso.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1280,8 +1280,8 @@ artifactory.corp.mongodb.com/
 https://www.*mongodb.com/*
 mongodb.live/*
 artifactory.corp.mongodb.com/
-royal.checksw.com
 checksw.com
+royal.checksw.com
 checksw.com
 royal.checksw.com
 *.superpal.io/*
@@ -1335,8 +1335,8 @@ business.kayak.com
 www.cheapflights.com
 www.mundi.com.br
 www.kayak.com
-www.checkfelix.com
 www.momondo.com
+www.checkfelix.com
 www.hotelscombined.com
 www.kayak.com
 www.swoodoo.com
@@ -1475,8 +1475,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1754,9 +1754,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
-*.touchtechpayments.com
 *.recko.io
 js.stripe.com
+*.touchtechpayments.com
 *.stripe.com
 api.stripe.com
 app.taxjar.com
@@ -1915,8 +1915,8 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
-app.larksuite.com
 open.larksuite.com
+app.larksuite.com
 hackers_chosendomain.larksuite.com
 larksuite.com
 larksuite.com
@@ -2010,12 +2010,12 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
-secure.sharefile.com
 adm.cloud.com
 citrix.cloud.com
+secure.sharefile.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -2054,8 +2054,8 @@ fp-sg.tiktokv.com
 *.tiktokv.com
 academy-outbound-ads.tiktok.com
 developers.tiktok.com
-careers.tiktok.com
 tiktok.com
+careers.tiktok.com
 www.pangleglobal.com
 ads.tiktok.com
 *.tiktok.com
@@ -2126,8 +2126,8 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.acronis.work
-beta-cloud.acronis.com
 account.acronis.com
+beta-cloud.acronis.com
 *.5nine.com
 *.acronis.com
 *-api-*.acronis.com
@@ -2599,8 +2599,8 @@ maria.casino
 www.32red.com
 *.kes.kindredext.net
 *.highrolling.nu
-*.bingo.com
 *.unibet.com
+*.bingo.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2639,9 +2639,9 @@ moments.marriottbonvoy.com
 help.marriott.com
 mipartnerprivileges.marriott.com
 travelagents.marriott.com/
+traveler.marriott.com
 www.marriott.com
 activities.marriott.com
-traveler.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2831,8 +2831,8 @@ api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
-www.getaroom.com
 priceline.com
+www.getaroom.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3049,13 +3049,13 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
-www.4njbets.com
-us.tvg.com
 tvg.com
-login.tvg.com
-www.tvg.com
 mobile-prod.tvg.com
+login.tvg.com
 *racing.fanduel.com
+www.tvg.com
+us.tvg.com
+www.4njbets.com
 *.fanduel.com
 fdbox.net
 *.fanduel.com
@@ -3275,13 +3275,13 @@ partner.steampowered.com
 www.valvesoftware.com
 partner.steamgames.com
 playartifact.com
-help.steampowered.com
 www.teamfortress.com
+help.steampowered.com
 www.counter-strike.net
+api.steampowered.com
 store.steampowered.com
 www.dota2.com
 steamcommunity.com
-api.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3440,8 +3440,8 @@ grab.careers
 *.myteksi.com
 *.grab.com
 jira.grab.com
-gifts.grab.com
 *.ovo.id
+gifts.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3749,15 +3749,15 @@ www.algolia.com
 www.algolia.com
 cashier.deriv.com
 secure-dfadmin.deriv.com
-*.derivws.com
 oauth.deriv.com
-app.deriv.com
 derivws.com
 *.deriv.cloud
 smarttrader.deriv.com
-*.deriv.com
 *.binary.com
 api.deriv.com
+app.deriv.com
+*.derivws.com
+*.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3782,8 +3782,8 @@ preprod.nl
 qatest.nl
 rudderplatform.com
 werkenbijdnb.nl
-werkenbijderet.nl
 www.werkenbijbakertilly.nl
+werkenbijderet.nl
 werkenbijdefensie.nl
 werkenbijderet.nl
 www.werkenbijbakertilly.nl
@@ -3830,13 +3830,13 @@ shopify.plus
 arrive-server.shopifycloud.com
 *.shopifycs.com
 shopifyinbox.com
-*.shopifycloud.com
 accounts.shopify.com
+*.shopifycloud.com
 partners.shopify.com
-shop.app
 *.shopify.com
-your-store.myshopify.com
+shop.app
 *.shopify.io
+your-store.myshopify.com
 admin.shopify.com
 *.shopifycs.com
 *.shopify.io
@@ -3879,9 +3879,9 @@ playcanv.as
 *.sc-corp.net
 login.playcanvas.com
 ads.snapchat.com
+app.snapchat.com
 playcanvas.com
 accounts.snapchat.com
-app.snapchat.com
 web.snapchat.com
 business.snapchat.com
 accounts.snapchat.com
@@ -3962,8 +3962,8 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 www.hoteltonight.com
 *.airbnbcitizen.com
-*.withairbnb.com
 api.airbnb.com
+*.withairbnb.com
 next.airbnb.com
 www.airbnb.com
 *.airbnb.com
