@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 17 17:42:17 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 17 18:19:16 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -388,8 +388,8 @@ http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
-*.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
+*.sprint.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 account-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
@@ -898,8 +898,8 @@ hilton.io
 *.hiltonbusinessonline.com
 hiltonhotels.jp
 *.hilton.io
-hilton.com
 *.hilton.com
+hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -1032,8 +1032,8 @@ api.sokos.fi
 cfapi.voikukka.fi
 auth.skypicker.com
 jobs.kiwi.com
-tequila.kiwi.com
 *.skypicker.com
+tequila.kiwi.com
 www.kiwi.com
 *.kiwi.com
 *.kiwi.com
@@ -1117,8 +1117,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.hypermint.com
 *.moonpaycloud.com
+*.hypermint.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1179,8 +1179,8 @@ www.expediapartnersolutions.com
 www.fewo-direkt.de
 *.expediacruises.com
 *.vrbo.com
-*.hotwire.com
 *.travelocity.com
+*.hotwire.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1209,8 +1209,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.io
 magiceden.io
-*.magiceden.workers.dev
 *.magiceden.dev
+*.magiceden.workers.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1963,8 +1963,8 @@ internal-docs.netlify.com
 *.services-prod.nsvcs.net
 internal.netlify.com
 *.ops.netlify.com
-api.netlify.com
 *.infra-prod.nsvcs.net
+api.netlify.com
 app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
@@ -2561,8 +2561,8 @@ www.alibabagroup.com
 configure.bmw.de
 konfigurator.bmw-motorrad.de
 www.mini.de
-www.bmw-motorrad.de
 configure.mini.de
+www.bmw-motorrad.de
 www.bmw.de
 www.bmw.de
 www.mini.de
@@ -3049,13 +3049,13 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
-tvg.com
-mobile-prod.tvg.com
-login.tvg.com
-*racing.fanduel.com
-www.tvg.com
-us.tvg.com
 www.4njbets.com
+us.tvg.com
+tvg.com
+login.tvg.com
+www.tvg.com
+mobile-prod.tvg.com
+*racing.fanduel.com
 *.fanduel.com
 fdbox.net
 *.fanduel.com
@@ -3089,6 +3089,13 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3097,23 +3104,16 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
 www.loanbuilder.com
 my.swiftfinancial.com
 *.paypalcorp.com
 *.venmo.com
-*.braintreepayments.com
-*.braintreegateway.com
 paypalobjects.com
+*.braintreegateway.com
 *.paypal.com
+*.braintreepayments.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3295,14 +3295,14 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
+auth.crypto.com
 *.mona.co
 tax.crypto.com
-auth.crypto.com
 app.mona.co
 js.crypto.com
 pay.crypto.com
-*.crypto.com
 www.crypto.com
+*.crypto.com
 merchant.crypto.com
 *.crypto.com
 *.mona.co
@@ -3436,12 +3436,12 @@ xtramile.grabpay.com
 wiki.grab.com
 grab.careers
 *.myteksi.com
-*.grab.com
 jira.grab.com
+*.grab.com
 *.ovo.id
 gifts.grab.com
-api.grabpay.com
 kartaview.org
+api.grabpay.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3752,12 +3752,12 @@ secure-dfadmin.deriv.com
 *.deriv.cloud
 *.binary.com
 *.derivws.com
+derivws.com
 app.deriv.com
 smarttrader.deriv.com
-derivws.com
 oauth.deriv.com
-*.deriv.com
 api.deriv.com
+*.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3836,8 +3836,8 @@ partners.shopify.com
 shop.app
 *.shopify.io
 your-store.myshopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3961,8 +3961,8 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 www.hoteltonight.com
 *.airbnbcitizen.com
-api.airbnb.com
 *.withairbnb.com
+api.airbnb.com
 next.airbnb.com
 *.airbnb.com
 www.airbnb.com
@@ -4131,8 +4131,8 @@ pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
-institutional.coinbase.com
 api.coinbase.com
+institutional.coinbase.com
 *.base.org
 international.coinbase.com
 cloud.coinbase.com
