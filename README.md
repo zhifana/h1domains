@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 17 04:41:32 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 17 05:18:53 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -314,8 +314,8 @@ video-callerid-eu.truecaller.com
 webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
-rewire.com
 api.remitly.io
+rewire.com
 remitly.com
 app.rewire.to
 rates.rewire.com
@@ -332,8 +332,8 @@ getworldcoin.com
 worldcoin.org
 *.toolsforhumanity.com
 *.worldcoin.org
-*.consumer.worldcoin.org
 bioid-management.app
+*.consumer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -388,8 +388,8 @@ http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
-*.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
+*.sprint.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 account-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
@@ -433,8 +433,8 @@ mediacenter.23andme.com
 medical.23andme.com
 research.23andme.com
 therapeutics.23andme.com
-store.23andme.com
 you.23andme.com
+store.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -457,8 +457,8 @@ www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadopago.com.br
 api.mercadopago.com
-www.mercadopago.com.ar
 api.mercadolibre.com
+www.mercadopago.com.ar
 www.mercadolivre.com.br
 www.mercadolibre.com.ar
 api.mercadopago.com
@@ -836,8 +836,8 @@ lando.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
-firefox.settings.services.mozilla.com
 addons.allizom.org
+firefox.settings.services.mozilla.com
 phabricator.allizom.org
 accounts.firefox.com
 addons.allizom.org
@@ -867,8 +867,8 @@ community-tc.services.mozilla.com
 support.mozilla.org
 hg.mozilla.org
 developer.mozilla.org
-monitor.mozilla.org
 www.mozilla.org
+monitor.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -964,8 +964,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-web.grindr.com
 *.grindr.com
+web.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -984,7 +984,6 @@ miro.com
 api.miro.com
 http://miro.com/blog
 www.malwarebytes.com
-my.malwarebytes.com
 cloud.malwarebytes.com
 oneview.malwarebytes.com
 *.mwbsys.com
@@ -995,6 +994,7 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.threatdown.com
 *.cyrus-security.com
+my.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1032,8 +1032,8 @@ api.sokos.fi
 cfapi.voikukka.fi
 auth.skypicker.com
 jobs.kiwi.com
-tequila.kiwi.com
 *.skypicker.com
+tequila.kiwi.com
 www.kiwi.com
 *.kiwi.com
 *.kiwi.com
@@ -1117,8 +1117,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.hypermint.com
 *.moonpaycloud.com
+*.hypermint.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1335,8 +1335,8 @@ business.kayak.com
 www.cheapflights.com
 www.mundi.com.br
 www.kayak.com
-www.checkfelix.com
 www.momondo.com
+www.checkfelix.com
 www.hotelscombined.com
 www.kayak.com
 www.swoodoo.com
@@ -1963,8 +1963,8 @@ internal-docs.netlify.com
 *.services-prod.nsvcs.net
 internal.netlify.com
 *.ops.netlify.com
-*.infra-prod.nsvcs.net
 api.netlify.com
+*.infra-prod.nsvcs.net
 app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
@@ -2010,8 +2010,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 adm.cloud.com
 citrix.cloud.com
@@ -2126,8 +2126,8 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.acronis.work
-beta-cloud.acronis.com
 account.acronis.com
+beta-cloud.acronis.com
 *.5nine.com
 *.acronis.com
 *-api-*.acronis.com
@@ -2561,8 +2561,8 @@ www.alibabagroup.com
 configure.bmw.de
 konfigurator.bmw-motorrad.de
 www.mini.de
-www.bmw-motorrad.de
 configure.mini.de
+www.bmw-motorrad.de
 www.bmw.de
 www.bmw.de
 www.mini.de
@@ -2831,6 +2831,7 @@ api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
+secure.rezserver.com
 priceline.com
 www.getaroom.com
 www.priceline.com
@@ -3089,6 +3090,13 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3097,22 +3105,15 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
-*.paypalcorp.com
 www.loanbuilder.com
 my.swiftfinancial.com
-*.braintreegateway.com
-paypalobjects.com
+*.paypalcorp.com
 *.venmo.com
 *.braintreepayments.com
+paypalobjects.com
+*.braintreegateway.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3295,14 +3296,14 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
+pay.crypto.com
 *.mona.co
 tax.crypto.com
 auth.crypto.com
 app.mona.co
 js.crypto.com
-pay.crypto.com
-*.crypto.com
 www.crypto.com
+*.crypto.com
 merchant.crypto.com
 *.crypto.com
 *.mona.co
@@ -3438,10 +3439,10 @@ kartaview.org
 wiki.grab.com
 grab.careers
 *.myteksi.com
-*.grab.com
 jira.grab.com
-gifts.grab.com
+*.grab.com
 *.ovo.id
+gifts.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3754,9 +3755,9 @@ derivws.com
 *.deriv.cloud
 smarttrader.deriv.com
 *.binary.com
-app.deriv.com
 *.derivws.com
 *.deriv.com
+app.deriv.com
 api.deriv.com
 *.deriv.com
 *.deriv.cloud
@@ -3782,8 +3783,8 @@ preprod.nl
 qatest.nl
 rudderplatform.com
 werkenbijdnb.nl
-werkenbijderet.nl
 www.werkenbijbakertilly.nl
+werkenbijderet.nl
 werkenbijdefensie.nl
 werkenbijderet.nl
 www.werkenbijbakertilly.nl
@@ -3820,8 +3821,8 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 http://h1-your-domain.zendesk.com/sell
-yourcompany.udemy.com
 www.udemy.com
+yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 *.shopifykloud.com
@@ -3876,8 +3877,8 @@ rt.playcanvas.com
 store.playcanvas.com
 playcanv.as
 *.sc-corp.net
-ads.snapchat.com
 login.playcanvas.com
+ads.snapchat.com
 app.snapchat.com
 accounts.snapchat.com
 web.snapchat.com
@@ -3962,8 +3963,8 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 www.hoteltonight.com
 *.airbnbcitizen.com
-*.withairbnb.com
 api.airbnb.com
+*.withairbnb.com
 next.airbnb.com
 www.airbnb.com
 *.airbnb.com
