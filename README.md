@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 17 20:18:17 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 17 20:41:24 UTC 2024)
 ```
 www.dysoncanada.ca
 www.dyson.ie
@@ -331,8 +331,8 @@ getworldcoin.com
 worldcoin.org
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
-bioid-management.app
 *.worldcoin.org
+bioid-management.app
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -457,9 +457,9 @@ www.mercadopago.cl
 www.mercadopago.com.br
 api.mercadopago.com
 api.mercadolibre.com
-www.mercadolivre.com.br
 www.mercadopago.com.ar
 www.mercadolibre.com.ar
+www.mercadolivre.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -897,8 +897,8 @@ hilton.io
 *.hiltonbusinessonline.com
 hiltonhotels.jp
 *.hilton.io
-*.hilton.com
 hilton.com
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -1171,8 +1171,8 @@ www.stayz.com.au
 www.expediagroup.com
 www.flights.com
 *.expediapartnercentral.com
-*.carrentals.com
 www.expedia.com
+*.carrentals.com
 *.travelocity.ca
 www.expediapartnersolutions.com
 www.fewo-direkt.de
@@ -1208,8 +1208,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.io
 magiceden.io
-*.magiceden.workers.dev
 *.magiceden.dev
+*.magiceden.workers.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1453,8 +1453,8 @@ bullsheet.me
 *.instacart.tools
 api.instacart.com
 shoppers.instacart.com
-admin.instacart.com
 *.instacart.com
+admin.instacart.com
 www.instacart.com
 *.instacart.com
 *.instacart.tools
@@ -1474,8 +1474,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1962,8 +1962,8 @@ internal-docs.netlify.com
 *.services-prod.nsvcs.net
 internal.netlify.com
 *.ops.netlify.com
-*.infra-prod.nsvcs.net
 api.netlify.com
+*.infra-prod.nsvcs.net
 app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
@@ -2008,8 +2008,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 adm.cloud.com
 citrix.cloud.com
@@ -2050,16 +2050,16 @@ effecthouse.tiktok.com
 shop.tiktok.com
 business.tiktok.com
 fp-sg.tiktokv.com
-*.tiktokv.com
 academy-outbound-ads.tiktok.com
 developers.tiktok.com
 careers.tiktok.com
 www.pangleglobal.com
-ads.tiktok.com
 creatormarketplace.tiktok.com
 partner.tiktokshop.com
 tiktok.com
 *.tiktok.com
+ads.tiktok.com
+*.tiktokv.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2538,12 +2538,12 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.ru
 *.aliyun.com
-*.alibabacloud.com
 *.aliexpress.com
+*.alibabacloud.com
 *.tmall.com
 *.Daraz.com
-*.taobao.com
 *.alibaba.com
+*.taobao.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2560,8 +2560,8 @@ www.alibabagroup.com
 configure.bmw.de
 konfigurator.bmw-motorrad.de
 www.mini.de
-www.bmw-motorrad.de
 configure.mini.de
+www.bmw-motorrad.de
 www.bmw.de
 www.bmw.de
 www.mini.de
@@ -3437,8 +3437,8 @@ grab.careers
 *.myteksi.com
 *.grab.com
 jira.grab.com
-gifts.grab.com
 *.ovo.id
+gifts.grab.com
 kartaview.org
 api.grabpay.com
 *.myteksi.com
@@ -3751,12 +3751,12 @@ secure-dfadmin.deriv.com
 *.deriv.cloud
 *.binary.com
 *.derivws.com
+derivws.com
 app.deriv.com
 smarttrader.deriv.com
-derivws.com
 oauth.deriv.com
-*.deriv.com
 api.deriv.com
+*.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3829,13 +3829,13 @@ shopify.plus
 arrive-server.shopifycloud.com
 *.shopifycs.com
 shopifyinbox.com
-*.shopifycloud.com
 accounts.shopify.com
+*.shopifycloud.com
 partners.shopify.com
 shop.app
 *.shopify.io
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
@@ -4126,12 +4126,12 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
-api.coinbase.com
 *.base.org
 international.coinbase.com
 cloud.coinbase.com
@@ -4207,8 +4207,8 @@ hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 app.pullrequest.com
 www.hackerone.com
-hackerone.com
 a5s.hackerone-ext-content.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
