@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 17 09:41:37 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 17 10:17:54 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -412,8 +412,8 @@ payments.hostinger.com
 www.niagahoster.co.id
 hpanel.hostinger.com
 cpanel.hostinger.com
-*.000webhost.com
 www.hostinger.com
+*.000webhost.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -500,16 +500,16 @@ secure-supply-xml.booking.com
 taxi.booking.com
 cars.booking.com
 kyc-onboarding.booking.com
-widget.rentalcars.com
 booking.com
+widget.rentalcars.com
 secure.booking.com
 account.booking.com
 spark.fareharbor.com
 www.fareharbor.com
 admin.booking.com
-*.rentalcars.com
 careers.booking.com
 *.booking.com
+*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -1032,8 +1032,8 @@ api.sokos.fi
 cfapi.voikukka.fi
 auth.skypicker.com
 jobs.kiwi.com
-tequila.kiwi.com
 *.skypicker.com
+tequila.kiwi.com
 www.kiwi.com
 *.kiwi.com
 *.kiwi.com
@@ -1177,9 +1177,9 @@ www.expedia.com
 *.carrentals.com
 *.travelocity.ca
 www.expediapartnersolutions.com
-*.vrbo.com
 www.fewo-direkt.de
 *.expediacruises.com
+*.vrbo.com
 *.hotwire.com
 *.vrbo.com
 *.hotwire.com
@@ -1454,8 +1454,8 @@ bullsheet.me
 *.instacart.tools
 api.instacart.com
 shoppers.instacart.com
-*.instacart.com
 admin.instacart.com
+*.instacart.com
 www.instacart.com
 *.instacart.com
 *.instacart.tools
@@ -1626,8 +1626,8 @@ securitytrails.com
 geminiadvisory.io
 hatching.io
 tria.ge
-www.recordedfuture.com
 app.recordedfuture.com
+www.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1799,8 +1799,8 @@ redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
-matrix.redditspace.com
 *.reddit.com
+matrix.redditspace.com
 ads.reddit.com
 *.reddithelp.com
 www.reddit.com
@@ -1963,8 +1963,8 @@ internal-docs.netlify.com
 *.services-prod.nsvcs.net
 internal.netlify.com
 *.ops.netlify.com
-*.infra-prod.nsvcs.net
 api.netlify.com
+*.infra-prod.nsvcs.net
 app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
@@ -2009,8 +2009,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 adm.cloud.com
 citrix.cloud.com
@@ -2048,19 +2048,19 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 live-backstage.tiktok.com
 effecthouse.tiktok.com
-academy-outbound-ads.tiktok.com
-developers.tiktok.com
 shop.tiktok.com
 business.tiktok.com
 fp-sg.tiktokv.com
 *.tiktokv.com
+academy-outbound-ads.tiktok.com
+developers.tiktok.com
 careers.tiktok.com
 www.pangleglobal.com
 ads.tiktok.com
-*.tiktok.com
 creatormarketplace.tiktok.com
 partner.tiktokshop.com
 tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2539,8 +2539,8 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.ru
 *.aliyun.com
-*.aliexpress.com
 *.alibabacloud.com
+*.aliexpress.com
 *.tmall.com
 *.alibaba.com
 *.Daraz.com
@@ -2639,9 +2639,9 @@ moments.marriottbonvoy.com
 help.marriott.com
 mipartnerprivileges.marriott.com
 travelagents.marriott.com/
-traveler.marriott.com
 www.marriott.com
 activities.marriott.com
+traveler.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2831,7 +2831,7 @@ api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
-www.getaroom.com
+secure.rezserver.com
 priceline.com
 www.priceline.com
 secure.rezserver.com
@@ -3049,13 +3049,13 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
-www.4njbets.com
-us.tvg.com
 tvg.com
-login.tvg.com
-www.tvg.com
 mobile-prod.tvg.com
+login.tvg.com
 *racing.fanduel.com
+www.tvg.com
+us.tvg.com
+www.4njbets.com
 *.fanduel.com
 fdbox.net
 *.fanduel.com
@@ -3295,14 +3295,14 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-pay.crypto.com
 *.mona.co
 tax.crypto.com
 auth.crypto.com
 app.mona.co
 js.crypto.com
-www.crypto.com
+pay.crypto.com
 *.crypto.com
+www.crypto.com
 merchant.crypto.com
 *.crypto.com
 *.mona.co
@@ -3729,9 +3729,9 @@ winecellar.zomato.com
 api.grofers.com
 api2.grofers.com
 *.runnr.in
-blinkit.com
 *.zomans.com
 *.zomato.com
+blinkit.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3750,7 +3750,6 @@ www.algolia.com
 cashier.deriv.com
 secure-dfadmin.deriv.com
 oauth.deriv.com
-derivws.com
 *.deriv.cloud
 smarttrader.deriv.com
 *.binary.com
@@ -3758,6 +3757,7 @@ smarttrader.deriv.com
 *.deriv.com
 app.deriv.com
 api.deriv.com
+derivws.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3830,11 +3830,11 @@ shopify.plus
 arrive-server.shopifycloud.com
 *.shopifycs.com
 shopifyinbox.com
-*.shopifycloud.com
 accounts.shopify.com
+*.shopifycloud.com
 partners.shopify.com
-shop.app
 *.shopify.com
+shop.app
 *.shopify.io
 admin.shopify.com
 your-store.myshopify.com
@@ -3878,8 +3878,8 @@ playcanv.as
 *.sc-corp.net
 login.playcanvas.com
 ads.snapchat.com
-app.snapchat.com
 accounts.snapchat.com
+app.snapchat.com
 web.snapchat.com
 business.snapchat.com
 geofilters.snapchat.com
@@ -4198,8 +4198,8 @@ profile-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-app.pullrequest.com
 hackathon-photos.hackerone-user-content.com
+app.pullrequest.com
 hackerone-ext-content.com
 hackerone.live
 reviewer.pullrequest.com
