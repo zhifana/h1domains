@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 17 14:16:02 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 17 14:42:05 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -314,8 +314,8 @@ video-callerid-eu.truecaller.com
 webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
-api.remitly.io
 rewire.com
+api.remitly.io
 rates.rewire.com
 app.rewire.to
 remitly.com
@@ -410,10 +410,10 @@ editor.zyro.com
 logo.zyro.com
 payments.hostinger.com
 www.niagahoster.co.id
-cpanel.hostinger.com
 hpanel.hostinger.com
-www.hostinger.com
+cpanel.hostinger.com
 *.000webhost.com
+www.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -781,8 +781,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshservice.com
-yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -833,9 +833,9 @@ merino.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
-firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
+firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 addons.allizom.org
 phabricator.allizom.org
@@ -898,8 +898,8 @@ hilton.io
 *.hiltonbusinessonline.com
 hiltonhotels.jp
 *.hilton.io
-*.hilton.com
 hilton.com
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -964,8 +964,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-web.grindr.com
 *.grindr.com
+web.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1014,9 +1014,9 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
-mobile.s-pankki.fi
 www.s-pankki.fi
 www.prisma.fi
+mobile.s-pankki.fi
 online.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
@@ -1032,8 +1032,8 @@ api.sokos.fi
 cfapi.voikukka.fi
 auth.skypicker.com
 jobs.kiwi.com
-tequila.kiwi.com
 *.skypicker.com
+tequila.kiwi.com
 www.kiwi.com
 *.kiwi.com
 *.kiwi.com
@@ -1173,7 +1173,6 @@ www.expediagroup.com
 www.flights.com
 *.expediapartnercentral.com
 www.expedia.com
-*.travelocity.com
 *.carrentals.com
 *.travelocity.ca
 www.expediapartnersolutions.com
@@ -1181,6 +1180,7 @@ www.fewo-direkt.de
 *.expediacruises.com
 *.vrbo.com
 *.hotwire.com
+*.travelocity.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1754,9 +1754,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
+*.touchtechpayments.com
 *.recko.io
 js.stripe.com
-*.touchtechpayments.com
 *.stripe.com
 api.stripe.com
 app.taxjar.com
@@ -2048,12 +2048,12 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 live-backstage.tiktok.com
 effecthouse.tiktok.com
+academy-outbound-ads.tiktok.com
+developers.tiktok.com
 shop.tiktok.com
 business.tiktok.com
 fp-sg.tiktokv.com
 *.tiktokv.com
-academy-outbound-ads.tiktok.com
-developers.tiktok.com
 careers.tiktok.com
 www.pangleglobal.com
 ads.tiktok.com
@@ -2701,8 +2701,8 @@ www.datastax.com
 downloads.datastax.com
 docs.datastax.com
 astra.datastax.com
-*.nordvpn.com
 app.nordpass.com
+*.nordvpn.com
 *.nordvpn.com
 app.nordpass.com
 *.line.me
@@ -2831,8 +2831,8 @@ api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
-secure.rezserver.com
 priceline.com
+press.priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3048,14 +3048,14 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
+us.tvg.com
 ia.tvg.com
+www.4njbets.com
 tvg.com
 mobile-prod.tvg.com
 login.tvg.com
 *racing.fanduel.com
 www.tvg.com
-us.tvg.com
-www.4njbets.com
 *.fanduel.com
 fdbox.net
 *.fanduel.com
@@ -3106,13 +3106,13 @@ pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
+*.paypalcorp.com
 www.loanbuilder.com
 my.swiftfinancial.com
-*.paypalcorp.com
-*.venmo.com
-*.braintreepayments.com
 *.braintreegateway.com
 paypalobjects.com
+*.venmo.com
+*.braintreepayments.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3295,9 +3295,9 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-auth.crypto.com
 *.mona.co
 tax.crypto.com
+auth.crypto.com
 app.mona.co
 js.crypto.com
 pay.crypto.com
@@ -3436,10 +3436,10 @@ xtramile.grabpay.com
 wiki.grab.com
 grab.careers
 *.myteksi.com
-*.grab.com
 jira.grab.com
-gifts.grab.com
+*.grab.com
 *.ovo.id
+gifts.grab.com
 kartaview.org
 api.grabpay.com
 *.myteksi.com
@@ -3753,11 +3753,11 @@ secure-dfadmin.deriv.com
 *.binary.com
 *.derivws.com
 *.deriv.com
-api.deriv.com
 app.deriv.com
 smarttrader.deriv.com
 derivws.com
 oauth.deriv.com
+api.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3830,8 +3830,8 @@ shopify.plus
 arrive-server.shopifycloud.com
 *.shopifycs.com
 shopifyinbox.com
-accounts.shopify.com
 *.shopifycloud.com
+accounts.shopify.com
 partners.shopify.com
 shop.app
 *.shopify.io
@@ -3876,10 +3876,10 @@ rt.playcanvas.com
 store.playcanvas.com
 playcanv.as
 *.sc-corp.net
-ads.snapchat.com
 login.playcanvas.com
-app.snapchat.com
+ads.snapchat.com
 accounts.snapchat.com
+app.snapchat.com
 web.snapchat.com
 business.snapchat.com
 geofilters.snapchat.com
@@ -4162,10 +4162,10 @@ slack-redir.net
 spaces.pm
 www.quip.com
 slack-imgs.com
-app.slack.com
 api.slack.com
 slack.com
 *.quip.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
