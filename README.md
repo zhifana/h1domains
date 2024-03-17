@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 17 21:18:56 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 17 21:41:45 UTC 2024)
 ```
 www.dysoncanada.ca
 www.dyson.ie
@@ -313,11 +313,11 @@ video-callerid-eu.truecaller.com
 webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
-api.remitly.io
 rates.rewire.com
 app.rewire.to
 remitly.com
 rewire.com
+api.remitly.io
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -835,8 +835,8 @@ lando.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
-addons.allizom.org
 firefox.settings.services.mozilla.com
+addons.allizom.org
 phabricator.allizom.org
 accounts.firefox.com
 addons.allizom.org
@@ -895,8 +895,8 @@ hiltonlocalbiz.com
 *.hilton.com.tr
 hilton.io
 *.hiltonbusinessonline.com
-*.hilton.io
 hiltonhotels.jp
+*.hilton.io
 hilton.com
 *.hilton.com
 *.hilton.com
@@ -963,8 +963,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-web.grindr.com
 *.grindr.com
+web.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1453,8 +1453,8 @@ bullsheet.me
 *.instacart.tools
 api.instacart.com
 shoppers.instacart.com
-*.instacart.com
 admin.instacart.com
+*.instacart.com
 www.instacart.com
 *.instacart.com
 *.instacart.tools
@@ -1474,8 +1474,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1798,8 +1798,8 @@ redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
-*.reddit.com
 matrix.redditspace.com
+*.reddit.com
 ads.reddit.com
 *.reddithelp.com
 www.reddit.com
@@ -2125,8 +2125,8 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.acronis.work
-beta-cloud.acronis.com
 account.acronis.com
+beta-cloud.acronis.com
 *.5nine.com
 *.acronis.com
 *-api-*.acronis.com
@@ -2541,8 +2541,8 @@ www.alibabagroup.com
 *.alibabacloud.com
 *.tmall.com
 *.Daraz.com
-*.alibaba.com
 *.taobao.com
+*.alibaba.com
 *.aliexpress.com
 *.alibaba.com
 *.aliexpress.com
@@ -3047,14 +3047,14 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
+us.tvg.com
 ia.tvg.com
 www.4njbets.com
-us.tvg.com
 tvg.com
-login.tvg.com
-www.tvg.com
 mobile-prod.tvg.com
+login.tvg.com
 *racing.fanduel.com
+www.tvg.com
 *.fanduel.com
 fdbox.net
 *.fanduel.com
@@ -3105,14 +3105,14 @@ pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
+*.paypalcorp.com
 www.loanbuilder.com
 my.swiftfinancial.com
-*.paypalcorp.com
-*.venmo.com
 *.braintreegateway.com
 paypalobjects.com
-*.paypal.com
+*.venmo.com
 *.braintreepayments.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3273,12 +3273,12 @@ support.steampowered.com
 partner.steampowered.com
 partner.steamgames.com
 playartifact.com
-help.steampowered.com
 www.teamfortress.com
+help.steampowered.com
 www.counter-strike.net
+api.steampowered.com
 www.dota2.com
 steamcommunity.com
-api.steampowered.com
 www.valvesoftware.com
 store.steampowered.com
 www.dota2.com
@@ -4130,8 +4130,8 @@ pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
-api.coinbase.com
 institutional.coinbase.com
+api.coinbase.com
 *.base.org
 international.coinbase.com
 cloud.coinbase.com
@@ -4390,8 +4390,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 magento.com
 marketplace.magento.com
 magentocommerce.com
