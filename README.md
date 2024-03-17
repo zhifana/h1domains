@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 17 22:17:17 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 17 22:41:16 UTC 2024)
 ```
 www.dysoncanada.ca
 www.dyson.ie
@@ -330,8 +330,8 @@ getworldcoin.com
 *.worldcoin.dev
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
-bioid-management.app
 *.worldcoin.org
+bioid-management.app
 worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -388,8 +388,8 @@ http://sandbox-api.fireblocks.io
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 *.sprint.dynatracelabs.com
-myaccount-hardening.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
+myaccount-hardening.dynatracelabs.com
 account-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
@@ -458,8 +458,8 @@ www.mercadopago.com.br
 api.mercadopago.com
 api.mercadolibre.com
 www.mercadopago.com.ar
-www.mercadolibre.com.ar
 www.mercadolivre.com.br
+www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -499,8 +499,8 @@ secure-supply-xml.booking.com
 taxi.booking.com
 cars.booking.com
 kyc-onboarding.booking.com
-widget.rentalcars.com
 booking.com
+widget.rentalcars.com
 secure.booking.com
 spark.fareharbor.com
 www.fareharbor.com
@@ -895,8 +895,8 @@ hiltonlocalbiz.com
 *.hilton.com.tr
 hilton.io
 *.hiltonbusinessonline.com
-hiltonhotels.jp
 *.hilton.io
+hiltonhotels.jp
 hilton.com
 *.hilton.com
 *.hilton.com
@@ -1334,8 +1334,8 @@ business.kayak.com
 www.cheapflights.com
 www.mundi.com.br
 www.kayak.com
-www.momondo.com
 www.checkfelix.com
+www.momondo.com
 www.hotelscombined.com
 www.kayak.com
 www.swoodoo.com
@@ -1474,8 +1474,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1962,8 +1962,8 @@ internal-docs.netlify.com
 *.services-prod.nsvcs.net
 internal.netlify.com
 *.ops.netlify.com
-*.infra-prod.nsvcs.net
 api.netlify.com
+*.infra-prod.nsvcs.net
 app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
@@ -2011,9 +2011,9 @@ api.adm.cloud.com
 (yoursubdomain).sharefile.com
 www.cloud.com
 (yoursubdomain).sharefile.eu
+secure.sharefile.com
 adm.cloud.com
 citrix.cloud.com
-secure.sharefile.com
 secure.sharefile.eu
 citrix.cloud.com
 www.cloud.com
@@ -2047,18 +2047,18 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 live-backstage.tiktok.com
 effecthouse.tiktok.com
+academy-outbound-ads.tiktok.com
+developers.tiktok.com
 shop.tiktok.com
 business.tiktok.com
 fp-sg.tiktokv.com
-academy-outbound-ads.tiktok.com
-developers.tiktok.com
 careers.tiktok.com
 www.pangleglobal.com
 creatormarketplace.tiktok.com
 partner.tiktokshop.com
 tiktok.com
-*.tiktok.com
 ads.tiktok.com
+*.tiktok.com
 *.tiktokv.com
 *.tiktok.com
 business.tiktok.com
@@ -3273,12 +3273,12 @@ support.steampowered.com
 partner.steampowered.com
 partner.steamgames.com
 playartifact.com
-help.steampowered.com
 www.teamfortress.com
+help.steampowered.com
 www.counter-strike.net
+api.steampowered.com
 www.dota2.com
 steamcommunity.com
-api.steampowered.com
 www.valvesoftware.com
 store.steampowered.com
 www.dota2.com
@@ -3294,14 +3294,14 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-pay.crypto.com
 *.mona.co
 tax.crypto.com
 auth.crypto.com
 app.mona.co
 js.crypto.com
-www.crypto.com
+pay.crypto.com
 *.crypto.com
+www.crypto.com
 merchant.crypto.com
 *.crypto.com
 *.mona.co
@@ -3751,12 +3751,12 @@ secure-dfadmin.deriv.com
 *.deriv.cloud
 *.binary.com
 *.derivws.com
+derivws.com
 app.deriv.com
 smarttrader.deriv.com
-derivws.com
 oauth.deriv.com
-*.deriv.com
 api.deriv.com
+*.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3875,10 +3875,10 @@ rt.playcanvas.com
 store.playcanvas.com
 playcanv.as
 *.sc-corp.net
-login.playcanvas.com
 ads.snapchat.com
-accounts.snapchat.com
+login.playcanvas.com
 app.snapchat.com
+accounts.snapchat.com
 web.snapchat.com
 business.snapchat.com
 geofilters.snapchat.com
