@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 18 13:47:33 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 18 14:23:18 UTC 2024)
 ```
 www.dysoncanada.ca
 www.dyson.ie
@@ -312,11 +312,11 @@ video-callerid-eu.truecaller.com
 webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
-rewire.com
 api.remitly.io
-rates.rewire.com
+rewire.com
 app.rewire.to
 remitly.com
+rates.rewire.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -343,9 +343,9 @@ bioid-management.app
 worldcoin.org
 textexplore.tari.com
 www.tarilabs.com
-www.tari.com
 explore.tari.com
 rfc.tari.com
+www.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -457,8 +457,8 @@ www.mercadopago.com.br
 www.mercadolivre.com.br
 api.mercadolibre.com
 api.mercadopago.com
-www.mercadolibre.com.ar
 www.mercadopago.com.ar
+www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -777,8 +777,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
-yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -796,8 +796,8 @@ app.avtoelon.uz
 id.avtoelon.uz
 m.kolesa.kz
 api.krisha.kz
-kolesa.kz
 avtoelon.uz
+kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -831,8 +831,8 @@ lando.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
-addons.allizom.org
 firefox.settings.services.mozilla.com
+addons.allizom.org
 phabricator.allizom.org
 accounts.firefox.com
 addons.allizom.org
@@ -1008,9 +1008,9 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
-mobile.s-pankki.fi
 www.s-pankki.fi
 www.prisma.fi
+mobile.s-pankki.fi
 online.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
@@ -1168,13 +1168,13 @@ www.flights.com
 *.expediapartnercentral.com
 www.expediapartnersolutions.com
 *.carrentals.com
-*.travelocity.com
 *.travelocity.ca
-www.fewo-direkt.de
-*.vrbo.com
 *.expediacruises.com
+*.vrbo.com
 www.expedia.com
 *.hotwire.com
+www.fewo-direkt.de
+*.travelocity.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1469,8 +1469,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1620,8 +1620,8 @@ securitytrails.com
 geminiadvisory.io
 hatching.io
 tria.ge
-app.recordedfuture.com
 www.recordedfuture.com
+app.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1732,9 +1732,9 @@ https://www.xvideos.net/app/
 www.elastic.co
 *.elasticnet.co
 *.eops.nl
+*.elastic.co
 *.swiftype.com
 cloud.elastic.co
-*.elastic.co
 *.elstc.co
 *.elastic.co
 *.found.io
@@ -1796,8 +1796,8 @@ old.reddit.com
 *.reddit.com
 ads.reddit.com
 *.reddithelp.com
-matrix.redditspace.com
 www.reddit.com
+matrix.redditspace.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2003,12 +2003,12 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-www.cloud.com
 (yoursubdomain).sharefile.com
+www.cloud.com
 (yoursubdomain).sharefile.eu
+secure.sharefile.com
 adm.cloud.com
 citrix.cloud.com
-secure.sharefile.com
 secure.sharefile.eu
 citrix.cloud.com
 www.cloud.com
@@ -2042,19 +2042,19 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 live-backstage.tiktok.com
 effecthouse.tiktok.com
-shop.tiktok.com
 academy-outbound-ads.tiktok.com
 developers.tiktok.com
+shop.tiktok.com
 careers.tiktok.com
+*.tiktok.com
 business.tiktok.com
 fp-sg.tiktokv.com
-*.tiktok.com
-tiktok.com
-www.pangleglobal.com
 creatormarketplace.tiktok.com
+www.pangleglobal.com
 partner.tiktokshop.com
-*.tiktokv.com
+tiktok.com
 ads.tiktok.com
+*.tiktokv.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2624,8 +2624,8 @@ help.marriott.com
 mipartnerprivileges.marriott.com
 travelagents.marriott.com/
 www.marriott.com
-traveler.marriott.com
 activities.marriott.com
+traveler.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2816,7 +2816,7 @@ admin.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
 flyiin.com
-www.bookingholdings.com
+www.getaroom.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3032,16 +3032,16 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
-us.tvg.com
 ia.tvg.com
-www.4njbets.com
 tvg.com
 mobile-prod.tvg.com
 login.tvg.com
 *racing.fanduel.com
 www.tvg.com
-*.fanduel.com
+us.tvg.com
+www.4njbets.com
 fdbox.net
+*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3089,12 +3089,12 @@ pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
-*.paypalcorp.com
 www.loanbuilder.com
 my.swiftfinancial.com
+*.paypalcorp.com
+*.venmo.com
 *.braintreegateway.com
 paypalobjects.com
-*.venmo.com
 *.braintreepayments.com
 *.xoom.com
 *.paypal.com
@@ -3423,8 +3423,8 @@ kartaview.org
 api.grabpay.com
 *.myteksi.net
 *.grab.com
-gifts.grab.com
 jira.grab.com
+gifts.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3595,8 +3595,8 @@ cart.starbucks.co.jp
 www.starbucks.co.kr
 gift.starbucks.co.jp
 app.starbucks.com
-www.starbucks.com.cn
 www.starbucks.com
+www.starbucks.com.cn
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3735,11 +3735,11 @@ secure-dfadmin.deriv.com
 *.binary.com
 app.deriv.com
 *.deriv.cloud
+*.derivws.com
+*.deriv.com
 oauth.deriv.com
 derivws.com
 api.deriv.com
-*.derivws.com
-*.deriv.com
 smarttrader.deriv.com
 *.deriv.com
 *.deriv.cloud
@@ -3817,9 +3817,9 @@ shopifyinbox.com
 partners.shopify.com
 *.shopify.io
 *.shopify.com
+accounts.shopify.com
 shop.app
 admin.shopify.com
-accounts.shopify.com
 your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
@@ -3943,8 +3943,8 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 www.hoteltonight.com
 *.airbnbcitizen.com
-api.airbnb.com
 *.withairbnb.com
+api.airbnb.com
 next.airbnb.com
 www.airbnb.com
 *.hoteltonight-test.com
@@ -4048,6 +4048,7 @@ cloudflareworkers.com
 api.cloudflare.com
 waf.cumulusfire.net
 one.dash.cloudflare.com
+*.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
@@ -4189,9 +4190,9 @@ cover-photos.hackerone-user-content.com
 app.pullrequest.com
 a5s.hackerone-ext-content.com
 hackerone-user-content.com
-www.wearehackerone.com
 api.hackerone.com
 hackerone.com
+www.wearehackerone.com
 www.hackerone.com
 hackerone.com
 api.hackerone.com
@@ -4424,8 +4425,6 @@ alerts.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
 rpm.newrelic.com
-one.newrelic.com
-*.nr-ops.net
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
