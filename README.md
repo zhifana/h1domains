@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 18 05:18:19 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 18 05:41:55 UTC 2024)
 ```
 www.dysoncanada.ca
 www.dyson.ie
@@ -457,9 +457,9 @@ www.mercadopago.cl
 www.mercadopago.com.br
 api.mercadolibre.com
 www.mercadopago.com.ar
-www.mercadolivre.com.br
 www.mercadolibre.com.ar
 api.mercadopago.com
+www.mercadolivre.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -1012,9 +1012,9 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
-mobile.s-pankki.fi
 www.s-pankki.fi
 www.prisma.fi
+mobile.s-pankki.fi
 online.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
@@ -1174,11 +1174,11 @@ www.flights.com
 www.expediapartnersolutions.com
 www.fewo-direkt.de
 *.vrbo.com
-*.travelocity.com
 *.hotwire.com
+*.travelocity.com
 www.expedia.com
-*.expediacruises.com
 *.travelocity.ca
+*.expediacruises.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1333,8 +1333,8 @@ business.kayak.com
 www.cheapflights.com
 www.mundi.com.br
 www.kayak.com
-www.momondo.com
 www.checkfelix.com
+www.momondo.com
 www.hotelscombined.com
 www.kayak.com
 www.swoodoo.com
@@ -1379,7 +1379,6 @@ smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
-etoropartners.com
 partners.etoro.com
 aggregator.etoro.com
 api.etoro.com
@@ -1414,6 +1413,7 @@ rankings.etoro.com
 delta.app
 bullsheet.me
 www.etoro.com
+etoropartners.com
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -1624,8 +1624,8 @@ securitytrails.com
 geminiadvisory.io
 hatching.io
 tria.ge
-www.recordedfuture.com
 app.recordedfuture.com
+www.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1752,9 +1752,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
+*.touchtechpayments.com
 *.recko.io
 js.stripe.com
-*.touchtechpayments.com
 *.stripe.com
 api.stripe.com
 app.taxjar.com
@@ -1797,8 +1797,8 @@ redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
-matrix.redditspace.com
 *.reddit.com
+matrix.redditspace.com
 ads.reddit.com
 *.reddithelp.com
 www.reddit.com
@@ -2323,8 +2323,8 @@ portal.polygon.technology
 *.miui.com
 *.xiaomiyoupin.com
 *.miwifi.com
-*.mi.com
 *.xiaomi.com
+*.mi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -2538,8 +2538,8 @@ www.alibabagroup.com
 *.alibabacloud.com
 *.tmall.com
 *.Daraz.com
-*.taobao.com
 *.alibaba.com
+*.taobao.com
 *.1688.com
 *.aliexpress.com
 *.aliyun.com
@@ -3046,14 +3046,14 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
+us.tvg.com
 ia.tvg.com
+www.4njbets.com
 tvg.com
 mobile-prod.tvg.com
 login.tvg.com
 *racing.fanduel.com
 www.tvg.com
-us.tvg.com
-www.4njbets.com
 *.fanduel.com
 fdbox.net
 *.fanduel.com
@@ -3104,12 +3104,12 @@ pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
+*.paypalcorp.com
 www.loanbuilder.com
 my.swiftfinancial.com
-*.paypalcorp.com
-*.venmo.com
 *.braintreegateway.com
 paypalobjects.com
+*.venmo.com
 *.braintreepayments.com
 *.paypal.com
 www.paypal-*.com
@@ -3293,11 +3293,11 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-auth.crypto.com
+pay.crypto.com
 *.mona.co
 tax.crypto.com
+auth.crypto.com
 js.crypto.com
-pay.crypto.com
 www.crypto.com
 *.crypto.com
 merchant.crypto.com
@@ -3437,9 +3437,9 @@ grab.careers
 jira.grab.com
 *.ovo.id
 gifts.grab.com
+api.grabpay.com
 *.grab.com
 kartaview.org
-api.grabpay.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3780,8 +3780,8 @@ preprod.nl
 qatest.nl
 rudderplatform.com
 werkenbijdnb.nl
-www.werkenbijbakertilly.nl
 werkenbijderet.nl
+www.werkenbijbakertilly.nl
 werkenbijdefensie.nl
 werkenbijderet.nl
 www.werkenbijbakertilly.nl
@@ -3834,8 +3834,8 @@ partners.shopify.com
 shop.app
 *.shopify.io
 *.shopify.com
-admin.shopify.com
 your-store.myshopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -4125,12 +4125,12 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
+api.coinbase.com
 *.base.org
 international.coinbase.com
 cloud.coinbase.com
@@ -4206,8 +4206,8 @@ app.pullrequest.com
 a5s.hackerone-ext-content.com
 api.hackerone.com
 hackerone-user-content.com
-www.hackerone.com
 hackerone.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4389,8 +4389,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 magento.com
 marketplace.magento.com
 magentocommerce.com
