@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 18 08:22:38 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 18 08:41:53 UTC 2024)
 ```
 www.dysoncanada.ca
 www.dyson.ie
@@ -456,9 +456,9 @@ www.mercadopago.cl
 www.mercadopago.com.br
 api.mercadolibre.com
 www.mercadopago.com.ar
-api.mercadopago.com
-www.mercadolibre.com.ar
 www.mercadolivre.com.br
+www.mercadolibre.com.ar
+api.mercadopago.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -830,11 +830,11 @@ merino.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
-firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
-addons.allizom.org
+firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
+addons.allizom.org
 phabricator.allizom.org
 accounts.firefox.com
 addons.allizom.org
@@ -1114,8 +1114,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.hypermint.com
 *.moonpaycloud.com
+*.hypermint.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1176,8 +1176,8 @@ www.fewo-direkt.de
 *.travelocity.com
 www.expedia.com
 *.expediacruises.com
-*.carrentals.com
 *.travelocity.ca
+*.carrentals.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1331,8 +1331,8 @@ www.swoodoo.com
 business.kayak.com
 www.cheapflights.com
 www.kayak.com
-www.checkfelix.com
 www.momondo.com
+www.checkfelix.com
 www.hotelscombined.com
 www.mundi.com.br
 www.kayak.com
@@ -1979,8 +1979,8 @@ internal-docs.netlify.com
 supportal.netlify.app
 launchpad.37signals.com
 world.hey.com
-*.hey.com
 3.basecamp.com
+*.hey.com
 *.hey.com
 3.basecamp.com
 launchpad.37signals.com
@@ -2053,11 +2053,11 @@ tiktok.com
 business.tiktok.com
 fp-sg.tiktokv.com
 *.tiktok.com
+ads.tiktok.com
+creatormarketplace.tiktok.com
 *.tiktokv.com
 www.pangleglobal.com
-creatormarketplace.tiktok.com
 partner.tiktokshop.com
-ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2123,8 +2123,8 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.acronis.work
-account.acronis.com
 beta-cloud.acronis.com
+account.acronis.com
 *.5nine.com
 *.acronis.com
 *-api-*.acronis.com
@@ -2322,8 +2322,8 @@ portal.polygon.technology
 *.miui.com
 *.xiaomiyoupin.com
 *.miwifi.com
-*.mi.com
 *.xiaomi.com
+*.mi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -3085,13 +3085,6 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3100,14 +3093,21 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
 www.loanbuilder.com
 my.swiftfinancial.com
 *.paypalcorp.com
 *.venmo.com
-paypalobjects.com
 *.braintreegateway.com
+paypalobjects.com
 *.braintreepayments.com
 *.paypal.com
 *.xoom.com
@@ -3291,9 +3291,9 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
+auth.crypto.com
 *.mona.co
 tax.crypto.com
-auth.crypto.com
 js.crypto.com
 pay.crypto.com
 www.crypto.com
@@ -3434,9 +3434,9 @@ grab.careers
 *.myteksi.com
 jira.grab.com
 gifts.grab.com
-*.grab.com
-kartaview.org
 *.ovo.id
+kartaview.org
+*.grab.com
 api.grabpay.com
 *.myteksi.com
 *.myteksi.net
@@ -3608,8 +3608,8 @@ cart.starbucks.co.jp
 www.starbucks.co.kr
 gift.starbucks.co.jp
 app.starbucks.com
-www.starbucks.com.cn
 www.starbucks.com
+www.starbucks.com.cn
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3678,8 +3678,8 @@ npmjs.org
 gist.github.com
 npmjs.com
 *.githubusercontent.com
-github.com
 api.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3748,9 +3748,9 @@ secure-dfadmin.deriv.com
 *.binary.com
 app.deriv.com
 *.deriv.cloud
-oauth.deriv.com
 derivws.com
 api.deriv.com
+oauth.deriv.com
 *.derivws.com
 *.deriv.com
 smarttrader.deriv.com
@@ -3826,14 +3826,14 @@ shopify.plus
 arrive-server.shopifycloud.com
 *.shopifycs.com
 shopifyinbox.com
-accounts.shopify.com
 *.shopifycloud.com
+accounts.shopify.com
 partners.shopify.com
-shop.app
 *.shopify.io
 *.shopify.com
 admin.shopify.com
 your-store.myshopify.com
+shop.app
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3957,8 +3957,8 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 www.hoteltonight.com
 *.airbnbcitizen.com
-*.withairbnb.com
 api.airbnb.com
+*.withairbnb.com
 next.airbnb.com
 www.airbnb.com
 *.airbnb.com
@@ -4043,10 +4043,10 @@ www.greenhouse.io
 gnip.com
 api.x.ai
 ide.x.ai
-*.twimg.com
 grok.x.ai
 x.com
 *.twitter.com
+*.twimg.com
 *.twitter.com
 *.vine.co
 *.twimg.com
