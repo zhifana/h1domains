@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 18 19:43:33 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 18 20:22:47 UTC 2024)
 ```
 www.dysoncanada.ca
 www.dyson.ie
@@ -454,11 +454,11 @@ www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadopago.com.br
-api.mercadolibre.com
-api.mercadopago.com
 www.mercadolibre.com.ar
 www.mercadopago.com.ar
 www.mercadolivre.com.br
+api.mercadolibre.com
+api.mercadopago.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -497,8 +497,8 @@ secure-supply-xml.booking.com
 taxi.booking.com
 cars.booking.com
 kyc-onboarding.booking.com
-widget.rentalcars.com
 booking.com
+widget.rentalcars.com
 secure.booking.com
 spark.fareharbor.com
 admin.booking.com
@@ -572,8 +572,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicex.com
 test.nicehash.com
+test.nicex.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -929,8 +929,8 @@ ingest.clairvoyance.indrive.tech
 injob.indriver.com
 *.indrive.com
 watchdocs.indriverapp.com
-new-order.eu-east-1.indriverapp.com
 *.indriverapp.com
+new-order.eu-east-1.indriverapp.com
 *.indriver.com
 *.indriverapp.com
 *.indrive.com
@@ -1169,12 +1169,12 @@ www.flights.com
 www.expediapartnersolutions.com
 *.carrentals.com
 *.travelocity.ca
-*.expediacruises.com
 www.expedia.com
 www.fewo-direkt.de
 *.vrbo.com
 *.hotwire.com
 *.travelocity.com
+*.expediacruises.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1796,8 +1796,8 @@ old.reddit.com
 *.reddithelp.com
 ads.reddit.com
 www.reddit.com
-matrix.redditspace.com
 new.reddit.com
+matrix.redditspace.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1908,11 +1908,11 @@ status.larksuite.com
 passport.larksuite.com
 internal-api.larksuite.com
 internal-api-drive-stream.larksuite.com
-open.larksuite.com
 app.larksuite.com
+open.larksuite.com
 hackers_chosendomain.larksuite.com
-internal-api-lark-api.larksuite.com
 larksuite.com
+internal-api-lark-api.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -1935,10 +1935,10 @@ hackers_chosendomain.larksuite.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
-hub.yoti.com
 www.yotisign.com
 api.yoti.com
 identity.yoti.com
+hub.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -2003,8 +2003,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 adm.cloud.com
 citrix.cloud.com
@@ -2048,13 +2048,13 @@ careers.tiktok.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 *.tiktokv.com
-ads.tiktok.com
 business.tiktok.com
-partner.tiktokshop.com
 creatormarketplace.tiktok.com
 *.tiktok.com
 academy-outbound-ads.tiktok.com
 tiktok.com
+ads.tiktok.com
+partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2121,8 +2121,8 @@ api.faraday.ai
 *.devicelock.com
 *.acronis.work
 beta-cloud.acronis.com
-*.5nine.com
 account.acronis.com
+*.5nine.com
 *.acronis.com
 *-api-*.acronis.com
 *.acronis.com
@@ -2686,8 +2686,8 @@ www.datastax.com
 downloads.datastax.com
 docs.datastax.com
 astra.datastax.com
-*.nordvpn.com
 app.nordpass.com
+*.nordvpn.com
 *.nordvpn.com
 app.nordpass.com
 *.line.me
@@ -2816,8 +2816,8 @@ api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
-flyiin.com
 www.getaroom.com
+press.priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3034,15 +3034,15 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
-www.4njbets.com
-us.tvg.com
 tvg.com
 login.tvg.com
 www.tvg.com
 mobile-prod.tvg.com
 *racing.fanduel.com
-*.fanduel.com
+www.4njbets.com
+us.tvg.com
 fdbox.net
+*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3073,13 +3073,6 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3088,6 +3081,13 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
 www.loanbuilder.com
@@ -3097,8 +3097,8 @@ my.swiftfinancial.com
 *.braintreegateway.com
 *.xoom.com
 *.braintreepayments.com
-*.paypal.com
 paypalobjects.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3480,8 +3480,8 @@ ccardsus1.badoo.com
 chatdate.app
 getofficial.co
 backstage.io
-api.spotify.com
 assets.spotify.com
+api.spotify.com
 assets.spotify.com
 api.spotify.com
 backstage.io
@@ -3735,13 +3735,13 @@ cashier.deriv.com
 secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.cloud
-oauth.deriv.com
 derivws.com
 api.deriv.com
+oauth.deriv.com
 *.derivws.com
-*.deriv.com
 smarttrader.deriv.com
 app.deriv.com
+*.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3815,13 +3815,13 @@ arrive-server.shopifycloud.com
 *.shopifycs.com
 *.shopifycloud.com
 partners.shopify.com
-*.shopify.io
 shopifyinbox.com
 accounts.shopify.com
 admin.shopify.com
-your-store.myshopify.com
 shop.app
 *.shopify.com
+*.shopify.io
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -4148,8 +4148,8 @@ www.quip.com
 slack-imgs.com
 slack.com
 *.quip.com
-app.slack.com
 api.slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4424,7 +4424,7 @@ alerts.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
 *.nr-ops.net
-rpm.newrelic.com
+one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
