@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 18 05:41:55 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 18 06:22:29 UTC 2024)
 ```
 www.dysoncanada.ca
 www.dyson.ie
@@ -12,7 +12,6 @@ www.dyson.nl
 www.dyson.at
 www.dyson.be
 www.dyson.pt
-www.dyson.de
 www.dyson.no
 www.dyson.dk
 www.dyson.es
@@ -314,8 +313,8 @@ webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
 app.rewire.to
-rewire.com
 api.remitly.io
+rewire.com
 remitly.com
 rates.rewire.com
 remitly.com
@@ -506,9 +505,9 @@ www.fareharbor.com
 admin.booking.com
 careers.booking.com
 account.booking.com
-flights.booking.com
 *.booking.com
 *.rentalcars.com
+flights.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -779,8 +778,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
-yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -831,9 +830,9 @@ merino.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
-firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
+firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 addons.allizom.org
 phabricator.allizom.org
@@ -894,8 +893,8 @@ hiltonlocalbiz.com
 *.hilton.com.tr
 hilton.io
 *.hiltonbusinessonline.com
-hiltonhotels.jp
 *.hilton.io
+hiltonhotels.jp
 hilton.com
 *.hilton.com
 *.hilton.com
@@ -1012,9 +1011,9 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
+mobile.s-pankki.fi
 www.s-pankki.fi
 www.prisma.fi
-mobile.s-pankki.fi
 online.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
@@ -1170,7 +1169,6 @@ www.stayz.com.au
 www.expediagroup.com
 www.flights.com
 *.expediapartnercentral.com
-*.carrentals.com
 www.expediapartnersolutions.com
 www.fewo-direkt.de
 *.vrbo.com
@@ -1179,6 +1177,7 @@ www.fewo-direkt.de
 www.expedia.com
 *.travelocity.ca
 *.expediacruises.com
+*.carrentals.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1300,9 +1299,9 @@ www.dolap.com
 www.trendyol-milla.com
 *.sidefx.com
 *.sidefx.com
+snaps.metamask.io
 portfolio.metamask.io
 metamask.io
-snaps.metamask.io
 metamask.io
 snaps.metamask.io
 portfolio.metamask.io
@@ -1738,8 +1737,8 @@ www.elastic.co
 *.eops.nl
 *.swiftype.com
 *.elstc.co
-*.elastic.co
 cloud.elastic.co
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1752,9 +1751,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
-*.touchtechpayments.com
 *.recko.io
 js.stripe.com
+*.touchtechpayments.com
 *.stripe.com
 api.stripe.com
 app.taxjar.com
@@ -1798,10 +1797,10 @@ app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
 *.reddit.com
-matrix.redditspace.com
 ads.reddit.com
 *.reddithelp.com
 www.reddit.com
+matrix.redditspace.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1941,8 +1940,8 @@ ccloud.yoti.com
 code.yoti.com
 identity.yoti.com
 www.yotisign.com
-hub.yoti.com
 api.yoti.com
+hub.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -2007,12 +2006,12 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-www.cloud.com
 (yoursubdomain).sharefile.com
+www.cloud.com
 (yoursubdomain).sharefile.eu
+secure.sharefile.com
 adm.cloud.com
 citrix.cloud.com
-secure.sharefile.com
 secure.sharefile.eu
 citrix.cloud.com
 www.cloud.com
@@ -2046,19 +2045,19 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 live-backstage.tiktok.com
 effecthouse.tiktok.com
+shop.tiktok.com
 academy-outbound-ads.tiktok.com
 developers.tiktok.com
-shop.tiktok.com
 careers.tiktok.com
 www.pangleglobal.com
 partner.tiktokshop.com
 tiktok.com
-*.tiktok.com
 business.tiktok.com
-fp-sg.tiktokv.com
-*.tiktokv.com
 ads.tiktok.com
+*.tiktokv.com
+fp-sg.tiktokv.com
 creatormarketplace.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2124,8 +2123,8 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.acronis.work
-beta-cloud.acronis.com
 account.acronis.com
+beta-cloud.acronis.com
 *.5nine.com
 *.acronis.com
 *-api-*.acronis.com
@@ -2539,10 +2538,10 @@ www.alibabagroup.com
 *.tmall.com
 *.Daraz.com
 *.alibaba.com
-*.taobao.com
 *.1688.com
 *.aliexpress.com
 *.aliyun.com
+*.taobao.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2699,8 +2698,8 @@ www.datastax.com
 downloads.datastax.com
 docs.datastax.com
 astra.datastax.com
-app.nordpass.com
 *.nordvpn.com
+app.nordpass.com
 *.nordvpn.com
 app.nordpass.com
 *.line.me
@@ -3054,8 +3053,8 @@ mobile-prod.tvg.com
 login.tvg.com
 *racing.fanduel.com
 www.tvg.com
-*.fanduel.com
 fdbox.net
+*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3104,12 +3103,12 @@ pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
-*.paypalcorp.com
 www.loanbuilder.com
 my.swiftfinancial.com
+*.paypalcorp.com
+*.venmo.com
 *.braintreegateway.com
 paypalobjects.com
-*.venmo.com
 *.braintreepayments.com
 *.paypal.com
 www.paypal-*.com
@@ -3213,7 +3212,6 @@ www.rocaton.com
 developer.gs.com
 goldmansachsindices.com
 marquee.gs.com
-*.gs.de
 *.unitedcp.com
 *.goldmanpfm.com
 *.finlife.com
@@ -3272,12 +3270,12 @@ support.steampowered.com
 partner.steampowered.com
 partner.steamgames.com
 playartifact.com
-www.teamfortress.com
 help.steampowered.com
+www.teamfortress.com
 www.counter-strike.net
-api.steampowered.com
 www.dota2.com
 steamcommunity.com
+api.steampowered.com
 www.valvesoftware.com
 store.steampowered.com
 www.dota2.com
@@ -3435,11 +3433,11 @@ wiki.grab.com
 grab.careers
 *.myteksi.com
 jira.grab.com
-*.ovo.id
 gifts.grab.com
 api.grabpay.com
-*.grab.com
+*.ovo.id
 kartaview.org
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3680,8 +3678,8 @@ npmjs.org
 gist.github.com
 npmjs.com
 *.githubusercontent.com
-github.com
 api.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3780,8 +3778,8 @@ preprod.nl
 qatest.nl
 rudderplatform.com
 werkenbijdnb.nl
-werkenbijderet.nl
 www.werkenbijbakertilly.nl
+werkenbijderet.nl
 werkenbijdefensie.nl
 werkenbijderet.nl
 www.werkenbijbakertilly.nl
@@ -3874,8 +3872,8 @@ rt.playcanvas.com
 store.playcanvas.com
 playcanv.as
 *.sc-corp.net
-ads.snapchat.com
 login.playcanvas.com
+ads.snapchat.com
 app.snapchat.com
 accounts.snapchat.com
 web.snapchat.com
