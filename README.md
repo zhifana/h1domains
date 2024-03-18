@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 18 20:46:16 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 18 21:19:23 UTC 2024)
 ```
 www.dysoncanada.ca
 www.dyson.ie
@@ -315,8 +315,8 @@ cards.remitly.io
 rewire.com
 api.remitly.io
 rates.rewire.com
-remitly.com
 app.rewire.to
+remitly.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -454,11 +454,11 @@ www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadopago.com.br
-www.mercadolibre.com.ar
-www.mercadopago.com.ar
 www.mercadolivre.com.br
-api.mercadolibre.com
 api.mercadopago.com
+api.mercadolibre.com
+www.mercadopago.com.ar
+www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -506,8 +506,8 @@ careers.booking.com
 account.booking.com
 flights.booking.com
 *.rentalcars.com
-www.fareharbor.com
 *.booking.com
+www.fareharbor.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -831,8 +831,8 @@ lando.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
-firefox.settings.services.mozilla.com
 addons.allizom.org
+firefox.settings.services.mozilla.com
 phabricator.allizom.org
 accounts.firefox.com
 addons.allizom.org
@@ -958,8 +958,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-*.grindr.com
 web.grindr.com
+*.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1058,7 +1058,7 @@ work-staging.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
 admin.8x8.com
-sso.8x8.com
+connect.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1111,8 +1111,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.moonpaycloud.com
 *.hypermint.com
+*.moonpaycloud.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1497,8 +1497,8 @@ download.krisp.ai
 analytics.krisp.ai
 upld.krisp.ai
 api.krisp.ai
-*.krisp.ai
 krisp.ai
+*.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1752,8 +1752,8 @@ api.taxjar.com
 js.stripe.com
 *.touchtechpayments.com
 *.stripe.com
-api.stripe.com
 app.taxjar.com
+api.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -2003,8 +2003,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 adm.cloud.com
 citrix.cloud.com
@@ -2052,9 +2052,9 @@ business.tiktok.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 tiktok.com
+partner.tiktokshop.com
 *.tiktok.com
 ads.tiktok.com
-partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2726,9 +2726,9 @@ payment.pixiv.net
 neoket.net
 novel.pixiv.net
 coban.pixiv.net
-booth.pm
 sketch.pixiv.net
 accounts.pixiv.net
+booth.pm
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -3034,13 +3034,13 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
+www.4njbets.com
+us.tvg.com
 tvg.com
 login.tvg.com
 www.tvg.com
 mobile-prod.tvg.com
 *racing.fanduel.com
-www.4njbets.com
-us.tvg.com
 fdbox.net
 *.fanduel.com
 *.fanduel.com
@@ -3073,13 +3073,6 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3088,6 +3081,13 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
 www.loanbuilder.com
@@ -3596,8 +3596,8 @@ cart.starbucks.co.jp
 www.starbucks.co.kr
 gift.starbucks.co.jp
 app.starbucks.com
-www.starbucks.com.cn
 www.starbucks.com
+www.starbucks.com.cn
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3735,10 +3735,10 @@ cashier.deriv.com
 secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.cloud
+*.derivws.com
 oauth.deriv.com
 derivws.com
 api.deriv.com
-*.derivws.com
 smarttrader.deriv.com
 app.deriv.com
 *.deriv.com
@@ -3819,9 +3819,9 @@ shopifyinbox.com
 *.shopify.io
 *.shopify.com
 admin.shopify.com
-your-store.myshopify.com
 accounts.shopify.com
 shop.app
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3944,8 +3944,8 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 www.hoteltonight.com
 *.airbnbcitizen.com
-api.airbnb.com
 *.withairbnb.com
+api.airbnb.com
 next.airbnb.com
 *.hoteltonight-test.com
 www.airbnb.com
@@ -4115,8 +4115,8 @@ pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
-institutional.coinbase.com
 api.coinbase.com
+institutional.coinbase.com
 *.base.org
 international.coinbase.com
 cloud.coinbase.com
@@ -4148,8 +4148,8 @@ www.quip.com
 slack-imgs.com
 slack.com
 *.quip.com
-api.slack.com
 app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4188,9 +4188,9 @@ cover-photos.hackerone-user-content.com
 a5s.hackerone-ext-content.com
 hackerone-user-content.com
 api.hackerone.com
+hackerone-ext-content.com
 www.wearehackerone.com
 www.hackerone.com
-hackerone-ext-content.com
 app.pullrequest.com
 errors.hackerone.net
 hackerone.com
@@ -4424,7 +4424,7 @@ alerts.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
 *.nr-ops.net
-one.newrelic.com
+*.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
