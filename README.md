@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 18 15:24:05 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 18 15:47:17 UTC 2024)
 ```
 www.dysoncanada.ca
 www.dyson.ie
@@ -314,8 +314,8 @@ webonboarding-eu.truecaller.com
 cards.remitly.io
 rewire.com
 api.remitly.io
-app.rewire.to
 rates.rewire.com
+app.rewire.to
 remitly.com
 remitly.com
 api.remitly.io
@@ -456,9 +456,9 @@ www.mercadopago.cl
 www.mercadopago.com.br
 api.mercadolibre.com
 www.mercadopago.com.ar
-www.mercadolivre.com.br
 www.mercadolibre.com.ar
 api.mercadopago.com
+www.mercadolivre.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -777,8 +777,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshservice.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -860,9 +860,9 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 hg.mozilla.org
 developer.mozilla.org
-monitor.mozilla.org
 support.mozilla.org
 www.mozilla.org
+monitor.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -930,8 +930,8 @@ ingest.clairvoyance.indrive.tech
 injob.indriver.com
 *.indrive.com
 watchdocs.indriverapp.com
-new-order.eu-east-1.indriverapp.com
 *.indriverapp.com
+new-order.eu-east-1.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -958,8 +958,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-*.grindr.com
 web.grindr.com
+*.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1111,8 +1111,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.hypermint.com
 *.moonpaycloud.com
+*.hypermint.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1732,9 +1732,9 @@ https://www.xvideos.net/app/
 www.elastic.co
 *.elasticnet.co
 *.eops.nl
+*.elastic.co
 *.swiftype.com
 cloud.elastic.co
-*.elastic.co
 *.elstc.co
 *.elastic.co
 *.found.io
@@ -1748,9 +1748,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
-*.touchtechpayments.com
 *.recko.io
 js.stripe.com
+*.touchtechpayments.com
 *.stripe.com
 api.stripe.com
 app.taxjar.com
@@ -1908,8 +1908,8 @@ status.larksuite.com
 passport.larksuite.com
 internal-api.larksuite.com
 internal-api-drive-stream.larksuite.com
-open.larksuite.com
 app.larksuite.com
+open.larksuite.com
 hackers_chosendomain.larksuite.com
 larksuite.com
 internal-api-lark-api.larksuite.com
@@ -1958,8 +1958,8 @@ internal-docs.netlify.com
 internal.netlify.com
 *.ops.netlify.com
 *.infra-prod.nsvcs.net
-api.netlify.com
 app.netlify.com
+api.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -2003,12 +2003,12 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-www.cloud.com
 (yoursubdomain).sharefile.com
+www.cloud.com
 (yoursubdomain).sharefile.eu
+secure.sharefile.com
 adm.cloud.com
 citrix.cloud.com
-secure.sharefile.com
 secure.sharefile.eu
 citrix.cloud.com
 www.cloud.com
@@ -2042,13 +2042,13 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 live-backstage.tiktok.com
 effecthouse.tiktok.com
-shop.tiktok.com
 academy-outbound-ads.tiktok.com
 developers.tiktok.com
+shop.tiktok.com
 careers.tiktok.com
+*.tiktok.com
 business.tiktok.com
 fp-sg.tiktokv.com
-*.tiktok.com
 creatormarketplace.tiktok.com
 www.pangleglobal.com
 partner.tiktokshop.com
@@ -2121,8 +2121,8 @@ api.faraday.ai
 *.devicelock.com
 *.acronis.work
 account.acronis.com
-*.5nine.com
 beta-cloud.acronis.com
+*.5nine.com
 *.acronis.com
 *-api-*.acronis.com
 *.acronis.com
@@ -2526,9 +2526,9 @@ www.alibabagroup.com
 *.1688.com
 *.aliyun.com
 *.tmall.com
-*.alibaba.com
 *.taobao.com
 *.aliexpress.com
+*.alibaba.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -3278,11 +3278,11 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-pay.crypto.com
 *.mona.co
 tax.crypto.com
 auth.crypto.com
 js.crypto.com
+pay.crypto.com
 www.crypto.com
 app.mona.co
 *.crypto.com
@@ -3418,13 +3418,13 @@ xtramile.grabpay.com
 wiki.grab.com
 grab.careers
 *.myteksi.com
-kartaview.org
 *.ovo.id
+kartaview.org
 api.grabpay.com
 *.myteksi.net
 *.grab.com
-jira.grab.com
 gifts.grab.com
+jira.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3595,8 +3595,8 @@ cart.starbucks.co.jp
 www.starbucks.co.kr
 gift.starbucks.co.jp
 app.starbucks.com
-www.starbucks.com
 www.starbucks.com.cn
+www.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3665,8 +3665,8 @@ npmjs.org
 gist.github.com
 npmjs.com
 *.githubusercontent.com
-api.github.com
 github.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3734,11 +3734,11 @@ cashier.deriv.com
 secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.cloud
+*.derivws.com
+*.deriv.com
 oauth.deriv.com
 derivws.com
 api.deriv.com
-*.derivws.com
-*.deriv.com
 smarttrader.deriv.com
 app.deriv.com
 *.deriv.com
@@ -3819,8 +3819,8 @@ partners.shopify.com
 admin.shopify.com
 shopifyinbox.com
 shop.app
-your-store.myshopify.com
 accounts.shopify.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3943,12 +3943,12 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 www.hoteltonight.com
 *.airbnbcitizen.com
-*.withairbnb.com
 api.airbnb.com
+*.withairbnb.com
 next.airbnb.com
 *.hoteltonight-test.com
-*.airbnb.com
 www.airbnb.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4048,7 +4048,6 @@ cloudflareworkers.com
 api.cloudflare.com
 waf.cumulusfire.net
 one.dash.cloudflare.com
-*.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
@@ -4148,8 +4147,8 @@ www.quip.com
 slack-imgs.com
 slack.com
 *.quip.com
-app.slack.com
 api.slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4190,10 +4189,10 @@ app.pullrequest.com
 a5s.hackerone-ext-content.com
 hackerone-user-content.com
 api.hackerone.com
-hackerone.com
 www.wearehackerone.com
 www.hackerone.com
 hackerone-ext-content.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
