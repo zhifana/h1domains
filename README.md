@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 18 21:19:23 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 18 21:43:48 UTC 2024)
 ```
 www.dysoncanada.ca
 www.dyson.ie
@@ -312,8 +312,8 @@ video-callerid-eu.truecaller.com
 webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
-rewire.com
 api.remitly.io
+rewire.com
 rates.rewire.com
 app.rewire.to
 remitly.com
@@ -431,8 +431,8 @@ mediacenter.23andme.com
 medical.23andme.com
 research.23andme.com
 therapeutics.23andme.com
-you.23andme.com
 store.23andme.com
+you.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -455,10 +455,10 @@ www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadopago.com.br
 www.mercadolivre.com.br
-api.mercadopago.com
 api.mercadolibre.com
-www.mercadopago.com.ar
 www.mercadolibre.com.ar
+www.mercadopago.com.ar
+api.mercadopago.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -497,8 +497,8 @@ secure-supply-xml.booking.com
 taxi.booking.com
 cars.booking.com
 kyc-onboarding.booking.com
-widget.rentalcars.com
 booking.com
+widget.rentalcars.com
 secure.booking.com
 spark.fareharbor.com
 admin.booking.com
@@ -506,8 +506,8 @@ careers.booking.com
 account.booking.com
 flights.booking.com
 *.rentalcars.com
-*.booking.com
 www.fareharbor.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -831,8 +831,8 @@ lando.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
-addons.allizom.org
 firefox.settings.services.mozilla.com
+addons.allizom.org
 phabricator.allizom.org
 accounts.firefox.com
 addons.allizom.org
@@ -1057,8 +1057,8 @@ sso.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
-admin.8x8.com
 connect.8x8.com
+*.jitsi.net
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1111,8 +1111,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.hypermint.com
 *.moonpaycloud.com
+*.hypermint.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1238,9 +1238,9 @@ askpam.ai
 pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
+insights.deribit.com
 *.deribit.com
 test.deribit.com
-insights.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1469,8 +1469,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -3033,14 +3033,14 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
+us.tvg.com
 ia.tvg.com
 www.4njbets.com
-us.tvg.com
 tvg.com
-login.tvg.com
-www.tvg.com
 mobile-prod.tvg.com
+login.tvg.com
 *racing.fanduel.com
+www.tvg.com
 fdbox.net
 *.fanduel.com
 *.fanduel.com
@@ -3073,6 +3073,13 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3081,13 +3088,6 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
 www.loanbuilder.com
@@ -3735,10 +3735,10 @@ cashier.deriv.com
 secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.cloud
-*.derivws.com
 oauth.deriv.com
 derivws.com
 api.deriv.com
+*.derivws.com
 smarttrader.deriv.com
 app.deriv.com
 *.deriv.com
@@ -3816,12 +3816,12 @@ arrive-server.shopifycloud.com
 *.shopifycloud.com
 partners.shopify.com
 shopifyinbox.com
+accounts.shopify.com
 *.shopify.io
 *.shopify.com
 admin.shopify.com
-accounts.shopify.com
-shop.app
 your-store.myshopify.com
+shop.app
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -4148,8 +4148,8 @@ www.quip.com
 slack-imgs.com
 slack.com
 *.quip.com
-app.slack.com
 api.slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4385,8 +4385,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 magento.com
 marketplace.magento.com
 magentocommerce.com
@@ -4424,7 +4424,7 @@ alerts.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
 *.nr-ops.net
-*.newrelic.com
+rpm.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
