@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 18 01:51:33 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 18 02:24:58 UTC 2024)
 ```
 www.dysoncanada.ca
 www.dyson.ie
@@ -499,8 +499,8 @@ secure-supply-xml.booking.com
 taxi.booking.com
 cars.booking.com
 kyc-onboarding.booking.com
-booking.com
 widget.rentalcars.com
+booking.com
 secure.booking.com
 spark.fareharbor.com
 www.fareharbor.com
@@ -895,8 +895,8 @@ hiltonlocalbiz.com
 *.hilton.com.tr
 hilton.io
 *.hiltonbusinessonline.com
-hiltonhotels.jp
 *.hilton.io
+hiltonhotels.jp
 hilton.com
 *.hilton.com
 *.hilton.com
@@ -963,8 +963,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-web.grindr.com
 *.grindr.com
+web.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1116,8 +1116,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.moonpaycloud.com
 *.hypermint.com
+*.moonpaycloud.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1176,8 +1176,8 @@ www.flights.com
 www.expediapartnersolutions.com
 www.fewo-direkt.de
 *.vrbo.com
-*.hotwire.com
 *.travelocity.com
+*.hotwire.com
 www.expedia.com
 *.expediacruises.com
 *.vrbo.com
@@ -1208,8 +1208,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.io
 magiceden.io
-*.magiceden.workers.dev
 *.magiceden.dev
+*.magiceden.workers.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1798,8 +1798,8 @@ redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
-*.reddit.com
 matrix.redditspace.com
+*.reddit.com
 ads.reddit.com
 *.reddithelp.com
 www.reddit.com
@@ -1962,8 +1962,8 @@ internal-docs.netlify.com
 *.services-prod.nsvcs.net
 internal.netlify.com
 *.ops.netlify.com
-api.netlify.com
 *.infra-prod.nsvcs.net
+api.netlify.com
 app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
@@ -2047,9 +2047,9 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 live-backstage.tiktok.com
 effecthouse.tiktok.com
+shop.tiktok.com
 academy-outbound-ads.tiktok.com
 developers.tiktok.com
-shop.tiktok.com
 careers.tiktok.com
 www.pangleglobal.com
 creatormarketplace.tiktok.com
@@ -2541,9 +2541,9 @@ www.alibabagroup.com
 *.alibabacloud.com
 *.tmall.com
 *.Daraz.com
+*.aliexpress.com
 *.alibaba.com
 *.taobao.com
-*.aliexpress.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -3047,14 +3047,14 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
-us.tvg.com
 ia.tvg.com
 www.4njbets.com
+us.tvg.com
 tvg.com
-mobile-prod.tvg.com
 login.tvg.com
-*racing.fanduel.com
 www.tvg.com
+mobile-prod.tvg.com
+*racing.fanduel.com
 *.fanduel.com
 fdbox.net
 *.fanduel.com
@@ -3105,12 +3105,12 @@ pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
-*.paypalcorp.com
 www.loanbuilder.com
 my.swiftfinancial.com
+*.paypalcorp.com
+*.venmo.com
 *.braintreegateway.com
 paypalobjects.com
-*.venmo.com
 *.braintreepayments.com
 *.paypal.com
 www.paypal-*.com
@@ -3294,9 +3294,9 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-auth.crypto.com
 *.mona.co
 tax.crypto.com
+auth.crypto.com
 app.mona.co
 js.crypto.com
 pay.crypto.com
@@ -3829,14 +3829,14 @@ shopify.plus
 arrive-server.shopifycloud.com
 *.shopifycs.com
 shopifyinbox.com
-accounts.shopify.com
 *.shopifycloud.com
+accounts.shopify.com
 partners.shopify.com
 shop.app
 *.shopify.io
-your-store.myshopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3875,10 +3875,10 @@ rt.playcanvas.com
 store.playcanvas.com
 playcanv.as
 *.sc-corp.net
-login.playcanvas.com
 ads.snapchat.com
-accounts.snapchat.com
+login.playcanvas.com
 app.snapchat.com
+accounts.snapchat.com
 web.snapchat.com
 business.snapchat.com
 geofilters.snapchat.com
@@ -3960,8 +3960,8 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 www.hoteltonight.com
 *.airbnbcitizen.com
-api.airbnb.com
 *.withairbnb.com
+api.airbnb.com
 next.airbnb.com
 *.airbnb.com
 www.airbnb.com
@@ -4126,11 +4126,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
+api.coinbase.com
 institutional.coinbase.com
 *.base.org
 international.coinbase.com
@@ -4206,9 +4206,9 @@ cover-photos.hackerone-user-content.com
 app.pullrequest.com
 a5s.hackerone-ext-content.com
 api.hackerone.com
-hackerone.com
 hackerone-user-content.com
 www.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4390,8 +4390,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 magento.com
 marketplace.magento.com
 magentocommerce.com
