@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 18 21:43:48 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 18 22:19:05 UTC 2024)
 ```
 www.dysoncanada.ca
 www.dyson.ie
@@ -456,9 +456,9 @@ www.mercadopago.cl
 www.mercadopago.com.br
 www.mercadolivre.com.br
 api.mercadolibre.com
-www.mercadolibre.com.ar
 www.mercadopago.com.ar
 api.mercadopago.com
+www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -497,8 +497,8 @@ secure-supply-xml.booking.com
 taxi.booking.com
 cars.booking.com
 kyc-onboarding.booking.com
-booking.com
 widget.rentalcars.com
+booking.com
 secure.booking.com
 spark.fareharbor.com
 admin.booking.com
@@ -506,8 +506,8 @@ careers.booking.com
 account.booking.com
 flights.booking.com
 *.rentalcars.com
-www.fareharbor.com
 *.booking.com
+www.fareharbor.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -929,8 +929,8 @@ ingest.clairvoyance.indrive.tech
 injob.indriver.com
 *.indrive.com
 watchdocs.indriverapp.com
-*.indriverapp.com
 new-order.eu-east-1.indriverapp.com
+*.indriverapp.com
 *.indriver.com
 *.indriverapp.com
 *.indrive.com
@@ -958,8 +958,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-web.grindr.com
 *.grindr.com
+web.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1027,9 +1027,9 @@ cfapi.voikukka.fi
 auth.skypicker.com
 jobs.kiwi.com
 www.kiwi.com
-*.skypicker.com
 *.kiwi.com
 tequila.kiwi.com
+*.skypicker.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1058,7 +1058,6 @@ work-staging.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
 connect.8x8.com
-*.jitsi.net
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1111,8 +1110,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.moonpaycloud.com
 *.hypermint.com
+*.moonpaycloud.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1239,8 +1238,8 @@ pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
 insights.deribit.com
-*.deribit.com
 test.deribit.com
+*.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1469,8 +1468,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -2047,14 +2046,14 @@ developers.tiktok.com
 careers.tiktok.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
-*.tiktokv.com
 business.tiktok.com
+*.tiktokv.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 tiktok.com
-partner.tiktokshop.com
-*.tiktok.com
 ads.tiktok.com
+*.tiktok.com
+partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2121,8 +2120,8 @@ api.faraday.ai
 *.devicelock.com
 *.acronis.work
 beta-cloud.acronis.com
-account.acronis.com
 *.5nine.com
+account.acronis.com
 *.acronis.com
 *-api-*.acronis.com
 *.acronis.com
@@ -2624,8 +2623,8 @@ moments.marriottbonvoy.com
 help.marriott.com
 mipartnerprivileges.marriott.com
 travelagents.marriott.com/
-traveler.marriott.com
 activities.marriott.com
+traveler.marriott.com
 www.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
@@ -3033,14 +3032,14 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
-us.tvg.com
 ia.tvg.com
-www.4njbets.com
 tvg.com
 mobile-prod.tvg.com
 login.tvg.com
 *racing.fanduel.com
 www.tvg.com
+us.tvg.com
+www.4njbets.com
 fdbox.net
 *.fanduel.com
 *.fanduel.com
@@ -3279,11 +3278,11 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
+pay.crypto.com
 *.mona.co
 tax.crypto.com
 auth.crypto.com
 js.crypto.com
-pay.crypto.com
 www.crypto.com
 app.mona.co
 *.crypto.com
@@ -3419,8 +3418,8 @@ xtramile.grabpay.com
 wiki.grab.com
 grab.careers
 *.myteksi.com
-kartaview.org
 *.ovo.id
+kartaview.org
 api.grabpay.com
 *.myteksi.net
 *.grab.com
@@ -3666,8 +3665,8 @@ npmjs.org
 gist.github.com
 npmjs.com
 *.githubusercontent.com
-api.github.com
 github.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3735,10 +3734,10 @@ cashier.deriv.com
 secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.cloud
+*.derivws.com
 oauth.deriv.com
 derivws.com
 api.deriv.com
-*.derivws.com
 smarttrader.deriv.com
 app.deriv.com
 *.deriv.com
@@ -3818,10 +3817,10 @@ partners.shopify.com
 shopifyinbox.com
 accounts.shopify.com
 *.shopify.io
-*.shopify.com
 admin.shopify.com
-your-store.myshopify.com
+*.shopify.com
 shop.app
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -4115,8 +4114,8 @@ pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
-api.coinbase.com
 institutional.coinbase.com
+api.coinbase.com
 *.base.org
 international.coinbase.com
 cloud.coinbase.com
@@ -4188,9 +4187,9 @@ cover-photos.hackerone-user-content.com
 a5s.hackerone-ext-content.com
 hackerone-user-content.com
 api.hackerone.com
-hackerone-ext-content.com
 www.wearehackerone.com
 www.hackerone.com
+hackerone-ext-content.com
 app.pullrequest.com
 errors.hackerone.net
 hackerone.com
@@ -4385,8 +4384,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 magento.com
 marketplace.magento.com
 magentocommerce.com
@@ -4424,7 +4423,7 @@ alerts.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
 *.nr-ops.net
-rpm.newrelic.com
+*.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
