@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 18 02:24:58 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 18 02:41:34 UTC 2024)
 ```
 www.dysoncanada.ca
 www.dyson.ie
@@ -410,8 +410,8 @@ logo.zyro.com
 payments.hostinger.com
 www.niagahoster.co.id
 cpanel.hostinger.com
-www.hostinger.com
 *.000webhost.com
+www.hostinger.com
 hpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
@@ -457,8 +457,8 @@ www.mercadopago.cl
 www.mercadopago.com.br
 api.mercadopago.com
 api.mercadolibre.com
-www.mercadopago.com.ar
 www.mercadolivre.com.br
+www.mercadopago.com.ar
 www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -499,8 +499,8 @@ secure-supply-xml.booking.com
 taxi.booking.com
 cars.booking.com
 kyc-onboarding.booking.com
-widget.rentalcars.com
 booking.com
+widget.rentalcars.com
 secure.booking.com
 spark.fareharbor.com
 www.fareharbor.com
@@ -832,9 +832,9 @@ merino.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
-firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
+firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 addons.allizom.org
 phabricator.allizom.org
@@ -895,8 +895,8 @@ hiltonlocalbiz.com
 *.hilton.com.tr
 hilton.io
 *.hiltonbusinessonline.com
-*.hilton.io
 hiltonhotels.jp
+*.hilton.io
 hilton.com
 *.hilton.com
 *.hilton.com
@@ -1013,9 +1013,9 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
-mobile.s-pankki.fi
 www.s-pankki.fi
 www.prisma.fi
+mobile.s-pankki.fi
 online.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
@@ -1116,8 +1116,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.hypermint.com
 *.moonpaycloud.com
+*.hypermint.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1176,8 +1176,8 @@ www.flights.com
 www.expediapartnersolutions.com
 www.fewo-direkt.de
 *.vrbo.com
-*.travelocity.com
 *.hotwire.com
+*.travelocity.com
 www.expedia.com
 *.expediacruises.com
 *.vrbo.com
@@ -1208,8 +1208,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.io
 magiceden.io
-*.magiceden.dev
 *.magiceden.workers.dev
+*.magiceden.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1474,8 +1474,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1798,8 +1798,8 @@ redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
-matrix.redditspace.com
 *.reddit.com
+matrix.redditspace.com
 ads.reddit.com
 *.reddithelp.com
 www.reddit.com
@@ -2008,12 +2008,12 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
-secure.sharefile.com
 adm.cloud.com
 citrix.cloud.com
+secure.sharefile.com
 secure.sharefile.eu
 citrix.cloud.com
 www.cloud.com
@@ -2700,8 +2700,8 @@ www.datastax.com
 downloads.datastax.com
 docs.datastax.com
 astra.datastax.com
-*.nordvpn.com
 app.nordpass.com
+*.nordvpn.com
 *.nordvpn.com
 app.nordpass.com
 *.line.me
@@ -3047,14 +3047,14 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
+us.tvg.com
 ia.tvg.com
 www.4njbets.com
-us.tvg.com
 tvg.com
-login.tvg.com
-www.tvg.com
 mobile-prod.tvg.com
+login.tvg.com
 *racing.fanduel.com
+www.tvg.com
 *.fanduel.com
 fdbox.net
 *.fanduel.com
@@ -3088,6 +3088,13 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3096,21 +3103,14 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
 www.loanbuilder.com
 my.swiftfinancial.com
 *.paypalcorp.com
 *.venmo.com
-*.braintreegateway.com
 paypalobjects.com
+*.braintreegateway.com
 *.braintreepayments.com
 *.paypal.com
 www.paypal-*.com
@@ -3435,10 +3435,10 @@ xtramile.grabpay.com
 wiki.grab.com
 grab.careers
 *.myteksi.com
-jira.grab.com
 *.grab.com
-*.ovo.id
+jira.grab.com
 gifts.grab.com
+*.ovo.id
 kartaview.org
 api.grabpay.com
 *.myteksi.com
@@ -3829,14 +3829,14 @@ shopify.plus
 arrive-server.shopifycloud.com
 *.shopifycs.com
 shopifyinbox.com
-*.shopifycloud.com
 accounts.shopify.com
+*.shopifycloud.com
 partners.shopify.com
 shop.app
 *.shopify.io
-*.shopify.com
-admin.shopify.com
 your-store.myshopify.com
+admin.shopify.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3875,10 +3875,10 @@ rt.playcanvas.com
 store.playcanvas.com
 playcanv.as
 *.sc-corp.net
-ads.snapchat.com
 login.playcanvas.com
-app.snapchat.com
+ads.snapchat.com
 accounts.snapchat.com
+app.snapchat.com
 web.snapchat.com
 business.snapchat.com
 geofilters.snapchat.com
@@ -4390,8 +4390,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 magento.com
 marketplace.magento.com
 magentocommerce.com
