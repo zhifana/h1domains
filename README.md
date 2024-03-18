@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 18 18:01:57 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 18 18:29:02 UTC 2024)
 ```
 www.dysoncanada.ca
 www.dyson.ie
@@ -454,11 +454,11 @@ www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadopago.com.br
-www.mercadolibre.com.ar
 www.mercadolivre.com.br
 api.mercadolibre.com
-api.mercadopago.com
 www.mercadopago.com.ar
+api.mercadopago.com
+www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -506,8 +506,8 @@ careers.booking.com
 account.booking.com
 flights.booking.com
 *.rentalcars.com
-www.fareharbor.com
 *.booking.com
+www.fareharbor.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -572,8 +572,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicex.com
 test.nicehash.com
+test.nicex.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -776,8 +776,8 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
-yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
+yourdomain.myfreshworks.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -796,8 +796,8 @@ app.avtoelon.uz
 id.avtoelon.uz
 m.kolesa.kz
 api.krisha.kz
-kolesa.kz
 avtoelon.uz
+kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -1008,9 +1008,9 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
-mobile.s-pankki.fi
 www.s-pankki.fi
 www.prisma.fi
+mobile.s-pankki.fi
 online.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
@@ -1203,8 +1203,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.dev
 *.magiceden.workers.dev
-*.magiceden.io
 magiceden.io
+*.magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1732,8 +1732,8 @@ https://www.xvideos.net/app/
 www.elastic.co
 *.elasticnet.co
 *.eops.nl
-*.swiftype.com
 *.elastic.co
+*.swiftype.com
 *.elstc.co
 cloud.elastic.co
 *.elastic.co
@@ -1908,8 +1908,8 @@ status.larksuite.com
 passport.larksuite.com
 internal-api.larksuite.com
 internal-api-drive-stream.larksuite.com
-open.larksuite.com
 app.larksuite.com
+open.larksuite.com
 hackers_chosendomain.larksuite.com
 internal-api-lark-api.larksuite.com
 larksuite.com
@@ -2003,8 +2003,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 adm.cloud.com
 citrix.cloud.com
@@ -2047,12 +2047,12 @@ academy-outbound-ads.tiktok.com
 developers.tiktok.com
 careers.tiktok.com
 fp-sg.tiktokv.com
-creatormarketplace.tiktok.com
-www.pangleglobal.com
 tiktok.com
-business.tiktok.com
+www.pangleglobal.com
+creatormarketplace.tiktok.com
 *.tiktokv.com
 ads.tiktok.com
+business.tiktok.com
 partner.tiktokshop.com
 *.tiktok.com
 *.tiktok.com
@@ -2282,8 +2282,8 @@ ca.account.sony.com
 *.sonyentertainmentnetwork.com
 my.account.sony.com
 *.playstation.net
-my.playstation.com
 *.api.playstation.com
+my.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2416,6 +2416,7 @@ prod-dp-discovery-us-east-1.amazon.com
 rabbitinstruction-na.amazon.com
 relay.amazon.com
 sellercentral.amazon.com
+spapi-na.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2623,8 +2624,8 @@ moments.marriottbonvoy.com
 help.marriott.com
 mipartnerprivileges.marriott.com
 travelagents.marriott.com/
-traveler.marriott.com
 activities.marriott.com
+traveler.marriott.com
 www.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
@@ -3033,13 +3034,13 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
+www.4njbets.com
+us.tvg.com
 tvg.com
 login.tvg.com
 www.tvg.com
 mobile-prod.tvg.com
 *racing.fanduel.com
-www.4njbets.com
-us.tvg.com
 *.fanduel.com
 fdbox.net
 *.fanduel.com
@@ -3072,6 +3073,13 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3080,13 +3088,6 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
 www.loanbuilder.com
@@ -3094,9 +3095,9 @@ my.swiftfinancial.com
 *.paypalcorp.com
 *.venmo.com
 *.braintreegateway.com
-*.braintreepayments.com
 *.xoom.com
 paypalobjects.com
+*.braintreepayments.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3479,8 +3480,8 @@ ccardsus1.badoo.com
 chatdate.app
 getofficial.co
 backstage.io
-assets.spotify.com
 api.spotify.com
+assets.spotify.com
 assets.spotify.com
 api.spotify.com
 backstage.io
@@ -3665,8 +3666,8 @@ npmjs.org
 gist.github.com
 npmjs.com
 *.githubusercontent.com
-api.github.com
 github.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3734,9 +3735,9 @@ cashier.deriv.com
 secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.cloud
-oauth.deriv.com
 derivws.com
 api.deriv.com
+oauth.deriv.com
 *.derivws.com
 *.deriv.com
 smarttrader.deriv.com
@@ -3817,10 +3818,10 @@ partners.shopify.com
 *.shopify.io
 shopifyinbox.com
 accounts.shopify.com
-your-store.myshopify.com
 admin.shopify.com
-*.shopify.com
 shop.app
+your-store.myshopify.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3859,14 +3860,14 @@ rt.playcanvas.com
 store.playcanvas.com
 playcanv.as
 *.sc-corp.net
-login.playcanvas.com
 ads.snapchat.com
-app.snapchat.com
+login.playcanvas.com
 accounts.snapchat.com
 web.snapchat.com
 geofilters.snapchat.com
 playcanvas.com
 business.snapchat.com
+app.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -4032,8 +4033,8 @@ api.x.ai
 ide.x.ai
 grok.x.ai
 x.com
-*.twitter.com
 *.twimg.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
