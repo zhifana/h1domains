@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 19 13:23:55 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar 19 13:45:59 UTC 2024)
 ```
 www.dysoncanada.ca
 www.dyson.ie
@@ -777,9 +777,9 @@ www.visainfinite.ca
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
-yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshchat.com
+yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -820,7 +820,6 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-push.services.mozilla.com
 crash-reports.allizom.org
 crash-stats.allizom.org
 hg.mozilla.org
@@ -832,11 +831,12 @@ lando.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
-firefox.settings.services.mozilla.com
 addons.allizom.org
 phabricator.allizom.org
 bugzilla.mozilla.org
 accounts.firefox.com
+firefox.settings.services.mozilla.com
+push.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -862,9 +862,9 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 hg.mozilla.org
 developer.mozilla.org
-support.mozilla.org
-monitor.mozilla.org
 www.mozilla.org
+monitor.mozilla.org
+support.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -1010,9 +1010,9 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
+mobile.s-pankki.fi
 www.s-pankki.fi
 www.prisma.fi
-mobile.s-pankki.fi
 online.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
@@ -1166,17 +1166,17 @@ www.abritel.fr
 www.bookabach.co.nz
 www.stayz.com.au
 www.expediagroup.com
-www.flights.com
 *.expediapartnercentral.com
 www.expediapartnersolutions.com
 *.carrentals.com
 *.travelocity.ca
 *.travelocity.com
 www.fewo-direkt.de
-*.vrbo.com
 www.expedia.com
 *.expediacruises.com
+www.flights.com
 *.hotwire.com
+*.vrbo.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1298,9 +1298,9 @@ www.dolap.com
 www.trendyol-milla.com
 *.sidefx.com
 *.sidefx.com
+snaps.metamask.io
 portfolio.metamask.io
 metamask.io
-snaps.metamask.io
 metamask.io
 snaps.metamask.io
 portfolio.metamask.io
@@ -2005,8 +2005,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-www.cloud.com
 (yoursubdomain).sharefile.com
+www.cloud.com
 (yoursubdomain).sharefile.eu
 adm.cloud.com
 citrix.cloud.com
@@ -2053,10 +2053,10 @@ business.tiktok.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 partner.tiktokshop.com
-ads.tiktok.com
-tiktok.com
 *.tiktokv.com
 *.tiktok.com
+tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2879,8 +2879,8 @@ vault.omise.co
 api.omise.co
 offsite.omise.co
 www.opn.ooo
-dashboard.omise.co
 www.omise.co
+dashboard.omise.co
 vault.omise.co
 api.omise.co
 dashboard.omise.co
@@ -3036,13 +3036,13 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
+www.4njbets.com
+us.tvg.com
 tvg.com
 login.tvg.com
 www.tvg.com
 mobile-prod.tvg.com
 *racing.fanduel.com
-www.4njbets.com
-us.tvg.com
 fdbox.net
 *.fanduel.com
 sportsbook.fanduel.com
@@ -3282,9 +3282,9 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-auth.crypto.com
 *.mona.co
 tax.crypto.com
+auth.crypto.com
 js.crypto.com
 pay.crypto.com
 www.crypto.com
@@ -3669,8 +3669,8 @@ npmjs.org
 gist.github.com
 npmjs.com
 *.githubusercontent.com
-github.com
 api.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3738,11 +3738,11 @@ cashier.deriv.com
 secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.cloud
-*.derivws.com
 derivws.com
+*.derivws.com
 smarttrader.deriv.com
-api.deriv.com
 *.deriv.com
+api.deriv.com
 oauth.deriv.com
 app.deriv.com
 *.deriv.com
@@ -3820,11 +3820,11 @@ arrive-server.shopifycloud.com
 shopifyinbox.com
 *.shopify.io
 partners.shopify.com
-admin.shopify.com
 shop.app
 your-store.myshopify.com
 accounts.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -4114,12 +4114,12 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
-api.coinbase.com
 *.base.org
 international.coinbase.com
 cloud.coinbase.com
@@ -4188,8 +4188,8 @@ ctf.hacker101.com
 cover-photos.hackerone-user-content.com
 a5s.hackerone-ext-content.com
 api.hackerone.com
-www.wearehackerone.com
 hackerone-ext-content.com
+www.wearehackerone.com
 app.pullrequest.com
 errors.hackerone.net
 hackerone-user-content.com
@@ -4426,7 +4426,7 @@ alerts.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
 *.nr-ops.net
-rpm.newrelic.com
+one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
