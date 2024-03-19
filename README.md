@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 19 14:28:47 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar 19 14:46:49 UTC 2024)
 ```
 www.dysoncanada.ca
 www.dyson.ie
@@ -822,21 +822,21 @@ api.tideplatform.in
 api.tideplatform.in
 firefox.settings.services.mozilla.com
 push.services.mozilla.com
-shavar.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 lando.services.mozilla.com
 crash-reports.allizom.org
 sync.services.mozilla.com
-merino.services.mozilla.com
-aus5.mozilla.org
 contile.services.mozilla.com
-accounts.firefox.com
+merino.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
-phabricator.allizom.org
 addons.allizom.org
+hg.mozilla.org
 crash-stats.allizom.org
 bugzilla.mozilla.org
-hg.mozilla.org
+phabricator.allizom.org
+aus5.mozilla.org
+accounts.firefox.com
+shavar.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -858,13 +858,13 @@ monitor.mozilla.org
 community-tc.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 www.mozilla.org
-relay.firefox.com
 api.profiler.firefox.com
+relay.firefox.com
 vpn.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
-support.mozilla.org
 hg.mozilla.org
+support.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -931,9 +931,9 @@ ingest.clairvoyance.indrive.tech
 injob.indriver.com
 watchdocs.indriverapp.com
 new-order.eu-east-1.indriverapp.com
-*.indriverapp.com
 *.indriver.com
 *.indrive.com
+*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -960,8 +960,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-web.grindr.com
 *.grindr.com
+web.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1175,8 +1175,8 @@ www.fewo-direkt.de
 www.expedia.com
 *.expediacruises.com
 www.flights.com
-*.hotwire.com
 *.vrbo.com
+*.hotwire.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -2122,8 +2122,8 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.acronis.work
-account.acronis.com
 *.5nine.com
+account.acronis.com
 *.acronis.com
 beta-cloud.acronis.com
 *-api-*.acronis.com
@@ -2603,7 +2603,6 @@ www.32red.com
 unibet.me
 maria.casino
 www.32red.com
-homes-and-villas.marriott.com
 all-inclusive.marriott.com
 reservations.all-inclusive.marriott.com
 marrtool.com
@@ -2629,6 +2628,7 @@ travelagents.marriott.com/
 activities.marriott.com
 www.marriott.com
 traveler.marriott.com
+homes-and-villas.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -3035,14 +3035,14 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
-us.tvg.com
 ia.tvg.com
-www.4njbets.com
 tvg.com
-mobile-prod.tvg.com
 login.tvg.com
-*racing.fanduel.com
 www.tvg.com
+mobile-prod.tvg.com
+*racing.fanduel.com
+www.4njbets.com
+us.tvg.com
 fdbox.net
 *.fanduel.com
 sportsbook.fanduel.com
@@ -3076,6 +3076,13 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3084,13 +3091,6 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
 www.loanbuilder.com
@@ -3261,12 +3261,12 @@ support.steampowered.com
 partner.steampowered.com
 partner.steamgames.com
 playartifact.com
-www.teamfortress.com
 help.steampowered.com
+www.teamfortress.com
 www.counter-strike.net
-api.steampowered.com
 www.dota2.com
 steamcommunity.com
+api.steampowered.com
 www.valvesoftware.com
 store.steampowered.com
 www.dota2.com
@@ -3427,8 +3427,8 @@ api.grabpay.com
 gifts.grab.com
 *.myteksi.net
 *.grab.com
-jira.grab.com
 *.ovo.id
+jira.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3741,10 +3741,10 @@ secure-dfadmin.deriv.com
 derivws.com
 *.derivws.com
 smarttrader.deriv.com
-*.deriv.com
 api.deriv.com
 oauth.deriv.com
 app.deriv.com
+*.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3822,9 +3822,9 @@ shopifyinbox.com
 partners.shopify.com
 accounts.shopify.com
 your-store.myshopify.com
-shop.app
 *.shopify.com
 admin.shopify.com
+shop.app
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3865,12 +3865,12 @@ playcanv.as
 *.sc-corp.net
 login.playcanvas.com
 accounts.snapchat.com
-web.snapchat.com
 geofilters.snapchat.com
 playcanvas.com
 business.snapchat.com
 app.snapchat.com
 ads.snapchat.com
+web.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -4035,8 +4035,8 @@ api.x.ai
 ide.x.ai
 grok.x.ai
 *.twimg.com
-x.com
 *.twitter.com
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4045,12 +4045,12 @@ x.com
 api.x.ai
 grok.x.ai
 ide.x.ai
-dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
 api.cloudflare.com
 waf.cumulusfire.net
 one.dash.cloudflare.com
+*.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
@@ -4404,7 +4404,6 @@ apply.opentech.fund
 sandbox.opentech.fund
 www.opentech.fund
 apply.opentech.fund
-insights.newrelic.com
 infrastructure.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -4424,8 +4423,9 @@ alerts.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
 *.nr-ops.net
-rpm.newrelic.com
 one.newrelic.com
+synthetics.newrelic.com
+rpm.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
