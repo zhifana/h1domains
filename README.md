@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 19 21:18:49 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar 19 21:42:12 UTC 2024)
 ```
 www.dyson.ie
 www.dyson.ch
@@ -312,11 +312,11 @@ webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
 rates.rewire.com
-rewire.com
 app3.rewire.to
-remitly.com
-api.remitly.io
 app.rewire.to
+api.remitly.io
+rewire.com
+remitly.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -457,9 +457,9 @@ www.mercadolibre.com.co
 api.mercadopago.com
 www.mercadolibre.cl
 www.mercadolivre.com.br
+www.mercadolibre.com.ar
 www.mercadopago.com.ar
 api.mercadolibre.com
-www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -505,11 +505,11 @@ flights.booking.com
 www.fareharbor.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
-careers.booking.com
 *.booking.com
 booking.com
 account.booking.com
 *.rentalcars.com
+careers.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -575,8 +575,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -779,8 +779,8 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
-yourdomain.freshchat.com
 yourdomain.myfreshworks.com
+yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -822,17 +822,17 @@ api.tideplatform.in
 *.tide.co
 api.tideplatform.in
 firefox-ci-tc.services.mozilla.com
+phabricator.allizom.org
 addons.allizom.org
 crash-stats.allizom.org
 bugzilla.mozilla.org
-phabricator.allizom.org
 aus5.mozilla.org
 shavar.services.mozilla.com
 firefox.settings.services.mozilla.com
 push.services.mozilla.com
 crash-reports.allizom.org
-contile.services.mozilla.com
 merino.services.mozilla.com
+contile.services.mozilla.com
 lando.services.mozilla.com
 sync.services.mozilla.com
 hg.mozilla.org
@@ -932,9 +932,9 @@ injob.indriver.com
 watchdocs.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 *.indriver.com
+*.indriverapp.com
 *.indrive.com
 truck-api.eu-east-1.indriverapp.com
-*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -961,8 +961,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-*.grindr.com
 web.grindr.com
+*.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1011,9 +1011,9 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
-mobile.s-pankki.fi
 www.s-pankki.fi
 www.prisma.fi
+mobile.s-pankki.fi
 online.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
@@ -1172,10 +1172,10 @@ www.expediapartnersolutions.com
 *.carrentals.com
 *.travelocity.ca
 www.fewo-direkt.de
-*.travelocity.com
 www.expedia.com
-*.vrbo.com
+*.travelocity.com
 www.flights.com
+*.vrbo.com
 *.hotwire.com
 *.expediacruises.com
 *.vrbo.com
@@ -1299,9 +1299,9 @@ www.dolap.com
 www.trendyol-milla.com
 *.sidefx.com
 *.sidefx.com
-snaps.metamask.io
 portfolio.metamask.io
 metamask.io
+snaps.metamask.io
 metamask.io
 snaps.metamask.io
 portfolio.metamask.io
@@ -2009,9 +2009,9 @@ api.adm.cloud.com
 (yoursubdomain).sharefile.com
 www.cloud.com
 (yoursubdomain).sharefile.eu
-secure.sharefile.com
 adm.cloud.com
 citrix.cloud.com
+secure.sharefile.com
 secure.sharefile.eu
 citrix.cloud.com
 www.cloud.com
@@ -2055,9 +2055,9 @@ academy-outbound-ads.tiktok.com
 tiktok.com
 business.tiktok.com
 ads.tiktok.com
-careers.tiktok.com
 partner.tiktokshop.com
 *.tiktok.com
+careers.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2527,8 +2527,8 @@ www.alibabagroup.com
 *.alibabacloud.com
 *.1688.com
 *.tmall.com
-*.aliyun.com
 *.taobao.com
+*.aliyun.com
 *.aliexpress.com
 *.Daraz.com
 *.alibaba.com
@@ -3035,17 +3035,17 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
+us.tvg.com
 ia.tvg.com
 www.4njbets.com
-us.tvg.com
 tvg.com
-login.tvg.com
-www.tvg.com
 mobile-prod.tvg.com
+login.tvg.com
 *racing.fanduel.com
+www.tvg.com
 fdbox.net
-*.fanduel.com
 sportsbook.fanduel.com
+*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3282,9 +3282,9 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
+auth.crypto.com
 *.mona.co
 tax.crypto.com
-auth.crypto.com
 js.crypto.com
 pay.crypto.com
 www.crypto.com
@@ -3669,8 +3669,8 @@ npmjs.org
 gist.github.com
 *.githubusercontent.com
 api.github.com
-npmjs.com
 github.com
+npmjs.com
 github.com
 api.github.com
 gist.github.com
@@ -3820,9 +3820,9 @@ arrive-server.shopifycloud.com
 shopifyinbox.com
 *.shopify.io
 partners.shopify.com
+*.shopify.com
 accounts.shopify.com
 shop.app
-*.shopify.com
 your-store.myshopify.com
 admin.shopify.com
 *.shopifycs.com
@@ -3946,8 +3946,8 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 www.hoteltonight.com
 *.airbnbcitizen.com
-*.withairbnb.com
 api.airbnb.com
+*.withairbnb.com
 next.airbnb.com
 *.hoteltonight-test.com
 *.airbnb.com
@@ -4035,8 +4035,8 @@ api.x.ai
 ide.x.ai
 grok.x.ai
 *.twimg.com
-x.com
 *.twitter.com
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4113,12 +4113,12 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
+api.coinbase.com
 *.base.org
 international.coinbase.com
 cloud.coinbase.com
@@ -4186,8 +4186,8 @@ reviewer.pullrequest.com
 cover-photos.hackerone-user-content.com
 a5s.hackerone-ext-content.com
 api.hackerone.com
-hackerone-ext-content.com
 www.wearehackerone.com
+hackerone-ext-content.com
 app.pullrequest.com
 hackerone-user-content.com
 hackerone.live
