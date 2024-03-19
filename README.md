@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 19 02:24:38 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar 19 02:41:29 UTC 2024)
 ```
 www.dysoncanada.ca
 www.dyson.ie
@@ -506,8 +506,8 @@ admin.booking.com
 careers.booking.com
 account.booking.com
 flights.booking.com
-widget.rentalcars.com
 www.fareharbor.com
+widget.rentalcars.com
 *.booking.com
 *.rentalcars.com
 *.booking.com
@@ -574,8 +574,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicex.com
 test.nicehash.com
+test.nicex.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -830,11 +830,11 @@ merino.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
+firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
-firefox-ci-tc.services.mozilla.com
-firefox.settings.services.mozilla.com
 addons.allizom.org
+firefox.settings.services.mozilla.com
 phabricator.allizom.org
 accounts.firefox.com
 addons.allizom.org
@@ -931,8 +931,8 @@ ingest.clairvoyance.indrive.tech
 injob.indriver.com
 *.indrive.com
 watchdocs.indriverapp.com
-new-order.eu-east-1.indriverapp.com
 *.indriverapp.com
+new-order.eu-east-1.indriverapp.com
 *.indriver.com
 *.indriverapp.com
 *.indrive.com
@@ -960,8 +960,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-*.grindr.com
 web.grindr.com
+*.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1471,8 +1471,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -2124,8 +2124,8 @@ api.faraday.ai
 *.acronis.work
 beta-cloud.acronis.com
 *.5nine.com
-*.acronis.com
 account.acronis.com
+*.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -3035,14 +3035,14 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
+us.tvg.com
 ia.tvg.com
 www.4njbets.com
-us.tvg.com
 tvg.com
-login.tvg.com
-www.tvg.com
 mobile-prod.tvg.com
+login.tvg.com
 *racing.fanduel.com
+www.tvg.com
 fdbox.net
 *.fanduel.com
 *.fanduel.com
@@ -3260,12 +3260,12 @@ support.steampowered.com
 partner.steampowered.com
 partner.steamgames.com
 playartifact.com
-www.teamfortress.com
 help.steampowered.com
+www.teamfortress.com
 www.counter-strike.net
-api.steampowered.com
 www.dota2.com
 steamcommunity.com
+api.steampowered.com
 www.valvesoftware.com
 store.steampowered.com
 www.dota2.com
@@ -3482,8 +3482,8 @@ ccardsus1.badoo.com
 chatdate.app
 getofficial.co
 backstage.io
-assets.spotify.com
 api.spotify.com
+assets.spotify.com
 assets.spotify.com
 api.spotify.com
 backstage.io
@@ -3737,9 +3737,9 @@ cashier.deriv.com
 secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.cloud
-oauth.deriv.com
 derivws.com
 api.deriv.com
+oauth.deriv.com
 *.derivws.com
 smarttrader.deriv.com
 app.deriv.com
@@ -3862,8 +3862,8 @@ rt.playcanvas.com
 store.playcanvas.com
 playcanv.as
 *.sc-corp.net
-ads.snapchat.com
 login.playcanvas.com
+ads.snapchat.com
 accounts.snapchat.com
 web.snapchat.com
 geofilters.snapchat.com
@@ -4387,8 +4387,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 magento.com
 marketplace.magento.com
 magentocommerce.com
@@ -4426,7 +4426,7 @@ alerts.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
 *.nr-ops.net
-rpm.newrelic.com
+one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
