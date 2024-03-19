@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 19 04:22:08 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar 19 04:42:41 UTC 2024)
 ```
 www.dysoncanada.ca
 www.dyson.ie
@@ -314,10 +314,10 @@ webonboarding-eu.truecaller.com
 cards.remitly.io
 rates.rewire.com
 app.rewire.to
-remitly.com
 app3.rewire.to
 api.remitly.io
 rewire.com
+remitly.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -798,8 +798,8 @@ app.avtoelon.uz
 id.avtoelon.uz
 m.kolesa.kz
 api.krisha.kz
-avtoelon.uz
 kolesa.kz
+avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -1010,9 +1010,9 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
-mobile.s-pankki.fi
 www.s-pankki.fi
 www.prisma.fi
+mobile.s-pankki.fi
 online.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
@@ -2053,10 +2053,10 @@ business.tiktok.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 tiktok.com
-*.tiktok.com
 partner.tiktokshop.com
-ads.tiktok.com
+*.tiktok.com
 *.tiktokv.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2123,8 +2123,8 @@ api.faraday.ai
 *.devicelock.com
 *.acronis.work
 beta-cloud.acronis.com
-*.5nine.com
 account.acronis.com
+*.5nine.com
 *.acronis.com
 *-api-*.acronis.com
 *.acronis.com
@@ -2627,8 +2627,8 @@ help.marriott.com
 mipartnerprivileges.marriott.com
 travelagents.marriott.com/
 activities.marriott.com
-www.marriott.com
 traveler.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -3037,12 +3037,12 @@ service.tvg.com
 fanduel.design
 ia.tvg.com
 tvg.com
-mobile-prod.tvg.com
 login.tvg.com
-*racing.fanduel.com
 www.tvg.com
-us.tvg.com
+mobile-prod.tvg.com
+*racing.fanduel.com
 www.4njbets.com
+us.tvg.com
 fdbox.net
 *.fanduel.com
 *.fanduel.com
@@ -3092,11 +3092,11 @@ pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
+*.paypalcorp.com
 www.loanbuilder.com
 my.swiftfinancial.com
-*.paypalcorp.com
-*.venmo.com
 *.braintreegateway.com
+*.venmo.com
 *.xoom.com
 *.braintreepayments.com
 paypalobjects.com
@@ -3281,11 +3281,11 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-pay.crypto.com
+auth.crypto.com
 *.mona.co
 tax.crypto.com
-auth.crypto.com
 js.crypto.com
+pay.crypto.com
 www.crypto.com
 app.mona.co
 *.crypto.com
@@ -3640,10 +3640,10 @@ talk.brave.com
 account.brave.com
 rubygems.org
 rubygems.org
-*.yelp-support.com
 *.yelpwifi.com
 yelptop100.com
 *.yelp.com
+*.yelp-support.com
 *.yelp.com
 *.yelp-support.com
 *.yelpwifi.com
@@ -3737,10 +3737,10 @@ cashier.deriv.com
 secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.cloud
-*.derivws.com
 oauth.deriv.com
 derivws.com
 api.deriv.com
+*.derivws.com
 smarttrader.deriv.com
 app.deriv.com
 *.deriv.com
@@ -3821,9 +3821,9 @@ shopifyinbox.com
 *.shopify.io
 admin.shopify.com
 your-store.myshopify.com
-shop.app
 accounts.shopify.com
 *.shopify.com
+shop.app
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -4035,8 +4035,8 @@ api.x.ai
 ide.x.ai
 grok.x.ai
 *.twimg.com
-*.twitter.com
 x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4113,12 +4113,12 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
-api.coinbase.com
 *.base.org
 international.coinbase.com
 cloud.coinbase.com
