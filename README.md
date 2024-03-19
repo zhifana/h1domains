@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 19 09:43:59 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar 19 10:21:10 UTC 2024)
 ```
 www.dysoncanada.ca
 www.dyson.ie
@@ -458,9 +458,9 @@ www.mercadopago.cl
 www.mercadolivre.com.br
 www.mercadopago.com.br
 api.mercadolibre.com
-www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
+www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -960,8 +960,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-web.grindr.com
 *.grindr.com
+web.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -2055,8 +2055,8 @@ creatormarketplace.tiktok.com
 partner.tiktokshop.com
 ads.tiktok.com
 tiktok.com
-*.tiktokv.com
 *.tiktok.com
+*.tiktokv.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2122,10 +2122,10 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.acronis.work
-beta-cloud.acronis.com
-*.5nine.com
 account.acronis.com
+*.5nine.com
 *.acronis.com
+beta-cloud.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2820,7 +2820,7 @@ reservations.rezserver.com
 cruises.priceline.com
 www.getaroom.com
 press.priceline.com
-secure.rezserver.com
+www.bookingholdings.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3038,12 +3038,12 @@ service.tvg.com
 fanduel.design
 ia.tvg.com
 tvg.com
-mobile-prod.tvg.com
 login.tvg.com
-*racing.fanduel.com
 www.tvg.com
-us.tvg.com
+mobile-prod.tvg.com
+*racing.fanduel.com
 www.4njbets.com
+us.tvg.com
 fdbox.net
 *.fanduel.com
 *.fanduel.com
@@ -3076,6 +3076,13 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3084,13 +3091,6 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
 www.loanbuilder.com
@@ -3289,8 +3289,8 @@ auth.crypto.com
 js.crypto.com
 www.crypto.com
 app.mona.co
-merchant.crypto.com
 *.crypto.com
+merchant.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3483,8 +3483,8 @@ ccardsus1.badoo.com
 chatdate.app
 getofficial.co
 backstage.io
-api.spotify.com
 assets.spotify.com
+api.spotify.com
 assets.spotify.com
 api.spotify.com
 backstage.io
@@ -3741,10 +3741,10 @@ secure-dfadmin.deriv.com
 derivws.com
 *.derivws.com
 smarttrader.deriv.com
-app.deriv.com
 api.deriv.com
 oauth.deriv.com
 *.deriv.com
+app.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3820,11 +3820,11 @@ arrive-server.shopifycloud.com
 shopifyinbox.com
 *.shopify.io
 accounts.shopify.com
-*.shopify.com
-shop.app
 partners.shopify.com
 your-store.myshopify.com
 admin.shopify.com
+shop.app
+*.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -4151,8 +4151,8 @@ www.quip.com
 slack-imgs.com
 slack.com
 *.quip.com
-app.slack.com
 api.slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4188,14 +4188,14 @@ ctf.hacker101.com
 cover-photos.hackerone-user-content.com
 a5s.hackerone-ext-content.com
 api.hackerone.com
-hackerone-ext-content.com
 www.wearehackerone.com
+hackerone-ext-content.com
 app.pullrequest.com
 errors.hackerone.net
 hackerone-user-content.com
 hackerone.live
-hackerone.com
 www.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
