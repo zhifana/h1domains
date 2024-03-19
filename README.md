@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 19 22:16:39 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar 19 22:41:40 UTC 2024)
 ```
 www.dyson.ie
 www.dyson.ch
@@ -315,8 +315,8 @@ rates.rewire.com
 app3.rewire.to
 api.remitly.io
 app.rewire.to
-remitly.com
 rewire.com
+remitly.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -456,9 +456,9 @@ www.mercadopago.com.br
 www.mercadolibre.com.co
 api.mercadopago.com
 www.mercadolibre.cl
-www.mercadolibre.com.ar
 api.mercadolibre.com
 www.mercadolivre.com.br
+www.mercadolibre.com.ar
 www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -505,11 +505,11 @@ flights.booking.com
 www.fareharbor.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
-*.booking.com
 booking.com
-careers.booking.com
 *.rentalcars.com
+careers.booking.com
 account.booking.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -575,8 +575,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicex.com
 test.nicehash.com
+test.nicex.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -821,23 +821,23 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
+aus5.mozilla.org
+shavar.services.mozilla.com
+push.services.mozilla.com
+crash-reports.allizom.org
+contile.services.mozilla.com
+firefox.settings.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 addons.allizom.org
 crash-stats.allizom.org
 bugzilla.mozilla.org
 phabricator.allizom.org
-aus5.mozilla.org
-shavar.services.mozilla.com
-firefox.settings.services.mozilla.com
-push.services.mozilla.com
-crash-reports.allizom.org
-contile.services.mozilla.com
-merino.services.mozilla.com
 lando.services.mozilla.com
 sync.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 accounts.firefox.com
+merino.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -932,9 +932,9 @@ injob.indriver.com
 watchdocs.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 *.indriver.com
+*.indriverapp.com
 *.indrive.com
 truck-api.eu-east-1.indriverapp.com
-*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1011,9 +1011,9 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
-mobile.s-pankki.fi
 www.s-pankki.fi
 www.prisma.fi
+mobile.s-pankki.fi
 online.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
@@ -1031,8 +1031,8 @@ auth.skypicker.com
 jobs.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
-www.kiwi.com
 *.skypicker.com
+www.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1657,7 +1657,6 @@ opslogin.fr.cloud.gov
 prometheus.fr.cloud.gov
 ssh.fr.cloud.gov
 api.fr.cloud.gov
-*.login.gov
 dashboard-beta.fr.cloud.gov
 tock.18f.gov
 *.code.gov
@@ -1798,8 +1797,8 @@ old.reddit.com
 ads.reddit.com
 new.reddit.com
 api.reddit.com
-matrix.redditspace.com
 *.reddit.com
+matrix.redditspace.com
 www.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -2006,8 +2005,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-www.cloud.com
 (yoursubdomain).sharefile.com
+www.cloud.com
 (yoursubdomain).sharefile.eu
 adm.cloud.com
 citrix.cloud.com
@@ -2103,8 +2102,8 @@ nft.io
 platform.enjin.io
 nft.io
 platform.enjin.io
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 cs.money
@@ -2528,10 +2527,10 @@ www.alibabagroup.com
 *.1688.com
 *.tmall.com
 *.aliyun.com
-*.taobao.com
 *.aliexpress.com
 *.Daraz.com
 *.alibaba.com
+*.taobao.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2626,8 +2625,8 @@ help.marriott.com
 mipartnerprivileges.marriott.com
 travelagents.marriott.com/
 activities.marriott.com
-homes-and-villas.marriott.com
 traveler.marriott.com
+homes-and-villas.marriott.com
 www.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
@@ -2879,8 +2878,8 @@ vault.omise.co
 api.omise.co
 offsite.omise.co
 www.opn.ooo
-dashboard.omise.co
 www.omise.co
+dashboard.omise.co
 vault.omise.co
 api.omise.co
 dashboard.omise.co
@@ -3035,14 +3034,14 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
-us.tvg.com
 ia.tvg.com
-www.4njbets.com
 tvg.com
 mobile-prod.tvg.com
 login.tvg.com
 *racing.fanduel.com
 www.tvg.com
+us.tvg.com
+www.4njbets.com
 fdbox.net
 sportsbook.fanduel.com
 *.fanduel.com
@@ -3282,11 +3281,11 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-pay.crypto.com
+auth.crypto.com
 *.mona.co
 tax.crypto.com
-auth.crypto.com
 js.crypto.com
+pay.crypto.com
 www.crypto.com
 app.mona.co
 *.crypto.com
@@ -3427,8 +3426,8 @@ gifts.grab.com
 *.myteksi.net
 *.grab.com
 *.ovo.id
-jira.grab.com
 api.grabpay.com
+jira.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3740,10 +3739,10 @@ derivws.com
 *.derivws.com
 smarttrader.deriv.com
 app.deriv.com
-oauth.deriv.com
-*.deriv.cloud
 *.deriv.com
 api.deriv.com
+oauth.deriv.com
+*.deriv.cloud
 *.binary.com
 *.deriv.com
 *.deriv.cloud
@@ -3794,8 +3793,8 @@ app.futuresimple.com
 api.getbase.com
 www.zendesk.com
 smooch.io
-h1-your-domain.zendesk.com
 apps.zendesk.com
+h1-your-domain.zendesk.com
 www.zendesk.com
 developer.zendesk.com
 h1-your-domain.zendesk.com
@@ -3820,9 +3819,9 @@ arrive-server.shopifycloud.com
 shopifyinbox.com
 *.shopify.io
 partners.shopify.com
-*.shopify.com
 accounts.shopify.com
 shop.app
+*.shopify.com
 your-store.myshopify.com
 admin.shopify.com
 *.shopifycs.com
@@ -3946,8 +3945,8 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 www.hoteltonight.com
 *.airbnbcitizen.com
-*.withairbnb.com
 api.airbnb.com
+*.withairbnb.com
 next.airbnb.com
 *.hoteltonight-test.com
 *.airbnb.com
@@ -4149,8 +4148,8 @@ spaces.pm
 www.quip.com
 slack-imgs.com
 *.quip.com
-slack.com
 app.slack.com
+slack.com
 api.slack.com
 slack.com
 api.slack.com
@@ -4180,7 +4179,6 @@ hackathon-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackathon-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 cover-photos.hackerone-user-content.com
@@ -4193,8 +4191,9 @@ hackerone-user-content.com
 hackerone.live
 errors.hackerone.net
 ctf.hacker101.com
-hackerone.com
 www.hackerone.com
+hackerone.com
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4386,8 +4385,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 magento.com
 marketplace.magento.com
 magentocommerce.com
