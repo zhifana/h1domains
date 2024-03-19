@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 19 20:21:12 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar 19 20:43:48 UTC 2024)
 ```
 www.dyson.ie
 www.dyson.ch
@@ -331,8 +331,8 @@ getworldcoin.com
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
 bioid-management.app
-*.worldcoin.org
 worldcoin.org
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -432,8 +432,8 @@ mediacenter.23andme.com
 research.23andme.com
 therapeutics.23andme.com
 store.23andme.com
-you.23andme.com
 medical.23andme.com
+you.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -575,8 +575,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -647,9 +647,9 @@ gamma.redoxstage.com
 launch.gamma.redoxstage.com
 sftp.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-testapp.redoxengine.com
 10x.redoxengine.com
 www.redoxengine.com
+testapp.redoxengine.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -778,10 +778,10 @@ www.visainfinite.ca
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
-yourdomain.freshdesk.com
 yourdomain.freshservice.com
-yourdomain.freshchat.com
 yourdomain.myfreshworks.com
+yourdomain.freshchat.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -855,17 +855,17 @@ firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 phabricator.allizom.org
-community-tc.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
+community-tc.services.mozilla.com
 www.mozilla.org
-api.profiler.firefox.com
-relay.firefox.com
-vpn.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
+relay.firefox.com
+api.profiler.firefox.com
+vpn.mozilla.org
 support.mozilla.org
-hg.mozilla.org
 monitor.mozilla.org
+hg.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -961,8 +961,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-*.grindr.com
 web.grindr.com
+*.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1751,9 +1751,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
-*.touchtechpayments.com
 *.recko.io
 js.stripe.com
+*.touchtechpayments.com
 *.stripe.com
 app.taxjar.com
 api.stripe.com
@@ -1798,8 +1798,8 @@ old.reddit.com
 ads.reddit.com
 new.reddit.com
 api.reddit.com
-matrix.redditspace.com
 *.reddit.com
+matrix.redditspace.com
 www.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -2006,8 +2006,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-www.cloud.com
 (yoursubdomain).sharefile.com
+www.cloud.com
 (yoursubdomain).sharefile.eu
 adm.cloud.com
 citrix.cloud.com
@@ -2045,19 +2045,19 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 live-backstage.tiktok.com
 effecthouse.tiktok.com
-developers.tiktok.com
 shop.tiktok.com
+developers.tiktok.com
 careers.tiktok.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
-academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
+academy-outbound-ads.tiktok.com
 *.tiktokv.com
 tiktok.com
-partner.tiktokshop.com
-*.tiktok.com
 business.tiktok.com
 ads.tiktok.com
+partner.tiktokshop.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2122,10 +2122,10 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.acronis.work
-account.acronis.com
 *.5nine.com
-*.acronis.com
+account.acronis.com
 beta-cloud.acronis.com
+*.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2527,9 +2527,9 @@ www.alibabagroup.com
 *.alibabacloud.com
 *.1688.com
 *.tmall.com
+*.taobao.com
 *.aliyun.com
 *.aliexpress.com
-*.taobao.com
 *.Daraz.com
 *.alibaba.com
 *.alibaba.com
@@ -2662,8 +2662,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3037,12 +3037,12 @@ service.tvg.com
 fanduel.design
 ia.tvg.com
 tvg.com
-mobile-prod.tvg.com
 login.tvg.com
-*racing.fanduel.com
 www.tvg.com
-us.tvg.com
+mobile-prod.tvg.com
+*racing.fanduel.com
 www.4njbets.com
+us.tvg.com
 fdbox.net
 *.fanduel.com
 sportsbook.fanduel.com
@@ -3820,9 +3820,9 @@ arrive-server.shopifycloud.com
 shopifyinbox.com
 *.shopify.io
 partners.shopify.com
+*.shopify.com
 accounts.shopify.com
 shop.app
-*.shopify.com
 your-store.myshopify.com
 admin.shopify.com
 *.shopifycs.com
@@ -4035,8 +4035,8 @@ api.x.ai
 ide.x.ai
 grok.x.ai
 *.twimg.com
-*.twitter.com
 x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4149,8 +4149,8 @@ spaces.pm
 www.quip.com
 slack-imgs.com
 *.quip.com
-app.slack.com
 slack.com
+app.slack.com
 api.slack.com
 slack.com
 api.slack.com
