@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 19 17:44:44 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar 19 18:23:43 UTC 2024)
 ```
 www.dyson.ie
 www.dyson.ch
@@ -449,17 +449,17 @@ www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadopago.com.uy
 www.mercadolibre.com.mx
-www.mercadolibre.com.co
 www.mercadolibre.com.pe
 www.mercadolibre.com.uy
-www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadopago.com.br
+www.mercadolibre.com.co
+www.mercadolibre.cl
+api.mercadopago.com
 www.mercadolivre.com.br
+www.mercadolibre.com.ar
 api.mercadolibre.com
 www.mercadopago.com.ar
-api.mercadopago.com
-www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -507,9 +507,9 @@ flights.booking.com
 www.fareharbor.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
-careers.booking.com
 *.booking.com
 *.rentalcars.com
+careers.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -780,8 +780,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
-yourdomain.freshchat.com
 yourdomain.myfreshworks.com
+yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1114,8 +1114,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.hypermint.com
 *.moonpaycloud.com
+*.hypermint.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1299,9 +1299,9 @@ www.dolap.com
 www.trendyol-milla.com
 *.sidefx.com
 *.sidefx.com
+snaps.metamask.io
 portfolio.metamask.io
 metamask.io
-snaps.metamask.io
 metamask.io
 snaps.metamask.io
 portfolio.metamask.io
@@ -1737,8 +1737,8 @@ www.elastic.co
 *.eops.nl
 *.swiftype.com
 *.elstc.co
-cloud.elastic.co
 *.elastic.co
+cloud.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1939,8 +1939,8 @@ core.yoti.com
 ccloud.yoti.com
 code.yoti.com
 api.yoti.com
-www.yotisign.com
 identity.yoti.com
+www.yotisign.com
 hub.yoti.com
 core.yoti.com
 api.yoti.com
@@ -2115,8 +2115,8 @@ cs.money
 support.cs.money
 wiki.cs.money
 3d.cs.money
-app.faraday.ai
 api.faraday.ai
+app.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
@@ -2528,9 +2528,9 @@ www.alibabagroup.com
 *.1688.com
 *.tmall.com
 *.alibaba.com
-*.taobao.com
 *.aliyun.com
 *.aliexpress.com
+*.taobao.com
 *.Daraz.com
 *.alibaba.com
 *.aliexpress.com
@@ -2627,8 +2627,8 @@ mipartnerprivileges.marriott.com
 travelagents.marriott.com/
 activities.marriott.com
 www.marriott.com
-homes-and-villas.marriott.com
 traveler.marriott.com
+homes-and-villas.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2879,8 +2879,8 @@ vault.omise.co
 api.omise.co
 offsite.omise.co
 www.opn.ooo
-dashboard.omise.co
 www.omise.co
+dashboard.omise.co
 vault.omise.co
 api.omise.co
 dashboard.omise.co
@@ -3035,14 +3035,14 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
-ia.tvg.com
-tvg.com
-login.tvg.com
-www.tvg.com
-mobile-prod.tvg.com
-*racing.fanduel.com
-www.4njbets.com
 us.tvg.com
+ia.tvg.com
+www.4njbets.com
+tvg.com
+mobile-prod.tvg.com
+login.tvg.com
+*racing.fanduel.com
+www.tvg.com
 fdbox.net
 *.fanduel.com
 sportsbook.fanduel.com
@@ -3100,8 +3100,8 @@ my.swiftfinancial.com
 *.xoom.com
 *.braintreepayments.com
 paypalobjects.com
-*.paypal.com
 *.paypalcorp.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3261,12 +3261,12 @@ support.steampowered.com
 partner.steampowered.com
 partner.steamgames.com
 playartifact.com
-help.steampowered.com
 www.teamfortress.com
+help.steampowered.com
 www.counter-strike.net
+api.steampowered.com
 www.dota2.com
 steamcommunity.com
-api.steampowered.com
 www.valvesoftware.com
 store.steampowered.com
 www.dota2.com
@@ -3282,9 +3282,9 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
+auth.crypto.com
 *.mona.co
 tax.crypto.com
-auth.crypto.com
 js.crypto.com
 pay.crypto.com
 www.crypto.com
@@ -3736,15 +3736,15 @@ www.algolia.com
 www.algolia.com
 cashier.deriv.com
 secure-dfadmin.deriv.com
-*.binary.com
 derivws.com
 *.derivws.com
 smarttrader.deriv.com
 app.deriv.com
 oauth.deriv.com
-api.deriv.com
 *.deriv.cloud
+api.deriv.com
 *.deriv.com
+*.binary.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3821,10 +3821,10 @@ shopifyinbox.com
 *.shopify.io
 partners.shopify.com
 accounts.shopify.com
-shop.app
 your-store.myshopify.com
-admin.shopify.com
 *.shopify.com
+shop.app
+admin.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -4117,8 +4117,8 @@ pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
-institutional.coinbase.com
 api.coinbase.com
+institutional.coinbase.com
 *.base.org
 international.coinbase.com
 cloud.coinbase.com
@@ -4149,9 +4149,9 @@ spaces.pm
 www.quip.com
 slack-imgs.com
 *.quip.com
-app.slack.com
 api.slack.com
 slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4187,8 +4187,8 @@ ctf.hacker101.com
 cover-photos.hackerone-user-content.com
 a5s.hackerone-ext-content.com
 api.hackerone.com
-hackerone-ext-content.com
 www.wearehackerone.com
+hackerone-ext-content.com
 app.pullrequest.com
 errors.hackerone.net
 hackerone-user-content.com
