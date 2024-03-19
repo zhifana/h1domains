@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 19 06:42:20 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar 19 07:19:04 UTC 2024)
 ```
 www.dysoncanada.ca
 www.dyson.ie
@@ -456,11 +456,11 @@ www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadolivre.com.br
-www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.br
-www.mercadolibre.com.ar
 api.mercadolibre.com
+www.mercadolibre.com.ar
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -779,8 +779,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
-yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -833,8 +833,8 @@ lando.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
-firefox.settings.services.mozilla.com
 addons.allizom.org
+firefox.settings.services.mozilla.com
 phabricator.allizom.org
 accounts.firefox.com
 addons.allizom.org
@@ -931,8 +931,8 @@ ingest.clairvoyance.indrive.tech
 injob.indriver.com
 *.indrive.com
 watchdocs.indriverapp.com
-new-order.eu-east-1.indriverapp.com
 *.indriverapp.com
+new-order.eu-east-1.indriverapp.com
 *.indriver.com
 *.indriverapp.com
 *.indrive.com
@@ -960,8 +960,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-web.grindr.com
 *.grindr.com
+web.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1010,9 +1010,9 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
+mobile.s-pankki.fi
 www.s-pankki.fi
 www.prisma.fi
-mobile.s-pankki.fi
 online.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
@@ -1060,7 +1060,6 @@ work-staging.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
 connect.8x8.com
-*.jitsi.net
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1113,8 +1112,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.hypermint.com
 *.moonpaycloud.com
+*.hypermint.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -2005,12 +2004,12 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-www.cloud.com
 (yoursubdomain).sharefile.com
+www.cloud.com
 (yoursubdomain).sharefile.eu
+secure.sharefile.com
 adm.cloud.com
 citrix.cloud.com
-secure.sharefile.com
 secure.sharefile.eu
 citrix.cloud.com
 www.cloud.com
@@ -2044,17 +2043,17 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 live-backstage.tiktok.com
 effecthouse.tiktok.com
-shop.tiktok.com
 developers.tiktok.com
+shop.tiktok.com
 careers.tiktok.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 business.tiktok.com
-creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
-tiktok.com
+creatormarketplace.tiktok.com
 partner.tiktokshop.com
 ads.tiktok.com
+tiktok.com
 *.tiktokv.com
 *.tiktok.com
 *.tiktok.com
@@ -2124,8 +2123,8 @@ api.faraday.ai
 *.acronis.work
 beta-cloud.acronis.com
 *.5nine.com
-account.acronis.com
 *.acronis.com
+account.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2528,10 +2527,10 @@ www.alibabagroup.com
 *.1688.com
 *.aliexpress.com
 *.aliyun.com
-*.taobao.com
-*.Daraz.com
 *.tmall.com
 *.alibaba.com
+*.Daraz.com
+*.taobao.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2688,8 +2687,8 @@ www.datastax.com
 downloads.datastax.com
 docs.datastax.com
 astra.datastax.com
-*.nordvpn.com
 app.nordpass.com
+*.nordvpn.com
 *.nordvpn.com
 app.nordpass.com
 *.line.me
@@ -3281,9 +3280,9 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-auth.crypto.com
 *.mona.co
 tax.crypto.com
+auth.crypto.com
 js.crypto.com
 pay.crypto.com
 www.crypto.com
@@ -3425,9 +3424,9 @@ kartaview.org
 api.grabpay.com
 gifts.grab.com
 jira.grab.com
+*.ovo.id
 *.myteksi.net
 *.grab.com
-*.ovo.id
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3668,8 +3667,8 @@ npmjs.org
 gist.github.com
 npmjs.com
 *.githubusercontent.com
-api.github.com
 github.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3737,10 +3736,10 @@ cashier.deriv.com
 secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.cloud
-*.derivws.com
 oauth.deriv.com
 derivws.com
 api.deriv.com
+*.derivws.com
 smarttrader.deriv.com
 app.deriv.com
 *.deriv.com
@@ -3820,10 +3819,10 @@ partners.shopify.com
 shopifyinbox.com
 *.shopify.io
 admin.shopify.com
-your-store.myshopify.com
 accounts.shopify.com
 *.shopify.com
 shop.app
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3946,8 +3945,8 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 www.hoteltonight.com
 *.airbnbcitizen.com
-*.withairbnb.com
 api.airbnb.com
+*.withairbnb.com
 next.airbnb.com
 *.hoteltonight-test.com
 www.airbnb.com
@@ -4035,8 +4034,8 @@ api.x.ai
 ide.x.ai
 grok.x.ai
 *.twimg.com
-*.twitter.com
 x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4113,11 +4112,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
-api.coinbase.com
 institutional.coinbase.com
 *.base.org
 international.coinbase.com
@@ -4425,7 +4424,7 @@ alerts.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
 *.nr-ops.net
-one.newrelic.com
+rpm.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
