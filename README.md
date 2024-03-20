@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 20 06:22:35 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 20 06:41:31 UTC 2024)
 ```
 www.dyson.ie
 www.dyson.ch
@@ -328,11 +328,11 @@ toolsforhumanity.com
 getworldcoin.com
 *.worldcoin-distributors.com
 *.worldcoin.dev
-*.toolsforhumanity.com
 *.consumer.worldcoin.org
 bioid-management.app
 *.worldcoin.org
 worldcoin.org
+*.toolsforhumanity.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -432,8 +432,8 @@ mediacenter.23andme.com
 research.23andme.com
 therapeutics.23andme.com
 store.23andme.com
-you.23andme.com
 medical.23andme.com
+you.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -457,9 +457,9 @@ api.mercadopago.com
 api.mercadolibre.com
 www.mercadopago.com.br
 www.mercadolivre.com.br
-www.mercadolibre.com.ar
 www.mercadopago.com.ar
 www.mercadolibre.cl
+www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -780,8 +780,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshservice.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -821,23 +821,23 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-aus5.mozilla.org
-shavar.services.mozilla.com
-push.services.mozilla.com
-firefox.settings.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
+phabricator.allizom.org
 addons.allizom.org
 crash-stats.allizom.org
-phabricator.allizom.org
+aus5.mozilla.org
+shavar.services.mozilla.com
+firefox.settings.services.mozilla.com
+push.services.mozilla.com
 lando.services.mozilla.com
 sync.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
-accounts.firefox.com
 contile.services.mozilla.com
 crash-reports.allizom.org
 bugzilla.mozilla.org
+accounts.firefox.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -911,8 +911,8 @@ hiltonlocalbiz.com
 hiltonhotels.jp
 *.okx.com
 *.okcoin.com
-*.okg.com
 *.oklink.com
+*.okg.com
 *.okx.com
 *.okcoin.com
 *.oklink.com
@@ -939,8 +939,8 @@ new-order.eu-east-1.indriverapp.com
 *.indriver.com
 *.indrive.com
 truck-api.eu-east-1.indriverapp.com
-auth.indrive.tech
 *.indriverapp.com
+auth.indrive.tech
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -967,8 +967,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-*.grindr.com
 web.grindr.com
+*.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1069,6 +1069,7 @@ user-profile-staging.8x8.com
 connect.8x8.com
 *.jitsi.net
 *.wavecell.com
+sso.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1179,8 +1180,8 @@ www.expediapartnersolutions.com
 *.carrentals.com
 *.travelocity.ca
 www.fewo-direkt.de
-*.travelocity.com
 www.expedia.com
+*.travelocity.com
 *.expediacruises.com
 *.hotwire.com
 www.flights.com
@@ -1946,8 +1947,8 @@ ccloud.yoti.com
 www.yotisign.com
 api.yoti.com
 identity.yoti.com
-code.yoti.com
 hub.yoti.com
+code.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -2011,8 +2012,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-www.cloud.com
 (yoursubdomain).sharefile.com
+www.cloud.com
 (yoursubdomain).sharefile.eu
 adm.cloud.com
 citrix.cloud.com
@@ -2051,12 +2052,12 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 live-backstage.tiktok.com
 effecthouse.tiktok.com
-developers.tiktok.com
 shop.tiktok.com
+developers.tiktok.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
-academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
+academy-outbound-ads.tiktok.com
 *.tiktokv.com
 business.tiktok.com
 careers.tiktok.com
@@ -2128,8 +2129,8 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.acronis.work
-account.acronis.com
 *.5nine.com
+account.acronis.com
 beta-cloud.acronis.com
 *.acronis.com
 *-api-*.acronis.com
@@ -2535,9 +2536,9 @@ www.alibabagroup.com
 *.tmall.com
 *.aliyun.com
 *.aliexpress.com
-*.alibaba.com
 *.Daraz.com
 *.taobao.com
+*.alibaba.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -3043,12 +3044,12 @@ service.tvg.com
 fanduel.design
 ia.tvg.com
 tvg.com
-login.tvg.com
-www.tvg.com
 mobile-prod.tvg.com
+login.tvg.com
 *racing.fanduel.com
-www.4njbets.com
+www.tvg.com
 us.tvg.com
+www.4njbets.com
 fdbox.net
 *.fanduel.com
 sportsbook.fanduel.com
@@ -3104,8 +3105,8 @@ my.swiftfinancial.com
 *.braintreegateway.com
 *.xoom.com
 *.paypalcorp.com
-*.paypal.com
 *.hyperwallet.com
+*.paypal.com
 paypalobjects.com
 *.braintreepayments.com
 www.paypal-*.com
@@ -3269,9 +3270,9 @@ partner.steamgames.com
 playartifact.com
 help.steampowered.com
 www.counter-strike.net
+api.steampowered.com
 www.dota2.com
 steamcommunity.com
-api.steampowered.com
 www.valvesoftware.com
 store.steampowered.com
 www.teamfortress.com
@@ -3288,9 +3289,9 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-auth.crypto.com
 *.mona.co
 tax.crypto.com
+auth.crypto.com
 js.crypto.com
 pay.crypto.com
 www.crypto.com
@@ -3742,8 +3743,8 @@ www.algolia.com
 www.algolia.com
 cashier.deriv.com
 secure-dfadmin.deriv.com
-derivws.com
 *.derivws.com
+derivws.com
 smarttrader.deriv.com
 oauth.deriv.com
 *.deriv.cloud
@@ -3828,9 +3829,9 @@ shopifyinbox.com
 partners.shopify.com
 accounts.shopify.com
 your-store.myshopify.com
-shop.app
 admin.shopify.com
 *.shopify.com
+shop.app
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -4080,8 +4081,8 @@ simperium.com
 akismet.com
 gravatar.com
 *.tumblr.com
-mailpoet.com
 wordpress.com
+mailpoet.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
@@ -4118,11 +4119,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
+api.coinbase.com
 institutional.coinbase.com
 *.base.org
 international.coinbase.com
@@ -4391,8 +4392,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 magento.com
 marketplace.magento.com
 magentocommerce.com
