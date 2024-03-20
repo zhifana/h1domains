@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 20 03:21:37 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 20 03:41:42 UTC 2024)
 ```
 www.dyson.ie
 www.dyson.ch
@@ -312,11 +312,11 @@ webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
 app.rewire.to
-api.remitly.io
 rewire.com
 remitly.com
 rates.rewire.com
 app3.rewire.to
+api.remitly.io
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -937,9 +937,9 @@ injob.indriver.com
 watchdocs.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 *.indriver.com
-*.indriverapp.com
 *.indrive.com
 truck-api.eu-east-1.indriverapp.com
+*.indriverapp.com
 auth.indrive.tech
 *.indriverapp.com
 *.indrive.com
@@ -967,8 +967,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-*.grindr.com
 web.grindr.com
+*.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1178,8 +1178,8 @@ www.expediagroup.com
 www.expediapartnersolutions.com
 *.carrentals.com
 *.travelocity.ca
-www.fewo-direkt.de
 *.travelocity.com
+www.fewo-direkt.de
 www.expedia.com
 *.vrbo.com
 *.expediacruises.com
@@ -1306,9 +1306,9 @@ www.dolap.com
 www.trendyol-milla.com
 *.sidefx.com
 *.sidefx.com
+snaps.metamask.io
 portfolio.metamask.io
 metamask.io
-snaps.metamask.io
 metamask.io
 snaps.metamask.io
 portfolio.metamask.io
@@ -1757,9 +1757,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
+*.touchtechpayments.com
 *.recko.io
 js.stripe.com
-*.touchtechpayments.com
 *.stripe.com
 app.taxjar.com
 api.stripe.com
@@ -2128,8 +2128,8 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.acronis.work
-*.5nine.com
 account.acronis.com
+*.5nine.com
 beta-cloud.acronis.com
 *.acronis.com
 *-api-*.acronis.com
@@ -2535,8 +2535,8 @@ www.alibabagroup.com
 *.tmall.com
 *.aliyun.com
 *.aliexpress.com
-*.taobao.com
 *.alibaba.com
+*.taobao.com
 *.Daraz.com
 *.alibaba.com
 *.aliexpress.com
@@ -3041,14 +3041,14 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
-us.tvg.com
 ia.tvg.com
 www.4njbets.com
+us.tvg.com
 tvg.com
-mobile-prod.tvg.com
 login.tvg.com
-*racing.fanduel.com
 www.tvg.com
+mobile-prod.tvg.com
+*racing.fanduel.com
 fdbox.net
 *.fanduel.com
 sportsbook.fanduel.com
@@ -3269,9 +3269,9 @@ partner.steamgames.com
 playartifact.com
 help.steampowered.com
 www.counter-strike.net
-api.steampowered.com
 www.dota2.com
 steamcommunity.com
+api.steampowered.com
 www.valvesoftware.com
 store.steampowered.com
 www.teamfortress.com
@@ -3288,11 +3288,11 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
+pay.crypto.com
 *.mona.co
 tax.crypto.com
 auth.crypto.com
 js.crypto.com
-pay.crypto.com
 www.crypto.com
 app.mona.co
 *.crypto.com
@@ -3742,15 +3742,15 @@ www.algolia.com
 www.algolia.com
 cashier.deriv.com
 secure-dfadmin.deriv.com
-*.derivws.com
 derivws.com
+*.derivws.com
 smarttrader.deriv.com
 oauth.deriv.com
-app.deriv.com
 *.deriv.cloud
 *.binary.com
 *.deriv.com
 api.deriv.com
+app.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3956,8 +3956,8 @@ www.hoteltonight.com
 api.airbnb.com
 next.airbnb.com
 *.hoteltonight-test.com
-*.airbnb.com
 www.airbnb.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4119,11 +4119,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
-api.coinbase.com
 institutional.coinbase.com
 *.base.org
 international.coinbase.com
@@ -4429,9 +4429,9 @@ alerts.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
 *.nr-ops.net
+rpm.newrelic.com
 synthetics.newrelic.com
 insights.newrelic.com
-rpm.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
