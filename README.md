@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 19 23:42:55 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 20 00:59:05 UTC 2024)
 ```
 www.dyson.ie
 www.dyson.ch
@@ -311,12 +311,12 @@ video-callerid-eu.truecaller.com
 webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
-rewire.com
 app3.rewire.to
 app.rewire.to
 api.remitly.io
-rates.rewire.com
+rewire.com
 remitly.com
+rates.rewire.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -331,8 +331,8 @@ getworldcoin.com
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
 bioid-management.app
-*.worldcoin.org
 worldcoin.org
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -455,11 +455,11 @@ www.mercadopago.cl
 www.mercadopago.com.br
 www.mercadolibre.com.co
 www.mercadolibre.cl
-api.mercadolibre.com
-www.mercadolivre.com.br
-www.mercadopago.com.ar
-www.mercadolibre.com.ar
 api.mercadopago.com
+api.mercadolibre.com
+www.mercadopago.com.ar
+www.mercadolivre.com.br
+www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -507,9 +507,9 @@ widget.rentalcars.com
 teleport.fareharbor.engineering
 booking.com
 *.rentalcars.com
-careers.booking.com
 *.booking.com
 account.booking.com
+careers.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -561,8 +561,8 @@ api2.frontapp.com
 *.booztlet.com
 *.trip.com
 *.trip.com
-dashboard.mergify.com
 api.mergify.com
+dashboard.mergify.com
 api.mergify.com
 dashboard.mergify.com
 www.compass.com
@@ -821,23 +821,23 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
+aus5.mozilla.org
+shavar.services.mozilla.com
+push.services.mozilla.com
+crash-reports.allizom.org
+firefox.settings.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 addons.allizom.org
 crash-stats.allizom.org
 bugzilla.mozilla.org
 phabricator.allizom.org
-aus5.mozilla.org
-shavar.services.mozilla.com
-firefox.settings.services.mozilla.com
-push.services.mozilla.com
-crash-reports.allizom.org
-contile.services.mozilla.com
 lando.services.mozilla.com
 sync.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
-accounts.firefox.com
 merino.services.mozilla.com
+accounts.firefox.com
+contile.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -855,17 +855,17 @@ firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 phabricator.allizom.org
-community-tc.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
+community-tc.services.mozilla.com
 www.mozilla.org
-api.profiler.firefox.com
-vpn.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
+api.profiler.firefox.com
+vpn.mozilla.org
 support.mozilla.org
 hg.mozilla.org
-monitor.mozilla.org
 relay.firefox.com
+monitor.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -923,7 +923,6 @@ wga.volans.tech
 argocd.indrive.dev
 ci.indrive.dev
 external.indrive.dev
-auth.indrive.tech
 auth2.indrive.tech
 aws.indrive.tech
 debug.clairvoyance.indrive.tech
@@ -935,6 +934,7 @@ new-order.eu-east-1.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 truck-api.eu-east-1.indriverapp.com
+auth.indrive.tech
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1062,6 +1062,7 @@ user-profile-staging.8x8.com
 *.8x8staging.com
 connect.8x8.com
 *.jitsi.net
+*.wavecell.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1114,8 +1115,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.moonpaycloud.com
 *.hypermint.com
+*.moonpaycloud.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1176,8 +1177,8 @@ www.fewo-direkt.de
 www.expedia.com
 www.flights.com
 *.vrbo.com
-*.hotwire.com
 *.expediacruises.com
+*.hotwire.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1797,8 +1798,8 @@ old.reddit.com
 ads.reddit.com
 new.reddit.com
 api.reddit.com
-*.reddit.com
 matrix.redditspace.com
+*.reddit.com
 www.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -2008,9 +2009,9 @@ api.adm.cloud.com
 (yoursubdomain).sharefile.com
 www.cloud.com
 (yoursubdomain).sharefile.eu
-secure.sharefile.com
 adm.cloud.com
 citrix.cloud.com
+secure.sharefile.com
 secure.sharefile.eu
 citrix.cloud.com
 www.cloud.com
@@ -2051,12 +2052,12 @@ www.pangleglobal.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 *.tiktokv.com
-tiktok.com
 business.tiktok.com
-partner.tiktokshop.com
-*.tiktok.com
 careers.tiktok.com
 ads.tiktok.com
+partner.tiktokshop.com
+*.tiktok.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2102,8 +2103,8 @@ nft.io
 platform.enjin.io
 nft.io
 platform.enjin.io
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 cs.money
@@ -2528,9 +2529,9 @@ www.alibabagroup.com
 *.tmall.com
 *.aliyun.com
 *.aliexpress.com
-*.Daraz.com
 *.taobao.com
 *.alibaba.com
+*.Daraz.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2625,8 +2626,8 @@ help.marriott.com
 mipartnerprivileges.marriott.com
 travelagents.marriott.com/
 activities.marriott.com
-traveler.marriott.com
 homes-and-villas.marriott.com
+traveler.marriott.com
 www.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
@@ -2817,8 +2818,8 @@ api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
-www.bookingholdings.com
 secure.rezserver.com
+www.bookingholdings.com
 flyiin.com
 www.priceline.com
 secure.rezserver.com
@@ -2878,8 +2879,8 @@ vault.omise.co
 api.omise.co
 offsite.omise.co
 www.opn.ooo
-www.omise.co
 dashboard.omise.co
+www.omise.co
 vault.omise.co
 api.omise.co
 dashboard.omise.co
@@ -3098,9 +3099,9 @@ my.swiftfinancial.com
 *.braintreegateway.com
 *.xoom.com
 paypalobjects.com
-*.paypal.com
 *.paypalcorp.com
 *.braintreepayments.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3667,9 +3668,9 @@ education.github.com
 npmjs.org
 gist.github.com
 api.github.com
-github.com
 *.githubusercontent.com
 npmjs.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3739,11 +3740,11 @@ derivws.com
 *.derivws.com
 smarttrader.deriv.com
 app.deriv.com
-*.deriv.com
 oauth.deriv.com
 *.deriv.cloud
 *.binary.com
 api.deriv.com
+*.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -4112,11 +4113,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
+api.coinbase.com
 institutional.coinbase.com
 *.base.org
 international.coinbase.com
@@ -4148,9 +4149,9 @@ spaces.pm
 www.quip.com
 slack-imgs.com
 *.quip.com
-app.slack.com
 slack.com
 api.slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4422,8 +4423,8 @@ alerts.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
 *.nr-ops.net
-rpm.newrelic.com
 synthetics.newrelic.com
+rpm.newrelic.com
 insights.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
