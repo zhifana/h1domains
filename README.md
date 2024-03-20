@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 20 03:41:42 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 20 04:23:00 UTC 2024)
 ```
 www.dyson.ie
 www.dyson.ch
@@ -311,8 +311,8 @@ video-callerid-eu.truecaller.com
 webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
-app.rewire.to
 rewire.com
+app.rewire.to
 remitly.com
 rates.rewire.com
 app3.rewire.to
@@ -454,12 +454,12 @@ www.mercadolibre.com.uy
 www.mercadopago.cl
 www.mercadolibre.com.co
 www.mercadolibre.cl
-api.mercadolibre.com
 api.mercadopago.com
+api.mercadolibre.com
 www.mercadopago.com.br
 www.mercadolivre.com.br
-www.mercadopago.com.ar
 www.mercadolibre.com.ar
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -506,10 +506,10 @@ www.fareharbor.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
 booking.com
-*.rentalcars.com
 careers.booking.com
 account.booking.com
 *.booking.com
+*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -575,8 +575,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -778,10 +778,10 @@ www.visainfinite.ca
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
-yourdomain.freshservice.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -822,10 +822,10 @@ api.tideplatform.in
 *.tide.co
 api.tideplatform.in
 firefox-ci-tc.services.mozilla.com
-phabricator.allizom.org
 addons.allizom.org
 crash-stats.allizom.org
 bugzilla.mozilla.org
+phabricator.allizom.org
 aus5.mozilla.org
 shavar.services.mozilla.com
 firefox.settings.services.mozilla.com
@@ -967,8 +967,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-web.grindr.com
 *.grindr.com
+web.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1018,9 +1018,9 @@ api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
 mobile.s-pankki.fi
-www.s-pankki.fi
 www.prisma.fi
 online.s-pankki.fi
+www.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
 https://crosskey.io/stores/s-pankki/apis
@@ -1306,9 +1306,9 @@ www.dolap.com
 www.trendyol-milla.com
 *.sidefx.com
 *.sidefx.com
-snaps.metamask.io
 portfolio.metamask.io
 metamask.io
+snaps.metamask.io
 metamask.io
 snaps.metamask.io
 portfolio.metamask.io
@@ -1351,8 +1351,8 @@ www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
 ws.sorare.com
-sorare.com
 api.sorare.com
+sorare.com
 sorare.com
 api.sorare.com
 ws.sorare.com
@@ -1757,9 +1757,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
-*.touchtechpayments.com
 *.recko.io
 js.stripe.com
+*.touchtechpayments.com
 *.stripe.com
 app.taxjar.com
 api.stripe.com
@@ -1804,8 +1804,8 @@ old.reddit.com
 ads.reddit.com
 new.reddit.com
 api.reddit.com
-*.reddit.com
 matrix.redditspace.com
+*.reddit.com
 www.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -2012,8 +2012,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 adm.cloud.com
 citrix.cloud.com
@@ -2051,12 +2051,12 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 live-backstage.tiktok.com
 effecthouse.tiktok.com
-developers.tiktok.com
 shop.tiktok.com
+developers.tiktok.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
-academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
+academy-outbound-ads.tiktok.com
 *.tiktokv.com
 business.tiktok.com
 careers.tiktok.com
@@ -2535,8 +2535,8 @@ www.alibabagroup.com
 *.tmall.com
 *.aliyun.com
 *.aliexpress.com
-*.alibaba.com
 *.taobao.com
+*.alibaba.com
 *.Daraz.com
 *.alibaba.com
 *.aliexpress.com
@@ -2609,7 +2609,6 @@ www.32red.com
 unibet.me
 maria.casino
 www.32red.com
-all-inclusive.marriott.com
 reservations.all-inclusive.marriott.com
 marrtool.com
 cpp.marriott.com
@@ -2635,6 +2634,7 @@ activities.marriott.com
 traveler.marriott.com
 homes-and-villas.marriott.com
 www.marriott.com
+all-inclusive.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2885,8 +2885,8 @@ vault.omise.co
 api.omise.co
 offsite.omise.co
 www.opn.ooo
-dashboard.omise.co
 www.omise.co
+dashboard.omise.co
 vault.omise.co
 api.omise.co
 dashboard.omise.co
@@ -3097,7 +3097,6 @@ partner.swiftfinancial.com
 decision.swiftfinancial.com
 pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
-*.hyperwallet.com
 *.paylution.com
 www.loanbuilder.com
 my.swiftfinancial.com
@@ -3108,6 +3107,7 @@ paypalobjects.com
 *.paypalcorp.com
 *.braintreepayments.com
 *.paypal.com
+*.hyperwallet.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3145,8 +3145,8 @@ m.chaturbate.com
 billingsupport.chaturbate.com
 *.mmcdn.com
 *.mmwebc.dev
-chaturbate.com
 *.cb.dev
+chaturbate.com
 *.highwebmedia.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -3288,11 +3288,11 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-pay.crypto.com
+auth.crypto.com
 *.mona.co
 tax.crypto.com
-auth.crypto.com
 js.crypto.com
+pay.crypto.com
 www.crypto.com
 app.mona.co
 *.crypto.com
@@ -3828,9 +3828,9 @@ shopifyinbox.com
 partners.shopify.com
 accounts.shopify.com
 your-store.myshopify.com
-*.shopify.com
 shop.app
 admin.shopify.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3875,8 +3875,8 @@ playcanvas.com
 business.snapchat.com
 app.snapchat.com
 ads.snapchat.com
-web.snapchat.com
 accounts.snapchat.com
+web.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -4056,7 +4056,6 @@ cloudflareworkers.com
 api.cloudflare.com
 waf.cumulusfire.net
 one.dash.cloudflare.com
-*.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
@@ -4119,12 +4118,12 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
+api.coinbase.com
 *.base.org
 international.coinbase.com
 cloud.coinbase.com
@@ -4392,8 +4391,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 magento.com
 marketplace.magento.com
 magentocommerce.com
@@ -4429,8 +4428,8 @@ alerts.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
 *.nr-ops.net
-rpm.newrelic.com
 synthetics.newrelic.com
+rpm.newrelic.com
 insights.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
