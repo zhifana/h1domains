@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 20 17:18:54 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 20 17:44:00 UTC 2024)
 ```
 www.dyson.ie
 www.dyson.ch
@@ -312,8 +312,8 @@ webonboarding-eu.truecaller.com
 cards.remitly.io
 api.remitly.io
 rates.rewire.com
-app.rewire.to
 app3.rewire.to
+app.rewire.to
 rewire.com
 remitly.com
 remitly.com
@@ -410,8 +410,8 @@ payments.hostinger.com
 www.niagahoster.co.id
 cpanel.hostinger.com
 hpanel.hostinger.com
-*.000webhost.com
 www.hostinger.com
+*.000webhost.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -454,11 +454,11 @@ www.mercadopago.cl
 www.mercadolibre.com.co
 www.mercadolibre.cl
 api.mercadopago.com
-www.mercadopago.com.ar
-www.mercadolivre.com.br
 api.mercadolibre.com
-www.mercadolibre.com.ar
 www.mercadopago.com.br
+www.mercadolivre.com.br
+www.mercadolibre.com.ar
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -778,8 +778,8 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
-yourdomain.freshchat.com
 yourdomain.freshdesk.com
+yourdomain.freshchat.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -893,9 +893,9 @@ hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 hiltonhotels.jp
 *.hilton.io
+hilton.io
 hilton.com
 *.hilton.com
-hilton.io
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -1121,9 +1121,9 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
+*.moonpaycloud.com
 *.moonpay.com
 *.hypermint.com
-*.moonpaycloud.com
 *.moonpaycloud.com
 *.hypermint.com
 *.moonpay.com
@@ -1178,13 +1178,13 @@ www.expediagroup.com
 www.expediapartnersolutions.com
 *.carrentals.com
 *.travelocity.ca
-*.travelocity.com
 www.fewo-direkt.de
 www.expedia.com
-*.vrbo.com
-www.flights.com
+*.travelocity.com
 *.expediacruises.com
+*.vrbo.com
 *.hotwire.com
+www.flights.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1943,8 +1943,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.com
 identity.yoti.com
 ccloud.yoti.com
-core.yoti.com
 api.yoti.com
+core.yoti.com
 www.yotisign.com
 code.yoti.com
 hub.yoti.com
@@ -1966,9 +1966,9 @@ internal.netlify.com
 *.ops.netlify.com
 *.infra-prod.nsvcs.net
 api.netlify.com
+*.services.netlify.com
 netlify-rum.netlify.app
 app.netlify.com
-*.services.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -2011,12 +2011,12 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-www.cloud.com
 (yoursubdomain).sharefile.com
+www.cloud.com
 (yoursubdomain).sharefile.eu
+secure.sharefile.com
 adm.cloud.com
 citrix.cloud.com
-secure.sharefile.com
 secure.sharefile.eu
 accounts.cloud.com
 citrix.cloud.com
@@ -2061,8 +2061,8 @@ careers.tiktok.com
 tiktok.com
 creatormarketplace.tiktok.com
 partner.tiktokshop.com
-ads.tiktok.com
 business.tiktok.com
+ads.tiktok.com
 *.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2533,9 +2533,9 @@ www.alibabagroup.com
 *.aliexpress.com
 *.taobao.com
 *.aliyun.com
-*.alibaba.com
 *.Daraz.com
 *.1688.com
+*.alibaba.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -3038,14 +3038,14 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
+us.tvg.com
 ia.tvg.com
+www.4njbets.com
 tvg.com
 mobile-prod.tvg.com
 login.tvg.com
 *racing.fanduel.com
 www.tvg.com
-us.tvg.com
-www.4njbets.com
 fdbox.net
 sportsbook.fanduel.com
 *.fanduel.com
@@ -3079,13 +3079,6 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3094,17 +3087,24 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 *.paylution.com
 www.loanbuilder.com
 my.swiftfinancial.com
-*.venmo.com
 *.braintreegateway.com
+*.venmo.com
 *.xoom.com
 *.paypalcorp.com
 *.hyperwallet.com
 *.braintreepayments.com
-*.paypal.com
 paypalobjects.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3285,9 +3285,9 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
+auth.crypto.com
 *.mona.co
 tax.crypto.com
-auth.crypto.com
 js.crypto.com
 www.crypto.com
 app.mona.co
@@ -3427,9 +3427,9 @@ grab.careers
 kartaview.org
 gifts.grab.com
 *.myteksi.net
+*.myteksi.com
 *.ovo.id
 jira.grab.com
-*.myteksi.com
 api.grabpay.com
 *.grab.com
 *.myteksi.com
@@ -3824,9 +3824,9 @@ shopifyinbox.com
 *.shopify.io
 accounts.shopify.com
 partners.shopify.com
+*.shopify.com
 your-store.myshopify.com
 shop.app
-*.shopify.com
 admin.shopify.com
 *.shopifycs.com
 *.shopify.io
@@ -3953,8 +3953,8 @@ www.hoteltonight.com
 api.airbnb.com
 next.airbnb.com
 *.hoteltonight-test.com
-www.airbnb.com
 *.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4102,8 +4102,8 @@ pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
-api.coinbase.com
 institutional.coinbase.com
+api.coinbase.com
 *.base.org
 international.coinbase.com
 cloud.coinbase.com
@@ -4135,8 +4135,8 @@ www.quip.com
 slack-imgs.com
 *.quip.com
 api.slack.com
-slack.com
 app.slack.com
+slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4167,8 +4167,8 @@ cover-photos-us-east-2.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 a5s.hackerone-ext-content.com
-www.wearehackerone.com
 hackerone-ext-content.com
+www.wearehackerone.com
 hackerone-user-content.com
 hackerone.live
 errors.hackerone.net
@@ -4407,9 +4407,9 @@ alerts.eu.newrelic.com
 *.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
+rpm.newrelic.com
 synthetics.newrelic.com
 insights.newrelic.com
-rpm.newrelic.com
 one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
