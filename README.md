@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 20 08:41:44 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 20 09:19:28 UTC 2024)
 ```
 www.dyson.ie
 www.dyson.ch
@@ -311,8 +311,8 @@ video-callerid-eu.truecaller.com
 webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
-rewire.com
 app.rewire.to
+rewire.com
 app3.rewire.to
 api.remitly.io
 rates.rewire.com
@@ -330,8 +330,8 @@ getworldcoin.com
 *.worldcoin.dev
 *.consumer.worldcoin.org
 bioid-management.app
-*.worldcoin.org
 worldcoin.org
+*.worldcoin.org
 *.toolsforhumanity.com
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -454,11 +454,11 @@ www.mercadolibre.com.uy
 www.mercadopago.cl
 www.mercadolibre.com.co
 api.mercadopago.com
+www.mercadopago.com.ar
 www.mercadopago.com.br
 www.mercadolivre.com.br
-www.mercadopago.com.ar
-www.mercadolibre.com.ar
 www.mercadolibre.cl
+www.mercadolibre.com.ar
 api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -506,9 +506,9 @@ www.fareharbor.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
 booking.com
+careers.booking.com
 *.booking.com
 *.rentalcars.com
-careers.booking.com
 account.booking.com
 *.booking.com
 *.rentalcars.com
@@ -855,13 +855,13 @@ firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 phabricator.allizom.org
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 www.mozilla.org
-developer.mozilla.org
-profiler.firefox.com
 api.profiler.firefox.com
 vpn.mozilla.org
+developer.mozilla.org
+profiler.firefox.com
 support.mozilla.org
 hg.mozilla.org
 relay.firefox.com
@@ -1037,8 +1037,8 @@ auth.skypicker.com
 jobs.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
-*.skypicker.com
 www.kiwi.com
+*.skypicker.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1122,8 +1122,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.moonpaycloud.com
 *.hypermint.com
+*.moonpaycloud.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1182,10 +1182,10 @@ www.expediapartnersolutions.com
 www.fewo-direkt.de
 www.expedia.com
 *.travelocity.com
-www.flights.com
-*.hotwire.com
 *.vrbo.com
 *.expediacruises.com
+*.hotwire.com
+www.flights.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1758,9 +1758,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
+*.touchtechpayments.com
 *.recko.io
 js.stripe.com
-*.touchtechpayments.com
 *.stripe.com
 app.taxjar.com
 api.stripe.com
@@ -1804,10 +1804,10 @@ old.reddit.com
 *.reddithelp.com
 ads.reddit.com
 new.reddit.com
-api.reddit.com
-*.reddit.com
 matrix.redditspace.com
 www.reddit.com
+*.reddit.com
+api.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2012,8 +2012,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 adm.cloud.com
 citrix.cloud.com
@@ -2114,10 +2114,10 @@ api.figma.com
 www.figma.com
 www.figma.com
 api.figma.com
-cs.money
 support.cs.money
 wiki.cs.money
 3d.cs.money
+cs.money
 cs.money
 support.cs.money
 wiki.cs.money
@@ -2130,9 +2130,9 @@ api.faraday.ai
 *.devicelock.com
 *.acronis.work
 account.acronis.com
-*.5nine.com
 beta-cloud.acronis.com
 *.acronis.com
+*.5nine.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -3025,8 +3025,8 @@ www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
 *.grammarly.io
-*.grammarlyaws.com
 *.grammarly.com
+*.grammarlyaws.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -3106,9 +3106,9 @@ my.swiftfinancial.com
 *.xoom.com
 *.paypalcorp.com
 *.hyperwallet.com
-*.paypal.com
 paypalobjects.com
 *.braintreepayments.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3428,14 +3428,14 @@ xtramile.grabpay.com
 *.taralite.com
 wiki.grab.com
 grab.careers
-*.myteksi.com
 kartaview.org
 gifts.grab.com
 *.myteksi.net
 *.grab.com
 api.grabpay.com
-jira.grab.com
 *.ovo.id
+jira.grab.com
+*.myteksi.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3829,8 +3829,8 @@ shopifyinbox.com
 partners.shopify.com
 accounts.shopify.com
 your-store.myshopify.com
-shop.app
 admin.shopify.com
+shop.app
 *.shopify.com
 *.shopifycs.com
 *.shopify.io
@@ -3873,11 +3873,11 @@ playcanv.as
 login.playcanvas.com
 geofilters.snapchat.com
 playcanvas.com
-business.snapchat.com
 app.snapchat.com
 ads.snapchat.com
 accounts.snapchat.com
 web.snapchat.com
+business.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -4429,8 +4429,8 @@ alerts.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
 *.nr-ops.net
-synthetics.newrelic.com
 rpm.newrelic.com
+synthetics.newrelic.com
 insights.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
