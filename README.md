@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 20 12:52:53 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 20 13:25:40 UTC 2024)
 ```
 www.dyson.ie
 www.dyson.ch
@@ -452,12 +452,12 @@ www.mercadolibre.com.pe
 www.mercadolibre.com.uy
 www.mercadopago.cl
 www.mercadolibre.com.co
-api.mercadopago.com
 www.mercadolivre.com.br
-www.mercadopago.com.ar
 www.mercadopago.com.br
+www.mercadopago.com.ar
 www.mercadolibre.cl
 api.mercadolibre.com
+api.mercadopago.com
 www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -504,9 +504,9 @@ www.fareharbor.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
 booking.com
+careers.booking.com
 *.booking.com
 *.rentalcars.com
-careers.booking.com
 account.booking.com
 flights.booking.com
 *.booking.com
@@ -574,8 +574,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicex.com
 test.nicehash.com
+test.nicex.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -777,9 +777,9 @@ www.visainfinite.ca
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
-yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
+yourdomain.freshchat.com
 yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -1306,9 +1306,9 @@ www.dolap.com
 www.trendyol-milla.com
 *.sidefx.com
 *.sidefx.com
-snaps.metamask.io
 portfolio.metamask.io
 metamask.io
+snaps.metamask.io
 metamask.io
 snaps.metamask.io
 portfolio.metamask.io
@@ -1941,13 +1941,13 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-code.yoti.com
 identity.yoti.com
+code.yoti.com
 ccloud.yoti.com
 core.yoti.com
+api.yoti.com
 www.yotisign.com
 hub.yoti.com
-api.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -2011,12 +2011,12 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-www.cloud.com
 (yoursubdomain).sharefile.com
+www.cloud.com
 (yoursubdomain).sharefile.eu
+secure.sharefile.com
 adm.cloud.com
 citrix.cloud.com
-secure.sharefile.com
 secure.sharefile.eu
 accounts.cloud.com
 citrix.cloud.com
@@ -2551,12 +2551,12 @@ www.alibabagroup.com
 *.aliexpress.ru
 *.1688.com
 www.alibabagroup.com
-configure.bmw.de
 konfigurator.bmw-motorrad.de
 configure.mini.de
 www.bmw-motorrad.de
-www.bmw.de
 www.mini.de
+www.bmw.de
+configure.bmw.de
 www.bmw.de
 www.mini.de
 www.bmw-motorrad.de
@@ -3041,14 +3041,14 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
-us.tvg.com
 ia.tvg.com
-www.4njbets.com
 tvg.com
 mobile-prod.tvg.com
 login.tvg.com
 *racing.fanduel.com
 www.tvg.com
+us.tvg.com
+www.4njbets.com
 fdbox.net
 *.fanduel.com
 sportsbook.fanduel.com
@@ -3105,9 +3105,9 @@ my.swiftfinancial.com
 *.xoom.com
 *.paypalcorp.com
 *.hyperwallet.com
-paypalobjects.com
 *.braintreepayments.com
 *.paypal.com
+paypalobjects.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3269,9 +3269,9 @@ partner.steamgames.com
 playartifact.com
 help.steampowered.com
 www.counter-strike.net
+api.steampowered.com
 www.dota2.com
 steamcommunity.com
-api.steampowered.com
 www.valvesoftware.com
 store.steampowered.com
 www.teamfortress.com
@@ -3288,9 +3288,9 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
+auth.crypto.com
 *.mona.co
 tax.crypto.com
-auth.crypto.com
 js.crypto.com
 www.crypto.com
 app.mona.co
@@ -3605,8 +3605,8 @@ cart.starbucks.co.jp
 www.starbucks.co.kr
 gift.starbucks.co.jp
 app.starbucks.com
-www.starbucks.com
 www.starbucks.com.cn
+www.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3952,8 +3952,8 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 www.hoteltonight.com
 *.airbnbcitizen.com
-api.airbnb.com
 *.withairbnb.com
+api.airbnb.com
 next.airbnb.com
 *.hoteltonight-test.com
 www.airbnb.com
@@ -4038,6 +4038,7 @@ cloudflareworkers.com
 api.cloudflare.com
 waf.cumulusfire.net
 one.dash.cloudflare.com
+*.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
@@ -4062,8 +4063,8 @@ simperium.com
 akismet.com
 gravatar.com
 *.tumblr.com
-mailpoet.com
 wordpress.com
+mailpoet.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
@@ -4170,8 +4171,8 @@ cover-photos-us-east-2.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 a5s.hackerone-ext-content.com
-www.wearehackerone.com
 hackerone-ext-content.com
+www.wearehackerone.com
 hackerone-user-content.com
 hackerone.live
 errors.hackerone.net
