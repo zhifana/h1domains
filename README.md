@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 20 00:59:05 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 20 01:49:49 UTC 2024)
 ```
 www.dyson.ie
 www.dyson.ch
@@ -432,8 +432,8 @@ mediacenter.23andme.com
 research.23andme.com
 therapeutics.23andme.com
 store.23andme.com
-you.23andme.com
 medical.23andme.com
+you.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -452,14 +452,14 @@ www.mercadolibre.com.mx
 www.mercadolibre.com.pe
 www.mercadolibre.com.uy
 www.mercadopago.cl
-www.mercadopago.com.br
 www.mercadolibre.com.co
 www.mercadolibre.cl
-api.mercadopago.com
 api.mercadolibre.com
+api.mercadopago.com
+www.mercadolibre.com.ar
+www.mercadopago.com.br
 www.mercadopago.com.ar
 www.mercadolivre.com.br
-www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -508,8 +508,8 @@ teleport.fareharbor.engineering
 booking.com
 *.rentalcars.com
 *.booking.com
-account.booking.com
 careers.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -780,8 +780,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
-yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -821,16 +821,16 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-aus5.mozilla.org
-shavar.services.mozilla.com
-push.services.mozilla.com
-crash-reports.allizom.org
-firefox.settings.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 addons.allizom.org
 crash-stats.allizom.org
 bugzilla.mozilla.org
 phabricator.allizom.org
+aus5.mozilla.org
+shavar.services.mozilla.com
+firefox.settings.services.mozilla.com
+push.services.mozilla.com
+crash-reports.allizom.org
 lando.services.mozilla.com
 sync.services.mozilla.com
 hg.mozilla.org
@@ -931,9 +931,9 @@ injob.indriver.com
 watchdocs.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 *.indriver.com
-*.indriverapp.com
 *.indrive.com
 truck-api.eu-east-1.indriverapp.com
+*.indriverapp.com
 auth.indrive.tech
 *.indriverapp.com
 *.indrive.com
@@ -1309,9 +1309,9 @@ portfolio.metamask.io
 checkout.razorpay.com
 payroll.razorpay.com
 x.razorpay.com
-api.razorpay.com
 invoices.razorpay.com
 dashboard.razorpay.com
+api.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -1798,8 +1798,8 @@ old.reddit.com
 ads.reddit.com
 new.reddit.com
 api.reddit.com
-matrix.redditspace.com
 *.reddit.com
+matrix.redditspace.com
 www.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -2009,9 +2009,9 @@ api.adm.cloud.com
 (yoursubdomain).sharefile.com
 www.cloud.com
 (yoursubdomain).sharefile.eu
+secure.sharefile.com
 adm.cloud.com
 citrix.cloud.com
-secure.sharefile.com
 secure.sharefile.eu
 citrix.cloud.com
 www.cloud.com
@@ -2045,19 +2045,19 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 live-backstage.tiktok.com
 effecthouse.tiktok.com
-shop.tiktok.com
 developers.tiktok.com
+shop.tiktok.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
-creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
+creatormarketplace.tiktok.com
 *.tiktokv.com
 business.tiktok.com
 careers.tiktok.com
+tiktok.com
+*.tiktok.com
 ads.tiktok.com
 partner.tiktokshop.com
-*.tiktok.com
-tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2122,8 +2122,8 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.acronis.work
-account.acronis.com
 *.5nine.com
+account.acronis.com
 beta-cloud.acronis.com
 *.acronis.com
 *-api-*.acronis.com
@@ -2529,8 +2529,8 @@ www.alibabagroup.com
 *.tmall.com
 *.aliyun.com
 *.aliexpress.com
-*.taobao.com
 *.alibaba.com
+*.taobao.com
 *.Daraz.com
 *.alibaba.com
 *.aliexpress.com
@@ -2626,8 +2626,8 @@ help.marriott.com
 mipartnerprivileges.marriott.com
 travelagents.marriott.com/
 activities.marriott.com
-homes-and-villas.marriott.com
 traveler.marriott.com
+homes-and-villas.marriott.com
 www.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
@@ -3035,14 +3035,14 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
+us.tvg.com
 ia.tvg.com
+www.4njbets.com
 tvg.com
 mobile-prod.tvg.com
 login.tvg.com
 *racing.fanduel.com
 www.tvg.com
-us.tvg.com
-www.4njbets.com
 fdbox.net
 *.fanduel.com
 sportsbook.fanduel.com
@@ -3076,6 +3076,13 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3084,13 +3091,6 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
 www.loanbuilder.com
@@ -3341,7 +3341,6 @@ plaid.com
 www.crowdstrike.org
 falcon-sandbox.com
 hybrid-analysis.com
-www.crowdstrike.com
 *.humio.com
 *.securecircle.com
 *.reposify.com
@@ -3349,6 +3348,7 @@ www.crowdstrike.com
 *.preempt.com
 *.preemptsecurity.com
 *.crowdstrike.com
+www.crowdstrike.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3743,8 +3743,8 @@ app.deriv.com
 oauth.deriv.com
 *.deriv.cloud
 *.binary.com
-api.deriv.com
 *.deriv.com
+api.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3821,10 +3821,10 @@ shopifyinbox.com
 *.shopify.io
 partners.shopify.com
 accounts.shopify.com
-shop.app
 your-store.myshopify.com
 admin.shopify.com
 *.shopify.com
+shop.app
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -4035,8 +4035,8 @@ api.x.ai
 ide.x.ai
 grok.x.ai
 *.twimg.com
-*.twitter.com
 x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4072,11 +4072,11 @@ my.pressable.com
 intensedebate.com
 simplenote.com
 simperium.com
-wordpress.com
 akismet.com
 gravatar.com
 *.tumblr.com
 mailpoet.com
+wordpress.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
