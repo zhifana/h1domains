@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 20 23:20:53 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 20 23:43:04 UTC 2024)
 ```
 www.dyson.ie
 www.dyson.ch
@@ -311,9 +311,9 @@ webonboarding-eu.truecaller.com
 cards.remitly.io
 api.remitly.io
 rates.rewire.com
-rewire.com
 app3.rewire.to
 remitly.com
+rewire.com
 app.rewire.to
 remitly.com
 api.remitly.io
@@ -396,8 +396,8 @@ sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 demo.dynamic.xyz
-app.dynamic.xyz
 app.dynamic-preprod.xyz
+app.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -423,7 +423,6 @@ logo.zyro.com
 www.niagahoster.co.id
 https://passport.eufy.com/?app=eufy-us
 api.23andme.com
-auth.23andme.com
 blog.23andme.com
 education.23andme.com
 mediacenter.23andme.com
@@ -432,6 +431,7 @@ therapeutics.23andme.com
 store.23andme.com
 medical.23andme.com
 you.23andme.com
+auth.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -573,8 +573,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -893,8 +893,8 @@ hiltonlocalbiz.com
 hiltonhotels.jp
 *.hilton.io
 hilton.com
-hilton.io
 *.hilton.com
+hilton.io
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -936,9 +936,9 @@ new-order.eu-east-1.indriverapp.com
 *.indrive.com
 auth.indrive.tech
 *.indriverapp.com
-ci.indrive.dev
 *.indriver.com
 truck-api.eu-east-1.indriverapp.com
+ci.indrive.dev
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1944,8 +1944,8 @@ ccloud.yoti.com
 core.yoti.com
 www.yotisign.com
 code.yoti.com
-hub.yoti.com
 identity.yoti.com
+hub.yoti.com
 api.yoti.com
 core.yoti.com
 api.yoti.com
@@ -2057,12 +2057,12 @@ academy-outbound-ads.tiktok.com
 careers.tiktok.com
 tiktok.com
 creatormarketplace.tiktok.com
-business.tiktok.com
 *.tiktok.com
+business.tiktok.com
 partner.tiktokshop.com
 fp-sg.tiktokv.com
-ads.tiktok.com
 shop.tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2552,8 +2552,8 @@ konfigurator.bmw-motorrad.de
 configure.mini.de
 www.bmw-motorrad.de
 www.mini.de
-configure.bmw.de
 www.bmw.de
+configure.bmw.de
 www.bmw.de
 www.mini.de
 www.bmw-motorrad.de
@@ -2566,8 +2566,8 @@ api.fortmatic.com
 x2.fortmatic.com
 careers.fortmatic.com
 dashboard.fortmatic.com
-auth.magic.link
 dashboard.magic.link
+auth.magic.link
 api.fortmatic.com
 x2.fortmatic.com
 careers.fortmatic.com
@@ -3039,14 +3039,14 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
+us.tvg.com
 ia.tvg.com
 www.4njbets.com
-us.tvg.com
 tvg.com
-login.tvg.com
-www.tvg.com
 mobile-prod.tvg.com
+login.tvg.com
 *racing.fanduel.com
+www.tvg.com
 fdbox.net
 sportsbook.fanduel.com
 *.fanduel.com
@@ -3080,6 +3080,13 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3088,13 +3095,6 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 *.paylution.com
 www.loanbuilder.com
 my.swiftfinancial.com
@@ -3104,8 +3104,8 @@ my.swiftfinancial.com
 paypalobjects.com
 *.paypalcorp.com
 *.braintreegateway.com
-*.paypal.com
 *.hyperwallet.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3286,9 +3286,9 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-auth.crypto.com
 *.mona.co
 tax.crypto.com
+auth.crypto.com
 js.crypto.com
 www.crypto.com
 app.mona.co
@@ -3431,8 +3431,8 @@ gifts.grab.com
 jira.grab.com
 *.myteksi.com
 api.grabpay.com
-*.grab.com
 *.ovo.id
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3825,10 +3825,10 @@ arrive-server.shopifycloud.com
 accounts.shopify.com
 partners.shopify.com
 shop.app
+shopifyinbox.com
 *.shopify.com
 your-store.myshopify.com
 admin.shopify.com
-shopifyinbox.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3950,8 +3950,8 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 www.hoteltonight.com
 *.airbnbcitizen.com
-api.airbnb.com
 *.withairbnb.com
+api.airbnb.com
 next.airbnb.com
 *.hoteltonight-test.com
 www.airbnb.com
@@ -4174,12 +4174,12 @@ hackerone.live
 errors.hackerone.net
 ctf.hacker101.com
 api.hackerone.com
-app.pullrequest.com
 cover-photos.hackerone-user-content.com
+app.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
+hackerone.com
 profile-photos.hackerone-user-content.com
 www.hackerone.com
-hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4371,8 +4371,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 magento.com
 marketplace.magento.com
 magentocommerce.com
