@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 20 08:22:25 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 20 08:41:44 UTC 2024)
 ```
 www.dyson.ie
 www.dyson.ch
@@ -311,8 +311,8 @@ video-callerid-eu.truecaller.com
 webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
-app.rewire.to
 rewire.com
+app.rewire.to
 app3.rewire.to
 api.remitly.io
 rates.rewire.com
@@ -454,11 +454,11 @@ www.mercadolibre.com.uy
 www.mercadopago.cl
 www.mercadolibre.com.co
 api.mercadopago.com
-www.mercadopago.com.ar
 www.mercadopago.com.br
 www.mercadolivre.com.br
-www.mercadolibre.cl
+www.mercadopago.com.ar
 www.mercadolibre.com.ar
+www.mercadolibre.cl
 api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -506,9 +506,9 @@ www.fareharbor.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
 booking.com
-careers.booking.com
 *.booking.com
 *.rentalcars.com
+careers.booking.com
 account.booking.com
 *.booking.com
 *.rentalcars.com
@@ -575,8 +575,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -821,16 +821,16 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-firefox.settings.services.mozilla.com
+aus5.mozilla.org
+shavar.services.mozilla.com
 push.services.mozilla.com
-phabricator.allizom.org
+firefox.settings.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 addons.allizom.org
 crash-stats.allizom.org
-aus5.mozilla.org
-shavar.services.mozilla.com
-sync.services.mozilla.com
+phabricator.allizom.org
 lando.services.mozilla.com
+sync.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
@@ -855,13 +855,13 @@ firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 phabricator.allizom.org
-community-tc.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
+community-tc.services.mozilla.com
 www.mozilla.org
-api.profiler.firefox.com
-vpn.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
+api.profiler.firefox.com
+vpn.mozilla.org
 support.mozilla.org
 hg.mozilla.org
 relay.firefox.com
@@ -911,8 +911,8 @@ hiltonlocalbiz.com
 hiltonhotels.jp
 *.okx.com
 *.okcoin.com
-*.oklink.com
 *.okg.com
+*.oklink.com
 *.okx.com
 *.okcoin.com
 *.oklink.com
@@ -1122,8 +1122,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.hypermint.com
 *.moonpaycloud.com
+*.hypermint.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1368,8 +1368,8 @@ pwapi.ex2b.com
 exness.com
 api.excalls.mobi
 my.exness.com
-social-trading.exness.com
 exnessaffiliates.com
+social-trading.exness.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1805,8 +1805,8 @@ old.reddit.com
 ads.reddit.com
 new.reddit.com
 api.reddit.com
-matrix.redditspace.com
 *.reddit.com
+matrix.redditspace.com
 www.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -2012,8 +2012,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-www.cloud.com
 (yoursubdomain).sharefile.com
+www.cloud.com
 (yoursubdomain).sharefile.eu
 adm.cloud.com
 citrix.cloud.com
@@ -2825,8 +2825,8 @@ api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
-www.bookingholdings.com
 secure.rezserver.com
+www.bookingholdings.com
 flyiin.com
 www.priceline.com
 secure.rezserver.com
@@ -3042,14 +3042,14 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
-ia.tvg.com
-tvg.com
-login.tvg.com
-www.tvg.com
-mobile-prod.tvg.com
-*racing.fanduel.com
-www.4njbets.com
 us.tvg.com
+ia.tvg.com
+www.4njbets.com
+tvg.com
+mobile-prod.tvg.com
+login.tvg.com
+*racing.fanduel.com
+www.tvg.com
 fdbox.net
 *.fanduel.com
 sportsbook.fanduel.com
@@ -3101,8 +3101,8 @@ scrutiny.swiftfinancial.com
 *.paylution.com
 www.loanbuilder.com
 my.swiftfinancial.com
-*.braintreegateway.com
 *.venmo.com
+*.braintreegateway.com
 *.xoom.com
 *.paypalcorp.com
 *.hyperwallet.com
@@ -3270,9 +3270,9 @@ partner.steamgames.com
 playartifact.com
 help.steampowered.com
 www.counter-strike.net
+api.steampowered.com
 www.dota2.com
 steamcommunity.com
-api.steampowered.com
 www.valvesoftware.com
 store.steampowered.com
 www.teamfortress.com
@@ -3724,8 +3724,8 @@ api.grofers.com
 api2.grofers.com
 *.zomans.com
 blinkit.com
-*.runnr.in
 *.zomato.com
+*.runnr.in
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3829,9 +3829,9 @@ shopifyinbox.com
 partners.shopify.com
 accounts.shopify.com
 your-store.myshopify.com
+shop.app
 admin.shopify.com
 *.shopify.com
-shop.app
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3876,8 +3876,8 @@ playcanvas.com
 business.snapchat.com
 app.snapchat.com
 ads.snapchat.com
-web.snapchat.com
 accounts.snapchat.com
+web.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -4190,8 +4190,8 @@ hackathon-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 cover-photos.hackerone-user-content.com
 a5s.hackerone-ext-content.com
-www.wearehackerone.com
 hackerone-ext-content.com
+www.wearehackerone.com
 app.pullrequest.com
 hackerone-user-content.com
 hackerone.live
@@ -4430,8 +4430,8 @@ login.newrelic.com
 developer.newrelic.com
 *.nr-ops.net
 synthetics.newrelic.com
-insights.newrelic.com
 rpm.newrelic.com
+insights.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
