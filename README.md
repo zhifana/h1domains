@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar 21 23:18:31 UTC 2024)
+## Domains with Bounties (Last Updated Thu Mar 21 23:42:10 UTC 2024)
 ```
 www.dyson.ie
 www.dyson.ch
@@ -429,9 +429,9 @@ therapeutics.23andme.com
 store.23andme.com
 medical.23andme.com
 auth.23andme.com
-you.23andme.com
 mediacenter.23andme.com
 research.23andme.com
+you.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -456,8 +456,8 @@ api.mercadopago.com
 www.mercadolivre.com.br
 www.mercadopago.com.br
 api.mercadolibre.com
-www.mercadolibre.com.ar
 www.mercadopago.com.ar
+www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -505,8 +505,8 @@ teleport.fareharbor.engineering
 careers.booking.com
 *.rentalcars.com
 flights.booking.com
-booking.com
 *.booking.com
+booking.com
 account.booking.com
 *.booking.com
 *.rentalcars.com
@@ -819,15 +819,15 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-aus5.mozilla.org
-shavar.services.mozilla.com
-push.services.mozilla.com
 firefox.settings.services.mozilla.com
+push.services.mozilla.com
+phabricator.allizom.org
 addons.allizom.org
 crash-stats.allizom.org
-phabricator.allizom.org
-lando.services.mozilla.com
+aus5.mozilla.org
+shavar.services.mozilla.com
 sync.services.mozilla.com
+lando.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
@@ -861,8 +861,8 @@ profiler.firefox.com
 support.mozilla.org
 hg.mozilla.org
 monitor.mozilla.org
-relay.firefox.com
 developer.mozilla.org
+relay.firefox.com
 www.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
@@ -1173,14 +1173,14 @@ www.expediagroup.com
 *.expediapartnercentral.com
 www.expediapartnersolutions.com
 *.travelocity.ca
-*.travelocity.com
 www.fewo-direkt.de
+*.travelocity.com
 www.flights.com
-*.expediacruises.com
 *.hotwire.com
+*.expediacruises.com
 *.vrbo.com
-*.carrentals.com
 www.expedia.com
+*.carrentals.com
 *.wotif.com
 *.vrbo.com
 *.hotwire.com
@@ -1210,8 +1210,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.workers.dev
 *.magiceden.dev
-*.magiceden.io
 magiceden.io
+*.magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1753,9 +1753,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
+*.touchtechpayments.com
 *.recko.io
 js.stripe.com
-*.touchtechpayments.com
 app.taxjar.com
 api.stripe.com
 *.stripe.com
@@ -1940,8 +1940,8 @@ hackers_chosendomain.larksuite.com
 ccloud.yoti.com
 core.yoti.com
 api.yoti.com
-code.yoti.com
 hub.yoti.com
+code.yoti.com
 identity.yoti.com
 www.yotisign.com
 core.yoti.com
@@ -2006,11 +2006,11 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-www.cloud.com
 (yoursubdomain).sharefile.com
+www.cloud.com
 (yoursubdomain).sharefile.eu
-citrix.cloud.com
 secure.sharefile.com
+citrix.cloud.com
 secure.sharefile.eu
 accounts.cloud.com
 api.sharefile.com
@@ -2057,9 +2057,9 @@ business.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 partner.tiktokshop.com
-*.tiktokv.com
 ads.tiktok.com
 *.tiktok.com
+*.tiktokv.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -3088,8 +3088,8 @@ my.swiftfinancial.com
 *.paypalcorp.com
 *.braintreegateway.com
 paypalobjects.com
-www.loanbuilder.com
 *.paypal.com
+www.loanbuilder.com
 *.hyperwallet.com
 www.paypal-*.com
 *.xoom.com
@@ -3271,9 +3271,9 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
+auth.crypto.com
 *.mona.co
 tax.crypto.com
-auth.crypto.com
 js.crypto.com
 app.mona.co
 pay.crypto.com
@@ -3412,8 +3412,8 @@ wiki.grab.com
 grab.careers
 gifts.grab.com
 *.myteksi.net
-api.grabpay.com
 *.ovo.id
+api.grabpay.com
 *.grab.com
 *.myteksi.com
 kartaview.org
@@ -3657,9 +3657,9 @@ education.github.com
 npmjs.org
 gist.github.com
 *.githubusercontent.com
-api.github.com
-npmjs.com
 github.com
+npmjs.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3718,8 +3718,8 @@ api.grofers.com
 api2.grofers.com
 blinkit.com
 *.algolia.net
-*.algolianet.com
 www.algolia.com
+*.algolianet.com
 *.algolia.net
 *.algolianet.com
 www.algolia.com
@@ -3938,8 +3938,8 @@ www.hoteltonight.com
 api.airbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
-*.airbnb.com
 www.airbnb.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
