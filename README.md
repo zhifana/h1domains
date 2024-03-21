@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar 21 21:19:18 UTC 2024)
+## Domains with Bounties (Last Updated Thu Mar 21 21:41:38 UTC 2024)
 ```
 www.dyson.ie
 www.dyson.ch
@@ -96,7 +96,6 @@ www.dyson.com.ua
 account-onboarding-noneu.truecaller.com
 ads-audience-ingestion-noneu.truecaller.com
 ads-audience-uploader.truecaller.com
-ads-config-engine-noneu.truecaller.com
 ads-rules-asia-south1.truecaller.com
 ads-rules-noneu.truecaller.com
 ads5-asia-south1.truecaller.com
@@ -143,6 +142,7 @@ images-asia-south1.truecaller.com
 images.truecaller.com
 insights-categorizer-noneu.truecaller.com
 leadgen-asia-south1.truecaller.com
+messenger-previews-asia-south1.truecaller.com
 business.truecaller.com
 account-noneu.truecaller.com
 account-onboarding-noneu.truecaller.com
@@ -309,8 +309,8 @@ video-callerid-eu.truecaller.com
 webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
-app.rewire.to
 rewire.com
+app.rewire.to
 api.remitly.io
 rates.rewire.com
 remitly.com
@@ -455,9 +455,9 @@ www.mercadolibre.cl
 api.mercadopago.com
 api.mercadolibre.com
 www.mercadolivre.com.br
-www.mercadopago.com.ar
 www.mercadopago.com.br
 www.mercadolibre.com.ar
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -505,8 +505,8 @@ teleport.fareharbor.engineering
 careers.booking.com
 *.rentalcars.com
 flights.booking.com
-*.booking.com
 booking.com
+*.booking.com
 account.booking.com
 *.booking.com
 *.rentalcars.com
@@ -545,8 +545,8 @@ www.fareharbor.com
 teleport.fareharbor.engineering
 *.bybit.com
 *.bybit.com
-portal.au.frontegg.com
 api.au.frontegg.com
+portal.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 api2.frontapp.com
@@ -819,20 +819,20 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-addons.allizom.org
-crash-stats.allizom.org
-phabricator.allizom.org
-aus5.mozilla.org
-shavar.services.mozilla.com
 firefox.settings.services.mozilla.com
 push.services.mozilla.com
-lando.services.mozilla.com
+phabricator.allizom.org
+addons.allizom.org
+crash-stats.allizom.org
+aus5.mozilla.org
+shavar.services.mozilla.com
 sync.services.mozilla.com
+lando.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
-crash-reports.allizom.org
 contile.services.mozilla.com
+crash-reports.allizom.org
 bugzilla.mozilla.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
@@ -853,11 +853,11 @@ firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 phabricator.allizom.org
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
-profiler.firefox.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 api.profiler.firefox.com
 vpn.mozilla.org
+profiler.firefox.com
 support.mozilla.org
 hg.mozilla.org
 monitor.mozilla.org
@@ -933,9 +933,9 @@ injob.indriver.com
 watchdocs.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 auth.indrive.tech
-truck-api.eu-east-1.indriverapp.com
-*.indriver.com
 ci.indrive.dev
+*.indriver.com
+truck-api.eu-east-1.indriverapp.com
 cargo.indrive.com
 *.indriverapp.com
 *.indrive.com
@@ -1066,6 +1066,7 @@ user-profile-staging.8x8.com
 connect.8x8.com
 *.jitsi.net
 sso.8x8.com
+admin.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1173,14 +1174,14 @@ www.expediagroup.com
 *.expediapartnercentral.com
 www.expediapartnersolutions.com
 *.travelocity.ca
-www.fewo-direkt.de
 *.travelocity.com
+www.fewo-direkt.de
 www.flights.com
-*.hotwire.com
 *.expediacruises.com
+*.hotwire.com
 *.vrbo.com
-www.expedia.com
 *.carrentals.com
+www.expedia.com
 *.wotif.com
 *.vrbo.com
 *.hotwire.com
@@ -1303,9 +1304,9 @@ www.dolap.com
 www.trendyol-milla.com
 *.sidefx.com
 *.sidefx.com
-snaps.metamask.io
 portfolio.metamask.io
 metamask.io
+snaps.metamask.io
 metamask.io
 snaps.metamask.io
 portfolio.metamask.io
@@ -1753,9 +1754,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
+*.touchtechpayments.com
 *.recko.io
 js.stripe.com
-*.touchtechpayments.com
 app.taxjar.com
 api.stripe.com
 *.stripe.com
@@ -1937,12 +1938,12 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-ccloud.yoti.com
 core.yoti.com
+ccloud.yoti.com
 api.yoti.com
 www.yotisign.com
-hub.yoti.com
 code.yoti.com
+hub.yoti.com
 identity.yoti.com
 core.yoti.com
 api.yoti.com
@@ -2050,8 +2051,8 @@ developers.tiktok.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 tiktok.com
-shop.tiktok.com
 fp-sg.tiktokv.com
+shop.tiktok.com
 effecthouse.tiktok.com
 business.tiktok.com
 careers.tiktok.com
@@ -2125,8 +2126,8 @@ api.faraday.ai
 account.acronis.com
 beta-cloud.acronis.com
 *.5nine.com
-*.acronis.com
 *.acronis.work
+*.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -3025,11 +3026,11 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
-login.tvg.com
 mobile-prod.tvg.com
+login.tvg.com
 *racing.fanduel.com
-www.4njbets.com
 us.tvg.com
+www.4njbets.com
 tvg.com
 sportsbook.fanduel.com
 www.tvg.com
@@ -3255,8 +3256,8 @@ www.counter-strike.net
 api.steampowered.com
 www.dota2.com
 www.teamfortress.com
-store.steampowered.com
 steamcommunity.com
+store.steampowered.com
 www.valvesoftware.com
 www.dota2.com
 support.steampowered.com
@@ -3412,8 +3413,8 @@ wiki.grab.com
 grab.careers
 gifts.grab.com
 *.myteksi.net
-api.grabpay.com
 *.ovo.id
+api.grabpay.com
 *.grab.com
 *.myteksi.com
 kartaview.org
@@ -3670,8 +3671,8 @@ education.github.com
 *.githubusercontent.com
 npmjs.com
 npmjs.org
-*ubereats.com
 *.uberinternal.com
+*ubereats.com
 *.uberinternal.com
 *ubereats.com
 api.mapbox.com
@@ -3934,12 +3935,12 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 www.hoteltonight.com
 *.airbnbcitizen.com
-api.airbnb.com
 *.withairbnb.com
+api.airbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
-www.airbnb.com
 *.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4179,8 +4180,8 @@ profile-photos.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 api.hackerone.com
 ctf.hacker101.com
-www.wearehackerone.com
 www.hackerone.com
+www.wearehackerone.com
 hackerone.com
 hackerone.com
 api.hackerone.com
