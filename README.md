@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar 21 16:23:19 UTC 2024)
+## Domains with Bounties (Last Updated Thu Mar 21 16:49:30 UTC 2024)
 ```
 www.dyson.ie
 www.dyson.ch
@@ -309,12 +309,12 @@ video-callerid-eu.truecaller.com
 webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
-rewire.com
 app.rewire.to
+rewire.com
 rates.rewire.com
 app3.rewire.to
-remitly.com
 api.remitly.io
+remitly.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -454,8 +454,8 @@ www.mercadolibre.com.co
 www.mercadolibre.cl
 api.mercadopago.com
 www.mercadopago.com.br
-www.mercadolivre.com.br
 api.mercadolibre.com
+www.mercadolivre.com.br
 www.mercadopago.com.ar
 www.mercadolibre.com.ar
 api.mercadopago.com
@@ -505,8 +505,8 @@ teleport.fareharbor.engineering
 careers.booking.com
 *.rentalcars.com
 flights.booking.com
-booking.com
 *.booking.com
+booking.com
 account.booking.com
 *.booking.com
 *.rentalcars.com
@@ -819,13 +819,13 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-phabricator.allizom.org
-addons.allizom.org
-crash-stats.allizom.org
 aus5.mozilla.org
 shavar.services.mozilla.com
-firefox.settings.services.mozilla.com
 push.services.mozilla.com
+firefox.settings.services.mozilla.com
+addons.allizom.org
+crash-stats.allizom.org
+phabricator.allizom.org
 lando.services.mozilla.com
 sync.services.mozilla.com
 hg.mozilla.org
@@ -1015,8 +1015,8 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
-mobile.s-pankki.fi
 www.prisma.fi
+mobile.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
 online.s-pankki.fi
@@ -1034,9 +1034,9 @@ cfapi.voikukka.fi
 auth.skypicker.com
 jobs.kiwi.com
 www.kiwi.com
-*.kiwi.com
 *.skypicker.com
 tequila.kiwi.com
+*.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1066,7 +1066,6 @@ user-profile-staging.8x8.com
 connect.8x8.com
 *.jitsi.net
 sso.8x8.com
-admin.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1119,8 +1118,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.hypermint.com
 *.moonpaycloud.com
+*.hypermint.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1174,11 +1173,11 @@ www.expediagroup.com
 *.expediapartnercentral.com
 www.expediapartnersolutions.com
 *.travelocity.ca
-*.travelocity.com
 www.fewo-direkt.de
+*.travelocity.com
 www.flights.com
-*.expediacruises.com
 *.hotwire.com
+*.expediacruises.com
 *.vrbo.com
 *.carrentals.com
 *.wotif.com
@@ -1209,8 +1208,8 @@ www.fewo-direkt.de
 www.stayz.com.au
 www.expediagroup.com
 www.flights.com
-magiceden.io
 *.magiceden.io
+magiceden.io
 *.magiceden.workers.dev
 *.magiceden.dev
 magiceden.io
@@ -1304,9 +1303,9 @@ www.dolap.com
 www.trendyol-milla.com
 *.sidefx.com
 *.sidefx.com
-snaps.metamask.io
 portfolio.metamask.io
 metamask.io
+snaps.metamask.io
 metamask.io
 snaps.metamask.io
 portfolio.metamask.io
@@ -2251,9 +2250,9 @@ api.account.clario.co
 kbill.mackeeper.com
 api-ne.mackeeper.com
 mkapi.mackeeper.com
-mackeeper.com
 account.mackeeper.com
 clario.co
+mackeeper.com
 account.mackeeper.com
 clario.co
 api.account.clario.co
@@ -3026,16 +3025,16 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
-login.tvg.com
-www.tvg.com
-mobile-prod.tvg.com
-*racing.fanduel.com
 www.4njbets.com
 us.tvg.com
+login.tvg.com
+mobile-prod.tvg.com
+*racing.fanduel.com
 tvg.com
 sportsbook.fanduel.com
 *.fanduel.com
 fdbox.net
+www.tvg.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3090,8 +3089,8 @@ my.swiftfinancial.com
 *.braintreegateway.com
 *.hyperwallet.com
 paypalobjects.com
-www.loanbuilder.com
 *.paypal.com
+www.loanbuilder.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3253,8 +3252,8 @@ partner.steamgames.com
 playartifact.com
 help.steampowered.com
 www.counter-strike.net
-www.dota2.com
 api.steampowered.com
+www.dota2.com
 www.teamfortress.com
 steamcommunity.com
 store.steampowered.com
@@ -3658,9 +3657,9 @@ education.github.com
 npmjs.org
 gist.github.com
 *.githubusercontent.com
-npmjs.com
 github.com
 api.github.com
+npmjs.com
 github.com
 api.github.com
 gist.github.com
@@ -3719,19 +3718,19 @@ api.grofers.com
 api2.grofers.com
 blinkit.com
 *.algolia.net
-www.algolia.com
 *.algolianet.com
+www.algolia.com
 *.algolia.net
 *.algolianet.com
 www.algolia.com
 cashier.deriv.com
 secure-dfadmin.deriv.com
-derivws.com
 *.derivws.com
+derivws.com
 smarttrader.deriv.com
 *.deriv.cloud
-oauth.deriv.com
 *.deriv.com
+oauth.deriv.com
 app.deriv.com
 api.deriv.com
 *.binary.com
@@ -3811,9 +3810,9 @@ arrive-server.shopifycloud.com
 partners.shopify.com
 shop.app
 admin.shopify.com
-*.shopify.com
 shopifyinbox.com
 accounts.shopify.com
+*.shopify.com
 your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
@@ -3856,10 +3855,10 @@ login.playcanvas.com
 geofilters.snapchat.com
 playcanvas.com
 app.snapchat.com
-business.snapchat.com
 web.snapchat.com
-ads.snapchat.com
+business.snapchat.com
 www.bitmoji.com
+ads.snapchat.com
 accounts.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
@@ -3939,8 +3938,8 @@ www.hoteltonight.com
 api.airbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
-*.airbnb.com
 www.airbnb.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4082,11 +4081,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
+api.coinbase.com
 institutional.coinbase.com
 *.base.org
 international.coinbase.com
