@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar 21 08:44:07 UTC 2024)
+## Domains with Bounties (Last Updated Thu Mar 21 09:19:57 UTC 2024)
 ```
 www.dyson.ie
 www.dyson.ch
@@ -310,11 +310,11 @@ webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
 api.remitly.io
-rates.rewire.com
-app3.rewire.to
 rewire.com
+app3.rewire.to
 app.rewire.to
 remitly.com
+rates.rewire.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -506,8 +506,8 @@ careers.booking.com
 *.rentalcars.com
 account.booking.com
 flights.booking.com
-*.booking.com
 booking.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -778,8 +778,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
-yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -796,9 +796,9 @@ app.avtoelon.uz
 id.avtoelon.uz
 m.kolesa.kz
 api.krisha.kz
-avtoelon.uz
 m.avtoelon.uz
 kolesa.kz
+avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -892,9 +892,9 @@ hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 hiltonhotels.jp
 *.hilton.io
+hilton.io
 hilton.com
 *.hilton.com
-hilton.io
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -909,8 +909,8 @@ hiltonlocalbiz.com
 hiltonhotels.jp
 *.okx.com
 *.okg.com
-*.okcoin.com
 *.oklink.com
+*.okcoin.com
 *.okx.com
 *.okcoin.com
 *.oklink.com
@@ -934,8 +934,8 @@ watchdocs.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 *.indrive.com
 auth.indrive.tech
-*.indriver.com
 truck-api.eu-east-1.indriverapp.com
+*.indriver.com
 ci.indrive.dev
 *.indriverapp.com
 cargo.indrive.com
@@ -1035,8 +1035,8 @@ auth.skypicker.com
 jobs.kiwi.com
 tequila.kiwi.com
 www.kiwi.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1065,7 +1065,6 @@ user-profile-staging.8x8.com
 *.8x8staging.com
 connect.8x8.com
 *.jitsi.net
-sso.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1118,9 +1117,9 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
+*.hypermint.com
 *.moonpaycloud.com
 *.moonpay.com
-*.hypermint.com
 *.moonpaycloud.com
 *.hypermint.com
 *.moonpay.com
@@ -1173,15 +1172,15 @@ www.expediagroup.com
 *.expediapartnercentral.com
 www.expediapartnersolutions.com
 *.travelocity.ca
-*.travelocity.com
 www.fewo-direkt.de
 www.expedia.com
+*.travelocity.com
 *.vrbo.com
 www.flights.com
-*.expediacruises.com
 *.wotif.com
 *.carrentals.com
 *.hotwire.com
+*.expediacruises.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1209,8 +1208,8 @@ www.stayz.com.au
 www.expediagroup.com
 www.flights.com
 *.magiceden.dev
-magiceden.io
 *.magiceden.io
+magiceden.io
 *.magiceden.workers.dev
 magiceden.io
 *.magiceden.io
@@ -1245,9 +1244,9 @@ askpam.ai
 pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
-*.deribit.com
 insights.deribit.com
 test.deribit.com
+*.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1626,8 +1625,8 @@ geminiadvisory.io
 hatching.io
 tria.ge
 app.recordedfuture.com
-id.recordedfuture.com
 www.recordedfuture.com
+id.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1753,9 +1752,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
+*.touchtechpayments.com
 *.recko.io
 js.stripe.com
-*.touchtechpayments.com
 app.taxjar.com
 api.stripe.com
 *.stripe.com
@@ -1941,8 +1940,8 @@ ccloud.yoti.com
 core.yoti.com
 code.yoti.com
 identity.yoti.com
-api.yoti.com
 hub.yoti.com
+api.yoti.com
 www.yotisign.com
 core.yoti.com
 api.yoti.com
@@ -1961,9 +1960,9 @@ internal-docs.netlify.com
 internal.netlify.com
 *.ops.netlify.com
 *.infra-prod.nsvcs.net
+*.services.netlify.com
 app.netlify.com
 netlify-rum.netlify.app
-*.services.netlify.com
 api.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
@@ -2006,8 +2005,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 adm.cloud.com
 citrix.cloud.com
@@ -2049,17 +2048,17 @@ live-backstage.tiktok.com
 developers.tiktok.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
-*.tiktokv.com
 tiktok.com
-shop.tiktok.com
-partner.tiktokshop.com
 fp-sg.tiktokv.com
+shop.tiktok.com
 effecthouse.tiktok.com
 business.tiktok.com
-*.tiktok.com
 creatormarketplace.tiktok.com
+*.tiktok.com
 careers.tiktok.com
 ads.tiktok.com
+*.tiktokv.com
+partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2126,8 +2125,8 @@ api.faraday.ai
 account.acronis.com
 beta-cloud.acronis.com
 *.5nine.com
-*.acronis.work
 *.acronis.com
+*.acronis.work
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2528,11 +2527,11 @@ www.alibabagroup.com
 *.alibabacloud.com
 *.tmall.com
 *.aliexpress.com
-*.1688.com
 *.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.Daraz.com
+*.1688.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2821,7 +2820,7 @@ reservations.rezserver.com
 cruises.priceline.com
 www.bookingholdings.com
 flyiin.com
-priceline.com
+www.getaroom.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3038,13 +3037,13 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
-www.4njbets.com
-us.tvg.com
 tvg.com
-login.tvg.com
-www.tvg.com
 mobile-prod.tvg.com
+login.tvg.com
 *racing.fanduel.com
+www.tvg.com
+us.tvg.com
+www.4njbets.com
 fdbox.net
 sportsbook.fanduel.com
 *.fanduel.com
@@ -3094,7 +3093,6 @@ loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
 *.paylution.com
-www.loanbuilder.com
 my.swiftfinancial.com
 *.venmo.com
 *.xoom.com
@@ -3104,6 +3102,7 @@ my.swiftfinancial.com
 *.hyperwallet.com
 *.paypal.com
 paypalobjects.com
+www.loanbuilder.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3284,9 +3283,9 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
+auth.crypto.com
 *.mona.co
 tax.crypto.com
-auth.crypto.com
 js.crypto.com
 app.mona.co
 pay.crypto.com
@@ -3426,8 +3425,8 @@ grab.careers
 gifts.grab.com
 *.myteksi.net
 jira.grab.com
-api.grabpay.com
 *.ovo.id
+api.grabpay.com
 *.grab.com
 *.myteksi.com
 kartaview.org
@@ -3671,8 +3670,8 @@ npmjs.org
 gist.github.com
 *.githubusercontent.com
 npmjs.com
-github.com
 api.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3821,12 +3820,12 @@ arrive-server.shopifycloud.com
 *.shopifycloud.com
 *.shopify.io
 partners.shopify.com
+shop.app
+shopifyinbox.com
 *.shopify.com
 your-store.myshopify.com
-admin.shopify.com
-shopifyinbox.com
-shop.app
 accounts.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3952,8 +3951,8 @@ www.hoteltonight.com
 api.airbnb.com
 next.airbnb.com
 *.hoteltonight-test.com
-www.airbnb.com
 *.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4018,8 +4017,8 @@ api.x.ai
 ide.x.ai
 grok.x.ai
 *.twimg.com
-x.com
 *.twitter.com
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4165,18 +4164,18 @@ cover-photos-us-east-2.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 a5s.hackerone-ext-content.com
-www.wearehackerone.com
 hackerone-ext-content.com
+www.wearehackerone.com
 hackerone-user-content.com
 hackerone.live
 errors.hackerone.net
 ctf.hacker101.com
 api.hackerone.com
-app.pullrequest.com
 cover-photos.hackerone-user-content.com
+app.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-www.hackerone.com
 profile-photos.hackerone-user-content.com
+www.hackerone.com
 hackerone.com
 hackerone.com
 api.hackerone.com
