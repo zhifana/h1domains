@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar 21 18:42:30 UTC 2024)
+## Domains with Bounties (Last Updated Thu Mar 21 19:18:19 UTC 2024)
 ```
 www.dyson.ie
 www.dyson.ch
@@ -309,8 +309,8 @@ video-callerid-eu.truecaller.com
 webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
-app.rewire.to
 rewire.com
+app.rewire.to
 rates.rewire.com
 app3.rewire.to
 remitly.com
@@ -455,9 +455,9 @@ www.mercadolibre.cl
 api.mercadopago.com
 www.mercadopago.com.br
 api.mercadolibre.com
+www.mercadolibre.com.ar
 www.mercadopago.com.ar
 www.mercadolivre.com.br
-www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -573,8 +573,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicex.com
 test.nicehash.com
+test.nicex.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -645,8 +645,8 @@ gamma.redoxstage.com
 launch.gamma.redoxstage.com
 sftp.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-www.redoxengine.com
 testapp.redoxengine.com
+www.redoxengine.com
 10x.redoxengine.com
 10x.redoxengine.com
 testapp.redoxengine.com
@@ -777,9 +777,9 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
-yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -892,8 +892,8 @@ hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 hiltonhotels.jp
 *.hilton.io
-hilton.com
 hilton.io
+hilton.com
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -932,13 +932,13 @@ ingest.clairvoyance.indrive.tech
 injob.indriver.com
 watchdocs.indriverapp.com
 new-order.eu-east-1.indriverapp.com
-*.indrive.com
 auth.indrive.tech
-truck-api.eu-east-1.indriverapp.com
-*.indriver.com
 ci.indrive.dev
+*.indriver.com
+truck-api.eu-east-1.indriverapp.com
 cargo.indrive.com
 *.indriverapp.com
+*.indrive.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1179,9 +1179,9 @@ www.flights.com
 *.hotwire.com
 *.expediacruises.com
 *.vrbo.com
-www.expedia.com
 *.carrentals.com
 *.wotif.com
+www.expedia.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1208,8 +1208,8 @@ www.fewo-direkt.de
 www.stayz.com.au
 www.expediagroup.com
 www.flights.com
-magiceden.io
 *.magiceden.io
+magiceden.io
 *.magiceden.workers.dev
 *.magiceden.dev
 magiceden.io
@@ -1303,9 +1303,9 @@ www.dolap.com
 www.trendyol-milla.com
 *.sidefx.com
 *.sidefx.com
-snaps.metamask.io
 portfolio.metamask.io
 metamask.io
+snaps.metamask.io
 metamask.io
 snaps.metamask.io
 portfolio.metamask.io
@@ -1757,8 +1757,8 @@ api.taxjar.com
 js.stripe.com
 *.touchtechpayments.com
 app.taxjar.com
-*.stripe.com
 api.stripe.com
+*.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1962,9 +1962,9 @@ internal.netlify.com
 *.ops.netlify.com
 *.infra-prod.nsvcs.net
 *.services.netlify.com
-app.netlify.com
 netlify-rum.netlify.app
 api.netlify.com
+app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -2006,8 +2006,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-www.cloud.com
 (yoursubdomain).sharefile.com
+www.cloud.com
 (yoursubdomain).sharefile.eu
 adm.cloud.com
 citrix.cloud.com
@@ -2050,16 +2050,16 @@ developers.tiktok.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 tiktok.com
-fp-sg.tiktokv.com
 shop.tiktok.com
+fp-sg.tiktokv.com
 effecthouse.tiktok.com
 business.tiktok.com
 careers.tiktok.com
-*.tiktok.com
+*.tiktokv.com
+ads.tiktok.com
 creatormarketplace.tiktok.com
 partner.tiktokshop.com
-ads.tiktok.com
-*.tiktokv.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2527,9 +2527,9 @@ updates.amazon.com
 *.aliexpress.com
 *.aliyun.com
 *.taobao.com
+*.alibaba.com
 www.alibabagroup.com
 *.1688.com
-*.alibaba.com
 *.Daraz.com
 *.aliyun-inc.com
 *.alibaba.com
@@ -3031,10 +3031,10 @@ mobile-prod.tvg.com
 login.tvg.com
 *racing.fanduel.com
 tvg.com
+*.fanduel.com
 sportsbook.fanduel.com
 www.tvg.com
 fdbox.net
-*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3252,8 +3252,8 @@ partner.steamgames.com
 playartifact.com
 help.steampowered.com
 www.counter-strike.net
-api.steampowered.com
 www.dota2.com
+api.steampowered.com
 www.teamfortress.com
 steamcommunity.com
 store.steampowered.com
@@ -3271,9 +3271,9 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-auth.crypto.com
 *.mona.co
 tax.crypto.com
+auth.crypto.com
 js.crypto.com
 app.mona.co
 pay.crypto.com
@@ -3472,8 +3472,8 @@ ccardsus1.badoo.com
 chatdate.app
 getofficial.co
 backstage.io
-api.spotify.com
 assets.spotify.com
+api.spotify.com
 assets.spotify.com
 api.spotify.com
 backstage.io
@@ -3718,8 +3718,8 @@ api.grofers.com
 api2.grofers.com
 blinkit.com
 *.algolia.net
-www.algolia.com
 *.algolianet.com
+www.algolia.com
 *.algolia.net
 *.algolianet.com
 www.algolia.com
@@ -3808,12 +3808,12 @@ arrive-server.shopifycloud.com
 *.shopifycloud.com
 *.shopify.io
 partners.shopify.com
-admin.shopify.com
 shopifyinbox.com
-your-store.myshopify.com
 *.shopify.com
-accounts.shopify.com
 shop.app
+accounts.shopify.com
+your-store.myshopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3937,9 +3937,9 @@ www.hoteltonight.com
 *.withairbnb.com
 api.airbnb.com
 *.hoteltonight-test.com
+*.airbnb.com
 next.airbnb.com
 www.airbnb.com
-*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4160,10 +4160,10 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 cover-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 api.hackerone.com
-ctf.hacker101.com
-www.hackerone.com
 www.wearehackerone.com
 hackerone.com
+ctf.hacker101.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4404,8 +4404,8 @@ alerts.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
 synthetics.newrelic.com
-insights.newrelic.com
 rpm.newrelic.com
+insights.newrelic.com
 one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
