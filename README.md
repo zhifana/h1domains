@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar 22 02:40:18 UTC 2024)
+## Domains with Bounties (Last Updated Fri Mar 22 03:20:01 UTC 2024)
 ```
 www.dyson.ie
 www.dyson.ch
@@ -776,10 +776,10 @@ www.visainfinite.ca
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
-yourdomain.freshchat.com
-yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
 yourdomain.freshservice.com
+yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -853,11 +853,11 @@ firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 phabricator.allizom.org
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
-profiler.firefox.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 api.profiler.firefox.com
 vpn.mozilla.org
+profiler.firefox.com
 support.mozilla.org
 hg.mozilla.org
 monitor.mozilla.org
@@ -892,8 +892,8 @@ hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 hiltonhotels.jp
 *.hilton.io
-hilton.io
 hilton.com
+hilton.io
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -933,8 +933,8 @@ injob.indriver.com
 watchdocs.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 auth.indrive.tech
-*.indriver.com
 truck-api.eu-east-1.indriverapp.com
+*.indriver.com
 ci.indrive.dev
 cargo.indrive.com
 *.indriverapp.com
@@ -1754,9 +1754,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
+*.touchtechpayments.com
 *.recko.io
 js.stripe.com
-*.touchtechpayments.com
 app.taxjar.com
 api.stripe.com
 *.stripe.com
@@ -1938,8 +1938,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-ccloud.yoti.com
 core.yoti.com
+ccloud.yoti.com
 api.yoti.com
 code.yoti.com
 identity.yoti.com
@@ -2051,16 +2051,16 @@ developers.tiktok.com
 academy-outbound-ads.tiktok.com
 tiktok.com
 fp-sg.tiktokv.com
-shop.tiktok.com
 effecthouse.tiktok.com
 business.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 partner.tiktokshop.com
 *.tiktok.com
-*.tiktokv.com
 www.pangleglobal.com
+*.tiktokv.com
 ads.tiktok.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2528,9 +2528,9 @@ updates.amazon.com
 *.aliexpress.com
 *.aliyun.com
 *.taobao.com
-*.alibaba.com
 www.alibabagroup.com
 *.1688.com
+*.alibaba.com
 *.aliyun-inc.com
 *.Daraz.com
 *.alibaba.com
@@ -3066,6 +3066,13 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3074,13 +3081,6 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 *.paylution.com
 my.swiftfinancial.com
 *.venmo.com
@@ -3256,8 +3256,8 @@ www.counter-strike.net
 api.steampowered.com
 www.dota2.com
 www.teamfortress.com
-steamcommunity.com
 store.steampowered.com
+steamcommunity.com
 www.valvesoftware.com
 www.dota2.com
 support.steampowered.com
@@ -3415,8 +3415,8 @@ gifts.grab.com
 *.myteksi.net
 api.grabpay.com
 *.ovo.id
-*.grab.com
 *.myteksi.com
+*.grab.com
 kartaview.org
 jira.grab.com
 *.myteksi.com
@@ -3726,8 +3726,8 @@ www.algolia.com
 www.algolia.com
 cashier.deriv.com
 secure-dfadmin.deriv.com
-derivws.com
 *.derivws.com
+derivws.com
 smarttrader.deriv.com
 *.deriv.cloud
 oauth.deriv.com
@@ -3807,9 +3807,9 @@ shopify.plus
 *.shopifycs.com
 *.shopifycloud.com
 *.shopify.io
+admin.shopify.com
 partners.shopify.com
 shop.app
-admin.shopify.com
 arrive-server.shopifycloud.com
 shopifyinbox.com
 your-store.myshopify.com
@@ -3856,8 +3856,8 @@ login.playcanvas.com
 geofilters.snapchat.com
 playcanvas.com
 app.snapchat.com
-business.snapchat.com
 web.snapchat.com
+business.snapchat.com
 www.bitmoji.com
 ads.snapchat.com
 accounts.snapchat.com
@@ -3935,8 +3935,8 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 www.hoteltonight.com
 *.airbnbcitizen.com
-*.withairbnb.com
 api.airbnb.com
+*.withairbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
 www.airbnb.com
@@ -4174,8 +4174,8 @@ hackerone-ext-content.com
 hackerone.live
 errors.hackerone.net
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-cover-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
+cover-photos.hackerone-user-content.com
 api.hackerone.com
 ctf.hacker101.com
 www.hackerone.com
@@ -4422,8 +4422,8 @@ alerts.eu.newrelic.com
 *.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
-rpm.newrelic.com
 synthetics.newrelic.com
+rpm.newrelic.com
 insights.newrelic.com
 one.newrelic.com
 *.newrelic.com
