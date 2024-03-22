@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar 22 09:20:31 UTC 2024)
+## Domains with Bounties (Last Updated Fri Mar 22 09:41:10 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -817,20 +817,20 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-firefox.settings.services.mozilla.com
-push.services.mozilla.com
-phabricator.allizom.org
 addons.allizom.org
 crash-stats.allizom.org
+phabricator.allizom.org
 aus5.mozilla.org
 shavar.services.mozilla.com
-sync.services.mozilla.com
+firefox.settings.services.mozilla.com
+push.services.mozilla.com
 lando.services.mozilla.com
+sync.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
-contile.services.mozilla.com
 crash-reports.allizom.org
+contile.services.mozilla.com
 bugzilla.mozilla.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
@@ -859,8 +859,8 @@ profiler.firefox.com
 support.mozilla.org
 hg.mozilla.org
 monitor.mozilla.org
-developer.mozilla.org
 relay.firefox.com
+developer.mozilla.org
 www.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
@@ -1302,9 +1302,9 @@ www.dolap.com
 www.trendyol-milla.com
 *.sidefx.com
 *.sidefx.com
-snaps.metamask.io
 portfolio.metamask.io
 metamask.io
+snaps.metamask.io
 metamask.io
 snaps.metamask.io
 portfolio.metamask.io
@@ -1936,8 +1936,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-core.yoti.com
 ccloud.yoti.com
+core.yoti.com
 code.yoti.com
 identity.yoti.com
 hub.yoti.com
@@ -2051,14 +2051,14 @@ tiktok.com
 fp-sg.tiktokv.com
 effecthouse.tiktok.com
 business.tiktok.com
-partner.tiktokshop.com
 www.pangleglobal.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktok.com
+ads.tiktok.com
 shop.tiktok.com
 *.tiktokv.com
-ads.tiktok.com
+partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2526,8 +2526,8 @@ updates.amazon.com
 *.alibaba.com
 *.1688.com
 *.aliyun-inc.com
-*.alimama.com
 www.alibabagroup.com
+*.alimama.com
 *.Daraz.com
 *.aliyun.com
 *.alibabacloud.com
@@ -2548,8 +2548,8 @@ konfigurator.bmw-motorrad.de
 configure.mini.de
 www.bmw-motorrad.de
 configure.bmw.de
-www.bmw.de
 www.mini.de
+www.bmw.de
 www.bmw.de
 www.mini.de
 www.bmw-motorrad.de
@@ -3023,12 +3023,12 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
+us.tvg.com
 ia.tvg.com
+www.4njbets.com
 mobile-prod.tvg.com
 login.tvg.com
 *racing.fanduel.com
-us.tvg.com
-www.4njbets.com
 tvg.com
 sportsbook.fanduel.com
 www.tvg.com
@@ -3724,15 +3724,15 @@ www.algolia.com
 www.algolia.com
 cashier.deriv.com
 secure-dfadmin.deriv.com
-derivws.com
 *.derivws.com
+derivws.com
 smarttrader.deriv.com
 *.deriv.cloud
 api.deriv.com
-*.binary.com
 oauth.deriv.com
-app.deriv.com
+*.binary.com
 *.deriv.com
+app.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -4176,8 +4176,8 @@ ctf.hacker101.com
 hackerone-user-content.com
 app.pullrequest.com
 hackathon-photos.hackerone-user-content.com
-api.hackerone.com
 www.wearehackerone.com
+api.hackerone.com
 www.hackerone.com
 hackerone.com
 hackerone.com
@@ -4383,8 +4383,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 magento.com
 marketplace.magento.com
 magentocommerce.com
