@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar 23 09:42:32 UTC 2024)
+## Domains with Bounties (Last Updated Sat Mar 23 10:18:21 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -326,8 +326,8 @@ worldcoin.org
 *.toolsforhumanity.com
 bioid-management.app
 *.worldcoin.org
-*.worldcoin.dev
 *.consumer.worldcoin.org
+*.worldcoin.dev
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -449,9 +449,9 @@ www.mercadolibre.com.uy
 www.mercadolibre.com.co
 www.mercadolibre.cl
 api.mercadopago.com
-www.mercadopago.com.br
 www.mercadopago.cl
 www.mercadolivre.com.br
+www.mercadopago.com.br
 www.mercadopago.com.ar
 www.mercadolibre.com.ar
 api.mercadolibre.com
@@ -499,12 +499,12 @@ admin.booking.com
 www.fareharbor.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
-careers.booking.com
 *.rentalcars.com
+careers.booking.com
 flights.booking.com
 booking.com
-account.booking.com
 *.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -775,8 +775,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshdesk.com
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
-yourdomain.myfreshworks.com
 yourdomain.freshservice.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -816,23 +816,23 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-firefox.settings.services.mozilla.com
-push.services.mozilla.com
 phabricator.allizom.org
 addons.allizom.org
 crash-stats.allizom.org
 aus5.mozilla.org
 shavar.services.mozilla.com
-sync.services.mozilla.com
+firefox.settings.services.mozilla.com
+push.services.mozilla.com
 lando.services.mozilla.com
+sync.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
 contile.services.mozilla.com
 crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
-bugzilla.mozilla.org
 accounts.firefox.com
+bugzilla.mozilla.org
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -858,8 +858,8 @@ profiler.firefox.com
 support.mozilla.org
 hg.mozilla.org
 monitor.mozilla.org
-relay.firefox.com
 developer.mozilla.org
+relay.firefox.com
 www.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
@@ -889,8 +889,8 @@ hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 hiltonhotels.jp
 *.hilton.io
-hilton.io
 hilton.com
+hilton.io
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -2056,11 +2056,11 @@ tiktok.com
 www.pangleglobal.com
 partner.tiktokshop.com
 business.tiktok.com
-academy-outbound-ads.tiktok.com
 ads.tiktok.com
-creatormarketplace.tiktok.com
+academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 *.tiktok.com
+creatormarketplace.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2525,8 +2525,8 @@ updates.amazon.com
 *.tmall.com
 *.aliexpress.com
 *.taobao.com
-*.alibaba.com
 *.1688.com
+*.alibaba.com
 www.alibabagroup.com
 *.alimama.com
 *.alibabacloud.com
@@ -3026,11 +3026,11 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
+www.4njbets.com
+us.tvg.com
 login.tvg.com
 mobile-prod.tvg.com
 *racing.fanduel.com
-www.4njbets.com
-us.tvg.com
 tvg.com
 sportsbook.fanduel.com
 fdbox.net
@@ -3271,9 +3271,9 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-auth.crypto.com
 *.mona.co
 tax.crypto.com
+auth.crypto.com
 js.crypto.com
 app.mona.co
 pay.crypto.com
@@ -3657,8 +3657,8 @@ education.github.com
 npmjs.org
 gist.github.com
 *.githubusercontent.com
-api.github.com
 npmjs.com
+api.github.com
 github.com
 github.com
 api.github.com
@@ -3811,8 +3811,8 @@ arrive-server.shopifycloud.com
 shopifyinbox.com
 *.shopify.com
 your-store.myshopify.com
-partners.shopify.com
 accounts.shopify.com
+partners.shopify.com
 admin.shopify.com
 *.shopifycs.com
 *.shopify.io
@@ -4022,8 +4022,8 @@ api.x.ai
 ide.x.ai
 grok.x.ai
 *.twimg.com
-*.twitter.com
 x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4099,12 +4099,12 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
+api.coinbase.com
 international.coinbase.com
 cloud.coinbase.com
 *.coinbase.com
@@ -4170,8 +4170,8 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 profile-photos.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 www.wearehackerone.com
-a5s.hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
+a5s.hackerone-ext-content.com
 errors.hackerone.net
 ctf.hacker101.com
 www.hackerone.com
@@ -4383,8 +4383,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 magento.com
 marketplace.magento.com
 magentocommerce.com
@@ -4419,8 +4419,8 @@ alerts.eu.newrelic.com
 *.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
-synthetics.newrelic.com
 rpm.newrelic.com
+synthetics.newrelic.com
 insights.newrelic.com
 one.newrelic.com
 *.newrelic.com
