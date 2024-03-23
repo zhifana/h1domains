@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar 23 19:41:12 UTC 2024)
+## Domains with Bounties (Last Updated Sat Mar 23 20:19:28 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -363,8 +363,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-my.sheer.com
 www.sheer.com
+my.sheer.com
 www.sheer.com
 my.sheer.com
 www.pornworld.com
@@ -450,11 +450,11 @@ www.mercadolibre.com.co
 www.mercadolibre.cl
 www.mercadopago.com.br
 www.mercadopago.cl
-api.mercadolibre.com
-www.mercadopago.com.ar
 www.mercadolivre.com.br
-api.mercadopago.com
+api.mercadolibre.com
 www.mercadolibre.com.ar
+api.mercadopago.com
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -816,12 +816,12 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-phabricator.allizom.org
-crash-stats.allizom.org
 aus5.mozilla.org
 shavar.services.mozilla.com
-firefox.settings.services.mozilla.com
 push.services.mozilla.com
+firefox.settings.services.mozilla.com
+crash-stats.allizom.org
+phabricator.allizom.org
 lando.services.mozilla.com
 sync.services.mozilla.com
 hg.mozilla.org
@@ -857,10 +857,10 @@ vpn.mozilla.org
 profiler.firefox.com
 support.mozilla.org
 hg.mozilla.org
-monitor.mozilla.org
 developer.mozilla.org
 relay.firefox.com
 www.mozilla.org
+monitor.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -905,9 +905,9 @@ hiltonbusinessonline.com
 hiltonlocalbiz.com
 hiltonhotels.jp
 *.okg.com
-*.okx.com
 *.okcoin.com
 *.oklink.com
+*.okx.com
 *.okx.com
 *.okcoin.com
 *.oklink.com
@@ -1170,16 +1170,16 @@ www.expediagroup.com
 *.expediapartnercentral.com
 www.expediapartnersolutions.com
 *.travelocity.ca
-www.fewo-direkt.de
 *.travelocity.com
+www.fewo-direkt.de
 www.flights.com
 *.vrbo.com
 *.wotif.com
 *.hotwire.com
 *.carrentals.com
+www.hotels.com
 *.expediacruises.com
 www.expedia.com
-www.hotels.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1754,9 +1754,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
+*.touchtechpayments.com
 *.recko.io
 js.stripe.com
-*.touchtechpayments.com
 api.stripe.com
 *.stripe.com
 app.taxjar.com
@@ -1938,8 +1938,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-ccloud.yoti.com
 core.yoti.com
+ccloud.yoti.com
 api.yoti.com
 www.yotisign.com
 identity.yoti.com
@@ -2052,8 +2052,8 @@ careers.tiktok.com
 shop.tiktok.com
 *.tiktokv.com
 www.pangleglobal.com
-partner.tiktokshop.com
 business.tiktok.com
+partner.tiktokshop.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 creatormarketplace.tiktok.com
@@ -3026,11 +3026,11 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
-mobile-prod.tvg.com
-login.tvg.com
-*racing.fanduel.com
-us.tvg.com
 www.4njbets.com
+us.tvg.com
+login.tvg.com
+mobile-prod.tvg.com
+*racing.fanduel.com
 tvg.com
 sportsbook.fanduel.com
 fdbox.net
@@ -3066,6 +3066,12 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3074,12 +3080,6 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 *.paylution.com
 my.swiftfinancial.com
 *.venmo.com
@@ -3090,8 +3090,8 @@ www.loanbuilder.com
 *.hyperwallet.com
 *.braintree-api.com
 paypalobjects.com
-*.xoom.com
 *.paypal.com
+*.xoom.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3271,9 +3271,9 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
+auth.crypto.com
 *.mona.co
 tax.crypto.com
-auth.crypto.com
 js.crypto.com
 app.mona.co
 pay.crypto.com
@@ -3336,8 +3336,8 @@ hybrid-analysis.com
 *.preempt.com
 *.preemptsecurity.com
 *.humio.com
-www.crowdstrike.com
 *.crowdstrike.com
+www.crowdstrike.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3657,8 +3657,8 @@ education.github.com
 npmjs.org
 gist.github.com
 *.githubusercontent.com
-api.github.com
 npmjs.com
+api.github.com
 github.com
 github.com
 api.github.com
@@ -3811,9 +3811,9 @@ shopifyinbox.com
 *.shopify.com
 accounts.shopify.com
 partners.shopify.com
-admin.shopify.com
 your-store.myshopify.com
 shop.app
+admin.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3933,8 +3933,8 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 www.hoteltonight.com
 *.airbnbcitizen.com
-*.withairbnb.com
 api.airbnb.com
+*.withairbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
 *.muscache.com
@@ -4022,8 +4022,8 @@ api.x.ai
 ide.x.ai
 grok.x.ai
 *.twimg.com
-*.twitter.com
 x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4099,11 +4099,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
+api.coinbase.com
 institutional.coinbase.com
 international.coinbase.com
 cloud.coinbase.com
@@ -4172,14 +4172,14 @@ cover-photos.hackerone-user-content.com
 www.wearehackerone.com
 hackathon-photos.hackerone-user-content.com
 a5s.hackerone-ext-content.com
-errors.hackerone.net
-ctf.hacker101.com
 www.hackerone.com
 app.pullrequest.com
 hackerone-user-content.com
 hackerone.live
 api.hackerone.com
 hackerone.com
+errors.hackerone.net
+ctf.hacker101.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4383,8 +4383,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 magento.com
 marketplace.magento.com
 magentocommerce.com
@@ -4420,8 +4420,8 @@ alerts.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
 synthetics.newrelic.com
-insights.newrelic.com
 rpm.newrelic.com
+insights.newrelic.com
 one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
