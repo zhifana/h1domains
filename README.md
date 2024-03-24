@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 24 12:27:53 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 24 12:52:24 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -496,8 +496,8 @@ spark.fareharbor.com
 www.fareharbor.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
-*.rentalcars.com
 careers.booking.com
+*.rentalcars.com
 flights.booking.com
 booking.com
 admin.booking.com
@@ -849,11 +849,11 @@ firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 phabricator.allizom.org
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
-profiler.firefox.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 api.profiler.firefox.com
 vpn.mozilla.org
+profiler.firefox.com
 support.mozilla.org
 hg.mozilla.org
 relay.firefox.com
@@ -929,9 +929,9 @@ injob.indriver.com
 watchdocs.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 auth.indrive.tech
-truck-api.eu-east-1.indriverapp.com
-*.indriver.com
 ci.indrive.dev
+*.indriver.com
+truck-api.eu-east-1.indriverapp.com
 cargo.indrive.com
 *.indriverapp.com
 *.indrive.com
@@ -1115,8 +1115,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.hypermint.com
 *.moonpaycloud.com
+*.hypermint.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1169,15 +1169,15 @@ www.expediagroup.com
 *.expediapartnercentral.com
 www.expediapartnersolutions.com
 *.travelocity.ca
-*.travelocity.com
 www.fewo-direkt.de
+*.travelocity.com
 www.flights.com
 *.vrbo.com
 *.wotif.com
 *.carrentals.com
 www.hotels.com
-*.expediacruises.com
 www.expedia.com
+*.expediacruises.com
 *.hotwire.com
 *.vrbo.com
 *.hotwire.com
@@ -1361,8 +1361,8 @@ pwapi.ex2b.com
 api.excalls.mobi
 social-trading.exness.com
 my.exness.com
-exness.com
 exnessaffiliates.com
+exness.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -2526,8 +2526,8 @@ updates.amazon.com
 *.aliyun-inc.com
 *.taobao.com
 *.aliyun.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.Daraz.com
 www.alibabagroup.com
 *.aliexpress.com
@@ -3333,8 +3333,8 @@ hybrid-analysis.com
 *.preempt.com
 *.preemptsecurity.com
 *.humio.com
-www.crowdstrike.com
 *.crowdstrike.com
+www.crowdstrike.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3654,8 +3654,8 @@ education.github.com
 npmjs.org
 gist.github.com
 *.githubusercontent.com
-api.github.com
 npmjs.com
+api.github.com
 github.com
 github.com
 api.github.com
@@ -3722,8 +3722,8 @@ www.algolia.com
 www.algolia.com
 cashier.deriv.com
 secure-dfadmin.deriv.com
-derivws.com
 *.derivws.com
+derivws.com
 *.deriv.cloud
 *.binary.com
 app.deriv.com
