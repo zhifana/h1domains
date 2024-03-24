@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 24 22:41:33 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 24 23:20:45 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -500,10 +500,10 @@ flights.booking.com
 admin.booking.com
 account.booking.com
 paymentcomponent.booking.com
+*.booking.com
 booking.com
 careers.booking.com
 www.fareharbor.com
-*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -815,14 +815,14 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
+firefox.settings.services.mozilla.com
+push.services.mozilla.com
 phabricator.allizom.org
 crash-stats.allizom.org
 aus5.mozilla.org
 shavar.services.mozilla.com
-firefox.settings.services.mozilla.com
-push.services.mozilla.com
-lando.services.mozilla.com
 sync.services.mozilla.com
+lando.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
@@ -849,15 +849,15 @@ firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 phabricator.allizom.org
-community-tc.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
+community-tc.services.mozilla.com
+profiler.firefox.com
 api.profiler.firefox.com
 vpn.mozilla.org
-profiler.firefox.com
 support.mozilla.org
 hg.mozilla.org
-developer.mozilla.org
 relay.firefox.com
+developer.mozilla.org
 www.mozilla.org
 monitor.mozilla.org
 developer.mozilla.org
@@ -929,9 +929,9 @@ injob.indriver.com
 watchdocs.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 auth.indrive.tech
-ci.indrive.dev
-*.indriver.com
 truck-api.eu-east-1.indriverapp.com
+*.indriver.com
+ci.indrive.dev
 cargo.indrive.com
 *.indrive.com
 *.indriverapp.com
@@ -1360,8 +1360,8 @@ pwapi.ex2b.com
 api.excalls.mobi
 social-trading.exness.com
 my.exness.com
-exness.com
 exnessaffiliates.com
+exness.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1752,9 +1752,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
-*.touchtechpayments.com
 *.recko.io
 js.stripe.com
+*.touchtechpayments.com
 api.stripe.com
 *.stripe.com
 app.taxjar.com
@@ -1936,8 +1936,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-ccloud.yoti.com
 core.yoti.com
+ccloud.yoti.com
 hub.yoti.com
 code.yoti.com
 www.yotisign.com
@@ -1960,8 +1960,8 @@ internal-docs.netlify.com
 internal.netlify.com
 *.ops.netlify.com
 *.infra-prod.nsvcs.net
-netlify-rum.netlify.app
 *.services.netlify.com
+netlify-rum.netlify.app
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2057,8 +2057,8 @@ creatormarketplace.tiktok.com
 tiktok.com
 *.tiktok.com
 developers.tiktok.com
-ads.tiktok.com
 partner.tiktokshop.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2524,8 +2524,8 @@ updates.amazon.com
 *.alimama.com
 *.aliyun-inc.com
 *.aliyun.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.Daraz.com
 www.alibabagroup.com
 *.aliexpress.com
@@ -3721,8 +3721,8 @@ www.algolia.com
 www.algolia.com
 cashier.deriv.com
 secure-dfadmin.deriv.com
-derivws.com
 *.derivws.com
+derivws.com
 *.deriv.cloud
 *.binary.com
 app.deriv.com
