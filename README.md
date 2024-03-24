@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 24 19:41:16 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 24 20:18:19 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -446,12 +446,12 @@ www.mercadolibre.com.pe
 www.mercadolibre.com.uy
 www.mercadolibre.com.co
 www.mercadolibre.cl
-www.mercadopago.com.br
 www.mercadopago.cl
-www.mercadolivre.com.br
+www.mercadopago.com.br
 api.mercadopago.com
-www.mercadolibre.com.ar
+www.mercadolivre.com.br
 www.mercadopago.com.ar
+www.mercadolibre.com.ar
 www.mercadolibre.com.mx
 api.mercadolibre.com
 api.mercadopago.com
@@ -496,8 +496,8 @@ spark.fareharbor.com
 www.fareharbor.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
-careers.booking.com
 *.rentalcars.com
+careers.booking.com
 flights.booking.com
 admin.booking.com
 account.booking.com
@@ -815,8 +815,8 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-phabricator.allizom.org
 crash-stats.allizom.org
+phabricator.allizom.org
 aus5.mozilla.org
 shavar.services.mozilla.com
 firefox.settings.services.mozilla.com
@@ -826,8 +826,8 @@ sync.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
-contile.services.mozilla.com
 crash-reports.allizom.org
+contile.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 bugzilla.mozilla.org
 addons.allizom.org
@@ -929,9 +929,9 @@ injob.indriver.com
 watchdocs.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 auth.indrive.tech
-truck-api.eu-east-1.indriverapp.com
-*.indriver.com
 ci.indrive.dev
+*.indriver.com
+truck-api.eu-east-1.indriverapp.com
 cargo.indrive.com
 *.indrive.com
 *.indriverapp.com
@@ -1115,8 +1115,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.hypermint.com
 *.moonpaycloud.com
+*.hypermint.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1175,8 +1175,8 @@ www.flights.com
 *.vrbo.com
 *.wotif.com
 *.carrentals.com
-www.hotels.com
 *.expediacruises.com
+www.hotels.com
 *.hotwire.com
 www.expedia.com
 *.vrbo.com
@@ -1361,8 +1361,8 @@ pwapi.ex2b.com
 api.excalls.mobi
 social-trading.exness.com
 my.exness.com
-exness.com
 exnessaffiliates.com
+exness.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1546,11 +1546,11 @@ twinmotion.unrealengine.com
 *.cubicmotion.com
 *.oncatapult.com
 *.fallguys.com
-*.quixel.com
 *.popjam.com
 *.rukkaz.com
 *.jellychat.com
 fallguys.com
+fortnite.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -1753,9 +1753,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
+*.touchtechpayments.com
 *.recko.io
 js.stripe.com
-*.touchtechpayments.com
 api.stripe.com
 *.stripe.com
 app.taxjar.com
@@ -1937,13 +1937,13 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-ccloud.yoti.com
 core.yoti.com
-api.yoti.com
-www.yotisign.com
-identity.yoti.com
+ccloud.yoti.com
 hub.yoti.com
 code.yoti.com
+www.yotisign.com
+identity.yoti.com
+api.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1961,8 +1961,8 @@ internal-docs.netlify.com
 internal.netlify.com
 *.ops.netlify.com
 *.infra-prod.nsvcs.net
-netlify-rum.netlify.app
 *.services.netlify.com
+netlify-rum.netlify.app
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2122,11 +2122,11 @@ app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
-account.acronis.com
 beta-cloud.acronis.com
 *.5nine.com
 *.acronis.com
 *.acronis.work
+account.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2524,13 +2524,13 @@ updates.amazon.com
 *.1688.com
 *.alimama.com
 *.aliyun-inc.com
-*.taobao.com
 *.aliyun.com
 *.alibabacloud.com
 *.alibaba.com
 *.Daraz.com
 www.alibabagroup.com
 *.aliexpress.com
+*.taobao.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -3928,8 +3928,8 @@ callbacks.airbnb.com
 *.airbnb-aws.com
 *.luxuryretreats.com
 *.airbnbcitizen.com
-*.withairbnb.com
 api.airbnb.com
+*.withairbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
 *.muscache.com
@@ -4096,11 +4096,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
+api.coinbase.com
 international.coinbase.com
 coinbase.com
 *.base.org
@@ -4417,8 +4417,8 @@ alerts.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
 synthetics.newrelic.com
-rpm.newrelic.com
 insights.newrelic.com
+rpm.newrelic.com
 one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
