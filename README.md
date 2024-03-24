@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 24 03:18:24 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 24 03:42:17 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -451,10 +451,10 @@ www.mercadolibre.cl
 www.mercadopago.com.br
 www.mercadopago.cl
 www.mercadolivre.com.br
+api.mercadopago.com
 api.mercadolibre.com
 www.mercadopago.com.ar
 www.mercadolibre.com.ar
-api.mercadopago.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -816,14 +816,14 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-firefox.settings.services.mozilla.com
-push.services.mozilla.com
-phabricator.allizom.org
-crash-stats.allizom.org
 aus5.mozilla.org
 shavar.services.mozilla.com
-sync.services.mozilla.com
+push.services.mozilla.com
+firefox.settings.services.mozilla.com
+crash-stats.allizom.org
+phabricator.allizom.org
 lando.services.mozilla.com
+sync.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
@@ -857,8 +857,8 @@ vpn.mozilla.org
 profiler.firefox.com
 support.mozilla.org
 hg.mozilla.org
-relay.firefox.com
 developer.mozilla.org
+relay.firefox.com
 www.mozilla.org
 monitor.mozilla.org
 developer.mozilla.org
@@ -930,9 +930,9 @@ injob.indriver.com
 watchdocs.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 auth.indrive.tech
-ci.indrive.dev
-*.indriver.com
 truck-api.eu-east-1.indriverapp.com
+*.indriver.com
+ci.indrive.dev
 cargo.indrive.com
 *.indriverapp.com
 *.indrive.com
@@ -1012,8 +1012,8 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
-mobile.s-pankki.fi
 www.prisma.fi
+mobile.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
 online.s-pankki.fi
@@ -1176,9 +1176,9 @@ www.flights.com
 *.vrbo.com
 *.wotif.com
 *.carrentals.com
-www.hotels.com
-www.expedia.com
 *.expediacruises.com
+www.expedia.com
+www.hotels.com
 *.hotwire.com
 *.vrbo.com
 *.hotwire.com
@@ -1311,8 +1311,8 @@ checkout.razorpay.com
 payroll.razorpay.com
 invoices.razorpay.com
 dashboard.razorpay.com
-x.razorpay.com
 api.razorpay.com
+x.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -1754,9 +1754,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
+*.touchtechpayments.com
 *.recko.io
 js.stripe.com
-*.touchtechpayments.com
 api.stripe.com
 *.stripe.com
 app.taxjar.com
@@ -1938,8 +1938,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-core.yoti.com
 ccloud.yoti.com
+core.yoti.com
 api.yoti.com
 www.yotisign.com
 identity.yoti.com
@@ -1962,8 +1962,8 @@ internal-docs.netlify.com
 internal.netlify.com
 *.ops.netlify.com
 *.infra-prod.nsvcs.net
-*.services.netlify.com
 netlify-rum.netlify.app
+*.services.netlify.com
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2529,9 +2529,9 @@ updates.amazon.com
 *.taobao.com
 *.aliyun.com
 *.Daraz.com
-www.alibabagroup.com
-*.alibabacloud.com
 *.aliexpress.com
+*.alibabacloud.com
+www.alibabagroup.com
 *.alibaba.com
 *.alibaba.com
 *.aliexpress.com
@@ -3025,11 +3025,11 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
+us.tvg.com
 ia.tvg.com
 www.4njbets.com
-us.tvg.com
-login.tvg.com
 mobile-prod.tvg.com
+login.tvg.com
 *racing.fanduel.com
 tvg.com
 sportsbook.fanduel.com
@@ -3270,9 +3270,9 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-auth.crypto.com
 *.mona.co
 tax.crypto.com
+auth.crypto.com
 js.crypto.com
 app.mona.co
 pay.crypto.com
@@ -3335,8 +3335,8 @@ hybrid-analysis.com
 *.preempt.com
 *.preemptsecurity.com
 *.humio.com
-www.crowdstrike.com
 *.crowdstrike.com
+www.crowdstrike.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -4098,11 +4098,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
+api.coinbase.com
 international.coinbase.com
 cloud.coinbase.com
 coinbase.com
@@ -4418,8 +4418,8 @@ alerts.eu.newrelic.com
 *.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
-rpm.newrelic.com
 synthetics.newrelic.com
+rpm.newrelic.com
 insights.newrelic.com
 one.newrelic.com
 *.newrelic.com
