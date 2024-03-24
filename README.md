@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 24 23:20:45 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 24 23:41:43 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -325,8 +325,8 @@ worldcoin.org
 bioid-management.app
 *.worldcoin.dev
 *.worldcoin-distributors.com
-*.worldcoin.org
 *.consumer.worldcoin.org
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -497,13 +497,13 @@ widget.rentalcars.com
 teleport.fareharbor.engineering
 *.rentalcars.com
 flights.booking.com
-admin.booking.com
 account.booking.com
 paymentcomponent.booking.com
-*.booking.com
+admin.booking.com
 booking.com
 careers.booking.com
 www.fareharbor.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -815,14 +815,14 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-firefox.settings.services.mozilla.com
-push.services.mozilla.com
 phabricator.allizom.org
 crash-stats.allizom.org
 aus5.mozilla.org
 shavar.services.mozilla.com
-sync.services.mozilla.com
+firefox.settings.services.mozilla.com
+push.services.mozilla.com
 lando.services.mozilla.com
+sync.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
@@ -849,11 +849,11 @@ firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 phabricator.allizom.org
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
-profiler.firefox.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 api.profiler.firefox.com
 vpn.mozilla.org
+profiler.firefox.com
 support.mozilla.org
 hg.mozilla.org
 relay.firefox.com
@@ -1308,8 +1308,8 @@ portfolio.metamask.io
 checkout.razorpay.com
 payroll.razorpay.com
 invoices.razorpay.com
-x.razorpay.com
 api.razorpay.com
+x.razorpay.com
 dashboard.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
@@ -1936,8 +1936,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-core.yoti.com
 ccloud.yoti.com
+core.yoti.com
 hub.yoti.com
 code.yoti.com
 www.yotisign.com
@@ -2057,8 +2057,8 @@ creatormarketplace.tiktok.com
 tiktok.com
 *.tiktok.com
 developers.tiktok.com
-partner.tiktokshop.com
 ads.tiktok.com
+partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -3267,9 +3267,9 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-auth.crypto.com
 *.mona.co
 tax.crypto.com
+auth.crypto.com
 js.crypto.com
 app.mona.co
 pay.crypto.com
@@ -3433,7 +3433,6 @@ xtramile.grabpay.com
 gifts.grab.com
 grab.careers
 kartaview.org
-badoo.com
 us1.badoo.com
 corp.badoo.com
 m.badoo.com
@@ -3450,6 +3449,7 @@ bma.bumble.com
 getofficial.co
 eu1.badoo.com
 www.bumble.com
+badoo.com
 www.bumble.com
 bma.bumble.com
 badoo.com
@@ -3721,8 +3721,8 @@ www.algolia.com
 www.algolia.com
 cashier.deriv.com
 secure-dfadmin.deriv.com
-*.derivws.com
 derivws.com
+*.derivws.com
 *.deriv.cloud
 *.binary.com
 app.deriv.com
@@ -4095,11 +4095,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
-api.coinbase.com
 international.coinbase.com
 coinbase.com
 *.base.org
