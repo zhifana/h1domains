@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 25 21:40:28 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 25 22:18:42 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -318,14 +318,14 @@ app.rewire.to
 rates.rewire.com
 app3.rewire.to
 toolsforhumanity.com
-worldcoin.org
 *.toolsforhumanity.com
 bioid-management.app
 *.worldcoin.dev
 *.worldcoin-distributors.com
-*.worldcoin.org
 *.consumer.worldcoin.org
 getworldcoin.com
+*.worldcoin.org
+worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -381,9 +381,9 @@ http://sandbox-api.fireblocks.io
 sso-sprint.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 *.sprint.dynatracelabs.com
-university-staging.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
+university-staging.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -391,8 +391,8 @@ sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 demo.dynamic.xyz
-app.dynamic.xyz
 app.dynamic-preprod.xyz
+app.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -448,11 +448,11 @@ www.mercadolibre.cl
 www.mercadopago.com.br
 www.mercadopago.cl
 www.mercadolivre.com.br
-api.mercadopago.com
 www.mercadolibre.com.ar
 www.mercadolibre.com.mx
 www.mercadopago.com.ar
 api.mercadolibre.com
+api.mercadopago.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -814,12 +814,12 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-phabricator.allizom.org
-crash-stats.allizom.org
 aus5.mozilla.org
 shavar.services.mozilla.com
-firefox.settings.services.mozilla.com
 push.services.mozilla.com
+firefox.settings.services.mozilla.com
+crash-stats.allizom.org
+phabricator.allizom.org
 lando.services.mozilla.com
 sync.services.mozilla.com
 hg.mozilla.org
@@ -829,8 +829,8 @@ contile.services.mozilla.com
 crash-reports.allizom.org
 addons.allizom.org
 bugzilla.mozilla.org
-firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
+firefox-ci-tc.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -855,8 +855,8 @@ vpn.mozilla.org
 profiler.firefox.com
 support.mozilla.org
 hg.mozilla.org
-relay.firefox.com
 developer.mozilla.org
+relay.firefox.com
 www.mozilla.org
 monitor.mozilla.org
 developer.mozilla.org
@@ -887,8 +887,8 @@ hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 hiltonhotels.jp
 *.hilton.io
-hilton.com
 hilton.io
+hilton.com
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -926,12 +926,12 @@ ingest.clairvoyance.indrive.tech
 injob.indriver.com
 new-order.eu-east-1.indriverapp.com
 auth.indrive.tech
-ci.indrive.dev
-*.indriver.com
 truck-api.eu-east-1.indriverapp.com
+*.indriver.com
+ci.indrive.dev
 cargo.indrive.com
-watchdocs.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
+watchdocs.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriverapp.com
@@ -1010,8 +1010,8 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
-www.prisma.fi
 mobile.s-pankki.fi
+www.prisma.fi
 online.s-pankki.fi
 www.s-pankki.fi
 online.s-pankki.fi
@@ -1061,6 +1061,7 @@ admin.8x8.com
 cloud8.8x8.com
 *.wavecell.com
 sso.8x8.com
+*.8x8staging.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1167,8 +1168,8 @@ www.expediagroup.com
 *.expediapartnercentral.com
 www.expediapartnersolutions.com
 *.travelocity.ca
-www.fewo-direkt.de
 *.travelocity.com
+www.fewo-direkt.de
 www.flights.com
 *.vrbo.com
 *.wotif.com
@@ -1796,10 +1797,10 @@ www.reddit.com
 *.reddit.com
 ads.reddit.com
 matrix.redditspace.com
-gql.reddit.com
-*.redditmedia.com
-*.redditinc.com
 api.reddit.com
+gql.reddit.com
+*.redditinc.com
+*.redditmedia.com
 *.reddithelp.com
 *.snooguts.net
 *.redditmedia.com
@@ -1861,8 +1862,8 @@ wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
 wp-qa.chime.com
-*.chimebank.com
 *.chime.com
+*.chimebank.com
 *.1debit.com
 *.chimebank.com
 *.chimecard.com
@@ -2527,9 +2528,9 @@ updates.amazon.com
 *.taobao.com
 www.alibabagroup.com
 *.alibabacloud.com
-*.aliexpress.com
 *.alibaba.com
 *.aliyun.com
+*.aliexpress.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2547,8 +2548,8 @@ konfigurator.bmw-motorrad.de
 configure.bmw.de
 www.bmw-motorrad.de
 www.mini.de
-configure.mini.de
 www.bmw.de
+configure.mini.de
 www.bmw.de
 www.mini.de
 www.bmw-motorrad.de
@@ -3041,23 +3042,22 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
-www.swiftcapital.com
-www.swiftfinancial.com
-api.swiftfinancial.com
-api.loanbuilder.com
-my.loanbuilder.com
-loanbuilder.com
-swiftfinancial.com
-swiftcapital.com
 *.braintree.tools
 prequal.swiftfinancial.com
 partner.swiftfinancial.com
 decision.swiftfinancial.com
 pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
+www.swiftcapital.com
+www.swiftfinancial.com
+api.swiftfinancial.com
+api.loanbuilder.com
+loanbuilder.com
+swiftfinancial.com
+swiftcapital.com
 *.paylution.com
-my.swiftfinancial.com
 www.loanbuilder.com
+my.swiftfinancial.com
 *.venmo.com
 *.braintreepayments.com
 *.paypalcorp.com
@@ -3067,6 +3067,7 @@ paypalobjects.com
 *.xoom.com
 *.paypal.com
 *.braintree-api.com
+my.loanbuilder.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3309,9 +3310,9 @@ hybrid-analysis.com
 *.preempt.com
 *.preemptsecurity.com
 *.humio.com
+*.reposify.com
 www.crowdstrike.com
 *.crowdstrike.com
-*.reposify.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3339,8 +3340,8 @@ privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
 *.beta.lahitapiola.fi
 www.lahitapiola.fi
-*.lahitapiola.fi
 api.lahitapiola.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3364,8 +3365,8 @@ privatetarget-1-www.zigzag
 *.scatec.io
 *.sellzone.com
 *.myinsights.io
-*.semrush.net
 *.semrush.com
+*.semrush.net
 *.semrush.com
 *.semrush.net
 *.seoquake.com
@@ -3511,8 +3512,8 @@ circolocorecords.com/
 store.rockstargames.com
 prod.ros.rockstargames.com
 socialclub.rockstargames.com
-support.rockstargames.com
 *.rockstargames.com
+support.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3823,8 +3824,8 @@ relay.playcanvas.com
 rt.playcanvas.com
 store.playcanvas.com
 playcanv.as
-login.playcanvas.com
 businesshelp.snapchat.com
+login.playcanvas.com
 geofilters.snapchat.com
 playcanvas.com
 app.snapchat.com
@@ -3975,12 +3976,12 @@ donations.livestream.com
 boards.greenhouse.io
 api.greenhouse.io
 onboarding.greenhouse.io
-support.greenhouse.io
 jss.greenhouse.io
 app.interseller.io
 interseller.io
 www.greenhouse.io
 app.greenhouse.io
+support.greenhouse.io
 app.greenhouse.io
 boards.greenhouse.io
 api.greenhouse.io
@@ -4151,9 +4152,9 @@ ctf.hacker101.com
 hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
-api.hackerone.com
 hackerone.com
 www.hackerone.com
+api.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4416,8 +4417,8 @@ alerts.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
 synthetics.newrelic.com
-rpm.newrelic.com
 insights.newrelic.com
+rpm.newrelic.com
 one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
