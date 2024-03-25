@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 25 07:41:50 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 25 08:22:58 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -815,23 +815,23 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
+firefox.settings.services.mozilla.com
+push.services.mozilla.com
+phabricator.allizom.org
+crash-stats.allizom.org
 aus5.mozilla.org
 shavar.services.mozilla.com
-push.services.mozilla.com
-firefox.settings.services.mozilla.com
-crash-stats.allizom.org
-phabricator.allizom.org
-lando.services.mozilla.com
 sync.services.mozilla.com
+lando.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
 contile.services.mozilla.com
 crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
-bugzilla.mozilla.org
 addons.allizom.org
 accounts.firefox.com
+bugzilla.mozilla.org
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -1114,8 +1114,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.hypermint.com
 *.moonpaycloud.com
+*.hypermint.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1360,8 +1360,8 @@ pwapi.ex2b.com
 api.excalls.mobi
 social-trading.exness.com
 my.exness.com
-exness.com
 exnessaffiliates.com
+exness.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1937,11 +1937,11 @@ hackers_chosendomain.larksuite.com
 *.a.exodus.io
 *.exodus.com
 core.yoti.com
-api.yoti.com
-www.yotisign.com
-identity.yoti.com
 hub.yoti.com
 code.yoti.com
+www.yotisign.com
+identity.yoti.com
+api.yoti.com
 ccloud.yoti.com
 core.yoti.com
 api.yoti.com
@@ -1960,8 +1960,8 @@ internal-docs.netlify.com
 internal.netlify.com
 *.ops.netlify.com
 *.infra-prod.nsvcs.net
-*.services.netlify.com
 netlify-rum.netlify.app
+*.services.netlify.com
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -3022,11 +3022,11 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
+us.tvg.com
 ia.tvg.com
 www.4njbets.com
-us.tvg.com
-login.tvg.com
 mobile-prod.tvg.com
+login.tvg.com
 *racing.fanduel.com
 tvg.com
 sportsbook.fanduel.com
@@ -3721,15 +3721,15 @@ www.algolia.com
 www.algolia.com
 cashier.deriv.com
 secure-dfadmin.deriv.com
-*.derivws.com
 derivws.com
+*.derivws.com
 *.deriv.cloud
 api.deriv.com
 smarttrader.deriv.com
 *.deriv.com
 oauth.deriv.com
-*.binary.com
 app.deriv.com
+*.binary.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3779,8 +3779,8 @@ app.futuresimple.com
 api.getbase.com
 smooch.io
 apps.zendesk.com
-www.zendesk.com
 h1-your-domain.zendesk.com
+www.zendesk.com
 www.zendesk.com
 developer.zendesk.com
 h1-your-domain.zendesk.com
@@ -4018,8 +4018,8 @@ api.x.ai
 ide.x.ai
 grok.x.ai
 *.twimg.com
-*.twitter.com
 x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4095,10 +4095,10 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
-api.coinbase.com
 international.coinbase.com
 coinbase.com
 *.base.org
@@ -4172,9 +4172,9 @@ hackerone.live
 errors.hackerone.net
 ctf.hacker101.com
 hackerone-user-content.com
-www.hackerone.com
 cover-photos.hackerone-user-content.com
 api.hackerone.com
+www.hackerone.com
 hackerone.com
 hackerone.com
 api.hackerone.com
