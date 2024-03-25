@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 25 14:42:04 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 25 15:22:20 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -391,8 +391,8 @@ sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 demo.dynamic.xyz
-app.dynamic-preprod.xyz
 app.dynamic.xyz
+app.dynamic-preprod.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -445,10 +445,10 @@ www.mercadolibre.com.pe
 www.mercadolibre.com.uy
 www.mercadolibre.com.co
 www.mercadolibre.cl
-www.mercadopago.com.br
 www.mercadopago.cl
-www.mercadolivre.com.br
+www.mercadopago.com.br
 api.mercadopago.com
+www.mercadolivre.com.br
 www.mercadolibre.com.ar
 www.mercadolibre.com.mx
 api.mercadolibre.com
@@ -495,13 +495,13 @@ spark.fareharbor.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
 flights.booking.com
-www.fareharbor.com
 account.booking.com
 paymentcomponent.booking.com
-careers.booking.com
 booking.com
+careers.booking.com
 *.booking.com
 *.rentalcars.com
+www.fareharbor.com
 admin.booking.com
 *.booking.com
 *.rentalcars.com
@@ -771,10 +771,10 @@ www.visainfinite.ca
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
-yourdomain.myfreshworks.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -815,19 +815,19 @@ api.tideplatform.in
 *.tide.co
 api.tideplatform.in
 accounts.firefox.com
-crash-stats.allizom.org
-phabricator.allizom.org
-aus5.mozilla.org
-shavar.services.mozilla.com
 firefox.settings.services.mozilla.com
 push.services.mozilla.com
-lando.services.mozilla.com
+phabricator.allizom.org
+crash-stats.allizom.org
+aus5.mozilla.org
+shavar.services.mozilla.com
 sync.services.mozilla.com
+lando.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
-crash-reports.allizom.org
 contile.services.mozilla.com
+crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
 addons.allizom.org
 bugzilla.mozilla.org
@@ -1010,8 +1010,8 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
-www.prisma.fi
 mobile.s-pankki.fi
+www.prisma.fi
 online.s-pankki.fi
 www.s-pankki.fi
 online.s-pankki.fi
@@ -1790,16 +1790,16 @@ redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
-*.reddithelp.com
 new.reddit.com
 www.reddit.com
-api.reddit.com
 *.reddit.com
 ads.reddit.com
 matrix.redditspace.com
 *.redditmedia.com
 *.redditinc.com
 gql.reddit.com
+*.reddithelp.com
+api.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1936,9 +1936,9 @@ hackers_chosendomain.larksuite.com
 *.exodus.com
 www.yotisign.com
 core.yoti.com
-api.yoti.com
 hub.yoti.com
 code.yoti.com
+api.yoti.com
 ccloud.yoti.com
 identity.yoti.com
 core.yoti.com
@@ -2052,11 +2052,11 @@ business.tiktok.com
 academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 tiktok.com
-*.tiktok.com
 developers.tiktok.com
-partner.tiktokshop.com
 fp-sg.tiktokv.com
 ads.tiktok.com
+*.tiktok.com
+partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2524,11 +2524,11 @@ updates.amazon.com
 *.alimama.com
 *.aliyun-inc.com
 *.taobao.com
-*.alibaba.com
 *.aliexpress.com
 www.alibabagroup.com
 *.alibabacloud.com
 *.aliyun.com
+*.alibaba.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2545,9 +2545,9 @@ www.alibabagroup.com
 konfigurator.bmw-motorrad.de
 configure.bmw.de
 www.bmw-motorrad.de
+www.mini.de
 configure.mini.de
 www.bmw.de
-www.mini.de
 www.bmw.de
 www.mini.de
 www.bmw-motorrad.de
@@ -3021,17 +3021,17 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
-*.fanduel.com
 ia.tvg.com
-mobile-prod.tvg.com
 login.tvg.com
+mobile-prod.tvg.com
 *racing.fanduel.com
-us.tvg.com
 www.4njbets.com
+us.tvg.com
 tvg.com
 sportsbook.fanduel.com
 fdbox.net
 www.tvg.com
+*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3273,8 +3273,8 @@ js.crypto.com
 app.mona.co
 www.crypto.com
 pay.crypto.com
-*.crypto.com
 merchant.crypto.com
+*.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3331,8 +3331,8 @@ hybrid-analysis.com
 *.preemptsecurity.com
 *.humio.com
 www.crowdstrike.com
-*.crowdstrike.com
 *.reposify.com
+*.crowdstrike.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3385,8 +3385,8 @@ privatetarget-1-www.zigzag
 *.scatec.io
 *.sellzone.com
 *.myinsights.io
-*.semrush.com
 *.semrush.net
+*.semrush.com
 *.semrush.com
 *.semrush.net
 *.seoquake.com
@@ -3720,8 +3720,8 @@ www.algolia.com
 www.algolia.com
 cashier.deriv.com
 secure-dfadmin.deriv.com
-derivws.com
 *.derivws.com
+derivws.com
 smarttrader.deriv.com
 *.deriv.com
 oauth.deriv.com
@@ -3791,8 +3791,8 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 http://h1-your-domain.zendesk.com/sell
-yourcompany.udemy.com
 www.udemy.com
+yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 *.shopifykloud.com
@@ -3844,8 +3844,8 @@ relay.playcanvas.com
 rt.playcanvas.com
 store.playcanvas.com
 playcanv.as
-login.playcanvas.com
 businesshelp.snapchat.com
+login.playcanvas.com
 geofilters.snapchat.com
 playcanvas.com
 app.snapchat.com
@@ -3928,8 +3928,8 @@ callbacks.airbnb.com
 *.airbnbcitizen.com
 *.airbnb.com
 support-api.airbnb.com
-*.withairbnb.com
 api.airbnb.com
+*.withairbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
 *.muscache.com
@@ -4017,8 +4017,8 @@ api.x.ai
 ide.x.ai
 grok.x.ai
 *.twimg.com
-*.twitter.com
 x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4171,9 +4171,9 @@ errors.hackerone.net
 ctf.hacker101.com
 hackerone-user-content.com
 cover-photos.hackerone-user-content.com
-api.hackerone.com
 hackathon-photos.hackerone-user-content.com
 hackerone.com
+api.hackerone.com
 www.hackerone.com
 hackerone.com
 api.hackerone.com
@@ -4414,8 +4414,8 @@ alerts.eu.newrelic.com
 *.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
-rpm.newrelic.com
 synthetics.newrelic.com
+rpm.newrelic.com
 insights.newrelic.com
 one.newrelic.com
 *.newrelic.com
