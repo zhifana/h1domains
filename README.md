@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 25 19:19:03 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 25 19:42:00 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -306,10 +306,10 @@ webonboarding-eu.truecaller.com
 cards.remitly.io
 app.rewire.to
 rates.rewire.com
-api.remitly.io
 rewire.com
 remitly.com
 app3.rewire.to
+api.remitly.io
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -391,8 +391,8 @@ sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 demo.dynamic.xyz
-app.dynamic-preprod.xyz
 app.dynamic.xyz
+app.dynamic-preprod.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -495,11 +495,11 @@ spark.fareharbor.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
 flights.booking.com
-www.fareharbor.com
 account.booking.com
 paymentcomponent.booking.com
-careers.booking.com
 booking.com
+careers.booking.com
+www.fareharbor.com
 admin.booking.com
 *.rentalcars.com
 *.booking.com
@@ -568,8 +568,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -814,14 +814,14 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
+firefox.settings.services.mozilla.com
+push.services.mozilla.com
 phabricator.allizom.org
 crash-stats.allizom.org
 aus5.mozilla.org
 shavar.services.mozilla.com
-firefox.settings.services.mozilla.com
-push.services.mozilla.com
-lando.services.mozilla.com
 sync.services.mozilla.com
+lando.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
@@ -887,8 +887,8 @@ hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 hiltonhotels.jp
 *.hilton.io
-hilton.io
 hilton.com
+hilton.io
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -926,8 +926,8 @@ ingest.clairvoyance.indrive.tech
 injob.indriver.com
 new-order.eu-east-1.indriverapp.com
 auth.indrive.tech
-*.indriver.com
 truck-api.eu-east-1.indriverapp.com
+*.indriver.com
 ci.indrive.dev
 cargo.indrive.com
 watchdocs.indriverapp.com
@@ -1060,6 +1060,7 @@ connect.8x8.com
 admin.8x8.com
 cloud8.8x8.com
 *.wavecell.com
+sso.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -2051,12 +2052,12 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 developers.tiktok.com
 fp-sg.tiktokv.com
-tiktok.com
 *.tiktokv.com
 partner.tiktokshop.com
 *.tiktok.com
 effecthouse.tiktok.com
 ads.tiktok.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -3000,16 +3001,16 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
-mobile-prod.tvg.com
-login.tvg.com
-*racing.fanduel.com
 www.4njbets.com
+login.tvg.com
+mobile-prod.tvg.com
+*racing.fanduel.com
 tvg.com
 sportsbook.fanduel.com
 fdbox.net
 www.tvg.com
-*.fanduel.com
 us.tvg.com
+*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3251,8 +3252,8 @@ js.crypto.com
 app.mona.co
 www.crypto.com
 pay.crypto.com
-*.crypto.com
 merchant.crypto.com
+*.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3424,8 +3425,8 @@ ccardsus1.badoo.com
 chatdate.app
 bma.bumble.com
 getofficial.co
-www.bumble.com
 eu1.badoo.com
+www.bumble.com
 badoo.com
 www.bumble.com
 bma.bumble.com
@@ -3629,10 +3630,10 @@ education.github.com
 npmjs.org
 gist.github.com
 *.githubusercontent.com
-api.github.com
 npmjs.com
-github.com
+api.github.com
 classroom.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3784,9 +3785,9 @@ shop.app
 your-store.myshopify.com
 shopifyinbox.com
 partners.shopify.com
-admin.shopify.com
 *.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3822,8 +3823,8 @@ relay.playcanvas.com
 rt.playcanvas.com
 store.playcanvas.com
 playcanv.as
-login.playcanvas.com
 businesshelp.snapchat.com
+login.playcanvas.com
 geofilters.snapchat.com
 playcanvas.com
 app.snapchat.com
@@ -3910,9 +3911,9 @@ support-api.airbnb.com
 next.airbnb.com
 *.muscache.com
 www.hoteltonight.com
-*.airbnb.com
-api.airbnb.com
 www.airbnb.com
+api.airbnb.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4378,8 +4379,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 magento.com
 marketplace.magento.com
 magentocommerce.com
@@ -4414,9 +4415,9 @@ alerts.eu.newrelic.com
 *.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
+rpm.newrelic.com
 synthetics.newrelic.com
 insights.newrelic.com
-rpm.newrelic.com
 one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
