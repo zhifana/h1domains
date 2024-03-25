@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 25 12:51:31 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 25 13:21:44 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -367,8 +367,8 @@ www.sheer.com
 my.sheer.com
 www.analvids.com
 www.pornbox.com
-www.ddfcontent.com
 www.pornworld.com
+www.ddfcontent.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -497,12 +497,12 @@ teleport.fareharbor.engineering
 flights.booking.com
 account.booking.com
 paymentcomponent.booking.com
-www.fareharbor.com
 booking.com
 careers.booking.com
 *.booking.com
 *.rentalcars.com
 admin.booking.com
+www.fareharbor.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -772,9 +772,9 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
-yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -814,8 +814,8 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-phabricator.allizom.org
 crash-stats.allizom.org
+phabricator.allizom.org
 aus5.mozilla.org
 shavar.services.mozilla.com
 firefox.settings.services.mozilla.com
@@ -825,8 +825,8 @@ sync.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
-contile.services.mozilla.com
 crash-reports.allizom.org
+contile.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 addons.allizom.org
 bugzilla.mozilla.org
@@ -855,8 +855,8 @@ vpn.mozilla.org
 profiler.firefox.com
 support.mozilla.org
 hg.mozilla.org
-relay.firefox.com
 developer.mozilla.org
+relay.firefox.com
 www.mozilla.org
 monitor.mozilla.org
 developer.mozilla.org
@@ -930,8 +930,8 @@ truck-api.eu-east-1.indriverapp.com
 *.indriver.com
 ci.indrive.dev
 cargo.indrive.com
-profile-api.eu-east-1.indriverapp.com
 watchdocs.indriverapp.com
+profile-api.eu-east-1.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriverapp.com
@@ -1112,8 +1112,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.hypermint.com
 *.moonpaycloud.com
+*.hypermint.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1306,8 +1306,8 @@ portfolio.metamask.io
 checkout.razorpay.com
 payroll.razorpay.com
 invoices.razorpay.com
-x.razorpay.com
 api.razorpay.com
+x.razorpay.com
 dashboard.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
@@ -1847,7 +1847,6 @@ platform.remix.com
 customers.mattermost.com
 customers.mattermost.com
 *.1debit.com
-*.chimebank.com
 *.chimecard.com
 *.chmfin.com
 *.chimepayments.com
@@ -1861,6 +1860,7 @@ wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
 wp-qa.chime.com
+*.chimebank.com
 *.chime.com
 *.1debit.com
 *.chimebank.com
@@ -1935,9 +1935,9 @@ hackers_chosendomain.larksuite.com
 *.a.exodus.io
 *.exodus.com
 core.yoti.com
+api.yoti.com
 hub.yoti.com
 code.yoti.com
-api.yoti.com
 ccloud.yoti.com
 www.yotisign.com
 identity.yoti.com
@@ -2415,6 +2415,7 @@ advertising-api.amazon.com
 appstore-tv-prod-na.amazon.com
 cscentral.amazon.com
 av-na.amazon.com
+dcape-na.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -3020,12 +3021,12 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
-ia.tvg.com
-login.tvg.com
-mobile-prod.tvg.com
-*racing.fanduel.com
-www.4njbets.com
 us.tvg.com
+ia.tvg.com
+www.4njbets.com
+mobile-prod.tvg.com
+login.tvg.com
+*racing.fanduel.com
 tvg.com
 sportsbook.fanduel.com
 fdbox.net
@@ -3272,8 +3273,8 @@ js.crypto.com
 app.mona.co
 www.crypto.com
 pay.crypto.com
-merchant.crypto.com
 *.crypto.com
+merchant.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3925,8 +3926,8 @@ callbacks.airbnb.com
 *.airbnb-aws.com
 *.luxuryretreats.com
 *.airbnbcitizen.com
-*.withairbnb.com
 api.airbnb.com
+*.withairbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
 *.muscache.com
@@ -4093,10 +4094,10 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
-api.coinbase.com
 international.coinbase.com
 coinbase.com
 *.base.org
