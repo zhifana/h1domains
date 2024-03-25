@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 25 09:19:16 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 25 09:42:44 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -446,14 +446,14 @@ www.mercadolibre.com.pe
 www.mercadolibre.com.uy
 www.mercadolibre.com.co
 www.mercadolibre.cl
-www.mercadopago.com.br
 www.mercadopago.cl
-www.mercadolivre.com.br
+www.mercadopago.com.br
 api.mercadopago.com
-www.mercadolibre.com.ar
+www.mercadolivre.com.br
 www.mercadopago.com.ar
-api.mercadolibre.com
+www.mercadolibre.com.ar
 www.mercadolibre.com.mx
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -499,11 +499,11 @@ teleport.fareharbor.engineering
 flights.booking.com
 account.booking.com
 paymentcomponent.booking.com
-admin.booking.com
 www.fareharbor.com
-careers.booking.com
 booking.com
+careers.booking.com
 *.booking.com
+admin.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -774,8 +774,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
-yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -815,19 +815,19 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-crash-stats.allizom.org
-phabricator.allizom.org
 aus5.mozilla.org
 shavar.services.mozilla.com
-firefox.settings.services.mozilla.com
 push.services.mozilla.com
+firefox.settings.services.mozilla.com
+crash-stats.allizom.org
+phabricator.allizom.org
 lando.services.mozilla.com
 sync.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
-crash-reports.allizom.org
 contile.services.mozilla.com
+crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
@@ -888,8 +888,8 @@ hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 hiltonhotels.jp
 *.hilton.io
-hilton.com
 hilton.io
+hilton.com
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -927,14 +927,14 @@ ingest.clairvoyance.indrive.tech
 injob.indriver.com
 new-order.eu-east-1.indriverapp.com
 auth.indrive.tech
-ci.indrive.dev
 *.indriver.com
 truck-api.eu-east-1.indriverapp.com
+ci.indrive.dev
 cargo.indrive.com
-*.indriverapp.com
-profile-api.eu-east-1.indriverapp.com
-watchdocs.indriverapp.com
 *.indrive.com
+*.indriverapp.com
+watchdocs.indriverapp.com
+profile-api.eu-east-1.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1168,8 +1168,8 @@ www.expediagroup.com
 *.expediapartnercentral.com
 www.expediapartnersolutions.com
 *.travelocity.ca
-www.fewo-direkt.de
 *.travelocity.com
+www.fewo-direkt.de
 www.flights.com
 *.vrbo.com
 *.wotif.com
@@ -1451,8 +1451,8 @@ bullsheet.me
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.tools
-www.instacart.com
 api.instacart.com
+www.instacart.com
 *.instacart.com
 *.instacart.com
 *.instacart.tools
@@ -2528,8 +2528,8 @@ updates.amazon.com
 *.alibaba.com
 *.aliexpress.com
 www.alibabagroup.com
-*.aliyun.com
 *.alibabacloud.com
+*.aliyun.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -3063,6 +3063,12 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3071,12 +3077,6 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 *.paylution.com
 my.swiftfinancial.com
 *.venmo.com
@@ -3653,8 +3653,8 @@ education.github.com
 npmjs.org
 gist.github.com
 *.githubusercontent.com
-npmjs.com
 api.github.com
+npmjs.com
 github.com
 github.com
 api.github.com
@@ -3853,9 +3853,9 @@ business.snapchat.com
 www.bitmoji.com
 ads.snapchat.com
 businesshelp.snapchat.com
-accounts.snapchat.com
-web.snapchat.com
 *.sc-corp.net
+web.snapchat.com
+accounts.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3927,8 +3927,8 @@ callbacks.airbnb.com
 *.airbnb-aws.com
 *.luxuryretreats.com
 *.airbnbcitizen.com
-*.withairbnb.com
 api.airbnb.com
+*.withairbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
 *.muscache.com
@@ -4018,8 +4018,8 @@ api.x.ai
 ide.x.ai
 grok.x.ai
 *.twimg.com
-x.com
 *.twitter.com
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4095,10 +4095,10 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
-api.coinbase.com
 international.coinbase.com
 coinbase.com
 *.base.org
@@ -4132,8 +4132,8 @@ www.quip.com
 slack-imgs.com
 *.quip.com
 slack.com
-app.slack.com
 api.slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4174,8 +4174,8 @@ ctf.hacker101.com
 hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 api.hackerone.com
-www.hackerone.com
 hackerone.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4379,8 +4379,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 magento.com
 marketplace.magento.com
 magentocommerce.com
