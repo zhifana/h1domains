@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 25 19:42:00 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 25 20:21:08 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -307,8 +307,8 @@ cards.remitly.io
 app.rewire.to
 rates.rewire.com
 rewire.com
-remitly.com
 app3.rewire.to
+remitly.com
 api.remitly.io
 remitly.com
 api.remitly.io
@@ -367,8 +367,8 @@ www.sheer.com
 my.sheer.com
 www.analvids.com
 www.pornbox.com
-www.pornworld.com
 www.ddfcontent.com
+www.pornworld.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -391,8 +391,8 @@ sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 demo.dynamic.xyz
-app.dynamic.xyz
 app.dynamic-preprod.xyz
+app.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -495,11 +495,11 @@ spark.fareharbor.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
 flights.booking.com
+www.fareharbor.com
 account.booking.com
 paymentcomponent.booking.com
-booking.com
 careers.booking.com
-www.fareharbor.com
+booking.com
 admin.booking.com
 *.rentalcars.com
 *.booking.com
@@ -814,19 +814,19 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-firefox.settings.services.mozilla.com
-push.services.mozilla.com
-phabricator.allizom.org
 crash-stats.allizom.org
+phabricator.allizom.org
 aus5.mozilla.org
 shavar.services.mozilla.com
-sync.services.mozilla.com
+firefox.settings.services.mozilla.com
+push.services.mozilla.com
 lando.services.mozilla.com
+sync.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
-contile.services.mozilla.com
 crash-reports.allizom.org
+contile.services.mozilla.com
 addons.allizom.org
 bugzilla.mozilla.org
 firefox-ci-tc.services.mozilla.com
@@ -887,8 +887,8 @@ hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 hiltonhotels.jp
 *.hilton.io
-hilton.com
 hilton.io
+hilton.com
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -930,8 +930,8 @@ truck-api.eu-east-1.indriverapp.com
 *.indriver.com
 ci.indrive.dev
 cargo.indrive.com
-watchdocs.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
+watchdocs.indriverapp.com
 *.indrive.com
 *.indriverapp.com
 *.indriverapp.com
@@ -1113,8 +1113,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.moonpaycloud.com
 *.hypermint.com
+*.moonpaycloud.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1796,11 +1796,11 @@ www.reddit.com
 *.reddit.com
 ads.reddit.com
 matrix.redditspace.com
-*.redditmedia.com
-*.redditinc.com
-gql.reddit.com
 *.reddithelp.com
 api.reddit.com
+gql.reddit.com
+*.redditmedia.com
+*.redditinc.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1896,8 +1896,8 @@ fetlife.com
 fetlife.com
 api.bitso.com
 nvio.ar
-nvio.mx
 bitso.com
+nvio.mx
 bitso.com
 api.bitso.com
 http://bitso.com/alpha
@@ -1936,12 +1936,12 @@ hackers_chosendomain.larksuite.com
 *.a.exodus.io
 *.exodus.com
 core.yoti.com
-hub.yoti.com
 code.yoti.com
 ccloud.yoti.com
 identity.yoti.com
 www.yotisign.com
 api.yoti.com
+hub.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1959,8 +1959,8 @@ internal-docs.netlify.com
 internal.netlify.com
 *.ops.netlify.com
 *.infra-prod.nsvcs.net
-*.services.netlify.com
 netlify-rum.netlify.app
+*.services.netlify.com
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2054,9 +2054,9 @@ developers.tiktok.com
 fp-sg.tiktokv.com
 *.tiktokv.com
 partner.tiktokshop.com
-*.tiktok.com
 effecthouse.tiktok.com
 ads.tiktok.com
+*.tiktok.com
 tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2527,9 +2527,9 @@ updates.amazon.com
 *.taobao.com
 www.alibabagroup.com
 *.alibabacloud.com
+*.aliyun.com
 *.alibaba.com
 *.aliexpress.com
-*.aliyun.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2623,10 +2623,10 @@ mipartnerprivileges.marriott.com
 travelagents.marriott.com/
 activities.marriott.com
 homes-and-villas.marriott.com
-all-inclusive.marriott.com
 traveler.marriott.com
 careers.marriott.com
 www.marriott.com
+all-inclusive.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -3001,10 +3001,10 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
-www.4njbets.com
 login.tvg.com
 mobile-prod.tvg.com
 *racing.fanduel.com
+www.4njbets.com
 tvg.com
 sportsbook.fanduel.com
 fdbox.net
@@ -3705,8 +3705,8 @@ oauth.deriv.com
 *.binary.com
 api.deriv.com
 *.deriv.cloud
-*.deriv.com
 cashier.deriv.com
+*.deriv.com
 app.deriv.com
 *.deriv.com
 *.deriv.cloud
@@ -3785,9 +3785,9 @@ shop.app
 your-store.myshopify.com
 shopifyinbox.com
 partners.shopify.com
-*.shopify.com
 accounts.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3996,8 +3996,8 @@ api.x.ai
 ide.x.ai
 grok.x.ai
 *.twimg.com
-x.com
 *.twitter.com
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4110,8 +4110,8 @@ www.quip.com
 slack-imgs.com
 *.quip.com
 slack.com
-api.slack.com
 app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4379,8 +4379,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 magento.com
 marketplace.magento.com
 magentocommerce.com
