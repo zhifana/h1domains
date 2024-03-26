@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 26 13:47:31 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar 26 14:21:37 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -366,8 +366,8 @@ www.sheer.com
 my.sheer.com
 www.analvids.com
 www.pornworld.com
-www.ddfcontent.com
 www.pornbox.com
+www.ddfcontent.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -424,8 +424,8 @@ auth.23andme.com
 mediacenter.23andme.com
 research.23andme.com
 blog.23andme.com
-you.23andme.com
 medical.23andme.com
+you.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -446,12 +446,12 @@ www.mercadolibre.com.co
 www.mercadolibre.cl
 www.mercadopago.com.br
 www.mercadopago.cl
-www.mercadolibre.com.ar
 www.mercadolibre.com.mx
 api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadolivre.com.br
+www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -494,14 +494,14 @@ spark.fareharbor.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
 flights.booking.com
+www.fareharbor.com
 account.booking.com
 paymentcomponent.booking.com
-booking.com
 careers.booking.com
-www.fareharbor.com
-*.rentalcars.com
+booking.com
 admin.booking.com
 *.booking.com
+*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -772,8 +772,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.freshcaller.com
-yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -813,12 +813,12 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-shavar.services.mozilla.com
 push.services.mozilla.com
-crash-stats.allizom.org
 phabricator.allizom.org
-lando.services.mozilla.com
+crash-stats.allizom.org
+shavar.services.mozilla.com
 sync.services.mozilla.com
+lando.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
@@ -922,8 +922,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 injob.indriver.com
 auth.indrive.tech
-truck-api.eu-east-1.indriverapp.com
 *.indriver.com
+truck-api.eu-east-1.indriverapp.com
 cargo.indrive.com
 watchdocs.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
@@ -1113,8 +1113,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.moonpaycloud.com
 *.hypermint.com
+*.moonpaycloud.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1241,8 +1241,8 @@ pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
 *.deribit.com
-test.deribit.com
 insights.deribit.com
+test.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1778,7 +1778,6 @@ amp.reddit.com
 *.snooguts.net
 ads-api.reddit.com
 *.redditblog.com
-mod.reddit.com
 oauth.reddit.com
 accounts.reddit.com
 gateway.reddit.com
@@ -1801,6 +1800,7 @@ api.reddit.com
 gql.reddit.com
 *.reddit.com
 *.redditinc.com
+mod.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2051,11 +2051,11 @@ academy-outbound-ads.tiktok.com
 developers.tiktok.com
 partner.tiktokshop.com
 effecthouse.tiktok.com
-*.tiktokv.com
 tiktok.com
-creatormarketplace.tiktok.com
+*.tiktokv.com
 fp-sg.tiktokv.com
 live-backstage.tiktok.com
+creatormarketplace.tiktok.com
 ads.tiktok.com
 *.tiktok.com
 *.tiktok.com
@@ -2547,8 +2547,8 @@ konfigurator.bmw-motorrad.de
 configure.bmw.de
 www.bmw-motorrad.de
 www.mini.de
-configure.mini.de
 www.bmw.de
+configure.mini.de
 www.bmw.de
 www.mini.de
 www.bmw-motorrad.de
@@ -3364,8 +3364,8 @@ privatetarget-1-www.zigzag
 *.scatec.io
 *.sellzone.com
 *.myinsights.io
-*.semrush.com
 *.semrush.net
+*.semrush.com
 *.semrush.com
 *.semrush.net
 *.seoquake.com
@@ -3630,8 +3630,8 @@ education.github.com
 npmjs.org
 gist.github.com
 *.githubusercontent.com
-classroom.github.com
 github.com
+classroom.github.com
 api.github.com
 npmjs.com
 github.com
@@ -3698,8 +3698,8 @@ www.algolia.com
 *.algolianet.com
 www.algolia.com
 secure-dfadmin.deriv.com
-derivws.com
 *.derivws.com
+derivws.com
 *.binary.com
 api.deriv.com
 *.deriv.cloud
@@ -3778,16 +3778,16 @@ yourcompany.udemy.com
 linkpop.com
 shopify.plus
 *.shopifycs.com
+your-store.myshopify.com
 *.shopifycloud.com
 *.shopify.io
 arrive-server.shopifycloud.com
 shop.app
 partners.shopify.com
-shopifyinbox.com
 admin.shopify.com
 *.shopify.com
+shopifyinbox.com
 accounts.shopify.com
-your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3822,18 +3822,18 @@ relay.playcanvas.com
 rt.playcanvas.com
 store.playcanvas.com
 playcanv.as
-login.playcanvas.com
 businesshelp.snapchat.com
+login.playcanvas.com
 geofilters.snapchat.com
 playcanvas.com
 app.snapchat.com
 www.bitmoji.com
 *.sc-corp.net
-web.snapchat.com
 accounts.snapchat.com
+web.snapchat.com
 kit.snapchat.com
-business.snapchat.com
 ads.snapchat.com
+business.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3904,8 +3904,8 @@ callbacks.airbnb.com
 *.byairbnb.com
 *.airbnb-aws.com
 *.luxuryretreats.com
-*.airbnbcitizen.com
 support-api.airbnb.com
+*.airbnbcitizen.com
 *.withairbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
@@ -3994,10 +3994,10 @@ www.greenhouse.io
 gnip.com
 api.x.ai
 ide.x.ai
+*.twitter.com
 grok.x.ai
 *.twimg.com
 x.com
-*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4073,10 +4073,10 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
+api.coinbase.com
 international.coinbase.com
 coinbase.com
 *.base.org
@@ -4107,11 +4107,11 @@ slackatwork.com
 slack-redir.net
 spaces.pm
 www.quip.com
+api.slack.com
 slack-imgs.com
 *.quip.com
 slack.com
 app.slack.com
-api.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4138,6 +4138,8 @@ b5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
+hackerone.com
+api.hackerone.com
 reviewer.pullrequest.com
 hackerone-ext-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
@@ -4151,9 +4153,7 @@ ctf.hacker101.com
 hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
-api.hackerone.com
 www.hackerone.com
-hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4415,9 +4415,9 @@ alerts.eu.newrelic.com
 *.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
-rpm.newrelic.com
 synthetics.newrelic.com
 insights.newrelic.com
+rpm.newrelic.com
 one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
