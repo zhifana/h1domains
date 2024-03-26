@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 26 10:21:34 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar 26 10:44:50 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -321,8 +321,8 @@ toolsforhumanity.com
 bioid-management.app
 *.worldcoin-distributors.com
 *.consumer.worldcoin.org
-getworldcoin.com
 worldcoin.org
+getworldcoin.com
 *.worldcoin.dev
 *.worldcoin.org
 *.worldcoin.org
@@ -424,8 +424,8 @@ auth.23andme.com
 mediacenter.23andme.com
 research.23andme.com
 blog.23andme.com
-medical.23andme.com
 you.23andme.com
+medical.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -494,13 +494,13 @@ spark.fareharbor.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
 flights.booking.com
-www.fareharbor.com
 account.booking.com
 paymentcomponent.booking.com
-careers.booking.com
 booking.com
-admin.booking.com
+careers.booking.com
+www.fareharbor.com
 *.rentalcars.com
+admin.booking.com
 *.booking.com
 *.booking.com
 *.rentalcars.com
@@ -771,9 +771,9 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
-yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -813,12 +813,12 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-shavar.services.mozilla.com
 push.services.mozilla.com
-crash-stats.allizom.org
 phabricator.allizom.org
-lando.services.mozilla.com
+crash-stats.allizom.org
+shavar.services.mozilla.com
 sync.services.mozilla.com
+lando.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
@@ -926,8 +926,8 @@ auth.indrive.tech
 truck-api.eu-east-1.indriverapp.com
 *.indriver.com
 cargo.indrive.com
-watchdocs.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
+watchdocs.indriverapp.com
 super-services.indriverapp.com
 ci.indrive.dev
 *.indriverapp.com
@@ -1204,9 +1204,9 @@ www.stayz.com.au
 www.expediagroup.com
 www.flights.com
 *.magiceden.workers.dev
-magiceden.io
 *.magiceden.dev
 *.magiceden.io
+magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1241,8 +1241,8 @@ pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
 *.deribit.com
-insights.deribit.com
 test.deribit.com
+insights.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1796,10 +1796,10 @@ www.reddit.com
 *.reddit.com
 ads.reddit.com
 matrix.redditspace.com
-*.redditmedia.com
-*.redditinc.com
-*.reddithelp.com
 api.reddit.com
+*.redditinc.com
+*.redditmedia.com
+*.reddithelp.com
 gql.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -1861,8 +1861,8 @@ wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
 wp-qa.chime.com
-*.chime.com
 *.chimebank.com
+*.chime.com
 *.1debit.com
 *.chimebank.com
 *.chimecard.com
@@ -2051,13 +2051,13 @@ academy-outbound-ads.tiktok.com
 developers.tiktok.com
 partner.tiktokshop.com
 effecthouse.tiktok.com
-tiktok.com
 *.tiktokv.com
+tiktok.com
+creatormarketplace.tiktok.com
 fp-sg.tiktokv.com
 live-backstage.tiktok.com
-creatormarketplace.tiktok.com
-ads.tiktok.com
 *.tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2134,7 +2134,6 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
-www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
 www.iciparisxl.nl
@@ -2694,8 +2693,8 @@ app.nordpass.com
 *.line-apps.com
 *.line.naver.jp
 *.linecorp.com
-*.line.me
 *.line.biz
+*.line.me
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -3002,16 +3001,16 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
-www.4njbets.com
-mobile-prod.tvg.com
 login.tvg.com
+mobile-prod.tvg.com
 *racing.fanduel.com
+www.4njbets.com
 tvg.com
 sportsbook.fanduel.com
 fdbox.net
 www.tvg.com
-*.fanduel.com
 us.tvg.com
+*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3365,8 +3364,8 @@ privatetarget-1-www.zigzag
 *.scatec.io
 *.sellzone.com
 *.myinsights.io
-*.semrush.com
 *.semrush.net
+*.semrush.com
 *.semrush.com
 *.semrush.net
 *.seoquake.com
@@ -3391,8 +3390,8 @@ api.grabpay.com
 kartaview.org
 jira.grab.com
 *.ovo.id
-*.myteksi.com
 *.grab.com
+*.myteksi.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3699,8 +3698,8 @@ www.algolia.com
 *.algolianet.com
 www.algolia.com
 secure-dfadmin.deriv.com
-derivws.com
 *.derivws.com
+derivws.com
 *.binary.com
 api.deriv.com
 *.deriv.cloud
@@ -3786,9 +3785,9 @@ shop.app
 your-store.myshopify.com
 partners.shopify.com
 accounts.shopify.com
-shopifyinbox.com
 admin.shopify.com
 *.shopify.com
+shopifyinbox.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3823,8 +3822,8 @@ relay.playcanvas.com
 rt.playcanvas.com
 store.playcanvas.com
 playcanv.as
-businesshelp.snapchat.com
 login.playcanvas.com
+businesshelp.snapchat.com
 geofilters.snapchat.com
 playcanvas.com
 app.snapchat.com
@@ -3911,9 +3910,9 @@ support-api.airbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
 *.muscache.com
+*.airbnb.com
 www.airbnb.com
 api.airbnb.com
-*.airbnb.com
 www.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -4152,8 +4151,8 @@ ctf.hacker101.com
 hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
-www.hackerone.com
 api.hackerone.com
+www.hackerone.com
 hackerone.com
 hackerone.com
 api.hackerone.com
@@ -4416,9 +4415,9 @@ alerts.eu.newrelic.com
 *.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
+rpm.newrelic.com
 synthetics.newrelic.com
 insights.newrelic.com
-rpm.newrelic.com
 one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
