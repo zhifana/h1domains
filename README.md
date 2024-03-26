@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 26 04:40:35 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar 26 05:17:07 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -304,10 +304,10 @@ webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
 app.rewire.to
-app3.rewire.to
 rewire.com
-rates.rewire.com
+app3.rewire.to
 remitly.com
+rates.rewire.com
 api.remitly.io
 remitly.com
 api.remitly.io
@@ -322,9 +322,9 @@ bioid-management.app
 *.worldcoin.dev
 *.worldcoin-distributors.com
 *.consumer.worldcoin.org
+getworldcoin.com
 *.worldcoin.org
 worldcoin.org
-getworldcoin.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -350,8 +350,8 @@ customer-sessions.arkoselabs.com
 portal.arkoselabs.com
 verify.arkoselabs.com
 iframe.arkoselabs.com
-www.arkoselabs.com
 demo.arkoselabs.com
+www.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
@@ -424,8 +424,8 @@ auth.23andme.com
 mediacenter.23andme.com
 research.23andme.com
 blog.23andme.com
-medical.23andme.com
 you.23andme.com
+medical.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -772,8 +772,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshservice.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -817,7 +817,6 @@ phabricator.allizom.org
 crash-stats.allizom.org
 aus5.mozilla.org
 shavar.services.mozilla.com
-firefox.settings.services.mozilla.com
 push.services.mozilla.com
 lando.services.mozilla.com
 sync.services.mozilla.com
@@ -830,6 +829,7 @@ addons.allizom.org
 bugzilla.mozilla.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
+firefox.settings.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -886,8 +886,8 @@ hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 hiltonhotels.jp
 *.hilton.io
-hilton.com
 hilton.io
+hilton.com
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -1009,8 +1009,8 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
-www.prisma.fi
 mobile.s-pankki.fi
+www.prisma.fi
 online.s-pankki.fi
 www.s-pankki.fi
 online.s-pankki.fi
@@ -1113,8 +1113,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.hypermint.com
 *.moonpaycloud.com
+*.hypermint.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -2049,15 +2049,15 @@ www.pangleglobal.com
 business.tiktok.com
 academy-outbound-ads.tiktok.com
 developers.tiktok.com
-partner.tiktokshop.com
 effecthouse.tiktok.com
-*.tiktokv.com
 *.tiktok.com
+*.tiktokv.com
+partner.tiktokshop.com
 tiktok.com
-creatormarketplace.tiktok.com
-ads.tiktok.com
 fp-sg.tiktokv.com
 live-backstage.tiktok.com
+ads.tiktok.com
+creatormarketplace.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2528,8 +2528,8 @@ updates.amazon.com
 www.alibabagroup.com
 *.alibabacloud.com
 *.aliyun.com
-*.alibaba.com
 *.aliexpress.com
+*.alibaba.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2547,8 +2547,8 @@ konfigurator.bmw-motorrad.de
 configure.bmw.de
 www.bmw-motorrad.de
 www.mini.de
-configure.mini.de
 www.bmw.de
+configure.mini.de
 www.bmw.de
 www.mini.de
 www.bmw-motorrad.de
@@ -3001,16 +3001,16 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
-mobile-prod.tvg.com
 login.tvg.com
+mobile-prod.tvg.com
 *racing.fanduel.com
 www.4njbets.com
 tvg.com
 sportsbook.fanduel.com
 fdbox.net
 www.tvg.com
-*.fanduel.com
 us.tvg.com
+*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3056,7 +3056,6 @@ pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.paylution.com
 my.swiftfinancial.com
-www.loanbuilder.com
 *.venmo.com
 *.braintreepayments.com
 *.paypalcorp.com
@@ -3066,6 +3065,7 @@ www.loanbuilder.com
 *.braintree-api.com
 my.loanbuilder.com
 paypalobjects.com
+www.loanbuilder.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3245,15 +3245,15 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-auth.crypto.com
 *.mona.co
 tax.crypto.com
+auth.crypto.com
 js.crypto.com
 app.mona.co
 pay.crypto.com
 merchant.crypto.com
-www.crypto.com
 *.crypto.com
+www.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3425,8 +3425,8 @@ ccardsus1.badoo.com
 chatdate.app
 bma.bumble.com
 getofficial.co
-eu1.badoo.com
 www.bumble.com
+eu1.badoo.com
 badoo.com
 www.bumble.com
 bma.bumble.com
@@ -3631,8 +3631,8 @@ npmjs.org
 gist.github.com
 *.githubusercontent.com
 npmjs.com
-classroom.github.com
 github.com
+classroom.github.com
 api.github.com
 github.com
 api.github.com
@@ -3661,8 +3661,8 @@ docs.gitlab.com
 design.gitlab.com
 advisories.gitlab.com
 about.gitlab.com
-gitlab.com
 *.gitlab.net
+gitlab.com
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3698,8 +3698,8 @@ www.algolia.com
 *.algolianet.com
 www.algolia.com
 secure-dfadmin.deriv.com
-derivws.com
 *.derivws.com
+derivws.com
 smarttrader.deriv.com
 oauth.deriv.com
 *.binary.com
@@ -3770,8 +3770,8 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 http://h1-your-domain.zendesk.com/sell
-www.udemy.com
 yourcompany.udemy.com
+www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 *.shopifykloud.com
@@ -3831,9 +3831,9 @@ app.snapchat.com
 www.bitmoji.com
 ads.snapchat.com
 *.sc-corp.net
-accounts.snapchat.com
 web.snapchat.com
 business.snapchat.com
+accounts.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3911,9 +3911,9 @@ support-api.airbnb.com
 next.airbnb.com
 *.muscache.com
 www.hoteltonight.com
-*.airbnb.com
 www.airbnb.com
 api.airbnb.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3977,10 +3977,10 @@ api.greenhouse.io
 onboarding.greenhouse.io
 jss.greenhouse.io
 app.interseller.io
-interseller.io
 www.greenhouse.io
 app.greenhouse.io
 support.greenhouse.io
+interseller.io
 app.greenhouse.io
 boards.greenhouse.io
 api.greenhouse.io
@@ -4073,10 +4073,10 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
+api.coinbase.com
 international.coinbase.com
 coinbase.com
 *.base.org
@@ -4379,8 +4379,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 magento.com
 marketplace.magento.com
 magentocommerce.com
@@ -4415,8 +4415,8 @@ alerts.eu.newrelic.com
 *.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
-synthetics.newrelic.com
 rpm.newrelic.com
+synthetics.newrelic.com
 insights.newrelic.com
 one.newrelic.com
 *.newrelic.com
