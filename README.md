@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 26 05:17:07 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar 26 05:43:58 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -304,11 +304,11 @@ webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
 app.rewire.to
-rewire.com
 app3.rewire.to
+rewire.com
 remitly.com
-rates.rewire.com
 api.remitly.io
+rates.rewire.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -322,9 +322,9 @@ bioid-management.app
 *.worldcoin.dev
 *.worldcoin-distributors.com
 *.consumer.worldcoin.org
-getworldcoin.com
 *.worldcoin.org
 worldcoin.org
+getworldcoin.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -360,8 +360,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-www.sheer.com
 my.sheer.com
+www.sheer.com
 www.sheer.com
 my.sheer.com
 www.analvids.com
@@ -494,14 +494,14 @@ spark.fareharbor.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
 flights.booking.com
-www.fareharbor.com
 account.booking.com
 paymentcomponent.booking.com
-careers.booking.com
 booking.com
-admin.booking.com
+careers.booking.com
+www.fareharbor.com
 *.rentalcars.com
 *.booking.com
+admin.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -772,8 +772,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
-yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -813,13 +813,13 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
+push.services.mozilla.com
 phabricator.allizom.org
 crash-stats.allizom.org
 aus5.mozilla.org
 shavar.services.mozilla.com
-push.services.mozilla.com
-lando.services.mozilla.com
 sync.services.mozilla.com
+lando.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
@@ -828,8 +828,8 @@ crash-reports.allizom.org
 addons.allizom.org
 bugzilla.mozilla.org
 firefox-ci-tc.services.mozilla.com
-accounts.firefox.com
 firefox.settings.services.mozilla.com
+accounts.firefox.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -854,8 +854,8 @@ vpn.mozilla.org
 profiler.firefox.com
 support.mozilla.org
 hg.mozilla.org
-developer.mozilla.org
 relay.firefox.com
+developer.mozilla.org
 www.mozilla.org
 monitor.mozilla.org
 developer.mozilla.org
@@ -886,8 +886,8 @@ hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 hiltonhotels.jp
 *.hilton.io
-hilton.io
 hilton.com
+hilton.io
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -1113,8 +1113,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.moonpaycloud.com
 *.hypermint.com
+*.moonpaycloud.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1796,11 +1796,11 @@ www.reddit.com
 *.reddit.com
 ads.reddit.com
 matrix.redditspace.com
+api.reddit.com
+*.reddithelp.com
 gql.reddit.com
 *.redditmedia.com
 *.redditinc.com
-*.reddithelp.com
-api.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1959,8 +1959,8 @@ internal-docs.netlify.com
 internal.netlify.com
 *.ops.netlify.com
 *.infra-prod.nsvcs.net
-netlify-rum.netlify.app
 *.services.netlify.com
+netlify-rum.netlify.app
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2049,15 +2049,15 @@ www.pangleglobal.com
 business.tiktok.com
 academy-outbound-ads.tiktok.com
 developers.tiktok.com
+partner.tiktokshop.com
 effecthouse.tiktok.com
 *.tiktok.com
-*.tiktokv.com
-partner.tiktokshop.com
 tiktok.com
+*.tiktokv.com
 fp-sg.tiktokv.com
 live-backstage.tiktok.com
-ads.tiktok.com
 creatormarketplace.tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -3001,10 +3001,10 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
+www.4njbets.com
 login.tvg.com
 mobile-prod.tvg.com
 *racing.fanduel.com
-www.4njbets.com
 tvg.com
 sportsbook.fanduel.com
 fdbox.net
@@ -3063,10 +3063,10 @@ my.swiftfinancial.com
 *.hyperwallet.com
 *.xoom.com
 *.braintree-api.com
-my.loanbuilder.com
 paypalobjects.com
-www.loanbuilder.com
+my.loanbuilder.com
 *.paypal.com
+www.loanbuilder.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3364,8 +3364,8 @@ privatetarget-1-www.zigzag
 *.scatec.io
 *.sellzone.com
 *.myinsights.io
-*.semrush.net
 *.semrush.com
+*.semrush.net
 *.semrush.com
 *.semrush.net
 *.seoquake.com
@@ -3390,8 +3390,8 @@ api.grabpay.com
 kartaview.org
 jira.grab.com
 *.ovo.id
-*.myteksi.com
 *.grab.com
+*.myteksi.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3698,8 +3698,8 @@ www.algolia.com
 *.algolianet.com
 www.algolia.com
 secure-dfadmin.deriv.com
-*.derivws.com
 derivws.com
+*.derivws.com
 smarttrader.deriv.com
 oauth.deriv.com
 *.binary.com
@@ -3784,8 +3784,8 @@ arrive-server.shopifycloud.com
 shop.app
 your-store.myshopify.com
 partners.shopify.com
-shopifyinbox.com
 accounts.shopify.com
+shopifyinbox.com
 admin.shopify.com
 *.shopify.com
 *.shopifycs.com
@@ -4073,10 +4073,10 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
-api.coinbase.com
 international.coinbase.com
 coinbase.com
 *.base.org
@@ -4379,8 +4379,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 magento.com
 marketplace.magento.com
 magentocommerce.com
@@ -4415,9 +4415,9 @@ alerts.eu.newrelic.com
 *.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
-rpm.newrelic.com
 synthetics.newrelic.com
 insights.newrelic.com
+rpm.newrelic.com
 one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
