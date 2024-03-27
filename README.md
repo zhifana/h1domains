@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 27 10:42:03 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 27 11:17:52 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -442,16 +442,16 @@ www.mercadopago.com.pe
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
 www.mercadolibre.com.uy
-www.mercadopago.com.br
 www.mercadolibre.com.ar
 www.mercadolibre.com.co
 www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.ar
-api.mercadopago.com
-www.mercadolivre.com.br
+www.mercadopago.com.br
 api.mercadolibre.com
+www.mercadolivre.com.br
+api.mercadopago.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -539,8 +539,8 @@ www.fareharbor.com
 teleport.fareharbor.engineering
 *.bybit.com
 *.bybit.com
-portal.au.frontegg.com
 api.au.frontegg.com
+portal.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 api2.frontapp.com
@@ -662,7 +662,6 @@ fhir.redoxengine.com
 explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
-bd.visa.com
 bm.visa.com
 bq.visa.com
 cw.visa.com
@@ -710,6 +709,7 @@ www.visa.com.ph
 www.authorize.net
 www.visa.com.mx
 www.visa.co.id
+www.visa.co.jp
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -771,9 +771,9 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshchat.com
 yourdomain.freshcaller.com
-yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -788,10 +788,10 @@ api.avtoelon.uz
 app.avtoelon.uz
 id.avtoelon.uz
 m.kolesa.kz
-kolesa.kz
 m.avtoelon.uz
 avtoelon.uz
 api.krisha.kz
+kolesa.kz
 id.kolesa.kz
 kolesa.kz
 m.kolesa.kz
@@ -854,8 +854,8 @@ vpn.mozilla.org
 profiler.firefox.com
 support.mozilla.org
 hg.mozilla.org
-relay.firefox.com
 developer.mozilla.org
+relay.firefox.com
 www.mozilla.org
 monitor.mozilla.org
 developer.mozilla.org
@@ -930,9 +930,9 @@ super-services.indriverapp.com
 ci.indrive.dev
 wga.volans.tech
 *.indriver.com
-*.indrive.com
 *.indriverapp.com
 watchdocs.indriverapp.com
+*.indrive.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1162,17 +1162,17 @@ www.abritel.fr
 www.bookabach.co.nz
 www.stayz.com.au
 www.expediagroup.com
-*.hotwire.com
 www.expediapartnersolutions.com
 *.travelocity.ca
-www.fewo-direkt.de
 *.travelocity.com
+www.fewo-direkt.de
 www.flights.com
 *.vrbo.com
 *.wotif.com
 *.carrentals.com
 www.hotels.com
 *.expediacruises.com
+*.hotwire.com
 *.expediapartnercentral.com
 www.expedia.com
 *.vrbo.com
@@ -2999,16 +2999,16 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
-www.4njbets.com
 login.tvg.com
 mobile-prod.tvg.com
 *racing.fanduel.com
+www.4njbets.com
 tvg.com
 sportsbook.fanduel.com
 fdbox.net
 www.tvg.com
-*.fanduel.com
 us.tvg.com
+*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3221,11 +3221,11 @@ partner.steampowered.com
 partner.steamgames.com
 playartifact.com
 help.steampowered.com
+steamcommunity.com
 www.dota2.com
 www.valvesoftware.com
 store.steampowered.com
 www.counter-strike.net
-steamcommunity.com
 www.teamfortress.com
 api.steampowered.com
 www.dota2.com
@@ -3702,8 +3702,8 @@ cashier.deriv.com
 oauth.deriv.com
 smarttrader.deriv.com
 *.deriv.com
-app.deriv.com
 api.deriv.com
+app.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3778,9 +3778,9 @@ shopify.plus
 *.shopify.io
 arrive-server.shopifycloud.com
 shop.app
+shopifyinbox.com
 admin.shopify.com
 *.shopify.com
-shopifyinbox.com
 accounts.shopify.com
 your-store.myshopify.com
 partners.shopify.com
@@ -3826,9 +3826,9 @@ playcanvas.com
 app.snapchat.com
 www.bitmoji.com
 *.sc-corp.net
-accounts.snapchat.com
 ads.snapchat.com
 web.snapchat.com
+accounts.snapchat.com
 kit.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
@@ -3900,8 +3900,8 @@ callbacks.airbnb.com
 *.byairbnb.com
 *.airbnb-aws.com
 *.luxuryretreats.com
-*.airbnbcitizen.com
 support-api.airbnb.com
+*.airbnbcitizen.com
 *.hoteltonight-test.com
 next.airbnb.com
 *.muscache.com
@@ -4068,10 +4068,10 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
+api.coinbase.com
 international.coinbase.com
 coinbase.com
 nft.coinbase.com
@@ -4147,8 +4147,8 @@ ctf.hacker101.com
 hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
-www.hackerone.com
 hackerone.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4400,8 +4400,8 @@ alerts.eu.newrelic.com
 *.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
-rpm.newrelic.com
 synthetics.newrelic.com
+rpm.newrelic.com
 insights.newrelic.com
 one.newrelic.com
 *.newrelic.com
