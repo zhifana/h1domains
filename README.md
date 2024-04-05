@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Apr  5 19:17:57 UTC 2024)
+## Domains with Bounties (Last Updated Fri Apr  5 19:41:30 UTC 2024)
 ```
 www.dyson.be
 www.dyson.pt
@@ -22,7 +22,7 @@ api.dyson.fr
 api.dyson.ie
 www.sa.dyson.com
 shop.dyson.ru
-www.dyson.fr
+www.dyson.com.au
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -302,8 +302,8 @@ cards.remitly.io
 *.dev.remitly.com
 rates.rewire.com
 app.rewire.to
-api.remitly.io
 *.int.remitly.com
+api.remitly.io
 rewire.com
 app3.rewire.to
 remitly.com
@@ -417,10 +417,10 @@ logo.zyro.com
 www.niagahoster.co.id
 https://passport.eufy.com/?app=eufy-us
 education.23andme.com
+api.23andme.com
 research.23andme.com
 medical.23andme.com
 blog.23andme.com
-api.23andme.com
 store.23andme.com
 you.23andme.com
 mediacenter.23andme.com
@@ -450,8 +450,8 @@ www.mercadopago.com.mx
 www.mercadopago.com.co
 api.mercadopago.com
 www.mercadopago.com.br
-www.mercadolivre.com.br
 api.mercadolibre.com
+www.mercadolivre.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -829,11 +829,11 @@ crash-reports.allizom.org
 lando.services.mozilla.com
 contile.services.mozilla.com
 monitor.mozilla.org
-support.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 crash-stats.allizom.org
-merino.services.mozilla.com
 firefox.settings.services.mozilla.com
+merino.services.mozilla.com
+support.mozilla.org
 aus5.mozilla.org
 push.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
@@ -1040,23 +1040,23 @@ jobs.kiwi.com
 *.8x8.vc
 sms.8x8.com
 *.packet8.net
-*.8x8cloud.net
 *.p8t.us
 pay.8x8.com
 work.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
-platform.8x8pilot.com
-*.chalet.8x8.com
-*.8x8.id
-voapi.8x8.com
 user-profile.8x8.com
 admin.8x8.com
+voapi.8x8.com
+*.8x8.id
+platform.8x8pilot.com
+*.chalet.8x8.com
 cloud8.8x8.com
 user-profile-staging.8x8.com
 connect.8x8.com
 *.jitsi.net
 *.wavecell.com
+*.8x8staging.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1161,14 +1161,14 @@ www.flights.com
 *.wotif.com
 *.lastminute.com.au
 www.expedia.com
-www.stayz.com.au
 www.fewo-direkt.de
+www.stayz.com.au
 www.ebookers.com
 *.cheaptickets.com
 *.expediacruises.com
+www.expediagroup.com
 www.bookabach.co.nz
 www.abritel.fr
-www.expediagroup.com
 *.vrbo.com
 *.hotwire.com
 *.travelocity.com
@@ -1250,8 +1250,8 @@ blueprints.amazon.com
 creator.amazon.com
 alexa.amazon.com
 skills-store.amazon.com
-read.amazon.com
 a4k.amazon.com
+read.amazon.com
 read.amazon.com
 alexaanswers.amazon.com
 blueprints.amazon.com
@@ -1323,9 +1323,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.simpletax.ca
 www.cheapflights.com
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 www.momondo.com
 www.kayak.com
 business.kayak.com
@@ -1351,10 +1351,10 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
+api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
 exness.com
-api.excalls.mobi
 my.exness.com
 pay.ibex.exchange
 my.exness.com
@@ -1443,10 +1443,10 @@ watchlistapi.etoro.com
 rankings.etoro.com
 delta.app
 bullsheet.me
-*.instacart.tools
 admin.instacart.com
 api.instacart.com
 *.instacart.com
+*.instacart.tools
 www.instacart.com
 shoppers.instacart.com
 *.instacart.com
@@ -2045,15 +2045,15 @@ pay.tokopediax.com
 fp-sg.tiktokv.com
 developers.tiktok.com
 www.pangleglobal.com
-*.tiktok.com
 ads.tiktok.com
 live-backstage.tiktok.com
 business.tiktok.com
+partner.tiktokshop.com
 *.tiktokv.com
 seller-id.tokopedia.com
-partner.tiktokshop.com
 creatormarketplace.tiktok.com
 tiktok.com
+*.tiktok.com
 shop-id.tokopedia.com
 *.tiktok.com
 business.tiktok.com
@@ -2273,11 +2273,11 @@ direct.playstation.com
 api.direct.playstation.com
 social.playstation.com
 wallets.api.playstation.com
-transact.playstation.com
 my.playstation.com
+transact.playstation.com
 my.account.sony.com
-*.playstation.net
 store.playstation.com
+*.playstation.net
 ca.account.sony.com
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2520,9 +2520,9 @@ paragon-na.amazon.com
 read.amazon.com
 updates.amazon.com
 *.aliexpress.ru
-*.1688.com
 *.aliyun-inc.com
 *.alibabacloud.com
+*.1688.com
 *.alimama.com
 www.alibabagroup.com
 *.Daraz.com
@@ -2806,8 +2806,8 @@ api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
-press.priceline.com
 flyiin.com
+press.priceline.com
 www.bookingholdings.com
 www.priceline.com
 secure.rezserver.com
@@ -3021,8 +3021,8 @@ fdbox.net
 *.canada.fanduel.com
 www.tvg.com
 fanduel.com
-tvg.com
 *.numberfire.com
+tvg.com
 *racing.fanduel.com
 *.east.fdbox.net
 *.prod.fdbox.net
@@ -3236,10 +3236,10 @@ support.steampowered.com
 partner.steampowered.com
 partner.steamgames.com
 playartifact.com
-help.steampowered.com
-www.dota2.com
 www.teamfortress.com
 api.steampowered.com
+help.steampowered.com
+www.dota2.com
 store.steampowered.com
 www.counter-strike.net
 www.valvesoftware.com
@@ -3397,9 +3397,9 @@ gifts.grab.com
 *.grab.co
 *.ovo.id
 api.grabpay.com
+*.grabpay.com
 kartaview.org
 *.myteksi.com
-*.grabpay.com
 grab.careers
 jira.grab.com
 xtramile.grabpay.com
@@ -3609,8 +3609,8 @@ ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
-talk.brave.com
 search.brave.com
+talk.brave.com
 brave.com
 brave.com
 basicattentiontoken.org
@@ -3921,8 +3921,8 @@ callbacks.airbnb.com
 *.byairbnb.com
 *.airbnb-aws.com
 *.luxuryretreats.com
-support-api.airbnb.com
 *.airbnbcitizen.com
+support-api.airbnb.com
 next.airbnb.com
 api.airbnb.com
 www.hoteltonight.com
@@ -3994,8 +3994,8 @@ api.x.ai
 ide.x.ai
 grok.x.ai
 *.twimg.com
-*.twitter.com
 x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
