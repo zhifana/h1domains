@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Apr  6 16:20:48 UTC 2024)
+## Domains with Bounties (Last Updated Sat Apr  6 16:41:17 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -21,8 +21,8 @@ api.dyson.fr
 api.dyson.ie
 www.sa.dyson.com
 shop.dyson.ru
-www.dyson.fr
 www.dyson.pl
+www.dyson.fr
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -366,8 +366,8 @@ www.sheer.com
 my.sheer.com
 www.pornworld.com
 www.ddfcontent.com
-www.analvids.com
 www.pornbox.com
+www.analvids.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -594,10 +594,10 @@ xero-sandbox.gocardless.com
 *.gocardless-lab.io
 *.gocardless-staging.io
 pay-sandbox.gocardless.com
-www.gocardless.com
 manage-sandbox.gocardless.com
 *.gocardless-cicd.io
 api-sandbox.gocardless.com
+www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -831,8 +831,8 @@ contile.services.mozilla.com
 monitor.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 crash-stats.allizom.org
-firefox.settings.services.mozilla.com
 merino.services.mozilla.com
+firefox.settings.services.mozilla.com
 aus5.mozilla.org
 push.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
@@ -916,10 +916,10 @@ external.indrive.dev
 aws.indrive.tech
 debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
+new-order.eu-east-1.indriverapp.com
 auth.indrive.tech
 profile-api.eu-east-1.indriverapp.com
 wga.volans.tech
-new-order.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 injob.indriver.com
 ab-platform-api.eu-east-1.indriverapp.com
@@ -1200,8 +1200,8 @@ www.stayz.com.au
 www.expediagroup.com
 www.flights.com
 *.magiceden.workers.dev
-magiceden.io
 *.magiceden.dev
+magiceden.io
 *.magiceden.io
 magiceden.io
 *.magiceden.io
@@ -1323,9 +1323,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.simpletax.ca
 www.cheapflights.com
-www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
+www.swoodoo.com
 www.momondo.com
 www.kayak.com
 business.kayak.com
@@ -1467,8 +1467,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1508,8 +1508,8 @@ upld.krisp.ai
 admin.wickr.com
 admin.wickr.com
 *.joinclubhouse.com
-*.clubhouse.com
 *.clubhouseapi.com
+*.clubhouse.com
 *.clubhouse.com
 *.joinclubhouse.com
 *.clubhouseapi.com
@@ -1655,7 +1655,7 @@ marketplace.fedramp.gov
 *.search.gov
 federalist.18f.gov
 federalist-docs.18f.gov
-cloud.gov
+dashboard.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1728,8 +1728,8 @@ https://www.xvideos.net/app/
 *.eops.nl
 *.swiftype.com
 *.elastic.co
-*.elstc.co
 www.elastic.co
+*.elstc.co
 *.found.io
 cloud.elastic.co
 *.elastic.co
@@ -1781,8 +1781,8 @@ redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
-api.reddit.com
 *.redditmedia.com
+api.reddit.com
 mod.reddit.com
 gql.reddit.com
 new.reddit.com
@@ -1931,8 +1931,8 @@ hackers_chosendomain.larksuite.com
 core.yoti.com
 ccloud.yoti.com
 identity.yoti.com
-www.yotisign.com
 api.yoti.com
+www.yotisign.com
 code.yoti.com
 hub.yoti.com
 core.yoti.com
@@ -1996,10 +1996,10 @@ api.adm.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
-citrix.cloud.com
+adm.cloud.com
 secure.sharefile.eu
 api.sharefile.com
-adm.cloud.com
+citrix.cloud.com
 accounts.cloud.com
 (youriwssubdomain).cloud.com
 secure.sharefile.com
@@ -2045,11 +2045,11 @@ fp-sg.tiktokv.com
 developers.tiktok.com
 live-backstage.tiktok.com
 *.tiktokv.com
+tiktok.com
+shop-id.tokopedia.com
 business.tiktok.com
 www.pangleglobal.com
 partner.tiktokshop.com
-tiktok.com
-shop-id.tokopedia.com
 affiliate-id.tokopedia.com
 *.tiktok.com
 ads.tiktok.com
@@ -2520,18 +2520,18 @@ paragon-na.amazon.com
 read.amazon.com
 updates.amazon.com
 *.aliexpress.ru
+*.1688.com
 *.aliyun-inc.com
 *.alibabacloud.com
-*.1688.com
 *.alimama.com
 www.alibabagroup.com
 *.taobao.com
 *.tmall.com
 *.aliyun.com
 *.alibaba-inc.com
-*.alibaba.com
 *.aliexpress.com
 *.Daraz.com
+*.alibaba.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -3236,10 +3236,10 @@ support.steampowered.com
 partner.steampowered.com
 partner.steamgames.com
 playartifact.com
-help.steampowered.com
-www.dota2.com
 www.teamfortress.com
 api.steampowered.com
+help.steampowered.com
+www.dota2.com
 store.steampowered.com
 www.valvesoftware.com
 steamcommunity.com
@@ -3348,9 +3348,9 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-*.beta.lahitapiola.fi
 ext-gw.lahitapiola.fi
 api.lahitapiola.fi
+*.beta.lahitapiola.fi
 *.lahitapiola.fi
 www.lahitapiola.fi
 *.lahitapiolarahoitus.fi
@@ -3397,9 +3397,9 @@ gifts.grab.com
 *.grab.co
 *.ovo.id
 api.grabpay.com
-*.grabpay.com
 kartaview.org
 *.myteksi.com
+*.grabpay.com
 jira.grab.com
 xtramile.grabpay.com
 grab.careers
@@ -3466,8 +3466,8 @@ api.spotify.com
 *.fromspotify.com
 *.forspotify.com
 *.tospotify.com
-*.byspotify.com
 *.withspotify.com
+*.byspotify.com
 *.withspotify.com
 *.byspotify.com
 *.atspotify.com
@@ -3573,8 +3573,8 @@ secureui.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
 gift.starbucks.co.jp
-www.starbucks.co.uk
 www.starbucks.com.sg
+www.starbucks.co.uk
 app.starbucks.com
 www.starbucks.com.cn
 www.starbucks.co.jp
@@ -3609,8 +3609,8 @@ ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
-search.brave.com
 talk.brave.com
+search.brave.com
 brave.com
 brave.com
 basicattentiontoken.org
@@ -3722,8 +3722,8 @@ api.deriv.com
 *.deriv.cloud
 derivws.com
 smarttrader.deriv.com
-oauth.deriv.com
 *.deriv.com
+oauth.deriv.com
 cashier.deriv.com
 app.deriv.com
 *.deriv.com
@@ -3922,7 +3922,6 @@ callbacks.airbnb.com
 *.airbnb-aws.com
 *.luxuryretreats.com
 *.airbnbcitizen.com
-www.hoteltonight.com
 support-api.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3931,6 +3930,7 @@ api.airbnb.com
 *.withairbnb.com
 www.airbnb.com
 *.airbnb.com
+www.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4028,8 +4028,8 @@ happy.tools
 my.pressable.com
 simplenote.com
 simperium.com
-gravatar.com
 *.tumblr.com
+gravatar.com
 mailpoet.com
 www.tumblr.com
 akismet.com
@@ -4074,14 +4074,14 @@ pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
 international.coinbase.com
-*.base.org
 institutional.coinbase.com
 nft.coinbase.com
+*.base.org
 api.custody.coinbase.com
 api.coinbase.com
 coinbase.com
-commerce.coinbase.com
 cloud.coinbase.com
+commerce.coinbase.com
 *.coinbase.com
 *.coinbase.com
 *.cbhq.net
@@ -4357,8 +4357,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 magento.com
 marketplace.magento.com
 magentocommerce.com
@@ -4585,8 +4585,8 @@ api.greenhouse.io
 onboarding.greenhouse.io
 jss.greenhouse.io
 app.interseller.io
-interseller.io
 www.greenhouse.io
+interseller.io
 support.greenhouse.io
 app.greenhouse.io
 app.greenhouse.io
