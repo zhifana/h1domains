@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Apr  6 14:37:57 UTC 2024)
+## Domains with Bounties (Last Updated Sat Apr  6 15:17:38 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -21,8 +21,8 @@ api.dyson.fr
 api.dyson.ie
 www.sa.dyson.com
 shop.dyson.ru
-www.dyson.com.au
-www.dyson.my
+www.dyson.fr
+www.dyson.pl
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -349,9 +349,9 @@ cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
 verify.arkoselabs.com
 iframe.arkoselabs.com
-portal.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
+portal.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
@@ -366,8 +366,8 @@ www.sheer.com
 my.sheer.com
 www.pornworld.com
 www.ddfcontent.com
-www.pornbox.com
 www.analvids.com
+www.pornbox.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -447,11 +447,11 @@ www.mercadolibre.cl
 www.mercadopago.com.ar
 www.mercadopago.com.mx
 www.mercadopago.com.co
-api.mercadopago.com
 www.mercadopago.com.br
 www.mercadolibre.com.ar
 www.mercadolivre.com.br
 api.mercadolibre.com
+api.mercadopago.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -775,10 +775,10 @@ sandbox.authorize.net
 developer.authorize.net
 developer.visa.com
 yourdomain.freshcaller.com
-yourdomain.freshdesk.com
 yourdomain.freshchat.com
-yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yourdomain.freshservice.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -831,8 +831,8 @@ contile.services.mozilla.com
 monitor.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 crash-stats.allizom.org
-firefox.settings.services.mozilla.com
 merino.services.mozilla.com
+firefox.settings.services.mozilla.com
 aus5.mozilla.org
 push.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
@@ -1045,18 +1045,18 @@ pay.8x8.com
 work.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
-user-profile.8x8.com
-admin.8x8.com
-voapi.8x8.com
-*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
+*.8x8.id
+voapi.8x8.com
+user-profile.8x8.com
+admin.8x8.com
 cloud8.8x8.com
 user-profile-staging.8x8.com
 connect.8x8.com
 *.jitsi.net
 *.8x8staging.com
-platform.8x8.com
+sso.8x8pilot.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1250,8 +1250,8 @@ blueprints.amazon.com
 creator.amazon.com
 alexa.amazon.com
 skills-store.amazon.com
-read.amazon.com
 a4k.amazon.com
+read.amazon.com
 read.amazon.com
 alexaanswers.amazon.com
 blueprints.amazon.com
@@ -1323,9 +1323,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.simpletax.ca
 www.cheapflights.com
-www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
+www.swoodoo.com
 www.momondo.com
 www.kayak.com
 business.kayak.com
@@ -1467,8 +1467,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1852,9 +1852,9 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-www.chime.com
 wp-qa.chime.com
 *.chime.com
+www.chime.com
 *.chimebank.com
 *.1debit.com
 *.chimebank.com
@@ -1931,10 +1931,10 @@ hackers_chosendomain.larksuite.com
 core.yoti.com
 ccloud.yoti.com
 identity.yoti.com
-api.yoti.com
 www.yotisign.com
-hub.yoti.com
+api.yoti.com
 code.yoti.com
+hub.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -2245,9 +2245,9 @@ api.account.clario.co
 kbill.mackeeper.com
 api-ne.mackeeper.com
 mkapi.mackeeper.com
-account.mackeeper.com
-updater.clario.co
 clario.co
+updater.clario.co
+account.mackeeper.com
 mackeeper.com
 account.mackeeper.com
 clario.co
@@ -2520,9 +2520,9 @@ paragon-na.amazon.com
 read.amazon.com
 updates.amazon.com
 *.aliexpress.ru
-*.1688.com
 *.aliyun-inc.com
 *.alibabacloud.com
+*.1688.com
 *.alimama.com
 www.alibabagroup.com
 *.Daraz.com
@@ -2991,30 +2991,30 @@ grammarly.ai
 grammarly.ai
 *.east.fdbox.net
 *.mgmt.fndlsb.net
-*.prod.fdbox.net
 *.prd.fndlsb.net
+*.prod.fdbox.net
 *inf.fndlsb.net
 com.fanduel.android.live
-sportsbook.fanduel.com
 *racing.fanduel.com
+sportsbook.fanduel.com
 4njbets.tvgnetwork.com
 b2b.tvgnetwork.com
 service.racing.fanduel.com
-4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
+4njbets.us.betfair.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
+mobile-prod.tvg.com
 login-ia.tvg.com
 m.4njbets.tvg.com
-login.tvg.com
-mobile-prod.tvg.com
 pabets.tvg.com
+login.tvg.com
+login-4ngbets.us.betfair.com
+login.pabets.tvg.com
 service.tvg.com
 promos.tvg.com
 www.4njbets.com
-login-4ngbets.us.betfair.com
-login.pabets.tvg.com
 us.tvg.com
 ia.tvg.com
 fdbox.net
@@ -3151,7 +3151,6 @@ staging.airtable.com
 *.staging.airtable.com
 staging.airtable.com
 api-staging.airtable.com
-www.shipt.com
 app.shipt.com
 api.shipt.com
 admin.shipt.com
@@ -3163,6 +3162,7 @@ staging-admin.shipt.com
 staging-shoppingcart.shipt.com
 shoppingcart.shipt.com
 *.shipt.com
+www.shipt.com
 *.shipt.com
 app.shipt.com
 api.shipt.com
@@ -3299,9 +3299,9 @@ app.quovo.com
 secure.plaid.com
 plaid.com
 api.blockscore.com
-my.plaid.com
 manage.blockscore.com
 dashboard.plaid.com
+my.plaid.com
 production.plaid.com
 dashboard.plaid.com
 cdn.plaid.com
@@ -3402,8 +3402,8 @@ kartaview.org
 *.grabpay.com
 jira.grab.com
 xtramile.grabpay.com
-*.grab.com
 grab.careers
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3572,10 +3572,10 @@ openapi.starbucks.com
 secureui.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
-www.starbucks.com.sg
-www.starbucks.co.uk
 app.starbucks.com
+www.starbucks.co.uk
+www.starbucks.com.sg
+gift.starbucks.co.jp
 www.starbucks.com.cn
 www.starbucks.co.jp
 www.starbucks.co.kr
@@ -3722,8 +3722,8 @@ api.deriv.com
 *.deriv.cloud
 derivws.com
 smarttrader.deriv.com
-*.deriv.com
 oauth.deriv.com
+*.deriv.com
 cashier.deriv.com
 app.deriv.com
 *.deriv.com
@@ -3773,8 +3773,8 @@ developer.zendesk.com
 zopim.com
 app.futuresimple.com
 api.getbase.com
-apps.zendesk.com
 www.zendesk.com
+apps.zendesk.com
 smooch.io
 h1-your-domain.zendesk.com
 www.zendesk.com
@@ -3849,8 +3849,8 @@ playcanvas.com
 forum.playcanvas.com
 accounts.snapchat.com
 business.snapchat.com
-app.snapchat.com
 businesshelp.snapchat.com
+app.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
@@ -3890,6 +3890,7 @@ design.ui.com
 unifi.ui.com
 ispdesign.ui.com
 *.ubnt.com
+*.ubnt.com
 *.ui.com
 store.ui.com
 community.ui.com
@@ -3920,8 +3921,8 @@ callbacks.airbnb.com
 *.byairbnb.com
 *.airbnb-aws.com
 *.luxuryretreats.com
-*.airbnbcitizen.com
 support-api.airbnb.com
+*.airbnbcitizen.com
 next.airbnb.com
 api.airbnb.com
 www.hoteltonight.com
@@ -4027,8 +4028,8 @@ happy.tools
 my.pressable.com
 simplenote.com
 simperium.com
-*.tumblr.com
 gravatar.com
+*.tumblr.com
 mailpoet.com
 www.tumblr.com
 akismet.com
@@ -4356,8 +4357,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 magento.com
 marketplace.magento.com
 magentocommerce.com
@@ -4584,8 +4585,8 @@ api.greenhouse.io
 onboarding.greenhouse.io
 jss.greenhouse.io
 app.interseller.io
-www.greenhouse.io
 interseller.io
+www.greenhouse.io
 support.greenhouse.io
 app.greenhouse.io
 app.greenhouse.io
