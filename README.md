@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Apr  6 19:40:05 UTC 2024)
+## Domains with Bounties (Last Updated Sat Apr  6 20:19:00 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -21,8 +21,8 @@ api.dyson.fr
 api.dyson.ie
 www.sa.dyson.com
 shop.dyson.ru
-www.dyson.fr
-www.dyson.pl
+www.dyson.com.au
+www.dyson.my
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -305,8 +305,8 @@ rewire.com
 app.rewire.to
 api.remitly.io
 *.int.remitly.com
-remitly.com
 app3.rewire.to
+remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -316,11 +316,11 @@ rewire.com
 app.rewire.to
 rates.rewire.com
 app3.rewire.to
-toolsforhumanity.com
 *.worldcoin-distributors.com
 *.consumer.worldcoin.org
 getworldcoin.com
 *.worldcoin.dev
+toolsforhumanity.com
 bioid-management.app
 *.toolsforhumanity.com
 worldcoin.org
@@ -417,9 +417,9 @@ logo.zyro.com
 www.niagahoster.co.id
 https://passport.eufy.com/?app=eufy-us
 education.23andme.com
-api.23andme.com
 research.23andme.com
 blog.23andme.com
+api.23andme.com
 store.23andme.com
 mediacenter.23andme.com
 therapeutics.23andme.com
@@ -448,10 +448,10 @@ www.mercadopago.com.co
 www.mercadopago.com.br
 www.mercadolibre.com.ar
 www.mercadolivre.com.br
-www.mercadopago.cl
-api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.mx
+www.mercadopago.cl
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -920,8 +920,8 @@ new-order.eu-east-1.indriverapp.com
 auth.indrive.tech
 profile-api.eu-east-1.indriverapp.com
 wga.volans.tech
-injob.indriver.com
 truck-api.eu-east-1.indriverapp.com
+injob.indriver.com
 ab-platform-api.eu-east-1.indriverapp.com
 auth2.indrive.tech
 watchdocs.indriverapp.com
@@ -1056,7 +1056,7 @@ user-profile-staging.8x8.com
 connect.8x8.com
 *.jitsi.net
 *.8x8staging.com
-platform.8x8.com
+sso.8x8pilot.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1200,8 +1200,8 @@ www.stayz.com.au
 www.expediagroup.com
 www.flights.com
 *.magiceden.workers.dev
-magiceden.io
 *.magiceden.dev
+magiceden.io
 *.magiceden.io
 magiceden.io
 *.magiceden.io
@@ -1351,10 +1351,10 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
-api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
 exness.com
+api.excalls.mobi
 my.exness.com
 pay.ibex.exchange
 my.exness.com
@@ -1443,9 +1443,9 @@ watchlistapi.etoro.com
 rankings.etoro.com
 delta.app
 bullsheet.me
-*.instacart.tools
 admin.instacart.com
 api.instacart.com
+*.instacart.tools
 www.instacart.com
 shoppers.instacart.com
 *.instacart.com
@@ -1495,8 +1495,8 @@ download.krisp.ai
 analytics.krisp.ai
 upld.krisp.ai
 api.krisp.ai
-krisp.ai
 *.krisp.ai
+krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1508,8 +1508,8 @@ upld.krisp.ai
 admin.wickr.com
 admin.wickr.com
 *.joinclubhouse.com
-*.clubhouse.com
 *.clubhouseapi.com
+*.clubhouse.com
 *.clubhouse.com
 *.joinclubhouse.com
 *.clubhouseapi.com
@@ -1781,8 +1781,8 @@ redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
-*.redditmedia.com
 api.reddit.com
+*.redditmedia.com
 mod.reddit.com
 gql.reddit.com
 new.reddit.com
@@ -1931,8 +1931,8 @@ hackers_chosendomain.larksuite.com
 core.yoti.com
 ccloud.yoti.com
 identity.yoti.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 code.yoti.com
 hub.yoti.com
 core.yoti.com
@@ -2049,12 +2049,12 @@ tiktok.com
 business.tiktok.com
 www.pangleglobal.com
 partner.tiktokshop.com
-*.tiktokv.com
 affiliate-id.tokopedia.com
 *.tiktok.com
 ads.tiktok.com
 seller-id.tokopedia.com
 creatormarketplace.tiktok.com
+*.tiktokv.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2245,9 +2245,9 @@ api.account.clario.co
 kbill.mackeeper.com
 api-ne.mackeeper.com
 mkapi.mackeeper.com
-account.mackeeper.com
-updater.clario.co
 clario.co
+updater.clario.co
+account.mackeeper.com
 mackeeper.com
 account.mackeeper.com
 clario.co
@@ -2273,11 +2273,11 @@ direct.playstation.com
 api.direct.playstation.com
 social.playstation.com
 wallets.api.playstation.com
-transact.playstation.com
 my.playstation.com
+transact.playstation.com
 my.account.sony.com
-*.playstation.net
 store.playstation.com
+*.playstation.net
 ca.account.sony.com
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2520,9 +2520,9 @@ paragon-na.amazon.com
 read.amazon.com
 updates.amazon.com
 *.aliexpress.ru
-*.1688.com
 *.aliyun-inc.com
 *.alibabacloud.com
+*.1688.com
 *.alimama.com
 www.alibabagroup.com
 *.taobao.com
@@ -2530,8 +2530,8 @@ www.alibabagroup.com
 *.aliyun.com
 *.alibaba-inc.com
 *.aliexpress.com
-*.Daraz.com
 *.alibaba.com
+*.Daraz.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2650,8 +2650,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2680,10 +2680,10 @@ app.nordpass.com
 *.nordvpn.com
 *.nordvpn.com
 app.nordpass.com
+*.line.me
 *.line-apps.com
 *.line.naver.jp
 *.line.biz
-*.line.me
 *.linecorp.com
 *.line.me
 *.line-apps.com
@@ -2717,8 +2717,8 @@ novel.pixiv.net
 coban.pixiv.net
 booth.pm
 sketch.pixiv.net
-accounts.pixiv.net
 www.pixiv.net
+accounts.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -2820,8 +2820,8 @@ flyiin.com
 priceline.com
 press.priceline.com
 www.bookingholdings.com
-admin.smartsheet.com
 app.smartsheet.com
+admin.smartsheet.com
 www.smartsheet.com
 developers.smartsheet.com
 app.smartsheet.com
@@ -2857,7 +2857,6 @@ salesportal.hyatt.com
 meetings.hyatt.com
 ebsext.oft.hyatt.com
 mobileapp.hyatt.com
-plannerrequest.hyatt.com
 public.hyatt.com
 roominglist.hyatt.com
 soaext.oft.hyatt.com
@@ -2899,6 +2898,7 @@ holidays-us.fijiairways.com
 res.marivalresidences.globalbookingsolutions.com
 res.nowresorts.com
 res.treasureisland.globalbookingsolutions.com
+res.vacations.buschgardens.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -3065,17 +3065,17 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
+www.swiftfinancial.com
+api.swiftfinancial.com
+api.loanbuilder.com
+swiftfinancial.com
+swiftcapital.com
 *.braintree.tools
 prequal.swiftfinancial.com
 partner.swiftfinancial.com
 decision.swiftfinancial.com
 pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
-www.swiftfinancial.com
-api.swiftfinancial.com
-api.loanbuilder.com
-swiftfinancial.com
-swiftcapital.com
 *.paylution.com
 my.swiftfinancial.com
 *.braintreepayments.com
@@ -3089,8 +3089,8 @@ paypalobjects.com
 *.paypalcorp.com
 www.loanbuilder.com
 *.braintreegateway.com
-*.braintree-api.com
 *.paypal.com
+*.braintree-api.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3376,8 +3376,8 @@ privatetarget-1-www.zigzag
 *.scatec.io
 *.sellzone.com
 *.myinsights.io
-*.semrush.com
 *.semrush.net
+*.semrush.com
 *.semrush.com
 *.semrush.net
 *.seoquake.com
@@ -3463,9 +3463,9 @@ api.spotify.com
 *.avecspotify.com
 *.atspotify.com
 *.enspotify.com
-*.tospotify.com
 *.fromspotify.com
 *.forspotify.com
+*.tospotify.com
 *.byspotify.com
 *.withspotify.com
 *.withspotify.com
@@ -3572,10 +3572,10 @@ openapi.starbucks.com
 secureui.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
+app.starbucks.com
 www.starbucks.co.uk
 www.starbucks.com.sg
 gift.starbucks.co.jp
-app.starbucks.com
 www.starbucks.com.cn
 www.starbucks.co.jp
 www.starbucks.co.kr
@@ -3609,8 +3609,8 @@ ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
-talk.brave.com
 search.brave.com
+talk.brave.com
 brave.com
 brave.com
 basicattentiontoken.org
@@ -3773,8 +3773,8 @@ developer.zendesk.com
 zopim.com
 app.futuresimple.com
 api.getbase.com
-www.zendesk.com
 apps.zendesk.com
+www.zendesk.com
 smooch.io
 h1-your-domain.zendesk.com
 www.zendesk.com
@@ -3800,10 +3800,10 @@ arrive-server.shopifycloud.com
 shopifyinbox.com
 partners.shopify.com
 *.shopifycloud.com
-shop.app
 *.shopify.com
 *.shopify.io
 accounts.shopify.com
+shop.app
 admin.shopify.com
 your-store.myshopify.com
 *.shopifycs.com
@@ -4074,9 +4074,9 @@ pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
 international.coinbase.com
+*.base.org
 institutional.coinbase.com
 nft.coinbase.com
-*.base.org
 api.custody.coinbase.com
 api.coinbase.com
 commerce.coinbase.com
@@ -4317,8 +4317,8 @@ aivencloud.com
 help.aiven.io
 *.xiaomiyoupin.com
 *.miwifi.com
-*.xiaomi.com
 *.miui.com
+*.xiaomi.com
 *.mi.com
 *.mi.com
 *.xiaomi.com
@@ -4357,8 +4357,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 magento.com
 marketplace.magento.com
 magentocommerce.com
@@ -4585,8 +4585,8 @@ api.greenhouse.io
 onboarding.greenhouse.io
 jss.greenhouse.io
 app.interseller.io
-www.greenhouse.io
 interseller.io
+www.greenhouse.io
 support.greenhouse.io
 app.greenhouse.io
 app.greenhouse.io
