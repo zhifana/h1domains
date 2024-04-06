@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Apr  6 22:17:04 UTC 2024)
+## Domains with Bounties (Last Updated Sat Apr  6 22:42:00 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -21,8 +21,8 @@ api.dyson.fr
 api.dyson.ie
 www.sa.dyson.com
 shop.dyson.ru
-www.dyson.pl
 www.dyson.fr
+www.dyson.pl
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -305,8 +305,8 @@ rewire.com
 app.rewire.to
 api.remitly.io
 *.int.remitly.com
-remitly.com
 app3.rewire.to
+remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -366,8 +366,8 @@ www.sheer.com
 my.sheer.com
 www.pornworld.com
 www.ddfcontent.com
-www.pornbox.com
 www.analvids.com
+www.pornbox.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -449,9 +449,9 @@ www.mercadopago.com.br
 www.mercadolibre.com.ar
 www.mercadolivre.com.br
 api.mercadopago.com
-api.mercadolibre.com
 www.mercadopago.com.mx
 www.mercadopago.cl
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -498,10 +498,10 @@ admin.booking.com
 careers.booking.com
 flights.booking.com
 secure.booking.com
-booking.com
 *.rentalcars.com
 account.booking.com
 *.booking.com
+booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -831,8 +831,8 @@ contile.services.mozilla.com
 monitor.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 crash-stats.allizom.org
-merino.services.mozilla.com
 firefox.settings.services.mozilla.com
+merino.services.mozilla.com
 aus5.mozilla.org
 push.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
@@ -1056,7 +1056,7 @@ user-profile-staging.8x8.com
 connect.8x8.com
 *.jitsi.net
 *.8x8staging.com
-sso.8x8pilot.com
+platform.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1161,8 +1161,8 @@ www.flights.com
 *.wotif.com
 *.lastminute.com.au
 www.expedia.com
-www.stayz.com.au
 www.fewo-direkt.de
+www.stayz.com.au
 www.ebookers.com
 *.cheaptickets.com
 *.expediacruises.com
@@ -1286,8 +1286,8 @@ royal.checksw.com
 *.superpal.io/*
 www.trendyol-milla.com
 m.trendyol.com
-www.trendyol.com
 www.dolap.com
+www.trendyol.com
 www.trendyol.com
 m.trendyol.com
 www.dolap.com
@@ -1323,9 +1323,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.simpletax.ca
 www.cheapflights.com
-www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
+www.swoodoo.com
 www.momondo.com
 www.kayak.com
 business.kayak.com
@@ -1351,10 +1351,10 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
+api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
 exness.com
-api.excalls.mobi
 my.exness.com
 pay.ibex.exchange
 my.exness.com
@@ -1467,8 +1467,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1743,10 +1743,10 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
+app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
-app.taxjar.com
 *.touchtechpayments.com
 *.stripe.com
 api.stripe.com
@@ -1780,12 +1780,12 @@ sh.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
-new.reddit.com
-mod.reddit.com
 old.reddit.com
-api.reddit.com
 *.redditmedia.com
+api.reddit.com
+mod.reddit.com
 gql.reddit.com
+new.reddit.com
 ads-api.reddit.com
 *.reddithelp.com
 *.snooguts.net
@@ -1852,9 +1852,9 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-www.chime.com
 wp-qa.chime.com
 *.chime.com
+www.chime.com
 *.chimebank.com
 *.1debit.com
 *.chimebank.com
@@ -1931,8 +1931,8 @@ hackers_chosendomain.larksuite.com
 core.yoti.com
 ccloud.yoti.com
 identity.yoti.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 code.yoti.com
 hub.yoti.com
 core.yoti.com
@@ -2245,9 +2245,9 @@ api.account.clario.co
 kbill.mackeeper.com
 api-ne.mackeeper.com
 mkapi.mackeeper.com
-clario.co
-updater.clario.co
 account.mackeeper.com
+updater.clario.co
+clario.co
 mackeeper.com
 account.mackeeper.com
 clario.co
@@ -2301,8 +2301,8 @@ bridge-api.matic.network
 watchgod.polygon.technology
 faucet.polygon.technology
 mapper.polygon.technology
-staking-api.polygon.technology
 portal.polygon.technology
+staking-api.polygon.technology
 wallet.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
@@ -2530,8 +2530,8 @@ www.alibabagroup.com
 *.aliyun.com
 *.alibaba-inc.com
 *.aliexpress.com
-*.Daraz.com
 *.alibaba.com
+*.Daraz.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2820,8 +2820,8 @@ flyiin.com
 priceline.com
 press.priceline.com
 www.bookingholdings.com
-admin.smartsheet.com
 app.smartsheet.com
+admin.smartsheet.com
 www.smartsheet.com
 developers.smartsheet.com
 app.smartsheet.com
@@ -3348,9 +3348,9 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
+*.beta.lahitapiola.fi
 ext-gw.lahitapiola.fi
 api.lahitapiola.fi
-*.beta.lahitapiola.fi
 *.lahitapiola.fi
 www.lahitapiola.fi
 *.lahitapiolarahoitus.fi
@@ -3460,11 +3460,11 @@ getofficial.co
 backstage.io
 assets.spotify.com
 api.spotify.com
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
 *.tospotify.com
 *.byspotify.com
 *.withspotify.com
@@ -3573,8 +3573,8 @@ secureui.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
 gift.starbucks.co.jp
-www.starbucks.com.sg
 www.starbucks.co.uk
+www.starbucks.com.sg
 app.starbucks.com
 www.starbucks.com.cn
 www.starbucks.co.jp
@@ -3645,9 +3645,9 @@ moneybirdstorage.com
 npmjs.org
 *.githubusercontent.com
 gist.github.com
+api.github.com
 classroom.github.com
 education.github.com
-api.github.com
 npmjs.com
 github.com
 github.com
@@ -3722,8 +3722,8 @@ api.deriv.com
 *.deriv.cloud
 derivws.com
 smarttrader.deriv.com
-*.deriv.com
 oauth.deriv.com
+*.deriv.com
 cashier.deriv.com
 app.deriv.com
 *.deriv.com
@@ -3773,8 +3773,8 @@ developer.zendesk.com
 zopim.com
 app.futuresimple.com
 api.getbase.com
-apps.zendesk.com
 www.zendesk.com
+apps.zendesk.com
 smooch.io
 h1-your-domain.zendesk.com
 www.zendesk.com
@@ -4028,8 +4028,8 @@ happy.tools
 my.pressable.com
 simplenote.com
 simperium.com
-gravatar.com
 *.tumblr.com
+gravatar.com
 mailpoet.com
 www.tumblr.com
 akismet.com
@@ -4152,8 +4152,8 @@ hackerone.live
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
 www.hackerone.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4585,8 +4585,8 @@ api.greenhouse.io
 onboarding.greenhouse.io
 jss.greenhouse.io
 app.interseller.io
-interseller.io
 www.greenhouse.io
+interseller.io
 support.greenhouse.io
 app.greenhouse.io
 app.greenhouse.io
