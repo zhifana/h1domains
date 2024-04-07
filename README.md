@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr  7 22:41:45 UTC 2024)
+## Domains with Bounties (Last Updated Sun Apr  7 23:18:24 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -21,8 +21,8 @@ api.dyson.fr
 api.dyson.ie
 www.sa.dyson.com
 shop.dyson.ru
-www.dyson.fr
 www.dyson.pl
+www.dyson.fr
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -323,8 +323,8 @@ getworldcoin.com
 bioid-management.app
 *.toolsforhumanity.com
 worldcoin.org
-*.worldcoin.org
 toolsforhumanity.com
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -417,9 +417,9 @@ logo.zyro.com
 www.niagahoster.co.id
 https://passport.eufy.com/?app=eufy-us
 education.23andme.com
-api.23andme.com
 research.23andme.com
 blog.23andme.com
+api.23andme.com
 store.23andme.com
 mediacenter.23andme.com
 therapeutics.23andme.com
@@ -447,10 +447,10 @@ www.mercadopago.com.ar
 www.mercadopago.com.br
 www.mercadolibre.com.ar
 www.mercadolivre.com.br
-www.mercadopago.cl
-api.mercadolibre.com
 api.mercadopago.com
+api.mercadolibre.com
 www.mercadopago.com.mx
+www.mercadopago.cl
 www.mercadopago.com.co
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -693,14 +693,14 @@ visa.co.za
 www.fraedom.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
+aw.visa.com
+bd.visa.com
+www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.id
 www.visa.co.jp
 bb.visa.com
-www.practicalmoneyskills.com
-aw.visa.com
-bd.visa.com
 visa.co.ni
 www.currencycloud.com
 www.visa.com.kz
@@ -831,8 +831,8 @@ contile.services.mozilla.com
 monitor.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 crash-stats.allizom.org
-merino.services.mozilla.com
 firefox.settings.services.mozilla.com
+merino.services.mozilla.com
 aus5.mozilla.org
 push.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
@@ -924,10 +924,10 @@ auth2.indrive.tech
 argocd.indrive.dev
 super-services.indriverapp.com
 *.indrive.com
-cargo.indrive.com
-new-order.eu-east-1.indriverapp.com
 ci.indrive.dev
+new-order.eu-east-1.indriverapp.com
 *.indriverapp.com
+cargo.indrive.com
 watchdocs.indriverapp.com
 injob.indriver.com
 *.indriver.com
@@ -1045,11 +1045,11 @@ pay.8x8.com
 work.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
-user-profile.8x8.com
-voapi.8x8.com
-*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
+*.8x8.id
+user-profile.8x8.com
+voapi.8x8.com
 cloud8.8x8.com
 user-profile-staging.8x8.com
 *.jitsi.net
@@ -1110,8 +1110,8 @@ admin.8x8.com
 moonpay.com
 hypermint.com
 *.hypermint.com
-*.moonpay.com
 *.moonpaycloud.com
+*.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
 *.moonpay.com
@@ -1168,11 +1168,11 @@ www.ebookers.com
 www.bookabach.co.nz
 www.abritel.fr
 www.expediagroup.com
-*.travelocity.com
 *.vrbo.com
 *.expediapartnercentral.com
 www.flights.com
 *.hotwire.com
+*.travelocity.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1221,8 +1221,8 @@ cloud.gravitational.io
 askpam.ai
 platform.teleport.sh
 *.teleportinfra.sh
-h1-your-domain.teleport.sh
 *.goteleport.com
+h1-your-domain.teleport.sh
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -1467,8 +1467,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1508,8 +1508,8 @@ upld.krisp.ai
 admin.wickr.com
 admin.wickr.com
 *.joinclubhouse.com
-*.clubhouseapi.com
 *.clubhouse.com
+*.clubhouseapi.com
 *.clubhouse.com
 *.joinclubhouse.com
 *.clubhouseapi.com
@@ -1655,7 +1655,7 @@ marketplace.fedramp.gov
 *.search.gov
 federalist.18f.gov
 federalist-docs.18f.gov
-cloud.gov
+dashboard.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1743,10 +1743,10 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
+app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
-app.taxjar.com
 *.touchtechpayments.com
 *.stripe.com
 api.stripe.com
@@ -1781,8 +1781,8 @@ redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
-*.redditmedia.com
 api.reddit.com
+*.redditmedia.com
 mod.reddit.com
 gql.reddit.com
 new.reddit.com
@@ -1972,8 +1972,8 @@ internal-docs.netlify.com
 supportal.netlify.app
 world.hey.com
 *.hey.com
-launchpad.37signals.com
 3.basecamp.com
+launchpad.37signals.com
 *.hey.com
 3.basecamp.com
 launchpad.37signals.com
@@ -2001,8 +2001,8 @@ secure.sharefile.eu
 api.sharefile.com
 adm.cloud.com
 accounts.cloud.com
-(youriwssubdomain).cloud.com
 secure.sharefile.com
+(youriwssubdomain).cloud.com
 (yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 www.cloud.com
@@ -2105,9 +2105,9 @@ api.figma.com
 www.figma.com
 www.figma.com
 api.figma.com
+3d.cs.money
 support.cs.money
 wiki.cs.money
-3d.cs.money
 blog.cs.money
 cs.money
 cs.money
@@ -2272,11 +2272,11 @@ direct.playstation.com
 api.direct.playstation.com
 social.playstation.com
 wallets.api.playstation.com
-my.playstation.com
 transact.playstation.com
+my.playstation.com
 my.account.sony.com
-store.playstation.com
 *.playstation.net
+store.playstation.com
 ca.account.sony.com
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2300,8 +2300,8 @@ bridge-api.matic.network
 watchgod.polygon.technology
 faucet.polygon.technology
 mapper.polygon.technology
-staking-api.polygon.technology
 portal.polygon.technology
+staking-api.polygon.technology
 wallet.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
@@ -2519,9 +2519,9 @@ paragon-na.amazon.com
 read.amazon.com
 updates.amazon.com
 *.aliexpress.ru
+*.1688.com
 *.aliyun-inc.com
 *.alibabacloud.com
-*.1688.com
 *.alimama.com
 www.alibabagroup.com
 *.taobao.com
@@ -3002,15 +3002,15 @@ service.racing.fanduel.com
 4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
-mobile-prod.tvg.com
-pabets.tvg.com
-service.tvg.com
-promos.tvg.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
 login-ia.tvg.com
 m.4njbets.tvg.com
 login.tvg.com
+mobile-prod.tvg.com
+pabets.tvg.com
+service.tvg.com
+promos.tvg.com
 www.4njbets.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
@@ -3235,10 +3235,10 @@ support.steampowered.com
 partner.steampowered.com
 partner.steamgames.com
 playartifact.com
-www.teamfortress.com
-api.steampowered.com
 help.steampowered.com
 www.dota2.com
+www.teamfortress.com
+api.steampowered.com
 store.steampowered.com
 steamcommunity.com
 www.counter-strike.net
@@ -3375,8 +3375,8 @@ privatetarget-1-www.zigzag
 *.scatec.io
 *.sellzone.com
 *.myinsights.io
-*.semrush.com
 *.semrush.net
+*.semrush.com
 *.semrush.com
 *.semrush.net
 *.seoquake.com
@@ -3394,15 +3394,15 @@ wiki.grab.com
 *.taralite.com
 *.grab.co
 api.grabpay.com
-*.grabpay.com
 kartaview.org
 *.myteksi.com
+*.grabpay.com
 jira.grab.com
-grab.careers
-xtramile.grabpay.com
 gifts.grab.com
 *.grab.com
 *.ovo.id
+grab.careers
+xtramile.grabpay.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3772,8 +3772,8 @@ developer.zendesk.com
 zopim.com
 app.futuresimple.com
 api.getbase.com
-apps.zendesk.com
 www.zendesk.com
+apps.zendesk.com
 h1-your-domain.zendesk.com
 smooch.io
 www.zendesk.com
@@ -3919,8 +3919,8 @@ callbacks.airbnb.com
 *.byairbnb.com
 *.airbnb-aws.com
 *.luxuryretreats.com
-support-api.airbnb.com
 *.airbnbcitizen.com
+support-api.airbnb.com
 next.airbnb.com
 api.airbnb.com
 *.muscache.com
@@ -4076,8 +4076,8 @@ nft.coinbase.com
 *.base.org
 api.custody.coinbase.com
 api.coinbase.com
-commerce.coinbase.com
 cloud.coinbase.com
+commerce.coinbase.com
 coinbase.com
 *.coinbase.com
 *.coinbase.com
@@ -4354,8 +4354,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 magento.com
 marketplace.magento.com
 magentocommerce.com
@@ -4582,8 +4582,8 @@ api.greenhouse.io
 onboarding.greenhouse.io
 jss.greenhouse.io
 app.interseller.io
-interseller.io
 www.greenhouse.io
+interseller.io
 support.greenhouse.io
 app.greenhouse.io
 app.greenhouse.io
