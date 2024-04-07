@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr  7 05:18:01 UTC 2024)
+## Domains with Bounties (Last Updated Sun Apr  7 05:40:44 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -305,8 +305,8 @@ rewire.com
 app.rewire.to
 api.remitly.io
 *.int.remitly.com
-app3.rewire.to
 remitly.com
+app3.rewire.to
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -366,8 +366,8 @@ www.sheer.com
 my.sheer.com
 www.pornworld.com
 www.ddfcontent.com
-www.analvids.com
 www.pornbox.com
+www.analvids.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -417,9 +417,9 @@ logo.zyro.com
 www.niagahoster.co.id
 https://passport.eufy.com/?app=eufy-us
 education.23andme.com
+api.23andme.com
 research.23andme.com
 blog.23andme.com
-api.23andme.com
 store.23andme.com
 mediacenter.23andme.com
 therapeutics.23andme.com
@@ -448,10 +448,10 @@ www.mercadopago.com.co
 www.mercadopago.com.br
 www.mercadolibre.com.ar
 www.mercadolivre.com.br
-api.mercadopago.com
-api.mercadolibre.com
-www.mercadopago.com.mx
 www.mercadopago.cl
+api.mercadolibre.com
+api.mercadopago.com
+www.mercadopago.com.mx
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -577,9 +577,9 @@ https://api-test.nicehash.com
 test.nicex.com
 prismalabsteam.com
 appapi.neuralprisma.com
-neuralprisma.com
 prisma-ai.com
 lensa-ai.com
+neuralprisma.com
 neuralprisma.com
 prismalabsteam.com
 lensa-ai.com
@@ -957,8 +957,8 @@ aws.indrive.tech
 debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.mobi
-web.grindr.com
 *.grindr.io
+web.grindr.com
 *.grindr.com
 *.grindr.io
 *.grindr.com
@@ -1045,18 +1045,18 @@ pay.8x8.com
 work.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
-user-profile.8x8.com
-admin.8x8.com
-voapi.8x8.com
-*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
+*.8x8.id
+voapi.8x8.com
+user-profile.8x8.com
+admin.8x8.com
 cloud8.8x8.com
 user-profile-staging.8x8.com
 connect.8x8.com
 *.jitsi.net
 *.8x8staging.com
-platform.8x8.com
+sso.8x8pilot.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1161,8 +1161,8 @@ www.flights.com
 *.wotif.com
 *.lastminute.com.au
 www.expedia.com
-www.stayz.com.au
 www.fewo-direkt.de
+www.stayz.com.au
 www.ebookers.com
 *.cheaptickets.com
 *.expediacruises.com
@@ -1250,8 +1250,8 @@ blueprints.amazon.com
 creator.amazon.com
 alexa.amazon.com
 skills-store.amazon.com
-read.amazon.com
 a4k.amazon.com
+read.amazon.com
 read.amazon.com
 alexaanswers.amazon.com
 blueprints.amazon.com
@@ -1312,8 +1312,8 @@ checkout.razorpay.com
 invoices.razorpay.com
 payroll.razorpay.com
 x.razorpay.com
-api.linkedin.com
 business.linkedin.com
+api.linkedin.com
 www.linkedin.com
 www.linkedin.com
 api.linkedin.com
@@ -1323,9 +1323,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.simpletax.ca
 www.cheapflights.com
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 www.momondo.com
 www.kayak.com
 business.kayak.com
@@ -1443,9 +1443,9 @@ watchlistapi.etoro.com
 rankings.etoro.com
 delta.app
 bullsheet.me
-*.instacart.tools
 admin.instacart.com
 api.instacart.com
+*.instacart.tools
 www.instacart.com
 shoppers.instacart.com
 *.instacart.com
@@ -1655,7 +1655,7 @@ marketplace.fedramp.gov
 *.search.gov
 federalist.18f.gov
 federalist-docs.18f.gov
-cloud.gov
+dashboard.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1743,10 +1743,10 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
+app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
-app.taxjar.com
 *.touchtechpayments.com
 api.stripe.com
 *.stripe.com
@@ -1996,10 +1996,10 @@ api.adm.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
-adm.cloud.com
+citrix.cloud.com
 secure.sharefile.eu
 api.sharefile.com
-citrix.cloud.com
+adm.cloud.com
 accounts.cloud.com
 (youriwssubdomain).cloud.com
 secure.sharefile.com
@@ -2044,10 +2044,10 @@ pay.tokopediax.com
 fp-sg.tiktokv.com
 developers.tiktok.com
 live-backstage.tiktok.com
-business.tiktok.com
-partner.tiktokshop.com
 tiktok.com
 shop-id.tokopedia.com
+business.tiktok.com
+partner.tiktokshop.com
 affiliate-id.tokopedia.com
 *.tiktok.com
 ads.tiktok.com
@@ -2520,9 +2520,9 @@ paragon-na.amazon.com
 read.amazon.com
 updates.amazon.com
 *.aliexpress.ru
+*.1688.com
 *.aliyun-inc.com
 *.alibabacloud.com
-*.1688.com
 *.alimama.com
 www.alibabagroup.com
 *.taobao.com
@@ -2680,10 +2680,10 @@ app.nordpass.com
 *.nordvpn.com
 *.nordvpn.com
 app.nordpass.com
+*.line.me
 *.line-apps.com
 *.line.naver.jp
 *.line.biz
-*.line.me
 *.linecorp.com
 *.line.me
 *.line-apps.com
@@ -3003,15 +3003,15 @@ service.racing.fanduel.com
 4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
+mobile-prod.tvg.com
+pabets.tvg.com
+service.tvg.com
+promos.tvg.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
 login-ia.tvg.com
 m.4njbets.tvg.com
 login.tvg.com
-mobile-prod.tvg.com
-pabets.tvg.com
-service.tvg.com
-promos.tvg.com
 www.4njbets.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
@@ -3348,9 +3348,9 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
+*.beta.lahitapiola.fi
 ext-gw.lahitapiola.fi
 api.lahitapiola.fi
-*.beta.lahitapiola.fi
 *.lahitapiola.fi
 www.lahitapiola.fi
 *.lahitapiolarahoitus.fi
@@ -3396,9 +3396,9 @@ wiki.grab.com
 *.grab.co
 *.ovo.id
 api.grabpay.com
+*.grabpay.com
 kartaview.org
 *.myteksi.com
-*.grabpay.com
 jira.grab.com
 xtramile.grabpay.com
 grab.careers
@@ -3572,10 +3572,10 @@ openapi.starbucks.com
 secureui.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-app.starbucks.com
-www.starbucks.co.uk
-www.starbucks.com.sg
 gift.starbucks.co.jp
+www.starbucks.com.sg
+www.starbucks.co.uk
+app.starbucks.com
 www.starbucks.com.cn
 www.starbucks.co.jp
 www.starbucks.co.kr
@@ -3645,9 +3645,9 @@ moneybirdstorage.com
 npmjs.org
 *.githubusercontent.com
 gist.github.com
+api.github.com
 classroom.github.com
 education.github.com
-api.github.com
 npmjs.com
 github.com
 github.com
@@ -3722,8 +3722,8 @@ api.deriv.com
 *.deriv.cloud
 derivws.com
 smarttrader.deriv.com
-*.deriv.com
 oauth.deriv.com
+*.deriv.com
 cashier.deriv.com
 app.deriv.com
 *.deriv.com
@@ -3800,10 +3800,10 @@ arrive-server.shopifycloud.com
 shopifyinbox.com
 partners.shopify.com
 *.shopifycloud.com
+shop.app
 *.shopify.com
 *.shopify.io
 accounts.shopify.com
-shop.app
 admin.shopify.com
 your-store.myshopify.com
 *.shopifycs.com
@@ -3849,8 +3849,8 @@ playcanvas.com
 forum.playcanvas.com
 accounts.snapchat.com
 business.snapchat.com
-app.snapchat.com
 businesshelp.snapchat.com
+app.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
@@ -3921,8 +3921,8 @@ callbacks.airbnb.com
 *.byairbnb.com
 *.airbnb-aws.com
 *.luxuryretreats.com
-support-api.airbnb.com
 *.airbnbcitizen.com
+support-api.airbnb.com
 next.airbnb.com
 api.airbnb.com
 *.muscache.com
@@ -4074,9 +4074,9 @@ pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
 international.coinbase.com
+*.base.org
 institutional.coinbase.com
 nft.coinbase.com
-*.base.org
 api.custody.coinbase.com
 api.coinbase.com
 commerce.coinbase.com
@@ -4357,8 +4357,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 magento.com
 marketplace.magento.com
 magentocommerce.com
@@ -4585,8 +4585,8 @@ api.greenhouse.io
 onboarding.greenhouse.io
 jss.greenhouse.io
 app.interseller.io
-interseller.io
 www.greenhouse.io
+interseller.io
 support.greenhouse.io
 app.greenhouse.io
 app.greenhouse.io
