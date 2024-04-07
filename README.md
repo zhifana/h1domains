@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr  7 19:13:12 UTC 2024)
+## Domains with Bounties (Last Updated Sun Apr  7 19:40:51 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -323,8 +323,8 @@ getworldcoin.com
 bioid-management.app
 *.toolsforhumanity.com
 worldcoin.org
-*.worldcoin.org
 toolsforhumanity.com
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -448,9 +448,9 @@ www.mercadopago.com.br
 www.mercadolibre.com.ar
 www.mercadolivre.com.br
 api.mercadopago.com
+api.mercadolibre.com
 www.mercadopago.com.mx
 www.mercadopago.cl
-api.mercadolibre.com
 www.mercadopago.com.co
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -489,10 +489,10 @@ secure-supply-xml.booking.com
 taxi.booking.com
 cars.booking.com
 kyc-onboarding.booking.com
-teleport.fareharbor.engineering
-paymentcomponent.booking.com
-www.fareharbor.com
 spark.fareharbor.com
+teleport.fareharbor.engineering
+www.fareharbor.com
+paymentcomponent.booking.com
 widget.rentalcars.com
 admin.booking.com
 careers.booking.com
@@ -567,8 +567,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicex.com
 test.nicehash.com
+test.nicex.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -916,7 +916,6 @@ external.indrive.dev
 aws.indrive.tech
 debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
-auth.indrive.tech
 profile-api.eu-east-1.indriverapp.com
 wga.volans.tech
 truck-api.eu-east-1.indriverapp.com
@@ -925,13 +924,14 @@ auth2.indrive.tech
 argocd.indrive.dev
 super-services.indriverapp.com
 *.indrive.com
-cargo.indrive.com
-new-order.eu-east-1.indriverapp.com
 ci.indrive.dev
+new-order.eu-east-1.indriverapp.com
 *.indriverapp.com
+cargo.indrive.com
 watchdocs.indriverapp.com
 injob.indriver.com
 *.indriver.com
+auth.indrive.tech
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -957,8 +957,8 @@ aws.indrive.tech
 debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.mobi
-web.grindr.com
 *.grindr.io
+web.grindr.com
 *.grindr.com
 *.grindr.io
 *.grindr.com
@@ -1048,7 +1048,6 @@ work-staging.8x8.com
 platform.8x8pilot.com
 *.chalet.8x8.com
 *.8x8.id
-admin.8x8.com
 user-profile.8x8.com
 voapi.8x8.com
 cloud8.8x8.com
@@ -1057,6 +1056,7 @@ connect.8x8.com
 *.jitsi.net
 *.8x8staging.com
 platform.8x8.com
+sso.8x8pilot.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1153,11 +1153,11 @@ www.ebookers.fi
 www.mrjet.se
 www.expediaagents.com
 *.lastminute.co.nz
-*.wotif.com
 www.expediapartnersolutions.com
 *.travelocity.ca
 *.carrentals.com
 www.hotels.com
+*.wotif.com
 *.lastminute.com.au
 www.expedia.com
 www.fewo-direkt.de
@@ -1250,8 +1250,8 @@ blueprints.amazon.com
 creator.amazon.com
 alexa.amazon.com
 skills-store.amazon.com
-read.amazon.com
 a4k.amazon.com
+read.amazon.com
 read.amazon.com
 alexaanswers.amazon.com
 blueprints.amazon.com
@@ -1351,12 +1351,12 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
+api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
 exness.com
-api.excalls.mobi
-my.exness.com
 pay.ibex.exchange
+my.exness.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1781,8 +1781,8 @@ redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
-*.redditmedia.com
 api.reddit.com
+*.redditmedia.com
 mod.reddit.com
 gql.reddit.com
 new.reddit.com
@@ -1852,9 +1852,9 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-www.chime.com
 wp-qa.chime.com
 *.chime.com
+www.chime.com
 *.chimebank.com
 *.1debit.com
 *.chimebank.com
@@ -1970,10 +1970,10 @@ netlify-rum.netlify.app
 list-v2--netlify-plugins.netlify.app
 internal-docs.netlify.com
 supportal.netlify.app
-launchpad.37signals.com
 world.hey.com
 *.hey.com
 3.basecamp.com
+launchpad.37signals.com
 *.hey.com
 3.basecamp.com
 launchpad.37signals.com
@@ -2001,8 +2001,8 @@ secure.sharefile.eu
 api.sharefile.com
 adm.cloud.com
 accounts.cloud.com
-secure.sharefile.com
 (youriwssubdomain).cloud.com
+secure.sharefile.com
 (yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 www.cloud.com
@@ -2049,12 +2049,12 @@ affiliate-id.tokopedia.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
 seller-id.tokopedia.com
-business.tiktok.com
 tiktok.com
 www.pangleglobal.com
 ads.tiktok.com
 *.tiktok.com
 developers.tiktok.com
+business.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2123,9 +2123,9 @@ api.faraday.ai
 *.devicelock.com
 beta-cloud.acronis.com
 *.5nine.com
-*.acronis.com
 account.acronis.com
 *.acronis.work
+*.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2272,11 +2272,11 @@ direct.playstation.com
 api.direct.playstation.com
 social.playstation.com
 wallets.api.playstation.com
-transact.playstation.com
 my.playstation.com
+transact.playstation.com
 my.account.sony.com
-*.playstation.net
 store.playstation.com
+*.playstation.net
 ca.account.sony.com
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2526,11 +2526,11 @@ updates.amazon.com
 www.alibabagroup.com
 *.taobao.com
 *.tmall.com
-*.aliyun.com
 *.alibaba-inc.com
 *.aliexpress.com
 *.alibaba.com
 *.Daraz.com
+*.aliyun.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -3235,10 +3235,10 @@ support.steampowered.com
 partner.steampowered.com
 partner.steamgames.com
 playartifact.com
-www.teamfortress.com
-api.steampowered.com
 help.steampowered.com
 www.dota2.com
+www.teamfortress.com
+api.steampowered.com
 store.steampowered.com
 steamcommunity.com
 www.counter-strike.net
@@ -3347,9 +3347,9 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
+*.beta.lahitapiola.fi
 ext-gw.lahitapiola.fi
 api.lahitapiola.fi
-*.beta.lahitapiola.fi
 *.lahitapiola.fi
 www.lahitapiola.fi
 *.lahitapiolarahoitus.fi
@@ -3393,16 +3393,16 @@ wiki.grab.com
 *.myteksi.net
 *.taralite.com
 *.grab.co
-*.ovo.id
 api.grabpay.com
-*.grabpay.com
 kartaview.org
 *.myteksi.com
+*.grabpay.com
 jira.grab.com
+grab.careers
 xtramile.grabpay.com
 gifts.grab.com
-grab.careers
 *.grab.com
+*.ovo.id
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3457,12 +3457,12 @@ ccardsus1.badoo.com
 chatdate.app
 getofficial.co
 backstage.io
-*.atspotify.com
 *.avecspotify.com
+*.atspotify.com
 *.enspotify.com
-*.forspotify.com
-*.fromspotify.com
 *.tospotify.com
+*.fromspotify.com
+*.forspotify.com
 *.byspotify.com
 *.withspotify.com
 api.spotify.com
@@ -3571,10 +3571,10 @@ openapi.starbucks.com
 secureui.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
-www.starbucks.com.sg
-www.starbucks.co.uk
 app.starbucks.com
+www.starbucks.co.uk
+www.starbucks.com.sg
+gift.starbucks.co.jp
 www.starbucks.com.cn
 www.starbucks.co.jp
 www.starbucks.co.kr
@@ -3608,8 +3608,8 @@ ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
-search.brave.com
 talk.brave.com
+search.brave.com
 brave.com
 brave.com
 basicattentiontoken.org
@@ -3772,8 +3772,8 @@ developer.zendesk.com
 zopim.com
 app.futuresimple.com
 api.getbase.com
-www.zendesk.com
 apps.zendesk.com
+www.zendesk.com
 h1-your-domain.zendesk.com
 smooch.io
 www.zendesk.com
@@ -3798,10 +3798,10 @@ shopify.plus
 arrive-server.shopifycloud.com
 shopifyinbox.com
 *.shopifycloud.com
-shop.app
 *.shopify.com
 *.shopify.io
 accounts.shopify.com
+shop.app
 admin.shopify.com
 partners.shopify.com
 your-store.myshopify.com
@@ -3888,6 +3888,7 @@ rma.ui.com
 design.ui.com
 unifi.ui.com
 ispdesign.ui.com
+*.ubnt.com
 *.ubnt.com
 *.ui.com
 store.ui.com
@@ -4072,9 +4073,9 @@ pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
 international.coinbase.com
-*.base.org
 institutional.coinbase.com
 nft.coinbase.com
+*.base.org
 api.custody.coinbase.com
 api.coinbase.com
 commerce.coinbase.com
