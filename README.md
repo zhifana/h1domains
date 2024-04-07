@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr  7 15:41:54 UTC 2024)
+## Domains with Bounties (Last Updated Sun Apr  7 16:19:35 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -21,8 +21,8 @@ api.dyson.fr
 api.dyson.ie
 www.sa.dyson.com
 shop.dyson.ru
-www.dyson.fr
 www.dyson.pl
+www.dyson.fr
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -305,8 +305,8 @@ rewire.com
 app.rewire.to
 api.remitly.io
 *.int.remitly.com
-remitly.com
 app3.rewire.to
+remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -360,8 +360,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-www.sheer.com
 my.sheer.com
+www.sheer.com
 www.sheer.com
 my.sheer.com
 www.pornworld.com
@@ -417,9 +417,9 @@ logo.zyro.com
 www.niagahoster.co.id
 https://passport.eufy.com/?app=eufy-us
 education.23andme.com
-api.23andme.com
 research.23andme.com
 blog.23andme.com
+api.23andme.com
 store.23andme.com
 mediacenter.23andme.com
 therapeutics.23andme.com
@@ -448,10 +448,10 @@ www.mercadopago.com.co
 www.mercadopago.com.br
 www.mercadolibre.com.ar
 www.mercadolivre.com.br
-www.mercadopago.cl
-api.mercadolibre.com
 api.mercadopago.com
+api.mercadolibre.com
 www.mercadopago.com.mx
+www.mercadopago.cl
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -821,24 +821,24 @@ api.tideplatform.in
 community-tc.services.mozilla.com
 api.profiler.firefox.com
 vpn.mozilla.org
-relay.firefox.com
 developer.mozilla.org
+relay.firefox.com
 profiler.firefox.com
 shavar.services.mozilla.com
 crash-reports.allizom.org
 lando.services.mozilla.com
 contile.services.mozilla.com
 monitor.mozilla.org
-mozilla-pontoon-staging.herokuapp.com
 crash-stats.allizom.org
-firefox.settings.services.mozilla.com
+mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
-aus5.mozilla.org
+firefox.settings.services.mozilla.com
 push.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 addons.allizom.org
 sync.services.mozilla.com
 phabricator.allizom.org
+aus5.mozilla.org
 www.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 hg.mozilla.org
@@ -1048,9 +1048,9 @@ work-staging.8x8.com
 platform.8x8pilot.com
 *.chalet.8x8.com
 *.8x8.id
-admin.8x8.com
-user-profile.8x8.com
 voapi.8x8.com
+user-profile.8x8.com
+admin.8x8.com
 cloud8.8x8.com
 user-profile-staging.8x8.com
 connect.8x8.com
@@ -1160,8 +1160,8 @@ www.hotels.com
 *.wotif.com
 *.lastminute.com.au
 www.expedia.com
-www.stayz.com.au
 www.fewo-direkt.de
+www.stayz.com.au
 www.ebookers.com
 *.cheaptickets.com
 *.expediacruises.com
@@ -1250,8 +1250,8 @@ blueprints.amazon.com
 creator.amazon.com
 alexa.amazon.com
 skills-store.amazon.com
-a4k.amazon.com
 read.amazon.com
+a4k.amazon.com
 read.amazon.com
 alexaanswers.amazon.com
 blueprints.amazon.com
@@ -1323,9 +1323,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.simpletax.ca
 www.cheapflights.com
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 www.momondo.com
 www.kayak.com
 business.kayak.com
@@ -1351,10 +1351,10 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
+api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
 exness.com
-api.excalls.mobi
 my.exness.com
 pay.ibex.exchange
 my.exness.com
@@ -1443,9 +1443,9 @@ watchlistapi.etoro.com
 rankings.etoro.com
 delta.app
 bullsheet.me
-*.instacart.tools
 admin.instacart.com
 api.instacart.com
+*.instacart.tools
 www.instacart.com
 shoppers.instacart.com
 *.instacart.com
@@ -1743,10 +1743,10 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
-app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
+app.taxjar.com
 *.touchtechpayments.com
 *.stripe.com
 api.stripe.com
@@ -1780,12 +1780,12 @@ sh.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
+new.reddit.com
+mod.reddit.com
 old.reddit.com
 api.reddit.com
 *.redditmedia.com
-mod.reddit.com
 gql.reddit.com
-new.reddit.com
 ads-api.reddit.com
 *.reddithelp.com
 matrix.redditspace.com
@@ -1931,8 +1931,8 @@ hackers_chosendomain.larksuite.com
 core.yoti.com
 ccloud.yoti.com
 identity.yoti.com
-www.yotisign.com
 api.yoti.com
+www.yotisign.com
 code.yoti.com
 hub.yoti.com
 core.yoti.com
@@ -2001,8 +2001,8 @@ secure.sharefile.eu
 api.sharefile.com
 adm.cloud.com
 accounts.cloud.com
-(youriwssubdomain).cloud.com
 secure.sharefile.com
+(youriwssubdomain).cloud.com
 (yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 www.cloud.com
@@ -2042,7 +2042,6 @@ academy-outbound-ads.tiktok.com
 careers.tiktok.com
 pay.tokopediax.com
 fp-sg.tiktokv.com
-developers.tiktok.com
 live-backstage.tiktok.com
 shop-id.tokopedia.com
 partner.tiktokshop.com
@@ -2054,6 +2053,7 @@ business.tiktok.com
 tiktok.com
 www.pangleglobal.com
 ads.tiktok.com
+developers.tiktok.com
 *.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2105,9 +2105,9 @@ api.figma.com
 www.figma.com
 www.figma.com
 api.figma.com
-3d.cs.money
 support.cs.money
 wiki.cs.money
+3d.cs.money
 blog.cs.money
 cs.money
 cs.money
@@ -2158,7 +2158,6 @@ www.marionnaud.it
 www.marionnaud.ro
 app.marionnaud.ro
 app.marionnaud.sk
-www.marionnaud.sk
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2301,8 +2300,8 @@ bridge-api.matic.network
 watchgod.polygon.technology
 faucet.polygon.technology
 mapper.polygon.technology
-staking-api.polygon.technology
 portal.polygon.technology
+staking-api.polygon.technology
 wallet.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
@@ -3348,9 +3347,9 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-*.beta.lahitapiola.fi
 ext-gw.lahitapiola.fi
 api.lahitapiola.fi
+*.beta.lahitapiola.fi
 *.lahitapiola.fi
 www.lahitapiola.fi
 *.lahitapiolarahoitus.fi
@@ -3401,9 +3400,9 @@ kartaview.org
 *.myteksi.com
 jira.grab.com
 xtramile.grabpay.com
-grab.careers
 gifts.grab.com
 *.grab.com
+grab.careers
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3459,11 +3458,11 @@ chatdate.app
 getofficial.co
 backstage.io
 assets.spotify.com
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
 *.tospotify.com
 *.byspotify.com
 *.withspotify.com
@@ -3572,9 +3571,9 @@ openapi.starbucks.com
 secureui.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
+gift.starbucks.co.jp
 www.starbucks.co.uk
 www.starbucks.com.sg
-gift.starbucks.co.jp
 app.starbucks.com
 www.starbucks.com.cn
 www.starbucks.co.jp
@@ -3609,8 +3608,8 @@ ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
-search.brave.com
 talk.brave.com
+search.brave.com
 brave.com
 brave.com
 basicattentiontoken.org
@@ -3773,8 +3772,8 @@ developer.zendesk.com
 zopim.com
 app.futuresimple.com
 api.getbase.com
-www.zendesk.com
 apps.zendesk.com
+www.zendesk.com
 h1-your-domain.zendesk.com
 smooch.io
 www.zendesk.com
@@ -3849,8 +3848,8 @@ forum.playcanvas.com
 accounts.snapchat.com
 business.snapchat.com
 businesshelp.snapchat.com
-web.snapchat.com
 app.snapchat.com
+web.snapchat.com
 developer.playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
@@ -3890,6 +3889,7 @@ design.ui.com
 unifi.ui.com
 ispdesign.ui.com
 *.ubnt.com
+*.ubnt.com
 *.ui.com
 store.ui.com
 community.ui.com
@@ -3920,8 +3920,8 @@ callbacks.airbnb.com
 *.byairbnb.com
 *.airbnb-aws.com
 *.luxuryretreats.com
-support-api.airbnb.com
 *.airbnbcitizen.com
+support-api.airbnb.com
 next.airbnb.com
 api.airbnb.com
 *.muscache.com
@@ -4073,13 +4073,13 @@ pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
 international.coinbase.com
-*.base.org
 institutional.coinbase.com
 nft.coinbase.com
+*.base.org
 api.custody.coinbase.com
 api.coinbase.com
-commerce.coinbase.com
 cloud.coinbase.com
+commerce.coinbase.com
 *.coinbase.com
 coinbase.com
 *.coinbase.com
@@ -4123,8 +4123,8 @@ www.quip.com
 *.quip.com
 onepush.query.yahoo.com
 proddata.xobni.yahoo.com
-yimg.com
-data.mail.yahoo.com
+apis.mail.yahoo.com
+le.yahooapis.com
 data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
