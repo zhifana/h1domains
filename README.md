@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr  8 15:18:44 UTC 2024)
+## Domains with Bounties (Last Updated Mon Apr  8 15:42:35 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -20,9 +20,9 @@ api.dyson.fr
 api.dyson.ie
 www.sa.dyson.com
 shop.dyson.ru
-www.dyson.com.au
-www.dyson.my
 www.dyson.fr
+api.fi.dyson.com
+www.dyson.co.th
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -403,8 +403,8 @@ cpanel.hostinger.com
 editor.zyro.com
 www.hostinger.com
 www.zyro.com
-hpanel.hostinger.com
 logo.zyro.com
+hpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -500,8 +500,8 @@ flights.booking.com
 account.booking.com
 booking.com
 secure.booking.com
-*.booking.com
 taxi.booking.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -692,14 +692,14 @@ visa.co.za
 www.fraedom.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
+aw.visa.com
+bd.visa.com
+www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.id
 www.visa.co.jp
 bb.visa.com
-www.practicalmoneyskills.com
-aw.visa.com
-bd.visa.com
 visa.co.ni
 www.currencycloud.com
 www.visa.com.kz
@@ -830,8 +830,8 @@ lando.services.mozilla.com
 contile.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 crash-stats.allizom.org
-firefox.settings.services.mozilla.com
 merino.services.mozilla.com
+firefox.settings.services.mozilla.com
 aus5.mozilla.org
 push.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
@@ -1156,8 +1156,8 @@ www.expediaagents.com
 www.hotels.com
 *.lastminute.com.au
 www.expedia.com
-www.fewo-direkt.de
 www.stayz.com.au
+www.fewo-direkt.de
 www.ebookers.com
 www.bookabach.co.nz
 www.abritel.fr
@@ -1167,9 +1167,9 @@ www.flights.com
 *.travelocity.ca
 www.expediapartnersolutions.com
 *.hotwire.com
-*.travelocity.com
 *.carrentals.com
 *.wotif.com
+*.travelocity.com
 *.cheaptickets.com
 *.expediacruises.com
 *.expediapartnercentral.com
@@ -1351,10 +1351,10 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
-api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
 exness.com
+api.excalls.mobi
 pay.ibex.exchange
 my.exness.com
 my.exness.com
@@ -1655,8 +1655,7 @@ marketplace.fedramp.gov
 *.search.gov
 federalist.18f.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
-api.data.gov
+cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1744,10 +1743,10 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
-app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
+app.taxjar.com
 *.touchtechpayments.com
 api.stripe.com
 *.stripe.com
@@ -1781,12 +1780,12 @@ sh.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
-new.reddit.com
-mod.reddit.com
 old.reddit.com
-api.reddit.com
 *.redditmedia.com
+api.reddit.com
+mod.reddit.com
 gql.reddit.com
+new.reddit.com
 ads-api.reddit.com
 *.reddithelp.com
 matrix.redditspace.com
@@ -1932,10 +1931,10 @@ hackers_chosendomain.larksuite.com
 core.yoti.com
 ccloud.yoti.com
 identity.yoti.com
-www.yotisign.com
 api.yoti.com
 code.yoti.com
 hub.yoti.com
+www.yotisign.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1997,10 +1996,10 @@ api.adm.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
-adm.cloud.com
+citrix.cloud.com
 secure.sharefile.eu
 api.sharefile.com
-citrix.cloud.com
+adm.cloud.com
 accounts.cloud.com
 (youriwssubdomain).cloud.com
 (yoursubdomain).sharefile.com
@@ -2245,9 +2244,9 @@ api.account.clario.co
 kbill.mackeeper.com
 api-ne.mackeeper.com
 mkapi.mackeeper.com
-account.mackeeper.com
-updater.clario.co
 clario.co
+updater.clario.co
+account.mackeeper.com
 mackeeper.com
 account.mackeeper.com
 clario.co
@@ -2520,9 +2519,9 @@ paragon-na.amazon.com
 read.amazon.com
 updates.amazon.com
 *.aliexpress.ru
+*.1688.com
 *.aliyun-inc.com
 *.alibabacloud.com
-*.1688.com
 *.alimama.com
 www.alibabagroup.com
 *.taobao.com
@@ -2806,8 +2805,8 @@ api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
-press.priceline.com
 flyiin.com
+press.priceline.com
 www.bookingholdings.com
 www.getaroom.com
 www.priceline.com
@@ -2821,8 +2820,8 @@ flyiin.com
 priceline.com
 press.priceline.com
 www.bookingholdings.com
-app.smartsheet.com
 admin.smartsheet.com
+app.smartsheet.com
 developers.smartsheet.com
 www.smartsheet.com
 app.smartsheet.com
@@ -3066,17 +3065,17 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
-www.swiftfinancial.com
-api.swiftfinancial.com
-api.loanbuilder.com
-swiftfinancial.com
-swiftcapital.com
 *.braintree.tools
 prequal.swiftfinancial.com
 partner.swiftfinancial.com
 decision.swiftfinancial.com
 pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
+www.swiftfinancial.com
+api.swiftfinancial.com
+api.loanbuilder.com
+swiftfinancial.com
+swiftcapital.com
 *.paylution.com
 my.swiftfinancial.com
 *.braintreepayments.com
@@ -3264,9 +3263,9 @@ tax.crypto.com
 auth.crypto.com
 www.crypto.com
 pay.crypto.com
+js.crypto.com
 merchant.crypto.com
 *.crypto.com
-js.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3349,9 +3348,9 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-*.beta.lahitapiola.fi
 ext-gw.lahitapiola.fi
 api.lahitapiola.fi
+*.beta.lahitapiola.fi
 *.lahitapiola.fi
 www.lahitapiola.fi
 *.lahitapiolarahoitus.fi
@@ -3377,8 +3376,8 @@ privatetarget-1-www.zigzag
 *.scatec.io
 *.sellzone.com
 *.myinsights.io
-*.semrush.net
 *.semrush.com
+*.semrush.net
 *.semrush.com
 *.semrush.net
 *.seoquake.com
@@ -3812,12 +3811,12 @@ shopify.plus
 arrive-server.shopifycloud.com
 shopifyinbox.com
 *.shopifycloud.com
-shop.app
 *.shopify.io
+shop.app
 admin.shopify.com
 partners.shopify.com
-accounts.shopify.com
 your-store.myshopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifycs.com
 *.shopify.io
@@ -3861,8 +3860,8 @@ playcanvas.com
 forum.playcanvas.com
 accounts.snapchat.com
 business.snapchat.com
-app.snapchat.com
 businesshelp.snapchat.com
+app.snapchat.com
 web.snapchat.com
 developer.playcanvas.com
 accounts.snapchat.com
@@ -3902,6 +3901,7 @@ rma.ui.com
 design.ui.com
 unifi.ui.com
 ispdesign.ui.com
+*.ubnt.com
 *.ubnt.com
 *.ui.com
 store.ui.com
@@ -4040,8 +4040,8 @@ happy.tools
 my.pressable.com
 simplenote.com
 simperium.com
-*.tumblr.com
 gravatar.com
+*.tumblr.com
 www.tumblr.com
 akismet.com
 intensedebate.com
@@ -4091,10 +4091,10 @@ institutional.coinbase.com
 nft.coinbase.com
 api.custody.coinbase.com
 api.coinbase.com
-commerce.coinbase.com
 cloud.coinbase.com
 *.coinbase.com
 coinbase.com
+commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -4136,8 +4136,8 @@ www.quip.com
 *.quip.com
 onepush.query.yahoo.com
 proddata.xobni.yahoo.com
-yimg.com
-data.mail.yahoo.com
+apis.mail.yahoo.com
+le.yahooapis.com
 data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
@@ -4369,8 +4369,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 magento.com
 marketplace.magento.com
 magentocommerce.com
