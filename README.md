@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr  8 12:52:23 UTC 2024)
+## Domains with Bounties (Last Updated Mon Apr  8 13:18:40 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -305,8 +305,8 @@ api.remitly.io
 app3.rewire.to
 *.int.remitly.com
 app.rewire.to
-remitly.com
 rewire.com
+remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -360,8 +360,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-www.sheer.com
 my.sheer.com
+www.sheer.com
 www.sheer.com
 my.sheer.com
 www.pornworld.com
@@ -417,9 +417,9 @@ logo.zyro.com
 www.niagahoster.co.id
 https://passport.eufy.com/?app=eufy-us
 education.23andme.com
-api.23andme.com
 research.23andme.com
 blog.23andme.com
+api.23andme.com
 store.23andme.com
 mediacenter.23andme.com
 therapeutics.23andme.com
@@ -708,8 +708,8 @@ visa.com.au
 www.visa.co.nz
 www.cybersource.com
 www.authorize.net
-www.visa.com.br
 sandbox.secure.checkout.visa.com
+www.visa.com.br
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -794,10 +794,10 @@ m.avtoelon.uz
 id.kolesa.kz
 avtoelon.uz
 krisha.kz
-kolesa.kz
 m.kolesa.kz
 api.kolesa.kz
 api.krisha.kz
+kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -821,23 +821,23 @@ api.tideplatform.in
 community-tc.services.mozilla.com
 api.profiler.firefox.com
 vpn.mozilla.org
-developer.mozilla.org
 relay.firefox.com
+developer.mozilla.org
 profiler.firefox.com
 shavar.services.mozilla.com
 crash-reports.allizom.org
 lando.services.mozilla.com
 contile.services.mozilla.com
-crash-stats.allizom.org
 mozilla-pontoon-staging.herokuapp.com
+crash-stats.allizom.org
 merino.services.mozilla.com
 firefox.settings.services.mozilla.com
+aus5.mozilla.org
 push.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 addons.allizom.org
 sync.services.mozilla.com
 phabricator.allizom.org
-aus5.mozilla.org
 www.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 hg.mozilla.org
@@ -927,11 +927,11 @@ cargo.indrive.com
 new-order.eu-east-1.indriverapp.com
 ci.indrive.dev
 watchdocs.indriverapp.com
-*.indriver.com
 auth.indrive.tech
 injob.indriver.com
 *.indrive.com
 *.indriverapp.com
+*.indriver.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1045,11 +1045,11 @@ pay.8x8.com
 work.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
-platform.8x8pilot.com
-*.chalet.8x8.com
-*.8x8.id
 user-profile.8x8.com
 voapi.8x8.com
+*.8x8.id
+platform.8x8pilot.com
+*.chalet.8x8.com
 cloud8.8x8.com
 user-profile-staging.8x8.com
 *.jitsi.net
@@ -1250,8 +1250,8 @@ blueprints.amazon.com
 creator.amazon.com
 alexa.amazon.com
 skills-store.amazon.com
-a4k.amazon.com
 read.amazon.com
+a4k.amazon.com
 read.amazon.com
 alexaanswers.amazon.com
 blueprints.amazon.com
@@ -1443,8 +1443,8 @@ watchlistapi.etoro.com
 rankings.etoro.com
 delta.app
 bullsheet.me
-*.instacart.tools
 admin.instacart.com
+*.instacart.tools
 shoppers.instacart.com
 www.instacart.com
 api.instacart.com
@@ -1508,8 +1508,8 @@ upld.krisp.ai
 admin.wickr.com
 admin.wickr.com
 *.joinclubhouse.com
-*.clubhouse.com
 *.clubhouseapi.com
+*.clubhouse.com
 *.clubhouse.com
 *.joinclubhouse.com
 *.clubhouseapi.com
@@ -1654,8 +1654,7 @@ marketplace.fedramp.gov
 *.search.gov
 federalist.18f.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
-api.data.gov
+cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1931,8 +1930,8 @@ hackers_chosendomain.larksuite.com
 core.yoti.com
 ccloud.yoti.com
 identity.yoti.com
-www.yotisign.com
 api.yoti.com
+www.yotisign.com
 code.yoti.com
 hub.yoti.com
 core.yoti.com
@@ -2036,10 +2035,10 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
+careers.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 academy-outbound-ads.tiktok.com
-careers.tiktok.com
 pay.tokopediax.com
 fp-sg.tiktokv.com
 live-backstage.tiktok.com
@@ -3065,17 +3064,17 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
+www.swiftfinancial.com
+api.swiftfinancial.com
+api.loanbuilder.com
+swiftfinancial.com
+swiftcapital.com
 *.braintree.tools
 prequal.swiftfinancial.com
 partner.swiftfinancial.com
 decision.swiftfinancial.com
 pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
-www.swiftfinancial.com
-api.swiftfinancial.com
-api.loanbuilder.com
-swiftfinancial.com
-swiftcapital.com
 *.paylution.com
 my.swiftfinancial.com
 *.braintreepayments.com
@@ -3236,10 +3235,10 @@ support.steampowered.com
 partner.steampowered.com
 partner.steamgames.com
 playartifact.com
-help.steampowered.com
-www.dota2.com
 www.teamfortress.com
 api.steampowered.com
+help.steampowered.com
+www.dota2.com
 store.steampowered.com
 www.valvesoftware.com
 www.counter-strike.net
@@ -3348,9 +3347,9 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
+*.beta.lahitapiola.fi
 ext-gw.lahitapiola.fi
 api.lahitapiola.fi
-*.beta.lahitapiola.fi
 *.lahitapiola.fi
 www.lahitapiola.fi
 *.lahitapiolarahoitus.fi
@@ -3609,8 +3608,8 @@ ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
-search.brave.com
 talk.brave.com
+search.brave.com
 brave.com
 brave.com
 basicattentiontoken.org
@@ -3648,8 +3647,8 @@ gist.github.com
 classroom.github.com
 education.github.com
 npmjs.com
-github.com
 api.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3799,12 +3798,12 @@ shopify.plus
 arrive-server.shopifycloud.com
 shopifyinbox.com
 *.shopifycloud.com
-*.shopify.io
 shop.app
+*.shopify.io
 admin.shopify.com
 partners.shopify.com
-your-store.myshopify.com
 accounts.shopify.com
+your-store.myshopify.com
 *.shopify.com
 *.shopifycs.com
 *.shopify.io
@@ -3848,9 +3847,9 @@ playcanvas.com
 forum.playcanvas.com
 accounts.snapchat.com
 business.snapchat.com
+app.snapchat.com
 businesshelp.snapchat.com
 web.snapchat.com
-app.snapchat.com
 developer.playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
