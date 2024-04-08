@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr  8 01:56:55 UTC 2024)
+## Domains with Bounties (Last Updated Mon Apr  8 02:26:58 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -21,8 +21,8 @@ api.dyson.fr
 api.dyson.ie
 www.sa.dyson.com
 shop.dyson.ru
-www.dyson.fr
 www.dyson.pl
+www.dyson.fr
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -360,8 +360,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-my.sheer.com
 www.sheer.com
+my.sheer.com
 www.sheer.com
 my.sheer.com
 www.pornworld.com
@@ -447,10 +447,10 @@ www.mercadopago.com.ar
 www.mercadopago.com.br
 www.mercadolibre.com.ar
 www.mercadolivre.com.br
-api.mercadopago.com
-www.mercadopago.com.mx
 www.mercadopago.cl
 api.mercadolibre.com
+api.mercadopago.com
+www.mercadopago.com.mx
 www.mercadopago.com.co
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -693,14 +693,14 @@ visa.co.za
 www.fraedom.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
-aw.visa.com
-bd.visa.com
-www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.id
 www.visa.co.jp
 bb.visa.com
+www.practicalmoneyskills.com
+aw.visa.com
+bd.visa.com
 visa.co.ni
 www.currencycloud.com
 www.visa.com.kz
@@ -923,15 +923,15 @@ ab-platform-api.eu-east-1.indriverapp.com
 auth2.indrive.tech
 argocd.indrive.dev
 super-services.indriverapp.com
-cargo.indrive.com
 new-order.eu-east-1.indriverapp.com
 ci.indrive.dev
 *.indriverapp.com
+cargo.indrive.com
+*.indrive.com
+*.indriver.com
 watchdocs.indriverapp.com
 injob.indriver.com
-*.indriver.com
 auth.indrive.tech
-*.indrive.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1048,8 +1048,8 @@ work-staging.8x8.com
 platform.8x8pilot.com
 *.chalet.8x8.com
 *.8x8.id
-user-profile.8x8.com
 voapi.8x8.com
+user-profile.8x8.com
 cloud8.8x8.com
 user-profile-staging.8x8.com
 *.jitsi.net
@@ -1160,14 +1160,14 @@ www.hotels.com
 *.wotif.com
 *.lastminute.com.au
 www.expedia.com
-www.stayz.com.au
 www.fewo-direkt.de
+www.stayz.com.au
 www.ebookers.com
 *.cheaptickets.com
 *.expediacruises.com
+www.expediagroup.com
 www.bookabach.co.nz
 www.abritel.fr
-www.expediagroup.com
 *.vrbo.com
 *.expediapartnercentral.com
 www.flights.com
@@ -1250,8 +1250,8 @@ blueprints.amazon.com
 creator.amazon.com
 alexa.amazon.com
 skills-store.amazon.com
-read.amazon.com
 a4k.amazon.com
+read.amazon.com
 read.amazon.com
 alexaanswers.amazon.com
 blueprints.amazon.com
@@ -1443,9 +1443,9 @@ watchlistapi.etoro.com
 rankings.etoro.com
 delta.app
 bullsheet.me
+*.instacart.tools
 admin.instacart.com
 api.instacart.com
-*.instacart.tools
 shoppers.instacart.com
 *.instacart.com
 www.instacart.com
@@ -1655,7 +1655,7 @@ marketplace.fedramp.gov
 *.search.gov
 federalist.18f.gov
 federalist-docs.18f.gov
-cloud.gov
+dashboard.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1852,9 +1852,9 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-www.chime.com
 wp-qa.chime.com
 *.chime.com
+www.chime.com
 *.chimebank.com
 *.1debit.com
 *.chimebank.com
@@ -1972,8 +1972,8 @@ internal-docs.netlify.com
 supportal.netlify.app
 world.hey.com
 *.hey.com
-launchpad.37signals.com
 3.basecamp.com
+launchpad.37signals.com
 *.hey.com
 3.basecamp.com
 launchpad.37signals.com
@@ -2036,15 +2036,15 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-careers.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 academy-outbound-ads.tiktok.com
+careers.tiktok.com
 pay.tokopediax.com
 fp-sg.tiktokv.com
 live-backstage.tiktok.com
-partner.tiktokshop.com
 shop-id.tokopedia.com
+partner.tiktokshop.com
 affiliate-id.tokopedia.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
@@ -2124,8 +2124,8 @@ api.faraday.ai
 beta-cloud.acronis.com
 *.5nine.com
 account.acronis.com
-*.acronis.work
 *.acronis.com
+*.acronis.work
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2272,11 +2272,11 @@ direct.playstation.com
 api.direct.playstation.com
 social.playstation.com
 wallets.api.playstation.com
-transact.playstation.com
 my.playstation.com
+transact.playstation.com
 my.account.sony.com
-*.playstation.net
 store.playstation.com
+*.playstation.net
 ca.account.sony.com
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2805,8 +2805,8 @@ api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
-press.priceline.com
 flyiin.com
+press.priceline.com
 www.bookingholdings.com
 www.priceline.com
 secure.rezserver.com
@@ -3235,10 +3235,10 @@ support.steampowered.com
 partner.steampowered.com
 partner.steamgames.com
 playartifact.com
-www.teamfortress.com
-api.steampowered.com
 help.steampowered.com
 www.dota2.com
+www.teamfortress.com
+api.steampowered.com
 store.steampowered.com
 steamcommunity.com
 www.valvesoftware.com
@@ -3259,12 +3259,12 @@ developer.valvesoftware.com
 *.mona.co
 app.mona.co
 tax.crypto.com
-merchant.crypto.com
 auth.crypto.com
 pay.crypto.com
 www.crypto.com
 js.crypto.com
 *.crypto.com
+merchant.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3347,9 +3347,9 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
+*.beta.lahitapiola.fi
 ext-gw.lahitapiola.fi
 api.lahitapiola.fi
-*.beta.lahitapiola.fi
 *.lahitapiola.fi
 www.lahitapiola.fi
 *.lahitapiolarahoitus.fi
@@ -3394,15 +3394,15 @@ wiki.grab.com
 *.taralite.com
 *.grab.co
 api.grabpay.com
+*.grabpay.com
 kartaview.org
 *.myteksi.com
-*.grabpay.com
 jira.grab.com
 grab.careers
 xtramile.grabpay.com
+*.ovo.id
 gifts.grab.com
 *.grab.com
-*.ovo.id
 *.myteksi.com
 *.myteksi.net
 *.grab.com
