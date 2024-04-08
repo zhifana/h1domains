@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr  8 21:41:21 UTC 2024)
+## Domains with Bounties (Last Updated Mon Apr  8 22:19:28 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -20,9 +20,9 @@ api.dyson.fr
 api.dyson.ie
 www.sa.dyson.com
 shop.dyson.ru
-www.dyson.com.au
-www.dyson.my
 www.dyson.fr
+api.fi.dyson.com
+www.dyson.co.th
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -446,12 +446,12 @@ www.mercadolibre.cl
 www.mercadopago.com.co
 www.mercadopago.cl
 www.mercadopago.com.br
-www.mercadolivre.com.br
-www.mercadopago.com.mx
-api.mercadopago.com
-api.mercadolibre.com
 www.mercadolibre.com.ar
 www.mercadopago.com.ar
+www.mercadolivre.com.br
+api.mercadopago.com
+www.mercadopago.com.mx
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -488,10 +488,10 @@ portal.taxi.booking.com
 secure-supply-xml.booking.com
 cars.booking.com
 kyc-onboarding.booking.com
-spark.fareharbor.com
 teleport.fareharbor.engineering
-www.fareharbor.com
 paymentcomponent.booking.com
+www.fareharbor.com
+spark.fareharbor.com
 widget.rentalcars.com
 admin.booking.com
 careers.booking.com
@@ -707,8 +707,8 @@ visa.com.au
 www.visa.co.nz
 www.cybersource.com
 www.authorize.net
-sandbox.secure.checkout.visa.com
 www.visa.com.br
+sandbox.secure.checkout.visa.com
 developer.authorize.net
 aw.visa.com
 bb.visa.com
@@ -830,8 +830,8 @@ lando.services.mozilla.com
 contile.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 crash-stats.allizom.org
-firefox.settings.services.mozilla.com
 merino.services.mozilla.com
+firefox.settings.services.mozilla.com
 aus5.mozilla.org
 push.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
@@ -1045,17 +1045,17 @@ pay.8x8.com
 work.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
+user-profile.8x8.com
+voapi.8x8.com
+*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
-*.8x8.id
-voapi.8x8.com
-user-profile.8x8.com
 cloud8.8x8.com
 user-profile-staging.8x8.com
 *.jitsi.net
 *.8x8staging.com
-sso.8x8pilot.com
 platform.8x8.com
+sso.8x8pilot.com
 sso.8x8.com
 *.8x8.vc
 *.jit.si
@@ -1156,8 +1156,8 @@ www.expediaagents.com
 www.hotels.com
 *.lastminute.com.au
 www.expedia.com
-www.stayz.com.au
 www.fewo-direkt.de
+www.stayz.com.au
 www.ebookers.com
 www.bookabach.co.nz
 www.abritel.fr
@@ -1167,9 +1167,9 @@ www.flights.com
 *.travelocity.ca
 www.expediapartnersolutions.com
 *.hotwire.com
+*.travelocity.com
 *.carrentals.com
 *.wotif.com
-*.travelocity.com
 *.cheaptickets.com
 *.expediacruises.com
 *.expediapartnercentral.com
@@ -1351,10 +1351,10 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
+api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
 exness.com
-api.excalls.mobi
 pay.ibex.exchange
 my.exness.com
 my.exness.com
@@ -1443,8 +1443,8 @@ watchlistapi.etoro.com
 rankings.etoro.com
 delta.app
 bullsheet.me
-*.instacart.tools
 admin.instacart.com
+*.instacart.tools
 shoppers.instacart.com
 api.instacart.com
 *.instacart.com
@@ -1509,8 +1509,8 @@ upld.krisp.ai
 admin.wickr.com
 admin.wickr.com
 *.joinclubhouse.com
-*.clubhouse.com
 *.clubhouseapi.com
+*.clubhouse.com
 *.clubhouse.com
 *.joinclubhouse.com
 *.clubhouseapi.com
@@ -1744,10 +1744,10 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
-app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
+app.taxjar.com
 *.touchtechpayments.com
 *.stripe.com
 api.stripe.com
@@ -2106,9 +2106,9 @@ api.figma.com
 www.figma.com
 www.figma.com
 api.figma.com
+3d.cs.money
 support.cs.money
 wiki.cs.money
-3d.cs.money
 blog.cs.money
 cs.money
 cs.money
@@ -2245,9 +2245,9 @@ api.account.clario.co
 kbill.mackeeper.com
 api-ne.mackeeper.com
 mkapi.mackeeper.com
-account.mackeeper.com
-updater.clario.co
 clario.co
+updater.clario.co
+account.mackeeper.com
 mackeeper.com
 account.mackeeper.com
 clario.co
@@ -2520,18 +2520,18 @@ paragon-na.amazon.com
 read.amazon.com
 updates.amazon.com
 *.aliexpress.ru
+*.1688.com
 *.aliyun-inc.com
 *.alibabacloud.com
-*.1688.com
 *.alimama.com
 www.alibabagroup.com
 *.tmall.com
 *.aliexpress.com
 *.Daraz.com
-*.taobao.com
 *.alibaba.com
-*.alibaba-inc.com
 *.aliyun.com
+*.taobao.com
+*.alibaba-inc.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2996,7 +2996,6 @@ grammarly.ai
 *.prd.fndlsb.net
 *inf.fndlsb.net
 com.fanduel.android.live
-sportsbook.fanduel.com
 *racing.fanduel.com
 4njbets.tvgnetwork.com
 b2b.tvgnetwork.com
@@ -3024,6 +3023,7 @@ tvg.com
 *.numberfire.com
 fanduel.com
 www.tvg.com
+sportsbook.fanduel.com
 *racing.fanduel.com
 *.east.fdbox.net
 *.prod.fdbox.net
@@ -3066,17 +3066,17 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
-www.swiftfinancial.com
-api.swiftfinancial.com
-api.loanbuilder.com
-swiftfinancial.com
-swiftcapital.com
 *.braintree.tools
 prequal.swiftfinancial.com
 partner.swiftfinancial.com
 decision.swiftfinancial.com
 pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
+www.swiftfinancial.com
+api.swiftfinancial.com
+api.loanbuilder.com
+swiftfinancial.com
+swiftcapital.com
 *.paylution.com
 my.swiftfinancial.com
 *.braintreepayments.com
@@ -3090,8 +3090,8 @@ paypalobjects.com
 www.loanbuilder.com
 *.braintreegateway.com
 *.braintree-api.com
-*.venmo.com
 *.paypal.com
+*.venmo.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3243,8 +3243,8 @@ api.steampowered.com
 store.steampowered.com
 www.valvesoftware.com
 www.counter-strike.net
-steamcommunity.com
 partner.steamgames.com
+steamcommunity.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3264,8 +3264,8 @@ tax.crypto.com
 auth.crypto.com
 www.crypto.com
 pay.crypto.com
-merchant.crypto.com
 js.crypto.com
+merchant.crypto.com
 *.crypto.com
 *.crypto.com
 *.mona.co
@@ -3622,8 +3622,8 @@ ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
-talk.brave.com
 search.brave.com
+talk.brave.com
 brave.com
 brave.com
 basicattentiontoken.org
@@ -3860,8 +3860,8 @@ playcanvas.com
 forum.playcanvas.com
 business.snapchat.com
 businesshelp.snapchat.com
-web.snapchat.com
 app.snapchat.com
+web.snapchat.com
 developer.playcanvas.com
 kit.snapchat.com
 accounts.snapchat.com
@@ -3903,7 +3903,6 @@ design.ui.com
 unifi.ui.com
 ispdesign.ui.com
 *.ubnt.com
-*.ubnt.com
 *.ui.com
 store.ui.com
 community.ui.com
@@ -3934,8 +3933,8 @@ callbacks.airbnb.com
 *.byairbnb.com
 *.airbnb-aws.com
 *.luxuryretreats.com
-*.airbnbcitizen.com
 support-api.airbnb.com
+*.airbnbcitizen.com
 next.airbnb.com
 api.airbnb.com
 *.muscache.com
@@ -4087,15 +4086,15 @@ pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
 international.coinbase.com
-*.base.org
 institutional.coinbase.com
 nft.coinbase.com
+*.base.org
 api.custody.coinbase.com
 cloud.coinbase.com
 *.coinbase.com
+api.coinbase.com
 commerce.coinbase.com
 coinbase.com
-api.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
