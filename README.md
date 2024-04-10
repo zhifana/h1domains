@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 10 22:36:57 UTC 2024)
+## Domains with Bounties (Last Updated Wed Apr 10 23:19:10 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -302,8 +302,8 @@ webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
 *.dev.remitly.com
-rewire.com
 *.int.remitly.com
+rewire.com
 api.remitly.io
 remitly.com
 app3.rewire.to
@@ -446,12 +446,12 @@ www.mercadolibre.com.co
 www.mercadolibre.com.mx
 www.mercadolibre.cl
 www.mercadopago.com.co
-www.mercadopago.com.br
 www.mercadopago.com.mx
 www.mercadopago.cl
+www.mercadopago.com.br
 www.mercadopago.com.ar
-api.mercadolibre.com
 www.mercadolivre.com.br
+api.mercadolibre.com
 www.mercadolibre.com.ar
 api.mercadopago.com
 api.mercadopago.com
@@ -708,8 +708,8 @@ visa.com.au
 www.visa.co.nz
 www.cybersource.com
 www.authorize.net
-sandbox.secure.checkout.visa.com
 www.visa.com.br
+sandbox.secure.checkout.visa.com
 developer.authorize.net
 www.cardinalcommerce.com
 aw.visa.com
@@ -912,8 +912,8 @@ wga.volans.tech
 auth2.indrive.tech
 argocd.indrive.dev
 super-services.indriverapp.com
-cargo.indrive.com
 ci.indrive.dev
+cargo.indrive.com
 auth.indrive.tech
 injob.indriver.com
 ab-platform-api.eu-east-1.indriverapp.com
@@ -1085,8 +1085,8 @@ admin.8x8.com
 *.superbet.pl
 *.luckydays.com
 *.superbet.com
-*.superbet.rs
 *.superbet.ro
+*.superbet.rs
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1145,8 +1145,8 @@ www.mrjet.se
 www.expediaagents.com
 *.lastminute.co.nz
 *.lastminute.com.au
-www.stayz.com.au
 www.fewo-direkt.de
+www.stayz.com.au
 www.bookabach.co.nz
 www.abritel.fr
 www.expediagroup.com
@@ -1158,13 +1158,13 @@ www.expediapartnersolutions.com
 *.expediacruises.com
 www.expedia.com
 *.wotif.com
-*.hotwire.com
 *.travelocity.com
+*.hotwire.com
 *.vrbo.com
+*.expediapartnercentral.com
 www.hotels.com
 www.hotwirepartnercentral.com
 www.ebookers.com
-*.expediapartnercentral.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1315,9 +1315,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.simpletax.ca
 www.cheapflights.com
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 www.momondo.com
 business.kayak.com
 www.hotelscombined.com
@@ -1343,9 +1343,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
+api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
-api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1435,8 +1435,8 @@ watchlistapi.etoro.com
 rankings.etoro.com
 delta.app
 bullsheet.me
-*.instacart.tools
 admin.instacart.com
+*.instacart.tools
 shoppers.instacart.com
 api.instacart.com
 *.instacart.com
@@ -1734,10 +1734,10 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
+app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
-app.taxjar.com
 *.touchtechpayments.com
 api.stripe.com
 *.stripe.com
@@ -2257,8 +2257,8 @@ direct.playstation.com
 api.direct.playstation.com
 social.playstation.com
 wallets.api.playstation.com
-transact.playstation.com
 my.playstation.com
+transact.playstation.com
 my.account.sony.com
 *.api.playstation.com
 store.playstation.com
@@ -2518,13 +2518,13 @@ updates.amazon.com
 *.alimama.com
 www.alibabagroup.com
 *.tmall.com
-*.taobao.com
 *.alibaba-inc.com
-*.1688.com
+*.taobao.com
 *.aliyun.com
+*.1688.com
+*.Daraz.com
 *.alibaba.com
 *.aliexpress.com
-*.Daraz.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2984,29 +2984,29 @@ grammarly.ai
 grammarly.ai
 *.east.fdbox.net
 *.mgmt.fndlsb.net
-*.prod.fdbox.net
 *.prd.fndlsb.net
+*.prod.fdbox.net
 *inf.fndlsb.net
 com.fanduel.android.live
 *racing.fanduel.com
 4njbets.tvgnetwork.com
 b2b.tvgnetwork.com
 service.racing.fanduel.com
-4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
-mobile-prod.tvg.com
-pabets.tvg.com
-service.tvg.com
-promos.tvg.com
+4njbets.us.betfair.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
+mobile-prod.tvg.com
 login-ia.tvg.com
 m.4njbets.tvg.com
+pabets.tvg.com
 login.tvg.com
-www.4njbets.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
+service.tvg.com
+promos.tvg.com
+www.4njbets.com
 us.tvg.com
 ia.tvg.com
 fdbox.net
@@ -3257,9 +3257,9 @@ auth.crypto.com
 tax.crypto.com
 app.mona.co
 js.crypto.com
-*.crypto.com
 merchant.crypto.com
 pay.crypto.com
+*.crypto.com
 www.crypto.com
 *.crypto.com
 *.mona.co
@@ -3343,8 +3343,8 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-*.beta.lahitapiola.fi
 ext-gw.lahitapiola.fi
+*.beta.lahitapiola.fi
 www.lahitapiola.fi
 *.lahitapiola.fi
 api.lahitapiola.fi
@@ -3394,8 +3394,8 @@ xtramile.grabpay.com
 gifts.grab.com
 grab.careers
 *.grab-sure.com
-*.grabtaxi.com
 wiki.grab.com
+*.grabtaxi.com
 *.ovo.id
 *.grab.co
 *.grab.com
@@ -3452,11 +3452,11 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.atspotify.com
 *.avecspotify.com
+*.atspotify.com
 *.enspotify.com
-*.forspotify.com
 *.fromspotify.com
+*.forspotify.com
 *.tospotify.com
 backstage.io
 *.byspotify.com
@@ -3653,10 +3653,10 @@ npmjs.org
 gist.github.com
 education.github.com
 classroom.github.com
-npmjs.com
 *.githubusercontent.com
 api.github.com
 github.com
+npmjs.com
 github.com
 api.github.com
 gist.github.com
@@ -3683,8 +3683,8 @@ design.gitlab.com
 advisories.gitlab.com
 about.gitlab.com
 customers.gitlab.com
-*.gitlab.net
 docs.gitlab.com
+*.gitlab.net
 gitlab.com
 *.gitlab.net
 *.gitlab.org
@@ -3731,8 +3731,8 @@ derivws.com
 smarttrader.deriv.com
 cashier.deriv.com
 oauth.deriv.com
-app.deriv.com
 *.deriv.com
+app.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3807,8 +3807,8 @@ shopifyinbox.com
 *.shopifycloud.com
 *.shopify.io
 linkpop.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 partners.shopify.com
 shop.app
 your-store.myshopify.com
@@ -3847,7 +3847,6 @@ playcanv.as
 login.playcanvas.com
 geofilters.snapchat.com
 www.bitmoji.com
-*.sc-corp.net
 ads.snapchat.com
 forum.playcanvas.com
 kit.snapchat.com
@@ -3859,6 +3858,7 @@ developer.playcanvas.com
 app.snapchat.com
 business.snapchat.com
 web.snapchat.com
+*.sc-corp.net
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3928,8 +3928,8 @@ callbacks.airbnb.com
 *.byairbnb.com
 *.airbnb-aws.com
 *.luxuryretreats.com
-*.airbnbcitizen.com
 support-api.airbnb.com
+*.airbnbcitizen.com
 next.airbnb.com
 api.airbnb.com
 *.muscache.com
