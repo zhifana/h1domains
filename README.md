@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 10 21:41:23 UTC 2024)
+## Domains with Bounties (Last Updated Wed Apr 10 22:19:11 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -447,13 +447,13 @@ www.mercadolibre.com.mx
 www.mercadolibre.cl
 www.mercadopago.com.co
 www.mercadopago.com.br
-www.mercadopago.cl
 www.mercadopago.com.mx
+www.mercadopago.cl
 www.mercadopago.com.ar
-api.mercadopago.com
-www.mercadolivre.com.br
 api.mercadolibre.com
+www.mercadolivre.com.br
 www.mercadolibre.com.ar
+api.mercadopago.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -1046,8 +1046,8 @@ cloud8.8x8.com
 user-profile-staging.8x8.com
 *.jitsi.net
 *.8x8staging.com
-platform.8x8.com
 sso.8x8pilot.com
+platform.8x8.com
 sso.8x8.com
 *.8x8.vc
 *.jit.si
@@ -1085,8 +1085,8 @@ admin.8x8.com
 *.superbet.pl
 *.luckydays.com
 *.superbet.com
-*.superbet.ro
 *.superbet.rs
+*.superbet.ro
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1315,9 +1315,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.simpletax.ca
 www.cheapflights.com
-www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
+www.swoodoo.com
 www.momondo.com
 business.kayak.com
 www.hotelscombined.com
@@ -1343,9 +1343,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
-api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
+api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1435,8 +1435,8 @@ watchlistapi.etoro.com
 rankings.etoro.com
 delta.app
 bullsheet.me
-admin.instacart.com
 *.instacart.tools
+admin.instacart.com
 shoppers.instacart.com
 api.instacart.com
 *.instacart.com
@@ -1645,9 +1645,8 @@ marketplace.fedramp.gov
 *.search.gov
 federalist.18f.gov
 federalist-docs.18f.gov
+cloud.gov
 dashboard.fr.cloud.gov
-api.data.gov
-ssh.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -2034,15 +2033,15 @@ partner.tiktokshop.com
 seller-id.tokopedia.com
 careers.tiktok.com
 *.tiktokv.com
-tiktok.com
 affiliate-id.tokopedia.com
-live-backstage.tiktok.com
+tiktok.com
 ads.tiktok.com
-academy-outbound-ads.tiktok.com
 *.tiktok.com
-business.tiktok.com
+academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 effecthouse.tiktok.com
+business.tiktok.com
+live-backstage.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2093,9 +2092,9 @@ api.figma.com
 www.figma.com
 www.figma.com
 api.figma.com
+3d.cs.money
 support.cs.money
 wiki.cs.money
-3d.cs.money
 blog.cs.money
 cs.money
 cs.money
@@ -2258,8 +2257,8 @@ direct.playstation.com
 api.direct.playstation.com
 social.playstation.com
 wallets.api.playstation.com
-my.playstation.com
 transact.playstation.com
+my.playstation.com
 my.account.sony.com
 *.api.playstation.com
 store.playstation.com
@@ -2523,9 +2522,9 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.1688.com
 *.aliyun.com
-*.Daraz.com
 *.alibaba.com
 *.aliexpress.com
+*.Daraz.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2814,8 +2813,8 @@ flyiin.com
 priceline.com
 press.priceline.com
 www.bookingholdings.com
-app.smartsheet.com
 admin.smartsheet.com
+app.smartsheet.com
 developers.smartsheet.com
 www.smartsheet.com
 app.smartsheet.com
@@ -3157,8 +3156,8 @@ staging-admin.shipt.com
 staging-shoppingcart.shipt.com
 shoppingcart.shipt.com
 api.shipt.com
-*.shipt.com
 www.shipt.com
+*.shipt.com
 *.shipt.com
 app.shipt.com
 api.shipt.com
@@ -3258,9 +3257,9 @@ auth.crypto.com
 tax.crypto.com
 app.mona.co
 js.crypto.com
+*.crypto.com
 merchant.crypto.com
 pay.crypto.com
-*.crypto.com
 www.crypto.com
 *.crypto.com
 *.mona.co
@@ -3344,8 +3343,8 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-ext-gw.lahitapiola.fi
 *.beta.lahitapiola.fi
+ext-gw.lahitapiola.fi
 www.lahitapiola.fi
 *.lahitapiola.fi
 api.lahitapiola.fi
@@ -3387,12 +3386,12 @@ manage.grab.co
 *.myteksi.net
 *.taralite.com
 api.grabpay.com
+*.grabpay.com
 kartaview.org
 *.myteksi.com
-*.grabpay.com
 jira.grab.com
-gifts.grab.com
 xtramile.grabpay.com
+gifts.grab.com
 grab.careers
 *.grab-sure.com
 *.grabtaxi.com
@@ -3453,12 +3452,12 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.tospotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
+*.tospotify.com
 backstage.io
 *.byspotify.com
 assets.spotify.com
@@ -3617,8 +3616,8 @@ ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
-talk.brave.com
 search.brave.com
+talk.brave.com
 brave.com
 brave.com
 basicattentiontoken.org
@@ -3656,8 +3655,8 @@ education.github.com
 classroom.github.com
 npmjs.com
 *.githubusercontent.com
-github.com
 api.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3717,8 +3716,8 @@ api2.grofers.com
 blinkit.com
 dashboard.algolia.com
 *.algolianet.com
-www.algolia.com
 *.algolia.net
+www.algolia.com
 *.algolia.net
 *.algolianet.com
 www.algolia.com
@@ -4035,8 +4034,8 @@ happy.tools
 my.pressable.com
 simplenote.com
 simperium.com
-gravatar.com
 *.tumblr.com
+gravatar.com
 akismet.com
 intensedebate.com
 wordpress.com
