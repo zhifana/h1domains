@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 10 12:53:14 UTC 2024)
+## Domains with Bounties (Last Updated Wed Apr 10 13:20:26 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -19,10 +19,10 @@ api.dyson.fr
 api.dyson.ie
 www.sa.dyson.com
 shop.dyson.ru
+www.dyson.my
 www.dyson.fr
 api.fi.dyson.com
 www.dyson.co.th
-www.dyson.it
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -302,8 +302,8 @@ cards.remitly.io
 *.dev.remitly.com
 rates.rewire.com
 app.rewire.to
-*.int.remitly.com
 rewire.com
+*.int.remitly.com
 api.remitly.io
 remitly.com
 app3.rewire.to
@@ -323,8 +323,8 @@ bioid-management.app
 *.toolsforhumanity.com
 toolsforhumanity.com
 *.consumer.worldcoin.org
-worldcoin.org
 *.worldcoin.org
+worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -417,9 +417,9 @@ logo.zyro.com
 www.niagahoster.co.id
 https://passport.eufy.com/?app=eufy-us
 education.23andme.com
+api.23andme.com
 research.23andme.com
 blog.23andme.com
-api.23andme.com
 store.23andme.com
 mediacenter.23andme.com
 therapeutics.23andme.com
@@ -446,10 +446,10 @@ www.mercadolibre.cl
 www.mercadopago.com.co
 www.mercadolibre.com.ar
 api.mercadopago.com
+www.mercadopago.com.br
 www.mercadolivre.com.br
 www.mercadopago.com.mx
 www.mercadopago.cl
-www.mercadopago.com.br
 www.mercadopago.com.ar
 api.mercadolibre.com
 api.mercadopago.com
@@ -787,8 +787,8 @@ yourdomain.myfreshworks.com
 app.kolesa.kz
 app.krisha.kz
 m.kolesa.kz
-api.krisha.kz
 m.krisha.kz
+api.krisha.kz
 krisha.kz
 kolesa.kz
 api.kolesa.kz
@@ -820,8 +820,8 @@ lando.services.mozilla.com
 contile.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 crash-stats.allizom.org
-merino.services.mozilla.com
 firefox.settings.services.mozilla.com
+merino.services.mozilla.com
 aus5.mozilla.org
 push.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
@@ -947,8 +947,8 @@ aws.indrive.tech
 debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.mobi
-*.grindr.io
 web.grindr.com
+*.grindr.io
 *.grindr.com
 *.grindr.io
 *.grindr.com
@@ -1145,9 +1145,9 @@ www.expediaagents.com
 *.lastminute.com.au
 www.fewo-direkt.de
 www.stayz.com.au
+www.expediagroup.com
 www.bookabach.co.nz
 www.abritel.fr
-www.expediagroup.com
 www.flights.com
 *.travelocity.ca
 www.expediapartnersolutions.com
@@ -1155,8 +1155,8 @@ www.expediapartnersolutions.com
 *.cheaptickets.com
 *.expediacruises.com
 www.expedia.com
-*.wotif.com
 *.travelocity.com
+*.wotif.com
 *.hotwire.com
 *.vrbo.com
 *.expediapartnercentral.com
@@ -1313,9 +1313,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.simpletax.ca
 www.cheapflights.com
-www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
+www.swoodoo.com
 www.momondo.com
 business.kayak.com
 www.hotelscombined.com
@@ -1341,9 +1341,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
+api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
-api.excalls.mobi
 pay.ibex.exchange
 my.exness.com
 exness.com
@@ -1720,8 +1720,8 @@ www.elastic.co
 *.elasticnet.co
 *.elstc.co
 *.swiftype.com
-*.elastic.co
 cloud.elastic.co
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1778,10 +1778,10 @@ ads.reddit.com
 mod.reddit.com
 *.snooguts.net
 *.redditinc.com
-accounts.reddit.com
-api.reddit.com
 www.reddit.com
+api.reddit.com
 *.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1840,8 +1840,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-www.chime.com
 wp-qa.chime.com
+www.chime.com
 *.chimebank.com
 *.chime.com
 *.1debit.com
@@ -2033,7 +2033,6 @@ live-backstage.tiktok.com
 shop-id.tokopedia.com
 developers.tiktok.com
 www.pangleglobal.com
-*.tiktokv.com
 partner.tiktokshop.com
 seller-id.tokopedia.com
 creatormarketplace.tiktok.com
@@ -2042,6 +2041,7 @@ tiktok.com
 ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
+*.tiktokv.com
 careers.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2141,7 +2141,6 @@ app.marionnaud.cz
 www.marionnaud.hu
 app.marionnaud.hu
 app.marionnaud.it
-www.marionnaud.it
 www.marionnaud.ro
 app.marionnaud.ro
 app.marionnaud.sk
@@ -2287,8 +2286,8 @@ mapper.polygon.technology
 faucet.polygon.technology
 burn.polygon.technology
 portal.polygon.technology
-wallet.polygon.technology
 staking-api.polygon.technology
+wallet.polygon.technology
 wallet.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
@@ -2524,8 +2523,8 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.1688.com
 *.aliyun.com
-*.alibaba.com
 *.Daraz.com
+*.alibaba.com
 *.aliexpress.com
 *.alibaba.com
 *.aliexpress.com
@@ -2569,8 +2568,8 @@ maria.casino
 *.mariacasino.com
 *.kes.kindredext.net
 *.unibet.com
-www.32red.com
 *.bingo.com
+www.32red.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2986,27 +2985,27 @@ grammarly.ai
 grammarly.ai
 *.east.fdbox.net
 *.mgmt.fndlsb.net
-*.prod.fdbox.net
 *.prd.fndlsb.net
+*.prod.fdbox.net
 *inf.fndlsb.net
 com.fanduel.android.live
 *racing.fanduel.com
 4njbets.tvgnetwork.com
 b2b.tvgnetwork.com
 service.racing.fanduel.com
-4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
+4njbets.us.betfair.com
 mobile-prod.tvg.com
+m.4njbets.tvg.com
 pabets.tvg.com
+login.tvg.com
+www.4njbets.com
 service.tvg.com
 promos.tvg.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
 login-ia.tvg.com
-m.4njbets.tvg.com
-login.tvg.com
-www.4njbets.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
 us.tvg.com
@@ -3386,16 +3385,16 @@ manage.grab.co
 *.myteksi.net
 *.taralite.com
 api.grabpay.com
+*.grabpay.com
 kartaview.org
 *.myteksi.com
-*.grabpay.com
 jira.grab.com
 xtramile.grabpay.com
 gifts.grab.com
 grab.careers
 *.grab-sure.com
-wiki.grab.com
 *.grabtaxi.com
+wiki.grab.com
 *.ovo.id
 *.grab.com
 *.grab.co
@@ -3452,11 +3451,11 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
 *.tospotify.com
 api.spotify.com
 backstage.io
@@ -3683,9 +3682,9 @@ design.gitlab.com
 advisories.gitlab.com
 about.gitlab.com
 customers.gitlab.com
-docs.gitlab.com
-gitlab.com
 *.gitlab.net
+gitlab.com
+docs.gitlab.com
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3703,8 +3702,8 @@ api.grofers.com
 blinkit.com
 api2.grofers.com
 *.hyperpure.com
-*.zomans.com
 *.zomato.com
+*.zomans.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3773,9 +3772,9 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 apps.zendesk.com
+www.zendesk.com
 smooch.io
 h1-your-domain.zendesk.com
-www.zendesk.com
 www.zendesk.com
 developer.zendesk.com
 h1-your-domain.zendesk.com
@@ -3798,13 +3797,13 @@ arrive-server.shopifycloud.com
 shopifyinbox.com
 *.shopifycloud.com
 *.shopify.io
-partners.shopify.com
 your-store.myshopify.com
 *.shopify.com
 linkpop.com
 shop.app
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
+partners.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3849,8 +3848,8 @@ accounts.snapchat.com
 businesshelp.snapchat.com
 developer.playcanvas.com
 app.snapchat.com
-business.snapchat.com
 web.snapchat.com
+business.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3888,6 +3887,7 @@ rma.ui.com
 design.ui.com
 unifi.ui.com
 ispdesign.ui.com
+community.ui.com
 *.ubnt.com
 *.ui.com
 store.ui.com
@@ -3919,8 +3919,8 @@ callbacks.airbnb.com
 *.byairbnb.com
 *.airbnb-aws.com
 *.luxuryretreats.com
-support-api.airbnb.com
 *.airbnbcitizen.com
+support-api.airbnb.com
 next.airbnb.com
 api.airbnb.com
 *.muscache.com
@@ -4570,8 +4570,8 @@ api.greenhouse.io
 onboarding.greenhouse.io
 jss.greenhouse.io
 app.interseller.io
-interseller.io
 www.greenhouse.io
+interseller.io
 support.greenhouse.io
 app.greenhouse.io
 app.greenhouse.io
