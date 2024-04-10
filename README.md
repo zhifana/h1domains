@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 10 14:41:32 UTC 2024)
+## Domains with Bounties (Last Updated Wed Apr 10 15:19:36 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -82,6 +82,8 @@ www.dyson.vn
 www.dyson.cn
 shop.dyson.ru
 www.dyson.com.ua
+shop.dyson.tw
+www.dyson.tw
 *.dyson.com
 account-onboarding-noneu.truecaller.com
 ads-audience-ingestion-noneu.truecaller.com
@@ -444,13 +446,13 @@ www.mercadolibre.com.co
 www.mercadolibre.com.mx
 www.mercadolibre.cl
 www.mercadopago.com.co
-www.mercadolibre.com.ar
-www.mercadopago.com.br
-www.mercadopago.cl
 www.mercadolivre.com.br
 www.mercadopago.com.mx
+www.mercadopago.cl
+www.mercadopago.com.br
 www.mercadopago.com.ar
 api.mercadopago.com
+www.mercadolibre.com.ar
 api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -500,8 +502,8 @@ indicative-pricing.taxi.booking.com
 taxi.booking.com
 careers.booking.com
 secure.booking.com
-booking.com
 *.booking.com
+booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -692,13 +694,13 @@ visa.co.za
 www.fraedom.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
+aw.visa.com
+bd.visa.com
+www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
-www.practicalmoneyskills.com
-aw.visa.com
-bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visainfinite.ca
@@ -706,8 +708,8 @@ visa.com.au
 www.visa.co.nz
 www.cybersource.com
 www.authorize.net
-www.visa.com.br
 sandbox.secure.checkout.visa.com
+www.visa.com.br
 developer.authorize.net
 www.cardinalcommerce.com
 aw.visa.com
@@ -788,8 +790,8 @@ app.kolesa.kz
 app.krisha.kz
 m.kolesa.kz
 api.krisha.kz
-kolesa.kz
 krisha.kz
+kolesa.kz
 api.kolesa.kz
 id.kolesa.kz
 m.krisha.kz
@@ -910,15 +912,15 @@ wga.volans.tech
 auth2.indrive.tech
 argocd.indrive.dev
 super-services.indriverapp.com
-ci.indrive.dev
 cargo.indrive.com
+ci.indrive.dev
 auth.indrive.tech
 injob.indriver.com
 ab-platform-api.eu-east-1.indriverapp.com
 volans.tech
 *.indriver.com
-watchdocs.indriverapp.com
 *.indriverapp.com
+watchdocs.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 *.indrive.com
 new-order.eu-east-1.indriverapp.com
@@ -1035,11 +1037,11 @@ pay.8x8.com
 work.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
+user-profile.8x8.com
+voapi.8x8.com
+*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
-*.8x8.id
-voapi.8x8.com
-user-profile.8x8.com
 cloud8.8x8.com
 user-profile-staging.8x8.com
 *.jitsi.net
@@ -1433,8 +1435,8 @@ watchlistapi.etoro.com
 rankings.etoro.com
 delta.app
 bullsheet.me
-admin.instacart.com
 *.instacart.tools
+admin.instacart.com
 shoppers.instacart.com
 api.instacart.com
 *.instacart.com
@@ -1476,8 +1478,8 @@ customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
 https://dbc-9a3f8ed1-7608.cloud.databricks.com
-*.payoneer.com
 payoneer.com.cn
+*.payoneer.com
 *.payoneer.com
 payoneer.com.cn
 teams.krisp.ai
@@ -1643,9 +1645,8 @@ marketplace.fedramp.gov
 *.search.gov
 federalist.18f.gov
 federalist-docs.18f.gov
+cloud.gov
 dashboard.fr.cloud.gov
-api.data.gov
-ssh.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1780,8 +1781,8 @@ mod.reddit.com
 api.reddit.com
 *.reddit.com
 accounts.reddit.com
-*.redditinc.com
 www.reddit.com
+*.redditinc.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1838,8 +1839,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-wp-qa.chime.com
 www.chime.com
+wp-qa.chime.com
 *.chimebank.com
 *.chime.com
 *.1debit.com
@@ -1990,8 +1991,8 @@ adm.cloud.com
 (yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 accounts.cloud.com
-secure.sharefile.com
 www.cloud.com
+secure.sharefile.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -2035,12 +2036,12 @@ partner.tiktokshop.com
 seller-id.tokopedia.com
 creatormarketplace.tiktok.com
 affiliate-id.tokopedia.com
-ads.tiktok.com
 careers.tiktok.com
 business.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 tiktok.com
+*.tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2812,8 +2813,8 @@ flyiin.com
 priceline.com
 press.priceline.com
 www.bookingholdings.com
-app.smartsheet.com
 admin.smartsheet.com
+app.smartsheet.com
 developers.smartsheet.com
 www.smartsheet.com
 app.smartsheet.com
@@ -3013,8 +3014,8 @@ sportsbook.fanduel.com
 fanduel.com
 tvg.com
 www.tvg.com
-*.canada.fanduel.com
 *.numberfire.com
+*.canada.fanduel.com
 *racing.fanduel.com
 *.east.fdbox.net
 *.prod.fdbox.net
@@ -3081,8 +3082,8 @@ www.loanbuilder.com
 *.braintreegateway.com
 *.venmo.com
 *.xoom.com
-*.paypal.com
 *.braintree-api.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3252,11 +3253,11 @@ developer.valvesoftware.com
 *.mona.co
 auth.crypto.com
 www.crypto.com
-app.mona.co
 tax.crypto.com
-pay.crypto.com
+app.mona.co
 js.crypto.com
 merchant.crypto.com
+pay.crypto.com
 *.crypto.com
 *.crypto.com
 *.mona.co
@@ -3340,8 +3341,8 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-ext-gw.lahitapiola.fi
 *.beta.lahitapiola.fi
+ext-gw.lahitapiola.fi
 www.lahitapiola.fi
 *.lahitapiola.fi
 api.lahitapiola.fi
@@ -3550,8 +3551,8 @@ www.files.com
 cdna.lystit.com
 mobileapi.lystit.com
 *.lyst.co
-*.lystit.com
 *.lyst.com
+*.lystit.com
 *.lyst.com
 *.lystit.com
 *.lyst.co
@@ -3573,8 +3574,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
 www.starbucks.com.sg
+gift.starbucks.co.jp
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.com
@@ -3680,9 +3681,9 @@ design.gitlab.com
 advisories.gitlab.com
 about.gitlab.com
 customers.gitlab.com
-gitlab.com
 docs.gitlab.com
 *.gitlab.net
+gitlab.com
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3720,8 +3721,8 @@ derivws.com
 smarttrader.deriv.com
 cashier.deriv.com
 oauth.deriv.com
-app.deriv.com
 *.deriv.com
+app.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3795,10 +3796,10 @@ arrive-server.shopifycloud.com
 shopifyinbox.com
 *.shopifycloud.com
 *.shopify.io
-*.shopify.com
 linkpop.com
-accounts.shopify.com
+*.shopify.com
 partners.shopify.com
+accounts.shopify.com
 shop.app
 your-store.myshopify.com
 admin.shopify.com
@@ -3885,6 +3886,7 @@ rma.ui.com
 design.ui.com
 unifi.ui.com
 ispdesign.ui.com
+community.ui.com
 *.ubnt.com
 *.ui.com
 store.ui.com
@@ -4027,8 +4029,8 @@ gravatar.com
 akismet.com
 intensedebate.com
 wordpress.com
-mailpoet.com
 www.tumblr.com
+mailpoet.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
@@ -4068,15 +4070,15 @@ pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
 international.coinbase.com
-*.base.org
 institutional.coinbase.com
 nft.coinbase.com
+*.base.org
 api.custody.coinbase.com
 api.coinbase.com
-coinbase.com
 commerce.coinbase.com
 *.coinbase.com
 cloud.coinbase.com
+coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -4133,7 +4135,6 @@ profile-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone-ext-content.com
 profile-photos.hackerone-user-content.com
-app.pullrequest.com
 errors.hackerone.net
 ctf.hacker101.com
 hackerone-user-content.com
@@ -4146,8 +4147,9 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
 www.hackerone.com
 reviewer.pullrequest.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4343,8 +4345,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 magento.com
 marketplace.magento.com
 magentocommerce.com
@@ -4567,8 +4569,8 @@ api.greenhouse.io
 onboarding.greenhouse.io
 jss.greenhouse.io
 app.interseller.io
-interseller.io
 www.greenhouse.io
+interseller.io
 support.greenhouse.io
 app.greenhouse.io
 app.greenhouse.io
