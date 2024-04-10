@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 10 09:20:14 UTC 2024)
+## Domains with Bounties (Last Updated Wed Apr 10 09:40:02 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -497,8 +497,8 @@ careers.booking.com
 flights.booking.com
 secure.booking.com
 taxi.booking.com
-account.booking.com
 booking.com
+account.booking.com
 indicative-pricing.taxi.booking.com
 *.rentalcars.com
 *.booking.com
@@ -706,8 +706,8 @@ visa.com.au
 www.visa.co.nz
 www.cybersource.com
 www.authorize.net
-www.visa.com.br
 sandbox.secure.checkout.visa.com
+www.visa.com.br
 developer.authorize.net
 www.cardinalcommerce.com
 aw.visa.com
@@ -820,8 +820,8 @@ lando.services.mozilla.com
 contile.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 crash-stats.allizom.org
-merino.services.mozilla.com
 firefox.settings.services.mozilla.com
+merino.services.mozilla.com
 aus5.mozilla.org
 push.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
@@ -918,10 +918,10 @@ injob.indriver.com
 ab-platform-api.eu-east-1.indriverapp.com
 volans.tech
 *.indriver.com
-*.indrive.com
 truck-api.eu-east-1.indriverapp.com
 *.indriverapp.com
 watchdocs.indriverapp.com
+*.indrive.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1035,17 +1035,17 @@ pay.8x8.com
 work.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
-user-profile.8x8.com
-voapi.8x8.com
-*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
+*.8x8.id
+voapi.8x8.com
+user-profile.8x8.com
 cloud8.8x8.com
 user-profile-staging.8x8.com
 *.jitsi.net
 *.8x8staging.com
-platform.8x8.com
 sso.8x8pilot.com
+platform.8x8.com
 sso.8x8.com
 *.8x8.vc
 *.jit.si
@@ -1083,8 +1083,8 @@ admin.8x8.com
 *.superbet.pl
 *.luckydays.com
 *.superbet.com
-*.superbet.ro
 *.superbet.rs
+*.superbet.ro
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1137,7 +1137,6 @@ dookeydash.com
 *.wenewmoments.com
 dookeydash.com
 hv-mtl.com
-www.hotwirepartnercentral.com
 www.orbitz.com
 www.ebookers.fi
 www.mrjet.se
@@ -1146,7 +1145,6 @@ www.expediaagents.com
 *.lastminute.com.au
 www.fewo-direkt.de
 www.stayz.com.au
-www.ebookers.com
 www.expediagroup.com
 www.bookabach.co.nz
 www.abritel.fr
@@ -1163,6 +1161,8 @@ www.expedia.com
 *.vrbo.com
 *.expediapartnercentral.com
 www.hotels.com
+www.hotwirepartnercentral.com
+www.ebookers.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1267,9 +1267,9 @@ checksw.com
 checksw.com
 royal.checksw.com
 *.superpal.io/*
-*.cornershop.io/*
 *.superpal.com/*
 *.cornershopapp.com/*
+*.cornershop.io/*
 *.cornershopapp.com/*
 *.superpal.com/*
 *.cornershop.io/*
@@ -1433,8 +1433,8 @@ watchlistapi.etoro.com
 rankings.etoro.com
 delta.app
 bullsheet.me
-*.instacart.tools
 admin.instacart.com
+*.instacart.tools
 shoppers.instacart.com
 api.instacart.com
 *.instacart.com
@@ -1777,9 +1777,9 @@ ads.reddit.com
 api.reddit.com
 mod.reddit.com
 *.reddit.com
+*.snooguts.net
 www.reddit.com
 *.redditinc.com
-*.snooguts.net
 accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -1983,10 +1983,10 @@ api.adm.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
-citrix.cloud.com
+adm.cloud.com
 secure.sharefile.eu
 api.sharefile.com
-adm.cloud.com
+citrix.cloud.com
 (youriwssubdomain).cloud.com
 (yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
@@ -2023,23 +2023,23 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
+careers.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 academy-outbound-ads.tiktok.com
-careers.tiktok.com
 pay.tokopediax.com
 fp-sg.tiktokv.com
 live-backstage.tiktok.com
 shop-id.tokopedia.com
 developers.tiktok.com
 www.pangleglobal.com
-partner.tiktokshop.com
 *.tiktokv.com
+partner.tiktokshop.com
 seller-id.tokopedia.com
 creatormarketplace.tiktok.com
 affiliate-id.tokopedia.com
-ads.tiktok.com
 tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 *.tiktok.com
@@ -2519,12 +2519,12 @@ updates.amazon.com
 *.alimama.com
 www.alibabagroup.com
 *.tmall.com
-*.taobao.com
 *.alibaba-inc.com
+*.taobao.com
 *.aliexpress.com
 *.Daraz.com
-*.1688.com
 *.aliyun.com
+*.1688.com
 *.alibaba.com
 *.alibaba.com
 *.aliexpress.com
@@ -2608,8 +2608,8 @@ activities.marriott.com
 homes-and-villas.marriott.com
 all-inclusive.marriott.com
 careers.marriott.com
-www.marriott.com
 www.ritzcarlton.com
+www.marriott.com
 traveler.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
@@ -3059,17 +3059,17 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
+www.swiftfinancial.com
+api.swiftfinancial.com
+api.loanbuilder.com
+swiftfinancial.com
+swiftcapital.com
 *.braintree.tools
 prequal.swiftfinancial.com
 partner.swiftfinancial.com
 decision.swiftfinancial.com
 pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
-www.swiftfinancial.com
-api.swiftfinancial.com
-api.loanbuilder.com
-swiftfinancial.com
-swiftcapital.com
 *.paylution.com
 my.swiftfinancial.com
 *.braintreepayments.com
@@ -3229,9 +3229,9 @@ developer.valvesoftware.com
 support.steampowered.com
 partner.steampowered.com
 playartifact.com
+help.steampowered.com
 www.teamfortress.com
 api.steampowered.com
-help.steampowered.com
 store.steampowered.com
 www.counter-strike.net
 partner.steamgames.com
@@ -3254,12 +3254,12 @@ developer.valvesoftware.com
 *.mona.co
 auth.crypto.com
 www.crypto.com
-app.mona.co
 tax.crypto.com
-pay.crypto.com
+app.mona.co
 js.crypto.com
-*.crypto.com
 merchant.crypto.com
+pay.crypto.com
+*.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3370,8 +3370,8 @@ privatetarget-1-www.zigzag
 *.scatec.io
 *.sellzone.com
 *.myinsights.io
-*.semrush.com
 *.semrush.net
+*.semrush.com
 *.semrush.com
 *.semrush.net
 *.seoquake.com
@@ -3615,8 +3615,8 @@ ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
-talk.brave.com
 search.brave.com
+talk.brave.com
 brave.com
 brave.com
 basicattentiontoken.org
@@ -3701,8 +3701,8 @@ api.grofers.com
 *.runnr.in
 blinkit.com
 api2.grofers.com
-*.hyperpure.com
 *.zomato.com
+*.hyperpure.com
 *.zomans.com
 *.zomato.com
 *.zdev.net
@@ -3808,8 +3808,8 @@ shopifyinbox.com
 partners.shopify.com
 your-store.myshopify.com
 admin.shopify.com
-*.shopify.com
 linkpop.com
+*.shopify.com
 shop.app
 accounts.shopify.com
 *.shopifycs.com
@@ -3895,7 +3895,6 @@ rma.ui.com
 design.ui.com
 unifi.ui.com
 ispdesign.ui.com
-community.ui.com
 *.ubnt.com
 *.ui.com
 store.ui.com
@@ -3927,8 +3926,8 @@ callbacks.airbnb.com
 *.byairbnb.com
 *.airbnb-aws.com
 *.luxuryretreats.com
-support-api.airbnb.com
 *.airbnbcitizen.com
+support-api.airbnb.com
 next.airbnb.com
 api.airbnb.com
 *.muscache.com
@@ -3999,8 +3998,8 @@ api.x.ai
 ide.x.ai
 grok.x.ai
 *.twimg.com
-x.com
 *.twitter.com
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4079,9 +4078,9 @@ pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
 international.coinbase.com
-*.base.org
 institutional.coinbase.com
 nft.coinbase.com
+*.base.org
 api.custody.coinbase.com
 api.coinbase.com
 coinbase.com
@@ -4157,8 +4156,8 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
 www.hackerone.com
 reviewer.pullrequest.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4354,8 +4353,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 magento.com
 marketplace.magento.com
 magentocommerce.com
