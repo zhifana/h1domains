@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr 11 11:41:22 UTC 2024)
+## Domains with Bounties (Last Updated Thu Apr 11 12:28:09 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -325,8 +325,8 @@ bioid-management.app
 toolsforhumanity.com
 *.consumer.worldcoin.org
 worldcoin.org
-getworldcoin.com
 *.worldcoin.org
+getworldcoin.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -446,14 +446,14 @@ www.mercadolibre.com.co
 www.mercadolibre.com.mx
 www.mercadolibre.cl
 www.mercadopago.com.co
-www.mercadopago.com.mx
-www.mercadopago.cl
 www.mercadopago.com.br
-www.mercadopago.com.ar
-www.mercadolivre.com.br
+www.mercadopago.cl
+www.mercadopago.com.mx
 api.mercadolibre.com
-www.mercadolibre.com.ar
+www.mercadolivre.com.br
 api.mercadopago.com
+www.mercadolibre.com.ar
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -501,9 +501,9 @@ indicative-pricing.taxi.booking.com
 taxi.booking.com
 careers.booking.com
 www.fareharbor.com
-*.booking.com
-booking.com
 *.rentalcars.com
+booking.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -912,17 +912,17 @@ wga.volans.tech
 auth2.indrive.tech
 argocd.indrive.dev
 super-services.indriverapp.com
-cargo.indrive.com
 ci.indrive.dev
+cargo.indrive.com
 auth.indrive.tech
 injob.indriver.com
 ab-platform-api.eu-east-1.indriverapp.com
 volans.tech
-new-order.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
+new-order.eu-east-1.indriverapp.com
 *.indriver.com
-*.indriverapp.com
 watchdocs.indriverapp.com
+*.indriverapp.com
 *.indrive.com
 *.indriverapp.com
 *.indrive.com
@@ -1036,11 +1036,11 @@ pay.8x8.com
 work.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
-user-profile.8x8.com
-voapi.8x8.com
-*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
+*.8x8.id
+voapi.8x8.com
+user-profile.8x8.com
 cloud8.8x8.com
 user-profile-staging.8x8.com
 *.jitsi.net
@@ -1144,8 +1144,8 @@ www.ebookers.fi
 www.mrjet.se
 www.expediaagents.com
 *.lastminute.co.nz
-www.stayz.com.au
 www.fewo-direkt.de
+www.stayz.com.au
 www.bookabach.co.nz
 www.abritel.fr
 www.expediagroup.com
@@ -1156,12 +1156,12 @@ www.expediapartnersolutions.com
 *.cheaptickets.com
 *.expediacruises.com
 www.expedia.com
+*.travelocity.com
 *.wotif.com
 *.hotwire.com
-*.travelocity.com
+*.expediapartnercentral.com
 www.hotels.com
 www.hotwirepartnercentral.com
-*.expediapartnercentral.com
 *.vrbo.com
 *.lastminute.com.au
 www.ebookers.com
@@ -1270,8 +1270,8 @@ checksw.com
 royal.checksw.com
 *.superpal.io/*
 *.superpal.com/*
-*.cornershop.io/*
 *.cornershopapp.com/*
+*.cornershop.io/*
 *.cornershopapp.com/*
 *.superpal.com/*
 *.cornershop.io/*
@@ -1315,9 +1315,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.simpletax.ca
 www.cheapflights.com
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 www.momondo.com
 business.kayak.com
 www.hotelscombined.com
@@ -1435,12 +1435,12 @@ watchlistapi.etoro.com
 rankings.etoro.com
 delta.app
 bullsheet.me
-admin.instacart.com
 shoppers.instacart.com
 api.instacart.com
 www.instacart.com
 *.instacart.com
 *.instacart.tools
+admin.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1839,8 +1839,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-www.chime.com
 wp-qa.chime.com
+www.chime.com
 *.chimebank.com
 *.chime.com
 *.1debit.com
@@ -1983,10 +1983,10 @@ api.adm.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
-adm.cloud.com
+citrix.cloud.com
 secure.sharefile.eu
 api.sharefile.com
-citrix.cloud.com
+adm.cloud.com
 (youriwssubdomain).cloud.com
 (yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
@@ -2035,9 +2035,9 @@ careers.tiktok.com
 *.tiktokv.com
 affiliate-id.tokopedia.com
 academy-outbound-ads.tiktok.com
-tiktok.com
-live-backstage.tiktok.com
 effecthouse.tiktok.com
+live-backstage.tiktok.com
+tiktok.com
 business.tiktok.com
 ads.tiktok.com
 creatormarketplace.tiktok.com
@@ -2229,8 +2229,8 @@ api.account.clario.co
 kbill.mackeeper.com
 api-ne.mackeeper.com
 mkapi.mackeeper.com
-account.mackeeper.com
 updater.clario.co
+account.mackeeper.com
 mackeeper.com
 clario.co
 account.mackeeper.com
@@ -2519,11 +2519,11 @@ www.alibabagroup.com
 *.tmall.com
 *.alibaba-inc.com
 *.taobao.com
-*.aliyun.com
 *.1688.com
-*.aliexpress.com
+*.aliyun.com
 *.alibaba.com
 *.Daraz.com
+*.aliexpress.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2798,8 +2798,8 @@ api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
-press.priceline.com
 flyiin.com
+press.priceline.com
 www.bookingholdings.com
 www.priceline.com
 secure.rezserver.com
@@ -3012,9 +3012,9 @@ fdbox.net
 sportsbook.fanduel.com
 fanduel.com
 tvg.com
-www.tvg.com
 *.canada.fanduel.com
 *.numberfire.com
+www.tvg.com
 *racing.fanduel.com
 *.east.fdbox.net
 *.prod.fdbox.net
@@ -3454,9 +3454,9 @@ getofficial.co
 *.avecspotify.com
 *.atspotify.com
 *.enspotify.com
-*.tospotify.com
 *.fromspotify.com
 *.forspotify.com
+*.tospotify.com
 backstage.io
 *.byspotify.com
 assets.spotify.com
@@ -3575,8 +3575,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
 www.starbucks.com.sg
+gift.starbucks.co.jp
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.com
@@ -3701,8 +3701,8 @@ api.grofers.com
 blinkit.com
 api2.grofers.com
 *.hyperpure.com
-*.zomans.com
 *.zomato.com
+*.zomans.com
 *.zdev.net
 *.zomato.com
 *.zdev.net
@@ -3808,10 +3808,10 @@ shopifyinbox.com
 linkpop.com
 partners.shopify.com
 shop.app
-your-store.myshopify.com
 accounts.shopify.com
 *.shopify.com
 admin.shopify.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -4155,10 +4155,10 @@ hackerone.live
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
 reviewer.pullrequest.com
-api.hackerone.com
-www.hackerone.com
 app.pullrequest.com
+api.hackerone.com
 hackerone.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
