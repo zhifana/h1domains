@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Apr 12 10:18:21 UTC 2024)
+## Domains with Bounties (Last Updated Fri Apr 12 10:41:36 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -19,10 +19,10 @@ api.dyson.fr
 api.dyson.ie
 www.sa.dyson.com
 shop.dyson.ru
+www.dyson.my
 www.dyson.fr
 api.fi.dyson.com
 www.dyson.co.th
-www.dyson.it
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -445,13 +445,13 @@ www.mercadolibre.com.uy
 www.mercadolibre.com.co
 www.mercadolibre.com.mx
 www.mercadopago.com.co
+www.mercadopago.com.br
 www.mercadopago.com.mx
 www.mercadopago.cl
-www.mercadopago.com.br
 www.mercadopago.com.ar
-api.mercadolibre.com
 www.mercadolivre.com.br
 api.mercadopago.com
+api.mercadolibre.com
 www.mercadolibre.cl
 www.mercadolibre.com.ar
 api.mercadopago.com
@@ -489,19 +489,19 @@ portal.taxi.booking.com
 secure-supply-xml.booking.com
 cars.booking.com
 kyc-onboarding.booking.com
+spark.fareharbor.com
 teleport.fareharbor.engineering
 paymentcomponent.booking.com
-spark.fareharbor.com
 admin.booking.com
 flights.booking.com
 account.booking.com
-secure.booking.com
 indicative-pricing.taxi.booking.com
+secure.booking.com
 taxi.booking.com
 careers.booking.com
 *.rentalcars.com
-booking.com
 www.fareharbor.com
+booking.com
 *.booking.com
 widget.rentalcars.com
 *.booking.com
@@ -707,8 +707,8 @@ visa.com.au
 www.visa.co.nz
 www.cybersource.com
 www.authorize.net
-www.visa.com.br
 sandbox.secure.checkout.visa.com
+www.visa.com.br
 developer.authorize.net
 www.cardinalcommerce.com
 www.visa.com.tw
@@ -790,11 +790,11 @@ app.kolesa.kz
 app.krisha.kz
 m.kolesa.kz
 krisha.kz
-m.krisha.kz
 api.kolesa.kz
 kolesa.kz
 id.kolesa.kz
 api.krisha.kz
+m.krisha.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -1039,8 +1039,8 @@ work-staging.8x8.com
 platform.8x8pilot.com
 *.chalet.8x8.com
 *.8x8.id
-voapi.8x8.com
 user-profile.8x8.com
+voapi.8x8.com
 cloud8.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
@@ -1085,8 +1085,8 @@ admin.8x8.com
 *.superbet.pl
 *.luckydays.com
 *.superbet.com
-*.superbet.ro
 *.superbet.rs
+*.superbet.ro
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1270,8 +1270,8 @@ checksw.com
 royal.checksw.com
 *.superpal.io/*
 *.superpal.com/*
-*.cornershopapp.com/*
 *.cornershop.io/*
+*.cornershopapp.com/*
 *.cornershopapp.com/*
 *.superpal.com/*
 *.cornershop.io/*
@@ -1343,9 +1343,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
+api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
-api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1438,8 +1438,8 @@ bullsheet.me
 shoppers.instacart.com
 api.instacart.com
 www.instacart.com
-*.instacart.tools
 *.instacart.com
+*.instacart.tools
 admin.instacart.com
 *.instacart.com
 *.instacart.tools
@@ -1840,8 +1840,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-wp-qa.chime.com
 www.chime.com
+wp-qa.chime.com
 *.chimebank.com
 *.chime.com
 *.1debit.com
@@ -1942,8 +1942,8 @@ internal.netlify.com
 netlify-rum.netlify.app
 api.netlify.com
 screenshot-proxy.netlify.app
-*.services.netlify.com
 app.netlify.com
+*.services.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -2516,13 +2516,13 @@ updates.amazon.com
 *.aliexpress.ru
 *.aliyun-inc.com
 *.tmall.com
-*.alibaba-inc.com
 *.taobao.com
+*.alibaba-inc.com
 www.alibabagroup.com
-*.alibabacloud.com
-*.aliexpress.com
-*.alibaba.com
 *.alimama.com
+*.alibabacloud.com
+*.alibaba.com
+*.aliexpress.com
 *.aliyun.com
 *.1688.com
 *.Daraz.com
@@ -2568,8 +2568,8 @@ maria.casino
 *.mariacasino.com
 *.kes.kindredext.net
 *.unibet.com
-*.bingo.com
 www.32red.com
+*.bingo.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -3231,9 +3231,9 @@ developer.valvesoftware.com
 support.steampowered.com
 partner.steampowered.com
 playartifact.com
+help.steampowered.com
 www.teamfortress.com
 api.steampowered.com
-help.steampowered.com
 www.counter-strike.net
 partner.steamgames.com
 www.dota2.com
@@ -3344,8 +3344,8 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-*.beta.lahitapiola.fi
 ext-gw.lahitapiola.fi
+*.beta.lahitapiola.fi
 www.lahitapiola.fi
 *.lahitapiola.fi
 api.lahitapiola.fi
@@ -3391,15 +3391,15 @@ kartaview.org
 *.myteksi.com
 *.grabpay.com
 jira.grab.com
-gifts.grab.com
 xtramile.grabpay.com
+gifts.grab.com
 grab.careers
 *.grab-sure.com
 wiki.grab.com
 *.ovo.id
 *.grab.co
-*.grabtaxi.com
 *.grab.com
+*.grabtaxi.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3453,11 +3453,11 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.atspotify.com
 *.avecspotify.com
+*.atspotify.com
 *.enspotify.com
-*.forspotify.com
 *.fromspotify.com
+*.forspotify.com
 *.tospotify.com
 backstage.io
 *.byspotify.com
@@ -3654,8 +3654,8 @@ npmjs.org
 gist.github.com
 education.github.com
 *.githubusercontent.com
-classroom.github.com
 github.com
+classroom.github.com
 api.github.com
 npmjs.com
 github.com
@@ -4083,9 +4083,9 @@ pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
 international.coinbase.com
+*.base.org
 institutional.coinbase.com
 nft.coinbase.com
-*.base.org
 api.custody.coinbase.com
 api.coinbase.com
 cloud.coinbase.com
@@ -4358,8 +4358,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 magento.com
 marketplace.magento.com
 magentocommerce.com
@@ -4574,8 +4574,8 @@ api.greenhouse.io
 onboarding.greenhouse.io
 jss.greenhouse.io
 app.interseller.io
-interseller.io
 www.greenhouse.io
+interseller.io
 support.greenhouse.io
 app.greenhouse.io
 app.greenhouse.io
