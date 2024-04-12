@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Apr 12 04:17:27 UTC 2024)
+## Domains with Bounties (Last Updated Fri Apr 12 04:41:51 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -444,16 +444,16 @@ www.mercadolibre.com.pe
 www.mercadolibre.com.uy
 www.mercadolibre.com.co
 www.mercadolibre.com.mx
-www.mercadolibre.cl
 www.mercadopago.com.co
 www.mercadopago.com.br
 www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadopago.com.ar
-api.mercadolibre.com
 api.mercadopago.com
-www.mercadolivre.com.br
+api.mercadolibre.com
 www.mercadolibre.com.ar
+www.mercadolivre.com.br
+www.mercadolibre.cl
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -879,9 +879,9 @@ hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 hiltonhotels.jp
 *.hilton.io
+hilton.io
 *.hilton.com
 hilton.com
-hilton.io
 *.hilton.com
 *.hilton.io
 *.hiltonbusinessonline.com
@@ -950,8 +950,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.mobi
 *.grindr.io
-web.grindr.com
 *.grindr.com
+web.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1036,11 +1036,11 @@ pay.8x8.com
 work.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
-user-profile.8x8.com
-voapi.8x8.com
-*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
+*.8x8.id
+user-profile.8x8.com
+voapi.8x8.com
 cloud8.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
@@ -1163,8 +1163,8 @@ www.hotwirepartnercentral.com
 *.vrbo.com
 www.ebookers.com
 *.lastminute.com.au
-www.expedia.com
 *.hotwire.com
+www.expedia.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1193,8 +1193,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.workers.dev
 magiceden.io
-*.magiceden.dev
 *.magiceden.io
+*.magiceden.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1647,6 +1647,7 @@ federalist.18f.gov
 federalist-docs.18f.gov
 cloud.gov
 dashboard.fr.cloud.gov
+api.data.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1767,17 +1768,17 @@ sh.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
-new.reddit.com
 old.reddit.com
 *.redditmedia.com
+new.reddit.com
 *.reddithelp.com
 matrix.redditspace.com
 ads.reddit.com
 mod.reddit.com
 *.snooguts.net
-api.reddit.com
 *.reddit.com
 accounts.reddit.com
+api.reddit.com
 *.redditinc.com
 www.reddit.com
 ads-api.reddit.com
@@ -2029,10 +2030,10 @@ fp-sg.tiktokv.com
 shop-id.tokopedia.com
 developers.tiktok.com
 www.pangleglobal.com
+careers.tiktok.com
 academy-outbound-ads.tiktok.com
 effecthouse.tiktok.com
 live-backstage.tiktok.com
-careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
 affiliate-id.tokopedia.com
@@ -2092,11 +2093,11 @@ api.figma.com
 www.figma.com
 www.figma.com
 api.figma.com
-3d.cs.money
 support.cs.money
+3d.cs.money
 blog.cs.money
-cs.money
 wiki.cs.money
+cs.money
 cs.money
 support.cs.money
 blog.cs.money
@@ -2229,8 +2230,8 @@ api.account.clario.co
 kbill.mackeeper.com
 api-ne.mackeeper.com
 mkapi.mackeeper.com
-account.mackeeper.com
 updater.clario.co
+account.mackeeper.com
 mackeeper.com
 clario.co
 account.mackeeper.com
@@ -2282,11 +2283,11 @@ bridge-explorer.polygon.technology
 bridge-api.matic.network
 watchgod.polygon.technology
 mapper.polygon.technology
+portal.polygon.technology
+faucet.polygon.technology
 burn.polygon.technology
 staking-api.polygon.technology
 wallet.polygon.technology
-portal.polygon.technology
-faucet.polygon.technology
 wallet.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
@@ -2515,8 +2516,8 @@ updates.amazon.com
 *.aliyun-inc.com
 *.alibabacloud.com
 *.tmall.com
-*.alibaba-inc.com
 *.taobao.com
+*.alibaba-inc.com
 *.1688.com
 *.aliexpress.com
 *.Daraz.com
@@ -2798,8 +2799,8 @@ api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
-flyiin.com
 press.priceline.com
+flyiin.com
 www.bookingholdings.com
 www.priceline.com
 secure.rezserver.com
@@ -2993,15 +2994,15 @@ service.racing.fanduel.com
 4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
+mobile-prod.tvg.com
+pabets.tvg.com
+service.tvg.com
+promos.tvg.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
 login-ia.tvg.com
 m.4njbets.tvg.com
 login.tvg.com
-mobile-prod.tvg.com
-pabets.tvg.com
-service.tvg.com
-promos.tvg.com
 www.4njbets.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
@@ -3010,11 +3011,11 @@ ia.tvg.com
 sportsbook.fanduel.com
 tvg.com
 *.canada.fanduel.com
-*.numberfire.com
-fanduel.com
-com.fanduel.android.live
 fdbox.net
+com.fanduel.android.live
+fanduel.com
 www.tvg.com
+*.numberfire.com
 *racing.fanduel.com
 *.east.fdbox.net
 *.prod.fdbox.net
@@ -3066,10 +3067,10 @@ py.pl
 *.xoom.com
 api.swiftfinancial.com
 decision.swiftfinancial.com
-partner.swiftfinancial.com
 my.swiftfinancial.com
-scrutiny.swiftfinancial.com
+partner.swiftfinancial.com
 pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftfinancial.com
 swiftfinancial.com
 prequal.swiftfinancial.com
@@ -3342,8 +3343,8 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-*.beta.lahitapiola.fi
 ext-gw.lahitapiola.fi
+*.beta.lahitapiola.fi
 www.lahitapiola.fi
 *.lahitapiola.fi
 api.lahitapiola.fi
@@ -3575,8 +3576,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-www.starbucks.com.sg
 gift.starbucks.co.jp
+www.starbucks.com.sg
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.com
@@ -3653,8 +3654,8 @@ gist.github.com
 education.github.com
 npmjs.com
 *.githubusercontent.com
-classroom.github.com
 github.com
+classroom.github.com
 api.github.com
 github.com
 api.github.com
@@ -3699,10 +3700,10 @@ winecellar.zomato.com
 api.grofers.com
 blinkit.com
 api2.grofers.com
-*.hyperpure.com
 *.zomato.com
 *.zdev.net
 *.runnr.in
+*.hyperpure.com
 *.zomans.com
 *.zomato.com
 *.zdev.net
@@ -4038,9 +4039,9 @@ gravatar.com
 akismet.com
 intensedebate.com
 www.tumblr.com
-wordpress.com
 mailpoet.com
 *.tumblr.com
+wordpress.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
@@ -4154,10 +4155,10 @@ mta-sts.wearehackerone.com
 hackerone.live
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 reviewer.pullrequest.com
-app.pullrequest.com
-www.hackerone.com
 a5s.hackerone-ext-content.com
 api.hackerone.com
+app.pullrequest.com
+www.hackerone.com
 profile-photos.hackerone-user-content.com
 hackerone.com
 hackerone.com
@@ -4571,8 +4572,8 @@ api.greenhouse.io
 onboarding.greenhouse.io
 jss.greenhouse.io
 app.interseller.io
-www.greenhouse.io
 interseller.io
+www.greenhouse.io
 support.greenhouse.io
 app.greenhouse.io
 app.greenhouse.io
