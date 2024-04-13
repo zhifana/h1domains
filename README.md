@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Apr 13 21:16:05 UTC 2024)
+## Domains with Bounties (Last Updated Sat Apr 13 21:41:26 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -493,8 +493,8 @@ teleport.fareharbor.engineering
 paymentcomponent.booking.com
 spark.fareharbor.com
 flights.booking.com
-secure.booking.com
 account.booking.com
+secure.booking.com
 indicative-pricing.taxi.booking.com
 taxi.booking.com
 careers.booking.com
@@ -702,7 +702,6 @@ www.visa.co.jp
 bb.visa.com
 visa.co.ni
 www.visa.com.kz
-www.visainfinite.ca
 visa.com.au
 www.visa.co.nz
 www.cybersource.com
@@ -712,6 +711,7 @@ developer.authorize.net
 www.cardinalcommerce.com
 www.visa.com.tw
 www.visa.com.tr
+www.visa.com.hr
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -790,8 +790,8 @@ app.kolesa.kz
 app.krisha.kz
 m.kolesa.kz
 krisha.kz
-api.kolesa.kz
 kolesa.kz
+api.kolesa.kz
 id.kolesa.kz
 api.krisha.kz
 m.krisha.kz
@@ -820,8 +820,8 @@ lando.services.mozilla.com
 contile.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 crash-stats.allizom.org
-firefox.settings.services.mozilla.com
 merino.services.mozilla.com
+firefox.settings.services.mozilla.com
 aus5.mozilla.org
 firefox-ci-tc.services.mozilla.com
 addons.allizom.org
@@ -1084,8 +1084,8 @@ admin.8x8.com
 *.luckydays.ca
 *.superbet.pl
 *.luckydays.com
-*.superbet.rs
 *.superbet.ro
+*.superbet.rs
 *.superbet.com
 *.superbet.ro
 *.superbet.rs
@@ -1146,24 +1146,24 @@ www.expediaagents.com
 *.lastminute.co.nz
 www.fewo-direkt.de
 www.stayz.com.au
+www.expediagroup.com
 www.bookabach.co.nz
 www.abritel.fr
-www.expediagroup.com
 www.flights.com
 *.travelocity.ca
 www.expediapartnersolutions.com
 *.carrentals.com
 *.expediacruises.com
-*.wotif.com
 *.travelocity.com
+*.wotif.com
 *.expediapartnercentral.com
 www.hotels.com
 www.hotwirepartnercentral.com
 *.vrbo.com
 www.ebookers.com
 *.lastminute.com.au
-*.hotwire.com
 *.cheaptickets.com
+*.hotwire.com
 www.expedia.com
 *.vrbo.com
 *.hotwire.com
@@ -1645,9 +1645,9 @@ marketplace.fedramp.gov
 *.search.gov
 federalist.18f.gov
 federalist-docs.18f.gov
+cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
-ssh.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -2028,10 +2028,10 @@ shop.tiktok.com
 pay.tokopediax.com
 developers.tiktok.com
 www.pangleglobal.com
-academy-outbound-ads.tiktok.com
-effecthouse.tiktok.com
-live-backstage.tiktok.com
 careers.tiktok.com
+academy-outbound-ads.tiktok.com
+live-backstage.tiktok.com
+effecthouse.tiktok.com
 affiliate-id.tokopedia.com
 tiktok.com
 business.tiktok.com
@@ -2093,8 +2093,8 @@ api.figma.com
 www.figma.com
 www.figma.com
 api.figma.com
-support.cs.money
 3d.cs.money
+support.cs.money
 blog.cs.money
 wiki.cs.money
 cs.money
@@ -2828,9 +2828,9 @@ support.creditkarma.ca
 vault.omise.co
 api.omise.co
 offsite.omise.co
-www.omise.co
 www.opn.ooo
 dashboard.omise.co
+www.omise.co
 vault.omise.co
 api.omise.co
 dashboard.omise.co
@@ -2975,26 +2975,26 @@ grammarly.ai
 grammarly.ai
 *.east.fdbox.net
 *.mgmt.fndlsb.net
-*.prd.fndlsb.net
 *.prod.fdbox.net
+*.prd.fndlsb.net
 *inf.fndlsb.net
 *racing.fanduel.com
 4njbets.tvgnetwork.com
 b2b.tvgnetwork.com
 service.racing.fanduel.com
+4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
-4njbets.us.betfair.com
-mobile-prod.tvg.com
-m.4njbets.tvg.com
-pabets.tvg.com
-login.tvg.com
-www.4njbets.com
-service.tvg.com
-promos.tvg.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
 login-ia.tvg.com
+m.4njbets.tvg.com
+login.tvg.com
+mobile-prod.tvg.com
+pabets.tvg.com
+service.tvg.com
+promos.tvg.com
+www.4njbets.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
 sportsbook.fanduel.com
@@ -3002,10 +3002,10 @@ com.fanduel.android.live
 www.tvg.com
 fanduel.com
 *.canada.fanduel.com
-fdbox.net
 tvg.com
 us.tvg.com
 ia.tvg.com
+fdbox.net
 *.numberfire.com
 *racing.fanduel.com
 *.east.fdbox.net
@@ -3334,10 +3334,10 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-ext-gw.lahitapiola.fi
 *.beta.lahitapiola.fi
-*.lahitapiola.fi
+ext-gw.lahitapiola.fi
 api.lahitapiola.fi
+*.lahitapiola.fi
 www.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
@@ -3567,8 +3567,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-www.starbucks.com.sg
 gift.starbucks.co.jp
+www.starbucks.com.sg
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.com
@@ -3692,8 +3692,8 @@ api.grofers.com
 api2.grofers.com
 *.zdev.net
 *.runnr.in
-blinkit.com
 *.hyperpure.com
+blinkit.com
 *.zomans.com
 *.zomato.com
 *.zomato.com
@@ -3795,9 +3795,9 @@ arrive-server.shopifycloud.com
 shopifyinbox.com
 *.shopifycloud.com
 linkpop.com
-your-store.myshopify.com
 accounts.shopify.com
 shop.app
+your-store.myshopify.com
 *.shopify.io
 *.shopifykloud.com
 *.shopifycs.com
@@ -3919,8 +3919,8 @@ callbacks.airbnb.com
 *.byairbnb.com
 *.airbnb-aws.com
 *.luxuryretreats.com
-support-api.airbnb.com
 *.airbnbcitizen.com
+support-api.airbnb.com
 next.airbnb.com
 api.airbnb.com
 *.muscache.com
@@ -4030,8 +4030,8 @@ akismet.com
 intensedebate.com
 www.tumblr.com
 wordpress.com
-*.tumblr.com
 mailpoet.com
+*.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
