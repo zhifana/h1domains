@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Apr 13 14:40:58 UTC 2024)
+## Domains with Bounties (Last Updated Sat Apr 13 15:15:43 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -18,11 +18,11 @@ api.dyson.ch
 api.dyson.fr
 api.dyson.ie
 shop.dyson.ru
-www.dyson.my
 www.dyson.fr
 api.fi.dyson.com
 www.dyson.co.th
 www.dyson.it
+www.dyson.de
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -306,8 +306,8 @@ api.remitly.io
 app3.rewire.to
 *.int.remitly.com
 rates.rewire.com
-rewire.com
 app.rewire.to
+rewire.com
 remitly.com
 *.int.remitly.com
 *.dev.remitly.com
@@ -445,9 +445,9 @@ www.mercadolibre.com.uy
 www.mercadolibre.com.co
 www.mercadolibre.com.mx
 www.mercadopago.com.co
-www.mercadopago.com.br
 www.mercadopago.com.mx
 www.mercadopago.cl
+www.mercadopago.com.br
 www.mercadopago.com.ar
 www.mercadolivre.com.br
 api.mercadolibre.com
@@ -694,12 +694,12 @@ visa.co.za
 www.fraedom.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
+bd.visa.com
+www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
-www.practicalmoneyskills.com
-bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visainfinite.ca
@@ -790,8 +790,8 @@ app.kolesa.kz
 app.krisha.kz
 m.kolesa.kz
 krisha.kz
-api.kolesa.kz
 kolesa.kz
+api.kolesa.kz
 id.kolesa.kz
 api.krisha.kz
 m.krisha.kz
@@ -821,8 +821,8 @@ lando.services.mozilla.com
 contile.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 crash-stats.allizom.org
-merino.services.mozilla.com
 firefox.settings.services.mozilla.com
+merino.services.mozilla.com
 aus5.mozilla.org
 firefox-ci-tc.services.mozilla.com
 addons.allizom.org
@@ -916,13 +916,13 @@ auth.indrive.tech
 injob.indriver.com
 ab-platform-api.eu-east-1.indriverapp.com
 volans.tech
-truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
+truck-api.eu-east-1.indriverapp.com
 *.indriver.com
 watchdocs.indriverapp.com
 wga.volans.tech
-*.indrive.com
 cargo.indrive.com
+*.indrive.com
 *.indriverapp.com
 *.indriverapp.com
 *.indrive.com
@@ -950,8 +950,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.mobi
 *.grindr.io
-*.grindr.com
 web.grindr.com
+*.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1036,11 +1036,11 @@ pay.8x8.com
 work.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
-platform.8x8pilot.com
-*.chalet.8x8.com
-*.8x8.id
 user-profile.8x8.com
 voapi.8x8.com
+*.8x8.id
+platform.8x8pilot.com
+*.chalet.8x8.com
 cloud8.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
@@ -1270,8 +1270,8 @@ checksw.com
 royal.checksw.com
 *.superpal.io/*
 *.superpal.com/*
-*.cornershopapp.com/*
 *.cornershop.io/*
+*.cornershopapp.com/*
 *.cornershopapp.com/*
 *.superpal.com/*
 *.cornershop.io/*
@@ -1315,9 +1315,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.simpletax.ca
 www.cheapflights.com
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 www.momondo.com
 business.kayak.com
 www.hotelscombined.com
@@ -1645,9 +1645,9 @@ marketplace.fedramp.gov
 *.search.gov
 federalist.18f.gov
 federalist-docs.18f.gov
+cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
-ssh.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1768,9 +1768,9 @@ sh.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
+new.reddit.com
 old.reddit.com
 *.redditmedia.com
-new.reddit.com
 *.reddithelp.com
 matrix.redditspace.com
 ads.reddit.com
@@ -1840,8 +1840,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-www.chime.com
 wp-qa.chime.com
+www.chime.com
 *.chimebank.com
 *.chime.com
 *.1debit.com
@@ -2029,12 +2029,12 @@ pay.tokopediax.com
 shop-id.tokopedia.com
 developers.tiktok.com
 www.pangleglobal.com
-careers.tiktok.com
 academy-outbound-ads.tiktok.com
-live-backstage.tiktok.com
 effecthouse.tiktok.com
-tiktok.com
+live-backstage.tiktok.com
+careers.tiktok.com
 affiliate-id.tokopedia.com
+tiktok.com
 business.tiktok.com
 *.tiktokv.com
 fp-sg.tiktokv.com
@@ -2093,8 +2093,8 @@ api.figma.com
 www.figma.com
 www.figma.com
 api.figma.com
-3d.cs.money
 support.cs.money
+3d.cs.money
 blog.cs.money
 wiki.cs.money
 cs.money
@@ -2516,14 +2516,14 @@ updates.amazon.com
 *.aliexpress.ru
 *.aliyun-inc.com
 *.tmall.com
-*.alibaba-inc.com
 *.taobao.com
+*.alibaba-inc.com
 *.alibabacloud.com
-*.aliexpress.com
 *.alimama.com
+*.aliexpress.com
 *.1688.com
-www.alibabagroup.com
 *.aliyun.com
+www.alibabagroup.com
 *.Daraz.com
 *.alibaba.com
 *.alibaba.com
@@ -2967,8 +2967,8 @@ www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
 *.grammarly.io
-*.grammarly.com
 *.grammarlyaws.com
+*.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -2985,18 +2985,18 @@ service.racing.fanduel.com
 4njbets.tvg.com
 4njbets.com
 4njbets.us.betfair.com
+login-4njbets.us.betfair.com
+login-pabets.tvg.com
 mobile-prod.tvg.com
+login-ia.tvg.com
 m.4njbets.tvg.com
 pabets.tvg.com
 login.tvg.com
-www.4njbets.com
-service.tvg.com
-promos.tvg.com
-login-4njbets.us.betfair.com
-login-pabets.tvg.com
-login-ia.tvg.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
+service.tvg.com
+promos.tvg.com
+www.4njbets.com
 sportsbook.fanduel.com
 com.fanduel.android.live
 www.tvg.com
@@ -3377,9 +3377,9 @@ manage.grab.co
 *.myteksi.net
 *.taralite.com
 api.grabpay.com
-*.grabpay.com
 kartaview.org
 *.myteksi.com
+*.grabpay.com
 jira.grab.com
 xtramile.grabpay.com
 gifts.grab.com
@@ -3387,9 +3387,9 @@ grab.careers
 *.grab-sure.com
 wiki.grab.com
 *.ovo.id
-*.grab.co
 *.grabtaxi.com
 *.grab.com
+*.grab.co
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3692,8 +3692,8 @@ api.grofers.com
 api2.grofers.com
 *.zdev.net
 *.runnr.in
-*.hyperpure.com
 blinkit.com
+*.hyperpure.com
 *.zomans.com
 *.zomato.com
 *.zomato.com
@@ -3991,8 +3991,8 @@ api.x.ai
 ide.x.ai
 grok.x.ai
 *.twimg.com
-*.twitter.com
 x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4030,8 +4030,8 @@ akismet.com
 intensedebate.com
 www.tumblr.com
 wordpress.com
-*.tumblr.com
 mailpoet.com
+*.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
@@ -4146,8 +4146,8 @@ hackerone.live
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 reviewer.pullrequest.com
 a5s.hackerone-ext-content.com
-app.pullrequest.com
 profile-photos.hackerone-user-content.com
+app.pullrequest.com
 api.hackerone.com
 www.hackerone.com
 hackerone.com
@@ -4571,8 +4571,8 @@ api.greenhouse.io
 onboarding.greenhouse.io
 jss.greenhouse.io
 app.interseller.io
-www.greenhouse.io
 interseller.io
+www.greenhouse.io
 support.greenhouse.io
 app.greenhouse.io
 app.greenhouse.io
