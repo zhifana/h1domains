@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Apr 13 18:18:40 UTC 2024)
+## Domains with Bounties (Last Updated Sat Apr 13 18:41:25 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -18,11 +18,11 @@ api.dyson.ch
 api.dyson.fr
 api.dyson.ie
 shop.dyson.ru
+www.dyson.my
 www.dyson.fr
 api.fi.dyson.com
 www.dyson.co.th
 www.dyson.it
-www.dyson.de
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -446,8 +446,8 @@ www.mercadolibre.com.co
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.br
-www.mercadopago.com.mx
 www.mercadopago.cl
+www.mercadopago.com.mx
 www.mercadopago.com.ar
 www.mercadolivre.com.br
 api.mercadolibre.com
@@ -493,8 +493,8 @@ teleport.fareharbor.engineering
 paymentcomponent.booking.com
 spark.fareharbor.com
 flights.booking.com
-account.booking.com
 secure.booking.com
+account.booking.com
 indicative-pricing.taxi.booking.com
 taxi.booking.com
 careers.booking.com
@@ -921,8 +921,8 @@ new-order.eu-east-1.indriverapp.com
 *.indriver.com
 watchdocs.indriverapp.com
 wga.volans.tech
-cargo.indrive.com
 *.indrive.com
+cargo.indrive.com
 *.indriverapp.com
 *.indriverapp.com
 *.indrive.com
@@ -950,8 +950,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.mobi
 *.grindr.io
-web.grindr.com
 *.grindr.com
+web.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1036,11 +1036,11 @@ pay.8x8.com
 work.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
+user-profile.8x8.com
+voapi.8x8.com
+*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
-*.8x8.id
-voapi.8x8.com
-user-profile.8x8.com
 cloud8.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
@@ -1084,8 +1084,8 @@ admin.8x8.com
 *.luckydays.ca
 *.superbet.pl
 *.luckydays.com
-*.superbet.ro
 *.superbet.rs
+*.superbet.ro
 *.superbet.com
 *.superbet.ro
 *.superbet.rs
@@ -1315,9 +1315,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.simpletax.ca
 www.cheapflights.com
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 www.momondo.com
 business.kayak.com
 www.hotelscombined.com
@@ -1343,9 +1343,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
+api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
-api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1841,8 +1841,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-wp-qa.chime.com
 www.chime.com
+wp-qa.chime.com
 *.chimebank.com
 *.chime.com
 *.1debit.com
@@ -2032,8 +2032,8 @@ developers.tiktok.com
 www.pangleglobal.com
 careers.tiktok.com
 academy-outbound-ads.tiktok.com
-live-backstage.tiktok.com
 effecthouse.tiktok.com
+live-backstage.tiktok.com
 affiliate-id.tokopedia.com
 tiktok.com
 business.tiktok.com
@@ -2231,8 +2231,8 @@ api.account.clario.co
 kbill.mackeeper.com
 api-ne.mackeeper.com
 mkapi.mackeeper.com
-account.mackeeper.com
 updater.clario.co
+account.mackeeper.com
 mackeeper.com
 clario.co
 account.mackeeper.com
@@ -2517,11 +2517,11 @@ updates.amazon.com
 *.aliexpress.ru
 *.aliyun-inc.com
 *.tmall.com
-*.taobao.com
 *.alibaba-inc.com
-*.alimama.com
+*.taobao.com
 *.alibabacloud.com
 *.aliexpress.com
+*.alimama.com
 *.1688.com
 www.alibabagroup.com
 *.aliyun.com
@@ -2976,28 +2976,28 @@ grammarly.ai
 grammarly.ai
 *.east.fdbox.net
 *.mgmt.fndlsb.net
-*.prd.fndlsb.net
 *.prod.fdbox.net
+*.prd.fndlsb.net
 *inf.fndlsb.net
 *racing.fanduel.com
 4njbets.tvgnetwork.com
 b2b.tvgnetwork.com
 service.racing.fanduel.com
+4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
-4njbets.us.betfair.com
-login-4njbets.us.betfair.com
-login-pabets.tvg.com
 mobile-prod.tvg.com
-login-ia.tvg.com
-m.4njbets.tvg.com
 pabets.tvg.com
-login.tvg.com
-login-4ngbets.us.betfair.com
-login.pabets.tvg.com
 service.tvg.com
 promos.tvg.com
+login-4njbets.us.betfair.com
+login-pabets.tvg.com
+login-ia.tvg.com
+m.4njbets.tvg.com
+login.tvg.com
 www.4njbets.com
+login-4ngbets.us.betfair.com
+login.pabets.tvg.com
 sportsbook.fanduel.com
 com.fanduel.android.live
 www.tvg.com
@@ -3056,10 +3056,10 @@ py.pl
 *.venmo.com
 api.swiftfinancial.com
 decision.swiftfinancial.com
-my.swiftfinancial.com
 partner.swiftfinancial.com
-pigeon.swiftfinancial.com
+my.swiftfinancial.com
 scrutiny.swiftfinancial.com
+pigeon.swiftfinancial.com
 www.swiftfinancial.com
 swiftfinancial.com
 prequal.swiftfinancial.com
@@ -3309,8 +3309,8 @@ hybrid-analysis.com
 *.preemptsecurity.com
 *.reposify.com
 *.humio.com
-*.crowdstrike.com
 www.crowdstrike.com
+*.crowdstrike.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3444,12 +3444,12 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.tospotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
+*.tospotify.com
 backstage.io
 *.byspotify.com
 assets.spotify.com
@@ -3646,8 +3646,8 @@ gist.github.com
 education.github.com
 *.githubusercontent.com
 classroom.github.com
-npmjs.com
 api.github.com
+npmjs.com
 github.com
 github.com
 api.github.com
@@ -3920,8 +3920,8 @@ callbacks.airbnb.com
 *.byairbnb.com
 *.airbnb-aws.com
 *.luxuryretreats.com
-*.airbnbcitizen.com
 support-api.airbnb.com
+*.airbnbcitizen.com
 next.airbnb.com
 api.airbnb.com
 *.muscache.com
@@ -4072,9 +4072,9 @@ pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
 international.coinbase.com
-*.base.org
 institutional.coinbase.com
 nft.coinbase.com
+*.base.org
 api.custody.coinbase.com
 api.coinbase.com
 cloud.coinbase.com
