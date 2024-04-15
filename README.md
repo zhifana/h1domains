@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr 15 19:40:32 UTC 2024)
+## Domains with Bounties (Last Updated Mon Apr 15 20:19:05 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -304,11 +304,11 @@ cards.remitly.io
 *.dev.remitly.com
 api.remitly.io
 app3.rewire.to
-rewire.com
 rates.rewire.com
 *.int.remitly.com
 app.rewire.to
 remitly.com
+rewire.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -405,8 +405,8 @@ logo.zyro.com
 www.zyro.com
 *.000webhost.com
 backend.zyro.com
-www.hostinger.com
 hpanel.hostinger.com
+www.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -445,15 +445,15 @@ www.mercadolibre.com.uy
 www.mercadolibre.com.co
 www.mercadolibre.com.mx
 www.mercadopago.com.co
-www.mercadopago.com.mx
 www.mercadopago.cl
-www.mercadopago.com.ar
+www.mercadopago.com.mx
 www.mercadolibre.cl
 www.mercadopago.com.br
 api.mercadopago.com
 www.mercadolivre.com.br
 www.mercadolibre.com.ar
 api.mercadolibre.com
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -489,9 +489,9 @@ portal.taxi.booking.com
 secure-supply-xml.booking.com
 cars.booking.com
 kyc-onboarding.booking.com
-spark.fareharbor.com
 teleport.fareharbor.engineering
 paymentcomponent.booking.com
+spark.fareharbor.com
 flights.booking.com
 indicative-pricing.taxi.booking.com
 taxi.booking.com
@@ -502,8 +502,8 @@ booking.com
 admin.booking.com
 *.booking.com
 secure.booking.com
-account.booking.com
 www.fareharbor.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -779,8 +779,8 @@ developer.visa.com
 yourdomain.freshcaller.com
 yourdomain.freshdesk.com
 yourdomain.freshchat.com
-yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -826,7 +826,6 @@ sync.services.mozilla.com
 aus5.mozilla.org
 hg.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
-phabricator.allizom.org
 push.services.mozilla.com
 developer.mozilla.org
 shavar.services.mozilla.com
@@ -837,6 +836,7 @@ monitor.mozilla.org
 bugzilla.mozilla.org
 firefox-ci-tc.services.mozilla.com
 www.mozilla.org
+phabricator.allizom.org
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
@@ -912,7 +912,6 @@ auth2.indrive.tech
 argocd.indrive.dev
 super-services.indriverapp.com
 auth.indrive.tech
-ab-platform-api.eu-east-1.indriverapp.com
 volans.tech
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -924,6 +923,7 @@ injob.indriver.com
 *.indriver.com
 cargo.indrive.com
 *.indrive.com
+ab-platform-api.eu-east-1.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1042,8 +1042,8 @@ platform.8x8pilot.com
 voapi.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
-sso.8x8pilot.com
 platform.8x8.com
+sso.8x8pilot.com
 *.8x8cloud.net
 admin.8x8.com
 *.wavecell.com
@@ -1145,11 +1145,11 @@ www.ebookers.fi
 www.mrjet.se
 www.expediaagents.com
 *.lastminute.co.nz
-www.fewo-direkt.de
 www.stayz.com.au
-www.expediagroup.com
+www.fewo-direkt.de
 www.bookabach.co.nz
 www.abritel.fr
+www.expediagroup.com
 www.flights.com
 *.travelocity.ca
 www.expediapartnersolutions.com
@@ -1316,9 +1316,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.simpletax.ca
 www.cheapflights.com
-www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
+www.swoodoo.com
 www.momondo.com
 business.kayak.com
 www.hotelscombined.com
@@ -1646,9 +1646,10 @@ marketplace.fedramp.gov
 *.search.gov
 federalist.18f.gov
 federalist-docs.18f.gov
-cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
+ssh.fr.cloud.gov
+cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1769,9 +1770,9 @@ sh.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
+new.reddit.com
 old.reddit.com
 *.redditmedia.com
-new.reddit.com
 *.reddithelp.com
 matrix.redditspace.com
 mod.reddit.com
@@ -1872,8 +1873,8 @@ app.launchdarkly.com
 events.launchdarkly.com
 stream.launchdarkly.com
 docs.launchdarkly.com
-*.fetlife.com
 fetlife.com
+*.fetlife.com
 *.fetlife.com
 fetlife.com
 api.bitso.com
@@ -2034,15 +2035,15 @@ creatormarketplace.tiktok.com
 shop-id.tokopedia.com
 live-backstage.tiktok.com
 effecthouse.tiktok.com
-academy-outbound-ads.tiktok.com
-*.tiktok.com
-business.tiktok.com
 developers.tiktok.com
 careers.tiktok.com
 tiktok.com
 seller-id.tokopedia.com
-ads.tiktok.com
+academy-outbound-ads.tiktok.com
+*.tiktok.com
+business.tiktok.com
 partner.tiktokshop.com
+ads.tiktok.com
 *.tiktokv.com
 *.tiktok.com
 business.tiktok.com
@@ -2259,8 +2260,8 @@ direct.playstation.com
 api.direct.playstation.com
 social.playstation.com
 wallets.api.playstation.com
-transact.playstation.com
 my.playstation.com
+transact.playstation.com
 my.account.sony.com
 *.api.playstation.com
 store.playstation.com
@@ -2522,8 +2523,8 @@ updates.amazon.com
 *.alibaba.com
 *.alibabacloud.com
 *.1688.com
-*.taobao.com
 www.alibabagroup.com
+*.taobao.com
 *.aliexpress.com
 *.Daraz.com
 *.aliyun.com
@@ -2802,7 +2803,7 @@ admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
 secure.rezserver.com
-cruises.priceline.com
+priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3003,11 +3004,11 @@ www.tvg.com
 fanduel.com
 *.canada.fanduel.com
 tvg.com
-ia.tvg.com
 sportsbook.fanduel.com
 us.tvg.com
 fdbox.net
 *.numberfire.com
+ia.tvg.com
 *racing.fanduel.com
 *.east.fdbox.net
 *.prod.fdbox.net
@@ -3055,10 +3056,10 @@ py.pl
 *.hyperwallet.com
 api.swiftfinancial.com
 decision.swiftfinancial.com
-partner.swiftfinancial.com
 my.swiftfinancial.com
-scrutiny.swiftfinancial.com
+partner.swiftfinancial.com
 pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftfinancial.com
 swiftfinancial.com
 prequal.swiftfinancial.com
@@ -3068,15 +3069,15 @@ www.loanbuilder.com
 www.swiftcapital.com
 swiftcapital.com
 paypalobjects.com
+*.venmo.com
 *.xoom.com
 *.braintreegateway.com
-*.braintreepayments.com
-*.venmo.com
 sandbox.braintreegateway.com
 loanbuilder.com
 *.paypalcorp.com
 *.braintree-api.com
 *.paypal.com
+*.braintreepayments.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3377,17 +3378,17 @@ gamma.grab.co
 manage.grab.co
 *.taralite.com
 api.grabpay.com
-*.grabpay.com
 kartaview.org
 *.myteksi.com
+*.grabpay.com
 jira.grab.com
 xtramile.grabpay.com
 gifts.grab.com
 grab.careers
 *.grab-sure.com
 *.ovo.id
-*.grab.co
 *.grabtaxi.com
+*.grab.co
 wiki.grab.com
 *.myteksi.net
 *.grab.com
@@ -3444,11 +3445,11 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.atspotify.com
 *.avecspotify.com
+*.atspotify.com
 *.enspotify.com
-*.forspotify.com
 *.fromspotify.com
+*.forspotify.com
 *.tospotify.com
 backstage.io
 *.byspotify.com
@@ -3568,8 +3569,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-www.starbucks.com.sg
 gift.starbucks.co.jp
+www.starbucks.com.sg
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3608,8 +3609,8 @@ ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
-search.brave.com
 talk.brave.com
+search.brave.com
 brave.com
 brave.com
 basicattentiontoken.org
@@ -3645,10 +3646,10 @@ npmjs.org
 gist.github.com
 education.github.com
 *.githubusercontent.com
-github.com
 api.github.com
 classroom.github.com
 npmjs.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3767,7 +3768,6 @@ shopifyinbox.com
 accounts.shopify.com
 *.shopify.com
 shop.app
-your-store.myshopify.com
 linkpop.com
 partners.shopify.com
 admin.shopify.com
@@ -3775,6 +3775,7 @@ arrive-server.shopifycloud.com
 *.shopifykloud.com
 *.shopify.io
 *.shopifycs.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3897,9 +3898,9 @@ www.hoteltonight.com
 *.hoteltonight-test.com
 *.withairbnb.com
 *.airbnb.com
-*.airbnb-aws.com
 assets.airbnb.com
 www.airbnb.com
+*.airbnb-aws.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4047,11 +4048,11 @@ international.coinbase.com
 institutional.coinbase.com
 api.custody.coinbase.com
 api.coinbase.com
-*.coinbase.com
 coinbase.com
-cloud.coinbase.com
 commerce.coinbase.com
 nft.coinbase.com
+*.coinbase.com
+cloud.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
