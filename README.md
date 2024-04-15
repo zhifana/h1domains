@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr 15 20:41:54 UTC 2024)
+## Domains with Bounties (Last Updated Mon Apr 15 21:19:13 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -307,8 +307,8 @@ app3.rewire.to
 rates.rewire.com
 *.int.remitly.com
 remitly.com
-rewire.com
 app.rewire.to
+rewire.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -323,9 +323,9 @@ app3.rewire.to
 *.toolsforhumanity.com
 getworldcoin.com
 bioid-management.app
-*.consumer.worldcoin.org
 *.worldcoin.org
 worldcoin.org
+*.consumer.worldcoin.org
 toolsforhumanity.com
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -352,8 +352,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 cdn.arkoselabs.com
 demo.arkoselabs.com
-www.arkoselabs.com
 portal.arkoselabs.com
+www.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
@@ -426,8 +426,8 @@ mediacenter.23andme.com
 therapeutics.23andme.com
 auth.23andme.com
 api.23andme.com
-medical.23andme.com
 you.23andme.com
+medical.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -489,9 +489,9 @@ portal.taxi.booking.com
 secure-supply-xml.booking.com
 cars.booking.com
 kyc-onboarding.booking.com
+spark.fareharbor.com
 teleport.fareharbor.engineering
 paymentcomponent.booking.com
-spark.fareharbor.com
 flights.booking.com
 indicative-pricing.taxi.booking.com
 taxi.booking.com
@@ -817,13 +817,13 @@ profiler.firefox.com
 crash-reports.allizom.org
 lando.services.mozilla.com
 contile.services.mozilla.com
-crash-stats.allizom.org
 mozilla-pontoon-staging.herokuapp.com
-merino.services.mozilla.com
+crash-stats.allizom.org
 firefox.settings.services.mozilla.com
+merino.services.mozilla.com
+aus5.mozilla.org
 addons.allizom.org
 sync.services.mozilla.com
-aus5.mozilla.org
 hg.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 push.services.mozilla.com
@@ -879,9 +879,9 @@ hiltonlocalbiz.com
 hiltonhotels.jp
 *.hilton.io
 hilton.io
+*.hiltonbusinessonline.com
 *.hilton.com
 hilton.com
-*.hiltonbusinessonline.com
 *.hilton.com
 *.hilton.io
 *.hiltonbusinessonline.com
@@ -1036,10 +1036,10 @@ pay.8x8.com
 work.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
-voapi.8x8.com
-*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
+*.8x8.id
+voapi.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
 platform.8x8.com
@@ -1048,8 +1048,8 @@ sso.8x8pilot.com
 admin.8x8.com
 *.wavecell.com
 *.jit.si
+*.packet8.net
 *.jitsi.net
-sso.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1084,8 +1084,8 @@ admin.8x8.com
 *.napoleonsports.be
 *.superbet.pl
 *.luckydays.com
-*.superbet.ro
 *.superbet.rs
+*.superbet.ro
 *.superbet.com
 *.luckydays.ca
 *.superbet.ro
@@ -1646,9 +1646,10 @@ marketplace.fedramp.gov
 *.search.gov
 federalist.18f.gov
 federalist-docs.18f.gov
-cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
+ssh.fr.cloud.gov
+cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1770,7 +1771,6 @@ redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
-*.redditmedia.com
 new.reddit.com
 *.reddithelp.com
 matrix.redditspace.com
@@ -1778,13 +1778,14 @@ mod.reddit.com
 *.snooguts.net
 api.reddit.com
 ads-api.reddit.com
-gql.reddit.com
 oauth.reddit.com
+gql.reddit.com
 ads.reddit.com
 *.reddit.com
 *.redditinc.com
 accounts.reddit.com
 www.reddit.com
+*.redditmedia.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2522,8 +2523,8 @@ updates.amazon.com
 *.alibaba.com
 *.alibabacloud.com
 *.1688.com
-*.taobao.com
 www.alibabagroup.com
+*.taobao.com
 *.aliexpress.com
 *.Daraz.com
 *.aliyun.com
@@ -2610,8 +2611,8 @@ all-inclusive.marriott.com
 careers.marriott.com
 www.ritzcarlton.com
 marrtool.com
-www.marriott.com
 traveler.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2802,7 +2803,7 @@ admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
 secure.rezserver.com
-priceline.com
+cruises.priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3222,8 +3223,8 @@ developer.valvesoftware.com
 support.steampowered.com
 partner.steampowered.com
 playartifact.com
-api.steampowered.com
 help.steampowered.com
+api.steampowered.com
 www.counter-strike.net
 www.dota2.com
 www.teamfortress.com
@@ -3249,9 +3250,9 @@ js.crypto.com
 pay.crypto.com
 app.mona.co
 tax.crypto.com
-auth.crypto.com
 merchant.crypto.com
 *.crypto.com
+auth.crypto.com
 www.crypto.com
 *.crypto.com
 *.mona.co
@@ -3377,12 +3378,12 @@ gamma.grab.co
 manage.grab.co
 *.taralite.com
 api.grabpay.com
-*.grabpay.com
 kartaview.org
 *.myteksi.com
+*.grabpay.com
 jira.grab.com
-xtramile.grabpay.com
 gifts.grab.com
+xtramile.grabpay.com
 grab.careers
 *.grab-sure.com
 *.ovo.id
@@ -3444,12 +3445,12 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.atspotify.com
 *.avecspotify.com
+*.atspotify.com
 *.enspotify.com
-*.forspotify.com
-*.fromspotify.com
 *.tospotify.com
+*.fromspotify.com
+*.forspotify.com
 backstage.io
 *.byspotify.com
 assets.spotify.com
@@ -3608,8 +3609,8 @@ ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
-talk.brave.com
 search.brave.com
+talk.brave.com
 brave.com
 brave.com
 basicattentiontoken.org
@@ -3645,10 +3646,10 @@ npmjs.org
 gist.github.com
 education.github.com
 *.githubusercontent.com
-classroom.github.com
 npmjs.com
 api.github.com
 github.com
+classroom.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3769,10 +3770,10 @@ accounts.shopify.com
 shop.app
 linkpop.com
 partners.shopify.com
+*.shopifykloud.com
+*.shopifycs.com
 arrive-server.shopifycloud.com
 *.shopify.io
-*.shopifycs.com
-*.shopifykloud.com
 your-store.myshopify.com
 admin.shopify.com
 *.shopifycs.com
