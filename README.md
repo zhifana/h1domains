@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr 15 18:43:25 UTC 2024)
+## Domains with Bounties (Last Updated Mon Apr 15 19:18:01 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -18,11 +18,11 @@ api.dyson.ch
 api.dyson.fr
 api.dyson.ie
 shop.dyson.ru
-www.dyson.my
 www.dyson.fr
 api.fi.dyson.com
 www.dyson.co.th
 www.dyson.it
+www.dyson.de
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -352,8 +352,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 cdn.arkoselabs.com
 demo.arkoselabs.com
-www.arkoselabs.com
 portal.arkoselabs.com
+www.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
@@ -367,8 +367,8 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.pornworld.com
-www.analvids.com
 www.ddfcontent.com
+www.analvids.com
 www.pornbox.com
 www.pornbox.com
 www.analvids.com
@@ -405,8 +405,8 @@ logo.zyro.com
 www.zyro.com
 *.000webhost.com
 backend.zyro.com
-www.hostinger.com
 hpanel.hostinger.com
+www.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -499,11 +499,11 @@ careers.booking.com
 www.fareharbor.com
 widget.rentalcars.com
 *.rentalcars.com
-account.booking.com
-secure.booking.com
 booking.com
 admin.booking.com
 *.booking.com
+account.booking.com
+secure.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -711,7 +711,7 @@ www.cardinalcommerce.com
 www.visa.com.tw
 www.visa.com.tr
 www.visa.com.hr
-www.yellowpepper.com
+www.tink.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -1084,8 +1084,8 @@ admin.8x8.com
 *.napoleonsports.be
 *.superbet.pl
 *.luckydays.com
-*.superbet.ro
 *.superbet.rs
+*.superbet.ro
 *.superbet.com
 *.luckydays.ca
 *.superbet.ro
@@ -1147,9 +1147,9 @@ www.expediaagents.com
 *.lastminute.co.nz
 www.fewo-direkt.de
 www.stayz.com.au
+www.expediagroup.com
 www.bookabach.co.nz
 www.abritel.fr
-www.expediagroup.com
 www.flights.com
 *.travelocity.ca
 www.expediapartnersolutions.com
@@ -1271,8 +1271,8 @@ checksw.com
 royal.checksw.com
 *.superpal.io/*
 *.superpal.com/*
-*.cornershop.io/*
 *.cornershopapp.com/*
+*.cornershop.io/*
 *.cornershopapp.com/*
 *.superpal.com/*
 *.cornershop.io/*
@@ -1316,9 +1316,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.simpletax.ca
 www.cheapflights.com
-www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
+www.swoodoo.com
 www.momondo.com
 business.kayak.com
 www.hotelscombined.com
@@ -1344,9 +1344,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
-api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
+api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1646,9 +1646,9 @@ marketplace.fedramp.gov
 *.search.gov
 federalist.18f.gov
 federalist-docs.18f.gov
+cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
-ssh.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1872,8 +1872,8 @@ app.launchdarkly.com
 events.launchdarkly.com
 stream.launchdarkly.com
 docs.launchdarkly.com
-*.fetlife.com
 fetlife.com
+*.fetlife.com
 *.fetlife.com
 fetlife.com
 api.bitso.com
@@ -2034,15 +2034,15 @@ creatormarketplace.tiktok.com
 shop-id.tokopedia.com
 live-backstage.tiktok.com
 effecthouse.tiktok.com
-academy-outbound-ads.tiktok.com
-business.tiktok.com
-*.tiktok.com
+developers.tiktok.com
 careers.tiktok.com
 tiktok.com
-developers.tiktok.com
 seller-id.tokopedia.com
-ads.tiktok.com
+academy-outbound-ads.tiktok.com
+*.tiktok.com
+business.tiktok.com
 partner.tiktokshop.com
+ads.tiktok.com
 *.tiktokv.com
 *.tiktok.com
 business.tiktok.com
@@ -2645,8 +2645,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2976,26 +2976,26 @@ grammarly.ai
 grammarly.ai
 *.east.fdbox.net
 *.mgmt.fndlsb.net
-*.prod.fdbox.net
 *.prd.fndlsb.net
+*.prod.fdbox.net
 *inf.fndlsb.net
 *racing.fanduel.com
 4njbets.tvgnetwork.com
 b2b.tvgnetwork.com
 service.racing.fanduel.com
-4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
+4njbets.us.betfair.com
 mobile-prod.tvg.com
+m.4njbets.tvg.com
 pabets.tvg.com
+login.tvg.com
+www.4njbets.com
 service.tvg.com
 promos.tvg.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
 login-ia.tvg.com
-m.4njbets.tvg.com
-login.tvg.com
-www.4njbets.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
 com.fanduel.android.live
@@ -3053,30 +3053,30 @@ py.pl
 *.braintree.tools
 *.paylution.com
 *.hyperwallet.com
-my.swiftfinancial.com
-swiftfinancial.com
-prequal.swiftfinancial.com
-www.swiftcapital.com
-swiftcapital.com
-partner.swiftfinancial.com
-pigeon.swiftfinancial.com
+api.swiftfinancial.com
 scrutiny.swiftfinancial.com
 www.swiftfinancial.com
+swiftfinancial.com
+www.swiftcapital.com
+swiftcapital.com
+decision.swiftfinancial.com
+partner.swiftfinancial.com
+my.swiftfinancial.com
+pigeon.swiftfinancial.com
+prequal.swiftfinancial.com
 api.loanbuilder.com
 my.loanbuilder.com
 www.loanbuilder.com
-api.swiftfinancial.com
-decision.swiftfinancial.com
 paypalobjects.com
 *.xoom.com
 *.braintreegateway.com
 *.venmo.com
 *.braintreepayments.com
 sandbox.braintreegateway.com
-*.braintree-api.com
-*.paypalcorp.com
 loanbuilder.com
 *.paypal.com
+*.paypalcorp.com
+*.braintree-api.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3249,9 +3249,9 @@ js.crypto.com
 pay.crypto.com
 app.mona.co
 tax.crypto.com
-auth.crypto.com
 merchant.crypto.com
 *.crypto.com
+auth.crypto.com
 www.crypto.com
 *.crypto.com
 *.mona.co
@@ -3335,11 +3335,11 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-*.beta.lahitapiola.fi
 ext-gw.lahitapiola.fi
-www.lahitapiola.fi
-api.lahitapiola.fi
+*.beta.lahitapiola.fi
 *.lahitapiola.fi
+api.lahitapiola.fi
+www.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3377,17 +3377,17 @@ gamma.grab.co
 manage.grab.co
 *.taralite.com
 api.grabpay.com
+*.grabpay.com
 kartaview.org
 *.myteksi.com
-*.grabpay.com
 jira.grab.com
-gifts.grab.com
 xtramile.grabpay.com
+gifts.grab.com
 grab.careers
 *.grab-sure.com
 *.ovo.id
-*.grabtaxi.com
 *.grab.co
+*.grabtaxi.com
 wiki.grab.com
 *.myteksi.net
 *.grab.com
@@ -3444,11 +3444,11 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.atspotify.com
 *.avecspotify.com
+*.atspotify.com
 *.enspotify.com
-*.forspotify.com
 *.fromspotify.com
+*.forspotify.com
 *.tospotify.com
 backstage.io
 *.byspotify.com
@@ -3482,10 +3482,6 @@ codex.wordpress.org
 codex.bbpress.org
 codex.buddypress.org
 mercantile.wordpress.org
-*.trac.wordpress.org
- *.svn.wordpress.org
- *.git.wordpress.org
- github.com/WordPress
 irclogs.wordpress.org
 lists.wordpress.org
 planet.wordpress.org
@@ -3499,6 +3495,10 @@ gutenberg.run
 bbpress.org
 profiles.wordpress.org
 api.wordpress.org
+*.trac.wordpress.org
+ *.svn.wordpress.org
+ *.git.wordpress.org
+ github.com/WordPress
 *.wordpress.org
 *.buddypress.org
 bbpress.org
@@ -3568,8 +3568,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-www.starbucks.com.sg
 gift.starbucks.co.jp
+www.starbucks.com.sg
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3765,15 +3765,15 @@ shopify.plus
 shopifyinbox.com
 *.shopifycloud.com
 accounts.shopify.com
-your-store.myshopify.com
 *.shopify.com
 shop.app
+your-store.myshopify.com
 linkpop.com
 partners.shopify.com
 admin.shopify.com
 arrive-server.shopifycloud.com
-*.shopify.io
 *.shopifykloud.com
+*.shopify.io
 *.shopifycs.com
 *.shopifycs.com
 *.shopify.io
@@ -3896,10 +3896,10 @@ api.airbnb.com
 www.hoteltonight.com
 *.hoteltonight-test.com
 *.withairbnb.com
-www.airbnb.com
 *.airbnb.com
 assets.airbnb.com
 *.airbnb-aws.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4043,12 +4043,12 @@ pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
 international.coinbase.com
-*.base.org
 institutional.coinbase.com
+*.base.org
 api.custody.coinbase.com
 api.coinbase.com
-*.coinbase.com
 coinbase.com
+*.coinbase.com
 cloud.coinbase.com
 commerce.coinbase.com
 nft.coinbase.com
