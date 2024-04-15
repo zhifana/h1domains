@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr 15 13:23:11 UTC 2024)
+## Domains with Bounties (Last Updated Mon Apr 15 13:42:39 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -18,11 +18,11 @@ api.dyson.ch
 api.dyson.fr
 api.dyson.ie
 shop.dyson.ru
-www.dyson.my
 www.dyson.fr
 api.fi.dyson.com
 www.dyson.co.th
 www.dyson.it
+www.dyson.de
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -307,8 +307,8 @@ app3.rewire.to
 rewire.com
 rates.rewire.com
 *.int.remitly.com
-remitly.com
 app.rewire.to
+remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -367,8 +367,8 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.pornworld.com
-www.ddfcontent.com
 www.analvids.com
+www.ddfcontent.com
 www.pornbox.com
 www.pornbox.com
 www.analvids.com
@@ -425,8 +425,8 @@ store.23andme.com
 mediacenter.23andme.com
 therapeutics.23andme.com
 auth.23andme.com
-api.23andme.com
 medical.23andme.com
+api.23andme.com
 you.23andme.com
 api.23andme.com
 auth.23andme.com
@@ -694,12 +694,12 @@ visa.co.za
 www.fraedom.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
-bd.visa.com
-www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
+www.practicalmoneyskills.com
+bd.visa.com
 visa.co.ni
 www.visa.com.kz
 visa.com.au
@@ -918,11 +918,11 @@ truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 watchdocs.indriverapp.com
 wga.volans.tech
-cargo.indrive.com
 ci.indrive.dev
 *.indriverapp.com
 injob.indriver.com
 *.indriver.com
+cargo.indrive.com
 *.indrive.com
 *.indriverapp.com
 *.indrive.com
@@ -1042,8 +1042,8 @@ platform.8x8pilot.com
 voapi.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
-platform.8x8.com
 sso.8x8pilot.com
+platform.8x8.com
 *.8x8cloud.net
 admin.8x8.com
 *.wavecell.com
@@ -1271,8 +1271,8 @@ checksw.com
 royal.checksw.com
 *.superpal.io/*
 *.superpal.com/*
-*.cornershopapp.com/*
 *.cornershop.io/*
+*.cornershopapp.com/*
 *.cornershopapp.com/*
 *.superpal.com/*
 *.cornershop.io/*
@@ -1316,9 +1316,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.simpletax.ca
 www.cheapflights.com
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 www.momondo.com
 business.kayak.com
 www.hotelscombined.com
@@ -1646,10 +1646,9 @@ marketplace.fedramp.gov
 *.search.gov
 federalist.18f.gov
 federalist-docs.18f.gov
+cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
-ssh.fr.cloud.gov
-cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1779,8 +1778,8 @@ mod.reddit.com
 *.snooguts.net
 api.reddit.com
 ads-api.reddit.com
-gql.reddit.com
 oauth.reddit.com
+gql.reddit.com
 ads.reddit.com
 www.reddit.com
 *.reddit.com
@@ -1842,8 +1841,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-wp-qa.chime.com
 www.chime.com
+wp-qa.chime.com
 *.chimebank.com
 *.chime.com
 *.1debit.com
@@ -1873,8 +1872,8 @@ app.launchdarkly.com
 events.launchdarkly.com
 stream.launchdarkly.com
 docs.launchdarkly.com
-*.fetlife.com
 fetlife.com
+*.fetlife.com
 *.fetlife.com
 fetlife.com
 api.bitso.com
@@ -1986,10 +1985,10 @@ api.adm.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
-adm.cloud.com
+citrix.cloud.com
 secure.sharefile.eu
 api.sharefile.com
-citrix.cloud.com
+adm.cloud.com
 (youriwssubdomain).cloud.com
 (yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
@@ -2029,8 +2028,8 @@ api.adm.cloud.com
 shop.tiktok.com
 pay.tokopediax.com
 www.pangleglobal.com
-academy-outbound-ads.tiktok.com
 careers.tiktok.com
+academy-outbound-ads.tiktok.com
 affiliate-id.tokopedia.com
 fp-sg.tiktokv.com
 partner.tiktokshop.com
@@ -2041,8 +2040,8 @@ shop-id.tokopedia.com
 developers.tiktok.com
 business.tiktok.com
 ads.tiktok.com
-live-backstage.tiktok.com
 effecthouse.tiktok.com
+live-backstage.tiktok.com
 *.tiktok.com
 tiktok.com
 *.tiktok.com
@@ -2095,8 +2094,8 @@ api.figma.com
 www.figma.com
 www.figma.com
 api.figma.com
-3d.cs.money
 support.cs.money
+3d.cs.money
 wiki.cs.money
 blog.cs.money
 cs.money
@@ -2519,7 +2518,6 @@ updates.amazon.com
 *.aliyun-inc.com
 *.tmall.com
 *.alibaba-inc.com
-*.aliexpress.com
 *.alimama.com
 *.alibaba.com
 *.alibabacloud.com
@@ -2528,6 +2526,7 @@ updates.amazon.com
 www.alibabagroup.com
 *.aliyun.com
 *.Daraz.com
+*.aliexpress.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2803,7 +2802,7 @@ admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
 secure.rezserver.com
-cruises.priceline.com
+priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3055,24 +3054,24 @@ py.pl
 *.paylution.com
 *.hyperwallet.com
 api.swiftfinancial.com
-decision.swiftfinancial.com
-my.swiftfinancial.com
-partner.swiftfinancial.com
-pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 www.swiftfinancial.com
 swiftfinancial.com
+www.swiftcapital.com
+swiftcapital.com
+decision.swiftfinancial.com
+partner.swiftfinancial.com
+my.swiftfinancial.com
+pigeon.swiftfinancial.com
 prequal.swiftfinancial.com
 api.loanbuilder.com
 my.loanbuilder.com
 www.loanbuilder.com
-www.swiftcapital.com
-swiftcapital.com
 paypalobjects.com
-*.venmo.com
-*.braintreepayments.com
 *.xoom.com
 *.braintreegateway.com
+*.venmo.com
+*.braintreepayments.com
 sandbox.braintreegateway.com
 *.braintree-api.com
 *.paypalcorp.com
@@ -3609,8 +3608,8 @@ ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
-search.brave.com
 talk.brave.com
+search.brave.com
 brave.com
 brave.com
 basicattentiontoken.org
@@ -3766,16 +3765,16 @@ shopify.plus
 shopifyinbox.com
 *.shopifycloud.com
 accounts.shopify.com
-*.shopify.io
 *.shopifykloud.com
 *.shopifycs.com
+*.shopify.io
 partners.shopify.com
 linkpop.com
-arrive-server.shopifycloud.com
-your-store.myshopify.com
 shop.app
+your-store.myshopify.com
 admin.shopify.com
 *.shopify.com
+arrive-server.shopifycloud.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -4119,10 +4118,10 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 reviewer.pullrequest.com
 a5s.hackerone-ext-content.com
 profile-photos.hackerone-user-content.com
-api.hackerone.com
 ctf.hacker101.com
-app.pullrequest.com
+api.hackerone.com
 www.hackerone.com
+app.pullrequest.com
 hackerone.com
 hackerone.com
 api.hackerone.com
