@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 16 13:19:54 UTC 2024)
+## Domains with Bounties (Last Updated Tue Apr 16 13:42:50 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -305,9 +305,9 @@ cards.remitly.io
 api.remitly.io
 app3.rewire.to
 rates.rewire.com
-app.rewire.to
 *.int.remitly.com
 rewire.com
+app.rewire.to
 remitly.com
 *.int.remitly.com
 *.dev.remitly.com
@@ -425,8 +425,8 @@ store.23andme.com
 mediacenter.23andme.com
 therapeutics.23andme.com
 api.23andme.com
-medical.23andme.com
 you.23andme.com
+medical.23andme.com
 auth.23andme.com
 api.23andme.com
 auth.23andme.com
@@ -479,7 +479,6 @@ webhooks.booking.com
 taxis.booking.com
 paybridge.booking.com
 phone-validation.taxi.booking.com
-chat.booking.com
 autocomplete.booking.com
 distribution-xml.booking.com
 paynotifications.booking.com
@@ -500,14 +499,15 @@ widget.rentalcars.com
 *.rentalcars.com
 booking.com
 account.booking.com
-*.booking.com
-www.fareharbor.com
 admin.booking.com
+www.fareharbor.com
+secure.booking.com
 sites.fareharbor.com
 readonly.fareharbor.com
 marketing.fareharbor.com
-secure.booking.com
 demo.fareharbor.com
+chat.booking.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -785,9 +785,9 @@ sandbox.authorize.net
 developer.authorize.net
 developer.visa.com
 yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
 yourdomain.freshchat.com
 yourdomain.freshcaller.com
-yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -832,7 +832,6 @@ addons.allizom.org
 sync.services.mozilla.com
 hg.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
-developer.mozilla.org
 shavar.services.mozilla.com
 community-tc.services.mozilla.com
 monitor.mozilla.org
@@ -845,6 +844,7 @@ www.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
 support.mozilla.org
+developer.mozilla.org
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
@@ -920,8 +920,8 @@ auth2.indrive.tech
 argocd.indrive.dev
 auth.indrive.tech
 volans.tech
-new-order.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
+new-order.eu-east-1.indriverapp.com
 watchdocs.indriverapp.com
 wga.volans.tech
 ci.indrive.dev
@@ -958,8 +958,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.mobi
 *.grindr.io
-*.grindr.com
 web.grindr.com
+*.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1091,8 +1091,8 @@ admin.8x8.com
 *.napoleongames.be
 *.napoleonsports.be
 *.luckydays.com
-*.superbet.ro
 *.superbet.rs
+*.superbet.ro
 *.magicjackpot.ro
 *.luckydays.ca
 *.superbet.pl
@@ -1154,8 +1154,8 @@ www.ebookers.fi
 www.mrjet.se
 www.expediaagents.com
 *.lastminute.co.nz
-www.fewo-direkt.de
 www.stayz.com.au
+www.fewo-direkt.de
 www.bookabach.co.nz
 www.abritel.fr
 www.expediagroup.com
@@ -1408,8 +1408,8 @@ watchlistapi.etoro.com
 rankings.etoro.com
 delta.app
 etoropartners.com
-bullsheet.me
 www.etoro.com
+bullsheet.me
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -1461,7 +1461,6 @@ academy.databricks.com
 demo.cloud.databricks.com
 docs.databricks.com
 help.databricks.com
-kb.databricks.com
 partners.databricks.com
 support.databricks.com
 advocates.databricks.com
@@ -1471,6 +1470,7 @@ labs.databricks.com
 marketplace.databricks.com
 accounts.cloud.databricks.com
 databricks.com
+kb.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1831,8 +1831,8 @@ global-api.citymapper.com
 eu.remix.com
 platform.remix.com
 *.withbuddies.com
-*.scopely.com
 *.scopely.io
+*.scopely.com
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
@@ -1994,10 +1994,10 @@ api.adm.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
-adm.cloud.com
+citrix.cloud.com
 secure.sharefile.eu
 api.sharefile.com
-citrix.cloud.com
+adm.cloud.com
 (youriwssubdomain).cloud.com
 (yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
@@ -2045,14 +2045,14 @@ live-backstage.tiktok.com
 effecthouse.tiktok.com
 academy-outbound-ads.tiktok.com
 partner.tiktokshop.com
-*.tiktokv.com
 ads.tiktok.com
 developers.tiktok.com
-tiktok.com
 business.tiktok.com
 careers.tiktok.com
 seller-id.tokopedia.com
 *.tiktok.com
+tiktok.com
+*.tiktokv.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2439,14 +2439,14 @@ www.amazon.*
 *.tmall.com
 *.alibaba-inc.com
 *.alimama.com
-*.alibaba.com
 *.1688.com
-www.alibabagroup.com
 *.taobao.com
+www.alibabagroup.com
 *.Daraz.com
 *.aliexpress.com
 *.aliyun.com
 *.alibabacloud.com
+*.alibaba.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2573,8 +2573,8 @@ www.goodrx.com
 *.ra.roblox.com
 api.localizestaging.com
 cdn.localizestaging.com
-localizestaging.com
 app.localizestaging.com
+localizestaging.com
 localizestaging.com
 api.localizestaging.com
 app.localizestaging.com
@@ -2631,9 +2631,9 @@ neoket.net
 novel.pixiv.net
 coban.pixiv.net
 sketch.pixiv.net
-booth.pm
 accounts.pixiv.net
 www.pixiv.net
+booth.pm
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -2722,7 +2722,7 @@ admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
 secure.rezserver.com
-cruises.priceline.com
+priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2972,19 +2972,19 @@ paypal.me
 *.braintree.tools
 *.paylution.com
 api.swiftfinancial.com
-scrutiny.swiftfinancial.com
-www.swiftfinancial.com
-swiftfinancial.com
-www.swiftcapital.com
-swiftcapital.com
 decision.swiftfinancial.com
 partner.swiftfinancial.com
 my.swiftfinancial.com
+scrutiny.swiftfinancial.com
 pigeon.swiftfinancial.com
+www.swiftfinancial.com
+swiftfinancial.com
 prequal.swiftfinancial.com
 api.loanbuilder.com
 my.loanbuilder.com
 www.loanbuilder.com
+www.swiftcapital.com
+swiftcapital.com
 *.xoom.com
 *.braintreegateway.com
 *.venmo.com
@@ -2993,9 +2993,9 @@ loanbuilder.com
 *.paypalcorp.com
 *.braintreepayments.com
 *.braintree-api.com
+*.paypal.com
 py.pl
 *.hyperwallet.com
-*.paypal.com
 paypalobjects.com
 *.xoom.com
 *.paypal.com
@@ -3364,12 +3364,12 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.atspotify.com
 *.avecspotify.com
+*.atspotify.com
 *.enspotify.com
-*.forspotify.com
-*.fromspotify.com
 *.tospotify.com
+*.fromspotify.com
+*.forspotify.com
 backstage.io
 *.byspotify.com
 assets.spotify.com
@@ -3488,8 +3488,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-www.starbucks.com.sg
 gift.starbucks.co.jp
+www.starbucks.com.sg
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3528,8 +3528,8 @@ ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
-search.brave.com
 talk.brave.com
+search.brave.com
 brave.com
 brave.com
 basicattentiontoken.org
@@ -3684,17 +3684,17 @@ yourcompany.udemy.com
 shopify.plus
 shopifyinbox.com
 *.shopifycloud.com
-accounts.shopify.com
 linkpop.com
+partners.shopify.com
 *.shopifykloud.com
 *.shopify.io
 *.shopifycs.com
-partners.shopify.com
 admin.shopify.com
-your-store.myshopify.com
 arrive-server.shopifycloud.com
+your-store.myshopify.com
 shop.app
 *.shopify.com
+accounts.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3815,9 +3815,9 @@ api.airbnb.com
 www.hoteltonight.com
 *.hoteltonight-test.com
 *.withairbnb.com
-*.airbnb-aws.com
 assets.airbnb.com
 www.airbnb.com
+*.airbnb-aws.com
 *.airbnb.com
 www.airbnb.com
 next.airbnb.com
@@ -3961,8 +3961,8 @@ blog.irccloud.com
 custody.coinbase.com
 prime.coinbase.com
 international.coinbase.com
-institutional.coinbase.com
 *.base.org
+institutional.coinbase.com
 api.custody.coinbase.com
 api.coinbase.com
 coinbase.com
@@ -4245,8 +4245,8 @@ magentocommerce.com
 u.magento.com
 imagine.magento.com
 magentolive.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 magento.com
 account.magento.com
 marketplace.magento.com
@@ -4492,8 +4492,8 @@ api.greenhouse.io
 onboarding.greenhouse.io
 jss.greenhouse.io
 app.interseller.io
-interseller.io
 www.greenhouse.io
+interseller.io
 support.greenhouse.io
 app.greenhouse.io
 app.greenhouse.io
