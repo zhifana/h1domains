@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 16 11:43:33 UTC 2024)
+## Domains with Bounties (Last Updated Tue Apr 16 12:30:02 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -17,12 +17,12 @@ api.dyson.de
 api.dyson.ch
 api.dyson.ie
 shop.dyson.ru
-www.dyson.my
 www.dyson.fr
 api.fi.dyson.com
 www.dyson.co.th
 www.dyson.it
 www.dyson.de
+www.dyson.cz
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -305,9 +305,9 @@ cards.remitly.io
 api.remitly.io
 app3.rewire.to
 rates.rewire.com
-app.rewire.to
 *.int.remitly.com
 rewire.com
+app.rewire.to
 remitly.com
 *.int.remitly.com
 *.dev.remitly.com
@@ -352,8 +352,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 cdn.arkoselabs.com
 demo.arkoselabs.com
-www.arkoselabs.com
 portal.arkoselabs.com
+www.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
@@ -445,8 +445,8 @@ www.mercadolibre.com.uy
 www.mercadolibre.com.co
 www.mercadolibre.com.mx
 www.mercadopago.com.co
-www.mercadopago.com.mx
 www.mercadopago.cl
+www.mercadopago.com.mx
 www.mercadolibre.cl
 www.mercadopago.com.br
 api.mercadopago.com
@@ -489,9 +489,9 @@ portal.taxi.booking.com
 secure-supply-xml.booking.com
 cars.booking.com
 kyc-onboarding.booking.com
-spark.fareharbor.com
 teleport.fareharbor.engineering
 paymentcomponent.booking.com
+spark.fareharbor.com
 flights.booking.com
 indicative-pricing.taxi.booking.com
 taxi.booking.com
@@ -499,15 +499,15 @@ careers.booking.com
 widget.rentalcars.com
 *.rentalcars.com
 booking.com
-secure.booking.com
 account.booking.com
 *.booking.com
 www.fareharbor.com
 admin.booking.com
 demo.fareharbor.com
-readonly.fareharbor.com
 sites.fareharbor.com
+readonly.fareharbor.com
 marketing.fareharbor.com
+secure.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -557,8 +557,8 @@ api2.frontapp.com
 app.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -650,8 +650,8 @@ launch.gamma.redoxstage.com
 sftp.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
 testapp.redoxengine.com
-www.redoxengine.com
 10x.redoxengine.com
+www.redoxengine.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -702,11 +702,11 @@ visa.co.za
 www.fraedom.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
-bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
+bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -718,8 +718,8 @@ www.cardinalcommerce.com
 www.visa.com.tw
 www.visa.com.tr
 www.visa.com.hr
+www.yellowpepper.com
 www.tink.com
-usa.visa.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -835,7 +835,6 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 developer.mozilla.org
 shavar.services.mozilla.com
 community-tc.services.mozilla.com
-support.mozilla.org
 bugzilla.mozilla.org
 monitor.mozilla.org
 firefox-ci-tc.services.mozilla.com
@@ -845,6 +844,7 @@ firefox.settings.services.mozilla.com
 www.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
+support.mozilla.org
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
@@ -958,8 +958,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.mobi
 *.grindr.io
-*.grindr.com
 web.grindr.com
+*.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1050,8 +1050,8 @@ platform.8x8pilot.com
 voapi.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
-platform.8x8.com
 sso.8x8pilot.com
+platform.8x8.com
 *.8x8cloud.net
 admin.8x8.com
 *.wavecell.com
@@ -1325,9 +1325,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.simpletax.ca
 www.cheapflights.com
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 www.momondo.com
 business.kayak.com
 www.hotelscombined.com
@@ -1341,8 +1341,8 @@ www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
 ws.sorare.com
-api.sorare.com
 sorare.com
+api.sorare.com
 sorare.com
 api.sorare.com
 ws.sorare.com
@@ -1353,9 +1353,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
+api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
-api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1658,6 +1658,7 @@ federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
+cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1730,10 +1731,10 @@ https://www.xvideos.net/app/
 *.found.io
 *.elasticnet.co
 *.elstc.co
-*.elastic.co
 www.elastic.co
 cloud.elastic.co
 *.swiftype.com
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1786,8 +1787,8 @@ mod.reddit.com
 *.snooguts.net
 api.reddit.com
 ads-api.reddit.com
-gql.reddit.com
 oauth.reddit.com
+gql.reddit.com
 *.reddit.com
 *.redditinc.com
 accounts.reddit.com
@@ -1850,8 +1851,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-wp-qa.chime.com
 www.chime.com
+wp-qa.chime.com
 *.chimebank.com
 *.chime.com
 *.1debit.com
@@ -2045,7 +2046,6 @@ live-backstage.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
 academy-outbound-ads.tiktok.com
-business.tiktok.com
 partner.tiktokshop.com
 *.tiktokv.com
 ads.tiktok.com
@@ -2053,6 +2053,7 @@ developers.tiktok.com
 *.tiktok.com
 seller-id.tokopedia.com
 tiktok.com
+business.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2391,9 +2392,9 @@ itv7.itv.com
 *.amazon.sa
 *.amazon.se
 *.amazon.sg
-*.amazon.com.tr
 *.amazon.de
 *.amazon.es
+*.amazon.com.tr
 *.amazon.it
 *.amazon.com.be
 *.amazon.com.br
@@ -2406,8 +2407,8 @@ itv7.itv.com
 *.amazon.nl
 *.amazon.co.jp
 *.amazon.fr
-*.amazon.co.uk
 *.amazon.in
+*.amazon.co.uk
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2466,8 +2467,8 @@ careers.fortmatic.com
 dashboard.fortmatic.com
 auth.magic.link
 x2.fortmatic.com
-dashboard.magic.link
 api.magic.link
+dashboard.magic.link
 api.fortmatic.com
 x2.fortmatic.com
 careers.fortmatic.com
@@ -2722,7 +2723,7 @@ admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
 secure.rezserver.com
-cruises.priceline.com
+priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2896,26 +2897,26 @@ grammarly.ai
 grammarly.ai
 *.east.fdbox.net
 *.mgmt.fndlsb.net
-*.prd.fndlsb.net
 *.prod.fdbox.net
+*.prd.fndlsb.net
 *inf.fndlsb.net
 *racing.fanduel.com
 4njbets.tvgnetwork.com
 b2b.tvgnetwork.com
 service.racing.fanduel.com
+4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
-4njbets.us.betfair.com
-mobile-prod.tvg.com
-m.4njbets.tvg.com
-pabets.tvg.com
-login.tvg.com
-www.4njbets.com
-service.tvg.com
-promos.tvg.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
 login-ia.tvg.com
+m.4njbets.tvg.com
+login.tvg.com
+mobile-prod.tvg.com
+pabets.tvg.com
+service.tvg.com
+promos.tvg.com
+www.4njbets.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
 com.fanduel.android.live
@@ -3168,8 +3169,8 @@ developer.valvesoftware.com
 js.crypto.com
 app.mona.co
 merchant.crypto.com
-pay.crypto.com
 www.crypto.com
+pay.crypto.com
 auth.crypto.com
 tax.crypto.com
 *.crypto.com
@@ -3301,8 +3302,8 @@ kartaview.org
 *.myteksi.com
 *.grabpay.com
 jira.grab.com
-gifts.grab.com
 xtramile.grabpay.com
+gifts.grab.com
 grab.careers
 *.grab-sure.com
 *.ovo.id
@@ -3364,12 +3365,12 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.tospotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
+*.tospotify.com
 backstage.io
 *.byspotify.com
 assets.spotify.com
@@ -3615,8 +3616,8 @@ api2.grofers.com
 *.runnr.in
 *.zomato.com
 *.zomans.com
-blinkit.com
 winecellar.zomato.com
+blinkit.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3685,16 +3686,16 @@ shopify.plus
 shopifyinbox.com
 *.shopifycloud.com
 accounts.shopify.com
-*.shopify.com
 shop.app
 linkpop.com
-arrive-server.shopifycloud.com
-*.shopifykloud.com
-*.shopify.io
-*.shopifycs.com
 partners.shopify.com
-your-store.myshopify.com
+*.shopifykloud.com
+*.shopifycs.com
+*.shopify.io
 admin.shopify.com
+*.shopify.com
+your-store.myshopify.com
+arrive-server.shopifycloud.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -4040,8 +4041,8 @@ app.pullrequest.com
 a5s.hackerone-ext-content.com
 hackerone-user-content.com
 www.hackerone.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4492,8 +4493,8 @@ api.greenhouse.io
 onboarding.greenhouse.io
 jss.greenhouse.io
 app.interseller.io
-interseller.io
 www.greenhouse.io
+interseller.io
 support.greenhouse.io
 app.greenhouse.io
 app.greenhouse.io
