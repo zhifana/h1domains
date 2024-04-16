@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 16 01:55:25 UTC 2024)
+## Domains with Bounties (Last Updated Tue Apr 16 02:25:57 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -352,8 +352,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 cdn.arkoselabs.com
 demo.arkoselabs.com
-www.arkoselabs.com
 portal.arkoselabs.com
+www.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
@@ -426,8 +426,8 @@ mediacenter.23andme.com
 therapeutics.23andme.com
 auth.23andme.com
 api.23andme.com
-medical.23andme.com
 you.23andme.com
+medical.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -445,8 +445,8 @@ www.mercadolibre.com.uy
 www.mercadolibre.com.co
 www.mercadolibre.com.mx
 www.mercadopago.com.co
-www.mercadopago.com.mx
 www.mercadopago.cl
+www.mercadopago.com.mx
 www.mercadolibre.cl
 www.mercadopago.com.br
 api.mercadopago.com
@@ -817,13 +817,13 @@ profiler.firefox.com
 crash-reports.allizom.org
 lando.services.mozilla.com
 contile.services.mozilla.com
-crash-stats.allizom.org
 mozilla-pontoon-staging.herokuapp.com
-merino.services.mozilla.com
+crash-stats.allizom.org
 firefox.settings.services.mozilla.com
+merino.services.mozilla.com
+aus5.mozilla.org
 addons.allizom.org
 sync.services.mozilla.com
-aus5.mozilla.org
 hg.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 push.services.mozilla.com
@@ -1316,9 +1316,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.simpletax.ca
 www.cheapflights.com
-www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
+www.swoodoo.com
 www.momondo.com
 business.kayak.com
 www.hotelscombined.com
@@ -1399,8 +1399,8 @@ watchlistapi.etoro.com
 rankings.etoro.com
 delta.app
 etoropartners.com
-www.etoro.com
 bullsheet.me
+www.etoro.com
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -1782,8 +1782,8 @@ oauth.reddit.com
 ads.reddit.com
 *.reddit.com
 *.redditinc.com
-www.reddit.com
 accounts.reddit.com
+www.reddit.com
 *.redditmedia.com
 *.snooguts.net
 *.redditmedia.com
@@ -1985,10 +1985,10 @@ api.adm.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
-citrix.cloud.com
+adm.cloud.com
 secure.sharefile.eu
 api.sharefile.com
-adm.cloud.com
+citrix.cloud.com
 (youriwssubdomain).cloud.com
 (yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
@@ -2032,18 +2032,18 @@ affiliate-id.tokopedia.com
 fp-sg.tiktokv.com
 creatormarketplace.tiktok.com
 shop-id.tokopedia.com
-effecthouse.tiktok.com
 live-backstage.tiktok.com
-business.tiktok.com
+effecthouse.tiktok.com
+developers.tiktok.com
+careers.tiktok.com
 academy-outbound-ads.tiktok.com
 *.tiktok.com
-careers.tiktok.com
-tiktok.com
-developers.tiktok.com
+business.tiktok.com
 partner.tiktokshop.com
 *.tiktokv.com
-seller-id.tokopedia.com
+tiktok.com
 ads.tiktok.com
+seller-id.tokopedia.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2094,8 +2094,8 @@ api.figma.com
 www.figma.com
 www.figma.com
 api.figma.com
-3d.cs.money
 support.cs.money
+3d.cs.money
 wiki.cs.money
 blog.cs.money
 cs.money
@@ -2378,7 +2378,6 @@ chat.amazon.com
 track.amazon.com
 manufacturing.amazon.com
 aca-livecards-service.amazon.com
-address-photos.amazon.com
 ads-setu-proxy.amazon.com
 cloudaccesstelemetry-us-east-1.amazon.com
 dolphin.amazon.com
@@ -2414,6 +2413,7 @@ kca.amazon.com
 kwis-opf.amazon.com
 mag-na.amazon.com
 merch.amazon.com
+mlis.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2522,11 +2522,11 @@ updates.amazon.com
 *.alibaba.com
 *.alibabacloud.com
 *.1688.com
-*.taobao.com
 www.alibabagroup.com
+*.taobao.com
+*.aliexpress.com
 *.Daraz.com
 *.aliyun.com
-*.aliexpress.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -3052,19 +3052,19 @@ paypal.me
 *.braintree.tools
 *.paylution.com
 api.swiftfinancial.com
+scrutiny.swiftfinancial.com
+www.swiftfinancial.com
+swiftfinancial.com
+www.swiftcapital.com
+swiftcapital.com
 decision.swiftfinancial.com
 partner.swiftfinancial.com
 my.swiftfinancial.com
-scrutiny.swiftfinancial.com
 pigeon.swiftfinancial.com
-www.swiftfinancial.com
-swiftfinancial.com
 prequal.swiftfinancial.com
 api.loanbuilder.com
 my.loanbuilder.com
 www.loanbuilder.com
-www.swiftcapital.com
-swiftcapital.com
 paypalobjects.com
 *.xoom.com
 *.braintreegateway.com
@@ -3335,10 +3335,10 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-*.beta.lahitapiola.fi
 ext-gw.lahitapiola.fi
-api.lahitapiola.fi
+*.beta.lahitapiola.fi
 *.lahitapiola.fi
+api.lahitapiola.fi
 www.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
@@ -3444,11 +3444,11 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
 *.tospotify.com
 backstage.io
 *.byspotify.com
@@ -3568,8 +3568,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-www.starbucks.com.sg
 gift.starbucks.co.jp
+www.starbucks.com.sg
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3895,9 +3895,9 @@ api.airbnb.com
 www.hoteltonight.com
 *.hoteltonight-test.com
 *.withairbnb.com
-*.airbnb-aws.com
 assets.airbnb.com
 www.airbnb.com
+*.airbnb-aws.com
 *.airbnb.com
 www.airbnb.com
 next.airbnb.com
@@ -3961,8 +3961,8 @@ api.x.ai
 ide.x.ai
 grok.x.ai
 *.twimg.com
-x.com
 *.twitter.com
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
