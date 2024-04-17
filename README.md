@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 17 02:28:29 UTC 2024)
+## Domains with Bounties (Last Updated Wed Apr 17 02:45:01 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -425,8 +425,8 @@ blog.23andme.com
 store.23andme.com
 mediacenter.23andme.com
 therapeutics.23andme.com
-you.23andme.com
 medical.23andme.com
+you.23andme.com
 auth.23andme.com
 api.23andme.com
 api.23andme.com
@@ -451,8 +451,8 @@ www.mercadopago.cl
 www.mercadolibre.cl
 www.mercadopago.com.br
 www.mercadolivre.com.br
-www.mercadopago.com.ar
 api.mercadopago.com
+www.mercadopago.com.ar
 www.mercadolibre.com.ar
 api.mercadolibre.com
 api.mercadopago.com
@@ -489,9 +489,9 @@ portal.taxi.booking.com
 secure-supply-xml.booking.com
 cars.booking.com
 kyc-onboarding.booking.com
-spark.fareharbor.com
 teleport.fareharbor.engineering
 paymentcomponent.booking.com
+spark.fareharbor.com
 flights.booking.com
 indicative-pricing.taxi.booking.com
 taxi.booking.com
@@ -499,14 +499,14 @@ careers.booking.com
 widget.rentalcars.com
 *.rentalcars.com
 account.booking.com
-www.fareharbor.com
 admin.booking.com
+www.fareharbor.com
 secure.booking.com
 chat.booking.com
 booking.com
+sites.fareharbor.com
 marketing.fareharbor.com
 demo.fareharbor.com
-sites.fareharbor.com
 readonly.fareharbor.com
 *.booking.com
 *.booking.com
@@ -796,8 +796,8 @@ yourdomain.freshchat.com
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
 app.kolesa.kz
-kolesa.kz
 api.kolesa.kz
+kolesa.kz
 id.kolesa.kz
 m.krisha.kz
 app.krisha.kz
@@ -828,9 +828,9 @@ lando.services.mozilla.com
 contile.services.mozilla.com
 crash-stats.allizom.org
 merino.services.mozilla.com
-aus5.mozilla.org
 addons.allizom.org
 sync.services.mozilla.com
+aus5.mozilla.org
 hg.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 shavar.services.mozilla.com
@@ -839,8 +839,8 @@ monitor.mozilla.org
 bugzilla.mozilla.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
-push.services.mozilla.com
 firefox.settings.services.mozilla.com
+push.services.mozilla.com
 www.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
@@ -1092,8 +1092,8 @@ admin.8x8.com
 *.napoleongames.be
 *.napoleonsports.be
 *.luckydays.com
-*.superbet.rs
 *.superbet.ro
+*.superbet.rs
 *.magicjackpot.ro
 *.luckydays.ca
 *.superbet.pl
@@ -1173,9 +1173,9 @@ www.ebookers.com
 *.wotif.com
 www.hotels.com
 *.vrbo.com
+*.expediapartnercentral.com
 www.expedia.com
 *.hotwire.com
-*.expediapartnercentral.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1326,9 +1326,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.simpletax.ca
 www.cheapflights.com
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 www.momondo.com
 business.kayak.com
 www.hotelscombined.com
@@ -1342,8 +1342,8 @@ www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
 ws.sorare.com
-api.sorare.com
 sorare.com
+api.sorare.com
 sorare.com
 api.sorare.com
 ws.sorare.com
@@ -1781,8 +1781,8 @@ sh.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
-new.reddit.com
 old.reddit.com
+new.reddit.com
 *.reddithelp.com
 matrix.redditspace.com
 mod.reddit.com
@@ -1853,8 +1853,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-www.chime.com
 wp-qa.chime.com
+www.chime.com
 *.chimebank.com
 *.chime.com
 *.1debit.com
@@ -2050,10 +2050,10 @@ creatormarketplace.tiktok.com
 business.tiktok.com
 www.pangleglobal.com
 seller-id.tokopedia.com
-*.tiktokv.com
 *.tiktok.com
-live-backstage.tiktok.com
+*.tiktokv.com
 ads.tiktok.com
+live-backstage.tiktok.com
 tiktok.com
 developers.tiktok.com
 *.tiktok.com
@@ -2408,10 +2408,10 @@ itv7.itv.com
 *.amazon.com.mx
 *.amazon.nl
 *.amazon.fr
-*.amazon.com
 *.amazon.in
 *.amazon.co.jp
 *.amazon.co.uk
+*.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2449,9 +2449,9 @@ www.amazon.*
 *.aliexpress.com
 *.aliyun.com
 *.alibabacloud.com
+www.alibabagroup.com
 *.alibaba-inc.com
 *.alibaba.com
-www.alibabagroup.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2976,20 +2976,20 @@ https://github.com/matomo-org/docker
 paypal.me
 *.braintree.tools
 *.paylution.com
+api.swiftfinancial.com
+decision.swiftfinancial.com
+partner.swiftfinancial.com
 my.swiftfinancial.com
+scrutiny.swiftfinancial.com
+pigeon.swiftfinancial.com
+www.swiftfinancial.com
 swiftfinancial.com
 prequal.swiftfinancial.com
-www.swiftcapital.com
-swiftcapital.com
-partner.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
-www.swiftfinancial.com
 api.loanbuilder.com
 my.loanbuilder.com
 www.loanbuilder.com
-api.swiftfinancial.com
-decision.swiftfinancial.com
+www.swiftcapital.com
+swiftcapital.com
 *.xoom.com
 *.braintreegateway.com
 *.venmo.com
@@ -3234,8 +3234,8 @@ falcon-sandbox.com
 *.reposify.com
 *.humio.com
 www.crowdstrike.com
-*.crowdstrike.com
 hybrid-analysis.com
+*.crowdstrike.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3262,9 +3262,9 @@ privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
 *.beta.lahitapiola.fi
 ext-gw.lahitapiola.fi
+www.lahitapiola.fi
 api.lahitapiola.fi
 *.lahitapiola.fi
-www.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3302,9 +3302,9 @@ gamma.grab.co
 manage.grab.co
 *.taralite.com
 api.grabpay.com
-*.grabpay.com
 kartaview.org
 *.myteksi.com
+*.grabpay.com
 jira.grab.com
 xtramile.grabpay.com
 gifts.grab.com
@@ -3493,8 +3493,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-www.starbucks.com.sg
 gift.starbucks.co.jp
+www.starbucks.com.sg
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3813,8 +3813,8 @@ callbacks.airbnb.com
 *.atairbnb.com
 *.byairbnb.com
 *.luxuryretreats.com
-*.airbnbcitizen.com
 support-api.airbnb.com
+*.airbnbcitizen.com
 next.airbnb.com
 api.airbnb.com
 *.muscache.com
