@@ -2,9 +2,8 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 17 06:42:23 UTC 2024)
+## Domains with Bounties (Last Updated Wed Apr 17 07:19:34 UTC 2024)
 ```
-www.dyson.pt
 www.dyson.no
 www.fi.dyson.com
 api.dyson.se
@@ -17,13 +16,14 @@ api.dyson.de
 api.dyson.ch
 api.dyson.ie
 shop.dyson.ru
-www.dyson.my
 www.dyson.fr
 www.dyson.co.th
 www.dyson.it
 www.dyson.de
 www.dyson.cz
 www.dyson.nl
+www.dyson.hu
+shop.dyson.co.za
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -308,8 +308,8 @@ rates.rewire.com
 *.int.remitly.com
 remitly.com
 app.rewire.to
-rewire.com
 cards.remitly.io
+rewire.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -425,8 +425,8 @@ blog.23andme.com
 store.23andme.com
 mediacenter.23andme.com
 therapeutics.23andme.com
-you.23andme.com
 medical.23andme.com
+you.23andme.com
 auth.23andme.com
 api.23andme.com
 api.23andme.com
@@ -446,8 +446,8 @@ www.mercadolibre.com.uy
 www.mercadolibre.com.co
 www.mercadolibre.com.mx
 www.mercadopago.com.co
-www.mercadopago.cl
 www.mercadopago.com.mx
+www.mercadopago.cl
 www.mercadolibre.cl
 www.mercadopago.com.br
 www.mercadolivre.com.br
@@ -489,9 +489,9 @@ portal.taxi.booking.com
 secure-supply-xml.booking.com
 cars.booking.com
 kyc-onboarding.booking.com
+spark.fareharbor.com
 teleport.fareharbor.engineering
 paymentcomponent.booking.com
-spark.fareharbor.com
 flights.booking.com
 indicative-pricing.taxi.booking.com
 taxi.booking.com
@@ -503,9 +503,9 @@ www.fareharbor.com
 secure.booking.com
 chat.booking.com
 booking.com
+marketing.fareharbor.com
 demo.fareharbor.com
 sites.fareharbor.com
-marketing.fareharbor.com
 readonly.fareharbor.com
 *.booking.com
 admin.booking.com
@@ -703,11 +703,11 @@ visa.co.za
 www.fraedom.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
+bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
-bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -720,7 +720,7 @@ www.visa.com.tw
 www.visa.com.tr
 www.visa.com.hr
 www.tink.com
-www.yellowpepper.com
+usa.visa.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -835,17 +835,17 @@ hg.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 shavar.services.mozilla.com
 community-tc.services.mozilla.com
-bugzilla.mozilla.org
 monitor.mozilla.org
+bugzilla.mozilla.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
 push.services.mozilla.com
-firefox.settings.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
 developer.mozilla.org
 support.mozilla.org
 www.mozilla.org
+firefox.settings.services.mozilla.com
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
@@ -1051,8 +1051,8 @@ platform.8x8pilot.com
 voapi.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
-sso.8x8pilot.com
 platform.8x8.com
+sso.8x8pilot.com
 *.8x8cloud.net
 admin.8x8.com
 *.wavecell.com
@@ -1354,9 +1354,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
-api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
+api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1781,8 +1781,8 @@ sh.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
-old.reddit.com
 new.reddit.com
+old.reddit.com
 *.reddithelp.com
 matrix.redditspace.com
 mod.reddit.com
@@ -1793,10 +1793,10 @@ gql.reddit.com
 oauth.reddit.com
 *.redditinc.com
 accounts.reddit.com
-*.redditmedia.com
 ads.reddit.com
 www.reddit.com
 *.reddit.com
+*.redditmedia.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1853,8 +1853,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-wp-qa.chime.com
 www.chime.com
+wp-qa.chime.com
 *.chimebank.com
 *.chime.com
 *.1debit.com
@@ -2047,7 +2047,6 @@ academy-outbound-ads.tiktok.com
 partner.tiktokshop.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
-business.tiktok.com
 www.pangleglobal.com
 seller-id.tokopedia.com
 *.tiktok.com
@@ -2055,6 +2054,7 @@ seller-id.tokopedia.com
 live-backstage.tiktok.com
 developers.tiktok.com
 ads.tiktok.com
+business.tiktok.com
 tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2243,8 +2243,8 @@ api.account.clario.co
 kbill.mackeeper.com
 api-ne.mackeeper.com
 mkapi.mackeeper.com
-account.mackeeper.com
 updater.clario.co
+account.mackeeper.com
 mackeeper.com
 clario.co
 account.mackeeper.com
@@ -2449,9 +2449,9 @@ www.amazon.*
 *.aliexpress.com
 *.aliyun.com
 *.alibabacloud.com
-www.alibabagroup.com
 *.alibaba-inc.com
 *.alibaba.com
+www.alibabagroup.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2578,8 +2578,8 @@ www.goodrx.com
 *.ra.roblox.com
 api.localizestaging.com
 cdn.localizestaging.com
-app.localizestaging.com
 localizestaging.com
+app.localizestaging.com
 localizestaging.com
 api.localizestaging.com
 app.localizestaging.com
@@ -2727,7 +2727,7 @@ admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
 secure.rezserver.com
-cruises.priceline.com
+press.priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2996,11 +2996,11 @@ www.loanbuilder.com
 loanbuilder.com
 *.paypalcorp.com
 *.braintreepayments.com
-py.pl
 *.hyperwallet.com
 paypalobjects.com
 sandbox.braintreegateway.com
 *.braintree-api.com
+py.pl
 *.paypal.com
 *.xoom.com
 *.paypal.com
@@ -3175,8 +3175,8 @@ app.mona.co
 pay.crypto.com
 merchant.crypto.com
 auth.crypto.com
-www.crypto.com
 tax.crypto.com
+www.crypto.com
 *.crypto.com
 *.crypto.com
 *.mona.co
@@ -3234,8 +3234,8 @@ falcon-sandbox.com
 *.reposify.com
 *.humio.com
 www.crowdstrike.com
-*.crowdstrike.com
 hybrid-analysis.com
+*.crowdstrike.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3262,9 +3262,9 @@ privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
 *.beta.lahitapiola.fi
 ext-gw.lahitapiola.fi
-www.lahitapiola.fi
 api.lahitapiola.fi
 *.lahitapiola.fi
+www.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3302,12 +3302,12 @@ gamma.grab.co
 manage.grab.co
 *.taralite.com
 api.grabpay.com
-*.grabpay.com
 kartaview.org
 *.myteksi.com
+*.grabpay.com
 jira.grab.com
-xtramile.grabpay.com
 gifts.grab.com
+xtramile.grabpay.com
 grab.careers
 *.grab-sure.com
 *.ovo.id
@@ -3493,8 +3493,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-www.starbucks.com.sg
 gift.starbucks.co.jp
+www.starbucks.com.sg
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3502,8 +3502,8 @@ app.starbucks.com
 www.starbucks.fr
 www.starbucks.ca
 www.starbucks.com
-www.starbucks.co.kr
 www.starbucks.com.cn
+www.starbucks.co.kr
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3812,18 +3812,18 @@ callbacks.airbnb.com
 *.atairbnb.com
 *.byairbnb.com
 *.luxuryretreats.com
-*.airbnbcitizen.com
 support-api.airbnb.com
+*.airbnbcitizen.com
 next.airbnb.com
 api.airbnb.com
 *.muscache.com
 www.hoteltonight.com
 *.hoteltonight-test.com
 *.withairbnb.com
-*.airbnb-aws.com
 assets.airbnb.com
-www.airbnb.com
+*.airbnb-aws.com
 *.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4250,8 +4250,8 @@ magentocommerce.com
 u.magento.com
 imagine.magento.com
 magentolive.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 magento.com
 account.magento.com
 marketplace.magento.com
@@ -4497,8 +4497,8 @@ api.greenhouse.io
 onboarding.greenhouse.io
 jss.greenhouse.io
 app.interseller.io
-interseller.io
 www.greenhouse.io
+interseller.io
 support.greenhouse.io
 app.greenhouse.io
 app.greenhouse.io
