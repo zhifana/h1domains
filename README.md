@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 17 18:41:34 UTC 2024)
+## Domains with Bounties (Last Updated Wed Apr 17 19:15:00 UTC 2024)
 ```
 www.dyson.no
 www.fi.dyson.com
@@ -16,6 +16,7 @@ api.dyson.de
 api.dyson.ch
 api.dyson.ie
 shop.dyson.ru
+www.dyson.my
 www.dyson.fr
 www.dyson.co.th
 www.dyson.it
@@ -23,7 +24,6 @@ www.dyson.de
 www.dyson.cz
 www.dyson.nl
 www.dyson.hu
-shop.dyson.co.za
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -307,8 +307,8 @@ rates.rewire.com
 *.int.remitly.com
 cards.remitly.io
 rewire.com
-app.rewire.to
 app3.rewire.to
+app.rewire.to
 remitly.com
 *.int.remitly.com
 *.dev.remitly.com
@@ -324,8 +324,8 @@ app3.rewire.to
 *.toolsforhumanity.com
 getworldcoin.com
 bioid-management.app
-*.worldcoin.org
 *.consumer.worldcoin.org
+*.worldcoin.org
 toolsforhumanity.com
 worldcoin.org
 *.worldcoin.org
@@ -502,13 +502,13 @@ secure.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
 booking.com
-taxis.booking.com
 demo.fareharbor.com
+taxis.booking.com
 admin.booking.com
+chat.booking.com
 *.rentalcars.com
 *.booking.com
 sites.fareharbor.com
-chat.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -719,8 +719,8 @@ www.cardinalcommerce.com
 www.visa.com.tw
 www.visa.com.tr
 www.visa.com.hr
-www.yellowpepper.com
 www.tink.com
+www.yellowpepper.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -796,8 +796,8 @@ yourdomain.freshchat.com
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
 app.kolesa.kz
-kolesa.kz
 api.kolesa.kz
+kolesa.kz
 id.kolesa.kz
 m.krisha.kz
 app.krisha.kz
@@ -827,9 +827,9 @@ lando.services.mozilla.com
 contile.services.mozilla.com
 crash-stats.allizom.org
 merino.services.mozilla.com
+aus5.mozilla.org
 addons.allizom.org
 sync.services.mozilla.com
-aus5.mozilla.org
 hg.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 shavar.services.mozilla.com
@@ -1155,8 +1155,8 @@ www.ebookers.fi
 www.mrjet.se
 www.expediaagents.com
 *.lastminute.co.nz
-www.fewo-direkt.de
 www.stayz.com.au
+www.fewo-direkt.de
 www.bookabach.co.nz
 www.abritel.fr
 www.expediagroup.com
@@ -1172,8 +1172,8 @@ www.ebookers.com
 *.travelocity.com
 *.wotif.com
 www.hotels.com
-*.expediapartnercentral.com
 www.expedia.com
+*.expediapartnercentral.com
 *.vrbo.com
 *.hotwire.com
 *.vrbo.com
@@ -1354,9 +1354,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
+api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
-api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1657,10 +1657,10 @@ marketplace.fedramp.gov
 *.search.gov
 federalist.18f.gov
 federalist-docs.18f.gov
-cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
+cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1753,8 +1753,8 @@ api.taxjar.com
 js.stripe.com
 *.touchtechpayments.com
 app.taxjar.com
-*.stripe.com
 api.stripe.com
+*.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1855,8 +1855,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-www.chime.com
 wp-qa.chime.com
+www.chime.com
 *.chimebank.com
 *.chime.com
 *.1debit.com
@@ -2050,13 +2050,13 @@ developers.tiktok.com
 *.tiktokv.com
 fp-sg.tiktokv.com
 *.tiktok.com
-tiktok.com
 live-backstage.tiktok.com
 business.tiktok.com
 partner.tiktokshop.com
 creatormarketplace.tiktok.com
-www.pangleglobal.com
 academy-outbound-ads.tiktok.com
+www.pangleglobal.com
+tiktok.com
 ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2275,12 +2275,12 @@ social.playstation.com
 wallets.api.playstation.com
 my.playstation.com
 transact.playstation.com
-my.account.sony.com
 store.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 ca.account.sony.com
 *.api.playstation.com
+my.account.sony.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2396,9 +2396,9 @@ itv7.itv.com
 *.amazon.sa
 *.amazon.se
 *.amazon.sg
+*.amazon.com.tr
 *.amazon.de
 *.amazon.es
-*.amazon.com.tr
 *.amazon.it
 *.amazon.com.be
 *.amazon.com.br
@@ -2409,9 +2409,9 @@ itv7.itv.com
 *.amazon.com.mx
 *.amazon.nl
 *.amazon.co.jp
-*.amazon.co.uk
 *.amazon.cn
 *.amazon.fr
+*.amazon.co.uk
 *.amazon.in
 *.amazon.com
 *.amazon.cl
@@ -3152,10 +3152,10 @@ api.steampowered.com
 www.dota2.com
 partner.steamgames.com
 steamcommunity.com
+store.steampowered.com
 www.valvesoftware.com
 www.teamfortress.com
 www.counter-strike.net
-store.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3175,8 +3175,8 @@ pay.crypto.com
 merchant.crypto.com
 auth.crypto.com
 tax.crypto.com
-www.crypto.com
 *.crypto.com
+www.crypto.com
 app.mona.co
 *.crypto.com
 *.mona.co
@@ -3211,9 +3211,9 @@ secure.plaid.com
 plaid.com
 api.blockscore.com
 manage.blockscore.com
-dashboard.plaid.com
 app.quovo.com
 my.plaid.com
+dashboard.plaid.com
 production.plaid.com
 dashboard.plaid.com
 cdn.plaid.com
@@ -3260,11 +3260,11 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-*.beta.lahitapiola.fi
 ext-gw.lahitapiola.fi
-www.lahitapiola.fi
-api.lahitapiola.fi
+*.beta.lahitapiola.fi
 *.lahitapiola.fi
+api.lahitapiola.fi
+www.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3302,12 +3302,12 @@ gamma.grab.co
 manage.grab.co
 *.taralite.com
 api.grabpay.com
-*.grabpay.com
 kartaview.org
 *.myteksi.com
+*.grabpay.com
 jira.grab.com
-xtramile.grabpay.com
 gifts.grab.com
+xtramile.grabpay.com
 grab.careers
 *.grab-sure.com
 *.ovo.id
@@ -3350,8 +3350,8 @@ bma.bumble.com
 getofficial.co
 eu1.badoo.com
 us1.badoo.com
-www.bumble.com
 badoo.com
+www.bumble.com
 www.bumble.com
 bma.bumble.com
 badoo.com
@@ -3369,12 +3369,12 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.tospotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
+*.tospotify.com
 *.withspotify.com
 api.spotify.com
 assets.spotify.com
@@ -3493,8 +3493,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-www.starbucks.com.sg
 gift.starbucks.co.jp
+www.starbucks.com.sg
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3570,10 +3570,10 @@ npmjs.org
 gist.github.com
 education.github.com
 *.githubusercontent.com
-npmjs.com
 classroom.github.com
 api.github.com
 github.com
+npmjs.com
 github.com
 api.github.com
 gist.github.com
@@ -3618,8 +3618,8 @@ api2.grofers.com
 *.zdev.net
 *.runnr.in
 *.zomans.com
-blinkit.com
 winecellar.zomato.com
+blinkit.com
 *.hyperpure.com
 *.zomato.com
 *.zomato.com
@@ -3690,9 +3690,9 @@ shopify.plus
 shopifyinbox.com
 *.shopifycloud.com
 linkpop.com
-partners.shopify.com
 *.shopifykloud.com
 *.shopifycs.com
+partners.shopify.com
 arrive-server.shopifycloud.com
 accounts.shopify.com
 *.shopify.io
@@ -3820,8 +3820,8 @@ api.airbnb.com
 www.hoteltonight.com
 *.hoteltonight-test.com
 *.withairbnb.com
-*.airbnb-aws.com
 assets.airbnb.com
+*.airbnb-aws.com
 www.airbnb.com
 *.airbnb.com
 www.airbnb.com
@@ -3966,8 +3966,8 @@ blog.irccloud.com
 custody.coinbase.com
 prime.coinbase.com
 international.coinbase.com
-*.base.org
 institutional.coinbase.com
+*.base.org
 api.custody.coinbase.com
 api.coinbase.com
 commerce.coinbase.com
