@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 17 21:19:13 UTC 2024)
+## Domains with Bounties (Last Updated Wed Apr 17 21:41:43 UTC 2024)
 ```
 www.dyson.no
 www.fi.dyson.com
@@ -16,7 +16,6 @@ api.dyson.de
 api.dyson.ch
 api.dyson.ie
 shop.dyson.ru
-www.dyson.my
 www.dyson.fr
 www.dyson.co.th
 www.dyson.it
@@ -24,6 +23,7 @@ www.dyson.de
 www.dyson.cz
 www.dyson.nl
 www.dyson.hu
+shop.dyson.co.za
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -488,9 +488,9 @@ portal.taxi.booking.com
 secure-supply-xml.booking.com
 cars.booking.com
 kyc-onboarding.booking.com
+spark.fareharbor.com
 teleport.fareharbor.engineering
 paymentcomponent.booking.com
-spark.fareharbor.com
 flights.booking.com
 indicative-pricing.taxi.booking.com
 taxi.booking.com
@@ -502,13 +502,13 @@ secure.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
 booking.com
-taxis.booking.com
 demo.fareharbor.com
+taxis.booking.com
 *.rentalcars.com
 sites.fareharbor.com
 chat.booking.com
-*.booking.com
 admin.booking.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -785,8 +785,8 @@ developer.cybersource.com
 sandbox.authorize.net
 developer.authorize.net
 developer.visa.com
-yourdomain.freshcaller.com
 yourdomain.freshdesk.com
+yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshservice.com
 yourdomain.myfreshworks.com
@@ -796,8 +796,8 @@ yourdomain.freshchat.com
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
 app.kolesa.kz
-api.kolesa.kz
 kolesa.kz
+api.kolesa.kz
 id.kolesa.kz
 m.krisha.kz
 app.krisha.kz
@@ -827,9 +827,9 @@ lando.services.mozilla.com
 contile.services.mozilla.com
 crash-stats.allizom.org
 merino.services.mozilla.com
+aus5.mozilla.org
 addons.allizom.org
 sync.services.mozilla.com
-aus5.mozilla.org
 hg.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 shavar.services.mozilla.com
@@ -920,8 +920,8 @@ auth2.indrive.tech
 argocd.indrive.dev
 auth.indrive.tech
 volans.tech
-truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
+truck-api.eu-east-1.indriverapp.com
 watchdocs.indriverapp.com
 wga.volans.tech
 ci.indrive.dev
@@ -1045,10 +1045,10 @@ pay.8x8.com
 work.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
+voapi.8x8.com
+*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
-*.8x8.id
-voapi.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
 platform.8x8.com
@@ -1057,8 +1057,8 @@ sso.8x8pilot.com
 admin.8x8.com
 *.wavecell.com
 *.jit.si
-*.packet8.net
 sso.8x8.com
+*.packet8.net
 user-profile.8x8.com
 *.8x8.vc
 *.jit.si
@@ -1092,8 +1092,8 @@ admin.8x8.com
 *.napoleongames.be
 *.napoleonsports.be
 *.luckydays.com
-*.superbet.ro
 *.superbet.rs
+*.superbet.ro
 *.luckydays.ca
 *.superbet.com
 *.superbet.pl
@@ -1204,8 +1204,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.workers.dev
 magiceden.io
-*.magiceden.io
 *.magiceden.dev
+*.magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1354,9 +1354,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
+api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
-api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1657,10 +1657,10 @@ marketplace.fedramp.gov
 *.search.gov
 federalist.18f.gov
 federalist-docs.18f.gov
+cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
-cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1733,10 +1733,10 @@ https://www.xvideos.net/app/
 *.found.io
 *.elasticnet.co
 *.elstc.co
-*.elastic.co
 www.elastic.co
 cloud.elastic.co
 *.swiftype.com
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1855,8 +1855,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-www.chime.com
 wp-qa.chime.com
+www.chime.com
 *.chimebank.com
 *.chime.com
 *.1debit.com
@@ -2048,16 +2048,16 @@ developers.tiktok.com
 *.tiktok.com
 partner.tiktokshop.com
 creatormarketplace.tiktok.com
-live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
 www.pangleglobal.com
-careers.tiktok.com
 seller-id.tokopedia.com
 tiktok.com
+careers.tiktok.com
 *.tiktokv.com
-ads.tiktok.com
 business.tiktok.com
 fp-sg.tiktokv.com
+ads.tiktok.com
+live-backstage.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2108,8 +2108,8 @@ api.figma.com
 www.figma.com
 www.figma.com
 api.figma.com
-3d.cs.money
 support.cs.money
+3d.cs.money
 wiki.cs.money
 blog.cs.money
 cs.money
@@ -2410,10 +2410,10 @@ itv7.itv.com
 *.amazon.nl
 *.amazon.co.jp
 *.amazon.fr
-*.amazon.com
 *.amazon.co.uk
-*.amazon.cn
+*.amazon.com
 *.amazon.in
+*.amazon.cn
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2913,18 +2913,18 @@ service.racing.fanduel.com
 4njbets.tvg.com
 4njbets.com
 4njbets.us.betfair.com
+login-4njbets.us.betfair.com
+login-pabets.tvg.com
 mobile-prod.tvg.com
+login-ia.tvg.com
 m.4njbets.tvg.com
 pabets.tvg.com
 login.tvg.com
-www.4njbets.com
-service.tvg.com
-promos.tvg.com
-login-4njbets.us.betfair.com
-login-pabets.tvg.com
-login-ia.tvg.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
+service.tvg.com
+promos.tvg.com
+www.4njbets.com
 com.fanduel.android.live
 www.tvg.com
 tvg.com
@@ -2997,11 +2997,11 @@ loanbuilder.com
 *.paypalcorp.com
 *.braintreepayments.com
 *.hyperwallet.com
-paypalobjects.com
 sandbox.braintreegateway.com
 *.braintree-api.com
 py.pl
 *.paypal.com
+paypalobjects.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3152,9 +3152,9 @@ api.steampowered.com
 www.dota2.com
 partner.steamgames.com
 steamcommunity.com
-store.steampowered.com
 www.valvesoftware.com
 www.teamfortress.com
+store.steampowered.com
 www.counter-strike.net
 www.dota2.com
 support.steampowered.com
@@ -3176,8 +3176,8 @@ merchant.crypto.com
 auth.crypto.com
 tax.crypto.com
 *.crypto.com
-app.mona.co
 www.crypto.com
+app.mona.co
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3211,9 +3211,9 @@ secure.plaid.com
 plaid.com
 api.blockscore.com
 manage.blockscore.com
-dashboard.plaid.com
 app.quovo.com
 my.plaid.com
+dashboard.plaid.com
 production.plaid.com
 dashboard.plaid.com
 cdn.plaid.com
@@ -3260,11 +3260,11 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-*.beta.lahitapiola.fi
 ext-gw.lahitapiola.fi
-www.lahitapiola.fi
-api.lahitapiola.fi
+*.beta.lahitapiola.fi
 *.lahitapiola.fi
+api.lahitapiola.fi
+www.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3302,9 +3302,9 @@ gamma.grab.co
 manage.grab.co
 *.taralite.com
 api.grabpay.com
-*.grabpay.com
 kartaview.org
 *.myteksi.com
+*.grabpay.com
 jira.grab.com
 xtramile.grabpay.com
 gifts.grab.com
@@ -3493,8 +3493,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
 www.starbucks.com.sg
+gift.starbucks.co.jp
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3697,8 +3697,8 @@ accounts.shopify.com
 *.shopify.io
 admin.shopify.com
 shop.app
-your-store.myshopify.com
 *.shopify.com
+your-store.myshopify.com
 arrive-server.shopifycloud.com
 *.shopifycs.com
 *.shopify.io
@@ -3821,8 +3821,8 @@ api.airbnb.com
 www.hoteltonight.com
 *.hoteltonight-test.com
 *.withairbnb.com
-*.airbnb-aws.com
 assets.airbnb.com
+*.airbnb-aws.com
 *.airbnb.com
 www.airbnb.com
 www.airbnb.com
@@ -3967,14 +3967,14 @@ blog.irccloud.com
 custody.coinbase.com
 prime.coinbase.com
 international.coinbase.com
-*.base.org
 institutional.coinbase.com
+*.base.org
 api.custody.coinbase.com
 api.coinbase.com
 commerce.coinbase.com
 nft.coinbase.com
-*.coinbase.com
 pro.coinbase.com
+*.coinbase.com
 coinbase.com
 cloud.coinbase.com
 *.coinbase.com
@@ -4002,8 +4002,8 @@ www.quip.com
 slack-imgs.com
 status.slack.com
 slack.com
-app.slack.com
 api.slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
