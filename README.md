@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr 18 03:42:02 UTC 2024)
+## Domains with Bounties (Last Updated Thu Apr 18 04:20:55 UTC 2024)
 ```
 www.dyson.no
 www.fi.dyson.com
@@ -488,9 +488,9 @@ portal.taxi.booking.com
 secure-supply-xml.booking.com
 cars.booking.com
 kyc-onboarding.booking.com
+spark.fareharbor.com
 teleport.fareharbor.engineering
 paymentcomponent.booking.com
-spark.fareharbor.com
 flights.booking.com
 indicative-pricing.taxi.booking.com
 taxi.booking.com
@@ -504,11 +504,11 @@ readonly.fareharbor.com
 booking.com
 demo.fareharbor.com
 taxis.booking.com
-chat.booking.com
 sites.fareharbor.com
+chat.booking.com
 admin.booking.com
-*.booking.com
 *.rentalcars.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -788,16 +788,16 @@ developer.visa.com
 yourdomain.freshcaller.com
 yourdomain.freshdesk.com
 yourdomain.freshchat.com
-yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
 app.kolesa.kz
-api.kolesa.kz
 kolesa.kz
+api.kolesa.kz
 id.kolesa.kz
 m.krisha.kz
 app.krisha.kz
@@ -827,14 +827,14 @@ lando.services.mozilla.com
 contile.services.mozilla.com
 crash-stats.allizom.org
 merino.services.mozilla.com
-aus5.mozilla.org
 addons.allizom.org
 sync.services.mozilla.com
+aus5.mozilla.org
 hg.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 shavar.services.mozilla.com
-bugzilla.mozilla.org
 monitor.mozilla.org
+bugzilla.mozilla.org
 accounts.firefox.com
 push.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
@@ -842,9 +842,9 @@ developer.mozilla.org
 support.mozilla.org
 firefox.settings.services.mozilla.com
 community-tc.services.mozilla.com
-relay.firefox.com
-firefox-ci-tc.services.mozilla.com
 phabricator.allizom.org
+firefox-ci-tc.services.mozilla.com
+relay.firefox.com
 www.mozilla.org
 addons.allizom.org
 developer.mozilla.org
@@ -888,8 +888,8 @@ hiltonlocalbiz.com
 hiltonhotels.jp
 *.hilton.io
 *.hiltonbusinessonline.com
-hilton.com
 hilton.io
+hilton.com
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -931,8 +931,8 @@ cargo.indrive.com
 ab-platform-api.eu-east-1.indriverapp.com
 *.indriverapp.com
 super-services.indriverapp.com
-*.indrive.com
 file-storage-front.eu-east-1.indriverapp.com
+*.indrive.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1289,8 +1289,8 @@ royal.checksw.com
 *.superpal.io/*
 www.trendyol-milla.com
 m.trendyol.com
-www.dolap.com
 www.trendyol.com
+www.dolap.com
 www.trendyol.com
 m.trendyol.com
 www.dolap.com
@@ -1657,10 +1657,10 @@ marketplace.fedramp.gov
 *.search.gov
 federalist.18f.gov
 federalist-docs.18f.gov
-cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
+cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1783,8 +1783,8 @@ sh.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
-new.reddit.com
 old.reddit.com
+new.reddit.com
 *.reddithelp.com
 matrix.redditspace.com
 mod.reddit.com
@@ -2052,12 +2052,12 @@ careers.tiktok.com
 seller-id.tokopedia.com
 business.tiktok.com
 fp-sg.tiktokv.com
-partner.tiktokshop.com
 tiktok.com
 *.tiktokv.com
+partner.tiktokshop.com
+live-backstage.tiktok.com
 *.tiktok.com
 ads.tiktok.com
-live-backstage.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2272,8 +2272,8 @@ mackeeper.com
 api.direct.playstation.com
 social.playstation.com
 wallets.api.playstation.com
-my.playstation.com
 transact.playstation.com
+my.playstation.com
 store.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2412,8 +2412,8 @@ itv7.itv.com
 *.amazon.cn
 *.amazon.in
 *.amazon.co.jp
-*.amazon.com
 *.amazon.es
+*.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2487,7 +2487,6 @@ unibet.me
 maria.casino
 *.ottokasino.com
 *.vladcazino.ro
-*.unibet.fr
 *.storspiller.com
 *.kolikkopelit.com
 *.casinohuone.com
@@ -2498,6 +2497,7 @@ maria.casino
 www.32red.com
 *.bingo.com
 *.unibet.com
+*.unibet.fr
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2729,7 +2729,7 @@ admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
 secure.rezserver.com
-cruises.priceline.com
+press.priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3040,8 +3040,8 @@ m.chaturbate.com
 billingsupport.chaturbate.com
 *.mmcdn.com
 *.mmwebc.dev
-chaturbate.com
 *.cb.dev
+chaturbate.com
 *.highwebmedia.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -3147,14 +3147,14 @@ developer.valvesoftware.com
 support.steampowered.com
 partner.steampowered.com
 playartifact.com
-api.steampowered.com
 help.steampowered.com
+api.steampowered.com
 www.dota2.com
 partner.steamgames.com
 steamcommunity.com
+store.steampowered.com
 www.valvesoftware.com
 www.teamfortress.com
-store.steampowered.com
 www.counter-strike.net
 www.dota2.com
 support.steampowered.com
@@ -3173,11 +3173,11 @@ developer.valvesoftware.com
 js.crypto.com
 pay.crypto.com
 auth.crypto.com
-www.crypto.com
-app.mona.co
-tax.crypto.com
 merchant.crypto.com
 *.crypto.com
+tax.crypto.com
+www.crypto.com
+app.mona.co
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3260,10 +3260,10 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-*.beta.lahitapiola.fi
 ext-gw.lahitapiola.fi
-api.lahitapiola.fi
+*.beta.lahitapiola.fi
 *.lahitapiola.fi
+api.lahitapiola.fi
 www.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
@@ -3302,9 +3302,9 @@ gamma.grab.co
 manage.grab.co
 *.taralite.com
 api.grabpay.com
+*.grabpay.com
 kartaview.org
 *.myteksi.com
-*.grabpay.com
 jira.grab.com
 xtramile.grabpay.com
 grab.careers
@@ -3369,12 +3369,12 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.tospotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
+*.tospotify.com
 *.withspotify.com
 api.spotify.com
 assets.spotify.com
@@ -3493,8 +3493,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-www.starbucks.com.sg
 gift.starbucks.co.jp
+www.starbucks.com.sg
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3617,8 +3617,8 @@ api.grofers.com
 api2.grofers.com
 *.zdev.net
 *.runnr.in
-blinkit.com
 winecellar.zomato.com
+blinkit.com
 *.hyperpure.com
 *.zomans.com
 *.zomato.com
@@ -3691,13 +3691,13 @@ shopifyinbox.com
 *.shopifycloud.com
 linkpop.com
 partners.shopify.com
-*.shopifykloud.com
 *.shopifycs.com
+*.shopifykloud.com
 *.shopify.io
-admin.shopify.com
 shop.app
-your-store.myshopify.com
+admin.shopify.com
 *.shopify.com
+your-store.myshopify.com
 arrive-server.shopifycloud.com
 accounts.shopify.com
 *.shopifycs.com
@@ -3885,9 +3885,9 @@ gnip.com
 ide.x.ai
 grok.x.ai
 *.twimg.com
-api.x.ai
 *.twitter.com
 x.com
+api.x.ai
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4248,8 +4248,8 @@ magentocommerce.com
 u.magento.com
 imagine.magento.com
 magentolive.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 magento.com
 account.magento.com
 marketplace.magento.com
@@ -4495,8 +4495,8 @@ api.greenhouse.io
 onboarding.greenhouse.io
 jss.greenhouse.io
 app.interseller.io
-interseller.io
 www.greenhouse.io
+interseller.io
 support.greenhouse.io
 app.greenhouse.io
 app.greenhouse.io
