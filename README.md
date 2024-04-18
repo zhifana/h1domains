@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr 18 22:40:36 UTC 2024)
+## Domains with Bounties (Last Updated Thu Apr 18 23:19:04 UTC 2024)
 ```
 www.dyson.no
 www.fi.dyson.com
@@ -436,12 +436,12 @@ www.mercadolibre.com.uy
 www.mercadolibre.com.co
 www.mercadolibre.com.mx
 www.mercadopago.com.co
-www.mercadopago.cl
 www.mercadopago.com.mx
+www.mercadopago.cl
 www.mercadopago.com.br
 www.mercadolivre.com.br
-api.mercadopago.com
 www.mercadopago.com.ar
+api.mercadopago.com
 www.mercadolibre.com.ar
 api.mercadolibre.com
 www.mercadolibre.cl
@@ -492,8 +492,8 @@ secure.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
 booking.com
-taxis.booking.com
 demo.fareharbor.com
+taxis.booking.com
 sites.fareharbor.com
 chat.booking.com
 admin.booking.com
@@ -709,8 +709,8 @@ www.cardinalcommerce.com
 www.visa.com.tw
 www.visa.com.tr
 www.visa.com.hr
-www.yellowpepper.com
 www.tink.com
+www.yellowpepper.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -878,8 +878,8 @@ hiltonlocalbiz.com
 hiltonhotels.jp
 *.hilton.io
 *.hiltonbusinessonline.com
-hilton.io
 hilton.com
+hilton.io
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -962,8 +962,8 @@ skinport.com
 app.skinport.com
 api.skinport.com
 http://skinport.com/blog/
-api.miro.com
 miro.com
+api.miro.com
 http://miro.com/app
 miro.com
 api.miro.com
@@ -1017,10 +1017,10 @@ api.sokos.fi
 cfapi.voikukka.fi
 jobs.kiwi.com
 tequila.kiwi.com
-auth.skypicker.com
 www.kiwi.com
 *.skypicker.com
 *.kiwi.com
+auth.skypicker.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1144,8 +1144,8 @@ www.orbitz.com
 www.ebookers.fi
 www.mrjet.se
 www.expediaagents.com
-www.stayz.com.au
 www.fewo-direkt.de
+www.stayz.com.au
 www.bookabach.co.nz
 www.abritel.fr
 www.expediagroup.com
@@ -1161,9 +1161,9 @@ www.ebookers.com
 www.hotels.com
 *.vrbo.com
 *.expediacruises.com
-www.expediataap.com
 www.expedia.com
 *.lastminute.com.au
+www.expediataap.com
 *.hotwire.com
 *.expediapartnercentral.com
 *.lastminute.co.nz
@@ -1216,8 +1216,8 @@ cloud.gravitational.io
 askpam.ai
 *.teleportinfra.sh
 platform.teleport.sh
-h1-your-domain.teleport.sh
 *.goteleport.com
+h1-your-domain.teleport.sh
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -1649,10 +1649,10 @@ marketplace.fedramp.gov
 *.search.gov
 federalist.18f.gov
 federalist-docs.18f.gov
+cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
-cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -2043,13 +2043,13 @@ fp-sg.tiktokv.com
 *.tiktokv.com
 *.tiktok.com
 live-backstage.tiktok.com
+academy-outbound-ads.tiktok.com
 business.tiktok.com
 tiktok.com
-academy-outbound-ads.tiktok.com
-ads.tiktok.com
 seller-id.tokopedia.com
 partner.tiktokshop.com
 www.pangleglobal.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2100,8 +2100,8 @@ api.figma.com
 www.figma.com
 www.figma.com
 api.figma.com
-3d.cs.money
 support.cs.money
+3d.cs.money
 wiki.cs.money
 blog.cs.money
 cs.money
@@ -2386,13 +2386,13 @@ itv7.itv.com
 *.amazon.sa
 *.amazon.se
 *.amazon.sg
-*.amazon.de
 *.amazon.com.tr
+*.amazon.de
 *.amazon.it
 *.amazon.com.be
 *.amazon.com.br
-*.amazon.com.co
 *.amazon.eg
+*.amazon.com.co
 *.amazon.ae
 *.amazon.ca
 *.amazon.com.mx
@@ -2402,9 +2402,9 @@ itv7.itv.com
 *.amazon.pl
 *.amazon.co.jp
 *.amazon.es
-*.amazon.com
 *.amazon.in
 *.amazon.cn
+*.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2439,12 +2439,12 @@ www.amazon.*
 *.1688.com
 *.taobao.com
 *.alibabacloud.com
-*.alibaba.com
 *.aliyun.com
-*.aliexpress.com
 *.alibaba-inc.com
+*.aliexpress.com
 *.Daraz.com
 www.alibabagroup.com
+*.alibaba.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2487,8 +2487,8 @@ maria.casino
 *.kes.kindredext.net
 *.bingo.com
 *.unibet.com
-www.32red.com
 *.unibet.fr
+www.32red.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2905,15 +2905,15 @@ service.racing.fanduel.com
 4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
-mobile-prod.tvg.com
-pabets.tvg.com
-service.tvg.com
-promos.tvg.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
 login-ia.tvg.com
 m.4njbets.tvg.com
 login.tvg.com
+mobile-prod.tvg.com
+pabets.tvg.com
+service.tvg.com
+promos.tvg.com
 www.4njbets.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
@@ -2970,10 +2970,10 @@ paypal.me
 *.paylution.com
 api.swiftfinancial.com
 decision.swiftfinancial.com
-partner.swiftfinancial.com
 my.swiftfinancial.com
-scrutiny.swiftfinancial.com
+partner.swiftfinancial.com
 pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftfinancial.com
 swiftfinancial.com
 prequal.swiftfinancial.com
@@ -2982,9 +2982,9 @@ my.loanbuilder.com
 www.loanbuilder.com
 www.swiftcapital.com
 swiftcapital.com
+*.venmo.com
 *.xoom.com
 *.braintreegateway.com
-*.venmo.com
 loanbuilder.com
 *.paypalcorp.com
 *.braintreepayments.com
@@ -3139,8 +3139,8 @@ developer.valvesoftware.com
 support.steampowered.com
 partner.steampowered.com
 playartifact.com
-help.steampowered.com
 api.steampowered.com
+help.steampowered.com
 www.dota2.com
 partner.steamgames.com
 www.valvesoftware.com
@@ -3294,9 +3294,9 @@ gamma.grab.co
 manage.grab.co
 *.taralite.com
 api.grabpay.com
+*.grabpay.com
 kartaview.org
 *.myteksi.com
-*.grabpay.com
 jira.grab.com
 xtramile.grabpay.com
 grab.careers
@@ -3361,12 +3361,12 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.atspotify.com
 *.avecspotify.com
+*.atspotify.com
 *.enspotify.com
-*.forspotify.com
-*.fromspotify.com
 *.tospotify.com
+*.fromspotify.com
+*.forspotify.com
 *.withspotify.com
 api.spotify.com
 assets.spotify.com
@@ -3485,8 +3485,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-www.starbucks.com.sg
 gift.starbucks.co.jp
+www.starbucks.com.sg
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3564,8 +3564,8 @@ education.github.com
 *.githubusercontent.com
 classroom.github.com
 npmjs.com
-github.com
 api.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3689,9 +3689,9 @@ accounts.shopify.com
 shop.app
 *.shopify.com
 your-store.myshopify.com
-admin.shopify.com
 *.shopify.io
 partners.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3736,8 +3736,8 @@ web.snapchat.com
 business.snapchat.com
 store.playcanvas.com
 app.snapchat.com
-accounts.snapchat.com
 *.sc-core.net
+accounts.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3813,8 +3813,8 @@ api.airbnb.com
 www.hoteltonight.com
 *.hoteltonight-test.com
 *.withairbnb.com
-assets.airbnb.com
 *.airbnb-aws.com
+assets.airbnb.com
 www.airbnb.com
 *.airbnb.com
 www.airbnb.com
@@ -4034,10 +4034,10 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 profile-photos.hackerone-user-content.com
 app.pullrequest.com
 reviewer.pullrequest.com
-a5s.hackerone-ext-content.com
-www.hackerone.com
 ctf.hacker101.com
 hackerone-user-content.com
+www.hackerone.com
+a5s.hackerone-ext-content.com
 api.hackerone.com
 hackerone.com
 hackerone.com
