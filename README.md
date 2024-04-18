@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr 18 09:43:02 UTC 2024)
+## Domains with Bounties (Last Updated Thu Apr 18 10:21:14 UTC 2024)
 ```
 www.dyson.no
 www.fi.dyson.com
@@ -307,9 +307,9 @@ rates.rewire.com
 *.int.remitly.com
 cards.remitly.io
 rewire.com
+remitly.com
 app.rewire.to
 app3.rewire.to
-remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -436,8 +436,8 @@ www.mercadolibre.com.uy
 www.mercadolibre.com.co
 www.mercadolibre.com.mx
 www.mercadopago.com.co
-www.mercadopago.com.mx
 www.mercadopago.cl
+www.mercadopago.com.mx
 www.mercadopago.com.ar
 www.mercadolibre.com.ar
 api.mercadopago.com
@@ -492,13 +492,13 @@ secure.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
 booking.com
-demo.fareharbor.com
 taxis.booking.com
+demo.fareharbor.com
 chat.booking.com
-sites.fareharbor.com
-admin.booking.com
 *.rentalcars.com
 *.booking.com
+admin.booking.com
+sites.fareharbor.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -709,8 +709,8 @@ www.cardinalcommerce.com
 www.visa.com.tw
 www.visa.com.tr
 www.visa.com.hr
-www.tink.com
 www.yellowpepper.com
+www.tink.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -786,8 +786,8 @@ yourdomain.freshchat.com
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
 app.kolesa.kz
-api.kolesa.kz
 kolesa.kz
+api.kolesa.kz
 id.kolesa.kz
 m.krisha.kz
 app.krisha.kz
@@ -823,8 +823,8 @@ sync.services.mozilla.com
 hg.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 shavar.services.mozilla.com
-bugzilla.mozilla.org
 monitor.mozilla.org
+bugzilla.mozilla.org
 accounts.firefox.com
 push.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
@@ -833,9 +833,9 @@ support.mozilla.org
 firefox.settings.services.mozilla.com
 phabricator.allizom.org
 www.mozilla.org
-relay.firefox.com
 firefox-ci-tc.services.mozilla.com
 community-tc.services.mozilla.com
+relay.firefox.com
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
@@ -878,8 +878,8 @@ hiltonlocalbiz.com
 hiltonhotels.jp
 *.hilton.io
 *.hiltonbusinessonline.com
-hilton.io
 hilton.com
+hilton.io
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -910,8 +910,8 @@ auth2.indrive.tech
 argocd.indrive.dev
 auth.indrive.tech
 volans.tech
-truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
+truck-api.eu-east-1.indriverapp.com
 watchdocs.indriverapp.com
 wga.volans.tech
 ci.indrive.dev
@@ -1216,8 +1216,8 @@ cloud.gravitational.io
 askpam.ai
 *.teleportinfra.sh
 h1-your-domain.teleport.sh
-*.goteleport.com
 platform.teleport.sh
+*.goteleport.com
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -1649,10 +1649,10 @@ marketplace.fedramp.gov
 *.search.gov
 federalist.18f.gov
 federalist-docs.18f.gov
+cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
-cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1745,8 +1745,8 @@ api.taxjar.com
 js.stripe.com
 *.touchtechpayments.com
 app.taxjar.com
-*.stripe.com
 api.stripe.com
+*.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1775,8 +1775,8 @@ sh.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
-new.reddit.com
 old.reddit.com
+new.reddit.com
 *.reddithelp.com
 matrix.redditspace.com
 mod.reddit.com
@@ -1787,10 +1787,10 @@ gql.reddit.com
 oauth.reddit.com
 accounts.reddit.com
 www.reddit.com
-*.reddit.com
 *.redditmedia.com
 ads.reddit.com
 *.redditinc.com
+*.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2040,15 +2040,15 @@ developers.tiktok.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 www.pangleglobal.com
-careers.tiktok.com
 seller-id.tokopedia.com
+careers.tiktok.com
 business.tiktok.com
 fp-sg.tiktokv.com
-tiktok.com
 *.tiktokv.com
+tiktok.com
 partner.tiktokshop.com
-live-backstage.tiktok.com
 ads.tiktok.com
+live-backstage.tiktok.com
 *.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2402,8 +2402,8 @@ itv7.itv.com
 *.amazon.co.uk
 *.amazon.cn
 *.amazon.co.jp
-*.amazon.com
 *.amazon.es
+*.amazon.com
 *.amazon.in
 *.amazon.cl
 *.amazon.co.za
@@ -2967,20 +2967,20 @@ https://github.com/matomo-org/docker
 paypal.me
 *.braintree.tools
 *.paylution.com
-api.swiftfinancial.com
-scrutiny.swiftfinancial.com
-www.swiftfinancial.com
+my.swiftfinancial.com
 swiftfinancial.com
+prequal.swiftfinancial.com
 www.swiftcapital.com
 swiftcapital.com
-decision.swiftfinancial.com
 partner.swiftfinancial.com
-my.swiftfinancial.com
 pigeon.swiftfinancial.com
-prequal.swiftfinancial.com
+scrutiny.swiftfinancial.com
+www.swiftfinancial.com
 api.loanbuilder.com
 my.loanbuilder.com
 www.loanbuilder.com
+api.swiftfinancial.com
+decision.swiftfinancial.com
 *.xoom.com
 *.braintreegateway.com
 *.venmo.com
@@ -3138,8 +3138,8 @@ developer.valvesoftware.com
 support.steampowered.com
 partner.steampowered.com
 playartifact.com
-help.steampowered.com
 api.steampowered.com
+help.steampowered.com
 www.dota2.com
 partner.steamgames.com
 www.valvesoftware.com
@@ -3293,9 +3293,9 @@ gamma.grab.co
 manage.grab.co
 *.taralite.com
 api.grabpay.com
+*.grabpay.com
 kartaview.org
 *.myteksi.com
-*.grabpay.com
 jira.grab.com
 xtramile.grabpay.com
 grab.careers
@@ -3336,13 +3336,13 @@ badoocdn.com
 translate.badoo.com
 ccardseu1.badoo.com
 ccardsus1.badoo.com
-chatdate.app
 bma.bumble.com
 getofficial.co
 eu1.badoo.com
 us1.badoo.com
 badoo.com
 www.bumble.com
+chatdate.app
 www.bumble.com
 bma.bumble.com
 badoo.com
@@ -3484,8 +3484,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-www.starbucks.com.sg
 gift.starbucks.co.jp
+www.starbucks.com.sg
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3524,8 +3524,8 @@ ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
-search.brave.com
 talk.brave.com
+search.brave.com
 brave.com
 brave.com
 basicattentiontoken.org
@@ -3592,8 +3592,8 @@ about.gitlab.com
 customers.gitlab.com
 *.gitlab.net
 docs.gitlab.com
-*.gitlap.com
 gitlab.com
+*.gitlap.com
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3608,8 +3608,8 @@ api.grofers.com
 api2.grofers.com
 *.zdev.net
 *.runnr.in
-winecellar.zomato.com
 blinkit.com
+winecellar.zomato.com
 *.hyperpure.com
 *.zomans.com
 *.zomato.com
@@ -3682,8 +3682,8 @@ shopifyinbox.com
 *.shopifycloud.com
 linkpop.com
 partners.shopify.com
-*.shopifykloud.com
 *.shopifycs.com
+*.shopifykloud.com
 *.shopify.io
 admin.shopify.com
 *.shopify.com
@@ -3876,9 +3876,9 @@ gnip.com
 ide.x.ai
 grok.x.ai
 *.twimg.com
-*.twitter.com
 x.com
 api.x.ai
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4036,8 +4036,8 @@ reviewer.pullrequest.com
 ctf.hacker101.com
 hackerone-user-content.com
 www.hackerone.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4486,8 +4486,8 @@ api.greenhouse.io
 onboarding.greenhouse.io
 jss.greenhouse.io
 app.interseller.io
-interseller.io
 www.greenhouse.io
+interseller.io
 support.greenhouse.io
 app.greenhouse.io
 app.greenhouse.io
