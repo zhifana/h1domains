@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr 18 09:20:46 UTC 2024)
+## Domains with Bounties (Last Updated Thu Apr 18 09:43:02 UTC 2024)
 ```
 www.dyson.no
 www.fi.dyson.com
@@ -306,10 +306,10 @@ api.remitly.io
 rates.rewire.com
 *.int.remitly.com
 cards.remitly.io
-app3.rewire.to
-remitly.com
 rewire.com
 app.rewire.to
+app3.rewire.to
+remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -709,8 +709,8 @@ www.cardinalcommerce.com
 www.visa.com.tw
 www.visa.com.tr
 www.visa.com.hr
-www.yellowpepper.com
 www.tink.com
+www.yellowpepper.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -823,8 +823,8 @@ sync.services.mozilla.com
 hg.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 shavar.services.mozilla.com
-monitor.mozilla.org
 bugzilla.mozilla.org
+monitor.mozilla.org
 accounts.firefox.com
 push.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
@@ -833,8 +833,8 @@ support.mozilla.org
 firefox.settings.services.mozilla.com
 phabricator.allizom.org
 www.mozilla.org
-firefox-ci-tc.services.mozilla.com
 relay.firefox.com
+firefox-ci-tc.services.mozilla.com
 community-tc.services.mozilla.com
 addons.allizom.org
 developer.mozilla.org
@@ -878,8 +878,8 @@ hiltonlocalbiz.com
 hiltonhotels.jp
 *.hilton.io
 *.hiltonbusinessonline.com
-hilton.com
 hilton.io
+hilton.com
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -1035,10 +1035,10 @@ pay.8x8.com
 work.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
-voapi.8x8.com
-*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
+*.8x8.id
+voapi.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
 platform.8x8.com
@@ -1047,8 +1047,8 @@ sso.8x8pilot.com
 admin.8x8.com
 *.wavecell.com
 *.jit.si
-sso.8x8.com
 *.packet8.net
+sso.8x8.com
 user-profile.8x8.com
 *.8x8.vc
 *.jit.si
@@ -1082,8 +1082,8 @@ admin.8x8.com
 *.napoleongames.be
 *.napoleonsports.be
 *.luckydays.com
-*.superbet.ro
 *.superbet.rs
+*.superbet.ro
 *.luckydays.ca
 *.superbet.com
 *.superbet.pl
@@ -1147,9 +1147,9 @@ www.expediaagents.com
 *.lastminute.co.nz
 www.fewo-direkt.de
 www.stayz.com.au
-www.expediagroup.com
 www.bookabach.co.nz
 www.abritel.fr
+www.expediagroup.com
 www.flights.com
 *.travelocity.ca
 www.expediapartnersolutions.com
@@ -1318,9 +1318,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.simpletax.ca
 www.cheapflights.com
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 www.momondo.com
 business.kayak.com
 www.hotelscombined.com
@@ -1399,10 +1399,10 @@ uapi-front.etoro.com
 wallet.etoro.com
 watchlistapi.etoro.com
 rankings.etoro.com
-delta.app
 bullsheet.me
 etoropartners.com
 www.etoro.com
+delta.app
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -1745,8 +1745,8 @@ api.taxjar.com
 js.stripe.com
 *.touchtechpayments.com
 app.taxjar.com
-api.stripe.com
 *.stripe.com
+api.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1759,8 +1759,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbanclap.com
 www.urbancompany.com
+www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
 meta-api.reddit.com
@@ -2263,8 +2263,8 @@ mackeeper.com
 api.direct.playstation.com
 social.playstation.com
 wallets.api.playstation.com
-transact.playstation.com
 my.playstation.com
+transact.playstation.com
 store.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2400,8 +2400,8 @@ itv7.itv.com
 *.amazon.nl
 *.amazon.fr
 *.amazon.co.uk
-*.amazon.co.jp
 *.amazon.cn
+*.amazon.co.jp
 *.amazon.com
 *.amazon.es
 *.amazon.in
@@ -2596,8 +2596,8 @@ app.nordpass.com
 *.line-apps.com
 *.line.naver.jp
 *.line.biz
-*.line.me
 *.linecorp.com
+*.line.me
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -2904,15 +2904,15 @@ service.racing.fanduel.com
 4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
+mobile-prod.tvg.com
+pabets.tvg.com
+service.tvg.com
+promos.tvg.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
 login-ia.tvg.com
 m.4njbets.tvg.com
 login.tvg.com
-mobile-prod.tvg.com
-pabets.tvg.com
-service.tvg.com
-promos.tvg.com
 www.4njbets.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
@@ -3142,9 +3142,9 @@ help.steampowered.com
 api.steampowered.com
 www.dota2.com
 partner.steamgames.com
-store.steampowered.com
 www.valvesoftware.com
 www.teamfortress.com
+store.steampowered.com
 www.counter-strike.net
 steamcommunity.com
 www.dota2.com
@@ -3163,12 +3163,12 @@ developer.valvesoftware.com
 *.mona.co
 js.crypto.com
 auth.crypto.com
-app.mona.co
 merchant.crypto.com
+app.mona.co
 *.crypto.com
 pay.crypto.com
-www.crypto.com
 tax.crypto.com
+www.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3251,11 +3251,11 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-*.beta.lahitapiola.fi
 ext-gw.lahitapiola.fi
-www.lahitapiola.fi
-api.lahitapiola.fi
+*.beta.lahitapiola.fi
 *.lahitapiola.fi
+api.lahitapiola.fi
+www.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3293,9 +3293,9 @@ gamma.grab.co
 manage.grab.co
 *.taralite.com
 api.grabpay.com
-*.grabpay.com
 kartaview.org
 *.myteksi.com
+*.grabpay.com
 jira.grab.com
 xtramile.grabpay.com
 grab.careers
@@ -3524,8 +3524,8 @@ ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
-talk.brave.com
 search.brave.com
+talk.brave.com
 brave.com
 brave.com
 basicattentiontoken.org
@@ -4035,9 +4035,9 @@ app.pullrequest.com
 reviewer.pullrequest.com
 ctf.hacker101.com
 hackerone-user-content.com
-api.hackerone.com
 www.hackerone.com
 hackerone.com
+api.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
