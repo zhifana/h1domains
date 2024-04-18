@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr 18 06:23:16 UTC 2024)
+## Domains with Bounties (Last Updated Thu Apr 18 06:42:41 UTC 2024)
 ```
 www.dyson.no
 www.fi.dyson.com
@@ -406,8 +406,8 @@ logo.zyro.com
 www.zyro.com
 backend.zyro.com
 *.000webhost.com
-hpanel.hostinger.com
 www.hostinger.com
+hpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -488,9 +488,9 @@ portal.taxi.booking.com
 secure-supply-xml.booking.com
 cars.booking.com
 kyc-onboarding.booking.com
+spark.fareharbor.com
 teleport.fareharbor.engineering
 paymentcomponent.booking.com
-spark.fareharbor.com
 flights.booking.com
 indicative-pricing.taxi.booking.com
 taxi.booking.com
@@ -504,11 +504,11 @@ readonly.fareharbor.com
 booking.com
 demo.fareharbor.com
 taxis.booking.com
-chat.booking.com
 sites.fareharbor.com
+chat.booking.com
 *.booking.com
-*.rentalcars.com
 admin.booking.com
+*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -703,11 +703,11 @@ visa.co.za
 www.fraedom.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
-bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
+bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -719,8 +719,8 @@ www.cardinalcommerce.com
 www.visa.com.tw
 www.visa.com.tr
 www.visa.com.hr
+www.yellowpepper.com
 www.tink.com
-usa.visa.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -787,9 +787,9 @@ developer.authorize.net
 developer.visa.com
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
+yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.myfreshworks.com
-yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -827,9 +827,9 @@ lando.services.mozilla.com
 contile.services.mozilla.com
 crash-stats.allizom.org
 merino.services.mozilla.com
+aus5.mozilla.org
 addons.allizom.org
 sync.services.mozilla.com
-aus5.mozilla.org
 hg.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 shavar.services.mozilla.com
@@ -1051,8 +1051,8 @@ platform.8x8pilot.com
 voapi.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
-platform.8x8.com
 sso.8x8pilot.com
+platform.8x8.com
 *.8x8cloud.net
 admin.8x8.com
 *.wavecell.com
@@ -1092,8 +1092,8 @@ admin.8x8.com
 *.napoleongames.be
 *.napoleonsports.be
 *.luckydays.com
-*.superbet.ro
 *.superbet.rs
+*.superbet.ro
 *.luckydays.ca
 *.superbet.com
 *.superbet.pl
@@ -1793,8 +1793,8 @@ mod.reddit.com
 *.snooguts.net
 api.reddit.com
 ads-api.reddit.com
-gql.reddit.com
 oauth.reddit.com
+gql.reddit.com
 accounts.reddit.com
 www.reddit.com
 *.reddit.com
@@ -2001,10 +2001,10 @@ api.adm.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
-citrix.cloud.com
+adm.cloud.com
 secure.sharefile.eu
 api.sharefile.com
-adm.cloud.com
+citrix.cloud.com
 (yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 secure.sharefile.com
@@ -2274,8 +2274,8 @@ mackeeper.com
 api.direct.playstation.com
 social.playstation.com
 wallets.api.playstation.com
-transact.playstation.com
 my.playstation.com
+transact.playstation.com
 store.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2403,17 +2403,17 @@ itv7.itv.com
 *.amazon.it
 *.amazon.com.be
 *.amazon.com.br
-*.amazon.eg
 *.amazon.com.co
+*.amazon.eg
 *.amazon.ae
 *.amazon.ca
 *.amazon.com.mx
 *.amazon.nl
 *.amazon.fr
 *.amazon.co.uk
+*.amazon.co.jp
 *.amazon.cn
 *.amazon.in
-*.amazon.co.jp
 *.amazon.com
 *.amazon.es
 *.amazon.cl
@@ -2582,8 +2582,8 @@ www.goodrx.com
 *.ra.roblox.com
 api.localizestaging.com
 cdn.localizestaging.com
-localizestaging.com
 app.localizestaging.com
+localizestaging.com
 localizestaging.com
 api.localizestaging.com
 app.localizestaging.com
@@ -2978,20 +2978,20 @@ https://github.com/matomo-org/docker
 paypal.me
 *.braintree.tools
 *.paylution.com
-api.swiftfinancial.com
-decision.swiftfinancial.com
-partner.swiftfinancial.com
 my.swiftfinancial.com
-scrutiny.swiftfinancial.com
-pigeon.swiftfinancial.com
-www.swiftfinancial.com
 swiftfinancial.com
 prequal.swiftfinancial.com
+www.swiftcapital.com
+swiftcapital.com
+partner.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
+www.swiftfinancial.com
 api.loanbuilder.com
 my.loanbuilder.com
 www.loanbuilder.com
-www.swiftcapital.com
-swiftcapital.com
+api.swiftfinancial.com
+decision.swiftfinancial.com
 *.xoom.com
 *.braintreegateway.com
 *.venmo.com
@@ -3041,9 +3041,9 @@ m.chaturbate.com
 *.securegatewayaccess.com
 billingsupport.chaturbate.com
 *.mmcdn.com
-chaturbate.com
-*.cb.dev
 *.mmwebc.dev
+*.cb.dev
+chaturbate.com
 *.highwebmedia.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -3175,10 +3175,10 @@ developer.valvesoftware.com
 js.crypto.com
 pay.crypto.com
 auth.crypto.com
-merchant.crypto.com
-tax.crypto.com
 www.crypto.com
 app.mona.co
+merchant.crypto.com
+tax.crypto.com
 *.crypto.com
 *.crypto.com
 *.mona.co
@@ -3213,9 +3213,9 @@ secure.plaid.com
 plaid.com
 api.blockscore.com
 manage.blockscore.com
-dashboard.plaid.com
 app.quovo.com
 my.plaid.com
+dashboard.plaid.com
 production.plaid.com
 dashboard.plaid.com
 cdn.plaid.com
@@ -3264,9 +3264,9 @@ privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
 *.beta.lahitapiola.fi
 ext-gw.lahitapiola.fi
+www.lahitapiola.fi
 api.lahitapiola.fi
 *.lahitapiola.fi
-www.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3619,8 +3619,8 @@ api.grofers.com
 api2.grofers.com
 *.zdev.net
 *.runnr.in
-winecellar.zomato.com
 blinkit.com
+winecellar.zomato.com
 *.hyperpure.com
 *.zomans.com
 *.zomato.com
@@ -3697,8 +3697,8 @@ partners.shopify.com
 *.shopifycs.com
 *.shopify.io
 admin.shopify.com
-your-store.myshopify.com
 *.shopify.com
+your-store.myshopify.com
 arrive-server.shopifycloud.com
 accounts.shopify.com
 shop.app
@@ -3785,6 +3785,7 @@ ispdesign.ui.com
 store.ui.com
 careers.ui.com
 uisp.com
+rma.ui.com
 *.ubnt.com
 *.ui.com
 store.ui.com
@@ -3814,8 +3815,8 @@ callbacks.airbnb.com
 *.atairbnb.com
 *.byairbnb.com
 *.luxuryretreats.com
-*.airbnbcitizen.com
 support-api.airbnb.com
+*.airbnbcitizen.com
 next.airbnb.com
 api.airbnb.com
 *.muscache.com
@@ -3968,8 +3969,8 @@ blog.irccloud.com
 custody.coinbase.com
 prime.coinbase.com
 international.coinbase.com
-institutional.coinbase.com
 *.base.org
+institutional.coinbase.com
 api.custody.coinbase.com
 api.coinbase.com
 commerce.coinbase.com
@@ -4250,8 +4251,8 @@ magentocommerce.com
 u.magento.com
 imagine.magento.com
 magentolive.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 magento.com
 account.magento.com
 marketplace.magento.com
@@ -4497,8 +4498,8 @@ api.greenhouse.io
 onboarding.greenhouse.io
 jss.greenhouse.io
 app.interseller.io
-www.greenhouse.io
 interseller.io
+www.greenhouse.io
 support.greenhouse.io
 app.greenhouse.io
 app.greenhouse.io
