@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Apr 19 13:41:12 UTC 2024)
+## Domains with Bounties (Last Updated Fri Apr 19 14:19:14 UTC 2024)
 ```
 www.fi.dyson.com
 api.dyson.se
@@ -417,8 +417,8 @@ mediacenter.23andme.com
 therapeutics.23andme.com
 api.23andme.com
 you.23andme.com
-medical.23andme.com
 auth.23andme.com
+medical.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -478,9 +478,9 @@ portal.taxi.booking.com
 secure-supply-xml.booking.com
 cars.booking.com
 kyc-onboarding.booking.com
-spark.fareharbor.com
 teleport.fareharbor.engineering
 paymentcomponent.booking.com
+spark.fareharbor.com
 flights.booking.com
 indicative-pricing.taxi.booking.com
 taxi.booking.com
@@ -490,8 +490,8 @@ www.fareharbor.com
 secure.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
-demo.fareharbor.com
 taxis.booking.com
+demo.fareharbor.com
 sites.fareharbor.com
 chat.booking.com
 *.rentalcars.com
@@ -791,8 +791,8 @@ id.kolesa.kz
 m.krisha.kz
 app.krisha.kz
 m.kolesa.kz
-api.krisha.kz
 api.kolesa.kz
+api.krisha.kz
 krisha.kz
 kolesa.kz
 m.kolesa.kz
@@ -823,8 +823,8 @@ sync.services.mozilla.com
 hg.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 shavar.services.mozilla.com
-bugzilla.mozilla.org
 monitor.mozilla.org
+bugzilla.mozilla.org
 push.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 developer.mozilla.org
@@ -832,9 +832,9 @@ support.mozilla.org
 firefox.settings.services.mozilla.com
 phabricator.allizom.org
 www.mozilla.org
-firefox-ci-tc.services.mozilla.com
-relay.firefox.com
 accounts.firefox.com
+relay.firefox.com
+firefox-ci-tc.services.mozilla.com
 community-tc.services.mozilla.com
 addons.allizom.org
 developer.mozilla.org
@@ -1041,8 +1041,8 @@ platform.8x8pilot.com
 voapi.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
-platform.8x8.com
 sso.8x8pilot.com
+platform.8x8.com
 *.8x8cloud.net
 admin.8x8.com
 *.wavecell.com
@@ -1143,8 +1143,8 @@ www.orbitz.com
 www.ebookers.fi
 www.mrjet.se
 www.expediaagents.com
-www.stayz.com.au
 www.fewo-direkt.de
+www.stayz.com.au
 www.bookabach.co.nz
 www.abritel.fr
 www.expediagroup.com
@@ -1164,8 +1164,8 @@ www.expedia.com
 *.lastminute.co.nz
 www.expediataap.com
 *.expediacruises.com
-www.hotels.com
 *.hotwire.com
+www.hotels.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1781,8 +1781,8 @@ mod.reddit.com
 *.snooguts.net
 api.reddit.com
 ads-api.reddit.com
-gql.reddit.com
 oauth.reddit.com
+gql.reddit.com
 accounts.reddit.com
 ads.reddit.com
 *.redditinc.com
@@ -1827,8 +1827,8 @@ global-api.citymapper.com
 eu.remix.com
 platform.remix.com
 *.withbuddies.com
-*.scopely.com
 *.scopely.io
+*.scopely.com
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
@@ -1901,8 +1901,8 @@ internal-api-drive-stream.larksuite.com
 open.larksuite.com
 internal-api-lark-api.larksuite.com
 larksuite.com
-hackers_chosendomain.larksuite.com
 app.larksuite.com
+hackers_chosendomain.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2041,7 +2041,6 @@ fp-sg.tiktokv.com
 live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
 seller-id.tokopedia.com
-www.pangleglobal.com
 tiktok.com
 partner.tiktokshop.com
 *.tiktokv.com
@@ -2049,6 +2048,7 @@ business.tiktok.com
 ads.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktok.com
+www.pangleglobal.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2099,8 +2099,8 @@ api.figma.com
 www.figma.com
 www.figma.com
 api.figma.com
-support.cs.money
 3d.cs.money
+support.cs.money
 blog.cs.money
 wiki.cs.money
 cs.money
@@ -2402,8 +2402,8 @@ itv7.itv.com
 *.amazon.com
 *.amazon.co.jp
 *.amazon.in
-*.amazon.cn
 *.amazon.pl
+*.amazon.cn
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2486,8 +2486,8 @@ maria.casino
 *.kes.kindredext.net
 *.bingo.com
 *.unibet.com
-*.unibet.fr
 www.32red.com
+*.unibet.fr
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2968,21 +2968,21 @@ paypal.me
 *.braintree.tools
 *.paylution.com
 api.swiftfinancial.com
-decision.swiftfinancial.com
-my.swiftfinancial.com
-partner.swiftfinancial.com
-pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 www.swiftfinancial.com
 swiftfinancial.com
+www.swiftcapital.com
+swiftcapital.com
+decision.swiftfinancial.com
+partner.swiftfinancial.com
+my.swiftfinancial.com
+pigeon.swiftfinancial.com
 prequal.swiftfinancial.com
 api.loanbuilder.com
 my.loanbuilder.com
 www.loanbuilder.com
-www.swiftcapital.com
-swiftcapital.com
-*.venmo.com
 *.braintreegateway.com
+*.venmo.com
 loanbuilder.com
 *.paypalcorp.com
 *.braintreepayments.com
@@ -3142,8 +3142,8 @@ help.steampowered.com
 api.steampowered.com
 www.dota2.com
 partner.steamgames.com
-store.steampowered.com
 www.valvesoftware.com
+store.steampowered.com
 steamcommunity.com
 www.counter-strike.net
 www.teamfortress.com
@@ -3251,11 +3251,11 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-*.beta.lahitapiola.fi
 ext-gw.lahitapiola.fi
-www.lahitapiola.fi
-api.lahitapiola.fi
+*.beta.lahitapiola.fi
 *.lahitapiola.fi
+api.lahitapiola.fi
+www.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3360,12 +3360,12 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.atspotify.com
 *.avecspotify.com
+*.atspotify.com
 *.enspotify.com
-*.forspotify.com
-*.fromspotify.com
 *.tospotify.com
+*.fromspotify.com
+*.forspotify.com
 *.withspotify.com
 api.spotify.com
 assets.spotify.com
@@ -3442,8 +3442,8 @@ circolocorecords.com/
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 *.rockstargames.com
-store.rockstargames.com
 support.rockstargames.com
+store.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3524,8 +3524,8 @@ ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
-search.brave.com
 talk.brave.com
+search.brave.com
 brave.com
 brave.com
 basicattentiontoken.org
@@ -3608,8 +3608,8 @@ api.grofers.com
 api2.grofers.com
 *.zdev.net
 *.runnr.in
-blinkit.com
 winecellar.zomato.com
+blinkit.com
 *.hyperpure.com
 *.zomans.com
 *.zomato.com
@@ -3681,16 +3681,16 @@ shopify.plus
 shopifyinbox.com
 *.shopifycloud.com
 linkpop.com
-*.shopifykloud.com
 *.shopifycs.com
+*.shopifykloud.com
 arrive-server.shopifycloud.com
 shop.app
 *.shopify.io
 partners.shopify.com
 admin.shopify.com
 accounts.shopify.com
-*.shopify.com
 your-store.myshopify.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3812,8 +3812,8 @@ api.airbnb.com
 www.hoteltonight.com
 *.hoteltonight-test.com
 *.withairbnb.com
-*.airbnb-aws.com
 assets.airbnb.com
+*.airbnb-aws.com
 www.airbnb.com
 *.airbnb.com
 www.airbnb.com
@@ -4235,7 +4235,6 @@ www.smartsheet.com
 *legal.trustpilot.com
 https://github.com/evolveum/midpoint
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
-marketplace.magento.com
 magentocommerce.com
 u.magento.com
 imagine.magento.com
@@ -4244,6 +4243,7 @@ repo.magento.com
 accounts.magento.cloud
 magento.com
 account.magento.com
+marketplace.magento.com
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
