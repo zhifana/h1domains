@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 23 03:41:19 UTC 2024)
+## Domains with Bounties (Last Updated Tue Apr 23 04:16:21 UTC 2024)
 ```
 puter.com
 puter.com
