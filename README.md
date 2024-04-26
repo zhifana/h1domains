@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Apr 26 19:42:18 UTC 2024)
+## Domains with Bounties (Last Updated Fri Apr 26 20:19:40 UTC 2024)
 ```
 api.dyson.se
 api.dyson.dk
@@ -23,7 +23,7 @@ www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
 www.dyson.at
-api.dyson.it
+www.dyson.ie
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -404,10 +404,10 @@ research.23andme.com
 blog.23andme.com
 store.23andme.com
 mediacenter.23andme.com
+api.23andme.com
 you.23andme.com
 medical.23andme.com
 auth.23andme.com
-api.23andme.com
 therapeutics.23andme.com
 api.23andme.com
 auth.23andme.com
@@ -425,16 +425,16 @@ www.mercadolibre.com.pe
 www.mercadolibre.com.uy
 www.mercadopago.com.co
 www.mercadopago.cl
-www.mercadolibre.cl
 www.mercadopago.com.mx
 www.mercadolibre.com.ar
-api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.br
 www.mercadolibre.com.co
 www.mercadopago.com.ar
+www.mercadolibre.cl
 www.mercadolibre.com.mx
 www.mercadolivre.com.br
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -475,8 +475,8 @@ taxi.booking.com
 secure.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
-taxis.booking.com
 demo.fareharbor.com
+taxis.booking.com
 sites.fareharbor.com
 chat.booking.com
 widget.rentalcars.com
@@ -486,8 +486,8 @@ careers.booking.com
 *.rentalcars.com
 www.fareharbor.com
 *.booking.com
-account.booking.com
 admin.booking.com
+account.booking.com
 accommodations.booking.com
 *.booking.com
 *.rentalcars.com
@@ -682,11 +682,11 @@ visa.co.za
 www.fraedom.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
-bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
+bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -1034,6 +1034,7 @@ sso.8x8pilot.com
 *.wavecell.com
 user-profile.8x8.com
 *.packet8.net
+sso.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1138,8 +1139,8 @@ www.ebookers.com
 *.wotif.com
 *.vrbo.com
 *.lastminute.com.au
-*.lastminute.co.nz
 www.hotels.com
+*.lastminute.co.nz
 www.fewo-direkt.de
 www.orbitz.com
 www.flights.com
@@ -1148,10 +1149,10 @@ www.expediataap.com
 *.cheaptickets.com
 *.travelocity.com
 *.hotwire.com
-*.expediacruises.com
 www.vrbo.com
 *.expediapartnercentral.com
 www.expedia.com
+*.expediacruises.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1283,9 +1284,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 www.momondo.com
 business.kayak.com
 www.kayak.com
@@ -1300,8 +1301,8 @@ www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
 ws.sorare.com
-sorare.com
 api.sorare.com
+sorare.com
 sorare.com
 api.sorare.com
 ws.sorare.com
@@ -1312,9 +1313,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
-api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
+api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1572,11 +1573,11 @@ playwonderbox.com
 therecord.media
 geminiadvisory.io
 hatching.io
-app.recordedfuture.com
 www.recordedfuture.com
 id.recordedfuture.com
 tria.ge
 api.recordedfuture.com
+app.recordedfuture.com
 securitytrails.com
 www.recordedfuture.com
 api.recordedfuture.com
@@ -1614,10 +1615,10 @@ www.fedramp.gov
 marketplace.fedramp.gov
 federalist.18f.gov
 federalist-docs.18f.gov
+cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
-cloud.gov
 www.usa.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
@@ -1749,8 +1750,8 @@ gql.reddit.com
 oauth.reddit.com
 accounts.reddit.com
 api.reddit.com
-ads.reddit.com
 www.reddit.com
+ads.reddit.com
 *.redditmedia.com
 *.redditinc.com
 new.reddit.com
@@ -1965,8 +1966,8 @@ secure.sharefile.com
 (yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 secure.sharefile.eu
-accounts.cloud.com
 www.cloud.com
+accounts.cloud.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -2236,8 +2237,8 @@ store.playstation.com
 *.api.playstation.com
 my.account.sony.com
 my.playstation.com
-ca.account.sony.com
 *.sonyentertainmentnetwork.com
+ca.account.sony.com
 *.playstation.net
 direct.playstation.com
 *.playstation.net
@@ -2352,16 +2353,16 @@ itv7.itv.com
 *.amazon.com.au
 *.amazon.com.ng
 *.amazon.sa
-*.amazon.de
 *.amazon.com.tr
+*.amazon.de
 *.amazon.it
 *.amazon.com.be
 *.amazon.com.co
 *.amazon.com.mx
 *.amazon.es
+*.amazon.co.jp
 *.amazon.sg
 *.amazon.se
-*.amazon.co.jp
 *.amazon.nl
 *.amazon.ca
 *.amazon.fr
@@ -2453,8 +2454,8 @@ maria.casino
 *.casinohuone.com
 *.kindredext.net
 *.highrolling.nu
-*.unibet.fr
 *.kes.kindredext.net
+*.unibet.fr
 *.mariacasino.com
 www.32red.com
 *.unibet.com
@@ -2688,8 +2689,8 @@ app.command.cysiv.com
 api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
-cruises.priceline.com
 press.priceline.com
+cruises.priceline.com
 flyiin.com
 www.priceline.com
 secure.rezserver.com
@@ -3106,8 +3107,8 @@ api.foliofn.com
 developer.valvesoftware.com
 playartifact.com
 partner.steampowered.com
-support.steampowered.com
 www.dota2.com
+support.steampowered.com
 help.steampowered.com
 api.steampowered.com
 partner.steamgames.com
@@ -3154,14 +3155,14 @@ bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
 *.deliveroo.fr
-*.deliveroo.be
 *.deliveroo.ie
-*.deliveroo.com.sg
-*.deliveroo.ae
 *.deliveroo.it
+*.deliveroo.be
 *.deliveroo.com.hk
 *.deliveroo.com.kw
 *.deliveroo.com.qa
+*.deliveroo.com.sg
+*.deliveroo.ae
 *.deliveroo.hk
 *.deliveroo.co.uk
 *.deliveroo.co.uk
@@ -3234,8 +3235,8 @@ sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
 *.beta.lahitapiola.fi
-api.lahitapiola.fi
 www.lahitapiola.fi
+api.lahitapiola.fi
 *.lahitapiola.fi
 ext-gw.lahitapiola.fi
 *.lahitapiolarahoitus.fi
@@ -3287,8 +3288,8 @@ gifts.grab.com
 *.grab.co
 *.grabpay.com
 *.ovo.id
-jira.grab.com
 *.grab.com
+jira.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3465,8 +3466,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
 www.starbucks.com.sg
+gift.starbucks.co.jp
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3506,8 +3507,8 @@ ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
-search.brave.com
 talk.brave.com
+search.brave.com
 brave.com
 brave.com
 basicattentiontoken.org
@@ -3544,8 +3545,8 @@ gist.github.com
 education.github.com
 npmjs.com
 *.githubusercontent.com
-api.github.com
 classroom.github.com
+api.github.com
 github.com
 github.com
 api.github.com
@@ -3661,18 +3662,18 @@ www.udemy.com
 yourcompany.udemy.com
 shopify.plus
 shopifyinbox.com
-*.shopifycs.com
 *.shopifykloud.com
+*.shopifycs.com
 *.shopify.io
 arrive-server.shopifycloud.com
 linkpop.com
-*.shopifycloud.com
 partners.shopify.com
+*.shopifycloud.com
 *.shopify.com
 admin.shopify.com
 accounts.shopify.com
-shop.app
 your-store.myshopify.com
+shop.app
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3701,7 +3702,6 @@ msg.playcanvas.com
 relay.playcanvas.com
 playcanv.as
 login.playcanvas.com
-playcanvas.com
 geofilters.snapchat.com
 ads.snapchat.com
 forum.playcanvas.com
@@ -3711,13 +3711,14 @@ developer.playcanvas.com
 rt.playcanvas.com
 store.playcanvas.com
 *.sc-core.net
-code.playcanvas.com
 www.bitmoji.com
+code.playcanvas.com
+playcanvas.com
 story.snapchat.com
 *.sc-corp.net
-app.snapchat.com
 business.snapchat.com
 web.snapchat.com
+app.snapchat.com
 accounts.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
@@ -3795,8 +3796,8 @@ api.airbnb.com
 support-api.airbnb.com
 *.hoteltonight-test.com
 *.withairbnb.com
-*.airbnb.com
 www.airbnb.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3859,8 +3860,8 @@ grok.x.ai
 *.twimg.com
 ide.x.ai
 api.x.ai
-x.com
 *.twitter.com
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3940,9 +3941,9 @@ international.coinbase.com
 *.base.org
 nft.coinbase.com
 cloud.coinbase.com
-pro.coinbase.com
 api.coinbase.com
 commerce.coinbase.com
+pro.coinbase.com
 api.custody.coinbase.com
 *.coinbase.com
 institutional.coinbase.com
@@ -4495,8 +4496,8 @@ api.greenhouse.io
 onboarding.greenhouse.io
 jss.greenhouse.io
 app.interseller.io
-interseller.io
 www.greenhouse.io
+interseller.io
 support.greenhouse.io
 app.greenhouse.io
 app.greenhouse.io
