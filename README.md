@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Apr 27 17:40:38 UTC 2024)
+## Domains with Bounties (Last Updated Sat Apr 27 18:19:50 UTC 2024)
 ```
 api.dyson.se
 api.dyson.dk
@@ -404,10 +404,10 @@ research.23andme.com
 blog.23andme.com
 store.23andme.com
 mediacenter.23andme.com
-api.23andme.com
 you.23andme.com
 medical.23andme.com
 auth.23andme.com
+api.23andme.com
 therapeutics.23andme.com
 api.23andme.com
 auth.23andme.com
@@ -427,13 +427,13 @@ www.mercadopago.cl
 www.mercadopago.com.mx
 api.mercadopago.com
 www.mercadopago.com.br
-www.mercadolibre.com.co
 www.mercadopago.com.ar
+www.mercadolibre.com.co
 www.mercadolibre.cl
-www.mercadolibre.com.ar
 www.mercadolivre.com.br
 api.mercadolibre.com
 www.mercadolibre.com.mx
+www.mercadolibre.com.ar
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -466,10 +466,9 @@ supply-xml.booking.com
 portal.taxi.booking.com
 secure-supply-xml.booking.com
 kyc-onboarding.booking.com
-www.fareharbor.com
-spark.fareharbor.com
 teleport.fareharbor.engineering
 paymentcomponent.booking.com
+spark.fareharbor.com
 flights.booking.com
 indicative-pricing.taxi.booking.com
 taxi.booking.com
@@ -483,6 +482,7 @@ chat.booking.com
 widget.rentalcars.com
 cars.booking.com
 careers.booking.com
+www.fareharbor.com
 *.rentalcars.com
 accommodations.booking.com
 booking.com
@@ -799,7 +799,6 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-accounts.firefox.com
 api.profiler.firefox.com
 vpn.mozilla.org
 profiler.firefox.com
@@ -819,6 +818,7 @@ phabricator.allizom.org
 community-tc.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 addons.allizom.org
+accounts.firefox.com
 firefox-ci-tc.services.mozilla.com
 relay.firefox.com
 lando.services.mozilla.com
@@ -1066,12 +1066,12 @@ admin.8x8.com
 *.napoleondice.be
 *.napoleongames.be
 *.napoleonsports.be
-*.luckydays.com
-*.superbet.rs
-*.superbet.ro
 *.luckydays.ca
 *.superbet.pl
 *.magicjackpot.ro
+*.luckydays.com
+*.superbet.rs
+*.superbet.ro
 *.superbet.com
 *.superbet.ro
 *.superbet.rs
@@ -1136,8 +1136,8 @@ www.hotwirepartnercentral.com
 www.ebookers.com
 *.wotif.com
 *.lastminute.com.au
-www.hotels.com
 *.lastminute.co.nz
+www.hotels.com
 www.fewo-direkt.de
 www.orbitz.com
 www.flights.com
@@ -1256,9 +1256,9 @@ www.dolap.com
 www.trendyol-milla.com
 *.sidefx.com
 *.sidefx.com
+snaps.metamask.io
 portfolio.metamask.io
 metamask.io
-snaps.metamask.io
 metamask.io
 snaps.metamask.io
 portfolio.metamask.io
@@ -1284,9 +1284,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 www.momondo.com
 business.kayak.com
 www.kayak.com
@@ -1313,9 +1313,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
+api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
-api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1707,11 +1707,11 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
-app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
 *.touchtechpayments.com
+app.taxjar.com
 api.stripe.com
 *.stripe.com
 api.stripe.com
@@ -1749,14 +1749,14 @@ mod.reddit.com
 gql.reddit.com
 accounts.reddit.com
 api.reddit.com
-www.reddit.com
 ads.reddit.com
+www.reddit.com
 *.redditmedia.com
 *.redditinc.com
 new.reddit.com
-*.reddit.com
 *.reddithelp.com
 ads-api.reddit.com
+*.reddit.com
 oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -1813,8 +1813,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-www.chime.com
 wp-qa.chime.com
+www.chime.com
 *.chimebank.com
 *.1debit.com
 *.chime.com
@@ -1958,9 +1958,9 @@ api.adm.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
-citrix.cloud.com
-api.sharefile.com
 adm.cloud.com
+api.sharefile.com
+citrix.cloud.com
 (youriwssubdomain).cloud.com
 secure.sharefile.com
 (yoursubdomain).sharefile.com
@@ -2454,8 +2454,8 @@ maria.casino
 *.casinohuone.com
 *.kindredext.net
 *.highrolling.nu
-*.kes.kindredext.net
 *.unibet.fr
+*.kes.kindredext.net
 *.mariacasino.com
 www.32red.com
 *.unibet.com
@@ -2689,8 +2689,8 @@ app.command.cysiv.com
 api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
-cruises.priceline.com
 press.priceline.com
+cruises.priceline.com
 www.bookingholdings.com
 flyiin.com
 www.priceline.com
@@ -2876,18 +2876,18 @@ service.racing.fanduel.com
 4njbets.tvg.com
 4njbets.com
 4njbets.us.betfair.com
-login-4njbets.us.betfair.com
-login-pabets.tvg.com
 mobile-prod.tvg.com
-login-ia.tvg.com
 m.4njbets.tvg.com
 pabets.tvg.com
 login.tvg.com
-login-4ngbets.us.betfair.com
-login.pabets.tvg.com
+www.4njbets.com
 service.tvg.com
 promos.tvg.com
-www.4njbets.com
+login-4njbets.us.betfair.com
+login-pabets.tvg.com
+login-ia.tvg.com
+login-4ngbets.us.betfair.com
+login.pabets.tvg.com
 com.fanduel.android.live
 www.tvg.com
 tvg.com
@@ -3108,8 +3108,8 @@ api.foliofn.com
 developer.valvesoftware.com
 playartifact.com
 partner.steampowered.com
-www.dota2.com
 support.steampowered.com
+www.dota2.com
 help.steampowered.com
 api.steampowered.com
 partner.steamgames.com
@@ -3236,8 +3236,8 @@ sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
 *.beta.lahitapiola.fi
-api.lahitapiola.fi
 www.lahitapiola.fi
+api.lahitapiola.fi
 *.lahitapiola.fi
 ext-gw.lahitapiola.fi
 *.lahitapiolarahoitus.fi
@@ -3344,12 +3344,12 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.tospotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
+*.tospotify.com
 api.spotify.com
 assets.spotify.com
 *.withspotify.com
@@ -3466,8 +3466,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-www.starbucks.com.sg
 gift.starbucks.co.jp
+www.starbucks.com.sg
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3508,8 +3508,8 @@ ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
-talk.brave.com
 search.brave.com
+talk.brave.com
 brave.com
 brave.com
 basicattentiontoken.org
@@ -3544,8 +3544,8 @@ moneybirdstorage.com
 npmjs.org
 gist.github.com
 *.githubusercontent.com
-classroom.github.com
 api.github.com
+classroom.github.com
 education.github.com
 npmjs.com
 github.com
@@ -3572,11 +3572,11 @@ registry.gitlab.com
 *.gitlab.org
 design.gitlab.com
 advisories.gitlab.com
-*.gitlab.net
 about.gitlab.com
 customers.gitlab.com
 docs.gitlab.com
 *.gitlap.com
+*.gitlab.net
 gitlab.com
 *.gitlab.net
 *.gitlab.org
@@ -3663,17 +3663,17 @@ www.udemy.com
 yourcompany.udemy.com
 shopify.plus
 shopifyinbox.com
-*.shopifycs.com
 *.shopifykloud.com
+*.shopifycs.com
 *.shopify.io
 arrive-server.shopifycloud.com
 linkpop.com
-*.shopifycloud.com
 partners.shopify.com
+*.shopifycloud.com
 shop.app
-*.shopify.com
 your-store.myshopify.com
 admin.shopify.com
+*.shopify.com
 accounts.shopify.com
 *.shopifycs.com
 *.shopify.io
@@ -3791,8 +3791,8 @@ callbacks.airbnb.com
 *.airbnbcitizen.com
 *.muscache.com
 www.hoteltonight.com
-*.airbnb-aws.com
 assets.airbnb.com
+*.airbnb-aws.com
 next.airbnb.com
 api.airbnb.com
 support-api.airbnb.com
@@ -3876,7 +3876,6 @@ ide.x.ai
 waf.cumulusfire.net
 one.dash.cloudflare.com
 dash.cloudflare.com
-*.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
@@ -4251,8 +4250,8 @@ magentocommerce.com
 u.magento.com
 imagine.magento.com
 magentolive.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 account.magento.com
 marketplace.magento.com
 magento.com
