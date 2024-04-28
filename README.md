@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr 28 23:17:09 UTC 2024)
+## Domains with Bounties (Last Updated Sun Apr 28 23:41:01 UTC 2024)
 ```
 api.dyson.se
 api.dyson.dk
@@ -427,8 +427,8 @@ www.mercadopago.cl
 www.mercadopago.com.mx
 api.mercadopago.com
 www.mercadopago.com.br
-www.mercadolibre.com.co
 www.mercadopago.com.ar
+www.mercadolibre.com.co
 www.mercadolibre.cl
 www.mercadolivre.com.br
 api.mercadolibre.com
@@ -474,8 +474,8 @@ indicative-pricing.taxi.booking.com
 taxi.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
-taxis.booking.com
 demo.fareharbor.com
+taxis.booking.com
 sites.fareharbor.com
 chat.booking.com
 widget.rentalcars.com
@@ -799,7 +799,6 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-community-tc.services.mozilla.com
 api.profiler.firefox.com
 vpn.mozilla.org
 profiler.firefox.com
@@ -816,6 +815,7 @@ push.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 firefox.settings.services.mozilla.com
 phabricator.allizom.org
+community-tc.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 addons.allizom.org
 firefox-ci-tc.services.mozilla.com
@@ -1256,9 +1256,9 @@ www.dolap.com
 www.trendyol-milla.com
 *.sidefx.com
 *.sidefx.com
+snaps.metamask.io
 portfolio.metamask.io
 metamask.io
-snaps.metamask.io
 metamask.io
 snaps.metamask.io
 portfolio.metamask.io
@@ -1284,9 +1284,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 www.momondo.com
 business.kayak.com
 www.kayak.com
@@ -1707,11 +1707,11 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
+app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
 *.touchtechpayments.com
-app.taxjar.com
 api.stripe.com
 *.stripe.com
 api.stripe.com
@@ -1756,8 +1756,8 @@ new.reddit.com
 *.reddit.com
 *.reddithelp.com
 ads-api.reddit.com
-oauth.reddit.com
 www.reddit.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1893,9 +1893,9 @@ hackers_chosendomain.larksuite.com
 identity.yoti.com
 ccloud.yoti.com
 api.yoti.com
+www.yotisign.com
 code.yoti.com
 core.yoti.com
-www.yotisign.com
 hub.yoti.com
 core.yoti.com
 api.yoti.com
@@ -1958,9 +1958,9 @@ api.adm.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
-citrix.cloud.com
-api.sharefile.com
 adm.cloud.com
+api.sharefile.com
+citrix.cloud.com
 (youriwssubdomain).cloud.com
 secure.sharefile.com
 (yoursubdomain).sharefile.com
@@ -2015,8 +2015,8 @@ www.pangleglobal.com
 live-backstage.tiktok.com
 *.tiktokv.com
 tiktok.com
-*.tiktok.com
 ads.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2366,15 +2366,15 @@ amazonpayinsurance.in
 *.amazon.com.br
 *.amazon.ae
 *.amazon.pl
-*.amazon.eg
 *.amazon.cn
+*.amazon.eg
 *.amazon.ca
 *.amazon.es
 *.amazon.fr
 *.amazon.de
 *.amazon.co.uk
-*.amazon.com
 *.amazon.in
+*.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2409,8 +2409,8 @@ amazonpayinsurance.in
 *.1688.com
 www.alibabagroup.com
 *.alibaba.com
-*.aliexpress.com
 *.alibabacloud.com
+*.aliexpress.com
 *.alibaba-inc.com
 *.aliyun.com
 *.Daraz.com
@@ -2566,8 +2566,8 @@ app.nordpass.com
 app.nordpass.com
 *.line.naver.jp
 *.line.me
-*.line-apps.com
 *.linecorp.com
+*.line-apps.com
 *.line.biz
 *.line.me
 *.line-apps.com
@@ -2866,28 +2866,28 @@ grammarly.ai
 grammarly.ai
 *.east.fdbox.net
 *.mgmt.fndlsb.net
-*.prod.fdbox.net
 *.prd.fndlsb.net
+*.prod.fdbox.net
 *inf.fndlsb.net
 *racing.fanduel.com
 4njbets.tvgnetwork.com
 b2b.tvgnetwork.com
 service.racing.fanduel.com
-4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
-mobile-prod.tvg.com
-pabets.tvg.com
-service.tvg.com
-promos.tvg.com
+4njbets.us.betfair.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
+mobile-prod.tvg.com
 login-ia.tvg.com
 m.4njbets.tvg.com
+pabets.tvg.com
 login.tvg.com
-www.4njbets.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
+service.tvg.com
+promos.tvg.com
+www.4njbets.com
 com.fanduel.android.live
 www.tvg.com
 tvg.com
@@ -3105,14 +3105,14 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
-partner.steampowered.com
+www.teamfortress.com
 support.steampowered.com
 www.dota2.com
+partner.steampowered.com
 help.steampowered.com
 api.steampowered.com
 partner.steamgames.com
 www.counter-strike.net
-www.teamfortress.com
 store.steampowered.com
 www.valvesoftware.com
 steamcommunity.com
@@ -3506,8 +3506,8 @@ ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
-search.brave.com
 talk.brave.com
+search.brave.com
 brave.com
 brave.com
 basicattentiontoken.org
@@ -3570,11 +3570,11 @@ registry.gitlab.com
 *.gitlab.org
 design.gitlab.com
 advisories.gitlab.com
-*.gitlab.net
 about.gitlab.com
 customers.gitlab.com
 docs.gitlab.com
 *.gitlap.com
+*.gitlab.net
 gitlab.com
 *.gitlab.net
 *.gitlab.org
@@ -3709,8 +3709,8 @@ developer.playcanvas.com
 rt.playcanvas.com
 store.playcanvas.com
 *.sc-core.net
-code.playcanvas.com
 www.bitmoji.com
+code.playcanvas.com
 story.snapchat.com
 *.sc-corp.net
 business.snapchat.com
@@ -3894,11 +3894,11 @@ happy.tools
 my.pressable.com
 simplenote.com
 simperium.com
-mailpoet.com
 gravatar.com
 akismet.com
 intensedebate.com
 safe.tumblr.com
+mailpoet.com
 assets.tumblr.com
 wordpress.com
 www.tumblr.com
@@ -3972,10 +3972,10 @@ slackatwork.com
 slack-redir.net
 spaces.pm
 www.quip.com
+slack.com
 *.quip.com
 status.slack.com
 slack-imgs.com
-slack.com
 api.slack.com
 app.slack.com
 slack.com
