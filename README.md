@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr 28 02:15:23 UTC 2024)
+## Domains with Bounties (Last Updated Sun Apr 28 02:46:28 UTC 2024)
 ```
 api.dyson.se
 api.dyson.dk
@@ -425,15 +425,15 @@ www.mercadolibre.com.pe
 www.mercadopago.com.co
 www.mercadopago.cl
 www.mercadopago.com.mx
-api.mercadopago.com
-www.mercadolibre.cl
 www.mercadolivre.com.br
-www.mercadolibre.com.mx
 api.mercadolibre.com
+www.mercadolibre.cl
+www.mercadolibre.com.mx
 www.mercadolibre.com.ar
+api.mercadopago.com
 www.mercadopago.com.br
-www.mercadopago.com.ar
 www.mercadolibre.com.co
+www.mercadopago.com.ar
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -799,7 +799,6 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-community-tc.services.mozilla.com
 api.profiler.firefox.com
 vpn.mozilla.org
 profiler.firefox.com
@@ -816,6 +815,7 @@ push.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 firefox.settings.services.mozilla.com
 phabricator.allizom.org
+community-tc.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 addons.allizom.org
 firefox-ci-tc.services.mozilla.com
@@ -1136,8 +1136,8 @@ www.hotwirepartnercentral.com
 www.ebookers.com
 *.wotif.com
 *.lastminute.com.au
-*.lastminute.co.nz
 www.hotels.com
+*.lastminute.co.nz
 www.fewo-direkt.de
 www.orbitz.com
 www.flights.com
@@ -1145,8 +1145,8 @@ www.flights.com
 *.cheaptickets.com
 *.travelocity.com
 www.vrbo.com
-*.expediacruises.com
 www.expedia.com
+*.expediacruises.com
 *.expediapartnercentral.com
 www.expediataap.com
 *.vrbo.com
@@ -1284,9 +1284,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
-www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
+www.swoodoo.com
 www.momondo.com
 business.kayak.com
 www.kayak.com
@@ -1313,9 +1313,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
-api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
+api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1615,10 +1615,10 @@ www.fedramp.gov
 marketplace.fedramp.gov
 federalist.18f.gov
 federalist-docs.18f.gov
+cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
-cloud.gov
 www.usa.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
@@ -1707,11 +1707,11 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
-app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
 *.touchtechpayments.com
+app.taxjar.com
 api.stripe.com
 *.stripe.com
 api.stripe.com
@@ -1893,9 +1893,9 @@ hackers_chosendomain.larksuite.com
 identity.yoti.com
 ccloud.yoti.com
 api.yoti.com
-core.yoti.com
 www.yotisign.com
 code.yoti.com
+core.yoti.com
 hub.yoti.com
 core.yoti.com
 api.yoti.com
@@ -1958,16 +1958,16 @@ api.adm.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
-citrix.cloud.com
-api.sharefile.com
 adm.cloud.com
+api.sharefile.com
+citrix.cloud.com
 (youriwssubdomain).cloud.com
 secure.sharefile.com
 (yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 secure.sharefile.eu
-accounts.cloud.com
 www.cloud.com
+accounts.cloud.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -2373,8 +2373,8 @@ amazonpayinsurance.in
 *.amazon.eg
 *.amazon.cn
 *.amazon.co.uk
-*.amazon.com
 *.amazon.in
+*.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2411,8 +2411,8 @@ amazonpayinsurance.in
 www.alibabagroup.com
 *.alibaba.com
 *.taobao.com
-*.alibabacloud.com
 *.aliexpress.com
+*.alibabacloud.com
 *.alibaba-inc.com
 *.aliyun.com
 *.Daraz.com
@@ -2566,8 +2566,8 @@ app.nordpass.com
 app.nordpass.com
 *.line.naver.jp
 *.line.me
-*.line-apps.com
 *.linecorp.com
+*.line-apps.com
 *.line.biz
 *.line.me
 *.line-apps.com
@@ -2876,15 +2876,15 @@ service.racing.fanduel.com
 4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
+mobile-prod.tvg.com
+pabets.tvg.com
+service.tvg.com
+promos.tvg.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
 login-ia.tvg.com
 m.4njbets.tvg.com
 login.tvg.com
-mobile-prod.tvg.com
-pabets.tvg.com
-service.tvg.com
-promos.tvg.com
 www.4njbets.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
@@ -2893,8 +2893,8 @@ www.tvg.com
 tvg.com
 sportsbook.fanduel.com
 ia.tvg.com
-us.tvg.com
 fdbox.net
+us.tvg.com
 fanduel.com
 *.numberfire.com
 *racing.fanduel.com
@@ -3036,8 +3036,8 @@ staging-admin.shipt.com
 staging-shoppingcart.shipt.com
 shoppingcart.shipt.com
 api.shipt.com
-*.shipt.com
 www.shipt.com
+*.shipt.com
 *.shipt.com
 app.shipt.com
 api.shipt.com
@@ -3107,6 +3107,7 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
+www.teamfortress.com
 support.steampowered.com
 www.dota2.com
 partner.steampowered.com
@@ -3114,7 +3115,6 @@ help.steampowered.com
 api.steampowered.com
 partner.steamgames.com
 www.counter-strike.net
-www.teamfortress.com
 store.steampowered.com
 www.valvesoftware.com
 steamcommunity.com
@@ -3156,9 +3156,9 @@ bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
 *.deliveroo.fr
+*.deliveroo.be
 *.deliveroo.ie
 *.deliveroo.it
-*.deliveroo.be
 *.deliveroo.com.hk
 *.deliveroo.com.kw
 *.deliveroo.com.qa
@@ -3236,8 +3236,8 @@ sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
 *.beta.lahitapiola.fi
-api.lahitapiola.fi
 www.lahitapiola.fi
+api.lahitapiola.fi
 *.lahitapiola.fi
 ext-gw.lahitapiola.fi
 *.lahitapiolarahoitus.fi
@@ -3466,8 +3466,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
 www.starbucks.com.sg
+gift.starbucks.co.jp
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3508,8 +3508,8 @@ ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
-talk.brave.com
 search.brave.com
+talk.brave.com
 brave.com
 brave.com
 basicattentiontoken.org
@@ -3588,11 +3588,11 @@ about.gitlab.com
 docs.gitlab.com
 design.gitlab.com
 advisories.gitlab.com
+*.hyperpure.com
 api2.grofers.com
 *.zdev.net
 winecellar.zomato.com
 blinkit.com
-*.hyperpure.com
 api.grofers.com
 *.zomans.com
 *.zomato.com
@@ -3663,17 +3663,17 @@ www.udemy.com
 yourcompany.udemy.com
 shopify.plus
 shopifyinbox.com
-*.shopifycs.com
 *.shopifykloud.com
+*.shopifycs.com
 *.shopify.io
 arrive-server.shopifycloud.com
 linkpop.com
-*.shopifycloud.com
 partners.shopify.com
+*.shopifycloud.com
 shop.app
-*.shopify.com
 your-store.myshopify.com
 admin.shopify.com
+*.shopify.com
 accounts.shopify.com
 *.shopifycs.com
 *.shopify.io
@@ -3792,8 +3792,8 @@ callbacks.airbnb.com
 *.airbnbcitizen.com
 *.muscache.com
 www.hoteltonight.com
-*.airbnb-aws.com
 assets.airbnb.com
+*.airbnb-aws.com
 next.airbnb.com
 api.airbnb.com
 support-api.airbnb.com
@@ -3945,9 +3945,9 @@ international.coinbase.com
 *.base.org
 nft.coinbase.com
 cloud.coinbase.com
-pro.coinbase.com
 api.coinbase.com
 commerce.coinbase.com
+pro.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
 coinbase.com
@@ -3973,10 +3973,10 @@ slackatwork.com
 slack-redir.net
 spaces.pm
 www.quip.com
-slack.com
 *.quip.com
 status.slack.com
 slack-imgs.com
+slack.com
 app.slack.com
 api.slack.com
 slack.com
