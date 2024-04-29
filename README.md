@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr 29 10:19:51 UTC 2024)
+## Domains with Bounties (Last Updated Mon Apr 29 10:41:19 UTC 2024)
 ```
 api.dyson.se
 api.dyson.dk
@@ -301,15 +301,15 @@ verification-eu.truecaller.com
 video-callerid-eu.truecaller.com
 webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
-rewire.com
 *.dev.remitly.com
 cards.remitly.io
+rewire.com
 *.int.remitly.com
 app3.rewire.to
-rates.rewire.com
-api.remitly.io
 app.rewire.to
 remitly.com
+api.remitly.io
+rates.rewire.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -407,8 +407,8 @@ mediacenter.23andme.com
 medical.23andme.com
 auth.23andme.com
 therapeutics.23andme.com
-you.23andme.com
 api.23andme.com
+you.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -425,10 +425,10 @@ www.mercadolibre.com.pe
 www.mercadopago.com.co
 www.mercadopago.cl
 www.mercadopago.com.mx
-www.mercadolivre.com.br
-www.mercadolibre.cl
-www.mercadolibre.com.mx
 api.mercadopago.com
+www.mercadolibre.cl
+www.mercadolivre.com.br
+www.mercadolibre.com.mx
 www.mercadopago.com.br
 www.mercadopago.com.ar
 www.mercadolibre.com.ar
@@ -474,21 +474,21 @@ indicative-pricing.taxi.booking.com
 taxi.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
-demo.fareharbor.com
 taxis.booking.com
+demo.fareharbor.com
 sites.fareharbor.com
 chat.booking.com
 widget.rentalcars.com
 cars.booking.com
 careers.booking.com
-secure.booking.com
 accommodations.booking.com
 booking.com
+secure.booking.com
 account.booking.com
-admin.booking.com
 *.booking.com
 *.rentalcars.com
 www.fareharbor.com
+admin.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -765,8 +765,8 @@ developer.cybersource.com
 sandbox.authorize.net
 developer.authorize.net
 developer.visa.com
-yourdomain.freshcaller.com
 yourdomain.freshchat.com
+yourdomain.freshcaller.com
 yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
 yourdomain.freshservice.com
@@ -799,6 +799,7 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
+community-tc.services.mozilla.com
 api.profiler.firefox.com
 vpn.mozilla.org
 profiler.firefox.com
@@ -807,7 +808,6 @@ contile.services.mozilla.com
 crash-stats.allizom.org
 merino.services.mozilla.com
 aus5.mozilla.org
-hg.mozilla.org
 shavar.services.mozilla.com
 monitor.mozilla.org
 bugzilla.mozilla.org
@@ -815,7 +815,6 @@ push.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 firefox.settings.services.mozilla.com
 phabricator.allizom.org
-community-tc.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 addons.allizom.org
 firefox-ci-tc.services.mozilla.com
@@ -826,6 +825,7 @@ developer.mozilla.org
 www.mozilla.org
 accounts.firefox.com
 sync.services.mozilla.com
+hg.mozilla.org
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
@@ -1256,9 +1256,9 @@ www.dolap.com
 www.trendyol-milla.com
 *.sidefx.com
 *.sidefx.com
-snaps.metamask.io
 portfolio.metamask.io
 metamask.io
+snaps.metamask.io
 metamask.io
 snaps.metamask.io
 portfolio.metamask.io
@@ -1284,9 +1284,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 www.momondo.com
 business.kayak.com
 www.kayak.com
@@ -1313,9 +1313,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
+api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
-api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1329,9 +1329,9 @@ https://my.exness.com/pa/pim/manager
 social-trading.exness.com
 https://my.exness.com/pa/socialtrading
 exness.com
-app.smtp2go.com
 api.smtp2go.com
 smtp2go.com
+app.smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
@@ -1573,10 +1573,10 @@ playwonderbox.com
 therecord.media
 geminiadvisory.io
 hatching.io
-app.recordedfuture.com
 id.recordedfuture.com
 tria.ge
 api.recordedfuture.com
+app.recordedfuture.com
 securitytrails.com
 www.recordedfuture.com
 www.recordedfuture.com
@@ -1753,8 +1753,8 @@ ads.reddit.com
 *.redditmedia.com
 *.redditinc.com
 new.reddit.com
-*.reddithelp.com
 *.reddit.com
+*.reddithelp.com
 oauth.reddit.com
 ads-api.reddit.com
 www.reddit.com
@@ -1813,8 +1813,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-www.chime.com
 wp-qa.chime.com
+www.chime.com
 *.chimebank.com
 *.1debit.com
 *.chime.com
@@ -1966,8 +1966,8 @@ secure.sharefile.com
 (yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 secure.sharefile.eu
-accounts.cloud.com
 www.cloud.com
+accounts.cloud.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -2358,22 +2358,22 @@ itv7.itv.com
 *.amazon.com.be
 *.amazon.com.co
 *.amazon.com.mx
+*.amazon.co.jp
 *.amazon.sg
 *.amazon.se
-*.amazon.co.jp
 *.amazon.nl
 amazonpayinsurance.in
-*.amazon.ae
 *.amazon.com.br
+*.amazon.ae
 *.amazon.pl
-*.amazon.eg
 *.amazon.cn
-*.amazon.in
+*.amazon.eg
 *.amazon.ca
 *.amazon.es
 *.amazon.fr
 *.amazon.de
 *.amazon.co.uk
+*.amazon.in
 *.amazon.com
 *.amazon.cl
 *.amazon.co.za
@@ -2407,12 +2407,12 @@ amazonpayinsurance.in
 *.aliyun-inc.com
 *.alimama.com
 www.alibabagroup.com
-*.alibabacloud.com
 *.aliexpress.com
+*.alibabacloud.com
 *.alibaba-inc.com
 *.aliyun.com
-*.tmall.com
 *.taobao.com
+*.tmall.com
 *.Daraz.com
 *.alibaba.com
 *.1688.com
@@ -2565,8 +2565,8 @@ app.nordpass.com
 *.nordvpn.com
 app.nordpass.com
 *.line.naver.jp
-*.line.me
 *.linecorp.com
+*.line.me
 *.line.biz
 *.line-apps.com
 *.line.me
@@ -2745,7 +2745,6 @@ book.beachbound.com
 holidays-nz.fijiairways.com
 res.marival.globalbookingsolutions.com
 res.secretsresorts.com
-res.skyteam.com
 res.vacations.seaworld.com
 vacations.universalstudioshollywood.com
 vacations.vallarta.grandvelas.com
@@ -2774,6 +2773,7 @@ res.vacations.sesameplace.com
 vacations.loscabos.grandvelas.com
 www.blueskytours.com
 www.globalhotelchoices.com
+www.triseptsolutions.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -3105,9 +3105,9 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
-partner.steampowered.com
 support.steampowered.com
 www.dota2.com
+partner.steampowered.com
 help.steampowered.com
 api.steampowered.com
 partner.steamgames.com
@@ -3134,10 +3134,10 @@ js.crypto.com
 merchant.crypto.com
 www.crypto.com
 tax.crypto.com
-*.crypto.com
 pay.crypto.com
 auth.crypto.com
 app.mona.co
+*.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3285,8 +3285,8 @@ gifts.grab.com
 *.grab.co
 *.grabpay.com
 jira.grab.com
-*.grab.com
 *.grabtaxi.com
+*.grab.com
 *.ovo.id
 kartaview.org
 *.myteksi.com
@@ -3350,9 +3350,9 @@ getofficial.co
 *.tospotify.com
 api.spotify.com
 assets.spotify.com
-*.withspotify.com
 backstage.io
 *.byspotify.com
+*.withspotify.com
 *.withspotify.com
 *.byspotify.com
 *.atspotify.com
@@ -3661,11 +3661,11 @@ www.udemy.com
 yourcompany.udemy.com
 shopify.plus
 shopifyinbox.com
-*.shopifycs.com
 *.shopifykloud.com
+*.shopifycs.com
 *.shopify.io
-*.shopifycloud.com
 partners.shopify.com
+*.shopifycloud.com
 shop.app
 accounts.shopify.com
 your-store.myshopify.com
@@ -3717,8 +3717,8 @@ app.snapchat.com
 playcanvas.com
 web.snapchat.com
 login.playcanvas.com
-business.snapchat.com
 kit.snapchat.com
+business.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3790,8 +3790,8 @@ callbacks.airbnb.com
 *.airbnbcitizen.com
 *.muscache.com
 www.hoteltonight.com
-*.airbnb-aws.com
 assets.airbnb.com
+*.airbnb-aws.com
 next.airbnb.com
 api.airbnb.com
 support-api.airbnb.com
@@ -3943,9 +3943,9 @@ prime.coinbase.com
 international.coinbase.com
 nft.coinbase.com
 cloud.coinbase.com
+pro.coinbase.com
 api.coinbase.com
 commerce.coinbase.com
-pro.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
 *.base.org
@@ -4018,8 +4018,8 @@ reviewer.pullrequest.com
 hackerone.live
 b5s.hackerone-ext-content.com
 api.hackerone.com
-www.hackerone.com
 a5s.hackerone-ext-content.com
+www.hackerone.com
 hackerone.com
 hackerone.com
 api.hackerone.com
@@ -4251,8 +4251,8 @@ magentocommerce.com
 u.magento.com
 imagine.magento.com
 magentolive.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 account.magento.com
 marketplace.magento.com
 magento.com
