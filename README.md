@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 30 02:38:57 UTC 2024)
+## Domains with Bounties (Last Updated Tue Apr 30 03:19:25 UTC 2024)
 ```
 api.dyson.se
 api.dyson.dk
@@ -324,10 +324,10 @@ app3.rewire.to
 bioid-management.app
 worldcoin.org
 *.worldcoin.dev
-*.consumer.worldcoin.org
 getworldcoin.com
 toolsforhumanity.com
 *.worldcoin.org
+*.consumer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -474,8 +474,8 @@ indicative-pricing.taxi.booking.com
 taxi.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
-taxis.booking.com
 demo.fareharbor.com
+taxis.booking.com
 sites.fareharbor.com
 chat.booking.com
 widget.rentalcars.com
@@ -767,8 +767,8 @@ developer.authorize.net
 developer.visa.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
-yourdomain.freshservice.com
 yourdomain.freshcaller.com
+yourdomain.freshservice.com
 yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -1023,10 +1023,10 @@ sms.8x8.com
 work.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
+voapi.8x8.com
+*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
-*.8x8.id
-voapi.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
 platform.8x8.com
@@ -1127,7 +1127,6 @@ dookeydash.com
 hv-mtl.com
 www.ebookers.fi
 www.expediaagents.com
-*.lastminute.co.nz
 www.stayz.com.au
 www.bookabach.co.nz
 www.abritel.fr
@@ -1137,6 +1136,7 @@ www.hotwirepartnercentral.com
 www.ebookers.com
 *.wotif.com
 *.lastminute.com.au
+*.lastminute.co.nz
 www.fewo-direkt.de
 www.orbitz.com
 www.flights.com
@@ -1145,10 +1145,10 @@ www.flights.com
 www.vrbo.com
 www.expediagroup.com
 *.hotwire.com
+www.mrjet.se
 www.expedia.com
 *.carrentals.com
 *.expediacruises.com
-www.mrjet.se
 www.hotels.com
 *.vrbo.com
 www.expediataap.com
@@ -1284,9 +1284,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 www.momondo.com
 business.kayak.com
 www.kayak.com
@@ -1313,9 +1313,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
-api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
+api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1573,12 +1573,12 @@ playwonderbox.com
 therecord.media
 geminiadvisory.io
 hatching.io
-app.recordedfuture.com
 id.recordedfuture.com
 tria.ge
 api.recordedfuture.com
-securitytrails.com
+app.recordedfuture.com
 www.recordedfuture.com
+securitytrails.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1890,11 +1890,11 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-ccloud.yoti.com
 identity.yoti.com
-core.yoti.com
-code.yoti.com
+ccloud.yoti.com
 www.yotisign.com
+code.yoti.com
+core.yoti.com
 hub.yoti.com
 api.yoti.com
 core.yoti.com
@@ -2069,8 +2069,8 @@ www.figma.com
 api.figma.com
 3d.cs.money
 blog.cs.money
-wiki.cs.money
 support.cs.money
+wiki.cs.money
 cs.money
 cs.money
 support.cs.money
@@ -2407,8 +2407,8 @@ amazonpayinsurance.in
 *.aliyun-inc.com
 *.alimama.com
 www.alibabagroup.com
-*.alibabacloud.com
 *.aliexpress.com
+*.alibabacloud.com
 *.alibaba-inc.com
 *.alibaba.com
 *.aliyun.com
@@ -2435,8 +2435,8 @@ dashboard.fortmatic.com
 auth.magic.link
 x2.fortmatic.com
 dashboard.magic.link
-api.fortmatic.com
 api.magic.link
+api.fortmatic.com
 api.fortmatic.com
 x2.fortmatic.com
 careers.fortmatic.com
@@ -2457,9 +2457,9 @@ maria.casino
 *.kes.kindredext.net
 *.unibet.fr
 www.32red.com
-*.mariacasino.com
 *.bingo.com
 *.unibet.com
+*.mariacasino.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2866,34 +2866,34 @@ grammarly.ai
 grammarly.ai
 *.east.fdbox.net
 *.mgmt.fndlsb.net
-*.prd.fndlsb.net
 *.prod.fdbox.net
+*.prd.fndlsb.net
 *inf.fndlsb.net
 *racing.fanduel.com
 4njbets.tvgnetwork.com
 b2b.tvgnetwork.com
 service.racing.fanduel.com
+4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
-4njbets.us.betfair.com
-mobile-prod.tvg.com
-m.4njbets.tvg.com
-pabets.tvg.com
-login.tvg.com
-www.4njbets.com
-service.tvg.com
-promos.tvg.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
 login-ia.tvg.com
+m.4njbets.tvg.com
+login.tvg.com
+mobile-prod.tvg.com
+pabets.tvg.com
+service.tvg.com
+promos.tvg.com
+www.4njbets.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
 com.fanduel.android.live
 www.tvg.com
 sportsbook.fanduel.com
 ia.tvg.com
-fdbox.net
 us.tvg.com
+fdbox.net
 fanduel.com
 tvg.com
 *.numberfire.com
@@ -2952,7 +2952,6 @@ api.loanbuilder.com
 my.loanbuilder.com
 www.swiftcapital.com
 swiftcapital.com
-loanbuilder.com
 py.pl
 *.xoom.com
 *.hyperwallet.com
@@ -2965,6 +2964,7 @@ www.loanbuilder.com
 *.braintreegateway.com
 paypalobjects.com
 *.paypal.com
+loanbuilder.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3131,10 +3131,10 @@ js.crypto.com
 merchant.crypto.com
 www.crypto.com
 pay.crypto.com
-app.mona.co
-*.crypto.com
 auth.crypto.com
+app.mona.co
 tax.crypto.com
+*.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3339,12 +3339,12 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.tospotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
+*.tospotify.com
 api.spotify.com
 assets.spotify.com
 backstage.io
@@ -3461,8 +3461,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
 www.starbucks.com.sg
+gift.starbucks.co.jp
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3503,8 +3503,8 @@ ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
-search.brave.com
 talk.brave.com
+search.brave.com
 brave.com
 brave.com
 basicattentiontoken.org
@@ -3657,8 +3657,8 @@ www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopify.plus
-*.shopifycs.com
 *.shopifykloud.com
+*.shopifycs.com
 *.shopify.io
 partners.shopify.com
 shopifyinbox.com
@@ -3787,8 +3787,8 @@ callbacks.airbnb.com
 *.airbnbcitizen.com
 *.muscache.com
 www.hoteltonight.com
-*.airbnb-aws.com
 assets.airbnb.com
+*.airbnb-aws.com
 next.airbnb.com
 api.airbnb.com
 support-api.airbnb.com
@@ -3991,7 +3991,6 @@ www.quip.com
 onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 le.yahooapis.com
-yimg.com
 data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
@@ -4250,8 +4249,8 @@ magentocommerce.com
 u.magento.com
 imagine.magento.com
 magentolive.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 account.magento.com
 marketplace.magento.com
 magento.com
