@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May  1 12:29:47 UTC 2024)
+## Domains with Bounties (Last Updated Wed May  1 12:54:51 UTC 2024)
 ```
 api.dyson.se
 api.dyson.dk
@@ -20,9 +20,9 @@ www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
 www.dyson.at
-www.dyson.ch
 api.dyson.it
 www.dyson.ie
+www.dyson.ch
 www.dyson.es
 *.dyson.com
 www.dyson.co.uk
@@ -374,8 +374,8 @@ http://sandbox-api.fireblocks.io
 university-staging.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 account-sprint.dynatracelabs.com
-myaccount-hardening.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
+myaccount-hardening.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -488,7 +488,7 @@ fhdn.fareharbor.com
 secure.booking.com
 account.booking.com
 admin.booking.com
-*.booking.com
+booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -810,8 +810,8 @@ crash-stats.allizom.org
 merino.services.mozilla.com
 aus5.mozilla.org
 shavar.services.mozilla.com
-monitor.mozilla.org
 bugzilla.mozilla.org
+monitor.mozilla.org
 push.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 firefox.settings.services.mozilla.com
@@ -871,8 +871,8 @@ hiltonlocalbiz.com
 hilton.io
 *.hiltonhotels.jp
 hiltonhotels.jp
-hilton.com
 *.hilton.com
+hilton.com
 *.hilton.com
 *.hilton.io
 *.hiltonbusinessonline.com
@@ -940,8 +940,8 @@ aws.indrive.tech
 debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.mobi
-web.grindr.com
 *.grindr.com
+web.grindr.com
 *.grindr.io
 *.grindr.io
 *.grindr.com
@@ -1286,9 +1286,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
-www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
+www.swoodoo.com
 www.momondo.com
 business.kayak.com
 www.kayak.com
@@ -1315,9 +1315,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
-api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
+api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1617,10 +1617,10 @@ www.fedramp.gov
 marketplace.fedramp.gov
 federalist.18f.gov
 federalist-docs.18f.gov
+cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
-cloud.gov
 www.usa.gov
 *.login.gov
 federalist-proxy.app.cloud.gov
@@ -1893,11 +1893,11 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-identity.yoti.com
 ccloud.yoti.com
-www.yotisign.com
-code.yoti.com
+identity.yoti.com
 core.yoti.com
+code.yoti.com
+www.yotisign.com
 api.yoti.com
 hub.yoti.com
 core.yoti.com
@@ -2072,8 +2072,8 @@ www.figma.com
 api.figma.com
 3d.cs.money
 blog.cs.money
-wiki.cs.money
 support.cs.money
+wiki.cs.money
 cs.money
 cs.money
 support.cs.money
@@ -2361,9 +2361,9 @@ itv7.itv.com
 *.amazon.com.be
 *.amazon.com.co
 *.amazon.com.mx
+*.amazon.co.jp
 *.amazon.sg
 *.amazon.se
-*.amazon.co.jp
 *.amazon.nl
 amazonpayinsurance.in
 *.amazon.com.br
@@ -2409,11 +2409,11 @@ amazonpayinsurance.in
 *.aliexpress.ru
 *.aliyun-inc.com
 www.alibabagroup.com
-*.alibabacloud.com
 *.aliexpress.com
+*.alibabacloud.com
 *.alibaba-inc.com
-*.taobao.com
 *.aliyun.com
+*.taobao.com
 *.tmall.com
 *.alimama.com
 *.alibaba.com
@@ -3069,7 +3069,6 @@ marquee.gs.com
 *.foliodigitalwealth.com
 *.foliofn.com
 *.nnip.com
-*.marcus.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3154,15 +3153,15 @@ https://crypto.com/price
 bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
-*.deliveroo.hk
 *.deliveroo.be
-*.deliveroo.com.kw
 *.deliveroo.ie
-*.deliveroo.it
-*.deliveroo.com.hk
-*.deliveroo.com.qa
 *.deliveroo.com.sg
 *.deliveroo.ae
+*.deliveroo.it
+*.deliveroo.com.hk
+*.deliveroo.com.kw
+*.deliveroo.com.qa
+*.deliveroo.hk
 *.deliveroo.co.uk
 *.deliveroo.fr
 *.deliveroo.co.uk
@@ -3343,12 +3342,12 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.atspotify.com
 *.avecspotify.com
+*.atspotify.com
 *.enspotify.com
-*.forspotify.com
-*.fromspotify.com
 *.tospotify.com
+*.fromspotify.com
+*.forspotify.com
 api.spotify.com
 assets.spotify.com
 backstage.io
@@ -3507,8 +3506,8 @@ ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
-talk.brave.com
 search.brave.com
+talk.brave.com
 brave.com
 brave.com
 basicattentiontoken.org
@@ -3666,7 +3665,6 @@ shopify.plus
 shopifyinbox.com
 shop.app
 *.shopify.com
-your-store.myshopify.com
 admin.shopify.com
 linkpop.com
 arrive-server.shopifycloud.com
@@ -3674,6 +3672,7 @@ arrive-server.shopifycloud.com
 partners.shopify.com
 accounts.shopify.com
 *.shopifycloud.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3977,8 +3976,8 @@ status.slack.com
 slack-imgs.com
 slack.com
 www.quip.com
-*.quip.com
 app.slack.com
+*.quip.com
 api.slack.com
 slack.com
 api.slack.com
@@ -4013,8 +4012,8 @@ ctf.hacker101.com
 hackerone-user-content.com
 www.wearehackerone.com
 hackerone.live
-errors.hackerone.net
 a5s.hackerone-ext-content.com
+errors.hackerone.net
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 b5s.hackerone-ext-content.com
 api.hackerone.com
@@ -4503,8 +4502,8 @@ api.greenhouse.io
 onboarding.greenhouse.io
 jss.greenhouse.io
 app.interseller.io
-www.greenhouse.io
 interseller.io
+www.greenhouse.io
 support.greenhouse.io
 app.greenhouse.io
 app.greenhouse.io
