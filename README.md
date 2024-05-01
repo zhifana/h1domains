@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May  1 05:41:23 UTC 2024)
+## Domains with Bounties (Last Updated Wed May  1 06:23:41 UTC 2024)
 ```
 api.dyson.se
 api.dyson.dk
@@ -20,9 +20,9 @@ www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
 www.dyson.at
-www.dyson.ch
-api.dyson.it
 www.dyson.ie
+api.dyson.it
+www.dyson.ch
 www.dyson.es
 *.dyson.com
 www.dyson.co.uk
@@ -359,8 +359,8 @@ www.sheer.com
 my.sheer.com
 www.ddfcontent.com
 www.pornworld.com
-www.pornbox.com
 www.analvids.com
+www.pornbox.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -474,8 +474,8 @@ indicative-pricing.taxi.booking.com
 taxi.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
-taxis.booking.com
 demo.fareharbor.com
+taxis.booking.com
 sites.fareharbor.com
 chat.booking.com
 widget.rentalcars.com
@@ -488,7 +488,7 @@ www.fareharbor.com
 compass.fareharbor.com
 fhdn.fareharbor.com
 secure.booking.com
-admin.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -866,10 +866,10 @@ api-eu.floqast.app
 *.hiltonlocalbiz.com
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-*.hiltonhotels.jp
 *.hilton.io
 *.hiltonbusinessonline.com
 hilton.io
+*.hiltonhotels.jp
 hiltonhotels.jp
 hilton.com
 *.hilton.com
@@ -883,10 +883,10 @@ hilton.io
 hiltonbusinessonline.com
 hiltonlocalbiz.com
 hiltonhotels.jp
-*.okg.com
 *.okcoin.com
 *.oklink.com
 *.okx.com
+*.okg.com
 *.okx.com
 *.okcoin.com
 *.oklink.com
@@ -1073,8 +1073,8 @@ admin.8x8.com
 *.magicjackpot.ro
 *.luckydays.com
 *.superbet.rs
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1127,8 +1127,6 @@ dookeydash.com
 *.wenewmoments.com
 dookeydash.com
 hv-mtl.com
-www.expediaagents.com
-*.lastminute.co.nz
 www.stayz.com.au
 www.bookabach.co.nz
 www.abritel.fr
@@ -1138,10 +1136,9 @@ www.hotwirepartnercentral.com
 www.ebookers.com
 *.wotif.com
 *.lastminute.com.au
+*.lastminute.co.nz
 *.cheaptickets.com
 *.travelocity.com
-www.expediagroup.com
-www.hotels.com
 www.orbitz.com
 www.expedia.com
 www.mrjet.se
@@ -1151,10 +1148,13 @@ www.flights.com
 *.vrbo.com
 www.ebookers.fi
 *.expediacruises.com
-www.vrbo.com
 *.hotwire.com
+www.vrbo.com
 www.fewo-direkt.de
 www.expediataap.com
+www.expediaagents.com
+www.hotels.com
+www.expediagroup.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1277,8 +1277,8 @@ invoices.razorpay.com
 payroll.razorpay.com
 x.razorpay.com
 api.linkedin.com
-www.linkedin.com
 business.linkedin.com
+www.linkedin.com
 www.linkedin.com
 api.linkedin.com
 business.linkedin.com
@@ -1315,9 +1315,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
+api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
-api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1617,10 +1617,10 @@ www.fedramp.gov
 marketplace.fedramp.gov
 federalist.18f.gov
 federalist-docs.18f.gov
-cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
+cloud.gov
 www.usa.gov
 *.login.gov
 federalist-proxy.app.cloud.gov
@@ -1758,8 +1758,8 @@ oauth.reddit.com
 matrix.redditspace.com
 www.spiketrap.io
 ads.reddit.com
-www.reddit.com
 ads-api.reddit.com
+www.reddit.com
 *.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -1893,11 +1893,11 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-identity.yoti.com
 ccloud.yoti.com
-www.yotisign.com
-code.yoti.com
+identity.yoti.com
 core.yoti.com
+code.yoti.com
+www.yotisign.com
 api.yoti.com
 hub.yoti.com
 core.yoti.com
@@ -2361,16 +2361,16 @@ itv7.itv.com
 *.amazon.com.be
 *.amazon.com.co
 *.amazon.com.mx
+*.amazon.co.jp
 *.amazon.sg
 *.amazon.se
-*.amazon.co.jp
 *.amazon.nl
 amazonpayinsurance.in
-*.amazon.ae
 *.amazon.com.br
+*.amazon.ae
 *.amazon.pl
-*.amazon.eg
 *.amazon.cn
+*.amazon.eg
 *.amazon.es
 *.amazon.de
 *.amazon.fr
@@ -2412,8 +2412,8 @@ www.alibabagroup.com
 *.alibabacloud.com
 *.aliexpress.com
 *.alibaba-inc.com
-*.aliyun.com
 *.taobao.com
+*.aliyun.com
 *.tmall.com
 *.alimama.com
 *.alibaba.com
@@ -2460,9 +2460,9 @@ maria.casino
 *.kes.kindredext.net
 *.unibet.fr
 www.32red.com
-*.mariacasino.com
 *.bingo.com
 *.unibet.com
+*.mariacasino.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2692,8 +2692,8 @@ app.command.cysiv.com
 api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
-cruises.priceline.com
 press.priceline.com
+cruises.priceline.com
 www.bookingholdings.com
 flyiin.com
 www.priceline.com
@@ -2942,19 +2942,19 @@ https://github.com/matomo-org/docker
 paypal.me
 *.braintree.tools
 *.paylution.com
-my.swiftfinancial.com
-swiftfinancial.com
-prequal.swiftfinancial.com
-www.swiftcapital.com
-swiftcapital.com
-partner.swiftfinancial.com
-pigeon.swiftfinancial.com
+api.swiftfinancial.com
 scrutiny.swiftfinancial.com
 www.swiftfinancial.com
+swiftfinancial.com
+www.swiftcapital.com
+swiftcapital.com
+decision.swiftfinancial.com
+partner.swiftfinancial.com
+my.swiftfinancial.com
+pigeon.swiftfinancial.com
+prequal.swiftfinancial.com
 api.loanbuilder.com
 my.loanbuilder.com
-api.swiftfinancial.com
-decision.swiftfinancial.com
 py.pl
 *.hyperwallet.com
 www.loanbuilder.com
@@ -2966,8 +2966,8 @@ loanbuilder.com
 *.xoom.com
 *.braintreegateway.com
 sandbox.braintreegateway.com
-paypalobjects.com
 *.paypal.com
+paypalobjects.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3069,7 +3069,6 @@ marquee.gs.com
 *.foliodigitalwealth.com
 *.foliofn.com
 *.nnip.com
-*.marcus.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3134,8 +3133,8 @@ developer.valvesoftware.com
 js.crypto.com
 merchant.crypto.com
 www.crypto.com
-tax.crypto.com
 app.mona.co
+tax.crypto.com
 pay.crypto.com
 auth.crypto.com
 *.crypto.com
@@ -3154,9 +3153,9 @@ https://crypto.com/price
 bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
-*.deliveroo.be
 *.deliveroo.ie
 *.deliveroo.it
+*.deliveroo.be
 *.deliveroo.com.hk
 *.deliveroo.com.kw
 *.deliveroo.com.qa
@@ -3208,8 +3207,8 @@ falcon-sandbox.com
 *.humio.com
 www.crowdstrike.com
 hybrid-analysis.com
-*.preempt.com
 *.crowdstrike.com
+*.preempt.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3237,8 +3236,8 @@ privatetarget-2-secure.zigzag
 api.lahitapiola.fi
 ext-gw.lahitapiola.fi
 www.lahitapiola.fi
-*.lahitapiola.fi
 yrityspalvelu.tapiola.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3317,9 +3316,9 @@ bma.badoo.com
 translate.badoo.com
 ccardsus1.badoo.com
 bma.bumble.com
-ccardseu1.badoo.com
 us1.badoo.com
 eu1.badoo.com
+ccardseu1.badoo.com
 badoocdn.com
 www.bumble.com
 hotornot.com
@@ -3343,12 +3342,12 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.atspotify.com
 *.avecspotify.com
+*.atspotify.com
 *.enspotify.com
-*.forspotify.com
-*.fromspotify.com
 *.tospotify.com
+*.fromspotify.com
+*.forspotify.com
 api.spotify.com
 assets.spotify.com
 backstage.io
@@ -3465,8 +3464,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-www.starbucks.com.sg
 gift.starbucks.co.jp
+www.starbucks.com.sg
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3476,8 +3475,8 @@ www.starbucks.fr
 login.starbucks.co.jp
 www.starbucks.com.cn
 www.starbucksreserve.com
-www.starbucks.co.kr
 www.starbucks.com
+www.starbucks.co.kr
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3507,8 +3506,8 @@ ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
-talk.brave.com
 search.brave.com
+talk.brave.com
 brave.com
 brave.com
 basicattentiontoken.org
@@ -3791,8 +3790,8 @@ callbacks.airbnb.com
 *.airbnbcitizen.com
 *.muscache.com
 www.hoteltonight.com
-assets.airbnb.com
 *.airbnb-aws.com
+assets.airbnb.com
 next.airbnb.com
 api.airbnb.com
 support-api.airbnb.com
