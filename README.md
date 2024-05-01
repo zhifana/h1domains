@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May  1 10:20:28 UTC 2024)
+## Domains with Bounties (Last Updated Wed May  1 10:43:30 UTC 2024)
 ```
 api.dyson.se
 api.dyson.dk
@@ -383,8 +383,8 @@ sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 demo.dynamic.xyz
-app.dynamic.xyz
 app.dynamic-preprod.xyz
+app.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -474,8 +474,8 @@ indicative-pricing.taxi.booking.com
 taxi.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
-demo.fareharbor.com
 taxis.booking.com
+demo.fareharbor.com
 sites.fareharbor.com
 chat.booking.com
 widget.rentalcars.com
@@ -488,7 +488,7 @@ compass.fareharbor.com
 fhdn.fareharbor.com
 secure.booking.com
 account.booking.com
-admin.booking.com
+booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -1127,6 +1127,7 @@ dookeydash.com
 *.wenewmoments.com
 dookeydash.com
 hv-mtl.com
+*.lastminute.co.nz
 www.stayz.com.au
 www.abritel.fr
 *.travelocity.ca
@@ -1135,7 +1136,6 @@ www.hotwirepartnercentral.com
 www.ebookers.com
 *.wotif.com
 *.lastminute.com.au
-*.lastminute.co.nz
 *.cheaptickets.com
 *.travelocity.com
 www.orbitz.com
@@ -1151,10 +1151,10 @@ www.vrbo.com
 www.fewo-direkt.de
 www.expediataap.com
 www.expediagroup.com
-www.bookabach.co.nz
 www.hotels.com
 *.expediapartnercentral.com
 www.expediaagents.com
+www.bookabach.co.nz
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1286,9 +1286,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
-www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
+www.swoodoo.com
 www.momondo.com
 business.kayak.com
 www.kayak.com
@@ -1370,8 +1370,8 @@ bullsheet.me
 etoropartners.com
 www.etoro.com
 charts.etoro.com
-delta.app
 aggregator.etoro.com
+delta.app
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -1575,12 +1575,12 @@ playwonderbox.com
 therecord.media
 geminiadvisory.io
 hatching.io
+app.recordedfuture.com
 id.recordedfuture.com
 tria.ge
 api.recordedfuture.com
-app.recordedfuture.com
-www.recordedfuture.com
 securitytrails.com
+www.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1710,11 +1710,11 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
-app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
 *.touchtechpayments.com
+app.taxjar.com
 api.stripe.com
 *.stripe.com
 api.stripe.com
@@ -1969,8 +1969,8 @@ secure.sharefile.eu
 accounts.cloud.com
 www.cloud.com
 citrix.cloud.com
-(yoursubdomain).sf-api.com
 (yoursubdomain).sharefile.com
+(yoursubdomain).sf-api.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -2014,8 +2014,8 @@ affiliate-id.tokopedia.com
 www.pangleglobal.com
 live-backstage.tiktok.com
 creatormarketplace.tiktok.com
-business.tiktok.com
 ads.tiktok.com
+business.tiktok.com
 partner.tiktokshop.com
 tiktok.com
 *.tiktokv.com
@@ -2361,9 +2361,9 @@ itv7.itv.com
 *.amazon.com.be
 *.amazon.com.co
 *.amazon.com.mx
-*.amazon.co.jp
 *.amazon.sg
 *.amazon.se
+*.amazon.co.jp
 *.amazon.nl
 amazonpayinsurance.in
 *.amazon.com.br
@@ -2409,8 +2409,8 @@ amazonpayinsurance.in
 *.aliexpress.ru
 *.aliyun-inc.com
 www.alibabagroup.com
-*.aliexpress.com
 *.alibabacloud.com
+*.aliexpress.com
 *.alibaba-inc.com
 *.aliyun.com
 *.taobao.com
@@ -2502,8 +2502,8 @@ marrtool.com
 all-inclusive.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
-www.marriott.com
 traveler.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2879,15 +2879,15 @@ service.racing.fanduel.com
 4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
-mobile-prod.tvg.com
-pabets.tvg.com
-service.tvg.com
-promos.tvg.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
 login-ia.tvg.com
 m.4njbets.tvg.com
 login.tvg.com
+mobile-prod.tvg.com
+pabets.tvg.com
+service.tvg.com
+promos.tvg.com
 www.4njbets.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
@@ -2943,18 +2943,18 @@ paypal.me
 *.braintree.tools
 *.paylution.com
 api.swiftfinancial.com
+decision.swiftfinancial.com
+my.swiftfinancial.com
+partner.swiftfinancial.com
+pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 www.swiftfinancial.com
 swiftfinancial.com
-www.swiftcapital.com
-swiftcapital.com
-decision.swiftfinancial.com
-partner.swiftfinancial.com
-my.swiftfinancial.com
-pigeon.swiftfinancial.com
 prequal.swiftfinancial.com
 api.loanbuilder.com
 my.loanbuilder.com
+www.swiftcapital.com
+swiftcapital.com
 py.pl
 *.hyperwallet.com
 www.loanbuilder.com
@@ -3155,12 +3155,12 @@ https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
 *.deliveroo.be
 *.deliveroo.ie
-*.deliveroo.com.sg
-*.deliveroo.ae
 *.deliveroo.it
 *.deliveroo.com.hk
 *.deliveroo.com.kw
 *.deliveroo.com.qa
+*.deliveroo.com.sg
+*.deliveroo.ae
 *.deliveroo.hk
 *.deliveroo.co.uk
 *.deliveroo.fr
@@ -3662,8 +3662,8 @@ yourcompany.udemy.com
 shopify.plus
 *.shopifycs.com
 *.shopify.io
-shopifyinbox.com
 *.shopifycloud.com
+shopifyinbox.com
 shop.app
 *.shopify.com
 your-store.myshopify.com
@@ -3789,10 +3789,9 @@ callbacks.airbnb.com
 *.byairbnb.com
 *.luxuryretreats.com
 *.airbnbcitizen.com
-*.muscache.com
 www.hoteltonight.com
-*.airbnb-aws.com
 assets.airbnb.com
+*.airbnb-aws.com
 next.airbnb.com
 api.airbnb.com
 support-api.airbnb.com
@@ -3800,6 +3799,7 @@ support-api.airbnb.com
 *.withairbnb.com
 www.airbnb.com
 *.airbnb.com
+*.muscache.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3977,8 +3977,8 @@ slack-imgs.com
 slack.com
 www.quip.com
 api.slack.com
-*.quip.com
 app.slack.com
+*.quip.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4012,8 +4012,8 @@ ctf.hacker101.com
 hackerone-user-content.com
 www.wearehackerone.com
 hackerone.live
-errors.hackerone.net
 a5s.hackerone-ext-content.com
+errors.hackerone.net
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 b5s.hackerone-ext-content.com
 api.hackerone.com
