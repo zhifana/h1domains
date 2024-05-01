@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May  1 23:19:05 UTC 2024)
+## Domains with Bounties (Last Updated Wed May  1 23:41:38 UTC 2024)
 ```
 sportsbook.caesars.com
 williamhill.us
@@ -49,8 +49,8 @@ www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
 www.dyson.at
-www.dyson.ie
 api.dyson.it
+www.dyson.ie
 www.dyson.ch
 www.dyson.es
 *.dyson.com
@@ -503,8 +503,8 @@ indicative-pricing.taxi.booking.com
 taxi.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
-taxis.booking.com
 demo.fareharbor.com
+taxis.booking.com
 sites.fareharbor.com
 chat.booking.com
 widget.rentalcars.com
@@ -711,11 +711,11 @@ visa.co.za
 www.fraedom.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
-bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
+bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -839,8 +839,8 @@ crash-stats.allizom.org
 merino.services.mozilla.com
 aus5.mozilla.org
 shavar.services.mozilla.com
-bugzilla.mozilla.org
 monitor.mozilla.org
+bugzilla.mozilla.org
 push.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 firefox.settings.services.mozilla.com
@@ -1060,8 +1060,8 @@ platform.8x8pilot.com
 voapi.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
-sso.8x8pilot.com
 platform.8x8.com
+sso.8x8pilot.com
 *.wavecell.com
 user-profile.8x8.com
 sso.8x8.com
@@ -1171,20 +1171,20 @@ www.mrjet.se
 www.flights.com
 www.ebookers.fi
 www.fewo-direkt.de
-www.expediaagents.com
 www.bookabach.co.nz
-*.carrentals.com
+*.hotwire.com
+www.expedia.com
 www.expediataap.com
 www.hotels.com
-www.expedia.com
-*.hotwire.com
+*.carrentals.com
 *.vrbo.com
-www.vrbo.com
 *.expediapartnercentral.com
-*.expediacruises.com
 www.expediagroup.com
+*.expediacruises.com
+www.vrbo.com
 *.lastminute.com.au
 *.cheaptickets.com
+www.expediaagents.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1345,9 +1345,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
+api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
-api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1605,10 +1605,10 @@ playwonderbox.com
 therecord.media
 geminiadvisory.io
 hatching.io
-app.recordedfuture.com
 id.recordedfuture.com
 tria.ge
 api.recordedfuture.com
+app.recordedfuture.com
 securitytrails.com
 www.recordedfuture.com
 www.recordedfuture.com
@@ -1745,8 +1745,8 @@ api.taxjar.com
 js.stripe.com
 *.touchtechpayments.com
 app.taxjar.com
-*.stripe.com
 api.stripe.com
+*.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1902,8 +1902,8 @@ internal-api-lark-api.larksuite.com
 hackers_chosendomain.larksuite.com
 larksuite.com
 open.larksuite.com
-app.larksuite.com
 api.larksuite.com
+app.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -1925,9 +1925,9 @@ hackers_chosendomain.larksuite.com
 *.exodus.com
 identity.yoti.com
 ccloud.yoti.com
+www.yotisign.com
 code.yoti.com
 core.yoti.com
-www.yotisign.com
 api.yoti.com
 hub.yoti.com
 core.yoti.com
@@ -1990,8 +1990,8 @@ api.adm.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
-api.sharefile.com
 adm.cloud.com
+api.sharefile.com
 (youriwssubdomain).cloud.com
 secure.sharefile.com
 (yoursubdomain).sharefile.eu
@@ -2045,11 +2045,11 @@ www.pangleglobal.com
 live-backstage.tiktok.com
 business.tiktok.com
 tiktok.com
-*.tiktok.com
 *.tiktokv.com
 partner.tiktokshop.com
 ads.tiktok.com
 creatormarketplace.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2490,9 +2490,9 @@ maria.casino
 *.kes.kindredext.net
 *.unibet.fr
 www.32red.com
-*.mariacasino.com
 *.bingo.com
 *.unibet.com
+*.mariacasino.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2531,8 +2531,8 @@ www.ritzcarlton.com
 marrtool.com
 all-inclusive.marriott.com
 homes-and-villas.marriott.com
-www.marriott.com
 sso.marriott.com
+www.marriott.com
 traveler.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
@@ -2722,8 +2722,8 @@ app.command.cysiv.com
 api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
-press.priceline.com
 cruises.priceline.com
+press.priceline.com
 www.bookingholdings.com
 flyiin.com
 www.priceline.com
@@ -2973,18 +2973,18 @@ paypal.me
 *.braintree.tools
 *.paylution.com
 api.swiftfinancial.com
-decision.swiftfinancial.com
-my.swiftfinancial.com
-partner.swiftfinancial.com
-pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 www.swiftfinancial.com
 swiftfinancial.com
+www.swiftcapital.com
+swiftcapital.com
+decision.swiftfinancial.com
+partner.swiftfinancial.com
+my.swiftfinancial.com
+pigeon.swiftfinancial.com
 prequal.swiftfinancial.com
 api.loanbuilder.com
 my.loanbuilder.com
-www.swiftcapital.com
-swiftcapital.com
 py.pl
 *.hyperwallet.com
 www.loanbuilder.com
@@ -3099,6 +3099,7 @@ marquee.gs.com
 *.foliodigitalwealth.com
 *.foliofn.com
 *.nnip.com
+*.marcus.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3135,9 +3136,9 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
-support.steampowered.com
-www.dota2.com
 partner.steampowered.com
+www.dota2.com
+support.steampowered.com
 help.steampowered.com
 api.steampowered.com
 partner.steamgames.com
@@ -3183,15 +3184,15 @@ https://crypto.com/price
 bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
+*.deliveroo.hk
 *.deliveroo.be
+*.deliveroo.com.kw
 *.deliveroo.ie
-*.deliveroo.com.sg
-*.deliveroo.ae
 *.deliveroo.it
 *.deliveroo.com.hk
-*.deliveroo.com.kw
 *.deliveroo.com.qa
-*.deliveroo.hk
+*.deliveroo.com.sg
+*.deliveroo.ae
 *.deliveroo.co.uk
 *.deliveroo.fr
 *.deliveroo.co.uk
@@ -3375,13 +3376,13 @@ getofficial.co
 *.avecspotify.com
 *.atspotify.com
 *.enspotify.com
-*.tospotify.com
 *.fromspotify.com
 *.forspotify.com
+*.tospotify.com
 assets.spotify.com
 backstage.io
-*.byspotify.com
 *.withspotify.com
+*.byspotify.com
 api.spotify.com
 *.withspotify.com
 *.byspotify.com
@@ -3494,8 +3495,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
 www.starbucks.com.sg
+gift.starbucks.co.jp
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3505,8 +3506,8 @@ www.starbucks.fr
 login.starbucks.co.jp
 www.starbucks.com.cn
 www.starbucksreserve.com
-www.starbucks.co.kr
 www.starbucks.com
+www.starbucks.co.kr
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3685,8 +3686,8 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 http://h1-your-domain.zendesk.com/sell
-yourcompany.udemy.com
 www.udemy.com
+yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopify.plus
@@ -3699,8 +3700,8 @@ arrive-server.shopifycloud.com
 *.shopifycloud.com
 admin.shopify.com
 accounts.shopify.com
-*.shopifykloud.com
 partners.shopify.com
+*.shopifykloud.com
 your-store.myshopify.com
 *.shopify.com
 *.shopifycs.com
@@ -4051,8 +4052,8 @@ b5s.hackerone-ext-content.com
 api.hackerone.com
 www.hackerone.com
 app.pullrequest.com
-hackerone.com
 reviewer.pullrequest.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
