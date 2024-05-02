@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May  2 11:16:09 UTC 2024)
+## Domains with Bounties (Last Updated Thu May  2 11:41:45 UTC 2024)
 ```
 williamhill.us
 api.americanwagering.com
 caesarspalaceonline.com
-*.us.williamhill.com
 sportsbook.caesars.com
+*.us.williamhill.com
 *.williamhill.us
 *.us.williamhill.com
 *.williamhill.us
@@ -896,9 +896,9 @@ api-eu.floqast.app
 *.hiltonlocalbiz.com
 hiltonbusinessonline.com
 hiltonlocalbiz.com
+*.hiltonhotels.jp
 *.hiltonbusinessonline.com
 hilton.io
-*.hiltonhotels.jp
 hiltonhotels.jp
 hilton.com
 *.hilton.io
@@ -941,9 +941,9 @@ file-storage-front.eu-east-1.indriverapp.com
 injob.indriver.com
 truck-api.eu-east-1.indriverapp.com
 ci.indrive.dev
-*.indrive.com
-*.indriverapp.com
 new-order.eu-east-1.indriverapp.com
+*.indriverapp.com
+*.indrive.com
 volans.tech
 *.indriverapp.com
 *.indrive.com
@@ -1061,8 +1061,8 @@ platform.8x8pilot.com
 voapi.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
-platform.8x8.com
 sso.8x8pilot.com
+platform.8x8.com
 *.wavecell.com
 user-profile.8x8.com
 sso.8x8.com
@@ -1180,12 +1180,12 @@ www.hotels.com
 www.expediataap.com
 *.vrbo.com
 *.cheaptickets.com
-www.expediaagents.com
 *.expediapartnercentral.com
 www.vrbo.com
 *.lastminute.com.au
 *.hotwire.com
 www.expedia.com
+www.expediaagents.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1728,8 +1728,8 @@ https://www.xvideos.net/app/
 *.elasticnet.co
 www.elastic.co
 *.swiftype.com
-cloud.elastic.co
 *.elastic.co
+cloud.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -2046,11 +2046,11 @@ live-backstage.tiktok.com
 business.tiktok.com
 *.tiktokv.com
 partner.tiktokshop.com
-ads.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktok.com
 tiktok.com
 developers.tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2975,10 +2975,10 @@ paypal.me
 *.paylution.com
 api.swiftfinancial.com
 decision.swiftfinancial.com
-my.swiftfinancial.com
 partner.swiftfinancial.com
-pigeon.swiftfinancial.com
+my.swiftfinancial.com
 scrutiny.swiftfinancial.com
+pigeon.swiftfinancial.com
 www.swiftfinancial.com
 swiftfinancial.com
 prequal.swiftfinancial.com
@@ -2991,8 +2991,8 @@ py.pl
 *.paypalcorp.com
 *.venmo.com
 *.braintreepayments.com
-loanbuilder.com
 *.braintree-api.com
+loanbuilder.com
 *.xoom.com
 *.braintreegateway.com
 sandbox.braintreegateway.com
@@ -3185,15 +3185,15 @@ https://crypto.com/price
 bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
-*.deliveroo.hk
-*.deliveroo.be
-*.deliveroo.com.kw
 *.deliveroo.ie
 *.deliveroo.it
+*.deliveroo.be
 *.deliveroo.com.hk
+*.deliveroo.com.kw
 *.deliveroo.com.qa
 *.deliveroo.com.sg
 *.deliveroo.ae
+*.deliveroo.hk
 *.deliveroo.co.uk
 *.deliveroo.fr
 *.deliveroo.co.uk
@@ -3383,8 +3383,8 @@ getofficial.co
 assets.spotify.com
 backstage.io
 *.withspotify.com
-api.spotify.com
 *.byspotify.com
+api.spotify.com
 *.withspotify.com
 *.byspotify.com
 *.atspotify.com
@@ -3467,8 +3467,8 @@ lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
 www.files.com
-app.files.com
 your-assigned-subdomain.files.com
+app.files.com
 app.files.com
 your-assigned-subdomain.files.com
 www.files.com
@@ -3496,8 +3496,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
 www.starbucks.com.sg
+gift.starbucks.co.jp
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3538,8 +3538,8 @@ ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
-talk.brave.com
 search.brave.com
+talk.brave.com
 brave.com
 brave.com
 basicattentiontoken.org
@@ -3697,11 +3697,11 @@ shop.app
 linkpop.com
 arrive-server.shopifycloud.com
 *.shopifycloud.com
-*.shopifykloud.com
 partners.shopify.com
+*.shopifykloud.com
 *.shopify.com
-*.shopify.io
 accounts.shopify.com
+*.shopify.io
 shopifyinbox.com
 your-store.myshopify.com
 admin.shopify.com
@@ -3821,8 +3821,8 @@ callbacks.airbnb.com
 *.byairbnb.com
 *.luxuryretreats.com
 *.airbnbcitizen.com
-*.airbnb-aws.com
 assets.airbnb.com
+*.airbnb-aws.com
 next.airbnb.com
 api.airbnb.com
 support-api.airbnb.com
@@ -3908,7 +3908,6 @@ waf.cumulusfire.net
 one.dash.cloudflare.com
 api.cloudflare.com
 cloudflareworkers.com
-dash.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
@@ -4007,8 +4006,8 @@ status.slack.com
 slack-imgs.com
 slack.com
 www.quip.com
-*.quip.com
 app.slack.com
+*.quip.com
 api.slack.com
 slack.com
 api.slack.com
@@ -4044,8 +4043,8 @@ ctf.hacker101.com
 hackerone-user-content.com
 www.wearehackerone.com
 hackerone.live
-a5s.hackerone-ext-content.com
 errors.hackerone.net
+a5s.hackerone-ext-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 b5s.hackerone-ext-content.com
 *.vpn.hackerone.net
@@ -4284,8 +4283,8 @@ magentocommerce.com
 u.magento.com
 imagine.magento.com
 magentolive.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 marketplace.magento.com
 magento.com
 account.magento.com
