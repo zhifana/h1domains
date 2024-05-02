@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May  2 10:20:25 UTC 2024)
+## Domains with Bounties (Last Updated Thu May  2 10:43:01 UTC 2024)
 ```
 williamhill.us
 api.americanwagering.com
 caesarspalaceonline.com
-*.us.williamhill.com
 sportsbook.caesars.com
+*.us.williamhill.com
 *.williamhill.us
 *.us.williamhill.com
 *.williamhill.us
@@ -496,16 +496,16 @@ supply-xml.booking.com
 portal.taxi.booking.com
 secure-supply-xml.booking.com
 kyc-onboarding.booking.com
-spark.fareharbor.com
 teleport.fareharbor.engineering
 paymentcomponent.booking.com
+spark.fareharbor.com
 flights.booking.com
 indicative-pricing.taxi.booking.com
 taxi.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
-demo.fareharbor.com
 taxis.booking.com
+demo.fareharbor.com
 sites.fareharbor.com
 chat.booking.com
 widget.rentalcars.com
@@ -712,11 +712,11 @@ visa.co.za
 www.fraedom.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
+bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
-bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -942,8 +942,8 @@ injob.indriver.com
 truck-api.eu-east-1.indriverapp.com
 ci.indrive.dev
 *.indrive.com
-*.indriverapp.com
 new-order.eu-east-1.indriverapp.com
+*.indriverapp.com
 volans.tech
 *.indriverapp.com
 *.indrive.com
@@ -970,8 +970,8 @@ aws.indrive.tech
 debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.mobi
-*.grindr.com
 web.grindr.com
+*.grindr.com
 *.grindr.io
 *.grindr.io
 *.grindr.com
@@ -1061,8 +1061,8 @@ platform.8x8pilot.com
 voapi.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
-platform.8x8.com
 sso.8x8pilot.com
+platform.8x8.com
 *.wavecell.com
 user-profile.8x8.com
 sso.8x8.com
@@ -1158,13 +1158,13 @@ dookeydash.com
 *.wenewmoments.com
 dookeydash.com
 hv-mtl.com
-*.lastminute.co.nz
 www.stayz.com.au
 www.abritel.fr
 *.travelocity.ca
 www.hotwirepartnercentral.com
 www.ebookers.com
 *.wotif.com
+*.lastminute.co.nz
 *.travelocity.com
 www.orbitz.com
 www.flights.com
@@ -1317,9 +1317,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 www.momondo.com
 business.kayak.com
 www.kayak.com
@@ -1346,9 +1346,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
-api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
+api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1728,8 +1728,8 @@ https://www.xvideos.net/app/
 *.elasticnet.co
 www.elastic.co
 *.swiftype.com
-*.elastic.co
 cloud.elastic.co
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1741,11 +1741,11 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
-app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
 *.touchtechpayments.com
+app.taxjar.com
 api.stripe.com
 *.stripe.com
 api.stripe.com
@@ -1847,8 +1847,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-www.chime.com
 wp-qa.chime.com
+www.chime.com
 *.chimebank.com
 *.1debit.com
 *.chime.com
@@ -1926,8 +1926,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.com
 identity.yoti.com
 ccloud.yoti.com
-core.yoti.com
 code.yoti.com
+core.yoti.com
 api.yoti.com
 hub.yoti.com
 www.yotisign.com
@@ -1991,8 +1991,8 @@ api.adm.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
-adm.cloud.com
 api.sharefile.com
+adm.cloud.com
 (youriwssubdomain).cloud.com
 secure.sharefile.com
 (yoursubdomain).sharefile.eu
@@ -2103,8 +2103,8 @@ www.figma.com
 api.figma.com
 3d.cs.money
 blog.cs.money
-wiki.cs.money
 support.cs.money
+wiki.cs.money
 cs.money
 cs.money
 support.cs.money
@@ -2447,9 +2447,9 @@ www.alibabagroup.com
 *.1688.com
 *.tmall.com
 *.aliyun.com
+*.Daraz.com
 *.alibaba.com
 *.alimama.com
-*.Daraz.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2910,18 +2910,18 @@ service.racing.fanduel.com
 4njbets.tvg.com
 4njbets.com
 4njbets.us.betfair.com
-login-4njbets.us.betfair.com
-login-pabets.tvg.com
 mobile-prod.tvg.com
-login-ia.tvg.com
 m.4njbets.tvg.com
 pabets.tvg.com
 login.tvg.com
-login-4ngbets.us.betfair.com
-login.pabets.tvg.com
+www.4njbets.com
 service.tvg.com
 promos.tvg.com
-www.4njbets.com
+login-4njbets.us.betfair.com
+login-pabets.tvg.com
+login-ia.tvg.com
+login-4ngbets.us.betfair.com
+login.pabets.tvg.com
 com.fanduel.android.live
 www.tvg.com
 sportsbook.fanduel.com
@@ -3100,6 +3100,7 @@ marquee.gs.com
 *.foliodigitalwealth.com
 *.foliofn.com
 *.nnip.com
+*.marcus.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3318,8 +3319,8 @@ jira.grab.com
 *.ovo.id
 *.grab.com
 *.myteksi.com
-*.grabtaxi.com
 kartaview.org
+*.grabtaxi.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3347,9 +3348,9 @@ bma.badoo.com
 translate.badoo.com
 ccardsus1.badoo.com
 bma.bumble.com
-ccardseu1.badoo.com
 us1.badoo.com
 eu1.badoo.com
+ccardseu1.badoo.com
 badoocdn.com
 hotornot.com
 chatdate.app
@@ -3376,9 +3377,9 @@ getofficial.co
 *.avecspotify.com
 *.atspotify.com
 *.enspotify.com
+*.tospotify.com
 *.fromspotify.com
 *.forspotify.com
-*.tospotify.com
 assets.spotify.com
 backstage.io
 *.withspotify.com
@@ -3495,8 +3496,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
 www.starbucks.com.sg
+gift.starbucks.co.jp
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3820,8 +3821,8 @@ callbacks.airbnb.com
 *.byairbnb.com
 *.luxuryretreats.com
 *.airbnbcitizen.com
-assets.airbnb.com
 *.airbnb-aws.com
+assets.airbnb.com
 next.airbnb.com
 api.airbnb.com
 support-api.airbnb.com
@@ -4282,8 +4283,8 @@ magentocommerce.com
 u.magento.com
 imagine.magento.com
 magentolive.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 marketplace.magento.com
 magento.com
 account.magento.com
