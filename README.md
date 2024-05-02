@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May  2 16:23:06 UTC 2024)
+## Domains with Bounties (Last Updated Thu May  2 16:47:42 UTC 2024)
 ```
 williamhill.us
 api.americanwagering.com
@@ -22,10 +22,10 @@ https://caesarspalaceonline.com/us/nj/casino
 https://caesarspalaceonline.com/us/pa/casino
 williamhill.us
 usercontent.koho.ca
-app.koho.ca
 webgateway.koho.ca
-web.koho.ca
 www.koho.ca
+app.koho.ca
+web.koho.ca
 web.koho.ca
 http://api.koho.ca/1.0
 http://api.koho.ca/partner
@@ -496,9 +496,9 @@ supply-xml.booking.com
 portal.taxi.booking.com
 secure-supply-xml.booking.com
 kyc-onboarding.booking.com
-spark.fareharbor.com
 teleport.fareharbor.engineering
 paymentcomponent.booking.com
+spark.fareharbor.com
 flights.booking.com
 indicative-pricing.taxi.booking.com
 taxi.booking.com
@@ -570,8 +570,8 @@ app.frontapp.com
 api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -853,11 +853,11 @@ www.mozilla.org
 sync.services.mozilla.com
 hg.mozilla.org
 relay.firefox.com
-firefox-ci-tc.services.mozilla.com
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 accounts.firefox.com
 community-tc.services.mozilla.com
 support.mozilla.org
+stage.taskcluster.nonprod.cloudops.mozgcp.net
+firefox-ci-tc.services.mozilla.com
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
@@ -896,13 +896,13 @@ api-eu.floqast.app
 *.hiltonlocalbiz.com
 hiltonbusinessonline.com
 hiltonlocalbiz.com
+*.hiltonhotels.jp
 *.hiltonbusinessonline.com
 hilton.io
-*.hiltonhotels.jp
 hiltonhotels.jp
 *.hilton.io
-hilton.com
 *.hilton.com
+hilton.com
 *.hilton.com
 *.hilton.io
 *.hiltonbusinessonline.com
@@ -940,9 +940,9 @@ file-storage-front.eu-east-1.indriverapp.com
 injob.indriver.com
 truck-api.eu-east-1.indriverapp.com
 ci.indrive.dev
-new-order.eu-east-1.indriverapp.com
-*.indriverapp.com
 *.indrive.com
+*.indriverapp.com
+new-order.eu-east-1.indriverapp.com
 volans.tech
 profile-api.eu-east-1.indriverapp.com
 *.indriverapp.com
@@ -1176,14 +1176,14 @@ www.expediapartnersolutions.com
 www.fewo-direkt.de
 www.hotels.com
 www.expediataap.com
-www.vrbo.com
 *.cheaptickets.com
+www.vrbo.com
 www.expediaagents.com
 www.expedia.com
 *.hotwire.com
 *.vrbo.com
-*.expediapartnercentral.com
 www.mrjet.se
+*.expediapartnercentral.com
 *.lastminute.com.au
 *.expediacruises.com
 *.vrbo.com
@@ -1346,9 +1346,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
-api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
+api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1401,8 +1401,8 @@ bullsheet.me
 etoropartners.com
 charts.etoro.com
 aggregator.etoro.com
-www.etoro.com
 delta.app
+www.etoro.com
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -1648,10 +1648,10 @@ www.fedramp.gov
 marketplace.fedramp.gov
 federalist.18f.gov
 federalist-docs.18f.gov
+cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
-cloud.gov
 www.usa.gov
 *.login.gov
 federalist-proxy.app.cloud.gov
@@ -2103,8 +2103,8 @@ www.figma.com
 api.figma.com
 3d.cs.money
 blog.cs.money
-support.cs.money
 wiki.cs.money
+support.cs.money
 cs.money
 cs.money
 support.cs.money
@@ -2437,8 +2437,8 @@ amazonpayinsurance.in
 www.amazon.*
 amazonpayinsurance.in
 *.aliexpress.ru
-*.alibabacloud.com
 *.aliexpress.com
+*.alibabacloud.com
 *.alibaba-inc.com
 *.taobao.com
 *.1688.com
@@ -2446,8 +2446,8 @@ amazonpayinsurance.in
 *.alibaba.com
 *.alimama.com
 *.Daraz.com
-*.aliyun.com
 *.aliyun-inc.com
+*.aliyun.com
 www.alibabagroup.com
 *.alibaba.com
 *.aliexpress.com
@@ -2487,8 +2487,8 @@ maria.casino
 *.casinohuone.com
 *.kindredext.net
 *.highrolling.nu
-*.kes.kindredext.net
 *.unibet.fr
+*.kes.kindredext.net
 www.32red.com
 *.bingo.com
 *.unibet.com
@@ -2909,18 +2909,18 @@ service.racing.fanduel.com
 4njbets.tvg.com
 4njbets.com
 4njbets.us.betfair.com
-login-4njbets.us.betfair.com
-login-pabets.tvg.com
 mobile-prod.tvg.com
-login-ia.tvg.com
 m.4njbets.tvg.com
 pabets.tvg.com
 login.tvg.com
-login-4ngbets.us.betfair.com
-login.pabets.tvg.com
+www.4njbets.com
 service.tvg.com
 promos.tvg.com
-www.4njbets.com
+login-4njbets.us.betfair.com
+login-pabets.tvg.com
+login-ia.tvg.com
+login-4ngbets.us.betfair.com
+login.pabets.tvg.com
 com.fanduel.android.live
 www.tvg.com
 sportsbook.fanduel.com
@@ -3161,12 +3161,12 @@ help.steampowered.com
 developer.valvesoftware.com
 pay.crypto.com
 app.mona.co
+*.mona.co
+merchant.crypto.com
+*.crypto.com
 auth.crypto.com
 tax.crypto.com
 js.crypto.com
-merchant.crypto.com
-*.mona.co
-*.crypto.com
 www.crypto.com
 *.crypto.com
 *.mona.co
@@ -3314,11 +3314,11 @@ gifts.grab.com
 *.grab.co
 *.grabpay.com
 jira.grab.com
-*.ovo.id
 *.myteksi.com
 *.grabtaxi.com
 kartaview.org
 *.grab.com
+*.ovo.id
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3346,9 +3346,9 @@ bma.badoo.com
 translate.badoo.com
 ccardsus1.badoo.com
 bma.bumble.com
+ccardseu1.badoo.com
 us1.badoo.com
 eu1.badoo.com
-ccardseu1.badoo.com
 badoocdn.com
 hotornot.com
 chatdate.app
@@ -3381,8 +3381,8 @@ getofficial.co
 assets.spotify.com
 backstage.io
 *.withspotify.com
-*.byspotify.com
 api.spotify.com
+*.byspotify.com
 *.withspotify.com
 *.byspotify.com
 *.atspotify.com
@@ -3494,8 +3494,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
 www.starbucks.com.sg
+gift.starbucks.co.jp
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3828,8 +3828,8 @@ support-api.airbnb.com
 *.muscache.com
 *.withairbnb.com
 www.hoteltonight.com
-*.airbnb.com
 www.airbnb.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3891,8 +3891,8 @@ grok.x.ai
 ide.x.ai
 api.x.ai
 gnip.com
-x.com
 *.twitter.com
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4023,6 +4023,7 @@ www.quip.com
 onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 le.yahooapis.com
+yimg.com
 data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
@@ -4041,16 +4042,16 @@ ctf.hacker101.com
 hackerone-user-content.com
 www.wearehackerone.com
 hackerone.live
-errors.hackerone.net
 a5s.hackerone-ext-content.com
+errors.hackerone.net
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 b5s.hackerone-ext-content.com
 *.vpn.hackerone.net
 app.pullrequest.com
 reviewer.pullrequest.com
 api.hackerone.com
-hackerone.com
 www.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4281,8 +4282,8 @@ magentocommerce.com
 u.magento.com
 imagine.magento.com
 magentolive.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 marketplace.magento.com
 magento.com
 account.magento.com
@@ -4531,8 +4532,8 @@ api.greenhouse.io
 onboarding.greenhouse.io
 jss.greenhouse.io
 app.interseller.io
-www.greenhouse.io
 interseller.io
+www.greenhouse.io
 support.greenhouse.io
 app.greenhouse.io
 app.greenhouse.io
