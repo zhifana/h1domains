@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May  2 12:30:59 UTC 2024)
+## Domains with Bounties (Last Updated Thu May  2 12:55:03 UTC 2024)
 ```
 williamhill.us
 api.americanwagering.com
@@ -23,8 +23,8 @@ https://caesarspalaceonline.com/us/pa/casino
 williamhill.us
 usercontent.koho.ca
 webgateway.koho.ca
-www.koho.ca
 web.koho.ca
+www.koho.ca
 app.koho.ca
 web.koho.ca
 http://api.koho.ca/1.0
@@ -496,16 +496,16 @@ supply-xml.booking.com
 portal.taxi.booking.com
 secure-supply-xml.booking.com
 kyc-onboarding.booking.com
+spark.fareharbor.com
 teleport.fareharbor.engineering
 paymentcomponent.booking.com
-spark.fareharbor.com
 flights.booking.com
 indicative-pricing.taxi.booking.com
 taxi.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
-taxis.booking.com
 demo.fareharbor.com
+taxis.booking.com
 sites.fareharbor.com
 chat.booking.com
 widget.rentalcars.com
@@ -570,8 +570,8 @@ app.frontapp.com
 api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -712,11 +712,11 @@ visa.co.za
 www.fraedom.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
+bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
-bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -840,8 +840,8 @@ crash-stats.allizom.org
 merino.services.mozilla.com
 aus5.mozilla.org
 shavar.services.mozilla.com
-monitor.mozilla.org
 bugzilla.mozilla.org
+monitor.mozilla.org
 push.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 firefox.settings.services.mozilla.com
@@ -941,8 +941,8 @@ injob.indriver.com
 truck-api.eu-east-1.indriverapp.com
 ci.indrive.dev
 *.indrive.com
-*.indriverapp.com
 new-order.eu-east-1.indriverapp.com
+*.indriverapp.com
 volans.tech
 profile-api.eu-east-1.indriverapp.com
 *.indriverapp.com
@@ -1055,10 +1055,10 @@ sms.8x8.com
 work.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
-voapi.8x8.com
-*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
+*.8x8.id
+voapi.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
 platform.8x8.com
@@ -1178,7 +1178,6 @@ www.mrjet.se
 www.fewo-direkt.de
 www.hotels.com
 www.expediataap.com
-*.vrbo.com
 *.expediapartnercentral.com
 www.vrbo.com
 *.lastminute.com.au
@@ -1186,6 +1185,7 @@ www.vrbo.com
 *.hotwire.com
 www.expedia.com
 www.expediaagents.com
+*.vrbo.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1232,8 +1232,8 @@ pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
 *.deribit.com
-insights.deribit.com
 test.deribit.com
+insights.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1317,9 +1317,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 www.momondo.com
 business.kayak.com
 www.kayak.com
@@ -1401,8 +1401,8 @@ bullsheet.me
 etoropartners.com
 charts.etoro.com
 aggregator.etoro.com
-delta.app
 www.etoro.com
+delta.app
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -1606,10 +1606,10 @@ playwonderbox.com
 therecord.media
 geminiadvisory.io
 hatching.io
+app.recordedfuture.com
 id.recordedfuture.com
 tria.ge
 api.recordedfuture.com
-app.recordedfuture.com
 securitytrails.com
 www.recordedfuture.com
 www.recordedfuture.com
@@ -1648,10 +1648,10 @@ www.fedramp.gov
 marketplace.fedramp.gov
 federalist.18f.gov
 federalist-docs.18f.gov
+cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
-cloud.gov
 www.usa.gov
 *.login.gov
 federalist-proxy.app.cloud.gov
@@ -2440,8 +2440,8 @@ amazonpayinsurance.in
 *.aliexpress.ru
 *.aliyun-inc.com
 www.alibabagroup.com
-*.aliexpress.com
 *.alibabacloud.com
+*.aliexpress.com
 *.alibaba-inc.com
 *.taobao.com
 *.1688.com
@@ -2488,8 +2488,8 @@ maria.casino
 *.casinohuone.com
 *.kindredext.net
 *.highrolling.nu
-*.kes.kindredext.net
 *.unibet.fr
+*.kes.kindredext.net
 www.32red.com
 *.bingo.com
 *.unibet.com
@@ -2723,8 +2723,8 @@ app.command.cysiv.com
 api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
-cruises.priceline.com
 press.priceline.com
+cruises.priceline.com
 www.bookingholdings.com
 flyiin.com
 www.priceline.com
@@ -2900,28 +2900,28 @@ grammarly.ai
 grammarly.ai
 *.east.fdbox.net
 *.mgmt.fndlsb.net
-*.prd.fndlsb.net
 *.prod.fdbox.net
+*.prd.fndlsb.net
 *inf.fndlsb.net
 *racing.fanduel.com
 4njbets.tvgnetwork.com
 b2b.tvgnetwork.com
 service.racing.fanduel.com
+4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
-4njbets.us.betfair.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
-mobile-prod.tvg.com
 login-ia.tvg.com
 m.4njbets.tvg.com
-pabets.tvg.com
 login.tvg.com
-login-4ngbets.us.betfair.com
-login.pabets.tvg.com
+mobile-prod.tvg.com
+pabets.tvg.com
 service.tvg.com
 promos.tvg.com
 www.4njbets.com
+login-4ngbets.us.betfair.com
+login.pabets.tvg.com
 com.fanduel.android.live
 www.tvg.com
 sportsbook.fanduel.com
@@ -3136,9 +3136,9 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
-support.steampowered.com
-www.dota2.com
 partner.steampowered.com
+www.dota2.com
+support.steampowered.com
 help.steampowered.com
 api.steampowered.com
 partner.steamgames.com
@@ -3317,8 +3317,8 @@ gifts.grab.com
 jira.grab.com
 *.ovo.id
 *.myteksi.com
-*.grabtaxi.com
 kartaview.org
+*.grabtaxi.com
 *.grab.com
 *.myteksi.com
 *.myteksi.net
@@ -3347,9 +3347,9 @@ bma.badoo.com
 translate.badoo.com
 ccardsus1.badoo.com
 bma.bumble.com
-ccardseu1.badoo.com
 us1.badoo.com
 eu1.badoo.com
+ccardseu1.badoo.com
 badoocdn.com
 hotornot.com
 chatdate.app
@@ -3382,8 +3382,8 @@ getofficial.co
 assets.spotify.com
 backstage.io
 *.withspotify.com
-api.spotify.com
 *.byspotify.com
+api.spotify.com
 *.withspotify.com
 *.byspotify.com
 *.atspotify.com
@@ -3495,8 +3495,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
 www.starbucks.com.sg
+gift.starbucks.co.jp
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3505,8 +3505,8 @@ www.starbucks.fr
 login.starbucks.co.jp
 www.starbucks.com.cn
 www.starbucksreserve.com
-www.starbucks.com
 www.starbucks.co.kr
+www.starbucks.com
 app.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
@@ -3697,13 +3697,13 @@ linkpop.com
 arrive-server.shopifycloud.com
 *.shopifycloud.com
 *.shopifykloud.com
-partners.shopify.com
-*.shopify.com
 *.shopify.io
+shopifyinbox.com
+*.shopify.com
+accounts.shopify.com
+partners.shopify.com
 your-store.myshopify.com
 admin.shopify.com
-shopifyinbox.com
-accounts.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3737,13 +3737,13 @@ developer.playcanvas.com
 rt.playcanvas.com
 store.playcanvas.com
 *.sc-core.net
-www.bitmoji.com
 code.playcanvas.com
+www.bitmoji.com
 story.snapchat.com
 *.sc-corp.net
 kit.snapchat.com
-app.snapchat.com
 accounts.snapchat.com
+app.snapchat.com
 playcanvas.com
 login.playcanvas.com
 ads.snapchat.com
@@ -3820,8 +3820,8 @@ callbacks.airbnb.com
 *.byairbnb.com
 *.luxuryretreats.com
 *.airbnbcitizen.com
-assets.airbnb.com
 *.airbnb-aws.com
+assets.airbnb.com
 next.airbnb.com
 api.airbnb.com
 support-api.airbnb.com
@@ -3904,9 +3904,9 @@ grok.x.ai
 ide.x.ai
 *.teams.cloudflare.com
 waf.cumulusfire.net
-one.dash.cloudflare.com
 api.cloudflare.com
 cloudflareworkers.com
+dash.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
@@ -4005,8 +4005,8 @@ status.slack.com
 slack-imgs.com
 slack.com
 www.quip.com
-app.slack.com
 *.quip.com
+app.slack.com
 api.slack.com
 slack.com
 api.slack.com
@@ -4282,8 +4282,8 @@ magentocommerce.com
 u.magento.com
 imagine.magento.com
 magentolive.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 marketplace.magento.com
 magento.com
 account.magento.com
@@ -4532,8 +4532,8 @@ api.greenhouse.io
 onboarding.greenhouse.io
 jss.greenhouse.io
 app.interseller.io
-interseller.io
 www.greenhouse.io
+interseller.io
 support.greenhouse.io
 app.greenhouse.io
 app.greenhouse.io
