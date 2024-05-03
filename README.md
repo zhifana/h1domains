@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May  3 12:54:37 UTC 2024)
+## Domains with Bounties (Last Updated Fri May  3 13:22:20 UTC 2024)
 ```
 api.americanwagering.com
 *.us.williamhill.com
@@ -462,9 +462,9 @@ www.mercadolibre.com.mx
 www.mercadopago.cl
 api.mercadolibre.com
 www.mercadolivre.com.br
-api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadolibre.com.ar
+api.mercadopago.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -576,8 +576,8 @@ api2.frontapp.com
 *.booztlet.com
 *.trip.com
 *.trip.com
-api.mergify.com
 dashboard.mergify.com
+api.mergify.com
 api.mergify.com
 dashboard.mergify.com
 www.compass.com
@@ -798,8 +798,8 @@ sandbox.authorize.net
 developer.authorize.net
 developer.visa.com
 yourdomain.freshcaller.com
-yourdomain.freshservice.com
 yourdomain.freshdesk.com
+yourdomain.freshservice.com
 yourdomain.freshchat.com
 yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
@@ -840,8 +840,8 @@ crash-stats.allizom.org
 merino.services.mozilla.com
 aus5.mozilla.org
 shavar.services.mozilla.com
-bugzilla.mozilla.org
 monitor.mozilla.org
+bugzilla.mozilla.org
 push.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 firefox.settings.services.mozilla.com
@@ -855,8 +855,8 @@ hg.mozilla.org
 relay.firefox.com
 accounts.firefox.com
 community-tc.services.mozilla.com
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 firefox-ci-tc.services.mozilla.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 support.mozilla.org
 addons.allizom.org
 developer.mozilla.org
@@ -970,8 +970,8 @@ aws.indrive.tech
 debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.mobi
-*.grindr.com
 web.grindr.com
+*.grindr.com
 *.grindr.io
 *.grindr.io
 *.grindr.com
@@ -1158,11 +1158,11 @@ dookeydash.com
 *.wenewmoments.com
 dookeydash.com
 hv-mtl.com
-*.lastminute.co.nz
 www.stayz.com.au
 www.abritel.fr
 *.travelocity.ca
 www.hotwirepartnercentral.com
+*.lastminute.co.nz
 *.travelocity.com
 www.flights.com
 www.ebookers.fi
@@ -1176,16 +1176,16 @@ www.hotels.com
 *.expediapartnercentral.com
 www.mrjet.se
 *.wotif.com
+www.expediataap.com
+www.expediaagents.com
+www.expedia.com
 www.ebookers.com
 www.vrbo.com
 *.lastminute.com.au
-*.hotwire.com
-www.expediaagents.com
-www.expediataap.com
-www.expedia.com
-*.vrbo.com
-*.expediacruises.com
 www.orbitz.com
+*.expediacruises.com
+*.vrbo.com
+*.hotwire.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1740,11 +1740,11 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
+app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
 *.touchtechpayments.com
-app.taxjar.com
 api.stripe.com
 *.stripe.com
 api.stripe.com
@@ -1846,8 +1846,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-www.chime.com
 wp-qa.chime.com
+www.chime.com
 *.chimebank.com
 *.1debit.com
 *.chime.com
@@ -1923,8 +1923,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-ccloud.yoti.com
 identity.yoti.com
+ccloud.yoti.com
 core.yoti.com
 code.yoti.com
 api.yoti.com
@@ -2042,14 +2042,14 @@ seller-id.tokopedia.com
 affiliate-id.tokopedia.com
 www.pangleglobal.com
 business.tiktok.com
-creatormarketplace.tiktok.com
 developers.tiktok.com
 live-backstage.tiktok.com
-partner.tiktokshop.com
 tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
+partner.tiktokshop.com
 ads.tiktok.com
+creatormarketplace.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2118,8 +2118,8 @@ api.faraday.ai
 *.acronis.work
 *.5nine.com
 beta-cloud.acronis.com
-*.acronis.com
 account.acronis.com
+*.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2969,18 +2969,18 @@ https://github.com/matomo-org/docker
 paypal.me
 *.braintree.tools
 *.paylution.com
-api.swiftfinancial.com
-scrutiny.swiftfinancial.com
-www.swiftfinancial.com
 swiftfinancial.com
+prequal.swiftfinancial.com
 www.swiftcapital.com
 swiftcapital.com
-decision.swiftfinancial.com
 partner.swiftfinancial.com
 pigeon.swiftfinancial.com
-prequal.swiftfinancial.com
+scrutiny.swiftfinancial.com
+www.swiftfinancial.com
 api.loanbuilder.com
 my.loanbuilder.com
+api.swiftfinancial.com
+decision.swiftfinancial.com
 py.pl
 *.hyperwallet.com
 *.venmo.com
@@ -3096,6 +3096,7 @@ marquee.gs.com
 *.foliodigitalwealth.com
 *.foliofn.com
 *.nnip.com
+*.marcus.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3133,8 +3134,8 @@ api.foliofn.com
 developer.valvesoftware.com
 playartifact.com
 partner.steampowered.com
-support.steampowered.com
 www.dota2.com
+support.steampowered.com
 help.steampowered.com
 api.steampowered.com
 partner.steamgames.com
@@ -3158,11 +3159,11 @@ help.steampowered.com
 developer.valvesoftware.com
 pay.crypto.com
 app.mona.co
+tax.crypto.com
 merchant.crypto.com
 *.mona.co
-tax.crypto.com
-js.crypto.com
 *.crypto.com
+js.crypto.com
 auth.crypto.com
 www.crypto.com
 *.crypto.com
@@ -3343,9 +3344,9 @@ bma.badoo.com
 translate.badoo.com
 ccardsus1.badoo.com
 bma.bumble.com
+ccardseu1.badoo.com
 us1.badoo.com
 eu1.badoo.com
-ccardseu1.badoo.com
 badoocdn.com
 hotornot.com
 chatdate.app
@@ -3369,11 +3370,11 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.atspotify.com
 *.avecspotify.com
+*.atspotify.com
 *.enspotify.com
-*.forspotify.com
 *.fromspotify.com
+*.forspotify.com
 *.tospotify.com
 assets.spotify.com
 backstage.io
@@ -3502,8 +3503,8 @@ www.starbucks.com.cn
 www.starbucksreserve.com
 app.starbucks.com
 www.starbucks.co.kr
-login.starbucks.co.jp
 www.starbucks.com
+login.starbucks.co.jp
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3732,8 +3733,8 @@ forum.playcanvas.com
 rt.playcanvas.com
 store.playcanvas.com
 *.sc-core.net
-www.bitmoji.com
 code.playcanvas.com
+www.bitmoji.com
 story.snapchat.com
 *.sc-corp.net
 kit.snapchat.com
@@ -3815,8 +3816,8 @@ callbacks.airbnb.com
 *.byairbnb.com
 *.luxuryretreats.com
 *.airbnbcitizen.com
-assets.airbnb.com
 *.airbnb-aws.com
+assets.airbnb.com
 next.airbnb.com
 api.airbnb.com
 support-api.airbnb.com
@@ -4019,6 +4020,7 @@ www.quip.com
 onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 le.yahooapis.com
+yimg.com
 data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
@@ -4037,8 +4039,8 @@ ctf.hacker101.com
 hackerone-user-content.com
 www.wearehackerone.com
 hackerone.live
-a5s.hackerone-ext-content.com
 errors.hackerone.net
+a5s.hackerone-ext-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 *.vpn.hackerone.net
 app.pullrequest.com
@@ -4527,8 +4529,8 @@ api.greenhouse.io
 onboarding.greenhouse.io
 jss.greenhouse.io
 app.interseller.io
-www.greenhouse.io
 interseller.io
+www.greenhouse.io
 support.greenhouse.io
 app.greenhouse.io
 app.greenhouse.io
