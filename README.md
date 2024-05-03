@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May  3 13:42:47 UTC 2024)
+## Domains with Bounties (Last Updated Fri May  3 14:19:59 UTC 2024)
 ```
 api.americanwagering.com
 *.us.williamhill.com
@@ -49,8 +49,8 @@ www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
 www.dyson.at
-api.dyson.it
 www.dyson.ie
+api.dyson.it
 www.dyson.ch
 www.dyson.es
 *.dyson.com
@@ -334,8 +334,8 @@ webonboarding-eu.truecaller.com
 *.dev.remitly.com
 cards.remitly.io
 api.remitly.io
-rewire.com
 app3.rewire.to
+rewire.com
 app.rewire.to
 *.int.remitly.com
 remitly.com
@@ -435,8 +435,8 @@ store.23andme.com
 auth.23andme.com
 api.23andme.com
 you.23andme.com
-medical.23andme.com
 therapeutics.23andme.com
+medical.23andme.com
 blog.23andme.com
 mediacenter.23andme.com
 api.23andme.com
@@ -458,13 +458,13 @@ www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadopago.com.br
-www.mercadolibre.com.mx
 www.mercadopago.cl
 api.mercadolibre.com
 www.mercadolivre.com.br
 www.mercadopago.com.ar
 www.mercadolibre.com.ar
 api.mercadopago.com
+www.mercadolibre.com.mx
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -495,16 +495,16 @@ supply-xml.booking.com
 portal.taxi.booking.com
 secure-supply-xml.booking.com
 kyc-onboarding.booking.com
+spark.fareharbor.com
 teleport.fareharbor.engineering
 paymentcomponent.booking.com
-spark.fareharbor.com
 flights.booking.com
 indicative-pricing.taxi.booking.com
 taxi.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
-taxis.booking.com
 demo.fareharbor.com
+taxis.booking.com
 sites.fareharbor.com
 chat.booking.com
 widget.rentalcars.com
@@ -618,9 +618,9 @@ manage-sandbox.gocardless.com
 *.gocardless-lab.io
 *.gocardless.io
 *.gocardless-banking.io
-*.gocardless-staging.io
 www.gocardless.com
 api-sandbox.gocardless.com
+*.gocardless-staging.io
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -814,8 +814,8 @@ app.krisha.kz
 id.kolesa.kz
 krisha.kz
 kolesa.kz
-api.kolesa.kz
 m.kolesa.kz
+api.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -854,8 +854,8 @@ sync.services.mozilla.com
 hg.mozilla.org
 relay.firefox.com
 accounts.firefox.com
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 firefox-ci-tc.services.mozilla.com
 support.mozilla.org
 addons.allizom.org
@@ -896,13 +896,13 @@ api-eu.floqast.app
 *.hiltonlocalbiz.com
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-*.hiltonhotels.jp
 *.hiltonbusinessonline.com
 hilton.io
+*.hiltonhotels.jp
 hiltonhotels.jp
 *.hilton.io
-hilton.com
 *.hilton.com
+hilton.com
 *.hilton.com
 *.hilton.io
 *.hiltonbusinessonline.com
@@ -970,8 +970,8 @@ aws.indrive.tech
 debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.mobi
-*.grindr.com
 web.grindr.com
+*.grindr.com
 *.grindr.io
 *.grindr.io
 *.grindr.com
@@ -1055,10 +1055,10 @@ sms.8x8.com
 work.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
-voapi.8x8.com
-*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
+*.8x8.id
+voapi.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
 platform.8x8.com
@@ -1184,8 +1184,8 @@ www.expediaagents.com
 www.ebookers.com
 www.orbitz.com
 *.expediacruises.com
-*.vrbo.com
 *.hotwire.com
+*.vrbo.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1317,9 +1317,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 business.kayak.com
 www.kayak.com
 www.cheapflights.com
@@ -1346,9 +1346,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
+api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
-api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1740,11 +1740,11 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
-app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
 *.touchtechpayments.com
+app.taxjar.com
 api.stripe.com
 *.stripe.com
 api.stripe.com
@@ -1788,9 +1788,9 @@ oauth.reddit.com
 matrix.redditspace.com
 www.spiketrap.io
 ads.reddit.com
-*.reddit.com
 www.reddit.com
 ads-api.reddit.com
+*.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1846,8 +1846,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-wp-qa.chime.com
 www.chime.com
+wp-qa.chime.com
 *.chimebank.com
 *.1debit.com
 *.chime.com
@@ -1923,8 +1923,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-ccloud.yoti.com
 identity.yoti.com
+ccloud.yoti.com
 core.yoti.com
 code.yoti.com
 api.yoti.com
@@ -2044,12 +2044,12 @@ www.pangleglobal.com
 business.tiktok.com
 developers.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
-*.tiktok.com
 *.tiktokv.com
 partner.tiktokshop.com
 ads.tiktok.com
 creatormarketplace.tiktok.com
+*.tiktok.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2101,8 +2101,8 @@ www.figma.com
 api.figma.com
 3d.cs.money
 blog.cs.money
-support.cs.money
 wiki.cs.money
+support.cs.money
 cs.money
 cs.money
 support.cs.money
@@ -2720,8 +2720,8 @@ app.command.cysiv.com
 api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
-press.priceline.com
 cruises.priceline.com
+press.priceline.com
 www.bookingholdings.com
 flyiin.com
 www.priceline.com
@@ -2778,7 +2778,6 @@ res.marival.globalbookingsolutions.com
 res.secretsresorts.com
 res.vacations.seaworld.com
 vacations.universalstudioshollywood.com
-vacations.vallarta.grandvelas.com
 www.beachbound.com
 book.booktandl.com
 res.blueskytours.globalbookingsolutions.com
@@ -2786,7 +2785,6 @@ res.fr.travelbrandsagent.com
 res.universalorlandovacations.com
 reservations.wynnvacations.com
 rezagent.triseptsolutions.com
-vacations.rivieramaya.grandvelas.com
 www.triseptapi.com
 www.triseptdemo.com
 book.cheapcaribbean.com
@@ -2800,11 +2798,13 @@ res.nowresorts.com
 res.treasureisland.globalbookingsolutions.com
 res.vacations.buschgardens.com
 res.vacations.sesameplace.com
-vacations.loscabos.grandvelas.com
 www.blueskytours.com
 www.globalhotelchoices.com
 www.triseptsolutions.com
 blueskytours.globalbookingsolutions.com
+booking.cheapcaribbean.com
+res.hyattinclusivecollection.com
+booking.applevacations.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -2835,8 +2835,6 @@ res.nowresorts.com
 res.treasureisland.globalbookingsolutions.com
 res.vacations.buschgardens.com
 res.vacations.sesameplace.com
-vacations.hotelcasavelas.com
-vacations.loscabos.grandvelas.com
 vacations.travelimpressions.com
 vacations.velasvallarta.com
 www.blueskytours.com
@@ -2858,7 +2856,6 @@ res.vacations.discoverycove.com
 res.vacations.seaworld.com
 vacations.universalstudioshollywood.com
 vacations.us.palladiumhotelgroup.com
-vacations.vallarta.grandvelas.com
 www.funjet.com
 www.universalorlandovacations.com
 www.wynnvacations.com
@@ -2878,7 +2875,6 @@ res.vacations.universalstudioshollywood.com
 reservations.wynnvacations.com
 rezagent.triseptsolutions.com
 shop.wyndhamvacationownership.trisept.travel
-vacations.rivieramaya.grandvelas.com
 www.triseptapi.com
 www.triseptdemo.com
 vacations.united.com
@@ -2969,18 +2965,18 @@ https://github.com/matomo-org/docker
 paypal.me
 *.braintree.tools
 *.paylution.com
-api.swiftfinancial.com
-scrutiny.swiftfinancial.com
-www.swiftfinancial.com
 swiftfinancial.com
+prequal.swiftfinancial.com
 www.swiftcapital.com
 swiftcapital.com
-decision.swiftfinancial.com
 partner.swiftfinancial.com
 pigeon.swiftfinancial.com
-prequal.swiftfinancial.com
+scrutiny.swiftfinancial.com
+www.swiftfinancial.com
 api.loanbuilder.com
 my.loanbuilder.com
+api.swiftfinancial.com
+decision.swiftfinancial.com
 py.pl
 *.hyperwallet.com
 *.venmo.com
@@ -3133,8 +3129,8 @@ api.foliofn.com
 developer.valvesoftware.com
 playartifact.com
 partner.steampowered.com
-www.dota2.com
 support.steampowered.com
+www.dota2.com
 help.steampowered.com
 api.steampowered.com
 partner.steamgames.com
@@ -3158,11 +3154,11 @@ help.steampowered.com
 developer.valvesoftware.com
 pay.crypto.com
 app.mona.co
-tax.crypto.com
-merchant.crypto.com
 *.mona.co
-*.crypto.com
+merchant.crypto.com
+tax.crypto.com
 js.crypto.com
+*.crypto.com
 auth.crypto.com
 www.crypto.com
 *.crypto.com
@@ -3180,9 +3176,9 @@ https://crypto.com/price
 bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
+*.deliveroo.be
 *.deliveroo.ie
 *.deliveroo.it
-*.deliveroo.be
 *.deliveroo.com.hk
 *.deliveroo.com.kw
 *.deliveroo.com.qa
@@ -3343,9 +3339,9 @@ bma.badoo.com
 translate.badoo.com
 ccardsus1.badoo.com
 bma.bumble.com
+ccardseu1.badoo.com
 us1.badoo.com
 eu1.badoo.com
-ccardseu1.badoo.com
 badoocdn.com
 hotornot.com
 chatdate.app
@@ -3572,8 +3568,8 @@ gist.github.com
 classroom.github.com
 education.github.com
 api.github.com
-npmjs.com
 github.com
+npmjs.com
 github.com
 api.github.com
 gist.github.com
@@ -3600,8 +3596,8 @@ about.gitlab.com
 customers.gitlab.com
 docs.gitlab.com
 *.gitlap.com
-*.gitlab.net
 *.gitlab.org
+*.gitlab.net
 gitlab.com
 *.gitlab.net
 *.gitlab.org
@@ -3682,8 +3678,8 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 http://h1-your-domain.zendesk.com/sell
-www.udemy.com
 yourcompany.udemy.com
+www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopify.plus
@@ -4038,8 +4034,8 @@ ctf.hacker101.com
 hackerone-user-content.com
 www.wearehackerone.com
 hackerone.live
-errors.hackerone.net
 a5s.hackerone-ext-content.com
+errors.hackerone.net
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 *.vpn.hackerone.net
 app.pullrequest.com
