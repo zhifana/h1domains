@@ -2,14 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May  2 23:41:47 UTC 2024)
+## Domains with Bounties (Last Updated Fri May  3 01:04:52 UTC 2024)
 ```
 api.americanwagering.com
 *.us.williamhill.com
 sportsbook.caesars.com
 caesarspalaceonline.com
-williamhill.us
 *.williamhill.us
+williamhill.us
 *.us.williamhill.com
 *.williamhill.us
 sportsbook.caesars.com
@@ -24,8 +24,8 @@ williamhill.us
 usercontent.koho.ca
 app.koho.ca
 web.koho.ca
-www.koho.ca
 webgateway.koho.ca
+www.koho.ca
 web.koho.ca
 http://api.koho.ca/1.0
 http://api.koho.ca/partner
@@ -49,9 +49,9 @@ www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
 www.dyson.at
-www.dyson.ch
 api.dyson.it
 www.dyson.ie
+www.dyson.ch
 www.dyson.es
 *.dyson.com
 www.dyson.co.uk
@@ -435,9 +435,9 @@ store.23andme.com
 auth.23andme.com
 api.23andme.com
 you.23andme.com
+medical.23andme.com
 mediacenter.23andme.com
 therapeutics.23andme.com
-medical.23andme.com
 blog.23andme.com
 api.23andme.com
 auth.23andme.com
@@ -461,10 +461,10 @@ www.mercadopago.com.br
 www.mercadolibre.com.mx
 www.mercadopago.cl
 www.mercadolibre.com.ar
-api.mercadolibre.com
 www.mercadolivre.com.br
-api.mercadopago.com
+api.mercadolibre.com
 www.mercadopago.com.ar
+api.mercadopago.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -496,9 +496,9 @@ supply-xml.booking.com
 portal.taxi.booking.com
 secure-supply-xml.booking.com
 kyc-onboarding.booking.com
-spark.fareharbor.com
 teleport.fareharbor.engineering
 paymentcomponent.booking.com
+spark.fareharbor.com
 flights.booking.com
 indicative-pricing.taxi.booking.com
 taxi.booking.com
@@ -712,11 +712,11 @@ visa.co.za
 www.fraedom.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
-bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
+bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -854,9 +854,9 @@ sync.services.mozilla.com
 hg.mozilla.org
 relay.firefox.com
 accounts.firefox.com
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 support.mozilla.org
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 firefox-ci-tc.services.mozilla.com
 addons.allizom.org
 developer.mozilla.org
@@ -940,8 +940,8 @@ file-storage-front.eu-east-1.indriverapp.com
 injob.indriver.com
 truck-api.eu-east-1.indriverapp.com
 ci.indrive.dev
-*.indriverapp.com
 new-order.eu-east-1.indriverapp.com
+*.indriverapp.com
 volans.tech
 profile-api.eu-east-1.indriverapp.com
 *.indrive.com
@@ -1000,8 +1000,8 @@ www.malwarebytes.com
 *.mwbsys.com
 *.threatdown.com
 cloud.malwarebytes.com
-my.malwarebytes.com
 *.malwarebytes.com
+my.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1061,8 +1061,8 @@ platform.8x8pilot.com
 voapi.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
-sso.8x8pilot.com
 platform.8x8.com
+sso.8x8pilot.com
 *.wavecell.com
 user-profile.8x8.com
 sso.8x8.com
@@ -1317,9 +1317,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
-www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
+www.swoodoo.com
 www.momondo.com
 business.kayak.com
 www.kayak.com
@@ -1606,10 +1606,10 @@ playwonderbox.com
 therecord.media
 geminiadvisory.io
 hatching.io
+app.recordedfuture.com
 id.recordedfuture.com
 tria.ge
 api.recordedfuture.com
-app.recordedfuture.com
 securitytrails.com
 www.recordedfuture.com
 www.recordedfuture.com
@@ -1727,9 +1727,9 @@ https://www.xvideos.net/app/
 *.elasticnet.co
 www.elastic.co
 *.swiftype.com
-*.elastic.co
 cloud.elastic.co
 *.elstc.co
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1926,8 +1926,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.com
 identity.yoti.com
 ccloud.yoti.com
-code.yoti.com
 core.yoti.com
+code.yoti.com
 api.yoti.com
 hub.yoti.com
 www.yotisign.com
@@ -1991,8 +1991,8 @@ api.adm.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
-api.sharefile.com
 adm.cloud.com
+api.sharefile.com
 (youriwssubdomain).cloud.com
 secure.sharefile.com
 (yoursubdomain).sharefile.eu
@@ -2103,8 +2103,8 @@ www.figma.com
 api.figma.com
 3d.cs.money
 blog.cs.money
-wiki.cs.money
 support.cs.money
+wiki.cs.money
 cs.money
 cs.money
 support.cs.money
@@ -2120,8 +2120,8 @@ api.faraday.ai
 *.acronis.work
 *.5nine.com
 beta-cloud.acronis.com
-account.acronis.com
 *.acronis.com
+account.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2403,8 +2403,8 @@ amazonpayinsurance.in
 *.amazon.fr
 *.amazon.ca
 *.amazon.cn
-*.amazon.co.uk
 *.amazon.in
+*.amazon.co.uk
 *.amazon.com.br
 *.amazon.co.jp
 *.amazon.com
@@ -2437,8 +2437,8 @@ amazonpayinsurance.in
 www.amazon.*
 amazonpayinsurance.in
 *.aliexpress.ru
-*.alibabacloud.com
 *.aliexpress.com
+*.alibabacloud.com
 *.alibaba-inc.com
 *.taobao.com
 *.1688.com
@@ -2446,8 +2446,8 @@ amazonpayinsurance.in
 *.alimama.com
 *.Daraz.com
 *.alibaba.com
-*.aliyun.com
 *.aliyun-inc.com
+*.aliyun.com
 www.alibabagroup.com
 *.alibaba.com
 *.aliexpress.com
@@ -2898,28 +2898,28 @@ grammarly.ai
 grammarly.ai
 *.east.fdbox.net
 *.mgmt.fndlsb.net
-*.prd.fndlsb.net
 *.prod.fdbox.net
+*.prd.fndlsb.net
 *inf.fndlsb.net
 *racing.fanduel.com
 4njbets.tvgnetwork.com
 b2b.tvgnetwork.com
 service.racing.fanduel.com
+4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
-4njbets.us.betfair.com
-login-4njbets.us.betfair.com
-login-pabets.tvg.com
 mobile-prod.tvg.com
-login-ia.tvg.com
-m.4njbets.tvg.com
 pabets.tvg.com
-login.tvg.com
-login-4ngbets.us.betfair.com
-login.pabets.tvg.com
 service.tvg.com
 promos.tvg.com
+login-4njbets.us.betfair.com
+login-pabets.tvg.com
+login-ia.tvg.com
+m.4njbets.tvg.com
+login.tvg.com
 www.4njbets.com
+login-4ngbets.us.betfair.com
+login.pabets.tvg.com
 com.fanduel.android.live
 www.tvg.com
 sportsbook.fanduel.com
@@ -3098,6 +3098,7 @@ marquee.gs.com
 *.foliodigitalwealth.com
 *.foliofn.com
 *.nnip.com
+*.marcus.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3135,8 +3136,8 @@ api.foliofn.com
 developer.valvesoftware.com
 playartifact.com
 partner.steampowered.com
-support.steampowered.com
 www.dota2.com
+support.steampowered.com
 help.steampowered.com
 api.steampowered.com
 partner.steamgames.com
@@ -3160,8 +3161,8 @@ help.steampowered.com
 developer.valvesoftware.com
 pay.crypto.com
 app.mona.co
-*.mona.co
 merchant.crypto.com
+*.mona.co
 auth.crypto.com
 tax.crypto.com
 js.crypto.com
@@ -3182,9 +3183,9 @@ https://crypto.com/price
 bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
-*.deliveroo.be
 *.deliveroo.ie
 *.deliveroo.it
+*.deliveroo.be
 *.deliveroo.com.hk
 *.deliveroo.com.kw
 *.deliveroo.com.qa
@@ -3263,10 +3264,10 @@ privatetarget-2-secure.zigzag
 *.beta.lahitapiola.fi
 yrityspalvelu.tapiola.fi
 verkkopalvelu.tapiola.fi
-api.lahitapiola.fi
 ext-gw.lahitapiola.fi
 www.lahitapiola.fi
 *.lahitapiola.fi
+api.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3314,8 +3315,8 @@ gifts.grab.com
 *.grabpay.com
 jira.grab.com
 *.myteksi.com
-*.grabtaxi.com
 kartaview.org
+*.grabtaxi.com
 *.ovo.id
 *.grab.com
 *.myteksi.com
@@ -3345,9 +3346,9 @@ bma.badoo.com
 translate.badoo.com
 ccardsus1.badoo.com
 bma.bumble.com
+ccardseu1.badoo.com
 us1.badoo.com
 eu1.badoo.com
-ccardseu1.badoo.com
 badoocdn.com
 hotornot.com
 chatdate.app
@@ -3371,11 +3372,11 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
 *.tospotify.com
 assets.spotify.com
 backstage.io
@@ -3493,8 +3494,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-www.starbucks.com.sg
 gift.starbucks.co.jp
+www.starbucks.com.sg
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3746,8 +3747,8 @@ login.playcanvas.com
 businesshelp.snapchat.com
 business.snapchat.com
 web.snapchat.com
-ads.snapchat.com
 developer.playcanvas.com
+ads.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -4040,8 +4041,8 @@ ctf.hacker101.com
 hackerone-user-content.com
 www.wearehackerone.com
 hackerone.live
-errors.hackerone.net
 a5s.hackerone-ext-content.com
+errors.hackerone.net
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 b5s.hackerone-ext-content.com
 *.vpn.hackerone.net
@@ -4280,8 +4281,8 @@ magentocommerce.com
 u.magento.com
 imagine.magento.com
 magentolive.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 marketplace.magento.com
 magento.com
 account.magento.com
