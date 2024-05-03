@@ -2,11 +2,11 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May  3 04:41:59 UTC 2024)
+## Domains with Bounties (Last Updated Fri May  3 05:18:04 UTC 2024)
 ```
 api.americanwagering.com
-sportsbook.caesars.com
 *.us.williamhill.com
+sportsbook.caesars.com
 caesarspalaceonline.com
 williamhill.us
 *.williamhill.us
@@ -460,8 +460,8 @@ www.mercadolibre.com.co
 www.mercadopago.com.br
 www.mercadolibre.com.mx
 www.mercadopago.cl
-www.mercadolivre.com.br
 api.mercadolibre.com
+www.mercadolivre.com.br
 www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadolibre.com.ar
@@ -566,12 +566,12 @@ api.au.frontegg.com
 portal.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-api2.frontapp.com
-app.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.boozt.com
+app.frontapp.com
+api2.frontapp.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -712,11 +712,11 @@ visa.co.za
 www.fraedom.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
+bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
-bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -799,9 +799,9 @@ developer.authorize.net
 developer.visa.com
 yourdomain.freshcaller.com
 yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1104,8 +1104,8 @@ admin.8x8.com
 *.magicjackpot.ro
 *.luckydays.com
 *.superbet.rs
-*.superbet.ro
 *.superbet.com
+*.superbet.ro
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1216,8 +1216,8 @@ www.flights.com
 www.expediataap.com
 *.magiceden.workers.dev
 *.magiceden.dev
-magiceden.io
 *.magiceden.io
+magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1232,8 +1232,8 @@ pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
 *.deribit.com
-test.deribit.com
 insights.deribit.com
+test.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1317,9 +1317,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
-www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
+www.swoodoo.com
 business.kayak.com
 www.kayak.com
 www.cheapflights.com
@@ -1346,9 +1346,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
-api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
+api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1741,11 +1741,11 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
-app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
 *.touchtechpayments.com
+app.taxjar.com
 api.stripe.com
 *.stripe.com
 api.stripe.com
@@ -1991,8 +1991,8 @@ api.adm.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
-api.sharefile.com
 adm.cloud.com
+api.sharefile.com
 (youriwssubdomain).cloud.com
 secure.sharefile.com
 (yoursubdomain).sharefile.eu
@@ -2045,12 +2045,12 @@ www.pangleglobal.com
 business.tiktok.com
 creatormarketplace.tiktok.com
 developers.tiktok.com
-*.tiktokv.com
 partner.tiktokshop.com
 ads.tiktok.com
+*.tiktokv.com
 *.tiktok.com
-live-backstage.tiktok.com
 tiktok.com
+live-backstage.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2120,8 +2120,8 @@ api.faraday.ai
 *.acronis.work
 *.5nine.com
 beta-cloud.acronis.com
-account.acronis.com
 *.acronis.com
+account.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2445,10 +2445,10 @@ amazonpayinsurance.in
 *.tmall.com
 *.alimama.com
 *.Daraz.com
+*.alibaba.com
 *.aliyun.com
 *.aliyun-inc.com
 www.alibabagroup.com
-*.alibaba.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2487,8 +2487,8 @@ maria.casino
 *.casinohuone.com
 *.kindredext.net
 *.highrolling.nu
-*.unibet.fr
 *.kes.kindredext.net
+*.unibet.fr
 www.32red.com
 *.bingo.com
 *.unibet.com
@@ -2973,10 +2973,10 @@ paypal.me
 *.paylution.com
 api.swiftfinancial.com
 decision.swiftfinancial.com
-partner.swiftfinancial.com
 my.swiftfinancial.com
-scrutiny.swiftfinancial.com
+partner.swiftfinancial.com
 pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftfinancial.com
 swiftfinancial.com
 prequal.swiftfinancial.com
@@ -2987,8 +2987,8 @@ swiftcapital.com
 py.pl
 *.hyperwallet.com
 *.venmo.com
-*.braintree-api.com
 loanbuilder.com
+*.braintree-api.com
 sandbox.braintreegateway.com
 paypalobjects.com
 www.loanbuilder.com
@@ -3098,7 +3098,6 @@ marquee.gs.com
 *.foliodigitalwealth.com
 *.foliofn.com
 *.nnip.com
-*.marcus.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3183,15 +3182,15 @@ https://crypto.com/price
 bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
-*.deliveroo.hk
 *.deliveroo.be
-*.deliveroo.com.kw
 *.deliveroo.ie
-*.deliveroo.it
-*.deliveroo.com.hk
-*.deliveroo.com.qa
 *.deliveroo.com.sg
 *.deliveroo.ae
+*.deliveroo.it
+*.deliveroo.com.hk
+*.deliveroo.com.kw
+*.deliveroo.com.qa
+*.deliveroo.hk
 *.deliveroo.co.uk
 *.deliveroo.fr
 *.deliveroo.co.uk
@@ -3315,10 +3314,10 @@ gifts.grab.com
 *.grabpay.com
 jira.grab.com
 *.myteksi.com
-kartaview.org
 *.grabtaxi.com
 *.ovo.id
 *.grab.com
+kartaview.org
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3372,12 +3371,12 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.tospotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
+*.tospotify.com
 assets.spotify.com
 backstage.io
 *.withspotify.com
@@ -3536,8 +3535,8 @@ ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
-search.brave.com
 talk.brave.com
+search.brave.com
 brave.com
 brave.com
 basicattentiontoken.org
@@ -3697,8 +3696,8 @@ partners.shopify.com
 shopifyinbox.com
 *.shopify.com
 linkpop.com
-shop.app
 accounts.shopify.com
+shop.app
 *.shopifycloud.com
 *.shopify.io
 admin.shopify.com
@@ -3818,8 +3817,8 @@ callbacks.airbnb.com
 *.byairbnb.com
 *.luxuryretreats.com
 *.airbnbcitizen.com
-assets.airbnb.com
 *.airbnb-aws.com
+assets.airbnb.com
 next.airbnb.com
 api.airbnb.com
 support-api.airbnb.com
@@ -4041,8 +4040,8 @@ ctf.hacker101.com
 hackerone-user-content.com
 www.wearehackerone.com
 hackerone.live
-errors.hackerone.net
 a5s.hackerone-ext-content.com
+errors.hackerone.net
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 b5s.hackerone-ext-content.com
 *.vpn.hackerone.net
