@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May  3 11:17:42 UTC 2024)
+## Domains with Bounties (Last Updated Fri May  3 11:41:11 UTC 2024)
 ```
 api.americanwagering.com
 *.us.williamhill.com
@@ -49,8 +49,8 @@ www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
 www.dyson.at
-api.dyson.it
 www.dyson.ie
+api.dyson.it
 www.dyson.ch
 www.dyson.es
 *.dyson.com
@@ -334,8 +334,8 @@ webonboarding-eu.truecaller.com
 *.dev.remitly.com
 cards.remitly.io
 api.remitly.io
-rewire.com
 app3.rewire.to
+rewire.com
 app.rewire.to
 *.int.remitly.com
 remitly.com
@@ -435,8 +435,8 @@ store.23andme.com
 auth.23andme.com
 api.23andme.com
 you.23andme.com
-medical.23andme.com
 therapeutics.23andme.com
+medical.23andme.com
 blog.23andme.com
 mediacenter.23andme.com
 api.23andme.com
@@ -800,8 +800,8 @@ developer.visa.com
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshchat.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -840,8 +840,8 @@ crash-stats.allizom.org
 merino.services.mozilla.com
 aus5.mozilla.org
 shavar.services.mozilla.com
-bugzilla.mozilla.org
 monitor.mozilla.org
+bugzilla.mozilla.org
 push.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 firefox.settings.services.mozilla.com
@@ -970,8 +970,8 @@ aws.indrive.tech
 debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.mobi
-web.grindr.com
 *.grindr.com
+web.grindr.com
 *.grindr.io
 *.grindr.io
 *.grindr.com
@@ -1061,8 +1061,8 @@ platform.8x8pilot.com
 voapi.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
-platform.8x8.com
 sso.8x8pilot.com
+platform.8x8.com
 *.wavecell.com
 user-profile.8x8.com
 sso.8x8.com
@@ -1099,11 +1099,11 @@ admin.8x8.com
 *.napoleondice.be
 *.napoleongames.be
 *.napoleonsports.be
+*.luckydays.com
+*.superbet.rs
 *.luckydays.ca
 *.superbet.pl
 *.magicjackpot.ro
-*.luckydays.com
-*.superbet.rs
 *.superbet.com
 *.superbet.ro
 *.superbet.ro
@@ -1164,7 +1164,6 @@ www.abritel.fr
 *.travelocity.ca
 www.hotwirepartnercentral.com
 *.travelocity.com
-www.orbitz.com
 www.flights.com
 www.ebookers.fi
 www.bookabach.co.nz
@@ -1186,6 +1185,7 @@ www.expediaagents.com
 www.expediataap.com
 www.expedia.com
 *.expediacruises.com
+www.orbitz.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1401,8 +1401,8 @@ bullsheet.me
 etoropartners.com
 charts.etoro.com
 aggregator.etoro.com
-delta.app
 www.etoro.com
+delta.app
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -1847,8 +1847,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-www.chime.com
 wp-qa.chime.com
+www.chime.com
 *.chimebank.com
 *.1debit.com
 *.chime.com
@@ -2045,8 +2045,8 @@ www.pangleglobal.com
 business.tiktok.com
 creatormarketplace.tiktok.com
 developers.tiktok.com
-ads.tiktok.com
 *.tiktokv.com
+ads.tiktok.com
 *.tiktok.com
 live-backstage.tiktok.com
 partner.tiktokshop.com
@@ -2722,8 +2722,8 @@ app.command.cysiv.com
 api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
-press.priceline.com
 cruises.priceline.com
+press.priceline.com
 www.bookingholdings.com
 flyiin.com
 www.priceline.com
@@ -2971,18 +2971,18 @@ https://github.com/matomo-org/docker
 paypal.me
 *.braintree.tools
 *.paylution.com
-swiftfinancial.com
-prequal.swiftfinancial.com
-www.swiftcapital.com
-swiftcapital.com
-partner.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
-www.swiftfinancial.com
-api.loanbuilder.com
-my.loanbuilder.com
 api.swiftfinancial.com
 decision.swiftfinancial.com
+partner.swiftfinancial.com
+scrutiny.swiftfinancial.com
+pigeon.swiftfinancial.com
+www.swiftfinancial.com
+swiftfinancial.com
+prequal.swiftfinancial.com
+api.loanbuilder.com
+my.loanbuilder.com
+www.swiftcapital.com
+swiftcapital.com
 py.pl
 *.hyperwallet.com
 *.venmo.com
@@ -2994,9 +2994,9 @@ www.loanbuilder.com
 *.paypalcorp.com
 *.braintreegateway.com
 *.xoom.com
-*.paypal.com
 *.braintree-api.com
 my.swiftfinancial.com
+*.paypal.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3134,9 +3134,9 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
-partner.steampowered.com
 support.steampowered.com
 www.dota2.com
+partner.steampowered.com
 help.steampowered.com
 api.steampowered.com
 partner.steamgames.com
@@ -3160,12 +3160,12 @@ help.steampowered.com
 developer.valvesoftware.com
 pay.crypto.com
 app.mona.co
-*.mona.co
-merchant.crypto.com
 tax.crypto.com
-js.crypto.com
+merchant.crypto.com
+*.mona.co
 *.crypto.com
 www.crypto.com
+js.crypto.com
 auth.crypto.com
 *.crypto.com
 *.mona.co
@@ -3184,12 +3184,12 @@ https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
 *.deliveroo.be
 *.deliveroo.ie
-*.deliveroo.com.sg
-*.deliveroo.ae
 *.deliveroo.it
 *.deliveroo.com.hk
 *.deliveroo.com.kw
 *.deliveroo.com.qa
+*.deliveroo.com.sg
+*.deliveroo.ae
 *.deliveroo.hk
 *.deliveroo.co.uk
 *.deliveroo.fr
@@ -3263,10 +3263,10 @@ privatetarget-2-secure.zigzag
 *.beta.lahitapiola.fi
 yrityspalvelu.tapiola.fi
 verkkopalvelu.tapiola.fi
-api.lahitapiola.fi
 ext-gw.lahitapiola.fi
 www.lahitapiola.fi
 *.lahitapiola.fi
+api.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3345,9 +3345,9 @@ bma.badoo.com
 translate.badoo.com
 ccardsus1.badoo.com
 bma.bumble.com
+ccardseu1.badoo.com
 us1.badoo.com
 eu1.badoo.com
-ccardseu1.badoo.com
 badoocdn.com
 hotornot.com
 chatdate.app
@@ -3504,8 +3504,8 @@ www.starbucks.com.cn
 www.starbucksreserve.com
 app.starbucks.com
 www.starbucks.co.kr
-login.starbucks.co.jp
 www.starbucks.com
+login.starbucks.co.jp
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3692,12 +3692,12 @@ shopify.plus
 *.shopifycs.com
 arrive-server.shopifycloud.com
 *.shopifykloud.com
+partners.shopify.com
+shopifyinbox.com
 linkpop.com
 accounts.shopify.com
 shop.app
 *.shopifycloud.com
-partners.shopify.com
-shopifyinbox.com
 *.shopify.io
 your-store.myshopify.com
 admin.shopify.com
@@ -3734,8 +3734,8 @@ forum.playcanvas.com
 rt.playcanvas.com
 store.playcanvas.com
 *.sc-core.net
-code.playcanvas.com
 www.bitmoji.com
+code.playcanvas.com
 story.snapchat.com
 *.sc-corp.net
 kit.snapchat.com
@@ -3817,8 +3817,8 @@ callbacks.airbnb.com
 *.byairbnb.com
 *.luxuryretreats.com
 *.airbnbcitizen.com
-*.airbnb-aws.com
 assets.airbnb.com
+*.airbnb-aws.com
 next.airbnb.com
 api.airbnb.com
 support-api.airbnb.com
@@ -4280,8 +4280,8 @@ magentocommerce.com
 u.magento.com
 imagine.magento.com
 magentolive.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 marketplace.magento.com
 magento.com
 account.magento.com
@@ -4530,8 +4530,8 @@ api.greenhouse.io
 onboarding.greenhouse.io
 jss.greenhouse.io
 app.interseller.io
-interseller.io
 www.greenhouse.io
+interseller.io
 support.greenhouse.io
 app.greenhouse.io
 app.greenhouse.io
