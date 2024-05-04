@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May  4 03:37:56 UTC 2024)
+## Domains with Bounties (Last Updated Sat May  4 04:21:24 UTC 2024)
 ```
 api.americanwagering.com
 *.us.williamhill.com
@@ -334,8 +334,8 @@ webonboarding-eu.truecaller.com
 *.dev.remitly.com
 cards.remitly.io
 api.remitly.io
-rewire.com
 app3.rewire.to
+rewire.com
 app.rewire.to
 *.int.remitly.com
 remitly.com
@@ -404,8 +404,8 @@ http://sandbox-api.fireblocks.io
 university-staging.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
-myaccount-hardening.dynatracelabs.com
 account-sprint.dynatracelabs.com
+myaccount-hardening.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -434,8 +434,8 @@ store.23andme.com
 auth.23andme.com
 api.23andme.com
 you.23andme.com
-therapeutics.23andme.com
 medical.23andme.com
+therapeutics.23andme.com
 blog.23andme.com
 mediacenter.23andme.com
 research.23andme.com
@@ -463,8 +463,8 @@ www.mercadolibre.com.mx
 www.mercadolibre.com.ar
 www.mercadopago.com.ar
 www.mercadolivre.com.br
-www.mercadopago.com.br
 api.mercadopago.com
+www.mercadopago.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -495,15 +495,15 @@ supply-xml.booking.com
 portal.taxi.booking.com
 secure-supply-xml.booking.com
 kyc-onboarding.booking.com
-teleport.fareharbor.engineering
 spark.fareharbor.com
+teleport.fareharbor.engineering
 flights.booking.com
 indicative-pricing.taxi.booking.com
 taxi.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
-taxis.booking.com
 demo.fareharbor.com
+taxis.booking.com
 sites.fareharbor.com
 chat.booking.com
 widget.rentalcars.com
@@ -517,8 +517,8 @@ fhdn.fareharbor.com
 secure.booking.com
 experiences.booking.com
 account.booking.com
-admin.booking.com
-booking.com
+*.booking.com
+paymentcomponent.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -712,11 +712,11 @@ visa.co.za
 www.fraedom.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
+bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
-bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -840,8 +840,8 @@ crash-stats.allizom.org
 merino.services.mozilla.com
 aus5.mozilla.org
 shavar.services.mozilla.com
-monitor.mozilla.org
 bugzilla.mozilla.org
+monitor.mozilla.org
 push.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 firefox.settings.services.mozilla.com
@@ -853,8 +853,8 @@ www.mozilla.org
 sync.services.mozilla.com
 hg.mozilla.org
 accounts.firefox.com
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 firefox-ci-tc.services.mozilla.com
 support.mozilla.org
 relay.firefox.com
@@ -970,8 +970,8 @@ aws.indrive.tech
 debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.mobi
-web.grindr.com
 *.grindr.com
+web.grindr.com
 *.grindr.io
 *.grindr.io
 *.grindr.com
@@ -1054,19 +1054,20 @@ sms.8x8.com
 *.p8t.us
 uc.8x8pilot.com
 work-staging.8x8.com
+voapi.8x8.com
+*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
-*.8x8.id
-voapi.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
-sso.8x8pilot.com
 platform.8x8.com
+sso.8x8pilot.com
 sso.8x8.com
 *.jitsi.net
 *.jit.si
 pay.8x8.com
 *.8x8.vc
+*.8x8cloud.net
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1098,11 +1099,11 @@ admin.8x8.com
 *.napoleondice.be
 *.napoleongames.be
 *.napoleonsports.be
+*.luckydays.com
+*.superbet.rs
 *.luckydays.ca
 *.superbet.pl
 *.magicjackpot.ro
-*.luckydays.com
-*.superbet.rs
 *.superbet.com
 *.superbet.ro
 *.superbet.ro
@@ -1646,10 +1647,10 @@ www.fedramp.gov
 marketplace.fedramp.gov
 federalist.18f.gov
 federalist-docs.18f.gov
+cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
-cloud.gov
 www.usa.gov
 *.login.gov
 federalist-proxy.app.cloud.gov
@@ -1739,11 +1740,11 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
-app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
 *.touchtechpayments.com
+app.taxjar.com
 api.stripe.com
 *.stripe.com
 api.stripe.com
@@ -2044,10 +2045,10 @@ business.tiktok.com
 partner.tiktokshop.com
 creatormarketplace.tiktok.com
 tiktok.com
-developers.tiktok.com
 *.tiktok.com
-ads.tiktok.com
 live-backstage.tiktok.com
+developers.tiktok.com
+ads.tiktok.com
 *.tiktokv.com
 *.tiktok.com
 business.tiktok.com
@@ -2100,8 +2101,8 @@ www.figma.com
 api.figma.com
 3d.cs.money
 blog.cs.money
-support.cs.money
 wiki.cs.money
+support.cs.money
 cs.money
 cs.money
 support.cs.money
@@ -2117,8 +2118,8 @@ api.faraday.ai
 *.acronis.work
 *.5nine.com
 beta-cloud.acronis.com
-account.acronis.com
 *.acronis.com
+account.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2584,8 +2585,8 @@ k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
 astra.datastax.com
-www.datastax.com
 docs.datastax.com
+www.datastax.com
 www.datastax.com
 downloads.datastax.com
 docs.datastax.com
@@ -2803,7 +2804,7 @@ booking.cheapcaribbean.com
 res.hyattinclusivecollection.com
 booking.applevacations.com
 login.www.vaxvacationaccess.com
-res.en.travelbrandsagent.com
+new.www.vaxvacationaccess.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -2961,18 +2962,18 @@ https://github.com/matomo-org/docker
 paypal.me
 *.braintree.tools
 *.paylution.com
-api.swiftfinancial.com
-decision.swiftfinancial.com
-partner.swiftfinancial.com
-scrutiny.swiftfinancial.com
-pigeon.swiftfinancial.com
-www.swiftfinancial.com
 swiftfinancial.com
 prequal.swiftfinancial.com
-api.loanbuilder.com
-my.loanbuilder.com
 www.swiftcapital.com
 swiftcapital.com
+partner.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
+www.swiftfinancial.com
+api.loanbuilder.com
+my.loanbuilder.com
+api.swiftfinancial.com
+decision.swiftfinancial.com
 py.pl
 *.venmo.com
 loanbuilder.com
@@ -2983,8 +2984,8 @@ www.loanbuilder.com
 my.swiftfinancial.com
 *.xoom.com
 sandbox.braintreegateway.com
-*.hyperwallet.com
 *.braintreepayments.com
+*.hyperwallet.com
 *.paypalcorp.com
 *.paypal.com
 *.xoom.com
@@ -3088,7 +3089,6 @@ marquee.gs.com
 *.foliodigitalwealth.com
 *.foliofn.com
 *.nnip.com
-*.marcus.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3125,9 +3125,9 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
-partner.steampowered.com
 support.steampowered.com
 www.dota2.com
+partner.steampowered.com
 help.steampowered.com
 partner.steamgames.com
 www.counter-strike.net
@@ -3343,8 +3343,8 @@ badoocdn.com
 hotornot.com
 chatdate.app
 getofficial.co
-www.bumble.com
 badoo.com
+www.bumble.com
 www.bumble.com
 bma.bumble.com
 badoo.com
@@ -3484,8 +3484,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-www.starbucks.com.sg
 gift.starbucks.co.jp
+www.starbucks.com.sg
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3968,8 +3968,8 @@ commerce.coinbase.com
 api.coinbase.com
 coinbase.com
 *.cbhq.net
-cloud.coinbase.com
 *.coinbase.com
+cloud.coinbase.com
 nft.coinbase.com
 *.coinbase.com
 *.cbhq.net
