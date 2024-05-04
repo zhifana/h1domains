@@ -2,14 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May  4 00:57:50 UTC 2024)
+## Domains with Bounties (Last Updated Sat May  4 01:52:26 UTC 2024)
 ```
 api.americanwagering.com
-*.us.williamhill.com
 sportsbook.caesars.com
+*.us.williamhill.com
 williamhill.us
-*.williamhill.us
 caesarspalaceonline.com
+*.williamhill.us
 *.us.williamhill.com
 *.williamhill.us
 sportsbook.caesars.com
@@ -24,8 +24,8 @@ williamhill.us
 usercontent.koho.ca
 app.koho.ca
 web.koho.ca
-webgateway.koho.ca
 www.koho.ca
+webgateway.koho.ca
 web.koho.ca
 http://api.koho.ca/1.0
 http://api.koho.ca/partner
@@ -434,8 +434,8 @@ store.23andme.com
 auth.23andme.com
 api.23andme.com
 you.23andme.com
-therapeutics.23andme.com
 medical.23andme.com
+therapeutics.23andme.com
 blog.23andme.com
 mediacenter.23andme.com
 research.23andme.com
@@ -459,11 +459,11 @@ www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadopago.cl
 api.mercadolibre.com
-api.mercadopago.com
 www.mercadolibre.com.mx
 www.mercadolibre.com.ar
 www.mercadopago.com.ar
 www.mercadolivre.com.br
+api.mercadopago.com
 www.mercadopago.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -502,8 +502,8 @@ indicative-pricing.taxi.booking.com
 taxi.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
-demo.fareharbor.com
 taxis.booking.com
+demo.fareharbor.com
 sites.fareharbor.com
 chat.booking.com
 widget.rentalcars.com
@@ -518,7 +518,7 @@ secure.booking.com
 experiences.booking.com
 account.booking.com
 admin.booking.com
-*.booking.com
+booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -840,8 +840,8 @@ crash-stats.allizom.org
 merino.services.mozilla.com
 aus5.mozilla.org
 shavar.services.mozilla.com
-monitor.mozilla.org
 bugzilla.mozilla.org
+monitor.mozilla.org
 push.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 firefox.settings.services.mozilla.com
@@ -896,9 +896,9 @@ api-eu.floqast.app
 *.hiltonlocalbiz.com
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-*.hiltonhotels.jp
 *.hiltonbusinessonline.com
 hilton.io
+*.hiltonhotels.jp
 hiltonhotels.jp
 *.hilton.io
 *.hilton.com
@@ -1099,11 +1099,11 @@ admin.8x8.com
 *.napoleondice.be
 *.napoleongames.be
 *.napoleonsports.be
+*.luckydays.com
+*.superbet.rs
 *.luckydays.ca
 *.superbet.pl
 *.magicjackpot.ro
-*.luckydays.com
-*.superbet.rs
 *.superbet.com
 *.superbet.ro
 *.superbet.ro
@@ -1317,9 +1317,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 business.kayak.com
 www.kayak.com
 www.cheapflights.com
