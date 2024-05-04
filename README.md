@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May  4 14:17:58 UTC 2024)
+## Domains with Bounties (Last Updated Sat May  4 14:41:01 UTC 2024)
 ```
 api.americanwagering.com
 *.us.williamhill.com
@@ -420,9 +420,9 @@ demo.dynamic.xyz
 app.dynamic.xyz
 payments.hostinger.com
 cpanel.hostinger.com
-*.000webhost.com
 www.hostinger.com
 hpanel.hostinger.com
+*.000webhost.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -434,8 +434,8 @@ store.23andme.com
 auth.23andme.com
 api.23andme.com
 you.23andme.com
-therapeutics.23andme.com
 medical.23andme.com
+therapeutics.23andme.com
 blog.23andme.com
 mediacenter.23andme.com
 research.23andme.com
@@ -461,8 +461,8 @@ www.mercadopago.cl
 api.mercadolibre.com
 www.mercadolibre.com.mx
 www.mercadolibre.com.ar
-www.mercadopago.com.br
 api.mercadopago.com
+www.mercadopago.com.br
 www.mercadopago.com.ar
 www.mercadolivre.com.br
 api.mercadopago.com
@@ -502,8 +502,8 @@ indicative-pricing.taxi.booking.com
 taxi.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
-taxis.booking.com
 demo.fareharbor.com
+taxis.booking.com
 sites.fareharbor.com
 chat.booking.com
 widget.rentalcars.com
@@ -712,11 +712,11 @@ visa.co.za
 www.fraedom.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
+bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
-bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -800,8 +800,8 @@ developer.visa.com
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
-yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -853,9 +853,9 @@ www.mozilla.org
 sync.services.mozilla.com
 hg.mozilla.org
 accounts.firefox.com
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 support.mozilla.org
 relay.firefox.com
 addons.allizom.org
@@ -1099,13 +1099,13 @@ admin.8x8.com
 *.napoleondice.be
 *.napoleongames.be
 *.napoleonsports.be
+*.luckydays.com
+*.superbet.rs
 *.luckydays.ca
 *.superbet.pl
 *.magicjackpot.ro
-*.luckydays.com
-*.superbet.rs
-*.superbet.ro
 *.superbet.com
+*.superbet.ro
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1158,11 +1158,11 @@ dookeydash.com
 *.wenewmoments.com
 dookeydash.com
 hv-mtl.com
-*.lastminute.co.nz
 www.stayz.com.au
 www.abritel.fr
 *.travelocity.ca
 www.hotwirepartnercentral.com
+*.lastminute.co.nz
 *.travelocity.com
 www.flights.com
 www.ebookers.fi
@@ -1174,18 +1174,18 @@ www.fewo-direkt.de
 www.hotels.com
 *.cheaptickets.com
 www.mrjet.se
-www.ebookers.com
-www.expediaagents.com
-www.expediataap.com
-www.expedia.com
-www.orbitz.com
 *.vrbo.com
-*.expediapartnercentral.com
-*.wotif.com
-*.lastminute.com.au
-*.expediacruises.com
+www.expediataap.com
+www.expediaagents.com
+www.expedia.com
+www.ebookers.com
+www.orbitz.com
 *.hotwire.com
+*.wotif.com
+*.expediacruises.com
+*.lastminute.com.au
 www.vrbo.com
+*.expediapartnercentral.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1298,9 +1298,9 @@ portfolio.metamask.io
 checkout.razorpay.com
 payroll.razorpay.com
 invoices.razorpay.com
-api.razorpay.com
 dashboard.razorpay.com
 x.razorpay.com
+api.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -1317,9 +1317,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 business.kayak.com
 www.kayak.com
 www.cheapflights.com
@@ -1488,10 +1488,10 @@ teams.krisp.ai
 download.krisp.ai
 analytics.krisp.ai
 upld.krisp.ai
-account.krisp.ai
 api.krisp.ai
 krisp.ai
 *.krisp.ai
+account.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1647,10 +1647,10 @@ www.fedramp.gov
 marketplace.fedramp.gov
 federalist.18f.gov
 federalist-docs.18f.gov
+cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
-cloud.gov
 www.usa.gov
 *.login.gov
 federalist-proxy.app.cloud.gov
@@ -1846,8 +1846,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-wp-qa.chime.com
 www.chime.com
+wp-qa.chime.com
 *.chimebank.com
 *.1debit.com
 *.chime.com
@@ -1923,10 +1923,10 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-ccloud.yoti.com
 identity.yoti.com
-core.yoti.com
+ccloud.yoti.com
 code.yoti.com
+core.yoti.com
 api.yoti.com
 hub.yoti.com
 www.yotisign.com
@@ -2292,8 +2292,8 @@ wallet.polygon.technology
 faucet.polygon.technology
 burn.polygon.technology
 bridge-api.matic.network
-open-api.polygon.technology
 portal.polygon.technology
+open-api.polygon.technology
 wallet.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
@@ -2402,10 +2402,10 @@ amazonpayinsurance.in
 *.amazon.co.uk
 *.amazon.com.br
 *.amazon.ca
-*.amazon.com.au
 *.amazon.co.jp
 *.amazon.in
 *.amazon.com
+*.amazon.com.au
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2585,8 +2585,8 @@ k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
 astra.datastax.com
-docs.datastax.com
 www.datastax.com
+docs.datastax.com
 www.datastax.com
 downloads.datastax.com
 docs.datastax.com
@@ -2965,8 +2965,8 @@ paypal.me
 api.swiftfinancial.com
 decision.swiftfinancial.com
 partner.swiftfinancial.com
-pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
+pigeon.swiftfinancial.com
 www.swiftfinancial.com
 swiftfinancial.com
 prequal.swiftfinancial.com
@@ -2980,14 +2980,14 @@ paypalobjects.com
 www.loanbuilder.com
 *.braintree-api.com
 my.swiftfinancial.com
-*.braintreepayments.com
-sandbox.braintreegateway.com
 *.hyperwallet.com
+*.braintreepayments.com
 *.paypalcorp.com
 *.xoom.com
 *.braintreegateway.com
 *.venmo.com
 *.paypal.com
+sandbox.braintreegateway.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3089,7 +3089,6 @@ marquee.gs.com
 *.foliodigitalwealth.com
 *.foliofn.com
 *.nnip.com
-*.marcus.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3126,9 +3125,9 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
+partner.steampowered.com
 support.steampowered.com
 www.dota2.com
-partner.steampowered.com
 help.steampowered.com
 partner.steamgames.com
 www.counter-strike.net
@@ -3175,12 +3174,12 @@ bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
 *.deliveroo.ie
+*.deliveroo.com.sg
+*.deliveroo.ae
 *.deliveroo.it
 *.deliveroo.com.hk
 *.deliveroo.com.kw
 *.deliveroo.com.qa
-*.deliveroo.com.sg
-*.deliveroo.ae
 *.deliveroo.fr
 *.deliveroo.be
 *.deliveroo.co.uk
@@ -3255,10 +3254,10 @@ privatetarget-2-secure.zigzag
 *.beta.lahitapiola.fi
 yrityspalvelu.tapiola.fi
 verkkopalvelu.tapiola.fi
+api.lahitapiola.fi
 ext-gw.lahitapiola.fi
 www.lahitapiola.fi
 *.lahitapiola.fi
-api.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3684,9 +3683,9 @@ shopify.plus
 *.shopifycs.com
 arrive-server.shopifycloud.com
 *.shopifykloud.com
-shopifyinbox.com
 linkpop.com
 *.shopifycloud.com
+shopifyinbox.com
 your-store.myshopify.com
 *.shopify.com
 shop.app
@@ -3778,7 +3777,6 @@ careers.ui.com
 uisp.com
 unifi.ui.com
 *.ubnt.com
-community.ui.com
 *.ubnt.com
 *.ui.com
 store.ui.com
@@ -4041,8 +4039,8 @@ reviewer.pullrequest.com
 a5s.hackerone-ext-content.com
 api.hackerone.com
 b5s.hackerone-ext-content.com
-www.hackerone.com
 hackerone.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4273,8 +4271,8 @@ magentocommerce.com
 u.magento.com
 imagine.magento.com
 magentolive.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 marketplace.magento.com
 magento.com
 account.magento.com
