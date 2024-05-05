@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May  5 08:20:02 UTC 2024)
+## Domains with Bounties (Last Updated Sun May  5 08:41:54 UTC 2024)
 ```
 *.us.williamhill.com
 caesarspalaceonline.com
@@ -49,8 +49,8 @@ www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
 www.dyson.at
-api.dyson.it
 www.dyson.ie
+api.dyson.it
 www.dyson.ch
 www.dyson.es
 *.dyson.com
@@ -334,8 +334,8 @@ webonboarding-eu.truecaller.com
 *.dev.remitly.com
 cards.remitly.io
 api.remitly.io
-rewire.com
 app3.rewire.to
+rewire.com
 app.rewire.to
 rates.rewire.com
 remitly.com
@@ -432,8 +432,8 @@ https://passport.eufy.com/?app=eufy-us
 education.23andme.com
 store.23andme.com
 api.23andme.com
-medical.23andme.com
 therapeutics.23andme.com
+medical.23andme.com
 blog.23andme.com
 mediacenter.23andme.com
 research.23andme.com
@@ -495,8 +495,8 @@ supply-xml.booking.com
 portal.taxi.booking.com
 secure-supply-xml.booking.com
 kyc-onboarding.booking.com
-spark.fareharbor.com
 teleport.fareharbor.engineering
+spark.fareharbor.com
 flights.booking.com
 indicative-pricing.taxi.booking.com
 taxi.booking.com
@@ -853,8 +853,8 @@ sync.services.mozilla.com
 hg.mozilla.org
 accounts.firefox.com
 community-tc.services.mozilla.com
-firefox-ci-tc.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
+firefox-ci-tc.services.mozilla.com
 support.mozilla.org
 relay.firefox.com
 www.mozilla.org
@@ -1103,8 +1103,8 @@ admin.8x8.com
 *.magicjackpot.ro
 *.luckydays.com
 *.superbet.rs
-*.superbet.ro
 *.superbet.com
+*.superbet.ro
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1157,10 +1157,10 @@ dookeydash.com
 *.wenewmoments.com
 dookeydash.com
 hv-mtl.com
-*.lastminute.co.nz
 www.stayz.com.au
 www.abritel.fr
 www.hotwirepartnercentral.com
+*.lastminute.co.nz
 *.travelocity.com
 www.flights.com
 www.ebookers.fi
@@ -1171,9 +1171,9 @@ www.expediapartnersolutions.com
 www.fewo-direkt.de
 *.cheaptickets.com
 www.mrjet.se
-www.ebookers.com
-www.expediaagents.com
 www.expediataap.com
+www.expediaagents.com
+www.ebookers.com
 www.orbitz.com
 *.vrbo.com
 *.expediapartnercentral.com
@@ -1345,9 +1345,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
-api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
+api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1604,9 +1604,9 @@ playwonderbox.com
 therecord.media
 geminiadvisory.io
 hatching.io
-app.recordedfuture.com
 id.recordedfuture.com
 api.recordedfuture.com
+app.recordedfuture.com
 securitytrails.com
 www.recordedfuture.com
 tria.ge
@@ -1726,8 +1726,8 @@ https://www.xvideos.net/app/
 www.elastic.co
 *.elastic.co
 *.swiftype.com
-cloud.elastic.co
 *.elstc.co
+cloud.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1788,8 +1788,8 @@ ads.reddit.com
 ads-api.reddit.com
 accounts.reddit.com
 *.reddit.com
-www.spiketrap.io
 www.reddit.com
+www.spiketrap.io
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1845,8 +1845,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-www.chime.com
 wp-qa.chime.com
+www.chime.com
 *.chimebank.com
 *.1debit.com
 *.chime.com
@@ -1922,8 +1922,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-ccloud.yoti.com
 identity.yoti.com
+ccloud.yoti.com
 core.yoti.com
 code.yoti.com
 api.yoti.com
@@ -2042,8 +2042,8 @@ www.pangleglobal.com
 business.tiktok.com
 partner.tiktokshop.com
 creatormarketplace.tiktok.com
-developers.tiktok.com
 live-backstage.tiktok.com
+developers.tiktok.com
 ads.tiktok.com
 *.tiktokv.com
 tiktok.com
@@ -2100,8 +2100,8 @@ www.figma.com
 api.figma.com
 3d.cs.money
 blog.cs.money
-wiki.cs.money
 support.cs.money
+wiki.cs.money
 cs.money
 cs.money
 support.cs.money
@@ -2291,8 +2291,8 @@ wallet.polygon.technology
 faucet.polygon.technology
 burn.polygon.technology
 bridge-api.matic.network
-portal.polygon.technology
 open-api.polygon.technology
+portal.polygon.technology
 wallet.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
@@ -2402,8 +2402,8 @@ itv7.itv.com
 *.amazon.com.au
 *.amazon.in
 amazonpayinsurance.in
-*.amazon.it
 *.amazon.com
+*.amazon.it
 *.amazon.co.jp
 *.amazon.cl
 *.amazon.co.za
@@ -2584,8 +2584,8 @@ k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
 astra.datastax.com
-www.datastax.com
 docs.datastax.com
+www.datastax.com
 www.datastax.com
 downloads.datastax.com
 docs.datastax.com
@@ -2801,9 +2801,9 @@ booking.cheapcaribbean.com
 res.hyattinclusivecollection.com
 booking.applevacations.com
 login.www.vaxvacationaccess.com
+res.en.travelbrandsagent.com
 new.www.vaxvacationaccess.com
 res.vacations.united.com
-vacations.united.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -2897,18 +2897,18 @@ service.racing.fanduel.com
 4njbets.tvg.com
 4njbets.com
 4njbets.us.betfair.com
+login-4njbets.us.betfair.com
+login-pabets.tvg.com
 mobile-prod.tvg.com
+login-ia.tvg.com
 m.4njbets.tvg.com
 pabets.tvg.com
 login.tvg.com
-www.4njbets.com
-service.tvg.com
-promos.tvg.com
-login-4njbets.us.betfair.com
-login-pabets.tvg.com
-login-ia.tvg.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
+service.tvg.com
+promos.tvg.com
+www.4njbets.com
 com.fanduel.android.live
 www.tvg.com
 sportsbook.fanduel.com
@@ -3088,7 +3088,6 @@ marquee.gs.com
 *.foliodigitalwealth.com
 *.foliofn.com
 *.nnip.com
-api.foliofn.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3174,16 +3173,16 @@ bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
 *.deliveroo.ie
-*.deliveroo.com.sg
 *.deliveroo.it
 *.deliveroo.com.hk
 *.deliveroo.com.kw
 *.deliveroo.com.qa
+*.deliveroo.com.sg
 *.deliveroo.fr
 *.deliveroo.hk
 *.deliveroo.ae
-*.deliveroo.co.uk
 *.deliveroo.be
+*.deliveroo.co.uk
 *.deliveroo.co.uk
 *.deliveroo.fr
 *.deliveroo.be
@@ -3484,8 +3483,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-www.starbucks.com.sg
 gift.starbucks.co.jp
+www.starbucks.com.sg
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3641,8 +3640,8 @@ api.deriv.com
 *.deriv.cloud
 app.deriv.com
 oauth.deriv.com
-*.deriv.com
 cashier.deriv.com
+*.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3686,13 +3685,13 @@ arrive-server.shopifycloud.com
 shopifyinbox.com
 linkpop.com
 *.shopifycloud.com
-shop.app
 partners.shopify.com
 *.shopify.io
 *.shopify.com
 your-store.myshopify.com
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
+shop.app
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3816,8 +3815,8 @@ support-api.airbnb.com
 *.muscache.com
 www.hoteltonight.com
 *.airbnb-aws.com
-*.withairbnb.com
 *.airbnb.com
+*.withairbnb.com
 www.airbnb.com
 www.airbnb.com
 next.airbnb.com
@@ -3880,8 +3879,8 @@ grok.x.ai
 ide.x.ai
 api.x.ai
 gnip.com
-*.twitter.com
 x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
