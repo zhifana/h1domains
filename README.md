@@ -2,14 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May  5 02:36:21 UTC 2024)
+## Domains with Bounties (Last Updated Sun May  5 03:18:34 UTC 2024)
 ```
 api.americanwagering.com
 *.us.williamhill.com
 caesarspalaceonline.com
 williamhill.us
-sportsbook.caesars.com
 *.williamhill.us
+sportsbook.caesars.com
 *.us.williamhill.com
 *.williamhill.us
 sportsbook.caesars.com
@@ -49,8 +49,8 @@ www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
 www.dyson.at
-www.dyson.ie
 api.dyson.it
+www.dyson.ie
 www.dyson.ch
 www.dyson.es
 *.dyson.com
@@ -334,8 +334,8 @@ webonboarding-eu.truecaller.com
 *.dev.remitly.com
 cards.remitly.io
 api.remitly.io
-rewire.com
 app3.rewire.to
+rewire.com
 app.rewire.to
 *.int.remitly.com
 rates.rewire.com
@@ -433,8 +433,8 @@ education.23andme.com
 store.23andme.com
 api.23andme.com
 you.23andme.com
-medical.23andme.com
 therapeutics.23andme.com
+medical.23andme.com
 blog.23andme.com
 mediacenter.23andme.com
 research.23andme.com
@@ -495,15 +495,15 @@ supply-xml.booking.com
 portal.taxi.booking.com
 secure-supply-xml.booking.com
 kyc-onboarding.booking.com
-teleport.fareharbor.engineering
 spark.fareharbor.com
+teleport.fareharbor.engineering
 flights.booking.com
 indicative-pricing.taxi.booking.com
 taxi.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
-taxis.booking.com
 demo.fareharbor.com
+taxis.booking.com
 sites.fareharbor.com
 widget.rentalcars.com
 cars.booking.com
@@ -515,9 +515,9 @@ fhdn.fareharbor.com
 *.rentalcars.com
 experiences.booking.com
 account.booking.com
-booking.com
 *.booking.com
 paymentcomponent.booking.com
+booking.com
 secure.booking.com
 *.booking.com
 *.rentalcars.com
@@ -1054,14 +1054,14 @@ sms.8x8.com
 *.p8t.us
 uc.8x8pilot.com
 work-staging.8x8.com
+voapi.8x8.com
+*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
-*.8x8.id
-voapi.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
-sso.8x8pilot.com
 platform.8x8.com
+sso.8x8pilot.com
 sso.8x8.com
 *.jitsi.net
 *.jit.si
@@ -1316,9 +1316,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
-www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
+www.swoodoo.com
 business.kayak.com
 www.kayak.com
 www.cheapflights.com
@@ -1605,11 +1605,11 @@ therecord.media
 geminiadvisory.io
 hatching.io
 id.recordedfuture.com
-tria.ge
 api.recordedfuture.com
 app.recordedfuture.com
 securitytrails.com
 www.recordedfuture.com
+tria.ge
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1845,8 +1845,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-www.chime.com
 wp-qa.chime.com
+www.chime.com
 *.chimebank.com
 *.1debit.com
 *.chime.com
@@ -1924,8 +1924,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.com
 identity.yoti.com
 ccloud.yoti.com
-core.yoti.com
 code.yoti.com
+core.yoti.com
 api.yoti.com
 hub.yoti.com
 www.yotisign.com
@@ -2040,8 +2040,8 @@ seller-id.tokopedia.com
 affiliate-id.tokopedia.com
 www.pangleglobal.com
 business.tiktok.com
-partner.tiktokshop.com
 creatormarketplace.tiktok.com
+partner.tiktokshop.com
 developers.tiktok.com
 ads.tiktok.com
 live-backstage.tiktok.com
@@ -2100,8 +2100,8 @@ www.figma.com
 api.figma.com
 3d.cs.money
 blog.cs.money
-support.cs.money
 wiki.cs.money
+support.cs.money
 cs.money
 cs.money
 support.cs.money
@@ -2389,7 +2389,6 @@ itv7.itv.com
 *.amazon.sg
 *.amazon.se
 *.amazon.nl
-amazonpayinsurance.in
 *.amazon.ae
 *.amazon.pl
 *.amazon.eg
@@ -2402,9 +2401,10 @@ amazonpayinsurance.in
 *.amazon.ca
 *.amazon.co.jp
 *.amazon.com.au
-*.amazon.com
 *.amazon.in
 *.amazon.it
+amazonpayinsurance.in
+*.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2465,8 +2465,8 @@ auth.magic.link
 x2.fortmatic.com
 dashboard.magic.link
 api.magic.link
-api.fortmatic.com
 fortmatic.com
+api.fortmatic.com
 api.fortmatic.com
 x2.fortmatic.com
 careers.fortmatic.com
@@ -2483,8 +2483,8 @@ maria.casino
 *.casinohuone.com
 *.kindredext.net
 *.highrolling.nu
-*.unibet.fr
 *.kes.kindredext.net
+*.unibet.fr
 www.32red.com
 *.bingo.com
 *.unibet.com
@@ -2719,8 +2719,8 @@ app.command.cysiv.com
 api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
-press.priceline.com
 cruises.priceline.com
+press.priceline.com
 www.bookingholdings.com
 flyiin.com
 www.priceline.com
@@ -2964,8 +2964,8 @@ paypal.me
 api.swiftfinancial.com
 decision.swiftfinancial.com
 partner.swiftfinancial.com
-pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
+pigeon.swiftfinancial.com
 www.swiftfinancial.com
 swiftfinancial.com
 prequal.swiftfinancial.com
@@ -2979,8 +2979,8 @@ paypalobjects.com
 www.loanbuilder.com
 *.braintree-api.com
 my.swiftfinancial.com
-*.braintreepayments.com
 *.hyperwallet.com
+*.braintreepayments.com
 sandbox.braintreegateway.com
 *.paypalcorp.com
 *.xoom.com
@@ -3124,9 +3124,9 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
+partner.steampowered.com
 support.steampowered.com
 www.dota2.com
-partner.steampowered.com
 help.steampowered.com
 partner.steamgames.com
 www.counter-strike.net
@@ -3150,12 +3150,12 @@ help.steampowered.com
 developer.valvesoftware.com
 pay.crypto.com
 app.mona.co
-*.mona.co
 merchant.crypto.com
+*.mona.co
 tax.crypto.com
+auth.crypto.com
 www.crypto.com
 *.crypto.com
-auth.crypto.com
 js.crypto.com
 *.crypto.com
 *.mona.co
@@ -3172,10 +3172,10 @@ https://crypto.com/price
 bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
+*.deliveroo.com.kw
 *.deliveroo.ie
 *.deliveroo.it
 *.deliveroo.com.hk
-*.deliveroo.com.kw
 *.deliveroo.com.qa
 *.deliveroo.com.sg
 *.deliveroo.fr
@@ -3636,12 +3636,12 @@ secure-dfadmin.deriv.com
 *.binary.com
 derivws.com
 smarttrader.deriv.com
-cashier.deriv.com
 api.deriv.com
 *.deriv.cloud
 app.deriv.com
 oauth.deriv.com
 *.deriv.com
+cashier.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3682,9 +3682,9 @@ shopify.plus
 *.shopifycs.com
 arrive-server.shopifycloud.com
 *.shopifykloud.com
+shopifyinbox.com
 linkpop.com
 *.shopifycloud.com
-shopifyinbox.com
 shop.app
 partners.shopify.com
 *.shopify.io
