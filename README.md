@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May  5 08:41:54 UTC 2024)
+## Domains with Bounties (Last Updated Sun May  5 09:18:39 UTC 2024)
 ```
 *.us.williamhill.com
 caesarspalaceonline.com
@@ -49,8 +49,8 @@ www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
 www.dyson.at
-www.dyson.ie
 api.dyson.it
+www.dyson.ie
 www.dyson.ch
 www.dyson.es
 *.dyson.com
@@ -432,8 +432,8 @@ https://passport.eufy.com/?app=eufy-us
 education.23andme.com
 store.23andme.com
 api.23andme.com
-therapeutics.23andme.com
 medical.23andme.com
+therapeutics.23andme.com
 blog.23andme.com
 mediacenter.23andme.com
 research.23andme.com
@@ -461,10 +461,10 @@ www.mercadopago.cl
 api.mercadolibre.com
 www.mercadolibre.com.mx
 www.mercadolibre.com.ar
-www.mercadopago.com.br
-api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadolivre.com.br
+www.mercadopago.com.br
+api.mercadopago.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -586,8 +586,8 @@ www.compass.com
 *.hypr.com
 *.hypr.com
 *.gethypr.com
-app.moderntreasury.com
 cdn.moderntreasury.com
+app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
 test.nicehash.com
@@ -853,8 +853,8 @@ sync.services.mozilla.com
 hg.mozilla.org
 accounts.firefox.com
 community-tc.services.mozilla.com
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 firefox-ci-tc.services.mozilla.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 support.mozilla.org
 relay.firefox.com
 www.mozilla.org
@@ -1054,10 +1054,10 @@ sms.8x8.com
 *.p8t.us
 uc.8x8pilot.com
 work-staging.8x8.com
+voapi.8x8.com
+*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
-*.8x8.id
-voapi.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
 platform.8x8.com
@@ -1441,8 +1441,8 @@ shoppers.instacart.com
 api.instacart.com
 *.instacart.tools
 admin.instacart.com
-*.instacart.com
 www.instacart.com
+*.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1646,10 +1646,10 @@ www.fedramp.gov
 marketplace.fedramp.gov
 federalist.18f.gov
 federalist-docs.18f.gov
+cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
-cloud.gov
 www.usa.gov
 *.login.gov
 federalist-proxy.app.cloud.gov
@@ -1726,8 +1726,8 @@ https://www.xvideos.net/app/
 www.elastic.co
 *.elastic.co
 *.swiftype.com
-*.elstc.co
 cloud.elastic.co
+*.elstc.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1739,11 +1739,11 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
+app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
 *.touchtechpayments.com
-app.taxjar.com
 api.stripe.com
 *.stripe.com
 api.stripe.com
@@ -1788,8 +1788,8 @@ ads.reddit.com
 ads-api.reddit.com
 accounts.reddit.com
 *.reddit.com
-www.reddit.com
 www.spiketrap.io
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1845,8 +1845,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-wp-qa.chime.com
 www.chime.com
+wp-qa.chime.com
 *.chimebank.com
 *.1debit.com
 *.chime.com
@@ -1922,8 +1922,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-identity.yoti.com
 ccloud.yoti.com
+identity.yoti.com
 core.yoti.com
 code.yoti.com
 api.yoti.com
@@ -1989,8 +1989,8 @@ api.adm.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
-api.sharefile.com
 adm.cloud.com
+api.sharefile.com
 (youriwssubdomain).cloud.com
 secure.sharefile.com
 (yoursubdomain).sharefile.eu
@@ -2042,8 +2042,8 @@ www.pangleglobal.com
 business.tiktok.com
 partner.tiktokshop.com
 creatormarketplace.tiktok.com
-live-backstage.tiktok.com
 developers.tiktok.com
+live-backstage.tiktok.com
 ads.tiktok.com
 *.tiktokv.com
 tiktok.com
@@ -2100,8 +2100,8 @@ www.figma.com
 api.figma.com
 3d.cs.money
 blog.cs.money
-support.cs.money
 wiki.cs.money
+support.cs.money
 cs.money
 cs.money
 support.cs.money
@@ -2291,8 +2291,8 @@ wallet.polygon.technology
 faucet.polygon.technology
 burn.polygon.technology
 bridge-api.matic.network
-open-api.polygon.technology
 portal.polygon.technology
+open-api.polygon.technology
 wallet.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
@@ -2483,8 +2483,8 @@ maria.casino
 *.casinohuone.com
 *.kindredext.net
 *.highrolling.nu
-*.kes.kindredext.net
 *.unibet.fr
+*.kes.kindredext.net
 www.32red.com
 *.bingo.com
 *.unibet.com
@@ -2584,8 +2584,8 @@ k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
 astra.datastax.com
-docs.datastax.com
 www.datastax.com
+docs.datastax.com
 www.datastax.com
 downloads.datastax.com
 docs.datastax.com
@@ -2629,10 +2629,10 @@ accounts.pixiv.net
 sketch.pixiv.net
 www.pixiv.net
 *.fanbox.cc
-vroid.com
-booth.pm
 hub.vroid.com
 neoket.net
+vroid.com
+booth.pm
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -3088,6 +3088,7 @@ marquee.gs.com
 *.foliodigitalwealth.com
 *.foliofn.com
 *.nnip.com
+*.marcus.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3124,9 +3125,9 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
+partner.steampowered.com
 support.steampowered.com
 www.dota2.com
-partner.steampowered.com
 help.steampowered.com
 partner.steamgames.com
 www.counter-strike.net
@@ -3150,11 +3151,11 @@ help.steampowered.com
 developer.valvesoftware.com
 pay.crypto.com
 app.mona.co
-merchant.crypto.com
 *.mona.co
+merchant.crypto.com
 tax.crypto.com
-auth.crypto.com
 www.crypto.com
+auth.crypto.com
 js.crypto.com
 *.crypto.com
 *.crypto.com
@@ -3173,16 +3174,16 @@ bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
 *.deliveroo.ie
+*.deliveroo.com.sg
 *.deliveroo.it
 *.deliveroo.com.hk
 *.deliveroo.com.kw
 *.deliveroo.com.qa
-*.deliveroo.com.sg
 *.deliveroo.fr
 *.deliveroo.hk
 *.deliveroo.ae
-*.deliveroo.be
 *.deliveroo.co.uk
+*.deliveroo.be
 *.deliveroo.co.uk
 *.deliveroo.fr
 *.deliveroo.be
@@ -3253,10 +3254,10 @@ privatetarget-2-secure.zigzag
 *.beta.lahitapiola.fi
 yrityspalvelu.tapiola.fi
 verkkopalvelu.tapiola.fi
+api.lahitapiola.fi
 ext-gw.lahitapiola.fi
 www.lahitapiola.fi
 *.lahitapiola.fi
-api.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3280,8 +3281,8 @@ privatetarget-1-www.zigzag
 *.sellzone.com
 *.myinsights.io
 *.semrush.net
-*.semrush.com
 *.scatec.io
+*.semrush.com
 *.semrush.com
 *.semrush.net
 *.seoquake.com
@@ -3483,8 +3484,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
 www.starbucks.com.sg
+gift.starbucks.co.jp
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3682,15 +3683,15 @@ shopify.plus
 *.shopifycs.com
 arrive-server.shopifycloud.com
 *.shopifykloud.com
-shopifyinbox.com
 linkpop.com
 *.shopifycloud.com
-partners.shopify.com
+shopifyinbox.com
 *.shopify.io
 *.shopify.com
 your-store.myshopify.com
 admin.shopify.com
 accounts.shopify.com
+partners.shopify.com
 shop.app
 *.shopifycs.com
 *.shopify.io
@@ -3815,9 +3816,9 @@ support-api.airbnb.com
 *.muscache.com
 www.hoteltonight.com
 *.airbnb-aws.com
-*.airbnb.com
 *.withairbnb.com
 www.airbnb.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4037,8 +4038,8 @@ a5s.hackerone-ext-content.com
 api.hackerone.com
 b5s.hackerone-ext-content.com
 app.pullrequest.com
-www.hackerone.com
 hackerone.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
