@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May  6 03:20:48 UTC 2024)
+## Domains with Bounties (Last Updated Mon May  6 03:40:26 UTC 2024)
 ```
 *.us.williamhill.com
 api.americanwagering.com
@@ -49,9 +49,9 @@ www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
 www.dyson.at
-www.dyson.ch
 api.dyson.it
 www.dyson.ie
+www.dyson.ch
 www.dyson.es
 *.dyson.com
 www.dyson.co.uk
@@ -334,8 +334,8 @@ webonboarding-eu.truecaller.com
 *.dev.remitly.com
 cards.remitly.io
 api.remitly.io
-rewire.com
 app3.rewire.to
+rewire.com
 app.rewire.to
 rates.rewire.com
 remitly.com
@@ -432,8 +432,8 @@ https://passport.eufy.com/?app=eufy-us
 education.23andme.com
 store.23andme.com
 api.23andme.com
-medical.23andme.com
 therapeutics.23andme.com
+medical.23andme.com
 blog.23andme.com
 mediacenter.23andme.com
 research.23andme.com
@@ -914,9 +914,9 @@ hiltonbusinessonline.com
 hiltonlocalbiz.com
 hiltonhotels.jp
 *.oklink.com
-*.okcoin.com
 *.okg.com
 *.okx.com
+*.okcoin.com
 *.okx.com
 *.okcoin.com
 *.oklink.com
@@ -970,8 +970,8 @@ aws.indrive.tech
 debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.mobi
-*.grindr.com
 web.grindr.com
+*.grindr.com
 *.grindr.io
 *.grindr.io
 *.grindr.com
@@ -1103,8 +1103,8 @@ admin.8x8.com
 *.magicjackpot.ro
 *.luckydays.com
 *.superbet.rs
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1157,10 +1157,10 @@ hv-mtl.com
 *.wenewmoments.com
 dookeydash.com
 hv-mtl.com
+*.lastminute.co.nz
 www.stayz.com.au
 www.abritel.fr
 www.hotwirepartnercentral.com
-*.lastminute.co.nz
 *.travelocity.com
 www.flights.com
 www.ebookers.fi
@@ -1168,16 +1168,13 @@ www.bookabach.co.nz
 *.carrentals.com
 www.expediapartnersolutions.com
 www.mrjet.se
-www.expediataap.com
-www.expediaagents.com
 www.ebookers.com
+www.expediaagents.com
+www.expediataap.com
 www.orbitz.com
 *.vrbo.com
 *.lastminute.com.au
 www.vrbo.com
-*.expediacruises.com
-*.wotif.com
-www.hotels.com
 www.expedia.com
 *.cheaptickets.com
 *.travelocity.ca
@@ -1185,6 +1182,9 @@ www.fewo-direkt.de
 www.expediagroup.com
 *.expediapartnercentral.com
 *.hotwire.com
+*.expediacruises.com
+*.wotif.com
+www.hotels.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1647,10 +1647,10 @@ www.fedramp.gov
 marketplace.fedramp.gov
 federalist.18f.gov
 federalist-docs.18f.gov
-cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
+cloud.gov
 www.usa.gov
 *.login.gov
 federalist-proxy.app.cloud.gov
@@ -1740,11 +1740,11 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
-app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
 *.touchtechpayments.com
+app.taxjar.com
 api.stripe.com
 *.stripe.com
 api.stripe.com
@@ -1846,8 +1846,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-www.chime.com
 wp-qa.chime.com
+www.chime.com
 *.chimebank.com
 *.1debit.com
 *.chime.com
@@ -1925,8 +1925,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.com
 identity.yoti.com
 ccloud.yoti.com
-core.yoti.com
 code.yoti.com
+core.yoti.com
 api.yoti.com
 hub.yoti.com
 www.yotisign.com
@@ -2041,14 +2041,14 @@ affiliate-id.tokopedia.com
 www.pangleglobal.com
 business.tiktok.com
 partner.tiktokshop.com
-live-backstage.tiktok.com
 developers.tiktok.com
 ads.tiktok.com
+live-backstage.tiktok.com
 tiktok.com
 shop.tiktok.com
 pay.tokopediax.com
-*.tiktokv.com
 creatormarketplace.tiktok.com
+*.tiktokv.com
 *.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2101,8 +2101,8 @@ www.figma.com
 api.figma.com
 3d.cs.money
 blog.cs.money
-wiki.cs.money
 support.cs.money
+wiki.cs.money
 cs.money
 cs.money
 support.cs.money
@@ -2402,10 +2402,10 @@ itv7.itv.com
 amazonpayinsurance.in
 *.amazon.co.jp
 *.amazon.it
-*.amazon.com
 *.amazon.in
 *.amazon.es
 *.amazon.com.br
+*.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2484,8 +2484,8 @@ maria.casino
 *.casinohuone.com
 *.kindredext.net
 *.highrolling.nu
-*.kes.kindredext.net
 *.unibet.fr
+*.kes.kindredext.net
 www.32red.com
 *.bingo.com
 *.unibet.com
@@ -2888,26 +2888,26 @@ grammarly.ai
 *.grammarly.com
 grammarly.ai
 *.mgmt.fndlsb.net
-*.prod.fdbox.net
 *.prd.fndlsb.net
+*.prod.fdbox.net
 *inf.fndlsb.net
 *racing.fanduel.com
 4njbets.tvgnetwork.com
 b2b.tvgnetwork.com
 service.racing.fanduel.com
-4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
+4njbets.us.betfair.com
 mobile-prod.tvg.com
+m.4njbets.tvg.com
 pabets.tvg.com
+login.tvg.com
+www.4njbets.com
 service.tvg.com
 promos.tvg.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
 login-ia.tvg.com
-m.4njbets.tvg.com
-login.tvg.com
-www.4njbets.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
 com.fanduel.android.live
@@ -3089,6 +3089,7 @@ marquee.gs.com
 *.foliodigitalwealth.com
 *.foliofn.com
 *.nnip.com
+*.marcus.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3125,9 +3126,9 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
-partner.steampowered.com
-www.dota2.com
 support.steampowered.com
+www.dota2.com
+partner.steampowered.com
 help.steampowered.com
 partner.steamgames.com
 www.counter-strike.net
@@ -3179,8 +3180,8 @@ bounty-node.rsk.co
 *.deliveroo.fr
 *.deliveroo.hk
 *.deliveroo.ae
-*.deliveroo.co.uk
 *.deliveroo.be
+*.deliveroo.co.uk
 *.deliveroo.ie
 *.deliveroo.it
 *.deliveroo.com.sg
@@ -3336,9 +3337,9 @@ bma.badoo.com
 translate.badoo.com
 ccardsus1.badoo.com
 bma.bumble.com
+ccardseu1.badoo.com
 us1.badoo.com
 eu1.badoo.com
-ccardseu1.badoo.com
 badoocdn.com
 hotornot.com
 chatdate.app
@@ -3362,11 +3363,11 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
 *.tospotify.com
 assets.spotify.com
 *.byspotify.com
@@ -3689,8 +3690,8 @@ shopifyinbox.com
 *.shopify.io
 *.shopify.com
 accounts.shopify.com
-partners.shopify.com
 shop.app
+partners.shopify.com
 admin.shopify.com
 your-store.myshopify.com
 *.shopifycs.com
@@ -3879,8 +3880,8 @@ grok.x.ai
 ide.x.ai
 api.x.ai
 gnip.com
-*.twitter.com
 x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3966,8 +3967,8 @@ commerce.coinbase.com
 cloud.coinbase.com
 *.coinbase.com
 nft.coinbase.com
-coinbase.com
 api.coinbase.com
+coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
