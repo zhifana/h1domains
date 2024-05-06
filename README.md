@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May  6 02:49:14 UTC 2024)
+## Domains with Bounties (Last Updated Mon May  6 03:20:48 UTC 2024)
 ```
 *.us.williamhill.com
 api.americanwagering.com
@@ -49,9 +49,9 @@ www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
 www.dyson.at
+www.dyson.ch
 api.dyson.it
 www.dyson.ie
-www.dyson.ch
 www.dyson.es
 *.dyson.com
 www.dyson.co.uk
@@ -334,8 +334,8 @@ webonboarding-eu.truecaller.com
 *.dev.remitly.com
 cards.remitly.io
 api.remitly.io
-app3.rewire.to
 rewire.com
+app3.rewire.to
 app.rewire.to
 rates.rewire.com
 remitly.com
@@ -432,8 +432,8 @@ https://passport.eufy.com/?app=eufy-us
 education.23andme.com
 store.23andme.com
 api.23andme.com
-therapeutics.23andme.com
 medical.23andme.com
+therapeutics.23andme.com
 blog.23andme.com
 mediacenter.23andme.com
 research.23andme.com
@@ -851,8 +851,8 @@ developer.mozilla.org
 sync.services.mozilla.com
 hg.mozilla.org
 accounts.firefox.com
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 firefox-ci-tc.services.mozilla.com
 support.mozilla.org
 relay.firefox.com
@@ -970,8 +970,8 @@ aws.indrive.tech
 debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.mobi
-web.grindr.com
 *.grindr.com
+web.grindr.com
 *.grindr.io
 *.grindr.io
 *.grindr.com
@@ -1174,10 +1174,10 @@ www.ebookers.com
 www.orbitz.com
 *.vrbo.com
 *.lastminute.com.au
-*.expediacruises.com
 www.vrbo.com
-www.hotels.com
+*.expediacruises.com
 *.wotif.com
+www.hotels.com
 www.expedia.com
 *.cheaptickets.com
 *.travelocity.ca
@@ -1605,9 +1605,9 @@ playwonderbox.com
 therecord.media
 geminiadvisory.io
 hatching.io
-app.recordedfuture.com
 id.recordedfuture.com
 api.recordedfuture.com
+app.recordedfuture.com
 securitytrails.com
 www.recordedfuture.com
 tria.ge
@@ -1740,11 +1740,11 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
+app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
 *.touchtechpayments.com
-app.taxjar.com
 api.stripe.com
 *.stripe.com
 api.stripe.com
@@ -1787,10 +1787,10 @@ oauth.reddit.com
 matrix.redditspace.com
 ads.reddit.com
 ads-api.reddit.com
-accounts.reddit.com
 *.reddit.com
 www.spiketrap.io
 www.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1990,8 +1990,8 @@ api.adm.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
-adm.cloud.com
 api.sharefile.com
+adm.cloud.com
 (youriwssubdomain).cloud.com
 secure.sharefile.com
 (yoursubdomain).sharefile.eu
@@ -2041,9 +2041,9 @@ affiliate-id.tokopedia.com
 www.pangleglobal.com
 business.tiktok.com
 partner.tiktokshop.com
+live-backstage.tiktok.com
 developers.tiktok.com
 ads.tiktok.com
-live-backstage.tiktok.com
 tiktok.com
 shop.tiktok.com
 pay.tokopediax.com
@@ -2292,8 +2292,8 @@ wallet.polygon.technology
 faucet.polygon.technology
 burn.polygon.technology
 bridge-api.matic.network
-portal.polygon.technology
 open-api.polygon.technology
+portal.polygon.technology
 wallet.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
@@ -2404,8 +2404,8 @@ amazonpayinsurance.in
 *.amazon.it
 *.amazon.com
 *.amazon.in
-*.amazon.com.br
 *.amazon.es
+*.amazon.com.br
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2442,11 +2442,11 @@ amazonpayinsurance.in
 *.alimama.com
 *.aliyun-inc.com
 www.alibabagroup.com
-*.aliyun.com
 *.alibaba.com
 *.Daraz.com
-*.alibaba-inc.com
 *.aliexpress.com
+*.alibaba-inc.com
+*.aliyun.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2484,8 +2484,8 @@ maria.casino
 *.casinohuone.com
 *.kindredext.net
 *.highrolling.nu
-*.unibet.fr
 *.kes.kindredext.net
+*.unibet.fr
 www.32red.com
 *.bingo.com
 *.unibet.com
@@ -2584,8 +2584,8 @@ kubernetes.io
 k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
-docs.datastax.com
 www.datastax.com
+docs.datastax.com
 astra.datastax.com
 www.datastax.com
 downloads.datastax.com
@@ -2629,10 +2629,10 @@ coban.pixiv.net
 accounts.pixiv.net
 sketch.pixiv.net
 *.fanbox.cc
-vroid.com
-booth.pm
 hub.vroid.com
 neoket.net
+vroid.com
+booth.pm
 www.pixiv.net
 *.fanbox.cc
 booth.pm
@@ -2720,8 +2720,8 @@ app.command.cysiv.com
 api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
-press.priceline.com
 cruises.priceline.com
+press.priceline.com
 www.bookingholdings.com
 flyiin.com
 www.priceline.com
@@ -2898,15 +2898,15 @@ service.racing.fanduel.com
 4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
+mobile-prod.tvg.com
+pabets.tvg.com
+service.tvg.com
+promos.tvg.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
 login-ia.tvg.com
 m.4njbets.tvg.com
 login.tvg.com
-mobile-prod.tvg.com
-pabets.tvg.com
-service.tvg.com
-promos.tvg.com
 www.4njbets.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
@@ -2986,8 +2986,8 @@ my.swiftfinancial.com
 *.braintreegateway.com
 sandbox.braintreegateway.com
 *.paypalcorp.com
-*.venmo.com
 *.paypal.com
+*.venmo.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3089,7 +3089,6 @@ marquee.gs.com
 *.foliodigitalwealth.com
 *.foliofn.com
 *.nnip.com
-api.foliofn.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3126,9 +3125,9 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
-support.steampowered.com
-www.dota2.com
 partner.steampowered.com
+www.dota2.com
+support.steampowered.com
 help.steampowered.com
 partner.steamgames.com
 www.counter-strike.net
@@ -3152,8 +3151,8 @@ help.steampowered.com
 developer.valvesoftware.com
 pay.crypto.com
 app.mona.co
-*.mona.co
 merchant.crypto.com
+*.mona.co
 tax.crypto.com
 auth.crypto.com
 *.crypto.com
@@ -3684,14 +3683,14 @@ shopify.plus
 *.shopifycs.com
 arrive-server.shopifycloud.com
 *.shopifykloud.com
-shopifyinbox.com
 linkpop.com
 *.shopifycloud.com
+shopifyinbox.com
 *.shopify.io
 *.shopify.com
 accounts.shopify.com
-shop.app
 partners.shopify.com
+shop.app
 admin.shopify.com
 your-store.myshopify.com
 *.shopifycs.com
@@ -3880,8 +3879,8 @@ grok.x.ai
 ide.x.ai
 api.x.ai
 gnip.com
-x.com
 *.twitter.com
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3967,8 +3966,8 @@ commerce.coinbase.com
 cloud.coinbase.com
 *.coinbase.com
 nft.coinbase.com
-api.coinbase.com
 coinbase.com
+api.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -4036,9 +4035,9 @@ reviewer.pullrequest.com
 b5s.hackerone-ext-content.com
 app.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-www.hackerone.com
 api.hackerone.com
 a5s.hackerone-ext-content.com
+www.hackerone.com
 hackerone.com
 hackerone.com
 api.hackerone.com
