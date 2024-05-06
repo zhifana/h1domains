@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May  6 08:42:44 UTC 2024)
+## Domains with Bounties (Last Updated Mon May  6 09:21:49 UTC 2024)
 ```
 *.us.williamhill.com
 api.americanwagering.com
@@ -437,8 +437,8 @@ medical.23andme.com
 blog.23andme.com
 research.23andme.com
 auth.23andme.com
-you.23andme.com
 mediacenter.23andme.com
+you.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -495,8 +495,8 @@ supply-xml.booking.com
 portal.taxi.booking.com
 secure-supply-xml.booking.com
 kyc-onboarding.booking.com
-spark.fareharbor.com
 teleport.fareharbor.engineering
+spark.fareharbor.com
 flights.booking.com
 indicative-pricing.taxi.booking.com
 taxi.booking.com
@@ -712,11 +712,11 @@ visa.co.za
 www.fraedom.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
-bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
+bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -798,8 +798,8 @@ sandbox.authorize.net
 developer.authorize.net
 developer.visa.com
 yourdomain.freshcaller.com
-yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
+yourdomain.myfreshworks.com
 yourdomain.freshchat.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
@@ -845,7 +845,6 @@ push.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 firefox.settings.services.mozilla.com
 phabricator.allizom.org
-addons.allizom.org
 lando.services.mozilla.com
 developer.mozilla.org
 sync.services.mozilla.com
@@ -858,6 +857,7 @@ support.mozilla.org
 relay.firefox.com
 monitor.mozilla.org
 www.mozilla.org
+addons.allizom.org
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
@@ -901,8 +901,8 @@ hilton.io
 *.hiltonhotels.jp
 hiltonhotels.jp
 *.hilton.io
-hilton.com
 *.hilton.com
+hilton.com
 *.hilton.com
 *.hilton.io
 *.hiltonbusinessonline.com
@@ -914,8 +914,8 @@ hiltonbusinessonline.com
 hiltonlocalbiz.com
 hiltonhotels.jp
 *.oklink.com
-*.okg.com
 *.okcoin.com
+*.okg.com
 *.okx.com
 *.okx.com
 *.okcoin.com
@@ -1054,14 +1054,14 @@ sms.8x8.com
 *.p8t.us
 uc.8x8pilot.com
 work-staging.8x8.com
-voapi.8x8.com
-*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
+*.8x8.id
+voapi.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
-platform.8x8.com
 sso.8x8pilot.com
+platform.8x8.com
 sso.8x8.com
 *.jitsi.net
 *.jit.si
@@ -1173,17 +1173,17 @@ www.expediaagents.com
 www.ebookers.com
 www.orbitz.com
 *.lastminute.com.au
+www.hotels.com
+*.vrbo.com
+*.expediacruises.com
+*.wotif.com
 www.vrbo.com
 www.expedia.com
 *.cheaptickets.com
 *.travelocity.ca
 www.fewo-direkt.de
-*.expediapartnercentral.com
-*.wotif.com
-www.hotels.com
 www.expediagroup.com
-*.expediacruises.com
-*.vrbo.com
+*.expediapartnercentral.com
 *.hotwire.com
 *.vrbo.com
 *.hotwire.com
@@ -1215,8 +1215,8 @@ www.flights.com
 www.expediataap.com
 *.magiceden.workers.dev
 *.magiceden.io
-magiceden.io
 *.magiceden.dev
+magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1647,10 +1647,10 @@ www.fedramp.gov
 marketplace.fedramp.gov
 federalist.18f.gov
 federalist-docs.18f.gov
-cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
+cloud.gov
 www.usa.gov
 *.login.gov
 federalist-proxy.app.cloud.gov
@@ -1786,11 +1786,11 @@ oauth.reddit.com
 *.reddithelp.com
 matrix.redditspace.com
 ads.reddit.com
-ads-api.reddit.com
 www.spiketrap.io
 www.reddit.com
 accounts.reddit.com
 *.reddit.com
+ads-api.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1923,8 +1923,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-ccloud.yoti.com
 identity.yoti.com
+ccloud.yoti.com
 core.yoti.com
 code.yoti.com
 api.yoti.com
@@ -2046,8 +2046,8 @@ ads.tiktok.com
 live-backstage.tiktok.com
 shop.tiktok.com
 pay.tokopediax.com
-creatormarketplace.tiktok.com
 *.tiktokv.com
+creatormarketplace.tiktok.com
 *.tiktok.com
 tiktok.com
 *.tiktok.com
@@ -2307,9 +2307,9 @@ portal.polygon.technology
 https://agglayer-test.polygon.technology
 *.xiaomiyoupin.com
 *.miwifi.com
+*.miui.com
 *.mi.com
 *.xiaomi.com
-*.miui.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -2445,8 +2445,8 @@ www.alibabagroup.com
 *.aliexpress.com
 *.1688.com
 *.taobao.com
-*.alibaba.com
 *.Daraz.com
+*.alibaba.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2584,8 +2584,8 @@ kubernetes.io
 k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
-docs.datastax.com
 www.datastax.com
+docs.datastax.com
 astra.datastax.com
 www.datastax.com
 downloads.datastax.com
@@ -2720,8 +2720,8 @@ app.command.cysiv.com
 api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
-press.priceline.com
 cruises.priceline.com
+press.priceline.com
 www.bookingholdings.com
 flyiin.com
 www.priceline.com
@@ -2898,18 +2898,18 @@ service.racing.fanduel.com
 4njbets.tvg.com
 4njbets.com
 4njbets.us.betfair.com
-login-4njbets.us.betfair.com
-login-pabets.tvg.com
 mobile-prod.tvg.com
-login-ia.tvg.com
 m.4njbets.tvg.com
 pabets.tvg.com
 login.tvg.com
-login-4ngbets.us.betfair.com
-login.pabets.tvg.com
+www.4njbets.com
 service.tvg.com
 promos.tvg.com
-www.4njbets.com
+login-4njbets.us.betfair.com
+login-pabets.tvg.com
+login-ia.tvg.com
+login-4ngbets.us.betfair.com
+login.pabets.tvg.com
 com.fanduel.android.live
 www.tvg.com
 sportsbook.fanduel.com
@@ -2965,8 +2965,8 @@ paypal.me
 api.swiftfinancial.com
 decision.swiftfinancial.com
 partner.swiftfinancial.com
-scrutiny.swiftfinancial.com
 pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftfinancial.com
 swiftfinancial.com
 prequal.swiftfinancial.com
@@ -2979,12 +2979,12 @@ loanbuilder.com
 paypalobjects.com
 www.loanbuilder.com
 my.swiftfinancial.com
-*.hyperwallet.com
 *.braintreepayments.com
+*.hyperwallet.com
 sandbox.braintreegateway.com
 *.venmo.com
-*.braintree-api.com
 *.xoom.com
+*.braintree-api.com
 *.braintreegateway.com
 *.paypalcorp.com
 *.paypal.com
@@ -3089,6 +3089,7 @@ marquee.gs.com
 *.foliodigitalwealth.com
 *.foliofn.com
 *.nnip.com
+*.marcus.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3126,8 +3127,8 @@ api.foliofn.com
 developer.valvesoftware.com
 playartifact.com
 partner.steampowered.com
-www.dota2.com
 support.steampowered.com
+www.dota2.com
 help.steampowered.com
 partner.steamgames.com
 www.counter-strike.net
@@ -3151,13 +3152,13 @@ help.steampowered.com
 developer.valvesoftware.com
 pay.crypto.com
 app.mona.co
-merchant.crypto.com
 *.mona.co
-tax.crypto.com
+merchant.crypto.com
 auth.crypto.com
 js.crypto.com
 www.crypto.com
 *.crypto.com
+tax.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3307,8 +3308,8 @@ kartaview.org
 api.grabpay.com
 *.ovo.id
 *.taralite.com
-*.grab.com
 *.grabtaxi.com
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3362,12 +3363,12 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.tospotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
+*.tospotify.com
 assets.spotify.com
 *.byspotify.com
 *.withspotify.com
@@ -3965,8 +3966,8 @@ commerce.coinbase.com
 *.cbhq.net
 cloud.coinbase.com
 nft.coinbase.com
-api.coinbase.com
 coinbase.com
+api.coinbase.com
 *.coinbase.com
 *.coinbase.com
 *.cbhq.net
@@ -4269,8 +4270,8 @@ magentocommerce.com
 u.magento.com
 imagine.magento.com
 magentolive.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 marketplace.magento.com
 magento.com
 account.magento.com
