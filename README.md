@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May  7 21:41:22 UTC 2024)
+## Domains with Bounties (Last Updated Tue May  7 22:14:32 UTC 2024)
 ```
 usercontent.koho.ca
 app.koho.ca
