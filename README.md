@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May  8 04:14:56 UTC 2024)
+## Domains with Bounties (Last Updated Wed May  8 04:41:29 UTC 2024)
 ```
 api.americanwagering.com
 *.us.williamhill.com
@@ -46,9 +46,9 @@ www.dyson.it
 www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
-www.dyson.ch
-api.dyson.it
 www.dyson.ie
+api.dyson.it
+www.dyson.ch
 www.dyson.es
 www.dyson.se
 www.dyson.be
@@ -403,8 +403,8 @@ http://sandbox-api.fireblocks.io
 university-staging.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 sso-sprint.dynatracelabs.com
-myaccount-hardening.dynatracelabs.com
 account-sprint.dynatracelabs.com
+myaccount-hardening.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -431,8 +431,8 @@ https://passport.eufy.com/?app=eufy-us
 education.23andme.com
 store.23andme.com
 api.23andme.com
-medical.23andme.com
 therapeutics.23andme.com
+medical.23andme.com
 blog.23andme.com
 research.23andme.com
 mediacenter.23andme.com
@@ -459,11 +459,11 @@ www.mercadolibre.com.mx
 www.mercadopago.com.ar
 www.mercadolivre.com.br
 www.mercadolibre.com.uy
+www.mercadolibre.com.ar
 www.mercadolibre.cl
 www.mercadopago.com.br
 api.mercadopago.com
 api.mercadolibre.com
-www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -616,8 +616,8 @@ manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 www.gocardless.com
-api-sandbox.gocardless.com
 *.gocardless-staging.io
+api-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -810,9 +810,9 @@ app.kolesa.kz
 app.krisha.kz
 krisha.kz
 kolesa.kz
-api.kolesa.kz
 id.kolesa.kz
 m.kolesa.kz
+api.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -845,15 +845,15 @@ lando.services.mozilla.com
 developer.mozilla.org
 sync.services.mozilla.com
 hg.mozilla.org
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 support.mozilla.org
 relay.firefox.com
 www.mozilla.org
 addons.allizom.org
-monitor.mozilla.org
 accounts.firefox.com
+monitor.mozilla.org
 profiler.firefox.com
 addons.allizom.org
 developer.mozilla.org
@@ -912,8 +912,8 @@ hiltonlocalbiz.com
 hiltonhotels.jp
 *.oklink.com
 *.okg.com
-*.okx.com
 *.okcoin.com
+*.okx.com
 *.okx.com
 *.okcoin.com
 *.oklink.com
@@ -967,8 +967,8 @@ aws.indrive.tech
 debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.mobi
-*.grindr.com
 web.grindr.com
+*.grindr.com
 *.grindr.io
 *.grindr.io
 *.grindr.com
@@ -1056,8 +1056,8 @@ platform.8x8pilot.com
 *.8x8.id
 voapi.8x8.com
 user-profile-staging.8x8.com
-sso.8x8pilot.com
 platform.8x8.com
+sso.8x8pilot.com
 sso.8x8.com
 *.jitsi.net
 *.jit.si
@@ -1095,11 +1095,11 @@ admin.8x8.com
 *.napoleondice.be
 *.napoleongames.be
 *.napoleonsports.be
+*.luckydays.com
+*.superbet.rs
 *.luckydays.ca
 *.superbet.pl
 *.magicjackpot.ro
-*.luckydays.com
-*.superbet.rs
 *.superbet.com
 *.superbet.ro
 *.superbet.ro
@@ -1141,8 +1141,8 @@ dookeydash.com
 *.wenewmoments.com
 *.otherside.xyz
 *.cryptopunks.app
-hv-mtl.com
 *.yuga.com
+hv-mtl.com
 *.boredapeyachtclub.com
 *.yuga.com
 *.yugalabs.io
@@ -1313,9 +1313,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
-www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
+www.swoodoo.com
 www.cheapflights.com
 www.hotelscombined.com
 www.momondo.com
@@ -1644,10 +1644,10 @@ www.fedramp.gov
 marketplace.fedramp.gov
 federalist.18f.gov
 federalist-docs.18f.gov
+cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
-cloud.gov
 *.login.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
@@ -1921,8 +1921,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.com
 identity.yoti.com
 ccloud.yoti.com
-code.yoti.com
 core.yoti.com
+code.yoti.com
 api.yoti.com
 hub.yoti.com
 www.yotisign.com
@@ -1986,8 +1986,8 @@ api.adm.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
-adm.cloud.com
 api.sharefile.com
+adm.cloud.com
 (youriwssubdomain).cloud.com
 secure.sharefile.com
 (yoursubdomain).sharefile.eu
@@ -2398,10 +2398,10 @@ amazonpayinsurance.in
 *.amazon.cn
 *.amazon.co.jp
 *.amazon.es
-*.amazon.in
 *.amazon.eg
 *.amazon.com
 *.amazon.ca
+*.amazon.in
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2958,18 +2958,18 @@ https://github.com/matomo-org/docker
 paypal.me
 *.braintree.tools
 *.paylution.com
-api.swiftfinancial.com
-scrutiny.swiftfinancial.com
-www.swiftfinancial.com
 swiftfinancial.com
+prequal.swiftfinancial.com
 www.swiftcapital.com
 swiftcapital.com
-decision.swiftfinancial.com
 partner.swiftfinancial.com
 pigeon.swiftfinancial.com
-prequal.swiftfinancial.com
+scrutiny.swiftfinancial.com
+www.swiftfinancial.com
 api.loanbuilder.com
 my.loanbuilder.com
+api.swiftfinancial.com
+decision.swiftfinancial.com
 py.pl
 loanbuilder.com
 paypalobjects.com
@@ -3085,7 +3085,7 @@ marquee.gs.com
 *.foliodigitalwealth.com
 *.foliofn.com
 *.nnip.com
-*.marcus.com
+api.foliofn.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3122,9 +3122,9 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
-partner.steampowered.com
 support.steampowered.com
 www.dota2.com
+partner.steampowered.com
 help.steampowered.com
 partner.steamgames.com
 www.counter-strike.net
@@ -3152,9 +3152,9 @@ js.crypto.com
 tax.crypto.com
 merchant.crypto.com
 pay.crypto.com
-*.crypto.com
 app.mona.co
 www.crypto.com
+*.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3170,8 +3170,8 @@ https://crypto.com/price
 bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
-*.deliveroo.com.hk
 *.deliveroo.com.kw
+*.deliveroo.com.hk
 *.deliveroo.com.qa
 *.deliveroo.ae
 *.deliveroo.be
@@ -3250,9 +3250,9 @@ privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
 yrityspalvelu.tapiola.fi
 verkkopalvelu.tapiola.fi
+api.lahitapiola.fi
 ext-gw.lahitapiola.fi
 *.lahitapiola.fi
-api.lahitapiola.fi
 *.beta.lahitapiola.fi
 www.lahitapiola.fi
 *.lahitapiolarahoitus.fi
@@ -3300,12 +3300,12 @@ gifts.grab.com
 *.grabpay.com
 jira.grab.com
 *.myteksi.com
-kartaview.org
 api.grabpay.com
 *.ovo.id
 *.taralite.com
 *.grab.com
 *.grabtaxi.com
+kartaview.org
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3359,12 +3359,12 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.atspotify.com
 *.avecspotify.com
+*.atspotify.com
 *.enspotify.com
-*.forspotify.com
-*.fromspotify.com
 *.tospotify.com
+*.fromspotify.com
+*.forspotify.com
 assets.spotify.com
 *.byspotify.com
 *.withspotify.com
@@ -3671,14 +3671,14 @@ yourcompany.udemy.com
 shopify.plus
 *.shopifycs.com
 *.shopifykloud.com
+shopifyinbox.com
 linkpop.com
 *.shopifycloud.com
-shopifyinbox.com
-admin.shopify.com
-*.shopify.io
 shop.app
 arrive-server.shopifycloud.com
 your-store.myshopify.com
+admin.shopify.com
+*.shopify.io
 partners.shopify.com
 accounts.shopify.com
 *.shopify.com
@@ -3722,9 +3722,9 @@ forum.playcanvas.com
 kit.snapchat.com
 www.bitmoji.com
 business.snapchat.com
+ads.snapchat.com
 web.snapchat.com
 login.playcanvas.com
-ads.snapchat.com
 accounts.snapchat.com
 playcanvas.com
 snappublisher.snapchat.com
@@ -3764,8 +3764,8 @@ fw-update.ubnt.com
 ispdesign.ui.com
 careers.ui.com
 unifi.ui.com
-store.ui.com
 design.ui.com
+store.ui.com
 *.ubnt.com
 *.ui.com
 store.ui.com
@@ -3805,9 +3805,9 @@ support-api.airbnb.com
 *.withairbnb.com
 *.muscache.com
 www.hoteltonight.com
-www.airbnb.com
 *.hoteltonight-test.com
 *.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3869,8 +3869,8 @@ grok.x.ai
 ide.x.ai
 api.x.ai
 gnip.com
-x.com
 *.twitter.com
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3980,8 +3980,8 @@ slack-redir.net
 spaces.pm
 www.quip.com
 *.quip.com
-slack-imgs.com
 slack-status.com
+slack-imgs.com
 api.slack.com
 slack.com
 app.slack.com
@@ -4083,8 +4083,8 @@ cloud.gravitational.io
 askpam.ai
 platform.teleport.sh
 *.goteleport.com
-h1-your-domain.teleport.sh
 *.teleportinfra.sh
+h1-your-domain.teleport.sh
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
