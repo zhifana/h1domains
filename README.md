@@ -2,14 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May  8 22:17:42 UTC 2024)
+## Domains with Bounties (Last Updated Wed May  8 22:40:34 UTC 2024)
 ```
 williamhill.us
 api.americanwagering.com
 *.us.williamhill.com
+caesarspalaceonline.com
 sportsbook.caesars.com
 *.williamhill.us
-caesarspalaceonline.com
 *.us.williamhill.com
 *.williamhill.us
 sportsbook.caesars.com
@@ -24,8 +24,8 @@ williamhill.us
 usercontent.koho.ca
 app.koho.ca
 webgateway.koho.ca
-web.koho.ca
 www.koho.ca
+web.koho.ca
 web.koho.ca
 http://api.koho.ca/1.0
 http://api.koho.ca/partner
@@ -46,9 +46,9 @@ www.dyson.it
 www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
-www.dyson.ch
 api.dyson.it
 www.dyson.ie
+www.dyson.ch
 www.dyson.es
 www.dyson.se
 www.dyson.be
@@ -461,11 +461,11 @@ api.mercadopago.com
 api.mercadolibre.com
 www.mercadolibre.com.pe
 www.mercadopago.cl
-www.mercadopago.com.br
 www.mercadolibre.cl
 www.mercadopago.com.ar
-www.mercadolibre.com.ar
+www.mercadopago.com.br
 www.mercadolibre.com.uy
+www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -511,13 +511,13 @@ cars.booking.com
 careers.booking.com
 accommodations.booking.com
 www.fareharbor.com
-paymentcomponent.booking.com
 experiences.booking.com
 account.booking.com
+paymentcomponent.booking.com
 secure.booking.com
 booking.com
 fhdn.fareharbor.com
-*.rentalcars.com
+admin.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -662,8 +662,8 @@ sftp.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
 testapp.redoxengine.com
 10x.redoxengine.com
-dashboard.gamma.redoxstage.com
 www.redoxengine.com
+dashboard.gamma.redoxstage.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -711,11 +711,11 @@ visa.co.za
 www.fraedom.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
+bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
-bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -811,9 +811,9 @@ api.krisha.kz
 app.kolesa.kz
 app.krisha.kz
 krisha.kz
-api.kolesa.kz
 id.kolesa.kz
 m.kolesa.kz
+api.kolesa.kz
 kolesa.kz
 kolesa.kz
 m.kolesa.kz
@@ -847,8 +847,8 @@ lando.services.mozilla.com
 developer.mozilla.org
 sync.services.mozilla.com
 hg.mozilla.org
-community-tc.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
+community-tc.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 support.mozilla.org
 relay.firefox.com
@@ -895,9 +895,9 @@ api-eu.floqast.app
 *.hiltonlocalbiz.com
 hiltonbusinessonline.com
 hiltonlocalbiz.com
+*.hiltonhotels.jp
 *.hiltonbusinessonline.com
 hilton.io
-*.hiltonhotels.jp
 hiltonhotels.jp
 *.hilton.io
 *.hilton.com
@@ -1053,10 +1053,10 @@ sms.8x8.com
 *.p8t.us
 uc.8x8pilot.com
 work-staging.8x8.com
-voapi.8x8.com
-*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
+*.8x8.id
+voapi.8x8.com
 user-profile-staging.8x8.com
 platform.8x8.com
 sso.8x8pilot.com
@@ -1097,11 +1097,11 @@ admin.8x8.com
 *.napoleondice.be
 *.napoleongames.be
 *.napoleonsports.be
+*.luckydays.com
+*.superbet.rs
 *.luckydays.ca
 *.superbet.pl
 *.magicjackpot.ro
-*.luckydays.com
-*.superbet.rs
 *.superbet.com
 *.superbet.ro
 *.superbet.ro
@@ -1143,8 +1143,8 @@ dookeydash.com
 *.wenewmoments.com
 *.otherside.xyz
 *.cryptopunks.app
-hv-mtl.com
 *.yuga.com
+hv-mtl.com
 *.boredapeyachtclub.com
 *.yuga.com
 *.yugalabs.io
@@ -1344,9 +1344,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
-api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
+api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1844,8 +1844,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-wp-qa.chime.com
 www.chime.com
+wp-qa.chime.com
 *.chimebank.com
 *.1debit.com
 *.chime.com
@@ -1921,8 +1921,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-ccloud.yoti.com
 identity.yoti.com
+ccloud.yoti.com
 core.yoti.com
 code.yoti.com
 api.yoti.com
@@ -2015,7 +2015,6 @@ pay.tokopediax.com
 seller-id.tokopedia.com
 affiliate-id.tokopedia.com
 www.pangleglobal.com
-ads.tiktok.com
 creatormarketplace.tiktok.com
 shop-id.tokopedia.com
 partner.tiktokshop.com
@@ -2025,6 +2024,7 @@ developers.tiktok.com
 live-backstage.tiktok.com
 tiktok.com
 business.tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2560,8 +2560,8 @@ k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
 astra.datastax.com
-docs.datastax.com
 www.datastax.com
+docs.datastax.com
 www.datastax.com
 downloads.datastax.com
 docs.datastax.com
@@ -2572,8 +2572,8 @@ app.nordpass.com
 app.nordpass.com
 *.line.naver.jp
 *.line-apps.com
-*.linecorp.com
 *.line.biz
+*.linecorp.com
 *.line.me
 *.line.me
 *.line-apps.com
@@ -2940,8 +2940,8 @@ paypal.me
 api.swiftfinancial.com
 decision.swiftfinancial.com
 partner.swiftfinancial.com
-pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
+pigeon.swiftfinancial.com
 www.swiftfinancial.com
 swiftfinancial.com
 prequal.swiftfinancial.com
@@ -3200,8 +3200,8 @@ falcon-sandbox.com
 *.preemptsecurity.com
 *.reposify.com
 *.humio.com
-*.preempt.com
 *.crowdstrike.com
+*.preempt.com
 www.crowdstrike.com
 *.bionic.ai
 hybrid-analysis.com
@@ -3229,9 +3229,9 @@ privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
 yrityspalvelu.tapiola.fi
 verkkopalvelu.tapiola.fi
-api.lahitapiola.fi
 ext-gw.lahitapiola.fi
 *.lahitapiola.fi
+api.lahitapiola.fi
 *.beta.lahitapiola.fi
 www.lahitapiola.fi
 *.lahitapiolarahoitus.fi
@@ -3431,8 +3431,8 @@ lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
 www.files.com
-app.files.com
 your-assigned-subdomain.files.com
+app.files.com
 app.files.com
 your-assigned-subdomain.files.com
 www.files.com
@@ -3460,8 +3460,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-www.starbucks.com.sg
 gift.starbucks.co.jp
+www.starbucks.com.sg
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3650,16 +3650,16 @@ yourcompany.udemy.com
 shopify.plus
 *.shopifycs.com
 *.shopifykloud.com
+shopifyinbox.com
 linkpop.com
 *.shopifycloud.com
-shopifyinbox.com
-*.shopify.io
 arrive-server.shopifycloud.com
+*.shopify.io
 *.shopify.com
 accounts.shopify.com
+shop.app
 admin.shopify.com
 partners.shopify.com
-shop.app
 your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
@@ -3888,8 +3888,8 @@ gravatar.com
 wordpress.com
 www.tumblr.com
 api.tumblr.com
-*.tumblr.com
 akismet.com
+*.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
@@ -3959,8 +3959,8 @@ slackatwork.com
 slack-redir.net
 spaces.pm
 www.quip.com
-slack-status.com
 slack-imgs.com
+slack-status.com
 slack.com
 *.quip.com
 api.slack.com
