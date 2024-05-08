@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May  8 20:20:28 UTC 2024)
+## Domains with Bounties (Last Updated Wed May  8 20:42:01 UTC 2024)
 ```
 caesarspalaceonline.com
 williamhill.us
-sportsbook.caesars.com
 api.americanwagering.com
 *.us.williamhill.com
+sportsbook.caesars.com
 *.williamhill.us
 *.us.williamhill.com
 *.williamhill.us
@@ -24,8 +24,8 @@ williamhill.us
 usercontent.koho.ca
 app.koho.ca
 webgateway.koho.ca
-web.koho.ca
 www.koho.ca
+web.koho.ca
 web.koho.ca
 http://api.koho.ca/1.0
 http://api.koho.ca/partner
@@ -388,8 +388,8 @@ www.sheer.com
 my.sheer.com
 www.ddfcontent.com
 www.pornworld.com
-www.analvids.com
 www.pornbox.com
+www.analvids.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -496,8 +496,8 @@ supply-xml.booking.com
 portal.taxi.booking.com
 secure-supply-xml.booking.com
 kyc-onboarding.booking.com
-spark.fareharbor.com
 teleport.fareharbor.engineering
+spark.fareharbor.com
 flights.booking.com
 indicative-pricing.taxi.booking.com
 taxi.booking.com
@@ -711,11 +711,11 @@ visa.co.za
 www.fraedom.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
-bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
+bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -811,9 +811,9 @@ api.krisha.kz
 app.kolesa.kz
 app.krisha.kz
 krisha.kz
-api.kolesa.kz
 id.kolesa.kz
 m.kolesa.kz
+api.kolesa.kz
 kolesa.kz
 kolesa.kz
 m.kolesa.kz
@@ -895,9 +895,9 @@ api-eu.floqast.app
 *.hiltonlocalbiz.com
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-*.hiltonhotels.jp
 *.hiltonbusinessonline.com
 hilton.io
+*.hiltonhotels.jp
 hiltonhotels.jp
 *.hilton.io
 hilton.com
@@ -914,8 +914,8 @@ hiltonlocalbiz.com
 hiltonhotels.jp
 *.oklink.com
 *.okcoin.com
-*.okg.com
 *.okx.com
+*.okg.com
 *.okx.com
 *.okcoin.com
 *.oklink.com
@@ -1180,8 +1180,8 @@ www.vrbo.com
 www.orbitz.com
 *.cheaptickets.com
 www.fewo-direkt.de
-*.expediacruises.com
 *.expediapartnercentral.com
+*.expediacruises.com
 *.hotwire.com
 www.expedia.com
 *.vrbo.com
@@ -1228,8 +1228,8 @@ api.zerobounce.in
 zerobounce.net
 pb.deribit.com
 metrics.deribit.com
-test.deribit.com
 tools.deribit.com
+test.deribit.com
 *.deribit.com
 insights.deribit.com
 *.deribit.com
@@ -1344,9 +1344,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
+api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
-api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1646,10 +1646,10 @@ www.fedramp.gov
 marketplace.fedramp.gov
 federalist.18f.gov
 federalist-docs.18f.gov
-cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
+cloud.gov
 *.login.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
@@ -1725,8 +1725,8 @@ www.elastic.co
 *.elastic.co
 *.elstc.co
 *.swiftype.com
-*.found.io
 cloud.elastic.co
+*.found.io
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1738,11 +1738,11 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
-app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
 *.touchtechpayments.com
+app.taxjar.com
 api.stripe.com
 *.stripe.com
 api.stripe.com
@@ -1844,8 +1844,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-www.chime.com
 wp-qa.chime.com
+www.chime.com
 *.chimebank.com
 *.1debit.com
 *.chime.com
@@ -1900,8 +1900,8 @@ internal-api-lark-api.larksuite.com
 hackers_chosendomain.larksuite.com
 api.larksuite.com
 open.larksuite.com
-app.larksuite.com
 larksuite.com
+app.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -1921,8 +1921,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-ccloud.yoti.com
 identity.yoti.com
+ccloud.yoti.com
 core.yoti.com
 code.yoti.com
 api.yoti.com
@@ -2020,8 +2020,8 @@ ads.tiktok.com
 creatormarketplace.tiktok.com
 shop-id.tokopedia.com
 partner.tiktokshop.com
-developers.tiktok.com
 *.tiktok.com
+developers.tiktok.com
 *.tiktokv.com
 tiktok.com
 live-backstage.tiktok.com
@@ -2371,16 +2371,16 @@ itv7.itv.com
 *.amazon.com.au
 amazonpayinsurance.in
 *.amazon.it
-*.amazon.co.uk
 *.amazon.com.mx
+*.amazon.co.uk
 *.amazon.cn
 *.amazon.ca
-*.amazon.es
 *.amazon.eg
 *.amazon.com.br
-*.amazon.com
 *.amazon.co.jp
 *.amazon.in
+*.amazon.com
+*.amazon.es
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2418,10 +2418,10 @@ www.alibabagroup.com
 *.Daraz.com
 *.aliyun.com
 *.1688.com
-*.alibaba-inc.com
 *.alibaba.com
-*.aliexpress.com
+*.alibaba-inc.com
 *.alibabacloud.com
+*.aliexpress.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2572,8 +2572,8 @@ app.nordpass.com
 app.nordpass.com
 *.line.naver.jp
 *.line-apps.com
-*.line.biz
 *.linecorp.com
+*.line.biz
 *.line.me
 *.line.me
 *.line-apps.com
@@ -2602,9 +2602,9 @@ payment.pixiv.net
 novel.pixiv.net
 coban.pixiv.net
 accounts.pixiv.net
-vroid.com
 hub.vroid.com
 neoket.net
+vroid.com
 www.pixiv.net
 sketch.pixiv.net
 booth.pm
@@ -2959,10 +2959,10 @@ sandbox.braintreegateway.com
 *.paypalcorp.com
 *.braintreepayments.com
 *.braintree-api.com
-*.paypal.com
 *.venmo.com
 api.loanbuilder.com
 *.braintreegateway.com
+*.paypal.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3064,7 +3064,7 @@ marquee.gs.com
 *.foliodigitalwealth.com
 *.foliofn.com
 *.nnip.com
-api.foliofn.com
+*.marcus.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3101,9 +3101,9 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
-partner.steampowered.com
-www.dota2.com
 support.steampowered.com
+www.dota2.com
+partner.steampowered.com
 help.steampowered.com
 partner.steamgames.com
 www.counter-strike.net
@@ -3460,8 +3460,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
 www.starbucks.com.sg
+gift.starbucks.co.jp
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3650,11 +3650,11 @@ yourcompany.udemy.com
 shopify.plus
 *.shopifycs.com
 *.shopifykloud.com
+shopifyinbox.com
 linkpop.com
 *.shopifycloud.com
-shopifyinbox.com
-*.shopify.io
 arrive-server.shopifycloud.com
+*.shopify.io
 *.shopify.com
 accounts.shopify.com
 admin.shopify.com
@@ -3958,8 +3958,8 @@ slackatwork.com
 slack-redir.net
 spaces.pm
 www.quip.com
-slack-status.com
 slack-imgs.com
+slack-status.com
 slack.com
 *.quip.com
 api.slack.com
@@ -4006,8 +4006,8 @@ ctf.hacker101.com
 www.hackerone.com
 api.hackerone.com
 hackerone.live
-app.pullrequest.com
 hackerone.com
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
