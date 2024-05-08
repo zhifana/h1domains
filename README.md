@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May  8 13:42:57 UTC 2024)
+## Domains with Bounties (Last Updated Wed May  8 14:18:29 UTC 2024)
 ```
 *.us.williamhill.com
 caesarspalaceonline.com
@@ -23,8 +23,8 @@ https://caesarspalaceonline.com/us/pa/casino
 williamhill.us
 usercontent.koho.ca
 app.koho.ca
-www.koho.ca
 webgateway.koho.ca
+www.koho.ca
 web.koho.ca
 web.koho.ca
 http://api.koho.ca/1.0
@@ -46,9 +46,9 @@ www.dyson.it
 www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
-www.dyson.ie
-api.dyson.it
 www.dyson.ch
+api.dyson.it
+www.dyson.ie
 www.dyson.es
 www.dyson.se
 www.dyson.be
@@ -433,8 +433,8 @@ https://passport.eufy.com/?app=eufy-us
 education.23andme.com
 store.23andme.com
 api.23andme.com
-therapeutics.23andme.com
 medical.23andme.com
+therapeutics.23andme.com
 blog.23andme.com
 research.23andme.com
 mediacenter.23andme.com
@@ -464,8 +464,8 @@ api.mercadopago.com
 api.mercadolibre.com
 www.mercadopago.com.br
 www.mercadolibre.com.ar
-www.mercadolibre.com.pe
 www.mercadolibre.cl
+www.mercadolibre.com.pe
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -799,8 +799,8 @@ developer.visa.com
 yourdomain.freshcaller.com
 yourdomain.freshdesk.com
 yourdomain.freshchat.com
-yourdomain.myfreshworks.com
 yourdomain.freshservice.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -895,13 +895,13 @@ api-eu.floqast.app
 *.hiltonlocalbiz.com
 hiltonbusinessonline.com
 hiltonlocalbiz.com
+*.hiltonhotels.jp
 *.hiltonbusinessonline.com
 hilton.io
-*.hiltonhotels.jp
 hiltonhotels.jp
-*.hilton.io
 hilton.com
 *.hilton.com
+*.hilton.io
 *.hilton.com
 *.hilton.io
 *.hiltonbusinessonline.com
@@ -1053,10 +1053,10 @@ sms.8x8.com
 *.p8t.us
 uc.8x8pilot.com
 work-staging.8x8.com
+voapi.8x8.com
+*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
-*.8x8.id
-voapi.8x8.com
 user-profile-staging.8x8.com
 platform.8x8.com
 sso.8x8pilot.com
@@ -1175,7 +1175,6 @@ www.hotels.com
 www.expediagroup.com
 www.abritel.fr
 *.vrbo.com
-*.expediapartnercentral.com
 www.mrjet.se
 www.vrbo.com
 www.orbitz.com
@@ -1184,6 +1183,7 @@ www.orbitz.com
 www.fewo-direkt.de
 www.expedia.com
 *.expediacruises.com
+*.expediapartnercentral.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1214,8 +1214,8 @@ www.flights.com
 www.expediataap.com
 *.magiceden.workers.dev
 magiceden.io
-*.magiceden.io
 *.magiceden.dev
+*.magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1315,9 +1315,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 www.cheapflights.com
 www.hotelscombined.com
 www.momondo.com
@@ -1344,9 +1344,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
+api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
-api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1604,9 +1604,9 @@ playwonderbox.com
 therecord.media
 geminiadvisory.io
 hatching.io
+app.recordedfuture.com
 id.recordedfuture.com
 api.recordedfuture.com
-app.recordedfuture.com
 securitytrails.com
 www.recordedfuture.com
 tria.ge
@@ -1743,8 +1743,8 @@ api.taxjar.com
 js.stripe.com
 *.touchtechpayments.com
 app.taxjar.com
-*.stripe.com
 api.stripe.com
+*.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1844,8 +1844,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-www.chime.com
 wp-qa.chime.com
+www.chime.com
 *.chimebank.com
 *.1debit.com
 *.chime.com
@@ -2042,11 +2042,11 @@ affiliate-id.tokopedia.com
 www.pangleglobal.com
 live-backstage.tiktok.com
 business.tiktok.com
-partner.tiktokshop.com
 creatormarketplace.tiktok.com
-tiktok.com
-*.tiktokv.com
 ads.tiktok.com
+partner.tiktokshop.com
+*.tiktokv.com
+tiktok.com
 *.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2397,13 +2397,13 @@ amazonpayinsurance.in
 *.amazon.com.mx
 *.amazon.co.uk
 *.amazon.cn
-*.amazon.ca
 *.amazon.es
+*.amazon.ca
 *.amazon.eg
 *.amazon.com.br
 *.amazon.com
-*.amazon.in
 *.amazon.co.jp
+*.amazon.in
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2443,8 +2443,8 @@ www.alibabagroup.com
 *.aliexpress.com
 *.aliyun.com
 *.1688.com
-*.alibaba.com
 *.alibaba-inc.com
+*.alibaba.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2482,8 +2482,8 @@ maria.casino
 *.casinohuone.com
 *.kindredext.net
 *.highrolling.nu
-*.kes.kindredext.net
 *.unibet.fr
+*.kes.kindredext.net
 www.32red.com
 *.bingo.com
 *.kolikkopelit.com
@@ -2595,8 +2595,8 @@ app.nordpass.com
 app.nordpass.com
 *.line.naver.jp
 *.line-apps.com
-*.linecorp.com
 *.line.biz
+*.linecorp.com
 *.line.me
 *.line.me
 *.line-apps.com
@@ -2799,10 +2799,10 @@ booking.cheapcaribbean.com
 res.hyattinclusivecollection.com
 booking.applevacations.com
 login.www.vaxvacationaccess.com
-res.vacations.united.com
-vacations.united.com
-res.vacations.universalstudioshollywood.com
 res.en.travelbrandsagent.com
+res.vacations.united.com
+res.vacations.universalstudioshollywood.com
+vacations.united.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -2961,17 +2961,17 @@ paypal.me
 *.braintree.tools
 *.paylution.com
 api.swiftfinancial.com
-decision.swiftfinancial.com
-partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
-pigeon.swiftfinancial.com
 www.swiftfinancial.com
 swiftfinancial.com
+www.swiftcapital.com
+swiftcapital.com
+decision.swiftfinancial.com
+partner.swiftfinancial.com
+pigeon.swiftfinancial.com
 prequal.swiftfinancial.com
 api.loanbuilder.com
 my.loanbuilder.com
-www.swiftcapital.com
-swiftcapital.com
 py.pl
 loanbuilder.com
 paypalobjects.com
@@ -3024,8 +3024,8 @@ billingsupport.chaturbate.com
 *.mmcdn.com
 *.mmwebc.dev
 *.highwebmedia.com
-*.cb.dev
 chaturbate.com
+*.cb.dev
 *.highwebmedia.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -3087,7 +3087,7 @@ marquee.gs.com
 *.foliodigitalwealth.com
 *.foliofn.com
 *.nnip.com
-api.foliofn.com
+*.marcus.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3125,8 +3125,8 @@ api.foliofn.com
 developer.valvesoftware.com
 playartifact.com
 partner.steampowered.com
-support.steampowered.com
 www.dota2.com
+support.steampowered.com
 help.steampowered.com
 partner.steamgames.com
 www.counter-strike.net
@@ -3154,9 +3154,9 @@ js.crypto.com
 tax.crypto.com
 merchant.crypto.com
 pay.crypto.com
-www.crypto.com
 *.crypto.com
 app.mona.co
+www.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3177,8 +3177,8 @@ bounty-node.rsk.co
 *.deliveroo.com.qa
 *.deliveroo.ae
 *.deliveroo.ie
-*.deliveroo.com.sg
 *.deliveroo.it
+*.deliveroo.com.sg
 *.deliveroo.hk
 *.deliveroo.fr
 *.deliveroo.co.uk
@@ -3361,11 +3361,11 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
 *.tospotify.com
 assets.spotify.com
 *.byspotify.com
@@ -3564,8 +3564,8 @@ classroom.github.com
 education.github.com
 npmjs.com
 api.github.com
-github.com
 *.githubapp.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3593,8 +3593,8 @@ customers.gitlab.com
 docs.gitlab.com
 *.gitlap.com
 *.gitlab.org
-*.gitlab.net
 gitlab.com
+*.gitlab.net
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3673,12 +3673,12 @@ yourcompany.udemy.com
 shopify.plus
 *.shopifycs.com
 *.shopifykloud.com
-shopifyinbox.com
 linkpop.com
 *.shopifycloud.com
-arrive-server.shopifycloud.com
+shopifyinbox.com
 *.shopify.io
 accounts.shopify.com
+arrive-server.shopifycloud.com
 *.shopify.com
 shop.app
 admin.shopify.com
@@ -3724,12 +3724,12 @@ kit.snapchat.com
 business.snapchat.com
 web.snapchat.com
 ads.snapchat.com
-playcanvas.com
 snappublisher.snapchat.com
 map.snapchat.com
 www.bitmoji.com
 accounts.snapchat.com
 login.playcanvas.com
+playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3807,8 +3807,8 @@ support-api.airbnb.com
 www.hoteltonight.com
 www.airbnb.com
 *.airbnb.com
-*.muscache.com
 *.hoteltonight-test.com
+*.muscache.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3981,8 +3981,8 @@ slackatwork.com
 slack-redir.net
 spaces.pm
 www.quip.com
-slack-status.com
 slack-imgs.com
+slack-status.com
 slack.com
 *.quip.com
 api.slack.com
@@ -4261,8 +4261,8 @@ magentocommerce.com
 u.magento.com
 imagine.magento.com
 magentolive.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 marketplace.magento.com
 magento.com
 account.magento.com
