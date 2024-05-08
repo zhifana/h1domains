@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May  8 11:19:10 UTC 2024)
+## Domains with Bounties (Last Updated Wed May  8 11:42:40 UTC 2024)
 ```
 api.americanwagering.com
 *.us.williamhill.com
@@ -23,8 +23,8 @@ https://caesarspalaceonline.com/us/pa/casino
 williamhill.us
 usercontent.koho.ca
 app.koho.ca
-www.koho.ca
 webgateway.koho.ca
+www.koho.ca
 web.koho.ca
 web.koho.ca
 http://api.koho.ca/1.0
@@ -431,8 +431,8 @@ https://passport.eufy.com/?app=eufy-us
 education.23andme.com
 store.23andme.com
 api.23andme.com
-medical.23andme.com
 therapeutics.23andme.com
+medical.23andme.com
 blog.23andme.com
 research.23andme.com
 mediacenter.23andme.com
@@ -458,10 +458,10 @@ www.mercadolibre.com.mx
 www.mercadopago.com.ar
 www.mercadolivre.com.br
 www.mercadolibre.com.uy
-api.mercadopago.com
 www.mercadolibre.cl
-api.mercadolibre.com
+api.mercadopago.com
 www.mercadolibre.com.pe
+api.mercadolibre.com
 www.mercadolibre.com.ar
 www.mercadopago.com.br
 api.mercadopago.com
@@ -494,8 +494,8 @@ supply-xml.booking.com
 portal.taxi.booking.com
 secure-supply-xml.booking.com
 kyc-onboarding.booking.com
-teleport.fareharbor.engineering
 spark.fareharbor.com
+teleport.fareharbor.engineering
 flights.booking.com
 indicative-pricing.taxi.booking.com
 taxi.booking.com
@@ -651,7 +651,6 @@ api.gamma.redoxstage.com
 app.gamma.redoxstage.com
 blob.gamma.redoxstage.com
 clientcert.gamma.redoxstage.com
-dashboard.gamma.redoxstage.com
 eets-sftp-listener.gamma.redoxstage.com
 eets.gamma.redoxstage.com
 evening-earth.gamma.redoxstage.com
@@ -662,6 +661,7 @@ webhooks.gamma.redoxstage.com
 testapp.redoxengine.com
 10x.redoxengine.com
 www.redoxengine.com
+dashboard.gamma.redoxstage.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -846,8 +846,8 @@ developer.mozilla.org
 sync.services.mozilla.com
 hg.mozilla.org
 community-tc.services.mozilla.com
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 firefox-ci-tc.services.mozilla.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 support.mozilla.org
 relay.firefox.com
 www.mozilla.org
@@ -1051,13 +1051,13 @@ sms.8x8.com
 *.p8t.us
 uc.8x8pilot.com
 work-staging.8x8.com
+voapi.8x8.com
+*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
-*.8x8.id
-voapi.8x8.com
 user-profile-staging.8x8.com
-sso.8x8pilot.com
 platform.8x8.com
+sso.8x8pilot.com
 sso.8x8.com
 *.jitsi.net
 *.jit.si
@@ -1095,11 +1095,11 @@ admin.8x8.com
 *.napoleondice.be
 *.napoleongames.be
 *.napoleonsports.be
-*.luckydays.com
-*.superbet.rs
 *.luckydays.ca
 *.superbet.pl
 *.magicjackpot.ro
+*.luckydays.com
+*.superbet.rs
 *.superbet.com
 *.superbet.ro
 *.superbet.ro
@@ -1141,8 +1141,8 @@ dookeydash.com
 *.wenewmoments.com
 *.otherside.xyz
 *.cryptopunks.app
-hv-mtl.com
 *.yuga.com
+hv-mtl.com
 *.boredapeyachtclub.com
 *.yuga.com
 *.yugalabs.io
@@ -1178,10 +1178,10 @@ www.abritel.fr
 www.mrjet.se
 www.vrbo.com
 www.orbitz.com
-www.expedia.com
 *.cheaptickets.com
 *.hotwire.com
 www.fewo-direkt.de
+www.expedia.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1313,9 +1313,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 www.cheapflights.com
 www.hotelscombined.com
 www.momondo.com
@@ -1330,8 +1330,8 @@ www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
 ws.sorare.com
-api.sorare.com
 sorare.com
+api.sorare.com
 sorare.com
 api.sorare.com
 ws.sorare.com
@@ -1736,11 +1736,11 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
-app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
 *.touchtechpayments.com
+app.taxjar.com
 *.stripe.com
 api.stripe.com
 api.stripe.com
@@ -1842,8 +1842,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-www.chime.com
 wp-qa.chime.com
+www.chime.com
 *.chimebank.com
 *.1debit.com
 *.chime.com
@@ -2041,11 +2041,11 @@ www.pangleglobal.com
 creatormarketplace.tiktok.com
 tiktok.com
 *.tiktokv.com
-ads.tiktok.com
 live-backstage.tiktok.com
 business.tiktok.com
 partner.tiktokshop.com
 *.tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2392,8 +2392,8 @@ itv7.itv.com
 *.amazon.com.au
 amazonpayinsurance.in
 *.amazon.it
-*.amazon.com.mx
 *.amazon.co.uk
+*.amazon.com.mx
 *.amazon.cn
 *.amazon.ca
 *.amazon.es
@@ -2593,8 +2593,8 @@ app.nordpass.com
 app.nordpass.com
 *.line.naver.jp
 *.line-apps.com
-*.linecorp.com
 *.line.biz
+*.linecorp.com
 *.line.me
 *.line.me
 *.line-apps.com
@@ -2716,8 +2716,8 @@ app.command.cysiv.com
 api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
-press.priceline.com
 cruises.priceline.com
+press.priceline.com
 www.bookingholdings.com
 flyiin.com
 www.priceline.com
@@ -2894,15 +2894,15 @@ service.racing.fanduel.com
 4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
+mobile-prod.tvg.com
+pabets.tvg.com
+service.tvg.com
+promos.tvg.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
 login-ia.tvg.com
 m.4njbets.tvg.com
 login.tvg.com
-mobile-prod.tvg.com
-pabets.tvg.com
-service.tvg.com
-promos.tvg.com
 www.4njbets.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
@@ -2958,18 +2958,18 @@ https://github.com/matomo-org/docker
 paypal.me
 *.braintree.tools
 *.paylution.com
-api.swiftfinancial.com
-scrutiny.swiftfinancial.com
-www.swiftfinancial.com
 swiftfinancial.com
+prequal.swiftfinancial.com
 www.swiftcapital.com
 swiftcapital.com
-decision.swiftfinancial.com
 partner.swiftfinancial.com
 pigeon.swiftfinancial.com
-prequal.swiftfinancial.com
+scrutiny.swiftfinancial.com
+www.swiftfinancial.com
 api.loanbuilder.com
 my.loanbuilder.com
+api.swiftfinancial.com
+decision.swiftfinancial.com
 py.pl
 loanbuilder.com
 paypalobjects.com
@@ -3122,9 +3122,9 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
-partner.steampowered.com
-www.dota2.com
 support.steampowered.com
+www.dota2.com
+partner.steampowered.com
 help.steampowered.com
 partner.steamgames.com
 www.counter-strike.net
@@ -3221,11 +3221,11 @@ falcon-sandbox.com
 *.preemptsecurity.com
 *.reposify.com
 *.humio.com
-*.preempt.com
 *.crowdstrike.com
+*.preempt.com
 www.crowdstrike.com
-*.bionic.ai
 hybrid-analysis.com
+*.bionic.ai
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3359,11 +3359,11 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
 *.tospotify.com
 assets.spotify.com
 *.byspotify.com
@@ -3675,10 +3675,10 @@ linkpop.com
 *.shopifycloud.com
 shopifyinbox.com
 *.shopify.io
-arrive-server.shopifycloud.com
-your-store.myshopify.com
 partners.shopify.com
 accounts.shopify.com
+arrive-server.shopifycloud.com
+your-store.myshopify.com
 *.shopify.com
 admin.shopify.com
 shop.app
@@ -3725,9 +3725,9 @@ ads.snapchat.com
 accounts.snapchat.com
 snappublisher.snapchat.com
 playcanvas.com
-www.bitmoji.com
 login.playcanvas.com
 map.snapchat.com
+www.bitmoji.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3956,8 +3956,8 @@ commerce.coinbase.com
 cloud.coinbase.com
 nft.coinbase.com
 coinbase.com
-api.coinbase.com
 *.coinbase.com
+api.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -3980,8 +3980,8 @@ slack-redir.net
 spaces.pm
 www.quip.com
 *.quip.com
-slack-status.com
 slack-imgs.com
+slack-status.com
 api.slack.com
 slack.com
 app.slack.com
@@ -4027,8 +4027,8 @@ hackerone.live
 b5s.hackerone-ext-content.com
 ctf.hacker101.com
 api.hackerone.com
-www.hackerone.com
 hackerone.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
