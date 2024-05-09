@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May  9 06:43:33 UTC 2024)
+## Domains with Bounties (Last Updated Thu May  9 07:20:02 UTC 2024)
 ```
 api.americanwagering.com
 *.us.williamhill.com
@@ -382,8 +382,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-www.sheer.com
 my.sheer.com
+www.sheer.com
 www.sheer.com
 my.sheer.com
 www.ddfcontent.com
@@ -433,8 +433,8 @@ https://passport.eufy.com/?app=eufy-us
 education.23andme.com
 store.23andme.com
 api.23andme.com
-therapeutics.23andme.com
 medical.23andme.com
+therapeutics.23andme.com
 blog.23andme.com
 research.23andme.com
 mediacenter.23andme.com
@@ -711,11 +711,11 @@ visa.co.za
 www.fraedom.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
-bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
+bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -798,8 +798,8 @@ developer.authorize.net
 developer.visa.com
 yourdomain.freshcaller.com
 yourdomain.freshdesk.com
-yourdomain.freshchat.com
 yourdomain.freshservice.com
+yourdomain.freshchat.com
 yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -847,9 +847,9 @@ lando.services.mozilla.com
 developer.mozilla.org
 sync.services.mozilla.com
 hg.mozilla.org
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 support.mozilla.org
 relay.firefox.com
 www.mozilla.org
@@ -895,9 +895,9 @@ api-eu.floqast.app
 *.hiltonlocalbiz.com
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-*.hiltonhotels.jp
 *.hiltonbusinessonline.com
 hilton.io
+*.hiltonhotels.jp
 hiltonhotels.jp
 *.hilton.io
 hilton.com
@@ -913,8 +913,8 @@ hiltonbusinessonline.com
 hiltonlocalbiz.com
 hiltonhotels.jp
 *.oklink.com
-*.okcoin.com
 *.okx.com
+*.okcoin.com
 *.okg.com
 *.okx.com
 *.okcoin.com
@@ -1170,14 +1170,14 @@ www.expediaagents.com
 www.ebookers.com
 *.lastminute.com.au
 www.hotels.com
+*.wotif.com
 *.travelocity.ca
 www.expediagroup.com
-*.wotif.com
 www.abritel.fr
 *.vrbo.com
 www.mrjet.se
-www.orbitz.com
 www.vrbo.com
+www.orbitz.com
 *.cheaptickets.com
 www.fewo-direkt.de
 www.expedia.com
@@ -1214,8 +1214,8 @@ www.flights.com
 www.expediataap.com
 *.magiceden.workers.dev
 magiceden.io
-*.magiceden.dev
 *.magiceden.io
+*.magiceden.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1332,8 +1332,8 @@ www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
 ws.sorare.com
-api.sorare.com
 sorare.com
+api.sorare.com
 sorare.com
 api.sorare.com
 ws.sorare.com
@@ -1738,11 +1738,11 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
+app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
 *.touchtechpayments.com
-app.taxjar.com
 api.stripe.com
 *.stripe.com
 api.stripe.com
@@ -1844,8 +1844,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-www.chime.com
 wp-qa.chime.com
+www.chime.com
 *.chimebank.com
 *.1debit.com
 *.chime.com
@@ -1921,10 +1921,10 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-identity.yoti.com
 ccloud.yoti.com
-code.yoti.com
+identity.yoti.com
 core.yoti.com
+code.yoti.com
 api.yoti.com
 hub.yoti.com
 www.yotisign.com
@@ -2018,8 +2018,8 @@ www.pangleglobal.com
 creatormarketplace.tiktok.com
 shop-id.tokopedia.com
 partner.tiktokshop.com
-developers.tiktok.com
 *.tiktok.com
+developers.tiktok.com
 *.tiktokv.com
 live-backstage.tiktok.com
 tiktok.com
@@ -2379,8 +2379,8 @@ amazonpayinsurance.in
 *.amazon.com.br
 *.amazon.co.jp
 *.amazon.es
-*.amazon.in
 *.amazon.com
+*.amazon.in
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2420,8 +2420,8 @@ www.alibabagroup.com
 *.1688.com
 *.alibaba-inc.com
 *.aliexpress.com
-*.alibabacloud.com
 *.alibaba.com
+*.alibabacloud.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2458,8 +2458,8 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.highrolling.nu
-*.unibet.fr
 *.kes.kindredext.net
+*.unibet.fr
 www.32red.com
 *.bingo.com
 *.kolikkopelit.com
@@ -2572,8 +2572,8 @@ app.nordpass.com
 app.nordpass.com
 *.line.naver.jp
 *.line-apps.com
-*.linecorp.com
 *.line.biz
+*.linecorp.com
 *.line.me
 *.line.me
 *.line-apps.com
@@ -2776,10 +2776,10 @@ booking.cheapcaribbean.com
 res.hyattinclusivecollection.com
 booking.applevacations.com
 login.www.vaxvacationaccess.com
-res.en.travelbrandsagent.com
 res.vacations.united.com
-res.vacations.universalstudioshollywood.com
 vacations.united.com
+res.vacations.universalstudioshollywood.com
+res.en.travelbrandsagent.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -2873,18 +2873,18 @@ service.racing.fanduel.com
 4njbets.tvg.com
 4njbets.com
 4njbets.us.betfair.com
-login-4njbets.us.betfair.com
-login-pabets.tvg.com
 mobile-prod.tvg.com
-login-ia.tvg.com
 m.4njbets.tvg.com
 pabets.tvg.com
 login.tvg.com
-login-4ngbets.us.betfair.com
-login.pabets.tvg.com
+www.4njbets.com
 service.tvg.com
 promos.tvg.com
-www.4njbets.com
+login-4njbets.us.betfair.com
+login-pabets.tvg.com
+login-ia.tvg.com
+login-4ngbets.us.betfair.com
+login.pabets.tvg.com
 com.fanduel.android.live
 www.tvg.com
 sportsbook.fanduel.com
@@ -2938,16 +2938,16 @@ paypal.me
 *.braintree.tools
 *.paylution.com
 api.swiftfinancial.com
-decision.swiftfinancial.com
-partner.swiftfinancial.com
-pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 www.swiftfinancial.com
 swiftfinancial.com
-prequal.swiftfinancial.com
-my.loanbuilder.com
 www.swiftcapital.com
 swiftcapital.com
+decision.swiftfinancial.com
+partner.swiftfinancial.com
+pigeon.swiftfinancial.com
+prequal.swiftfinancial.com
+my.loanbuilder.com
 py.pl
 loanbuilder.com
 paypalobjects.com
@@ -3101,9 +3101,9 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
+partner.steampowered.com
 support.steampowered.com
 www.dota2.com
-partner.steampowered.com
 help.steampowered.com
 partner.steamgames.com
 www.counter-strike.net
@@ -3131,9 +3131,9 @@ tax.crypto.com
 auth.crypto.com
 app.mona.co
 merchant.crypto.com
+www.crypto.com
 pay.crypto.com
 *.crypto.com
-www.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3200,8 +3200,8 @@ falcon-sandbox.com
 *.preemptsecurity.com
 *.reposify.com
 *.humio.com
-*.preempt.com
 *.crowdstrike.com
+*.preempt.com
 www.crowdstrike.com
 *.bionic.ai
 hybrid-analysis.com
@@ -3283,8 +3283,8 @@ api.grabpay.com
 *.taralite.com
 *.grabtaxi.com
 *.ovo.id
-kartaview.org
 *.grab.com
+kartaview.org
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3312,9 +3312,9 @@ bma.badoo.com
 translate.badoo.com
 ccardsus1.badoo.com
 bma.bumble.com
+ccardseu1.badoo.com
 us1.badoo.com
 eu1.badoo.com
-ccardseu1.badoo.com
 badoocdn.com
 hotornot.com
 chatdate.app
@@ -3699,10 +3699,10 @@ forum.playcanvas.com
 kit.snapchat.com
 business.snapchat.com
 snappublisher.snapchat.com
-map.snapchat.com
-www.bitmoji.com
 accounts.snapchat.com
 login.playcanvas.com
+map.snapchat.com
+www.bitmoji.com
 playcanvas.com
 web.snapchat.com
 ads.snapchat.com
@@ -3785,8 +3785,8 @@ support-api.airbnb.com
 *.muscache.com
 www.airbnb.com
 *.airbnb.com
-www.hoteltonight.com
 *.hoteltonight.com
+www.hoteltonight.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3959,8 +3959,8 @@ slackatwork.com
 slack-redir.net
 spaces.pm
 www.quip.com
-slack-status.com
 slack-imgs.com
+slack-status.com
 slack.com
 *.quip.com
 api.slack.com
@@ -4006,9 +4006,9 @@ ctf.hacker101.com
 www.hackerone.com
 hackerone.live
 hackerone-user-content.com
+api.hackerone.com
 hackerone.com
 app.pullrequest.com
-api.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4239,8 +4239,8 @@ magentocommerce.com
 u.magento.com
 imagine.magento.com
 magentolive.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 marketplace.magento.com
 magento.com
 account.magento.com
