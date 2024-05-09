@@ -2,14 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May  9 21:19:48 UTC 2024)
+## Domains with Bounties (Last Updated Thu May  9 21:41:17 UTC 2024)
 ```
-*.us.williamhill.com
 api.americanwagering.com
-caesarspalaceonline.com
+*.us.williamhill.com
 williamhill.us
-*.williamhill.us
+caesarspalaceonline.com
 sportsbook.caesars.com
+*.williamhill.us
 *.us.williamhill.com
 *.williamhill.us
 sportsbook.caesars.com
@@ -46,9 +46,9 @@ www.dyson.it
 www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
+www.dyson.ch
 api.dyson.it
 www.dyson.ie
-www.dyson.ch
 www.dyson.es
 www.dyson.se
 www.dyson.be
@@ -433,8 +433,8 @@ https://passport.eufy.com/?app=eufy-us
 education.23andme.com
 store.23andme.com
 api.23andme.com
-medical.23andme.com
 therapeutics.23andme.com
+medical.23andme.com
 blog.23andme.com
 research.23andme.com
 mediacenter.23andme.com
@@ -453,7 +453,6 @@ research.23andme.com
 www.mercadopago.com.pe
 www.mercadopago.com.uy
 www.mercadopago.com.co
-www.mercadopago.com.mx
 www.mercadolibre.com.co
 www.mercadolibre.com.mx
 api.mercadopago.com
@@ -463,9 +462,10 @@ www.mercadolibre.cl
 www.mercadolibre.com.uy
 www.mercadopago.com.ar
 www.mercadopago.cl
-www.mercadolibre.com.pe
 www.mercadolivre.com.br
+www.mercadolibre.com.pe
 www.mercadolibre.com.ar
+www.mercadopago.com.mx
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -496,8 +496,8 @@ supply-xml.booking.com
 portal.taxi.booking.com
 secure-supply-xml.booking.com
 kyc-onboarding.booking.com
-teleport.fareharbor.engineering
 spark.fareharbor.com
+teleport.fareharbor.engineering
 flights.booking.com
 indicative-pricing.taxi.booking.com
 marketing.fareharbor.com
@@ -517,7 +517,7 @@ chat.booking.com
 fhdn.fareharbor.com
 compass.fareharbor.com
 *.booking.com
-sites.fareharbor.com
+taxi.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -799,8 +799,8 @@ developer.visa.com
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshservice.com
-yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -847,9 +847,9 @@ lando.services.mozilla.com
 developer.mozilla.org
 sync.services.mozilla.com
 hg.mozilla.org
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 support.mozilla.org
 relay.firefox.com
 www.mozilla.org
@@ -913,8 +913,8 @@ hiltonbusinessonline.com
 hiltonlocalbiz.com
 hiltonhotels.jp
 *.oklink.com
-*.okg.com
 *.okcoin.com
+*.okg.com
 *.okx.com
 *.okx.com
 *.okcoin.com
@@ -1058,8 +1058,8 @@ platform.8x8pilot.com
 *.8x8.id
 voapi.8x8.com
 user-profile-staging.8x8.com
-sso.8x8pilot.com
 platform.8x8.com
+sso.8x8pilot.com
 sso.8x8.com
 *.jitsi.net
 *.jit.si
@@ -1097,11 +1097,11 @@ admin.8x8.com
 *.napoleondice.be
 *.napoleongames.be
 *.napoleonsports.be
+*.luckydays.com
+*.superbet.rs
 *.luckydays.ca
 *.superbet.pl
 *.magicjackpot.ro
-*.luckydays.com
-*.superbet.rs
 *.superbet.ro
 *.superbet.com
 *.superbet.ro
@@ -1315,9 +1315,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 www.cheapflights.com
 www.hotelscombined.com
 www.momondo.com
@@ -1399,8 +1399,8 @@ charts.etoro.com
 aggregator.etoro.com
 www.etoro.com
 delta.app
-etoropartners.com
 bullsheet.me
+etoropartners.com
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -1440,8 +1440,8 @@ shoppers.instacart.com
 *.instacart.tools
 admin.instacart.com
 *.instacart.com
-api.instacart.com
 www.instacart.com
+api.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1604,9 +1604,9 @@ playwonderbox.com
 therecord.media
 geminiadvisory.io
 hatching.io
-app.recordedfuture.com
 id.recordedfuture.com
 api.recordedfuture.com
+app.recordedfuture.com
 securitytrails.com
 www.recordedfuture.com
 tria.ge
@@ -1646,10 +1646,10 @@ www.fedramp.gov
 marketplace.fedramp.gov
 federalist.18f.gov
 federalist-docs.18f.gov
+cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
-cloud.gov
 *.login.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
@@ -1723,9 +1723,9 @@ https://www.xvideos.net/app/
 *.elasticnet.co
 *.elastic.co
 *.swiftype.com
-*.found.io
-cloud.elastic.co
 *.elstc.co
+cloud.elastic.co
+*.found.io
 www.elastic.co
 *.elastic.co
 *.found.io
@@ -1738,11 +1738,11 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
-app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
 *.touchtechpayments.com
+app.taxjar.com
 api.stripe.com
 *.stripe.com
 api.stripe.com
@@ -1782,8 +1782,8 @@ matrix.redditspace.com
 accounts.reddit.com
 www.spiketrap.io
 www.reddit.com
-*.reddit.com
 oauth.reddit.com
+*.reddit.com
 new.reddit.com
 *.redditinc.com
 ads.reddit.com
@@ -1844,8 +1844,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-www.chime.com
 wp-qa.chime.com
+www.chime.com
 *.chimebank.com
 *.1debit.com
 *.chime.com
@@ -1900,8 +1900,8 @@ internal-api-lark-api.larksuite.com
 hackers_chosendomain.larksuite.com
 api.larksuite.com
 open.larksuite.com
-app.larksuite.com
 larksuite.com
+app.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2017,13 +2017,13 @@ shop-id.tokopedia.com
 developers.tiktok.com
 live-backstage.tiktok.com
 business.tiktok.com
-seller-id.tokopedia.com
+creatormarketplace.tiktok.com
 tiktok.com
 *.tiktokv.com
+shop.tiktok.com
+seller-id.tokopedia.com
 *.tiktok.com
 partner.tiktokshop.com
-creatormarketplace.tiktok.com
-shop.tiktok.com
 ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2377,8 +2377,8 @@ amazonpayinsurance.in
 *.amazon.eg
 *.amazon.com.br
 *.amazon.co.jp
-*.amazon.es
 *.amazon.com
+*.amazon.es
 *.amazon.ca
 *.amazon.in
 *.amazon.cl
@@ -2458,8 +2458,8 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.highrolling.nu
-*.unibet.fr
 *.kes.kindredext.net
+*.unibet.fr
 www.32red.com
 *.bingo.com
 *.kolikkopelit.com
@@ -2505,8 +2505,8 @@ passwordchallenge.marriott.com
 traveler.marriott.com
 homes-and-villas.marriott.com
 *uat.marriott.com
-careers.marriott.com
 www.marriott.com
+careers.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2540,8 +2540,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.guilded.gg
-*.roblox.com
 *.rbx.com
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2572,8 +2572,8 @@ app.nordpass.com
 app.nordpass.com
 *.line.naver.jp
 *.line-apps.com
-*.line.biz
 *.linecorp.com
+*.line.biz
 *.line.me
 *.line.me
 *.line-apps.com
@@ -2938,16 +2938,16 @@ paypal.me
 *.braintree.tools
 *.paylution.com
 api.swiftfinancial.com
-decision.swiftfinancial.com
-partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
-pigeon.swiftfinancial.com
 www.swiftfinancial.com
 swiftfinancial.com
-prequal.swiftfinancial.com
-my.loanbuilder.com
 www.swiftcapital.com
 swiftcapital.com
+decision.swiftfinancial.com
+partner.swiftfinancial.com
+pigeon.swiftfinancial.com
+prequal.swiftfinancial.com
+my.loanbuilder.com
 py.pl
 loanbuilder.com
 paypalobjects.com
@@ -3101,9 +3101,9 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
-support.steampowered.com
-www.dota2.com
 partner.steampowered.com
+www.dota2.com
+support.steampowered.com
 help.steampowered.com
 partner.steamgames.com
 www.counter-strike.net
@@ -3154,8 +3154,8 @@ bounty-node.rsk.co
 *.deliveroo.com.qa
 *.deliveroo.ae
 *.deliveroo.ie
-*.deliveroo.it
 *.deliveroo.com.sg
+*.deliveroo.it
 *.deliveroo.hk
 *.deliveroo.fr
 *.deliveroo.co.uk
@@ -3200,11 +3200,11 @@ falcon-sandbox.com
 *.preemptsecurity.com
 *.reposify.com
 *.humio.com
-*.preempt.com
 *.crowdstrike.com
+*.preempt.com
 www.crowdstrike.com
-*.bionic.ai
 hybrid-analysis.com
+*.bionic.ai
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3229,9 +3229,9 @@ privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
 yrityspalvelu.tapiola.fi
 verkkopalvelu.tapiola.fi
+api.lahitapiola.fi
 ext-gw.lahitapiola.fi
 *.lahitapiola.fi
-api.lahitapiola.fi
 *.beta.lahitapiola.fi
 www.lahitapiola.fi
 *.lahitapiolarahoitus.fi
@@ -3341,9 +3341,9 @@ getofficial.co
 *.avecspotify.com
 *.atspotify.com
 *.enspotify.com
-*.tospotify.com
 *.fromspotify.com
 *.forspotify.com
+*.tospotify.com
 assets.spotify.com
 *.byspotify.com
 backstage.io
@@ -3460,8 +3460,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
 www.starbucks.com.sg
+gift.starbucks.co.jp
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3657,9 +3657,9 @@ arrive-server.shopifycloud.com
 shop.app
 accounts.shopify.com
 your-store.myshopify.com
-partners.shopify.com
 *.shopify.io
 *.shopify.com
+partners.shopify.com
 admin.shopify.com
 *.shopifycs.com
 *.shopify.io
@@ -3702,10 +3702,10 @@ www.bitmoji.com
 login.playcanvas.com
 businesshelp.snapchat.com
 app.snapchat.com
-business.snapchat.com
 playcanvas.com
-web.snapchat.com
+business.snapchat.com
 accounts.snapchat.com
+web.snapchat.com
 ads.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
@@ -3743,7 +3743,6 @@ fw-update.ubnt.com
 ispdesign.ui.com
 careers.ui.com
 unifi.ui.com
-uisp.com
 *.ubnt.com
 *.ui.com
 store.ui.com
@@ -4005,10 +4004,10 @@ b5s.hackerone-ext-content.com
 hackerone-user-content.com
 hackerone.live
 app.pullrequest.com
-www.hackerone.com
 ctf.hacker101.com
 api.hackerone.com
 hackerone.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
