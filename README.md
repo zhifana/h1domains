@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May  9 04:24:04 UTC 2024)
+## Domains with Bounties (Last Updated Thu May  9 04:43:37 UTC 2024)
 ```
 api.americanwagering.com
 *.us.williamhill.com
@@ -421,8 +421,8 @@ payments.hostinger.com
 cpanel.hostinger.com
 *.000webhost.com
 builder.hostinger.com
-www.hostinger.com
 hpanel.hostinger.com
+www.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -503,17 +503,17 @@ indicative-pricing.taxi.booking.com
 taxi.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
-taxis.booking.com
 demo.fareharbor.com
+taxis.booking.com
 sites.fareharbor.com
 widget.rentalcars.com
 cars.booking.com
 careers.booking.com
 accommodations.booking.com
 www.fareharbor.com
-paymentcomponent.booking.com
 experiences.booking.com
 account.booking.com
+paymentcomponent.booking.com
 secure.booking.com
 booking.com
 fhdn.fareharbor.com
@@ -798,9 +798,9 @@ developer.authorize.net
 developer.visa.com
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
-yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshchat.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -847,8 +847,8 @@ lando.services.mozilla.com
 developer.mozilla.org
 sync.services.mozilla.com
 hg.mozilla.org
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 firefox-ci-tc.services.mozilla.com
 support.mozilla.org
 relay.firefox.com
@@ -895,9 +895,9 @@ api-eu.floqast.app
 *.hiltonlocalbiz.com
 hiltonbusinessonline.com
 hiltonlocalbiz.com
+*.hiltonhotels.jp
 *.hiltonbusinessonline.com
 hilton.io
-*.hiltonhotels.jp
 hiltonhotels.jp
 *.hilton.io
 hilton.com
@@ -1053,13 +1053,13 @@ sms.8x8.com
 *.p8t.us
 uc.8x8pilot.com
 work-staging.8x8.com
-voapi.8x8.com
-*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
+*.8x8.id
+voapi.8x8.com
 user-profile-staging.8x8.com
-platform.8x8.com
 sso.8x8pilot.com
+platform.8x8.com
 sso.8x8.com
 *.jitsi.net
 *.jit.si
@@ -1143,8 +1143,8 @@ dookeydash.com
 *.wenewmoments.com
 *.otherside.xyz
 *.cryptopunks.app
-hv-mtl.com
 *.yuga.com
+hv-mtl.com
 *.boredapeyachtclub.com
 *.yuga.com
 *.yugalabs.io
@@ -1180,10 +1180,10 @@ www.vrbo.com
 www.orbitz.com
 *.cheaptickets.com
 www.fewo-direkt.de
-*.hotwire.com
 www.expedia.com
 *.expediacruises.com
 *.expediapartnercentral.com
+*.hotwire.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1228,8 +1228,8 @@ api.zerobounce.in
 zerobounce.net
 pb.deribit.com
 metrics.deribit.com
-test.deribit.com
 tools.deribit.com
+test.deribit.com
 *.deribit.com
 insights.deribit.com
 *.deribit.com
@@ -1338,8 +1338,8 @@ sorare.com
 api.sorare.com
 ws.sorare.com
 *.sheingsp.com
-*.shein.com
 *.romwe.com
+*.shein.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
@@ -1604,9 +1604,9 @@ playwonderbox.com
 therecord.media
 geminiadvisory.io
 hatching.io
+app.recordedfuture.com
 id.recordedfuture.com
 api.recordedfuture.com
-app.recordedfuture.com
 securitytrails.com
 www.recordedfuture.com
 tria.ge
@@ -1646,10 +1646,10 @@ www.fedramp.gov
 marketplace.fedramp.gov
 federalist.18f.gov
 federalist-docs.18f.gov
-cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
+cloud.gov
 *.login.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
@@ -1725,8 +1725,8 @@ www.elastic.co
 *.elastic.co
 *.elstc.co
 *.swiftype.com
-*.found.io
 cloud.elastic.co
+*.found.io
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1738,11 +1738,11 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
+app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
 *.touchtechpayments.com
-app.taxjar.com
 api.stripe.com
 *.stripe.com
 api.stripe.com
@@ -1900,8 +1900,8 @@ internal-api-lark-api.larksuite.com
 hackers_chosendomain.larksuite.com
 api.larksuite.com
 open.larksuite.com
-larksuite.com
 app.larksuite.com
+larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -1945,8 +1945,8 @@ internal-docs.netlify.com
 netlify-rum.netlify.app
 screenshot-proxy.netlify.app
 *.services.netlify.com
-internal.netlify.com
 *.onegraph.com
+internal.netlify.com
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2018,8 +2018,8 @@ www.pangleglobal.com
 creatormarketplace.tiktok.com
 shop-id.tokopedia.com
 partner.tiktokshop.com
-*.tiktok.com
 developers.tiktok.com
+*.tiktok.com
 *.tiktokv.com
 live-backstage.tiktok.com
 tiktok.com
@@ -2076,8 +2076,8 @@ www.figma.com
 api.figma.com
 3d.cs.money
 blog.cs.money
-support.cs.money
 wiki.cs.money
+support.cs.money
 cs.money
 cs.money
 support.cs.money
@@ -2458,8 +2458,8 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.highrolling.nu
-*.unibet.fr
 *.kes.kindredext.net
+*.unibet.fr
 www.32red.com
 *.bingo.com
 *.kolikkopelit.com
@@ -2863,26 +2863,26 @@ grammarly.ai
 *.grammarly.com
 grammarly.ai
 *.mgmt.fndlsb.net
-*.prod.fdbox.net
 *.prd.fndlsb.net
+*.prod.fdbox.net
 *inf.fndlsb.net
 *racing.fanduel.com
 4njbets.tvgnetwork.com
 b2b.tvgnetwork.com
 service.racing.fanduel.com
-4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
+4njbets.us.betfair.com
 mobile-prod.tvg.com
+m.4njbets.tvg.com
 pabets.tvg.com
+login.tvg.com
+www.4njbets.com
 service.tvg.com
 promos.tvg.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
 login-ia.tvg.com
-m.4njbets.tvg.com
-login.tvg.com
-www.4njbets.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
 com.fanduel.android.live
@@ -3001,8 +3001,8 @@ billingsupport.chaturbate.com
 *.mmcdn.com
 *.mmwebc.dev
 *.highwebmedia.com
-chaturbate.com
 *.cb.dev
+chaturbate.com
 *.highwebmedia.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -3063,7 +3063,7 @@ marquee.gs.com
 *.advisorsolutions.gs.com
 *.foliodigitalwealth.com
 *.foliofn.com
-*.nnip.com
+api.foliofn.com
 *.marcus.com
 *.goldmansachs.com
 *.gs.com
@@ -3149,8 +3149,8 @@ https://crypto.com/price
 bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
-*.deliveroo.com.kw
 *.deliveroo.com.hk
+*.deliveroo.com.kw
 *.deliveroo.com.qa
 *.deliveroo.ae
 *.deliveroo.ie
@@ -3200,11 +3200,11 @@ falcon-sandbox.com
 *.preemptsecurity.com
 *.reposify.com
 *.humio.com
-*.crowdstrike.com
 *.preempt.com
+*.crowdstrike.com
 www.crowdstrike.com
-hybrid-analysis.com
 *.bionic.ai
+hybrid-analysis.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3229,9 +3229,9 @@ privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
 yrityspalvelu.tapiola.fi
 verkkopalvelu.tapiola.fi
-api.lahitapiola.fi
 ext-gw.lahitapiola.fi
 *.lahitapiola.fi
+api.lahitapiola.fi
 *.beta.lahitapiola.fi
 www.lahitapiola.fi
 *.lahitapiolarahoitus.fi
@@ -3283,8 +3283,8 @@ api.grabpay.com
 *.taralite.com
 *.grabtaxi.com
 *.ovo.id
-*.grab.com
 kartaview.org
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3657,9 +3657,9 @@ arrive-server.shopifycloud.com
 *.shopify.io
 *.shopify.com
 accounts.shopify.com
-shop.app
 admin.shopify.com
 partners.shopify.com
+shop.app
 your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
@@ -3699,10 +3699,10 @@ forum.playcanvas.com
 kit.snapchat.com
 business.snapchat.com
 snappublisher.snapchat.com
-accounts.snapchat.com
-login.playcanvas.com
 map.snapchat.com
 www.bitmoji.com
+accounts.snapchat.com
+login.playcanvas.com
 playcanvas.com
 web.snapchat.com
 ads.snapchat.com
@@ -3785,8 +3785,8 @@ support-api.airbnb.com
 *.muscache.com
 www.airbnb.com
 *.airbnb.com
-*.hoteltonight.com
 www.hoteltonight.com
+*.hoteltonight.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3959,8 +3959,8 @@ slackatwork.com
 slack-redir.net
 spaces.pm
 www.quip.com
-slack-status.com
 slack-imgs.com
+slack-status.com
 slack.com
 *.quip.com
 api.slack.com
