@@ -2,10 +2,10 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 10 12:29:15 UTC 2024)
+## Domains with Bounties (Last Updated Fri May 10 12:55:40 UTC 2024)
 ```
-*.us.williamhill.com
 api.americanwagering.com
+*.us.williamhill.com
 williamhill.us
 *.williamhill.us
 sportsbook.caesars.com
@@ -23,8 +23,8 @@ https://caesarspalaceonline.com/us/pa/casino
 williamhill.us
 usercontent.koho.ca
 app.koho.ca
-web.koho.ca
 www.koho.ca
+web.koho.ca
 webgateway.koho.ca
 web.koho.ca
 http://api.koho.ca/1.0
@@ -46,9 +46,9 @@ www.dyson.it
 www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
+www.dyson.ch
 api.dyson.it
 www.dyson.ie
-www.dyson.ch
 www.dyson.es
 www.dyson.se
 www.dyson.be
@@ -502,8 +502,8 @@ flights.booking.com
 indicative-pricing.taxi.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
-demo.fareharbor.com
 taxis.booking.com
+demo.fareharbor.com
 widget.rentalcars.com
 cars.booking.com
 careers.booking.com
@@ -512,9 +512,9 @@ www.fareharbor.com
 paymentcomponent.booking.com
 booking.com
 *.rentalcars.com
-compass.fareharbor.com
-*.booking.com
 secure.booking.com
+*.booking.com
+compass.fareharbor.com
 experiences.booking.com
 account.booking.com
 admin.booking.com
@@ -799,8 +799,8 @@ developer.visa.com
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshchat.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -846,8 +846,8 @@ lando.services.mozilla.com
 developer.mozilla.org
 sync.services.mozilla.com
 hg.mozilla.org
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 firefox-ci-tc.services.mozilla.com
 support.mozilla.org
 relay.firefox.com
@@ -1057,8 +1057,8 @@ platform.8x8pilot.com
 *.chalet.8x8.com
 *.8x8.id
 user-profile-staging.8x8.com
-sso.8x8pilot.com
 platform.8x8.com
+sso.8x8pilot.com
 sso.8x8.com
 *.jitsi.net
 *.jit.si
@@ -1304,8 +1304,8 @@ checkout.razorpay.com
 invoices.razorpay.com
 payroll.razorpay.com
 x.razorpay.com
-api.linkedin.com
 business.linkedin.com
+api.linkedin.com
 www.linkedin.com
 www.linkedin.com
 api.linkedin.com
@@ -1603,9 +1603,9 @@ playwonderbox.com
 therecord.media
 geminiadvisory.io
 hatching.io
+app.recordedfuture.com
 id.recordedfuture.com
 api.recordedfuture.com
-app.recordedfuture.com
 securitytrails.com
 www.recordedfuture.com
 tria.ge
@@ -1645,10 +1645,10 @@ www.fedramp.gov
 marketplace.fedramp.gov
 federalist.18f.gov
 federalist-docs.18f.gov
-cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
+cloud.gov
 *.login.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
@@ -1737,11 +1737,11 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
+app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
 *.touchtechpayments.com
-app.taxjar.com
 api.stripe.com
 *.stripe.com
 api.stripe.com
@@ -1922,8 +1922,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.com
 identity.yoti.com
 ccloud.yoti.com
-code.yoti.com
 core.yoti.com
+code.yoti.com
 api.yoti.com
 www.yotisign.com
 hub.yoti.com
@@ -1944,8 +1944,8 @@ internal-docs.netlify.com
 netlify-rum.netlify.app
 screenshot-proxy.netlify.app
 *.services.netlify.com
-*.onegraph.com
 internal.netlify.com
+*.onegraph.com
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2075,8 +2075,8 @@ www.figma.com
 api.figma.com
 3d.cs.money
 blog.cs.money
-wiki.cs.money
 support.cs.money
+wiki.cs.money
 cs.money
 cs.money
 support.cs.money
@@ -2370,8 +2370,8 @@ itv7.itv.com
 *.amazon.com.au
 amazonpayinsurance.in
 *.amazon.it
-*.amazon.com.mx
 *.amazon.co.uk
+*.amazon.com.mx
 *.amazon.cn
 *.amazon.eg
 *.amazon.com.br
@@ -2457,8 +2457,8 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.highrolling.nu
-*.kes.kindredext.net
 *.unibet.fr
+*.kes.kindredext.net
 www.32red.com
 *.bingo.com
 *.kolikkopelit.com
@@ -2504,8 +2504,8 @@ passwordchallenge.marriott.com
 traveler.marriott.com
 homes-and-villas.marriott.com
 *uat.marriott.com
-careers.marriott.com
 www.marriott.com
+careers.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2571,8 +2571,8 @@ app.nordpass.com
 app.nordpass.com
 *.line.naver.jp
 *.line-apps.com
-*.linecorp.com
 *.line.biz
+*.linecorp.com
 *.line.me
 *.line.me
 *.line-apps.com
@@ -2775,10 +2775,10 @@ booking.cheapcaribbean.com
 res.hyattinclusivecollection.com
 booking.applevacations.com
 login.www.vaxvacationaccess.com
-res.en.travelbrandsagent.com
 res.vacations.united.com
-res.vacations.universalstudioshollywood.com
 vacations.united.com
+res.vacations.universalstudioshollywood.com
+res.en.travelbrandsagent.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -2937,16 +2937,16 @@ paypal.me
 *.braintree.tools
 *.paylution.com
 api.swiftfinancial.com
-decision.swiftfinancial.com
-partner.swiftfinancial.com
-pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 www.swiftfinancial.com
 swiftfinancial.com
-prequal.swiftfinancial.com
-my.loanbuilder.com
 www.swiftcapital.com
 swiftcapital.com
+decision.swiftfinancial.com
+partner.swiftfinancial.com
+pigeon.swiftfinancial.com
+prequal.swiftfinancial.com
+my.loanbuilder.com
 py.pl
 loanbuilder.com
 paypalobjects.com
@@ -3100,9 +3100,9 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
-support.steampowered.com
-www.dota2.com
 partner.steampowered.com
+www.dota2.com
+support.steampowered.com
 help.steampowered.com
 partner.steamgames.com
 www.counter-strike.net
@@ -3126,10 +3126,10 @@ help.steampowered.com
 developer.valvesoftware.com
 *.mona.co
 js.crypto.com
-pay.crypto.com
-*.crypto.com
 auth.crypto.com
 app.mona.co
+pay.crypto.com
+*.crypto.com
 tax.crypto.com
 www.crypto.com
 merchant.crypto.com
@@ -3153,8 +3153,8 @@ bounty-node.rsk.co
 *.deliveroo.com.qa
 *.deliveroo.ae
 *.deliveroo.ie
-*.deliveroo.com.sg
 *.deliveroo.it
+*.deliveroo.com.sg
 *.deliveroo.hk
 *.deliveroo.fr
 *.deliveroo.co.uk
@@ -3337,12 +3337,12 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.tospotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
+*.tospotify.com
 assets.spotify.com
 *.byspotify.com
 api.spotify.com
@@ -3608,8 +3608,8 @@ cashier.deriv.com
 app.deriv.com
 oauth.deriv.com
 *.deriv.cloud
-*.deriv.com
 *.binary.com
+*.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3655,10 +3655,10 @@ shopifyinbox.com
 arrive-server.shopifycloud.com
 shop.app
 accounts.shopify.com
-partners.shopify.com
-*.shopify.io
 *.shopify.com
+*.shopify.io
 admin.shopify.com
+partners.shopify.com
 your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
@@ -3783,8 +3783,8 @@ support-api.airbnb.com
 *.muscache.com
 *.airbnb.com
 www.airbnb.com
-www.hoteltonight.com
 *.hoteltonight.com
+www.hoteltonight.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
