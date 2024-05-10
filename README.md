@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 10 20:14:28 UTC 2024)
+## Domains with Bounties (Last Updated Fri May 10 20:41:12 UTC 2024)
 ```
 api.americanwagering.com
 *.williamhill.us
@@ -46,9 +46,9 @@ www.dyson.it
 www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
+www.dyson.ch
 api.dyson.it
 www.dyson.ie
-www.dyson.ch
 www.dyson.es
 www.dyson.se
 www.dyson.be
@@ -460,11 +460,11 @@ www.mercadopago.com.br
 www.mercadolibre.com.uy
 www.mercadopago.cl
 www.mercadolibre.com.pe
-www.mercadolivre.com.br
 www.mercadopago.com.mx
 www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadolibre.cl
+www.mercadolivre.com.br
 www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -502,8 +502,8 @@ flights.booking.com
 indicative-pricing.taxi.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
-taxis.booking.com
 demo.fareharbor.com
+taxis.booking.com
 widget.rentalcars.com
 cars.booking.com
 careers.booking.com
@@ -512,8 +512,8 @@ www.fareharbor.com
 paymentcomponent.booking.com
 booking.com
 *.rentalcars.com
-secure.booking.com
 compass.fareharbor.com
+secure.booking.com
 experiences.booking.com
 taxi.booking.com
 fhdn.fareharbor.com
@@ -561,16 +561,16 @@ compass.fareharbor.com
 fhdn.fareharbor.com
 *.bybit.com
 *.bybit.com
-api.au.frontegg.com
 portal.au.frontegg.com
+api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 api2.frontapp.com
 app.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -684,7 +684,6 @@ fhir.redoxengine.com
 explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
-bm.visa.com
 cw.visa.com
 ht.visa.com
 visa.com.ru
@@ -732,6 +731,7 @@ aw.visa.com
 sandbox.authorize.net
 www.practicalmoneyskills.com
 www.visa.com.br
+visa.com.au
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -895,9 +895,9 @@ api-eu.floqast.app
 *.hiltonlocalbiz.com
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-*.hiltonhotels.jp
 *.hiltonbusinessonline.com
 hilton.io
+*.hiltonhotels.jp
 hiltonhotels.jp
 *.hilton.io
 hilton.com
@@ -1140,8 +1140,8 @@ dookeydash.com
 *.boredapeyachtclub.com
 *.wenewmoments.com
 *.cryptopunks.app
-hv-mtl.com
 *.yuga.com
+hv-mtl.com
 *.10ktf.com
 *.otherside.xyz
 *.boredapeyachtclub.com
@@ -1155,16 +1155,16 @@ hv-mtl.com
 *.wenewmoments.com
 dookeydash.com
 hv-mtl.com
+*.lastminute.co.nz
 www.stayz.com.au
 www.hotwirepartnercentral.com
-*.lastminute.co.nz
 *.travelocity.com
 www.flights.com
 www.bookabach.co.nz
 www.expediapartnersolutions.com
-www.expediataap.com
-www.expediaagents.com
 www.ebookers.com
+www.expediaagents.com
+www.expediataap.com
 *.lastminute.com.au
 www.hotels.com
 *.wotif.com
@@ -1177,8 +1177,8 @@ www.orbitz.com
 www.fewo-direkt.de
 www.expedia.com
 www.ebookers.fi
-*.expediapartnercentral.com
 www.expediagroup.com
+*.expediapartnercentral.com
 www.mrjet.se
 *.expediacruises.com
 *.hotwire.com
@@ -1343,9 +1343,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
+api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
-api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1397,8 +1397,8 @@ rankings.etoro.com
 charts.etoro.com
 aggregator.etoro.com
 www.etoro.com
-bullsheet.me
 etoropartners.com
+bullsheet.me
 delta.app
 www.etoro.com
 etoropartners.com
@@ -1779,8 +1779,8 @@ api.reddit.com
 matrix.redditspace.com
 accounts.reddit.com
 www.spiketrap.io
-*.reddit.com
 oauth.reddit.com
+*.reddit.com
 new.reddit.com
 *.redditinc.com
 ads.reddit.com
@@ -1843,8 +1843,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-wp-qa.chime.com
 www.chime.com
+wp-qa.chime.com
 *.chimebank.com
 *.1debit.com
 *.chime.com
@@ -1899,8 +1899,8 @@ internal-api-lark-api.larksuite.com
 hackers_chosendomain.larksuite.com
 api.larksuite.com
 open.larksuite.com
-app.larksuite.com
 larksuite.com
+app.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -1920,8 +1920,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-ccloud.yoti.com
 identity.yoti.com
+ccloud.yoti.com
 core.yoti.com
 code.yoti.com
 api.yoti.com
@@ -1944,8 +1944,8 @@ internal-docs.netlify.com
 netlify-rum.netlify.app
 screenshot-proxy.netlify.app
 *.services.netlify.com
-internal.netlify.com
 *.onegraph.com
+internal.netlify.com
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2005,7 +2005,6 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-effecthouse.tiktok.com
 careers.tiktok.com
 fp-sg.tiktokv.com
 academy-outbound-ads.tiktok.com
@@ -2014,16 +2013,17 @@ www.pangleglobal.com
 shop-id.tokopedia.com
 developers.tiktok.com
 live-backstage.tiktok.com
-partner.tiktokshop.com
-ads.tiktok.com
-*.tiktokv.com
-business.tiktok.com
 seller-id.tokopedia.com
+tiktok.com
+partner.tiktokshop.com
 shop.tiktok.com
 creatormarketplace.tiktok.com
+ads.tiktok.com
+*.tiktokv.com
 affiliate-id.tokopedia.com
-tiktok.com
 *.tiktok.com
+business.tiktok.com
+effecthouse.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2376,10 +2376,10 @@ amazonpayinsurance.in
 *.amazon.com.br
 *.amazon.co.jp
 *.amazon.es
-*.amazon.ca
 *.amazon.cn
-*.amazon.in
 *.amazon.com
+*.amazon.in
+*.amazon.ca
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2419,8 +2419,8 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.1688.com
 *.alibabacloud.com
-*.alibaba.com
 *.Daraz.com
+*.alibaba.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2462,8 +2462,8 @@ maria.casino
 *.kolikkopelit.com
 *.mariacasino.com
 www.32red.com
-*.kindredext.net
 *.bingo.com
+*.kindredext.net
 *.unibet.com
 *.unibet.com
 *.unibet.fr
@@ -2504,8 +2504,8 @@ passwordchallenge.marriott.com
 traveler.marriott.com
 homes-and-villas.marriott.com
 *uat.marriott.com
-www.marriott.com
 careers.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2571,8 +2571,8 @@ app.nordpass.com
 app.nordpass.com
 *.line.naver.jp
 *.line-apps.com
-*.linecorp.com
 *.line.biz
+*.linecorp.com
 *.line.me
 *.line.me
 *.line-apps.com
@@ -2694,8 +2694,8 @@ app.command.cysiv.com
 api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
-cruises.priceline.com
 press.priceline.com
+cruises.priceline.com
 www.bookingholdings.com
 flyiin.com
 www.priceline.com
@@ -2775,10 +2775,10 @@ booking.cheapcaribbean.com
 res.hyattinclusivecollection.com
 booking.applevacations.com
 login.www.vaxvacationaccess.com
-res.en.travelbrandsagent.com
 res.vacations.united.com
-res.vacations.universalstudioshollywood.com
 vacations.united.com
+res.vacations.universalstudioshollywood.com
+res.en.travelbrandsagent.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -2939,8 +2939,8 @@ paypal.me
 api.swiftfinancial.com
 decision.swiftfinancial.com
 partner.swiftfinancial.com
-scrutiny.swiftfinancial.com
 pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftfinancial.com
 swiftfinancial.com
 prequal.swiftfinancial.com
@@ -3199,11 +3199,11 @@ falcon-sandbox.com
 *.preemptsecurity.com
 *.reposify.com
 *.humio.com
-*.preempt.com
 *.crowdstrike.com
+*.preempt.com
 www.crowdstrike.com
-*.bionic.ai
 hybrid-analysis.com
+*.bionic.ai
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3231,8 +3231,8 @@ api.lahitapiola.fi
 www.lahitapiola.fi
 asiointi.lahitapiola.fi
 tunnistus.lahitapiola.fi
-secure.lahitapiola.fi
 yrityspalvelu.tapiola.fi
+secure.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3340,9 +3340,9 @@ getofficial.co
 *.avecspotify.com
 *.atspotify.com
 *.enspotify.com
+*.tospotify.com
 *.fromspotify.com
 *.forspotify.com
-*.tospotify.com
 assets.spotify.com
 *.byspotify.com
 api.spotify.com
@@ -3418,8 +3418,8 @@ store.rockstargames.com
 lifeinvader.com
 circolocorecords.com/
 prod.ros.rockstargames.com
-socialclub.rockstargames.com
 *.rockstargames.com
+socialclub.rockstargames.com
 support.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
@@ -3556,8 +3556,8 @@ npmjs.org
 *.uberinternal.com
 *.uberinternal.com
 *ubereats.com
-api.mapbox.com
 www.mapbox.com
+api.mapbox.com
 www.mapbox.com
 https://docs.mapbox.com/api/
 api.mapbox.com
@@ -3778,13 +3778,13 @@ next.airbnb.com
 api.airbnb.com
 support-api.airbnb.com
 *.airbnb-aws.com
-*.withairbnb.com
 *.hoteltonight-test.com
 *.muscache.com
-*.airbnb.com
 www.hoteltonight.com
-www.airbnb.com
+*.airbnb.com
 *.hoteltonight.com
+www.airbnb.com
+*.withairbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3958,8 +3958,8 @@ slackatwork.com
 slack-redir.net
 spaces.pm
 www.quip.com
-slack-status.com
 slack-imgs.com
+slack-status.com
 *.quip.com
 api.slack.com
 slack.com
