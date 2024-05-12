@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 12 13:17:56 UTC 2024)
+## Domains with Bounties (Last Updated Sun May 12 13:40:05 UTC 2024)
 ```
 api.americanwagering.com
 sportsbook.caesars.com
@@ -46,9 +46,9 @@ www.dyson.it
 www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
-www.dyson.ch
-api.dyson.it
 www.dyson.ie
+api.dyson.it
+www.dyson.ch
 www.dyson.es
 www.dyson.se
 www.dyson.be
@@ -433,8 +433,8 @@ https://passport.eufy.com/?app=eufy-us
 education.23andme.com
 store.23andme.com
 api.23andme.com
-medical.23andme.com
 therapeutics.23andme.com
+medical.23andme.com
 blog.23andme.com
 research.23andme.com
 auth.23andme.com
@@ -459,13 +459,13 @@ www.mercadopago.com.br
 www.mercadolibre.com.uy
 www.mercadopago.cl
 www.mercadolibre.com.pe
-www.mercadolibre.cl
-www.mercadopago.com.mx
 www.mercadopago.com.ar
-api.mercadopago.com
+www.mercadopago.com.mx
+www.mercadolibre.cl
 www.mercadolivre.com.br
 www.mercadopago.com.pe
 www.mercadolibre.com.ar
+api.mercadopago.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -709,11 +709,11 @@ www.visa.co.ve
 visa.co.za
 www.fraedom.com
 www.practicalmoneyskills.org
-bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
+bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -845,8 +845,8 @@ lando.services.mozilla.com
 developer.mozilla.org
 sync.services.mozilla.com
 hg.mozilla.org
-community-tc.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
+community-tc.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 support.mozilla.org
 relay.firefox.com
@@ -1040,8 +1040,8 @@ jobs.kiwi.com
 auth.skypicker.com
 tequila.kiwi.com
 www.kiwi.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1053,9 +1053,9 @@ sms.8x8.com
 *.p8t.us
 uc.8x8pilot.com
 work-staging.8x8.com
+*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
-*.8x8.id
 user-profile-staging.8x8.com
 platform.8x8.com
 sso.8x8pilot.com
@@ -1096,10 +1096,10 @@ admin.8x8.com
 *.napoleondice.be
 *.napoleongames.be
 *.napoleonsports.be
-*.luckydays.ca
-*.magicjackpot.ro
 *.luckydays.com
 *.superbet.rs
+*.luckydays.ca
+*.magicjackpot.ro
 *.superbet.ro
 *.superbet.pl
 *.superbet.com
@@ -1155,14 +1155,14 @@ hv-mtl.com
 *.wenewmoments.com
 dookeydash.com
 hv-mtl.com
-*.lastminute.co.nz
 www.stayz.com.au
 www.hotwirepartnercentral.com
+*.lastminute.co.nz
 www.flights.com
 www.bookabach.co.nz
 www.expediapartnersolutions.com
-www.expediaagents.com
 www.expediataap.com
+www.expediaagents.com
 *.lastminute.com.au
 www.hotels.com
 *.wotif.com
@@ -1178,11 +1178,11 @@ www.mrjet.se
 *.carrentals.com
 *.travelocity.com
 www.ebookers.com
-www.expediagroup.com
 *.expediacruises.com
 *.hotwire.com
 www.abritel.fr
 *.expediapartnercentral.com
+www.expediagroup.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1227,8 +1227,8 @@ api.zerobounce.in
 zerobounce.net
 pb.deribit.com
 metrics.deribit.com
-test.deribit.com
 tools.deribit.com
+test.deribit.com
 *.deribit.com
 insights.deribit.com
 *.deribit.com
@@ -1304,8 +1304,8 @@ checkout.razorpay.com
 invoices.razorpay.com
 payroll.razorpay.com
 x.razorpay.com
-business.linkedin.com
 api.linkedin.com
+business.linkedin.com
 www.linkedin.com
 www.linkedin.com
 api.linkedin.com
@@ -1343,9 +1343,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
+api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
-api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1397,8 +1397,8 @@ rankings.etoro.com
 charts.etoro.com
 aggregator.etoro.com
 www.etoro.com
-etoropartners.com
 bullsheet.me
+etoropartners.com
 delta.app
 www.etoro.com
 etoropartners.com
@@ -1500,8 +1500,8 @@ upld.krisp.ai
 admin.wickr.com
 admin.wickr.com
 *.clubhouseapi.com
-*.clubhouse.com
 *.joinclubhouse.com
+*.clubhouse.com
 *.clubhouse.com
 *.joinclubhouse.com
 *.clubhouseapi.com
@@ -1603,8 +1603,8 @@ playwonderbox.com
 therecord.media
 geminiadvisory.io
 hatching.io
-app.recordedfuture.com
 id.recordedfuture.com
+app.recordedfuture.com
 securitytrails.com
 www.recordedfuture.com
 tria.ge
@@ -1737,11 +1737,11 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
-app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
 *.touchtechpayments.com
+app.taxjar.com
 *.stripe.com
 api.stripe.com
 api.stripe.com
@@ -1899,8 +1899,8 @@ internal-api-lark-api.larksuite.com
 hackers_chosendomain.larksuite.com
 api.larksuite.com
 open.larksuite.com
-app.larksuite.com
 larksuite.com
+app.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2244,8 +2244,8 @@ social.playstation.com
 my.account.sony.com
 *.sonyentertainmentnetwork.com
 *.playstation.net
-ca.account.sony.com
 api.direct.playstation.com
+ca.account.sony.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2461,10 +2461,10 @@ maria.casino
 *.unibet.fr
 *.kolikkopelit.com
 *.mariacasino.com
-*.unibet.com
 www.32red.com
-*.kindredext.net
 *.bingo.com
+*.kindredext.net
+*.unibet.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2570,8 +2570,8 @@ app.nordpass.com
 *.nordvpn.com
 app.nordpass.com
 *.line.naver.jp
-*.line.biz
 *.linecorp.com
+*.line.biz
 *.line-apps.com
 *.line.me
 *.line.me
@@ -2777,8 +2777,8 @@ booking.applevacations.com
 login.www.vaxvacationaccess.com
 res.en.travelbrandsagent.com
 res.vacations.united.com
-vacations.united.com
 res.vacations.universalstudioshollywood.com
+vacations.united.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -3100,9 +3100,9 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
+partner.steampowered.com
 support.steampowered.com
 www.dota2.com
-partner.steampowered.com
 help.steampowered.com
 partner.steamgames.com
 www.counter-strike.net
@@ -3337,12 +3337,12 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.tospotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
+*.tospotify.com
 assets.spotify.com
 *.byspotify.com
 api.spotify.com
@@ -3418,8 +3418,8 @@ store.rockstargames.com
 lifeinvader.com
 circolocorecords.com/
 prod.ros.rockstargames.com
-*.rockstargames.com
 support.rockstargames.com
+*.rockstargames.com
 socialclub.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
@@ -3459,8 +3459,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-www.starbucks.com.sg
 gift.starbucks.co.jp
+www.starbucks.com.sg
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3498,12 +3498,12 @@ api.blockchain.info
 www.blockchain.info
 api.blockchain.info
 ws.blockchain.info
-basicattentiontoken.org
 creators.basicattentiontoken.org
 search.brave.com
 brave.com
 talk.brave.com
 account.brave.com
+basicattentiontoken.org
 brave.com
 basicattentiontoken.org
 creators.basicattentiontoken.org
@@ -3702,8 +3702,8 @@ app.snapchat.com
 accounts.snapchat.com
 ads.snapchat.com
 developer.playcanvas.com
-login.playcanvas.com
 playcanvas.com
+login.playcanvas.com
 web.snapchat.com
 business.snapchat.com
 accounts.snapchat.com
@@ -3998,16 +3998,16 @@ reviewer.pullrequest.com
 b5s.hackerone-ext-content.com
 hackerone-user-content.com
 hackerone.live
-profile-photos-us-east-2.hackerone-user-content.com
 www.wearehackerone.com
+profile-photos-us-east-2.hackerone-user-content.com
 a5s.hackerone-ext-content.com
 app.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-hackerone.com
+api.hackerone.com
 www.hackerone.com
 ctf.hacker101.com
-api.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4238,8 +4238,8 @@ magentocommerce.com
 u.magento.com
 imagine.magento.com
 magentolive.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 marketplace.magento.com
 magento.com
 account.magento.com
