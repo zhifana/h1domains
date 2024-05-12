@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 12 12:48:47 UTC 2024)
+## Domains with Bounties (Last Updated Sun May 12 13:17:56 UTC 2024)
 ```
 api.americanwagering.com
 sportsbook.caesars.com
@@ -433,8 +433,8 @@ https://passport.eufy.com/?app=eufy-us
 education.23andme.com
 store.23andme.com
 api.23andme.com
-therapeutics.23andme.com
 medical.23andme.com
+therapeutics.23andme.com
 blog.23andme.com
 research.23andme.com
 auth.23andme.com
@@ -709,11 +709,11 @@ www.visa.co.ve
 visa.co.za
 www.fraedom.com
 www.practicalmoneyskills.org
+bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
-bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -797,10 +797,10 @@ sandbox.authorize.net
 developer.authorize.net
 developer.visa.com
 yourdomain.freshcaller.com
-yourdomain.freshchat.com
 yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
+yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -846,8 +846,8 @@ developer.mozilla.org
 sync.services.mozilla.com
 hg.mozilla.org
 community-tc.services.mozilla.com
-firefox-ci-tc.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
+firefox-ci-tc.services.mozilla.com
 support.mozilla.org
 relay.firefox.com
 www.mozilla.org
@@ -855,8 +855,8 @@ addons.allizom.org
 monitor.mozilla.org
 profiler.firefox.com
 bugzilla.mozilla.org
-accounts.firefox.com
 crash-stats.allizom.org
+accounts.firefox.com
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
@@ -895,9 +895,9 @@ api-eu.floqast.app
 *.hiltonlocalbiz.com
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-*.hiltonhotels.jp
 *.hiltonbusinessonline.com
 hilton.io
+*.hiltonhotels.jp
 hiltonhotels.jp
 *.hilton.io
 hilton.com
@@ -1057,8 +1057,8 @@ platform.8x8pilot.com
 *.chalet.8x8.com
 *.8x8.id
 user-profile-staging.8x8.com
-sso.8x8pilot.com
 platform.8x8.com
+sso.8x8pilot.com
 sso.8x8.com
 *.jitsi.net
 *.jit.si
@@ -1155,21 +1155,21 @@ hv-mtl.com
 *.wenewmoments.com
 dookeydash.com
 hv-mtl.com
+*.lastminute.co.nz
 www.stayz.com.au
 www.hotwirepartnercentral.com
-*.lastminute.co.nz
 www.flights.com
 www.bookabach.co.nz
 www.expediapartnersolutions.com
-www.expediataap.com
 www.expediaagents.com
+www.expediataap.com
 *.lastminute.com.au
 www.hotels.com
-*.travelocity.ca
 *.wotif.com
+*.travelocity.ca
 *.vrbo.com
-www.orbitz.com
 www.vrbo.com
+www.orbitz.com
 *.cheaptickets.com
 www.fewo-direkt.de
 www.expedia.com
@@ -1278,8 +1278,8 @@ royal.checksw.com
 *.superpal.io/*
 m.trendyol.com
 www.dolap.com
-www.trendyol-milla.com
 www.trendyol.com
+www.trendyol-milla.com
 www.trendyol.com
 m.trendyol.com
 www.dolap.com
@@ -1304,8 +1304,8 @@ checkout.razorpay.com
 invoices.razorpay.com
 payroll.razorpay.com
 x.razorpay.com
-api.linkedin.com
 business.linkedin.com
+api.linkedin.com
 www.linkedin.com
 www.linkedin.com
 api.linkedin.com
@@ -1314,9 +1314,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 www.cheapflights.com
 www.hotelscombined.com
 www.momondo.com
@@ -1397,8 +1397,8 @@ rankings.etoro.com
 charts.etoro.com
 aggregator.etoro.com
 www.etoro.com
-bullsheet.me
 etoropartners.com
+bullsheet.me
 delta.app
 www.etoro.com
 etoropartners.com
@@ -1645,10 +1645,10 @@ www.fedramp.gov
 marketplace.fedramp.gov
 federalist.18f.gov
 federalist-docs.18f.gov
-cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
+cloud.gov
 *.login.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
@@ -1778,8 +1778,8 @@ api.reddit.com
 matrix.redditspace.com
 accounts.reddit.com
 www.spiketrap.io
-oauth.reddit.com
 *.reddit.com
+oauth.reddit.com
 new.reddit.com
 *.redditinc.com
 ads.reddit.com
@@ -1843,8 +1843,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-wp-qa.chime.com
 www.chime.com
+wp-qa.chime.com
 *.chimebank.com
 *.1debit.com
 *.chime.com
@@ -1899,8 +1899,8 @@ internal-api-lark-api.larksuite.com
 hackers_chosendomain.larksuite.com
 api.larksuite.com
 open.larksuite.com
-larksuite.com
 app.larksuite.com
+larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -1944,8 +1944,8 @@ internal-docs.netlify.com
 netlify-rum.netlify.app
 screenshot-proxy.netlify.app
 *.services.netlify.com
-internal.netlify.com
 *.onegraph.com
+internal.netlify.com
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2011,9 +2011,9 @@ academy-outbound-ads.tiktok.com
 www.pangleglobal.com
 shop-id.tokopedia.com
 developers.tiktok.com
-seller-id.tokopedia.com
 shop.tiktok.com
 creatormarketplace.tiktok.com
+seller-id.tokopedia.com
 business.tiktok.com
 effecthouse.tiktok.com
 tiktok.com
@@ -2369,9 +2369,8 @@ itv7.itv.com
 *.amazon.fr
 *.amazon.com.au
 amazonpayinsurance.in
-*.amazon.it
-*.amazon.co.uk
 *.amazon.com.mx
+*.amazon.co.uk
 *.amazon.eg
 *.amazon.com.br
 *.amazon.co.jp
@@ -2380,6 +2379,7 @@ amazonpayinsurance.in
 *.amazon.cn
 *.amazon.com
 *.amazon.in
+*.amazon.it
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2570,8 +2570,8 @@ app.nordpass.com
 *.nordvpn.com
 app.nordpass.com
 *.line.naver.jp
-*.linecorp.com
 *.line.biz
+*.linecorp.com
 *.line-apps.com
 *.line.me
 *.line.me
@@ -2891,9 +2891,9 @@ ia.tvg.com
 us.tvg.com
 fanduel.com
 fdbox.net
-*.numberfire.com
 *.east.fdbox.net
 tvg.com
+*.numberfire.com
 *racing.fanduel.com
 *.east.fdbox.net
 *.prod.fdbox.net
@@ -3126,10 +3126,10 @@ help.steampowered.com
 developer.valvesoftware.com
 *.mona.co
 js.crypto.com
-auth.crypto.com
-app.mona.co
 pay.crypto.com
 *.crypto.com
+auth.crypto.com
+app.mona.co
 tax.crypto.com
 www.crypto.com
 merchant.crypto.com
@@ -3199,8 +3199,8 @@ falcon-sandbox.com
 *.preemptsecurity.com
 *.reposify.com
 *.humio.com
-*.preempt.com
 *.crowdstrike.com
+*.preempt.com
 www.crowdstrike.com
 hybrid-analysis.com
 *.bionic.ai
@@ -3224,8 +3224,8 @@ sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
 verkkopalvelu.tapiola.fi
-api.lahitapiola.fi
 ext-gw.lahitapiola.fi
+api.lahitapiola.fi
 *.beta.lahitapiola.fi
 www.lahitapiola.fi
 asiointi.lahitapiola.fi
@@ -3337,12 +3337,12 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.atspotify.com
 *.avecspotify.com
+*.atspotify.com
 *.enspotify.com
-*.forspotify.com
-*.fromspotify.com
 *.tospotify.com
+*.fromspotify.com
+*.forspotify.com
 assets.spotify.com
 *.byspotify.com
 api.spotify.com
@@ -3459,8 +3459,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
 www.starbucks.com.sg
+gift.starbucks.co.jp
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3556,8 +3556,8 @@ npmjs.org
 *.uberinternal.com
 *.uberinternal.com
 *ubereats.com
-www.mapbox.com
 api.mapbox.com
+www.mapbox.com
 www.mapbox.com
 https://docs.mapbox.com/api/
 api.mapbox.com
@@ -3649,14 +3649,14 @@ yourcompany.udemy.com
 shopify.plus
 *.shopifycs.com
 *.shopifykloud.com
-shopifyinbox.com
 *.shopifycloud.com
+shopifyinbox.com
 arrive-server.shopifycloud.com
 shop.app
 *.shopify.io
+partners.shopify.com
 your-store.myshopify.com
 *.shopify.com
-partners.shopify.com
 linkpop.com
 accounts.shopify.com
 admin.shopify.com
@@ -3702,8 +3702,8 @@ app.snapchat.com
 accounts.snapchat.com
 ads.snapchat.com
 developer.playcanvas.com
-playcanvas.com
 login.playcanvas.com
+playcanvas.com
 web.snapchat.com
 business.snapchat.com
 accounts.snapchat.com
@@ -3962,8 +3962,8 @@ slack-imgs.com
 slack-status.com
 *.quip.com
 api.slack.com
-app.slack.com
 slack.com
+app.slack.com
 slack.com
 api.slack.com
 slackb.com
@@ -3998,16 +3998,16 @@ reviewer.pullrequest.com
 b5s.hackerone-ext-content.com
 hackerone-user-content.com
 hackerone.live
-ctf.hacker101.com
 profile-photos-us-east-2.hackerone-user-content.com
 www.wearehackerone.com
 a5s.hackerone-ext-content.com
 app.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-api.hackerone.com
-www.hackerone.com
 hackerone.com
+www.hackerone.com
+ctf.hacker101.com
+api.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
