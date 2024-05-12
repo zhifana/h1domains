@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 12 20:41:34 UTC 2024)
+## Domains with Bounties (Last Updated Sun May 12 21:17:09 UTC 2024)
 ```
 api.americanwagering.com
 sportsbook.caesars.com
@@ -46,9 +46,9 @@ www.dyson.it
 www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
+www.dyson.ch
 api.dyson.it
 www.dyson.ie
-www.dyson.ch
 www.dyson.es
 www.dyson.se
 www.dyson.be
@@ -458,8 +458,8 @@ www.mercadopago.com.br
 www.mercadolibre.com.uy
 www.mercadopago.cl
 www.mercadolibre.com.pe
-www.mercadopago.com.ar
 www.mercadopago.com.mx
+www.mercadopago.com.ar
 www.mercadolibre.cl
 www.mercadolivre.com.br
 www.mercadopago.com.pe
@@ -496,14 +496,14 @@ supply-xml.booking.com
 portal.taxi.booking.com
 secure-supply-xml.booking.com
 kyc-onboarding.booking.com
-teleport.fareharbor.engineering
 spark.fareharbor.com
+teleport.fareharbor.engineering
 flights.booking.com
 indicative-pricing.taxi.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
-taxis.booking.com
 demo.fareharbor.com
+taxis.booking.com
 widget.rentalcars.com
 cars.booking.com
 careers.booking.com
@@ -517,7 +517,7 @@ taxi.booking.com
 fhdn.fareharbor.com
 sites.fareharbor.com
 admin.booking.com
-booking.com
+chat.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -846,8 +846,8 @@ developer.mozilla.org
 sync.services.mozilla.com
 hg.mozilla.org
 community-tc.services.mozilla.com
-firefox-ci-tc.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
+firefox-ci-tc.services.mozilla.com
 support.mozilla.org
 relay.firefox.com
 www.mozilla.org
@@ -1174,13 +1174,13 @@ www.expedia.com
 www.ebookers.fi
 www.mrjet.se
 *.carrentals.com
-*.travelocity.com
 www.ebookers.com
 *.expediacruises.com
+*.travelocity.com
 www.abritel.fr
 *.expediapartnercentral.com
-www.vrbo.com
 www.expediagroup.com
+www.vrbo.com
 www.expediataap.com
 *.hotwire.com
 *.vrbo.com
@@ -1314,9 +1314,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
-www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
+www.swoodoo.com
 www.cheapflights.com
 www.hotelscombined.com
 www.momondo.com
@@ -1500,8 +1500,8 @@ upld.krisp.ai
 admin.wickr.com
 admin.wickr.com
 *.clubhouseapi.com
-*.joinclubhouse.com
 *.clubhouse.com
+*.joinclubhouse.com
 *.clubhouse.com
 *.joinclubhouse.com
 *.clubhouseapi.com
@@ -1899,8 +1899,8 @@ internal-api-lark-api.larksuite.com
 hackers_chosendomain.larksuite.com
 api.larksuite.com
 open.larksuite.com
-app.larksuite.com
 larksuite.com
+app.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2020,8 +2020,8 @@ pay.tokopediax.com
 *.tiktok.com
 partner.tiktokshop.com
 live-backstage.tiktok.com
-ads.tiktok.com
 affiliate-id.tokopedia.com
+ads.tiktok.com
 seller-id.tokopedia.com
 *.tiktokv.com
 *.tiktok.com
@@ -2075,8 +2075,8 @@ www.figma.com
 api.figma.com
 3d.cs.money
 blog.cs.money
-support.cs.money
 wiki.cs.money
+support.cs.money
 cs.money
 cs.money
 support.cs.money
@@ -2457,14 +2457,14 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.highrolling.nu
-*.kes.kindredext.net
 *.unibet.fr
+*.kes.kindredext.net
 *.kolikkopelit.com
 *.mariacasino.com
+*.unibet.com
 www.32red.com
 *.kindredext.net
 *.bingo.com
-*.unibet.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2570,8 +2570,8 @@ app.nordpass.com
 *.nordvpn.com
 app.nordpass.com
 *.line.naver.jp
-*.line.biz
 *.linecorp.com
+*.line.biz
 *.line-apps.com
 *.line.me
 *.line.me
@@ -2694,8 +2694,8 @@ app.command.cysiv.com
 api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
-press.priceline.com
 cruises.priceline.com
+press.priceline.com
 www.bookingholdings.com
 flyiin.com
 www.priceline.com
@@ -2775,10 +2775,10 @@ booking.cheapcaribbean.com
 res.hyattinclusivecollection.com
 booking.applevacations.com
 login.www.vaxvacationaccess.com
-res.en.travelbrandsagent.com
 res.vacations.united.com
-res.vacations.universalstudioshollywood.com
 vacations.united.com
+res.vacations.universalstudioshollywood.com
+res.en.travelbrandsagent.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -2938,8 +2938,8 @@ paypal.me
 *.paylution.com
 decision.swiftfinancial.com
 partner.swiftfinancial.com
-scrutiny.swiftfinancial.com
 pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftfinancial.com
 swiftfinancial.com
 prequal.swiftfinancial.com
@@ -3100,9 +3100,9 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
-support.steampowered.com
-www.dota2.com
 partner.steampowered.com
+www.dota2.com
+support.steampowered.com
 help.steampowered.com
 partner.steamgames.com
 www.counter-strike.net
@@ -3148,8 +3148,8 @@ https://crypto.com/price
 bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
-*.deliveroo.com.hk
 *.deliveroo.com.kw
+*.deliveroo.com.hk
 *.deliveroo.com.qa
 *.deliveroo.ae
 *.deliveroo.ie
@@ -3337,11 +3337,11 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.atspotify.com
 *.avecspotify.com
+*.atspotify.com
 *.enspotify.com
-*.forspotify.com
 *.fromspotify.com
+*.forspotify.com
 *.tospotify.com
 assets.spotify.com
 *.byspotify.com
@@ -3536,8 +3536,8 @@ moneybirdstorage.com
 npmjs.org
 *.githubusercontent.com
 education.github.com
-*.githubapp.com
 classroom.github.com
+*.githubapp.com
 api.github.com
 github.com
 npmjs.com
@@ -3556,8 +3556,8 @@ npmjs.org
 *.uberinternal.com
 *.uberinternal.com
 *ubereats.com
-api.mapbox.com
 www.mapbox.com
+api.mapbox.com
 www.mapbox.com
 https://docs.mapbox.com/api/
 api.mapbox.com
@@ -3607,9 +3607,9 @@ smarttrader.deriv.com
 derivws.com
 cashier.deriv.com
 *.derivws.com
-api.deriv.com
 *.deriv.com
 app.deriv.com
+api.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3649,14 +3649,14 @@ yourcompany.udemy.com
 shopify.plus
 *.shopifycs.com
 *.shopifykloud.com
-*.shopifycloud.com
 shopifyinbox.com
+*.shopifycloud.com
 arrive-server.shopifycloud.com
 shop.app
 *.shopify.io
-partners.shopify.com
 your-store.myshopify.com
 *.shopify.com
+partners.shopify.com
 linkpop.com
 accounts.shopify.com
 admin.shopify.com
@@ -3702,8 +3702,8 @@ app.snapchat.com
 accounts.snapchat.com
 ads.snapchat.com
 developer.playcanvas.com
-login.playcanvas.com
 playcanvas.com
+login.playcanvas.com
 web.snapchat.com
 business.snapchat.com
 accounts.snapchat.com
