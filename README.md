@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 13 14:43:17 UTC 2024)
+## Domains with Bounties (Last Updated Mon May 13 15:21:31 UTC 2024)
 ```
 api.americanwagering.com
 sportsbook.caesars.com
@@ -420,8 +420,8 @@ app.dynamic.xyz
 cpanel.hostinger.com
 payments.hostinger.com
 builder.hostinger.com
-www.hostinger.com
 *.000webhost.com
+www.hostinger.com
 hpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
@@ -458,8 +458,8 @@ www.mercadopago.com.br
 www.mercadolibre.com.uy
 www.mercadopago.cl
 www.mercadolibre.com.pe
-www.mercadopago.com.mx
 www.mercadopago.com.ar
+www.mercadopago.com.mx
 www.mercadolivre.com.br
 api.mercadopago.com
 api.mercadolibre.com
@@ -496,8 +496,8 @@ supply-xml.booking.com
 portal.taxi.booking.com
 secure-supply-xml.booking.com
 kyc-onboarding.booking.com
-teleport.fareharbor.engineering
 spark.fareharbor.com
+teleport.fareharbor.engineering
 flights.booking.com
 indicative-pricing.taxi.booking.com
 marketing.fareharbor.com
@@ -516,8 +516,8 @@ taxi.booking.com
 fhdn.fareharbor.com
 sites.fareharbor.com
 admin.booking.com
-booking.com
 chat.booking.com
+booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -938,12 +938,12 @@ new-order.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
 auth.indrive.tech
 ci.indrive.dev
-*.indriverapp.com
 cargo.indrive.com
 argocd.indrive.dev
 volans.tech
 *.indriver.com
 *.indrive.com
+*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1053,12 +1053,12 @@ sms.8x8.com
 *.p8t.us
 uc.8x8pilot.com
 work-staging.8x8.com
+*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
-*.8x8.id
 user-profile-staging.8x8.com
-sso.8x8pilot.com
 platform.8x8.com
+sso.8x8pilot.com
 sso.8x8.com
 *.jitsi.net
 *.jit.si
@@ -1097,10 +1097,10 @@ admin.8x8.com
 *.napoleondice.be
 *.napoleongames.be
 *.napoleonsports.be
-*.luckydays.ca
-*.magicjackpot.ro
 *.luckydays.com
 *.superbet.rs
+*.luckydays.ca
+*.magicjackpot.ro
 *.superbet.ro
 *.superbet.com
 *.superbet.pl
@@ -1171,12 +1171,12 @@ www.orbitz.com
 www.fewo-direkt.de
 www.expedia.com
 www.ebookers.fi
-www.expediagroup.com
 www.vrbo.com
+www.expediagroup.com
 *.cheaptickets.com
 www.ebookers.com
-www.expediataap.com
 *.hotwire.com
+www.expediataap.com
 *.travelocity.com
 www.abritel.fr
 *.expediacruises.com
@@ -1344,9 +1344,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
-api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
+api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1738,11 +1738,11 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
-app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
 *.touchtechpayments.com
+app.taxjar.com
 *.stripe.com
 api.stripe.com
 api.stripe.com
@@ -1779,8 +1779,8 @@ api.reddit.com
 matrix.redditspace.com
 accounts.reddit.com
 www.spiketrap.io
-*.reddit.com
 oauth.reddit.com
+*.reddit.com
 new.reddit.com
 *.redditinc.com
 ads.reddit.com
@@ -1844,8 +1844,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-wp-qa.chime.com
 www.chime.com
+wp-qa.chime.com
 *.chimebank.com
 *.1debit.com
 *.chime.com
@@ -1900,8 +1900,8 @@ internal-api-lark-api.larksuite.com
 hackers_chosendomain.larksuite.com
 api.larksuite.com
 open.larksuite.com
-app.larksuite.com
 larksuite.com
+app.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -1923,8 +1923,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.com
 identity.yoti.com
 ccloud.yoti.com
-code.yoti.com
 core.yoti.com
+code.yoti.com
 www.yotisign.com
 hub.yoti.com
 api.yoti.com
@@ -2237,7 +2237,6 @@ mkapi.mackeeper.com
 mackeeper.com
 wallets.api.playstation.com
 transact.playstation.com
-my.playstation.com
 *.api.playstation.com
 direct.playstation.com
 social.playstation.com
@@ -2247,6 +2246,7 @@ my.account.sony.com
 api.direct.playstation.com
 ca.account.sony.com
 store.playstation.com
+my.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2571,10 +2571,10 @@ app.nordpass.com
 *.nordvpn.com
 app.nordpass.com
 *.line.naver.jp
-*.linecorp.com
 *.line.me
 *.line.biz
 *.line-apps.com
+*.linecorp.com
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -2605,10 +2605,10 @@ accounts.pixiv.net
 sketch.pixiv.net
 neoket.net
 hub.vroid.com
-vroid.com
 www.pixiv.net
 booth.pm
 *.fanbox.cc
+vroid.com
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -2937,16 +2937,16 @@ https://github.com/matomo-org/docker
 paypal.me
 *.braintree.tools
 *.paylution.com
-scrutiny.swiftfinancial.com
-www.swiftfinancial.com
 swiftfinancial.com
+prequal.swiftfinancial.com
 www.swiftcapital.com
 swiftcapital.com
-decision.swiftfinancial.com
 partner.swiftfinancial.com
 pigeon.swiftfinancial.com
-prequal.swiftfinancial.com
+scrutiny.swiftfinancial.com
+www.swiftfinancial.com
 my.loanbuilder.com
+decision.swiftfinancial.com
 py.pl
 paypalobjects.com
 www.loanbuilder.com
@@ -2955,12 +2955,12 @@ my.swiftfinancial.com
 *.braintree-api.com
 api.loanbuilder.com
 *.venmo.com
-sandbox.braintreegateway.com
 *.paypalcorp.com
 *.hyperwallet.com
-loanbuilder.com
-api.swiftfinancial.com
+sandbox.braintreegateway.com
 *.braintreepayments.com
+api.swiftfinancial.com
+loanbuilder.com
 *.braintreegateway.com
 *.paypal.com
 *.xoom.com
@@ -3063,8 +3063,8 @@ marquee.gs.com
 *.advisorsolutions.gs.com
 *.foliodigitalwealth.com
 *.foliofn.com
-api.foliofn.com
 *.marcus.com
+api.foliofn.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3126,9 +3126,9 @@ playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
 js.crypto.com
-pay.crypto.com
 auth.crypto.com
 app.mona.co
+pay.crypto.com
 www.crypto.com
 merchant.crypto.com
 *.crypto.com
@@ -3228,11 +3228,11 @@ verkkopalvelu.tapiola.fi
 api.lahitapiola.fi
 ext-gw.lahitapiola.fi
 *.beta.lahitapiola.fi
+www.lahitapiola.fi
 asiointi.lahitapiola.fi
 tunnistus.lahitapiola.fi
 yrityspalvelu.tapiola.fi
 secure.lahitapiola.fi
-www.lahitapiola.fi
 *.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
@@ -3312,9 +3312,9 @@ bma.badoo.com
 translate.badoo.com
 ccardsus1.badoo.com
 bma.bumble.com
-ccardseu1.badoo.com
 us1.badoo.com
 eu1.badoo.com
+ccardseu1.badoo.com
 badoocdn.com
 hotornot.com
 chatdate.app
@@ -3338,11 +3338,11 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
 *.tospotify.com
 assets.spotify.com
 *.withspotify.com
@@ -3460,8 +3460,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
 www.starbucks.com.sg
+gift.starbucks.co.jp
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3470,9 +3470,9 @@ www.starbucks.fr
 www.starbucks.com.cn
 app.starbucks.com
 login.starbucks.co.jp
-www.starbucks.co.kr
 www.starbucksreserve.com
 www.starbucks.com
+www.starbucks.co.kr
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3540,9 +3540,9 @@ education.github.com
 *.githubapp.com
 classroom.github.com
 api.github.com
-npmjs.com
 gist.github.com
 github.com
+npmjs.com
 github.com
 api.github.com
 gist.github.com
@@ -3650,12 +3650,12 @@ yourcompany.udemy.com
 shopify.plus
 *.shopifycs.com
 *.shopifykloud.com
-*.shopifycloud.com
 shopifyinbox.com
+*.shopifycloud.com
 arrive-server.shopifycloud.com
 shop.app
-partners.shopify.com
 *.shopify.com
+partners.shopify.com
 admin.shopify.com
 linkpop.com
 your-store.myshopify.com
@@ -3702,8 +3702,8 @@ businesshelp.snapchat.com
 app.snapchat.com
 ads.snapchat.com
 developer.playcanvas.com
-login.playcanvas.com
 playcanvas.com
+login.playcanvas.com
 web.snapchat.com
 business.snapchat.com
 accounts.snapchat.com
@@ -3959,8 +3959,8 @@ slackatwork.com
 slack-redir.net
 spaces.pm
 www.quip.com
-slack-imgs.com
 slack-status.com
+slack-imgs.com
 *.quip.com
 api.slack.com
 slack.com
