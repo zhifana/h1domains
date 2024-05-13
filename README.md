@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 13 15:43:16 UTC 2024)
+## Domains with Bounties (Last Updated Mon May 13 16:28:20 UTC 2024)
 ```
 api.americanwagering.com
 sportsbook.caesars.com
@@ -336,9 +336,9 @@ app.rewire.to
 app3.rewire.to
 rates.rewire.com
 rewire.com
-*.int.remitly.com
 api.remitly.io
 remitly.com
+*.int.remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -421,8 +421,8 @@ cpanel.hostinger.com
 payments.hostinger.com
 builder.hostinger.com
 *.000webhost.com
-hpanel.hostinger.com
 www.hostinger.com
+hpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -496,8 +496,8 @@ supply-xml.booking.com
 portal.taxi.booking.com
 secure-supply-xml.booking.com
 kyc-onboarding.booking.com
-spark.fareharbor.com
 teleport.fareharbor.engineering
+spark.fareharbor.com
 flights.booking.com
 indicative-pricing.taxi.booking.com
 marketing.fareharbor.com
@@ -516,8 +516,8 @@ taxi.booking.com
 fhdn.fareharbor.com
 sites.fareharbor.com
 admin.booking.com
-chat.booking.com
 booking.com
+chat.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -854,8 +854,8 @@ www.mozilla.org
 addons.allizom.org
 monitor.mozilla.org
 bugzilla.mozilla.org
-crash-stats.allizom.org
 accounts.firefox.com
+crash-stats.allizom.org
 profiler.firefox.com
 addons.allizom.org
 developer.mozilla.org
@@ -895,13 +895,13 @@ api-eu.floqast.app
 *.hiltonlocalbiz.com
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-hilton.io
 *.hiltonhotels.jp
+hilton.io
 hiltonhotels.jp
 *.hilton.io
 hilton.com
-*.hilton.com
 *.hiltonbusinessonline.com
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hiltonbusinessonline.com
@@ -1344,9 +1344,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
-api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
+api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1398,8 +1398,8 @@ rankings.etoro.com
 charts.etoro.com
 aggregator.etoro.com
 www.etoro.com
-bullsheet.me
 etoropartners.com
+bullsheet.me
 delta.app
 www.etoro.com
 etoropartners.com
@@ -1604,8 +1604,8 @@ playwonderbox.com
 therecord.media
 geminiadvisory.io
 hatching.io
-id.recordedfuture.com
 app.recordedfuture.com
+id.recordedfuture.com
 securitytrails.com
 www.recordedfuture.com
 tria.ge
@@ -1646,10 +1646,10 @@ www.fedramp.gov
 marketplace.fedramp.gov
 federalist.18f.gov
 federalist-docs.18f.gov
+cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
-cloud.gov
 *.login.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
@@ -1923,8 +1923,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.com
 identity.yoti.com
 ccloud.yoti.com
-code.yoti.com
 core.yoti.com
+code.yoti.com
 www.yotisign.com
 hub.yoti.com
 api.yoti.com
@@ -1945,8 +1945,8 @@ internal-docs.netlify.com
 netlify-rum.netlify.app
 screenshot-proxy.netlify.app
 *.services.netlify.com
-internal.netlify.com
 *.onegraph.com
+internal.netlify.com
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2019,11 +2019,11 @@ pay.tokopediax.com
 partner.tiktokshop.com
 live-backstage.tiktok.com
 affiliate-id.tokopedia.com
-ads.tiktok.com
 www.pangleglobal.com
 tiktok.com
 seller-id.tokopedia.com
 *.tiktokv.com
+ads.tiktok.com
 *.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2237,7 +2237,6 @@ mkapi.mackeeper.com
 mackeeper.com
 wallets.api.playstation.com
 transact.playstation.com
-*.api.playstation.com
 direct.playstation.com
 social.playstation.com
 my.account.sony.com
@@ -2247,6 +2246,7 @@ api.direct.playstation.com
 ca.account.sony.com
 store.playstation.com
 my.playstation.com
+*.api.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2458,11 +2458,11 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.highrolling.nu
-*.kes.kindredext.net
 *.unibet.fr
+*.kes.kindredext.net
 *.kolikkopelit.com
-*.bingo.com
 *.kindredext.net
+*.bingo.com
 *.unibet.com
 *.mariacasino.com
 www.32red.com
@@ -2572,8 +2572,8 @@ app.nordpass.com
 app.nordpass.com
 *.line.naver.jp
 *.line.me
-*.line-apps.com
 *.line.biz
+*.line-apps.com
 *.linecorp.com
 *.line.me
 *.line-apps.com
@@ -2695,8 +2695,8 @@ app.command.cysiv.com
 api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
-press.priceline.com
 cruises.priceline.com
+press.priceline.com
 www.bookingholdings.com
 flyiin.com
 www.priceline.com
@@ -2778,8 +2778,8 @@ booking.applevacations.com
 login.www.vaxvacationaccess.com
 res.en.travelbrandsagent.com
 res.vacations.united.com
-vacations.united.com
 res.vacations.universalstudioshollywood.com
+vacations.united.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -2863,26 +2863,26 @@ grammarly.ai
 *.grammarly.com
 grammarly.ai
 *.mgmt.fndlsb.net
-*.prd.fndlsb.net
 *.prod.fdbox.net
+*.prd.fndlsb.net
 *inf.fndlsb.net
 *racing.fanduel.com
 4njbets.tvgnetwork.com
 b2b.tvgnetwork.com
 service.racing.fanduel.com
+4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
-4njbets.us.betfair.com
 mobile-prod.tvg.com
-m.4njbets.tvg.com
 pabets.tvg.com
-login.tvg.com
-www.4njbets.com
 service.tvg.com
 promos.tvg.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
 login-ia.tvg.com
+m.4njbets.tvg.com
+login.tvg.com
+www.4njbets.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
 com.fanduel.android.live
@@ -3063,8 +3063,8 @@ marquee.gs.com
 *.advisorsolutions.gs.com
 *.foliodigitalwealth.com
 *.foliofn.com
-api.foliofn.com
 *.marcus.com
+api.foliofn.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3539,10 +3539,10 @@ npmjs.org
 education.github.com
 classroom.github.com
 *.githubapp.com
-api.github.com
 gist.github.com
 npmjs.com
 github.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3557,8 +3557,8 @@ npmjs.org
 *.uberinternal.com
 *.uberinternal.com
 *ubereats.com
-api.mapbox.com
 www.mapbox.com
+api.mapbox.com
 www.mapbox.com
 https://docs.mapbox.com/api/
 api.mapbox.com
@@ -3702,8 +3702,8 @@ businesshelp.snapchat.com
 app.snapchat.com
 ads.snapchat.com
 developer.playcanvas.com
-login.playcanvas.com
 playcanvas.com
+login.playcanvas.com
 web.snapchat.com
 business.snapchat.com
 accounts.snapchat.com
@@ -3782,10 +3782,10 @@ support-api.airbnb.com
 *.hoteltonight-test.com
 *.withairbnb.com
 www.hoteltonight.com
-*.hoteltonight.com
 *.muscache.com
-*.airbnb.com
+*.hoteltonight.com
 www.airbnb.com
+*.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3934,9 +3934,9 @@ institutional.coinbase.com
 commerce.coinbase.com
 *.cbhq.net
 cloud.coinbase.com
-nft.coinbase.com
 coinbase.com
 api.coinbase.com
+nft.coinbase.com
 *.coinbase.com
 *.coinbase.com
 *.cbhq.net
@@ -3959,8 +3959,8 @@ slackatwork.com
 slack-redir.net
 spaces.pm
 www.quip.com
-slack-status.com
 slack-imgs.com
+slack-status.com
 *.quip.com
 slack.com
 app.slack.com
@@ -3999,8 +3999,8 @@ reviewer.pullrequest.com
 b5s.hackerone-ext-content.com
 hackerone-user-content.com
 hackerone.live
-profile-photos-us-east-2.hackerone-user-content.com
 www.wearehackerone.com
+profile-photos-us-east-2.hackerone-user-content.com
 ctf.hacker101.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
