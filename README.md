@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 12 23:40:54 UTC 2024)
+## Domains with Bounties (Last Updated Mon May 13 01:04:15 UTC 2024)
 ```
 api.americanwagering.com
 sportsbook.caesars.com
@@ -46,9 +46,9 @@ www.dyson.it
 www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
-www.dyson.ch
 api.dyson.it
 www.dyson.ie
+www.dyson.ch
 www.dyson.es
 www.dyson.se
 www.dyson.be
@@ -419,10 +419,10 @@ demo.dynamic.xyz
 app.dynamic.xyz
 cpanel.hostinger.com
 www.hostinger.com
-payments.hostinger.com
 *.000webhost.com
 hpanel.hostinger.com
 builder.hostinger.com
+payments.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -458,8 +458,8 @@ www.mercadopago.com.br
 www.mercadolibre.com.uy
 www.mercadopago.cl
 www.mercadolibre.com.pe
-www.mercadopago.com.ar
 www.mercadopago.com.mx
+www.mercadopago.com.ar
 www.mercadolibre.cl
 www.mercadolivre.com.br
 api.mercadopago.com
@@ -510,7 +510,6 @@ careers.booking.com
 accommodations.booking.com
 www.fareharbor.com
 paymentcomponent.booking.com
-*.rentalcars.com
 secure.booking.com
 experiences.booking.com
 taxi.booking.com
@@ -518,6 +517,7 @@ fhdn.fareharbor.com
 sites.fareharbor.com
 admin.booking.com
 booking.com
+chat.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -797,10 +797,10 @@ sandbox.authorize.net
 developer.authorize.net
 developer.visa.com
 yourdomain.freshcaller.com
-yourdomain.myfreshworks.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -895,9 +895,9 @@ api-eu.floqast.app
 *.hiltonlocalbiz.com
 hiltonbusinessonline.com
 hiltonlocalbiz.com
+*.hiltonhotels.jp
 *.hiltonbusinessonline.com
 hilton.io
-*.hiltonhotels.jp
 hiltonhotels.jp
 *.hilton.io
 hilton.com
@@ -1053,9 +1053,9 @@ sms.8x8.com
 *.p8t.us
 uc.8x8pilot.com
 work-staging.8x8.com
-*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
+*.8x8.id
 user-profile-staging.8x8.com
 platform.8x8.com
 sso.8x8pilot.com
@@ -1065,6 +1065,7 @@ sso.8x8.com
 pay.8x8.com
 *.8x8cloud.net
 *.packet8.net
+cloud8.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1155,17 +1156,17 @@ hv-mtl.com
 *.wenewmoments.com
 dookeydash.com
 hv-mtl.com
+*.lastminute.co.nz
 www.stayz.com.au
 www.hotwirepartnercentral.com
-*.lastminute.co.nz
 www.flights.com
 www.bookabach.co.nz
 www.expediapartnersolutions.com
 www.expediaagents.com
 *.lastminute.com.au
 www.hotels.com
-*.travelocity.ca
 *.wotif.com
+*.travelocity.ca
 *.vrbo.com
 www.orbitz.com
 *.cheaptickets.com
@@ -1397,8 +1398,8 @@ rankings.etoro.com
 charts.etoro.com
 aggregator.etoro.com
 www.etoro.com
-bullsheet.me
 etoropartners.com
+bullsheet.me
 delta.app
 www.etoro.com
 etoropartners.com
@@ -1500,8 +1501,8 @@ upld.krisp.ai
 admin.wickr.com
 admin.wickr.com
 *.clubhouseapi.com
-*.clubhouse.com
 *.joinclubhouse.com
+*.clubhouse.com
 *.clubhouse.com
 *.joinclubhouse.com
 *.clubhouseapi.com
@@ -1899,8 +1900,8 @@ internal-api-lark-api.larksuite.com
 hackers_chosendomain.larksuite.com
 api.larksuite.com
 open.larksuite.com
-app.larksuite.com
 larksuite.com
+app.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2075,8 +2076,8 @@ www.figma.com
 api.figma.com
 3d.cs.money
 blog.cs.money
-wiki.cs.money
 support.cs.money
+wiki.cs.money
 cs.money
 cs.money
 support.cs.money
@@ -2462,8 +2463,8 @@ maria.casino
 *.kolikkopelit.com
 *.mariacasino.com
 www.32red.com
-*.kindredext.net
 *.bingo.com
+*.kindredext.net
 *.unibet.com
 *.unibet.com
 *.unibet.fr
@@ -2558,8 +2559,8 @@ kubernetes.io
 k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
-www.datastax.com
 astra.datastax.com
+www.datastax.com
 docs.datastax.com
 www.datastax.com
 downloads.datastax.com
@@ -2570,10 +2571,10 @@ app.nordpass.com
 *.nordvpn.com
 app.nordpass.com
 *.line.naver.jp
-*.line.biz
 *.linecorp.com
 *.line-apps.com
 *.line.me
+*.line.biz
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -2694,8 +2695,8 @@ app.command.cysiv.com
 api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
-press.priceline.com
 cruises.priceline.com
+press.priceline.com
 www.bookingholdings.com
 flyiin.com
 www.priceline.com
@@ -2777,8 +2778,8 @@ booking.applevacations.com
 login.www.vaxvacationaccess.com
 res.en.travelbrandsagent.com
 res.vacations.united.com
-res.vacations.universalstudioshollywood.com
 vacations.united.com
+res.vacations.universalstudioshollywood.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -2862,28 +2863,28 @@ grammarly.ai
 *.grammarly.com
 grammarly.ai
 *.mgmt.fndlsb.net
-*.prod.fdbox.net
 *.prd.fndlsb.net
+*.prod.fdbox.net
 *inf.fndlsb.net
 *racing.fanduel.com
 4njbets.tvgnetwork.com
 b2b.tvgnetwork.com
 service.racing.fanduel.com
-4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
+4njbets.us.betfair.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
+mobile-prod.tvg.com
 login-ia.tvg.com
 m.4njbets.tvg.com
-login.tvg.com
-mobile-prod.tvg.com
 pabets.tvg.com
+login.tvg.com
+login-4ngbets.us.betfair.com
+login.pabets.tvg.com
 service.tvg.com
 promos.tvg.com
 www.4njbets.com
-login-4ngbets.us.betfair.com
-login.pabets.tvg.com
 com.fanduel.android.live
 www.tvg.com
 sportsbook.fanduel.com
@@ -3062,8 +3063,8 @@ marquee.gs.com
 *.advisorsolutions.gs.com
 *.foliodigitalwealth.com
 *.foliofn.com
-*.marcus.com
 api.foliofn.com
+*.marcus.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3100,9 +3101,9 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
-partner.steampowered.com
-www.dota2.com
 support.steampowered.com
+www.dota2.com
+partner.steampowered.com
 help.steampowered.com
 partner.steamgames.com
 www.counter-strike.net
@@ -3148,8 +3149,8 @@ https://crypto.com/price
 bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
-*.deliveroo.com.hk
 *.deliveroo.com.kw
+*.deliveroo.com.hk
 *.deliveroo.com.qa
 *.deliveroo.ae
 *.deliveroo.ie
@@ -3227,9 +3228,9 @@ verkkopalvelu.tapiola.fi
 ext-gw.lahitapiola.fi
 api.lahitapiola.fi
 *.beta.lahitapiola.fi
-www.lahitapiola.fi
 asiointi.lahitapiola.fi
 tunnistus.lahitapiola.fi
+www.lahitapiola.fi
 yrityspalvelu.tapiola.fi
 secure.lahitapiola.fi
 *.lahitapiola.fi
@@ -3459,8 +3460,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-www.starbucks.com.sg
 gift.starbucks.co.jp
+www.starbucks.com.sg
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3536,8 +3537,8 @@ moneybirdstorage.com
 npmjs.org
 *.githubusercontent.com
 education.github.com
-classroom.github.com
 *.githubapp.com
+classroom.github.com
 api.github.com
 github.com
 npmjs.com
@@ -3587,9 +3588,9 @@ blinkit.com
 api.grofers.com
 *.hyperpure.com
 *.runnr.in
-*.zomans.com
 api2.grofers.com
 *.zomato.com
+*.zomans.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3998,16 +3999,16 @@ reviewer.pullrequest.com
 b5s.hackerone-ext-content.com
 hackerone-user-content.com
 hackerone.live
-www.wearehackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
+www.wearehackerone.com
 a5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-ctf.hacker101.com
 www.hackerone.com
 api.hackerone.com
-hackerone.com
+ctf.hacker101.com
 app.pullrequest.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
