@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 13 18:22:13 UTC 2024)
+## Domains with Bounties (Last Updated Mon May 13 18:42:31 UTC 2024)
 ```
 api.americanwagering.com
 sportsbook.caesars.com
@@ -436,10 +436,10 @@ api.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 blog.23andme.com
-research.23andme.com
 auth.23andme.com
 mediacenter.23andme.com
 you.23andme.com
+research.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -798,8 +798,8 @@ developer.authorize.net
 developer.visa.com
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
-yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -846,8 +846,8 @@ developer.mozilla.org
 sync.services.mozilla.com
 hg.mozilla.org
 community-tc.services.mozilla.com
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 firefox-ci-tc.services.mozilla.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 support.mozilla.org
 relay.firefox.com
 www.mozilla.org
@@ -900,8 +900,8 @@ hilton.io
 hiltonhotels.jp
 *.hilton.io
 *.hiltonbusinessonline.com
-*.hilton.com
 hilton.com
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hiltonbusinessonline.com
@@ -1097,10 +1097,10 @@ admin.8x8.com
 *.napoleondice.be
 *.napoleongames.be
 *.napoleonsports.be
-*.luckydays.com
-*.superbet.rs
 *.luckydays.ca
 *.magicjackpot.ro
+*.luckydays.com
+*.superbet.rs
 *.superbet.ro
 *.superbet.com
 *.superbet.pl
@@ -1142,9 +1142,9 @@ dookeydash.com
 *.cryptopunks.app
 hv-mtl.com
 *.10ktf.com
-*.yuga.com
 *.otherside.xyz
 *.boredapeyachtclub.com
+*.yuga.com
 *.boredapeyachtclub.com
 *.yuga.com
 *.yugalabs.io
@@ -1156,9 +1156,9 @@ hv-mtl.com
 *.wenewmoments.com
 dookeydash.com
 hv-mtl.com
+*.lastminute.co.nz
 www.stayz.com.au
 www.hotwirepartnercentral.com
-*.lastminute.co.nz
 www.flights.com
 www.bookabach.co.nz
 www.expediapartnersolutions.com
@@ -1344,9 +1344,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
-api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
+api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1604,8 +1604,8 @@ playwonderbox.com
 therecord.media
 geminiadvisory.io
 hatching.io
-id.recordedfuture.com
 app.recordedfuture.com
+id.recordedfuture.com
 securitytrails.com
 www.recordedfuture.com
 tria.ge
@@ -1646,10 +1646,10 @@ www.fedramp.gov
 marketplace.fedramp.gov
 federalist.18f.gov
 federalist-docs.18f.gov
+cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
-cloud.gov
 *.login.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
@@ -1738,11 +1738,11 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
+app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
 *.touchtechpayments.com
-app.taxjar.com
 *.stripe.com
 api.stripe.com
 api.stripe.com
@@ -1844,8 +1844,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-wp-qa.chime.com
 www.chime.com
+wp-qa.chime.com
 *.chimebank.com
 *.1debit.com
 *.chime.com
@@ -1921,8 +1921,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-identity.yoti.com
 ccloud.yoti.com
+identity.yoti.com
 core.yoti.com
 code.yoti.com
 www.yotisign.com
@@ -1945,8 +1945,8 @@ internal-docs.netlify.com
 netlify-rum.netlify.app
 screenshot-proxy.netlify.app
 *.services.netlify.com
-*.onegraph.com
 internal.netlify.com
+*.onegraph.com
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2020,11 +2020,11 @@ affiliate-id.tokopedia.com
 www.pangleglobal.com
 tiktok.com
 seller-id.tokopedia.com
-*.tiktok.com
-*.tiktokv.com
 creatormarketplace.tiktok.com
-business.tiktok.com
+*.tiktok.com
 ads.tiktok.com
+business.tiktok.com
+*.tiktokv.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2372,7 +2372,6 @@ itv7.itv.com
 amazonpayinsurance.in
 *.amazon.com.mx
 *.amazon.co.uk
-*.amazon.eg
 *.amazon.com.br
 *.amazon.co.jp
 *.amazon.es
@@ -2381,6 +2380,7 @@ amazonpayinsurance.in
 *.amazon.it
 *.amazon.in
 *.amazon.com
+*.amazon.eg
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2461,8 +2461,8 @@ maria.casino
 *.kes.kindredext.net
 *.unibet.fr
 *.kolikkopelit.com
-*.kindredext.net
 *.bingo.com
+*.kindredext.net
 *.unibet.com
 *.mariacasino.com
 www.32red.com
@@ -2778,8 +2778,8 @@ booking.applevacations.com
 login.www.vaxvacationaccess.com
 res.en.travelbrandsagent.com
 res.vacations.united.com
-vacations.united.com
 res.vacations.universalstudioshollywood.com
+vacations.united.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -2873,18 +2873,18 @@ service.racing.fanduel.com
 4njbets.tvg.com
 4njbets.com
 4njbets.us.betfair.com
+login-4njbets.us.betfair.com
+login-pabets.tvg.com
 mobile-prod.tvg.com
+login-ia.tvg.com
 m.4njbets.tvg.com
 pabets.tvg.com
 login.tvg.com
-www.4njbets.com
-service.tvg.com
-promos.tvg.com
-login-4njbets.us.betfair.com
-login-pabets.tvg.com
-login-ia.tvg.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
+service.tvg.com
+promos.tvg.com
+www.4njbets.com
 com.fanduel.android.live
 www.tvg.com
 sportsbook.fanduel.com
@@ -2937,16 +2937,16 @@ https://github.com/matomo-org/docker
 paypal.me
 *.braintree.tools
 *.paylution.com
-scrutiny.swiftfinancial.com
-www.swiftfinancial.com
-swiftfinancial.com
-www.swiftcapital.com
-swiftcapital.com
 decision.swiftfinancial.com
 partner.swiftfinancial.com
+scrutiny.swiftfinancial.com
 pigeon.swiftfinancial.com
+www.swiftfinancial.com
+swiftfinancial.com
 prequal.swiftfinancial.com
 my.loanbuilder.com
+www.swiftcapital.com
+swiftcapital.com
 py.pl
 paypalobjects.com
 www.loanbuilder.com
@@ -2954,11 +2954,11 @@ my.swiftfinancial.com
 *.braintree-api.com
 api.loanbuilder.com
 *.venmo.com
-sandbox.braintreegateway.com
 *.hyperwallet.com
-loanbuilder.com
-api.swiftfinancial.com
+sandbox.braintreegateway.com
 *.braintreepayments.com
+api.swiftfinancial.com
+loanbuilder.com
 *.braintreegateway.com
 *.paypal.com
 *.xoom.com
@@ -3063,8 +3063,8 @@ marquee.gs.com
 *.advisorsolutions.gs.com
 *.foliodigitalwealth.com
 *.foliofn.com
-*.marcus.com
 api.foliofn.com
+*.marcus.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3101,9 +3101,9 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
+partner.steampowered.com
 support.steampowered.com
 www.dota2.com
-partner.steampowered.com
 help.steampowered.com
 www.counter-strike.net
 www.teamfortress.com
@@ -3225,8 +3225,8 @@ sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
 verkkopalvelu.tapiola.fi
-api.lahitapiola.fi
 ext-gw.lahitapiola.fi
+api.lahitapiola.fi
 *.beta.lahitapiola.fi
 www.lahitapiola.fi
 asiointi.lahitapiola.fi
@@ -3338,12 +3338,12 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.atspotify.com
 *.avecspotify.com
+*.atspotify.com
 *.enspotify.com
-*.forspotify.com
-*.fromspotify.com
 *.tospotify.com
+*.fromspotify.com
+*.forspotify.com
 assets.spotify.com
 *.withspotify.com
 backstage.io
@@ -3541,8 +3541,8 @@ classroom.github.com
 *.githubapp.com
 gist.github.com
 npmjs.com
-github.com
 api.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3650,12 +3650,12 @@ yourcompany.udemy.com
 shopify.plus
 *.shopifycs.com
 *.shopifykloud.com
-*.shopifycloud.com
 shopifyinbox.com
+*.shopifycloud.com
 arrive-server.shopifycloud.com
 shop.app
-partners.shopify.com
 *.shopify.com
+partners.shopify.com
 linkpop.com
 *.shopify.io
 accounts.shopify.com
@@ -3701,8 +3701,8 @@ www.bitmoji.com
 businesshelp.snapchat.com
 ads.snapchat.com
 developer.playcanvas.com
-login.playcanvas.com
 playcanvas.com
+login.playcanvas.com
 web.snapchat.com
 business.snapchat.com
 accounts.snapchat.com
@@ -3935,9 +3935,9 @@ institutional.coinbase.com
 commerce.coinbase.com
 *.cbhq.net
 cloud.coinbase.com
-coinbase.com
 nft.coinbase.com
 api.coinbase.com
+coinbase.com
 *.coinbase.com
 *.coinbase.com
 *.cbhq.net
