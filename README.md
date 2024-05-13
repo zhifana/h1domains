@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 13 16:28:20 UTC 2024)
+## Domains with Bounties (Last Updated Mon May 13 16:51:49 UTC 2024)
 ```
 api.americanwagering.com
 sportsbook.caesars.com
@@ -23,9 +23,9 @@ https://caesarspalaceonline.com/us/pa/casino
 williamhill.us
 app.koho.ca
 usercontent.koho.ca
-webgateway.koho.ca
 www.koho.ca
 web.koho.ca
+webgateway.koho.ca
 web.koho.ca
 http://api.koho.ca/1.0
 http://api.koho.ca/partner
@@ -798,9 +798,9 @@ developer.authorize.net
 developer.visa.com
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
-yourdomain.myfreshworks.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -895,13 +895,13 @@ api-eu.floqast.app
 *.hiltonlocalbiz.com
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-*.hiltonhotels.jp
 hilton.io
+*.hiltonhotels.jp
 hiltonhotels.jp
 *.hilton.io
-hilton.com
 *.hiltonbusinessonline.com
 *.hilton.com
+hilton.com
 *.hilton.com
 *.hilton.io
 *.hiltonbusinessonline.com
@@ -1164,19 +1164,19 @@ www.bookabach.co.nz
 www.expediapartnersolutions.com
 www.expediaagents.com
 *.lastminute.com.au
-*.travelocity.ca
 *.wotif.com
+*.travelocity.ca
 *.vrbo.com
 www.orbitz.com
 www.fewo-direkt.de
 www.expedia.com
 www.ebookers.fi
-www.expediagroup.com
 www.vrbo.com
+www.expediagroup.com
 *.cheaptickets.com
 www.ebookers.com
-www.expediataap.com
 *.hotwire.com
+www.expediataap.com
 *.travelocity.com
 www.abritel.fr
 *.expediacruises.com
@@ -1315,9 +1315,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
-www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
+www.swoodoo.com
 www.cheapflights.com
 www.hotelscombined.com
 www.momondo.com
@@ -1398,8 +1398,8 @@ rankings.etoro.com
 charts.etoro.com
 aggregator.etoro.com
 www.etoro.com
-etoropartners.com
 bullsheet.me
+etoropartners.com
 delta.app
 www.etoro.com
 etoropartners.com
@@ -1604,8 +1604,8 @@ playwonderbox.com
 therecord.media
 geminiadvisory.io
 hatching.io
-app.recordedfuture.com
 id.recordedfuture.com
+app.recordedfuture.com
 securitytrails.com
 www.recordedfuture.com
 tria.ge
@@ -1725,8 +1725,8 @@ https://www.xvideos.net/app/
 *.swiftype.com
 *.found.io
 www.elastic.co
-*.elstc.co
 cloud.elastic.co
+*.elstc.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1844,8 +1844,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-www.chime.com
 wp-qa.chime.com
+www.chime.com
 *.chimebank.com
 *.1debit.com
 *.chime.com
@@ -1921,8 +1921,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-identity.yoti.com
 ccloud.yoti.com
+identity.yoti.com
 core.yoti.com
 code.yoti.com
 www.yotisign.com
@@ -2013,7 +2013,6 @@ shop-id.tokopedia.com
 developers.tiktok.com
 shop.tiktok.com
 creatormarketplace.tiktok.com
-business.tiktok.com
 effecthouse.tiktok.com
 pay.tokopediax.com
 partner.tiktokshop.com
@@ -2022,9 +2021,10 @@ affiliate-id.tokopedia.com
 www.pangleglobal.com
 tiktok.com
 seller-id.tokopedia.com
-*.tiktokv.com
 ads.tiktok.com
 *.tiktok.com
+business.tiktok.com
+*.tiktokv.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2458,8 +2458,8 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.highrolling.nu
-*.unibet.fr
 *.kes.kindredext.net
+*.unibet.fr
 *.kolikkopelit.com
 *.kindredext.net
 *.bingo.com
@@ -2559,8 +2559,8 @@ kubernetes.io
 k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
-astra.datastax.com
 www.datastax.com
+astra.datastax.com
 docs.datastax.com
 www.datastax.com
 downloads.datastax.com
@@ -2571,8 +2571,8 @@ app.nordpass.com
 *.nordvpn.com
 app.nordpass.com
 *.line.naver.jp
-*.line.me
 *.line.biz
+*.line.me
 *.line-apps.com
 *.linecorp.com
 *.line.me
@@ -2937,16 +2937,16 @@ https://github.com/matomo-org/docker
 paypal.me
 *.braintree.tools
 *.paylution.com
-scrutiny.swiftfinancial.com
-www.swiftfinancial.com
-swiftfinancial.com
-www.swiftcapital.com
-swiftcapital.com
 decision.swiftfinancial.com
 partner.swiftfinancial.com
 pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
+www.swiftfinancial.com
+swiftfinancial.com
 prequal.swiftfinancial.com
 my.loanbuilder.com
+www.swiftcapital.com
+swiftcapital.com
 py.pl
 paypalobjects.com
 www.loanbuilder.com
@@ -2955,12 +2955,12 @@ my.swiftfinancial.com
 *.braintree-api.com
 api.loanbuilder.com
 *.venmo.com
-sandbox.braintreegateway.com
 *.paypalcorp.com
 *.hyperwallet.com
-loanbuilder.com
-api.swiftfinancial.com
+sandbox.braintreegateway.com
 *.braintreepayments.com
+api.swiftfinancial.com
+loanbuilder.com
 *.braintreegateway.com
 *.paypal.com
 *.xoom.com
@@ -3063,8 +3063,8 @@ marquee.gs.com
 *.advisorsolutions.gs.com
 *.foliodigitalwealth.com
 *.foliofn.com
-*.marcus.com
 api.foliofn.com
+*.marcus.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3126,9 +3126,9 @@ playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
 js.crypto.com
-pay.crypto.com
 auth.crypto.com
 app.mona.co
+pay.crypto.com
 www.crypto.com
 merchant.crypto.com
 *.crypto.com
@@ -3154,8 +3154,8 @@ bounty-node.rsk.co
 *.deliveroo.com.qa
 *.deliveroo.ae
 *.deliveroo.ie
-*.deliveroo.com.sg
 *.deliveroo.it
+*.deliveroo.com.sg
 *.deliveroo.hk
 *.deliveroo.fr
 *.deliveroo.co.uk
@@ -3228,11 +3228,11 @@ verkkopalvelu.tapiola.fi
 api.lahitapiola.fi
 ext-gw.lahitapiola.fi
 *.beta.lahitapiola.fi
-www.lahitapiola.fi
 asiointi.lahitapiola.fi
 tunnistus.lahitapiola.fi
 yrityspalvelu.tapiola.fi
 secure.lahitapiola.fi
+www.lahitapiola.fi
 *.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
@@ -3312,9 +3312,9 @@ bma.badoo.com
 translate.badoo.com
 ccardsus1.badoo.com
 bma.bumble.com
-ccardseu1.badoo.com
 us1.badoo.com
 eu1.badoo.com
+ccardseu1.badoo.com
 badoocdn.com
 hotornot.com
 chatdate.app
@@ -3460,8 +3460,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
 www.starbucks.com.sg
+gift.starbucks.co.jp
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3541,8 +3541,8 @@ classroom.github.com
 *.githubapp.com
 gist.github.com
 npmjs.com
-github.com
 api.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3557,8 +3557,8 @@ npmjs.org
 *.uberinternal.com
 *.uberinternal.com
 *ubereats.com
-www.mapbox.com
 api.mapbox.com
+www.mapbox.com
 www.mapbox.com
 https://docs.mapbox.com/api/
 api.mapbox.com
@@ -3782,8 +3782,8 @@ support-api.airbnb.com
 *.hoteltonight-test.com
 *.withairbnb.com
 www.hoteltonight.com
-*.muscache.com
 *.hoteltonight.com
+*.muscache.com
 www.airbnb.com
 *.airbnb.com
 *.hoteltonight.com
@@ -3936,8 +3936,8 @@ commerce.coinbase.com
 cloud.coinbase.com
 coinbase.com
 api.coinbase.com
-nft.coinbase.com
 *.coinbase.com
+nft.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -3999,8 +3999,8 @@ reviewer.pullrequest.com
 b5s.hackerone-ext-content.com
 hackerone-user-content.com
 hackerone.live
-www.wearehackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
+www.wearehackerone.com
 ctf.hacker101.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
