@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 15 03:41:17 UTC 2024)
+## Domains with Bounties (Last Updated Wed May 15 04:21:56 UTC 2024)
 ```
 api.americanwagering.com
 *.us.williamhill.com
@@ -420,8 +420,8 @@ app.dynamic.xyz
 cpanel.hostinger.com
 builder.hostinger.com
 payments.hostinger.com
-hpanel.hostinger.com
 *.000webhost.com
+hpanel.hostinger.com
 www.hostinger.com
 *.000webhost.com
 www.hostinger.com
@@ -517,7 +517,7 @@ compass.fareharbor.com
 booking.com
 teleport.fareharbor.engineering
 tableau.fareharbor.engineering
-*.fareharbor.engineering
+account.booking.com
 *.booking.com
 *.rentalcars.com
 *.fareharbor.engineering
@@ -563,8 +563,8 @@ fhdn.fareharbor.com
 tableau.fareharbor.engineering
 *.bybit.com
 *.bybit.com
-portal.au.frontegg.com
 api.au.frontegg.com
+portal.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 api2.frontapp.com
@@ -1099,10 +1099,10 @@ admin.8x8.com
 *.napoleondice.be
 *.napoleongames.be
 *.napoleonsports.be
-*.luckydays.com
-*.superbet.rs
 *.luckydays.ca
 *.magicjackpot.ro
+*.luckydays.com
+*.superbet.rs
 *.superbet.ro
 *.superbet.com
 *.superbet.pl
@@ -1317,9 +1317,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 www.cheapflights.com
 www.hotelscombined.com
 www.momondo.com
@@ -1346,9 +1346,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
-api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
+api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1947,8 +1947,8 @@ internal-docs.netlify.com
 netlify-rum.netlify.app
 screenshot-proxy.netlify.app
 *.services.netlify.com
-internal.netlify.com
 *.onegraph.com
+internal.netlify.com
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2023,9 +2023,9 @@ business.tiktok.com
 *.tiktok.com
 affiliate-id.tokopedia.com
 ads.tiktok.com
-*.tiktokv.com
-tiktok.com
 creatormarketplace.tiktok.com
+tiktok.com
+*.tiktokv.com
 seller-id.tokopedia.com
 *.tiktok.com
 business.tiktok.com
@@ -2371,8 +2371,8 @@ itv7.itv.com
 *.amazon.fr
 *.amazon.com.au
 amazonpayinsurance.in
-*.amazon.com.mx
 *.amazon.co.uk
+*.amazon.com.mx
 *.amazon.co.jp
 *.amazon.es
 *.amazon.it
@@ -2380,8 +2380,8 @@ amazonpayinsurance.in
 *.amazon.cn
 *.amazon.eg
 *.amazon.com.br
-*.amazon.com
 *.amazon.in
+*.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2506,8 +2506,8 @@ homes-and-villas.marriott.com
 traveler.marriott.com
 cpp.marriott.com
 careers.marriott.com
-www.marriott.com
 marriottfranchisetransactions.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2560,8 +2560,8 @@ kubernetes.io
 k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
-www.datastax.com
 astra.datastax.com
+www.datastax.com
 docs.datastax.com
 www.datastax.com
 downloads.datastax.com
@@ -2571,11 +2571,11 @@ astra.datastax.com
 app.nordpass.com
 *.nordvpn.com
 app.nordpass.com
-*.line.biz
 *.line-apps.com
 *.linecorp.com
 *.line.naver.jp
 *.line.me
+*.line.biz
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -2696,8 +2696,8 @@ app.command.cysiv.com
 api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
-press.priceline.com
 cruises.priceline.com
+press.priceline.com
 www.bookingholdings.com
 flyiin.com
 www.priceline.com
@@ -2940,8 +2940,8 @@ paypal.me
 *.paylution.com
 decision.swiftfinancial.com
 partner.swiftfinancial.com
-scrutiny.swiftfinancial.com
 pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftfinancial.com
 swiftfinancial.com
 prequal.swiftfinancial.com
@@ -3102,16 +3102,16 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
-support.steampowered.com
 partner.steampowered.com
+support.steampowered.com
 help.steampowered.com
 www.counter-strike.net
 www.teamfortress.com
 api.steampowered.com
 partner.steamgames.com
 store.steampowered.com
-www.dota2.com
 www.valvesoftware.com
+www.dota2.com
 steamcommunity.com
 www.dota2.com
 support.steampowered.com
@@ -3150,8 +3150,8 @@ https://crypto.com/price
 bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
-*.deliveroo.com.hk
 *.deliveroo.com.kw
+*.deliveroo.com.hk
 *.deliveroo.com.qa
 *.deliveroo.ae
 *.deliveroo.ie
@@ -3201,8 +3201,8 @@ falcon-sandbox.com
 *.preemptsecurity.com
 *.reposify.com
 *.humio.com
-*.preempt.com
 *.crowdstrike.com
+*.preempt.com
 www.crowdstrike.com
 hybrid-analysis.com
 *.bionic.ai
@@ -3226,14 +3226,14 @@ sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
 verkkopalvelu.tapiola.fi
-api.lahitapiola.fi
 ext-gw.lahitapiola.fi
+api.lahitapiola.fi
 *.beta.lahitapiola.fi
+www.lahitapiola.fi
 asiointi.lahitapiola.fi
 tunnistus.lahitapiola.fi
 yrityspalvelu.tapiola.fi
 secure.lahitapiola.fi
-www.lahitapiola.fi
 *.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
@@ -3313,9 +3313,9 @@ bma.badoo.com
 translate.badoo.com
 ccardsus1.badoo.com
 bma.bumble.com
-ccardseu1.badoo.com
 us1.badoo.com
 eu1.badoo.com
+ccardseu1.badoo.com
 badoocdn.com
 hotornot.com
 chatdate.app
@@ -3339,12 +3339,12 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.tospotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
+*.tospotify.com
 assets.spotify.com
 *.withspotify.com
 backstage.io
@@ -3461,8 +3461,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
 www.starbucks.com.sg
+gift.starbucks.co.jp
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3968,8 +3968,8 @@ edgeapi.slack.com
 slackatwork.com
 slack-redir.net
 spaces.pm
-slack-status.com
 slack-imgs.com
+slack-status.com
 app.slack.com
 www.quip.com
 *.quip.com
