@@ -2,14 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 15 11:17:33 UTC 2024)
+## Domains with Bounties (Last Updated Wed May 15 11:41:58 UTC 2024)
 ```
 api.americanwagering.com
 *.us.williamhill.com
 williamhill.us
 sportsbook.caesars.com
-*.williamhill.us
 caesarspalaceonline.com
+*.williamhill.us
 *.us.williamhill.com
 *.williamhill.us
 sportsbook.caesars.com
@@ -45,9 +45,9 @@ www.dyson.fr
 www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
-www.dyson.ch
-api.dyson.it
 www.dyson.ie
+api.dyson.it
+www.dyson.ch
 www.dyson.es
 www.dyson.se
 www.dyson.be
@@ -382,13 +382,13 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-my.sheer.com
 www.sheer.com
+my.sheer.com
 www.sheer.com
 my.sheer.com
 www.pornworld.com
-www.ddfcontent.com
 www.analvids.com
+www.ddfcontent.com
 www.pornbox.com
 www.pornbox.com
 www.analvids.com
@@ -421,8 +421,8 @@ cpanel.hostinger.com
 payments.hostinger.com
 *.000webhost.com
 www.hostinger.com
-builder.hostinger.com
 hpanel.hostinger.com
+builder.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -846,8 +846,8 @@ phabricator.allizom.org
 developer.mozilla.org
 sync.services.mozilla.com
 hg.mozilla.org
-community-tc.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
+community-tc.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 www.mozilla.org
 monitor.mozilla.org
@@ -901,9 +901,9 @@ hilton.io
 *.hiltonhotels.jp
 hiltonhotels.jp
 *.hiltonbusinessonline.com
-*.hilton.io
 hilton.com
 *.hilton.com
+*.hilton.io
 *.hilton.com
 *.hilton.io
 *.hiltonbusinessonline.com
@@ -1055,9 +1055,9 @@ sms.8x8.com
 *.p8t.us
 uc.8x8pilot.com
 work-staging.8x8.com
+*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
-*.8x8.id
 user-profile-staging.8x8.com
 platform.8x8.com
 sso.8x8pilot.com
@@ -1317,9 +1317,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 www.cheapflights.com
 www.hotelscombined.com
 www.momondo.com
@@ -1648,10 +1648,10 @@ www.fedramp.gov
 marketplace.fedramp.gov
 federalist.18f.gov
 federalist-docs.18f.gov
-cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
+cloud.gov
 *.login.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
@@ -1740,11 +1740,11 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
-app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
 *.touchtechpayments.com
+app.taxjar.com
 api.stripe.com
 *.stripe.com
 api.stripe.com
@@ -1781,8 +1781,8 @@ api.reddit.com
 matrix.redditspace.com
 accounts.reddit.com
 www.spiketrap.io
-*.reddit.com
 oauth.reddit.com
+*.reddit.com
 new.reddit.com
 *.redditinc.com
 *.reddithelp.com
@@ -2021,9 +2021,9 @@ www.pangleglobal.com
 shop.tiktok.com
 business.tiktok.com
 affiliate-id.tokopedia.com
-*.tiktokv.com
-creatormarketplace.tiktok.com
 seller-id.tokopedia.com
+creatormarketplace.tiktok.com
+*.tiktokv.com
 *.tiktok.com
 tiktok.com
 ads.tiktok.com
@@ -2371,8 +2371,8 @@ itv7.itv.com
 *.amazon.fr
 *.amazon.com.au
 amazonpayinsurance.in
-*.amazon.com.mx
 *.amazon.co.uk
+*.amazon.com.mx
 *.amazon.es
 *.amazon.it
 *.amazon.ca
@@ -2560,8 +2560,8 @@ kubernetes.io
 k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
-www.datastax.com
 astra.datastax.com
+www.datastax.com
 docs.datastax.com
 www.datastax.com
 downloads.datastax.com
@@ -2776,10 +2776,10 @@ booking.cheapcaribbean.com
 res.hyattinclusivecollection.com
 booking.applevacations.com
 login.www.vaxvacationaccess.com
-res.vacations.united.com
-vacations.united.com
-res.vacations.universalstudioshollywood.com
 res.en.travelbrandsagent.com
+res.vacations.united.com
+res.vacations.universalstudioshollywood.com
+vacations.united.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -2961,8 +2961,8 @@ loanbuilder.com
 *.paypalcorp.com
 *.braintreegateway.com
 *.braintreepayments.com
-*.paypal.com
 *.venmo.com
+*.paypal.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3101,15 +3101,15 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
-support.steampowered.com
 partner.steampowered.com
+support.steampowered.com
 help.steampowered.com
 www.counter-strike.net
 www.teamfortress.com
 api.steampowered.com
 partner.steamgames.com
-www.dota2.com
 www.valvesoftware.com
+www.dota2.com
 steamcommunity.com
 store.steampowered.com
 www.dota2.com
@@ -3154,8 +3154,8 @@ bounty-node.rsk.co
 *.deliveroo.com.qa
 *.deliveroo.ae
 *.deliveroo.ie
-*.deliveroo.it
 *.deliveroo.com.sg
+*.deliveroo.it
 *.deliveroo.hk
 *.deliveroo.fr
 *.deliveroo.be
@@ -3228,11 +3228,11 @@ verkkopalvelu.tapiola.fi
 api.lahitapiola.fi
 ext-gw.lahitapiola.fi
 *.beta.lahitapiola.fi
+www.lahitapiola.fi
 asiointi.lahitapiola.fi
 tunnistus.lahitapiola.fi
 yrityspalvelu.tapiola.fi
 secure.lahitapiola.fi
-www.lahitapiola.fi
 *.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
@@ -3338,11 +3338,11 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
 *.tospotify.com
 assets.spotify.com
 *.withspotify.com
@@ -3460,8 +3460,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-www.starbucks.com.sg
 gift.starbucks.co.jp
+www.starbucks.com.sg
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3557,8 +3557,8 @@ npmjs.org
 *.uberinternal.com
 *.uberinternal.com
 *ubereats.com
-api.mapbox.com
 www.mapbox.com
+api.mapbox.com
 www.mapbox.com
 https://docs.mapbox.com/api/
 api.mapbox.com
@@ -3610,15 +3610,15 @@ www.algolia.com
 dashboard.algolia.com
 secure-dfadmin.deriv.com
 *.derivws.com
+smarttrader.deriv.com
 *.deriv.cloud
 derivws.com
 cashier.deriv.com
-smarttrader.deriv.com
-api.deriv.com
 *.binary.com
 app.deriv.com
 *.deriv.com
 oauth.deriv.com
+api.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3664,9 +3664,9 @@ arrive-server.shopifycloud.com
 linkpop.com
 accounts.shopify.com
 shop.app
+your-store.myshopify.com
 *.shopify.io
 *.shopify.com
-your-store.myshopify.com
 partners.shopify.com
 admin.shopify.com
 *.shopifycs.com
@@ -3943,8 +3943,8 @@ institutional.coinbase.com
 commerce.coinbase.com
 *.cbhq.net
 cloud.coinbase.com
-nft.coinbase.com
 *.coinbase.com
+nft.coinbase.com
 api.coinbase.com
 coinbase.com
 *.coinbase.com
@@ -4005,7 +4005,6 @@ profile-photos.hackerone-user-content.com
 errors.hackerone.net
 *.vpn.hackerone.net
 reviewer.pullrequest.com
-hackerone-user-content.com
 hackerone.live
 profile-photos-us-east-2.hackerone-user-content.com
 www.wearehackerone.com
@@ -4018,6 +4017,7 @@ a5s.hackerone-ext-content.com
 app.pullrequest.com
 hackerone.com
 www.hackerone.com
+hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
