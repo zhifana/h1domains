@@ -2,14 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 18 15:14:54 UTC 2024)
+## Domains with Bounties (Last Updated Sat May 18 15:40:32 UTC 2024)
 ```
 api.americanwagering.com
 *.us.williamhill.com
 williamhill.us
+caesarspalaceonline.com
 *.williamhill.us
 sportsbook.caesars.com
-caesarspalaceonline.com
 *.us.williamhill.com
 *.williamhill.us
 sportsbook.caesars.com
@@ -457,8 +457,8 @@ www.mercadopago.com.pe
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
 www.mercadolibre.com.uy
-api.mercadolibre.com
 www.mercadopago.com.ar
+api.mercadolibre.com
 www.mercadolibre.com.mx
 www.mercadopago.cl
 www.mercadolibre.com.ar
@@ -1055,9 +1055,9 @@ sms.8x8.com
 *.p8t.us
 uc.8x8pilot.com
 work-staging.8x8.com
+*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
-*.8x8.id
 user-profile-staging.8x8.com
 platform.8x8.com
 sso.8x8pilot.com
@@ -1167,8 +1167,8 @@ www.expediaagents.com
 *.travelocity.ca
 www.ebookers.fi
 www.ebookers.com
-www.hotels.com
 www.expediataap.com
+www.hotels.com
 www.vrbo.com
 *.cheaptickets.com
 *.lastminute.com.au
@@ -1183,9 +1183,9 @@ www.expedia.com
 *.wotif.com
 www.abritel.fr
 *.travelocity.com
-www.flights.com
 *.vrbo.com
 www.orbitz.com
+www.flights.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1740,10 +1740,10 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
-app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
+app.taxjar.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1846,8 +1846,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-wp-qa.chime.com
 www.chime.com
+wp-qa.chime.com
 *.chimebank.com
 *.1debit.com
 *.chime.com
@@ -1925,8 +1925,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.com
 identity.yoti.com
 ccloud.yoti.com
-code.yoti.com
 core.yoti.com
+code.yoti.com
 www.yotisign.com
 api.yoti.com
 hub.yoti.com
@@ -1947,8 +1947,8 @@ internal-docs.netlify.com
 netlify-rum.netlify.app
 screenshot-proxy.netlify.app
 *.services.netlify.com
-*.onegraph.com
 internal.netlify.com
+*.onegraph.com
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2018,7 +2018,6 @@ shop.tiktok.com
 www.pangleglobal.com
 seller-id.tokopedia.com
 effecthouse.tiktok.com
-live-backstage.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktok.com
 affiliate-id.tokopedia.com
@@ -2027,6 +2026,7 @@ developers.tiktok.com
 tiktok.com
 ads.tiktok.com
 *.tiktokv.com
+live-backstage.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2417,11 +2417,11 @@ amazonpayinsurance.in
 *.alibabacloud.com
 *.aliyun.com
 www.alibabagroup.com
-*.taobao.com
 *.aliexpress.com
 *.alibaba.com
 *.1688.com
 *.Daraz.com
+*.taobao.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2560,8 +2560,8 @@ k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
 astra.datastax.com
-docs.datastax.com
 www.datastax.com
+docs.datastax.com
 www.datastax.com
 downloads.datastax.com
 docs.datastax.com
@@ -2936,16 +2936,16 @@ https://github.com/matomo-org/docker
 paypal.me
 *.braintree.tools
 *.paylution.com
-swiftfinancial.com
-prequal.swiftfinancial.com
-www.swiftcapital.com
-swiftcapital.com
+decision.swiftfinancial.com
 partner.swiftfinancial.com
 pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 www.swiftfinancial.com
+swiftfinancial.com
+prequal.swiftfinancial.com
 my.loanbuilder.com
-decision.swiftfinancial.com
+www.swiftcapital.com
+swiftcapital.com
 py.pl
 paypalobjects.com
 www.loanbuilder.com
@@ -3017,8 +3017,8 @@ testnet.bitmex.com
 testnet.bitmex.com
 *.staging-airtableblocks.com
 api-staging.airtable.com
-*.staging.airtable.com
 staging.airtable.com
+*.staging.airtable.com
 *.staging-airtableblocks.com
 *.staging.airtable.com
 staging.airtable.com
@@ -3100,15 +3100,15 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
-partner.steampowered.com
 support.steampowered.com
+partner.steampowered.com
 help.steampowered.com
 www.counter-strike.net
 www.teamfortress.com
 api.steampowered.com
 partner.steamgames.com
-www.valvesoftware.com
 www.dota2.com
+www.valvesoftware.com
 steamcommunity.com
 store.steampowered.com
 www.dota2.com
@@ -3130,8 +3130,8 @@ app.mona.co
 merchant.crypto.com
 *.mona.co
 *.crypto.com
-www.crypto.com
 tax.crypto.com
+www.crypto.com
 pay.crypto.com
 *.crypto.com
 *.mona.co
@@ -3148,8 +3148,8 @@ https://crypto.com/price
 bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
-*.deliveroo.com.hk
 *.deliveroo.com.kw
+*.deliveroo.com.hk
 *.deliveroo.com.qa
 *.deliveroo.ae
 *.deliveroo.ie
@@ -3311,9 +3311,9 @@ bma.badoo.com
 translate.badoo.com
 ccardsus1.badoo.com
 bma.bumble.com
-ccardseu1.badoo.com
 us1.badoo.com
 eu1.badoo.com
+ccardseu1.badoo.com
 badoocdn.com
 hotornot.com
 chatdate.app
@@ -3387,11 +3387,11 @@ api.wordpress.org
 *.buddypress.org
 bbpress.org
 profiles.wordpress.org
-*.wordpress.org
 *.trac.wordpress.org
  *.svn.wordpress.org
  *.git.wordpress.org
  github.com/WordPress
+*.wordpress.org
 *.wordpress.org
 *.buddypress.org
 bbpress.org
@@ -3470,8 +3470,8 @@ www.starbucks.com.cn
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.com
-www.starbucks.co.kr
 app.starbucks.com
+www.starbucks.co.kr
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3657,16 +3657,16 @@ yourcompany.udemy.com
 shopify.plus
 *.shopifycs.com
 *.shopifykloud.com
-shopifyinbox.com
 *.shopifycloud.com
+shopifyinbox.com
 arrive-server.shopifycloud.com
 linkpop.com
 shop.app
 *.shopify.io
 partners.shopify.com
 *.shopify.com
-admin.shopify.com
 your-store.myshopify.com
+admin.shopify.com
 accounts.shopify.com
 *.shopifycs.com
 *.shopify.io
@@ -3856,8 +3856,8 @@ gnip.com
 api.x.ai
 grok.x.ai
 *.vine.co
-x.com
 *.twitter.com
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3996,19 +3996,19 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-profile-photos.hackerone-user-content.com
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
+errors.hackerone.net
 cover-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
+hackerone-user-content.com
+profile-photos-us-east-2.hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
 *.vpn.hackerone.net
 a5s.hackerone-ext-content.com
 b5s.hackerone-ext-content.com
 hackerone-ext-content.com
-hackerone-user-content.com
-profile-photos-us-east-2.hackerone-user-content.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-errors.hackerone.net
+profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
@@ -4016,8 +4016,8 @@ hackerone.live
 ctf.hacker101.com
 www.hackerone.com
 api.hackerone.com
-hackerone.com
 app.pullrequest.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
