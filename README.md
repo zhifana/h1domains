@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 19 18:36:38 UTC 2024)
+## Domains with Bounties (Last Updated Sun May 19 19:11:22 UTC 2024)
 ```
 api.americanwagering.com
 *.us.williamhill.com
@@ -43,12 +43,12 @@ www.dyson.fr
 www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
-api.dyson.it
 www.dyson.ie
+api.dyson.it
 www.dyson.se
 *.cp.dyson.com
-www.dyson.co.nz
 api.dysoncanada.ca
+www.dyson.co.nz
 api.dyson.es
 www.dyson.pt
 *.dyson.com
@@ -385,8 +385,8 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.analvids.com
 www.ddfcontent.com
+www.analvids.com
 www.pornbox.com
 www.pornworld.com
 www.pornbox.com
@@ -437,8 +437,8 @@ research.23andme.com
 blog.23andme.com
 medical.23andme.com
 store.23andme.com
-you.23andme.com
 auth.23andme.com
+you.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -458,8 +458,8 @@ www.mercadolibre.com.uy
 www.mercadopago.com.ar
 www.mercadolibre.com.mx
 www.mercadopago.cl
-www.mercadolibre.com.ar
 www.mercadopago.com.br
+www.mercadolibre.com.ar
 www.mercadolibre.cl
 www.mercadolivre.com.br
 www.mercadolibre.com.co
@@ -515,8 +515,8 @@ chat.booking.com
 *.rentalcars.com
 sites.fareharbor.com
 marketing.fareharbor.com
-readonly.fareharbor.com
 account.booking.com
+*.fareharbor.engineering
 *.booking.com
 *.rentalcars.com
 *.fareharbor.engineering
@@ -708,11 +708,11 @@ www.visa.co.uk
 visa.co.za
 www.fraedom.com
 www.practicalmoneyskills.org
-bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
+bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -1057,8 +1057,8 @@ work-staging.8x8.com
 platform.8x8pilot.com
 *.8x8.id
 user-profile-staging.8x8.com
-platform.8x8.com
 sso.8x8pilot.com
+platform.8x8.com
 sso.8x8.com
 *.jitsi.net
 *.jit.si
@@ -1280,8 +1280,8 @@ royal.checksw.com
 *.superpal.io/*
 m.trendyol.com
 www.dolap.com
-www.trendyol-milla.com
 www.trendyol.com
+www.trendyol-milla.com
 www.trendyol.com
 m.trendyol.com
 www.dolap.com
