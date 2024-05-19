@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 19 12:52:45 UTC 2024)
+## Domains with Bounties (Last Updated Sun May 19 13:18:03 UTC 2024)
 ```
 api.americanwagering.com
 *.us.williamhill.com
@@ -455,8 +455,8 @@ www.mercadopago.com.pe
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
 www.mercadolibre.com.uy
-www.mercadopago.com.ar
 api.mercadolibre.com
+www.mercadopago.com.ar
 www.mercadolibre.com.mx
 www.mercadopago.cl
 www.mercadolibre.com.ar
@@ -900,8 +900,8 @@ hilton.io
 hiltonhotels.jp
 *.hiltonbusinessonline.com
 *.hilton.io
-hilton.com
 *.hilton.com
+hilton.com
 *.hiltonhotels.jp
 *.hilton.com
 *.hilton.io
@@ -1157,9 +1157,9 @@ hv-mtl.com
 *.wenewmoments.com
 dookeydash.com
 hv-mtl.com
-*.lastminute.co.nz
 www.stayz.com.au
 www.hotwirepartnercentral.com
+*.lastminute.co.nz
 www.bookabach.co.nz
 www.expediapartnersolutions.com
 www.expediaagents.com
@@ -1170,16 +1170,16 @@ www.hotels.com
 www.vrbo.com
 *.cheaptickets.com
 *.lastminute.com.au
-www.mrjet.se
-www.fewo-direkt.de
 *.expediapartnercentral.com
 www.expediagroup.com
+www.fewo-direkt.de
+www.mrjet.se
 *.carrentals.com
+*.travelocity.com
 *.hotwire.com
 www.expedia.com
 *.wotif.com
 www.abritel.fr
-*.travelocity.com
 *.vrbo.com
 www.orbitz.com
 www.flights.com
@@ -1280,8 +1280,8 @@ royal.checksw.com
 *.superpal.io/*
 m.trendyol.com
 www.dolap.com
-www.trendyol.com
 www.trendyol-milla.com
+www.trendyol.com
 www.trendyol.com
 m.trendyol.com
 www.dolap.com
@@ -1316,9 +1316,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
-www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
+www.swoodoo.com
 www.cheapflights.com
 www.hotelscombined.com
 www.momondo.com
@@ -2018,13 +2018,13 @@ effecthouse.tiktok.com
 affiliate-id.tokopedia.com
 creatormarketplace.tiktok.com
 *.tiktok.com
-shop-id.tokopedia.com
 developers.tiktok.com
-ads.tiktok.com
 tiktok.com
-*.tiktokv.com
+shop-id.tokopedia.com
+ads.tiktok.com
 live-backstage.tiktok.com
 seller-id.tokopedia.com
+*.tiktokv.com
 partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
@@ -2093,8 +2093,8 @@ api.faraday.ai
 *.acronis.work
 *.5nine.com
 beta-cloud.acronis.com
-*.acronis.com
 account.acronis.com
+*.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2770,10 +2770,10 @@ booking.cheapcaribbean.com
 res.hyattinclusivecollection.com
 booking.applevacations.com
 login.www.vaxvacationaccess.com
+res.en.travelbrandsagent.com
 res.vacations.united.com
 vacations.united.com
 res.vacations.universalstudioshollywood.com
-res.en.travelbrandsagent.com
 www.hyattconnect.com
 res.vacations.discoverycove.com
 assets.hyatt.com
@@ -2935,16 +2935,16 @@ https://github.com/matomo-org/docker
 paypal.me
 *.braintree.tools
 *.paylution.com
-swiftfinancial.com
-prequal.swiftfinancial.com
-www.swiftcapital.com
-swiftcapital.com
+decision.swiftfinancial.com
 partner.swiftfinancial.com
 pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 www.swiftfinancial.com
+swiftfinancial.com
+prequal.swiftfinancial.com
 my.loanbuilder.com
-decision.swiftfinancial.com
+www.swiftcapital.com
+swiftcapital.com
 py.pl
 paypalobjects.com
 www.loanbuilder.com
@@ -3099,15 +3099,15 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
-partner.steampowered.com
 support.steampowered.com
+partner.steampowered.com
 help.steampowered.com
 www.counter-strike.net
 www.teamfortress.com
 api.steampowered.com
 partner.steamgames.com
-www.valvesoftware.com
 www.dota2.com
+www.valvesoftware.com
 store.steampowered.com
 steamcommunity.com
 www.dota2.com
@@ -3126,8 +3126,8 @@ developer.valvesoftware.com
 js.crypto.com
 app.mona.co
 *.mona.co
-www.crypto.com
 tax.crypto.com
+www.crypto.com
 pay.crypto.com
 merchant.crypto.com
 auth.crypto.com
@@ -3223,14 +3223,14 @@ sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
 verkkopalvelu.tapiola.fi
-ext-gw.lahitapiola.fi
 api.lahitapiola.fi
+ext-gw.lahitapiola.fi
 *.beta.lahitapiola.fi
 asiointi.lahitapiola.fi
 tunnistus.lahitapiola.fi
-www.lahitapiola.fi
 yrityspalvelu.tapiola.fi
 secure.lahitapiola.fi
+www.lahitapiola.fi
 *.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
@@ -3339,9 +3339,9 @@ getofficial.co
 *.avecspotify.com
 *.atspotify.com
 *.enspotify.com
-*.tospotify.com
 *.fromspotify.com
 *.forspotify.com
+*.tospotify.com
 assets.spotify.com
 backstage.io
 api.spotify.com
@@ -3418,8 +3418,8 @@ lifeinvader.com
 circolocorecords.com/
 socialclub.rockstargames.com
 support.rockstargames.com
-prod.ros.rockstargames.com
 *.rockstargames.com
+prod.ros.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3458,8 +3458,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-www.starbucks.com.sg
 gift.starbucks.co.jp
+www.starbucks.com.sg
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3539,8 +3539,8 @@ npmjs.org
 npmjs.com
 api.github.com
 classroom.github.com
-github.com
 *.githubapp.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3608,8 +3608,8 @@ www.algolia.com
 dashboard.algolia.com
 secure-dfadmin.deriv.com
 cashier.deriv.com
-derivws.com
 oauth.deriv.com
+derivws.com
 *.binary.com
 api.deriv.com
 *.deriv.cloud
@@ -3705,8 +3705,8 @@ www.bitmoji.com
 businesshelp.snapchat.com
 developer.playcanvas.com
 login.playcanvas.com
-app.snapchat.com
 blog.playcanvas.com
+app.snapchat.com
 playcanvas.com
 web.snapchat.com
 snappublisher.snapchat.com
@@ -3970,9 +3970,9 @@ slack-status.com
 slack-imgs.com
 *.quip.com
 www.quip.com
-api.slack.com
 slack.com
 app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 slackb.com
