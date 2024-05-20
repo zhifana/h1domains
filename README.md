@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 20 09:42:53 UTC 2024)
+## Domains with Bounties (Last Updated Mon May 20 10:19:28 UTC 2024)
 ```
 api.americanwagering.com
 *.us.williamhill.com
@@ -114,7 +114,6 @@ shop.dyson.tw
 www.dyson.tw
 www.gr.dyson.com
 *.dyson.com
-ads-audience-uploader.truecaller.com
 ads-rules-asia-south1.truecaller.com
 ads-rules-noneu.truecaller.com
 api4-asia-south1.truecaller.com
@@ -129,7 +128,6 @@ backup.truecaller.com
 batchlogging4.truecaller.com
 callkit-asia-south1.truecaller.com
 comments-asia-south1.truecaller.com
-comments-noneu.truecaller.com
 company-profile-asia-south1.truecaller.com
 company-profile-noneu.truecaller.com
 contact-lists-noneu.truecaller.com
@@ -164,6 +162,8 @@ messenger-previews.truecaller.com
 messenger-web-relay-compat-noneu.truecaller.com
 messenger-web-relay-noneu.truecaller.com
 nationalidverification-noneu.truecaller.com
+notifications5-asia-south1.truecaller.com
+notifications5.truecaller.com
 business.truecaller.com
 account-noneu.truecaller.com
 account-onboarding-noneu.truecaller.com
@@ -462,8 +462,8 @@ www.mercadolivre.com.br
 www.mercadolibre.com.co
 www.mercadopago.com.mx
 api.mercadolibre.com
-www.mercadolibre.cl
 www.mercadopago.com.br
+www.mercadolibre.cl
 www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -515,8 +515,8 @@ marketing.fareharbor.com
 demo.fareharbor.com
 fhdn.fareharbor.com
 tableau.fareharbor.engineering
-widget.rentalcars.com
 readonly.fareharbor.com
+*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 *.fareharbor.engineering
@@ -708,11 +708,11 @@ www.visa.co.uk
 visa.co.za
 www.fraedom.com
 www.practicalmoneyskills.org
-bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
+bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -915,8 +915,8 @@ hiltonlocalbiz.com
 hiltonhotels.jp
 *.oklink.com
 *.okcoin.com
-*.okg.com
 *.okx.com
+*.okg.com
 *.okx.com
 *.okcoin.com
 *.oklink.com
@@ -1119,9 +1119,9 @@ admin.8x8.com
 *.superbet.pl
 *.moonpaycloud.com
 *.hypermint.com
-moonpay.com
-hypermint.com
 *.moonpay.com
+hypermint.com
+moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
 *.moonpay.com
@@ -1157,9 +1157,9 @@ hv-mtl.com
 *.wenewmoments.com
 dookeydash.com
 hv-mtl.com
-*.lastminute.co.nz
 www.stayz.com.au
 www.hotwirepartnercentral.com
+*.lastminute.co.nz
 www.bookabach.co.nz
 www.expediapartnersolutions.com
 www.expediaagents.com
@@ -1178,9 +1178,9 @@ www.flights.com
 www.fewo-direkt.de
 *.vrbo.com
 www.orbitz.com
+*.expediacruises.com
 www.expediataap.com
 *.hotwire.com
-*.expediacruises.com
 www.ebookers.com
 *.lastminute.com.au
 www.hotels.com
@@ -1280,8 +1280,8 @@ royal.checksw.com
 *.superpal.io/*
 m.trendyol.com
 www.dolap.com
-www.trendyol.com
 www.trendyol-milla.com
+www.trendyol.com
 www.trendyol.com
 m.trendyol.com
 www.dolap.com
@@ -1316,9 +1316,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
-www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
+www.swoodoo.com
 www.cheapflights.com
 www.hotelscombined.com
 www.momondo.com
@@ -1647,10 +1647,10 @@ www.fedramp.gov
 marketplace.fedramp.gov
 federalist.18f.gov
 federalist-docs.18f.gov
+cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
-cloud.gov
 inventory.data.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
@@ -1845,8 +1845,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-wp-qa.chime.com
 www.chime.com
+wp-qa.chime.com
 *.chimebank.com
 *.1debit.com
 *.chime.com
@@ -1924,8 +1924,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.com
 identity.yoti.com
 ccloud.yoti.com
-core.yoti.com
 code.yoti.com
+core.yoti.com
 www.yotisign.com
 api.yoti.com
 hub.yoti.com
@@ -1946,8 +1946,8 @@ internal-docs.netlify.com
 netlify-rum.netlify.app
 screenshot-proxy.netlify.app
 *.services.netlify.com
-internal.netlify.com
 *.onegraph.com
+internal.netlify.com
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2019,13 +2019,13 @@ developers.tiktok.com
 live-backstage.tiktok.com
 effecthouse.tiktok.com
 seller-id.tokopedia.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 *.tiktokv.com
-*.tiktok.com
 affiliate-id.tokopedia.com
 ads.tiktok.com
 creatormarketplace.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2415,11 +2415,11 @@ www.alibabagroup.com
 *.1688.com
 *.taobao.com
 *.tmall.com
-*.alibabacloud.com
 *.aliexpress.com
 *.Daraz.com
 *.aliyun.com
 *.alibaba.com
+*.alibabacloud.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2934,25 +2934,25 @@ https://github.com/matomo-org/docker
 paypal.me
 *.braintree.tools
 *.paylution.com
-scrutiny.swiftfinancial.com
-www.swiftfinancial.com
 swiftfinancial.com
+prequal.swiftfinancial.com
 www.swiftcapital.com
 swiftcapital.com
-decision.swiftfinancial.com
 partner.swiftfinancial.com
 pigeon.swiftfinancial.com
-prequal.swiftfinancial.com
+scrutiny.swiftfinancial.com
+www.swiftfinancial.com
 my.loanbuilder.com
+decision.swiftfinancial.com
 py.pl
 paypalobjects.com
 www.loanbuilder.com
 *.braintree-api.com
 api.loanbuilder.com
-sandbox.braintreegateway.com
 *.hyperwallet.com
-loanbuilder.com
+sandbox.braintreegateway.com
 api.swiftfinancial.com
+loanbuilder.com
 *.paypalcorp.com
 *.venmo.com
 my.swiftfinancial.com
@@ -3222,14 +3222,14 @@ sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
 verkkopalvelu.tapiola.fi
-ext-gw.lahitapiola.fi
 api.lahitapiola.fi
+ext-gw.lahitapiola.fi
 *.beta.lahitapiola.fi
-www.lahitapiola.fi
 asiointi.lahitapiola.fi
 tunnistus.lahitapiola.fi
 yrityspalvelu.tapiola.fi
 secure.lahitapiola.fi
+www.lahitapiola.fi
 *.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
@@ -3309,9 +3309,9 @@ bma.badoo.com
 translate.badoo.com
 ccardsus1.badoo.com
 bma.bumble.com
-ccardseu1.badoo.com
 us1.badoo.com
 eu1.badoo.com
+ccardseu1.badoo.com
 badoocdn.com
 hotornot.com
 getofficial.co
@@ -3335,11 +3335,11 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
 *.tospotify.com
 assets.spotify.com
 backstage.io
@@ -3704,8 +3704,8 @@ www.bitmoji.com
 businesshelp.snapchat.com
 developer.playcanvas.com
 login.playcanvas.com
-app.snapchat.com
 blog.playcanvas.com
+app.snapchat.com
 playcanvas.com
 web.snapchat.com
 snappublisher.snapchat.com
@@ -3783,7 +3783,6 @@ next.airbnb.com
 api.airbnb.com
 support-api.airbnb.com
 *.airbnb-aws.com
-www.hoteltonight.com
 *.muscache.com
 *.withairbnb.com
 *.hoteltonight-test.com
@@ -3793,6 +3792,7 @@ www.airbnb.com
 *.airbnb.com
 *.hoteltonight.com
 m.airbnb.com
+www.hoteltonight.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3995,17 +3995,17 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 profile-photos.hackerone-user-content.com
+errors.hackerone.net
+a5s.hackerone-ext-content.com
+hackerone-ext-content.com
+hackathon-photos.hackerone-user-content.com
+profile-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
-hackathon-photos.hackerone-user-content.com
-*.vpn.hackerone.net
-a5s.hackerone-ext-content.com
 b5s.hackerone-ext-content.com
-hackerone-ext-content.com
 hackerone-user-content.com
-profile-photos-us-east-2.hackerone-user-content.com
-errors.hackerone.net
+*.vpn.hackerone.net
 reviewer.pullrequest.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
@@ -4014,8 +4014,8 @@ app.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 api.hackerone.com
 ctf.hacker101.com
-hackerone.com
 www.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
