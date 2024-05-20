@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 20 19:43:46 UTC 2024)
+## Domains with Bounties (Last Updated Mon May 20 20:18:27 UTC 2024)
 ```
 api.americanwagering.com
 *.us.williamhill.com
@@ -436,9 +436,9 @@ mediacenter.23andme.com
 research.23andme.com
 blog.23andme.com
 medical.23andme.com
-you.23andme.com
 store.23andme.com
 auth.23andme.com
+you.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -449,7 +449,6 @@ store.23andme.com
 therapeutics.23andme.com
 you.23andme.com
 research.23andme.com
-api.mercadopago.com
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadopago.com.uy
@@ -460,11 +459,12 @@ www.mercadolibre.com.mx
 www.mercadopago.cl
 www.mercadolibre.com.co
 api.mercadolibre.com
-www.mercadolibre.cl
-www.mercadopago.com.br
 www.mercadopago.com.mx
 www.mercadolivre.com.br
 www.mercadolibre.com.ar
+www.mercadopago.com.br
+api.mercadopago.com
+www.mercadolibre.cl
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -562,8 +562,8 @@ fhdn.fareharbor.com
 tableau.fareharbor.engineering
 *.bybit.com
 *.bybit.com
-api.au.frontegg.com
 portal.au.frontegg.com
+api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 api2.frontapp.com
@@ -1054,11 +1054,11 @@ sms.8x8.com
 *.p8t.us
 uc.8x8pilot.com
 work-staging.8x8.com
-platform.8x8pilot.com
 *.8x8.id
+platform.8x8pilot.com
 user-profile-staging.8x8.com
-sso.8x8pilot.com
 platform.8x8.com
+sso.8x8pilot.com
 sso.8x8.com
 *.jitsi.net
 *.jit.si
@@ -1164,7 +1164,6 @@ www.expediapartnersolutions.com
 www.expediaagents.com
 *.travelocity.ca
 www.ebookers.fi
-*.cheaptickets.com
 www.expediagroup.com
 *.carrentals.com
 www.expedia.com
@@ -1176,15 +1175,16 @@ www.expediataap.com
 www.ebookers.com
 www.hotels.com
 *.wotif.com
-*.travelocity.com
 *.lastminute.com.au
-*.expediacruises.com
-*.vrbo.com
+*.travelocity.com
 www.mrjet.se
 *.hotwire.com
+*.expediacruises.com
+*.vrbo.com
 www.stayz.com.au
 *.expediapartnercentral.com
 www.vrbo.com
+*.cheaptickets.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1601,8 +1601,8 @@ playwonderbox.com
 therecord.media
 geminiadvisory.io
 hatching.io
-app.recordedfuture.com
 id.recordedfuture.com
+app.recordedfuture.com
 api.recordedfuture.com
 securitytrails.com
 tria.ge
@@ -1944,8 +1944,8 @@ screenshot-proxy.netlify.app
 *.services.netlify.com
 *.onegraph.com
 internal.netlify.com
-app.netlify.com
 api.netlify.com
+app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -2372,9 +2372,9 @@ amazonpayinsurance.in
 *.amazon.ca
 *.amazon.es
 *.amazon.co.jp
-*.amazon.com
 *.amazon.co.uk
 *.amazon.in
+*.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2452,14 +2452,14 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.highrolling.nu
-*.kes.kindredext.net
 *.unibet.fr
+*.kes.kindredext.net
 *.kolikkopelit.com
 *.kindredext.net
 *.bingo.com
 www.32red.com
-*.unibet.com
 *.mariacasino.com
+*.unibet.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2564,11 +2564,11 @@ astra.datastax.com
 app.nordpass.com
 *.nordvpn.com
 app.nordpass.com
-*.line-apps.com
 *.line.naver.jp
 *.line.biz
 *.linecorp.com
 *.line.me
+*.line-apps.com
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -2766,8 +2766,8 @@ res.hyattinclusivecollection.com
 booking.applevacations.com
 res.en.travelbrandsagent.com
 res.vacations.united.com
-vacations.united.com
 res.vacations.universalstudioshollywood.com
+vacations.united.com
 www.hyattconnect.com
 res.vacations.discoverycove.com
 assets.hyatt.com
@@ -3142,8 +3142,8 @@ https://crypto.com/price
 bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
-*.deliveroo.com.kw
 *.deliveroo.com.hk
+*.deliveroo.com.kw
 *.deliveroo.com.qa
 *.deliveroo.ie
 *.deliveroo.com.sg
@@ -3218,8 +3218,8 @@ sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
 verkkopalvelu.tapiola.fi
-api.lahitapiola.fi
 ext-gw.lahitapiola.fi
+api.lahitapiola.fi
 *.beta.lahitapiola.fi
 www.lahitapiola.fi
 asiointi.lahitapiola.fi
@@ -3331,11 +3331,11 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
 *.tospotify.com
 assets.spotify.com
 *.withspotify.com
@@ -3381,11 +3381,11 @@ api.wordpress.org
 *.buddypress.org
 bbpress.org
 profiles.wordpress.org
-*.wordpress.org
 *.trac.wordpress.org
  *.svn.wordpress.org
  *.git.wordpress.org
  github.com/WordPress
+*.wordpress.org
 *.wordpress.org
 *.buddypress.org
 bbpress.org
@@ -3453,8 +3453,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-www.starbucks.com.sg
 gift.starbucks.co.jp
+www.starbucks.com.sg
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3700,8 +3700,8 @@ www.bitmoji.com
 businesshelp.snapchat.com
 developer.playcanvas.com
 login.playcanvas.com
-app.snapchat.com
 blog.playcanvas.com
+app.snapchat.com
 playcanvas.com
 web.snapchat.com
 snappublisher.snapchat.com
@@ -3988,24 +3988,24 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-profile-photos.hackerone-user-content.com
-cover-photos-us-east-2.hackerone-user-content.com
-cover-photos.hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
-*.vpn.hackerone.net
-a5s.hackerone-ext-content.com
-b5s.hackerone-ext-content.com
-hackerone-ext-content.com
 hackerone-user-content.com
+*.vpn.hackerone.net
+cover-photos-us-east-2.hackerone-user-content.com
+a5s.hackerone-ext-content.com
+hackerone-ext-content.com
+b5s.hackerone-ext-content.com
+cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 errors.hackerone.net
+profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
-hackerone.live
 app.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
+hackerone.live
 api.hackerone.com
 ctf.hacker101.com
 www.hackerone.com
@@ -4240,8 +4240,8 @@ magentocommerce.com
 u.magento.com
 imagine.magento.com
 magentolive.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 marketplace.magento.com
 account.magento.com
 magento.com
