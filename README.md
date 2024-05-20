@@ -2,14 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 19 23:40:45 UTC 2024)
+## Domains with Bounties (Last Updated Mon May 20 01:03:33 UTC 2024)
 ```
 api.americanwagering.com
 *.us.williamhill.com
 caesarspalaceonline.com
 *.williamhill.us
-sportsbook.caesars.com
 williamhill.us
+sportsbook.caesars.com
 *.us.williamhill.com
 *.williamhill.us
 sportsbook.caesars.com
@@ -516,7 +516,7 @@ chat.booking.com
 sites.fareharbor.com
 marketing.fareharbor.com
 account.booking.com
-*.booking.com
+*.fareharbor.engineering
 *.booking.com
 *.rentalcars.com
 *.fareharbor.engineering
@@ -812,9 +812,9 @@ app.kolesa.kz
 app.krisha.kz
 m.krisha.kz
 id.kolesa.kz
-m.kolesa.kz
 api.kolesa.kz
 kolesa.kz
+m.kolesa.kz
 krisha.kz
 kolesa.kz
 m.kolesa.kz
@@ -844,8 +844,8 @@ developer.mozilla.org
 sync.services.mozilla.com
 hg.mozilla.org
 community-tc.services.mozilla.com
-firefox-ci-tc.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
+firefox-ci-tc.services.mozilla.com
 www.mozilla.org
 monitor.mozilla.org
 accounts.firefox.com
@@ -940,11 +940,11 @@ ci.indrive.dev
 argocd.indrive.dev
 volans.tech
 *.indriver.com
-cargo.indrive.com
 new-order.eu-east-1.indriverapp.com
 ingest.clairvoyance.indrive.tech
 *.indrive.com
 *.indriverapp.com
+cargo.indrive.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1057,8 +1057,8 @@ work-staging.8x8.com
 platform.8x8pilot.com
 *.8x8.id
 user-profile-staging.8x8.com
-sso.8x8pilot.com
 platform.8x8.com
+sso.8x8pilot.com
 sso.8x8.com
 *.jitsi.net
 *.jit.si
@@ -1157,9 +1157,9 @@ hv-mtl.com
 *.wenewmoments.com
 dookeydash.com
 hv-mtl.com
+*.lastminute.co.nz
 www.stayz.com.au
 www.hotwirepartnercentral.com
-*.lastminute.co.nz
 www.bookabach.co.nz
 www.expediapartnersolutions.com
 www.expediaagents.com
@@ -1316,9 +1316,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
-www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
+www.swoodoo.com
 www.cheapflights.com
 www.hotelscombined.com
 www.momondo.com
@@ -1345,8 +1345,8 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
-api.excalls.mobi
 social-trading.exness.com
+api.excalls.mobi
 pay.ibex.exchange
 exnessaffiliates.com
 exness.com
@@ -2016,8 +2016,8 @@ shop.tiktok.com
 www.pangleglobal.com
 creatormarketplace.tiktok.com
 *.tiktok.com
-shop-id.tokopedia.com
 developers.tiktok.com
+shop-id.tokopedia.com
 ads.tiktok.com
 live-backstage.tiktok.com
 *.tiktokv.com
@@ -2861,26 +2861,26 @@ grammarly.ai
 *.grammarly.com
 grammarly.ai
 *.mgmt.fndlsb.net
-*.prod.fdbox.net
 *.prd.fndlsb.net
+*.prod.fdbox.net
 *inf.fndlsb.net
 *racing.fanduel.com
 4njbets.tvgnetwork.com
 b2b.tvgnetwork.com
 service.racing.fanduel.com
-4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
+4njbets.us.betfair.com
+mobile-prod.tvg.com
+m.4njbets.tvg.com
+pabets.tvg.com
+login.tvg.com
+www.4njbets.com
+service.tvg.com
+promos.tvg.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
 login-ia.tvg.com
-m.4njbets.tvg.com
-login.tvg.com
-mobile-prod.tvg.com
-pabets.tvg.com
-service.tvg.com
-promos.tvg.com
-www.4njbets.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
 com.fanduel.android.live
@@ -3099,8 +3099,8 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
-partner.steampowered.com
 support.steampowered.com
+partner.steampowered.com
 help.steampowered.com
 www.counter-strike.net
 www.teamfortress.com
@@ -3151,8 +3151,8 @@ bounty-node.rsk.co
 *.deliveroo.com.kw
 *.deliveroo.com.qa
 *.deliveroo.ie
-*.deliveroo.it
 *.deliveroo.com.sg
+*.deliveroo.it
 *.deliveroo.hk
 *.deliveroo.fr
 *.deliveroo.be
@@ -3226,11 +3226,11 @@ verkkopalvelu.tapiola.fi
 api.lahitapiola.fi
 ext-gw.lahitapiola.fi
 *.beta.lahitapiola.fi
+www.lahitapiola.fi
 asiointi.lahitapiola.fi
 tunnistus.lahitapiola.fi
 yrityspalvelu.tapiola.fi
 secure.lahitapiola.fi
-www.lahitapiola.fi
 *.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
@@ -3336,11 +3336,11 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
 *.tospotify.com
 assets.spotify.com
 backstage.io
@@ -3386,11 +3386,11 @@ api.wordpress.org
 *.buddypress.org
 bbpress.org
 profiles.wordpress.org
-*.wordpress.org
 *.trac.wordpress.org
  *.svn.wordpress.org
  *.git.wordpress.org
  github.com/WordPress
+*.wordpress.org
 *.wordpress.org
 *.buddypress.org
 bbpress.org
@@ -3966,8 +3966,8 @@ edgeapi.slack.com
 slackatwork.com
 slack-redir.net
 spaces.pm
-slack-status.com
 slack-imgs.com
+slack-status.com
 *.quip.com
 www.quip.com
 slack.com
@@ -4247,8 +4247,8 @@ magentocommerce.com
 u.magento.com
 imagine.magento.com
 magentolive.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 marketplace.magento.com
 account.magento.com
 magento.com
