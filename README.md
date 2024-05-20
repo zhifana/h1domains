@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 20 01:03:33 UTC 2024)
+## Domains with Bounties (Last Updated Mon May 20 02:04:10 UTC 2024)
 ```
 api.americanwagering.com
 *.us.williamhill.com
