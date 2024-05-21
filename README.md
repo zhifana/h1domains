@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 21 04:17:34 UTC 2024)
+## Domains with Bounties (Last Updated Tue May 21 04:40:48 UTC 2024)
 ```
 api.americanwagering.com
 *.us.williamhill.com
@@ -385,8 +385,8 @@ www.sheer.com
 my.sheer.com
 www.sheer.com
 my.sheer.com
-www.ddfcontent.com
 www.analvids.com
+www.ddfcontent.com
 www.pornworld.com
 www.pornbox.com
 www.pornbox.com
@@ -420,8 +420,8 @@ cpanel.hostinger.com
 payments.hostinger.com
 *.000webhost.com
 builder.hostinger.com
-hpanel.hostinger.com
 www.hostinger.com
+hpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -516,7 +516,7 @@ accommodations.booking.com
 account.booking.com
 widget.rentalcars.com
 *.fareharbor.engineering
-teleport.fareharbor.engineering
+secure.booking.com
 *.booking.com
 *.rentalcars.com
 *.fareharbor.engineering
@@ -708,11 +708,11 @@ www.visa.co.uk
 visa.co.za
 www.fraedom.com
 www.practicalmoneyskills.org
+bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
-bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -799,9 +799,9 @@ developer.authorize.net
 developer.visa.com
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
-yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshchat.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1175,7 +1175,6 @@ www.expediataap.com
 www.ebookers.com
 www.hotels.com
 www.mrjet.se
-*.expediacruises.com
 *.vrbo.com
 www.stayz.com.au
 www.vrbo.com
@@ -1185,6 +1184,7 @@ www.vrbo.com
 *.lastminute.com.au
 *.cheaptickets.com
 *.hotwire.com
+*.expediacruises.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1643,10 +1643,10 @@ www.fedramp.gov
 marketplace.fedramp.gov
 federalist.18f.gov
 federalist-docs.18f.gov
+cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
-cloud.gov
 inventory.data.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
@@ -1781,11 +1781,11 @@ new.reddit.com
 *.redditinc.com
 *.reddithelp.com
 amp.reddit.com
+*.redditmedia.com
 ads.reddit.com
 ads-api.reddit.com
-*.redditmedia.com
-www.reddit.com
 *.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1841,8 +1841,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-www.chime.com
 wp-qa.chime.com
+www.chime.com
 *.chimebank.com
 *.1debit.com
 *.chime.com
@@ -2012,16 +2012,16 @@ www.pangleglobal.com
 live-backstage.tiktok.com
 effecthouse.tiktok.com
 creatormarketplace.tiktok.com
-affiliate-id.tokopedia.com
 developers.tiktok.com
+affiliate-id.tokopedia.com
 tiktok.com
-*.tiktokv.com
 ads.tiktok.com
 *.tiktok.com
 seller-id.tokopedia.com
 shop-id.tokopedia.com
 partner.tiktokshop.com
 business.tiktok.com
+*.tiktokv.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2238,8 +2238,8 @@ ca.account.sony.com
 store.playstation.com
 direct.playstation.com
 *.playstation.net
-transact.playstation.com
 social.playstation.com
+transact.playstation.com
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
 *.playstation.net
@@ -2373,8 +2373,8 @@ amazonpayinsurance.in
 *.amazon.es
 *.amazon.co.jp
 *.amazon.co.uk
-*.amazon.com
 *.amazon.in
+*.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2414,8 +2414,8 @@ www.alibabagroup.com
 *.aliexpress.com
 *.alibabacloud.com
 *.aliexpress.ru
-*.alibaba.com
 *.Daraz.com
+*.alibaba.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2452,14 +2452,14 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.highrolling.nu
-*.kes.kindredext.net
 *.unibet.fr
+*.kes.kindredext.net
 *.kolikkopelit.com
 *.kindredext.net
 *.bingo.com
 www.32red.com
-*.unibet.com
 *.mariacasino.com
+*.unibet.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2766,8 +2766,8 @@ res.hyattinclusivecollection.com
 booking.applevacations.com
 res.en.travelbrandsagent.com
 res.vacations.united.com
-res.vacations.universalstudioshollywood.com
 vacations.united.com
+res.vacations.universalstudioshollywood.com
 www.hyattconnect.com
 res.vacations.discoverycove.com
 assets.hyatt.com
@@ -3094,8 +3094,8 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
-partner.steampowered.com
 support.steampowered.com
+partner.steampowered.com
 help.steampowered.com
 www.counter-strike.net
 www.teamfortress.com
@@ -3453,8 +3453,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
 www.starbucks.com.sg
+gift.starbucks.co.jp
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3609,9 +3609,9 @@ api.deriv.com
 derivws.com
 *.derivws.com
 *.deriv.cloud
-*.deriv.com
 smarttrader.deriv.com
 app.deriv.com
+*.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3700,8 +3700,8 @@ www.bitmoji.com
 businesshelp.snapchat.com
 developer.playcanvas.com
 login.playcanvas.com
-blog.playcanvas.com
 app.snapchat.com
+blog.playcanvas.com
 playcanvas.com
 web.snapchat.com
 snappublisher.snapchat.com
@@ -3988,28 +3988,28 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-errors.hackerone.net
 cover-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
-hackerone-user-content.com
-profile-photos-us-east-2.hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
 *.vpn.hackerone.net
 a5s.hackerone-ext-content.com
 b5s.hackerone-ext-content.com
 hackerone-ext-content.com
-profile-photos.hackerone-user-content.com
+hackerone-user-content.com
+profile-photos-us-east-2.hackerone-user-content.com
+errors.hackerone.net
 reviewer.pullrequest.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackerone.live
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-ctf.hacker101.com
 www.hackerone.com
+ctf.hacker101.com
 app.pullrequest.com
 api.hackerone.com
 hackerone.com
+profile-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
