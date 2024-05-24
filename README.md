@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 24 16:20:33 UTC 2024)
+## Domains with Bounties (Last Updated Fri May 24 16:43:47 UTC 2024)
 ```
 *.varonis.net
 *.varonis.io
@@ -10,8 +10,6 @@ hackerone "in-scope" domains
 *.varonis.com
 *.varonis.io
 *.varonis.net
-*.nflxvideo.net
-meechum.netflix.com
 *.prod.dradis.netflix.com
 *.nflxso.net
 *.prod.ftl.netflix.com
@@ -20,6 +18,8 @@ customerevents.netflix.com
 *.nflxext.com
 ichnaea.netflix.com
 secure.netflix.com
+meechum.netflix.com
+*.nflxvideo.net
 presentationtracking.netflix.com
 *.nflximg.net
 help.netflix.com
@@ -43,8 +43,6 @@ presentationtracking.netflix.com
 nmtracking.netflix.com
 meechum.netflix.com
 platform.cat.earlywarning.io
-*.clearxchange.com
-*.earlywarning.com
 earlywarningapi.force.com
 zellepay.force.com
 zelleservice.my.site.com
@@ -53,6 +51,8 @@ platformtest.cat.earlywarning.io
 api.zellepay.com
 *.zelle.com
 api.zmsp.earlywarning.com
+*.clearxchange.com
+*.earlywarning.com
 *.zellepay.com
 *.zellepay.com
 *.earlywarning.com
@@ -75,9 +75,9 @@ caesarspalaceonline.com
 *.williamhill.us
 *.us.williamhill.com
 williamhill.us
-cms.wsop.com
-www.wsop.com
 wsop.com
+www.wsop.com
+cms.wsop.com
 *.us.williamhill.com
 *.williamhill.us
 sportsbook.caesars.com
@@ -111,17 +111,17 @@ api.dyson.de
 api.dyson.ie
 shop.dyson.ru
 www.dyson.fr
+www.dyson.ch
 www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
-api.dyson.it
 www.dyson.ie
+api.dyson.it
 www.dyson.se
 *.cp.dyson.com
-www.dyson.co.nz
 api.dysoncanada.ca
+www.dyson.co.nz
 api.dyson.es
-www.dyson.pt
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -438,12 +438,12 @@ bioid-management.app
 worldcoin.org
 customer-sessions.arkoselabs.com
 verify.arkoselabs.com
+iframe.arkoselabs.com
 cdn.arkoselabs.com
 client-api.arkoselabs.com
 demo.arkoselabs.com
 portal.arkoselabs.com
 www.arkoselabs.com
-iframe.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
@@ -520,6 +520,9 @@ store.23andme.com
 therapeutics.23andme.com
 you.23andme.com
 research.23andme.com
+api.mercadopago.com
+www.mercadolibre.com.mx
+www.mercadopago.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadopago.com.uy
@@ -529,9 +532,6 @@ www.mercadolibre.com.co
 www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadopago.com.br
-www.mercadopago.com.mx
-www.mercadolibre.com.mx
-api.mercadopago.com
 api.mercadolibre.com
 www.mercadolibre.com.ar
 www.mercadopago.com.ar
@@ -564,7 +564,6 @@ paynotifications.booking.com
 portal.taxi.booking.com
 secure-supply-xml.booking.com
 kyc-onboarding.booking.com
-fhdn.fareharbor.com
 spark.fareharbor.com
 flights.booking.com
 indicative-pricing.taxi.booking.com
@@ -583,11 +582,12 @@ cars.booking.com
 booking.com
 experiences.booking.com
 demo.fareharbor.com
+teleport.fareharbor.engineering
 account.booking.com
 webhooks.booking.com
 tableau.fareharbor.engineering
-teleport.fareharbor.engineering
 www.fareharbor.com
+*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 *.fareharbor.engineering
@@ -637,8 +637,8 @@ portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-app.frontapp.com
 api2.frontapp.com
+app.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 *.boozt.com
@@ -653,8 +653,8 @@ api.mergify.com
 dashboard.mergify.com
 www.compass.com
 www.compass.com
-*.hypr.com
 *.gethypr.com
+*.hypr.com
 *.hypr.com
 *.gethypr.com
 cdn.moderntreasury.com
@@ -1011,8 +1011,8 @@ argocd.indrive.dev
 volans.tech
 new-order.eu-east-1.indriverapp.com
 ingest.clairvoyance.indrive.tech
-*.indriverapp.com
 *.indriver.com
+*.indriverapp.com
 *.indrive.com
 ci.indrive.dev
 cargo.indrive.com
@@ -1108,11 +1108,11 @@ www.prisma.fi
 www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
+*.kiwi.com
 auth.skypicker.com
 tequila.kiwi.com
 jobs.kiwi.com
 *.skypicker.com
-*.kiwi.com
 www.kiwi.com
 *.kiwi.com
 *.skypicker.com
@@ -1125,6 +1125,7 @@ sms.8x8.com
 *.p8t.us
 uc.8x8pilot.com
 work-staging.8x8.com
+connect.8x8.com
 platform.8x8pilot.com
 user-profile-staging.8x8.com
 platform.8x8.com
@@ -1138,7 +1139,6 @@ cloud8.8x8.com
 work.8x8.com
 user-profile.8x8.com
 *.8x8staging.com
-admin.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1165,6 +1165,7 @@ https://webrtc.8x8.com/
 cloud8.8x8.com
 pay.8x8.com
 admin.8x8.com
+*.superbet.rs
 *.superbet.ro
 *.superbet.com
 *.magicjackpot.ro
@@ -1176,7 +1177,6 @@ admin.8x8.com
 *.napoleongames.be
 *.napoleonsports.be
 *.superbet.pl
-*.superbet.rs
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1229,7 +1229,6 @@ hv-mtl.com
 *.wenewmoments.com
 dookeydash.com
 hv-mtl.com
-www.vrbo.com
 www.hotwirepartnercentral.com
 *.lastminute.co.nz
 www.bookabach.co.nz
@@ -1239,8 +1238,8 @@ www.expediagroup.com
 www.abritel.fr
 www.fewo-direkt.de
 www.expediataap.com
-www.mrjet.se
 *.lastminute.com.au
+www.mrjet.se
 *.cheaptickets.com
 *.carrentals.com
 www.ebookers.com
@@ -1250,10 +1249,11 @@ www.hotels.com
 www.expedia.com
 *.wotif.com
 *.expediapartnercentral.com
+www.vrbo.com
 *.expediacruises.com
 *.hotwire.com
-www.orbitz.com
 www.expediapartnersolutions.com
+www.orbitz.com
 *.travelocity.ca
 *.travelocity.com
 *.vrbo.com
@@ -1577,8 +1577,8 @@ admin.wickr.com
 *.clubhouseapi.com
 woocommerce-adapter.judge.me
 bigcommerce-adapter.judge.me
-judge.me
 shop.judge.me
+judge.me
 cache.judge.me
 judge.me
 https://judge.me/reviews
@@ -1762,10 +1762,10 @@ bridge.codefi.network
 canary.activate.codefi.network
 webhooks-api-experimental.codefi.network
 staking.consensys.io
-app.infura.io
 on-ramp.metaswap-dev.codefi.network
 support.metamask.io
 tickets.metamask.io
+app.infura.io
 activate.codefi.network
 activate.codefi.network
 canary.activate.codefi.network
@@ -1807,10 +1807,10 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
+app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
-app.taxjar.com
 *.touchtechpayments.com
 api.stripe.com
 *.stripe.com
@@ -1841,7 +1841,6 @@ sh.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 old.reddit.com
-*.reddit.com
 mod.reddit.com
 gql.reddit.com
 api.reddit.com
@@ -1856,6 +1855,7 @@ new.reddit.com
 amp.reddit.com
 *.redditmedia.com
 ads.reddit.com
+*.reddit.com
 ads-api.reddit.com
 www.reddit.com
 *.snooguts.net
@@ -1913,8 +1913,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-www.chime.com
 wp-qa.chime.com
+www.chime.com
 *.chimebank.com
 *.1debit.com
 *.chime.com
@@ -2011,13 +2011,13 @@ internal-docs.netlify.com
 *.services-prod.nsvcs.net
 *.ops.netlify.com
 *.infra-prod.nsvcs.net
-app.netlify.com
 netlify-rum.netlify.app
 screenshot-proxy.netlify.app
 *.services.netlify.com
-*.onegraph.com
 internal.netlify.com
+*.onegraph.com
 api.netlify.com
+app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -2157,11 +2157,11 @@ app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
+*.acronis.com
 *.acronis.work
 *.5nine.com
 beta-cloud.acronis.com
 account.acronis.com
-*.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2312,8 +2312,8 @@ store.playstation.com
 my.playstation.com
 *.api.playstation.com
 api.direct.playstation.com
-transact.playstation.com
 *.playstation.net
+transact.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2439,8 +2439,8 @@ itv7.itv.com
 *.amazon.es
 *.amazon.com.br
 *.amazon.co.jp
-*.amazon.ae
 *.amazon.ca
+*.amazon.ae
 *.amazon.cn
 *.amazon.fr
 amazonpayinsurance.in
@@ -2485,9 +2485,9 @@ amazonpayinsurance.in
 *.taobao.com
 *.alibaba.com
 www.alibabagroup.com
+*.aliyun.com
 *.alibabacloud.com
 *.aliyun-inc.com
-*.aliyun.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2673,8 +2673,8 @@ accounts.pixiv.net
 *.fanbox.cc
 vroid.com
 booth.pm
-www.pixiv.net
 sketch.pixiv.net
+www.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -2761,10 +2761,10 @@ app.command.cysiv.com
 api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
-www.priceline.com
-cruises.priceline.com
 press.priceline.com
+cruises.priceline.com
 www.bookingholdings.com
+secure.rezserver.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2928,31 +2928,29 @@ grammarly.ai
 *.grammarlyaws.com
 *.grammarly.com
 grammarly.ai
-sportsbook.fanduel.com
-www.tvg.com
 *.mgmt.fndlsb.net
-*.prd.fndlsb.net
 *.prod.fdbox.net
+*.prd.fndlsb.net
 *inf.fndlsb.net
 *racing.fanduel.com
 4njbets.tvgnetwork.com
 b2b.tvgnetwork.com
 service.racing.fanduel.com
+4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
-4njbets.us.betfair.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
-mobile-prod.tvg.com
 login-ia.tvg.com
 m.4njbets.tvg.com
-pabets.tvg.com
 login.tvg.com
-login-4ngbets.us.betfair.com
-login.pabets.tvg.com
+mobile-prod.tvg.com
+pabets.tvg.com
 service.tvg.com
 promos.tvg.com
 www.4njbets.com
+login-4ngbets.us.betfair.com
+login.pabets.tvg.com
 com.fanduel.android.live
 ia.tvg.com
 fdbox.net
@@ -2961,6 +2959,8 @@ fanduel.com
 *.numberfire.com
 tvg.com
 us.tvg.com
+www.tvg.com
+sportsbook.fanduel.com
 *racing.fanduel.com
 *.east.fdbox.net
 *.prod.fdbox.net
@@ -3084,8 +3084,8 @@ testnet.bitmex.com
 testnet.bitmex.com
 *.staging-airtableblocks.com
 api-staging.airtable.com
-*.staging.airtable.com
 staging.airtable.com
+*.staging.airtable.com
 *.staging-airtableblocks.com
 *.staging.airtable.com
 staging.airtable.com
@@ -3128,9 +3128,7 @@ marquee.gs.com
 *.goldmanpfm.com
 *.advisorsolutions.gs.com
 *.foliodigitalwealth.com
-api.foliofn.com
-www.rocaton.com
-apigw.foliofn.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3167,6 +3165,7 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
+store.steampowered.com
 partner.steampowered.com
 help.steampowered.com
 www.counter-strike.net
@@ -3176,7 +3175,6 @@ www.dota2.com
 support.steampowered.com
 www.valvesoftware.com
 steamcommunity.com
-store.steampowered.com
 api.steampowered.com
 www.dota2.com
 support.steampowered.com
@@ -3194,8 +3192,8 @@ developer.valvesoftware.com
 js.crypto.com
 app.mona.co
 *.mona.co
-tax.crypto.com
 www.crypto.com
+tax.crypto.com
 auth.crypto.com
 pay.crypto.com
 *.crypto.com
@@ -3219,8 +3217,8 @@ bounty-node.rsk.co
 *.deliveroo.com.kw
 *.deliveroo.com.qa
 *.deliveroo.ie
-*.deliveroo.com.sg
 *.deliveroo.it
+*.deliveroo.com.sg
 *.deliveroo.hk
 *.deliveroo.fr
 *.deliveroo.be
@@ -3526,9 +3524,6 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-www.starbucks.com.cn
-www.starbucks.co.kr
-app.starbucks.com
 gift.starbucks.co.jp
 www.starbucks.co.jp
 secureui.starbucks.com
@@ -3538,6 +3533,9 @@ login.starbucks.co.jp
 www.starbucks.co.uk
 www.starbucksreserve.com
 www.starbucks.com.sg
+www.starbucks.com.cn
+www.starbucks.co.kr
+app.starbucks.com
 www.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
@@ -3729,12 +3727,12 @@ shopifyinbox.com
 arrive-server.shopifycloud.com
 linkpop.com
 *.shopify.io
-*.shopify.com
 partners.shopify.com
-your-store.myshopify.com
-accounts.shopify.com
+*.shopify.com
 admin.shopify.com
+accounts.shopify.com
 shop.app
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3857,8 +3855,8 @@ support-api.airbnb.com
 m.airbnb.com
 *.withairbnb.com
 api.airbnb.com
-www.airbnb.com
 *.airbnb.com
+www.airbnb.com
 next.airbnb.com
 *.hoteltonight.com
 www.hoteltonight.com
@@ -3955,6 +3953,8 @@ t.umblr.com
 my.pressable.com
 simplenote.com
 simperium.com
+wordpress.com
+*.tumblr.com
 intensedebate.com
 safe.tumblr.com
 assets.tumblr.com
@@ -3964,8 +3964,6 @@ mailpoet.com
 happy.tools
 akismet.com
 www.tumblr.com
-wordpress.com
-*.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
@@ -4003,8 +4001,6 @@ blog.irccloud.com
 custody.coinbase.com
 prime.coinbase.com
 international.coinbase.com
-coinbase.com
-*.coinbase.com
 pro.coinbase.com
 institutional.coinbase.com
 commerce.coinbase.com
@@ -4012,6 +4008,8 @@ commerce.coinbase.com
 cloud.coinbase.com
 api.coinbase.com
 api.custody.coinbase.com
+coinbase.com
+*.coinbase.com
 nft.coinbase.com
 *.base.org
 *.coinbase.com
@@ -4316,10 +4314,10 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 repo.magento.com
+accounts.magento.cloud
 marketplace.magento.com
 account.magento.com
 magento.com
-accounts.magento.cloud
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
