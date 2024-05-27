@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 27 06:24:41 UTC 2024)
+## Domains with Bounties (Last Updated Mon May 27 06:45:08 UTC 2024)
 ```
 *.varonis.net
 *.varonis.io
@@ -72,12 +72,12 @@ platform.cat.earlywarning.io
 api.americanwagering.com
 sportsbook.caesars.com
 *.us.williamhill.com
+caesarspalaceonline.com
 wsop.com
 williamhill.us
-caesarspalaceonline.com
-www.wsop.com
 *.williamhill.us
 cms.wsop.com
+www.wsop.com
 *.us.williamhill.com
 *.williamhill.us
 sportsbook.caesars.com
@@ -111,17 +111,17 @@ api.dyson.de
 api.dyson.ie
 shop.dyson.ru
 www.dyson.fr
-www.dyson.ch
 www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
-www.dyson.ie
 api.dyson.it
+www.dyson.ie
 www.dyson.se
 *.cp.dyson.com
-api.dysoncanada.ca
 www.dyson.co.nz
+api.dysoncanada.ca
 api.dyson.es
+www.dyson.com.tr
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -659,8 +659,8 @@ api.mergify.com
 dashboard.mergify.com
 www.compass.com
 www.compass.com
-*.gethypr.com
 *.hypr.com
+*.gethypr.com
 *.hypr.com
 *.gethypr.com
 cdn.moderntreasury.com
@@ -738,9 +738,9 @@ gamma.redoxstage.com
 launch.gamma.redoxstage.com
 sftp.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
+www.redoxengine.com
 testapp.redoxengine.com
 dashboard.gamma.redoxstage.com
-www.redoxengine.com
 10x.redoxengine.com
 10x.redoxengine.com
 testapp.redoxengine.com
@@ -919,8 +919,8 @@ phabricator.allizom.org
 developer.mozilla.org
 sync.services.mozilla.com
 hg.mozilla.org
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 firefox-ci-tc.services.mozilla.com
 monitor.mozilla.org
 relay.firefox.com
@@ -1234,8 +1234,8 @@ hv-mtl.com
 *.wenewmoments.com
 dookeydash.com
 hv-mtl.com
-www.hotwirepartnercentral.com
 *.lastminute.co.nz
+www.hotwirepartnercentral.com
 www.bookabach.co.nz
 www.expediaagents.com
 www.ebookers.fi
@@ -1251,16 +1251,16 @@ www.hotels.com
 *.expediapartnercentral.com
 www.vrbo.com
 *.hotwire.com
-www.expediapartnersolutions.com
 www.orbitz.com
+www.expediapartnersolutions.com
 *.travelocity.ca
 *.vrbo.com
 *.lastminute.com.au
 www.stayz.com.au
 www.expediataap.com
 *.expediacruises.com
-www.expediagroup.com
 *.travelocity.com
+www.expediagroup.com
 www.expedia.com
 *.vrbo.com
 *.hotwire.com
@@ -1765,10 +1765,10 @@ bridge.codefi.network
 canary.activate.codefi.network
 webhooks-api-experimental.codefi.network
 staking.consensys.io
-app.infura.io
 on-ramp.metaswap-dev.codefi.network
 support.metamask.io
 tickets.metamask.io
+app.infura.io
 activate.codefi.network
 activate.codefi.network
 canary.activate.codefi.network
@@ -1810,10 +1810,10 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
+app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
-app.taxjar.com
 *.touchtechpayments.com
 api.stripe.com
 *.stripe.com
@@ -1993,10 +1993,10 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-identity.yoti.com
 ccloud.yoti.com
-code.yoti.com
+identity.yoti.com
 core.yoti.com
+code.yoti.com
 www.yotisign.com
 api.yoti.com
 hub.yoti.com
@@ -2016,8 +2016,8 @@ internal-docs.netlify.com
 *.infra-prod.nsvcs.net
 netlify-rum.netlify.app
 screenshot-proxy.netlify.app
-*.onegraph.com
 internal.netlify.com
+*.onegraph.com
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2078,7 +2078,6 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-creatormarketplace.tiktok.com
 careers.tiktok.com
 fp-sg.tiktokv.com
 academy-outbound-ads.tiktok.com
@@ -2086,10 +2085,11 @@ pay.tokopediax.com
 shop.tiktok.com
 shop-id.tokopedia.com
 developers.tiktok.com
+creatormarketplace.tiktok.com
 partner.tiktokshop.com
 business.tiktok.com
-www.pangleglobal.com
 affiliate-id.tokopedia.com
+www.pangleglobal.com
 tiktok.com
 effecthouse.tiktok.com
 *.tiktokv.com
@@ -2313,8 +2313,8 @@ social.playstation.com
 *.sonyentertainmentnetwork.com
 my.playstation.com
 *.api.playstation.com
-*.playstation.net
 transact.playstation.com
+*.playstation.net
 store.playstation.com
 api.direct.playstation.com
 *.playstation.net
@@ -2641,8 +2641,8 @@ app.nordpass.com
 app.nordpass.com
 *.line.naver.jp
 *.line-apps.com
-*.line.me
 *.line.biz
+*.line.me
 *.linecorp.com
 *.line.me
 *.line-apps.com
@@ -2764,10 +2764,10 @@ app.command.cysiv.com
 api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
+www.priceline.com
 cruises.priceline.com
 press.priceline.com
 www.bookingholdings.com
-secure.rezserver.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2932,26 +2932,26 @@ grammarly.ai
 *.grammarly.com
 grammarly.ai
 *.mgmt.fndlsb.net
-*.prd.fndlsb.net
 *.prod.fdbox.net
+*.prd.fndlsb.net
 *inf.fndlsb.net
 *racing.fanduel.com
 4njbets.tvgnetwork.com
 b2b.tvgnetwork.com
 service.racing.fanduel.com
+4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
-4njbets.us.betfair.com
 mobile-prod.tvg.com
-m.4njbets.tvg.com
 pabets.tvg.com
-login.tvg.com
-www.4njbets.com
 service.tvg.com
 promos.tvg.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
 login-ia.tvg.com
+m.4njbets.tvg.com
+login.tvg.com
+www.4njbets.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
 com.fanduel.android.live
@@ -2959,8 +2959,8 @@ ia.tvg.com
 fdbox.net
 *.east.fdbox.net
 fanduel.com
-tvg.com
 us.tvg.com
+tvg.com
 sportsbook.fanduel.com
 www.tvg.com
 *.numberfire.com
@@ -3170,6 +3170,7 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
+store.steampowered.com
 partner.steampowered.com
 help.steampowered.com
 www.counter-strike.net
@@ -3177,7 +3178,6 @@ www.teamfortress.com
 partner.steamgames.com
 www.dota2.com
 support.steampowered.com
-store.steampowered.com
 api.steampowered.com
 www.valvesoftware.com
 steamcommunity.com
@@ -3294,11 +3294,11 @@ privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
 verkkopalvelu.tapiola.fi
 ext-gw.lahitapiola.fi
-asiointi.lahitapiola.fi
-yrityspalvelu.tapiola.fi
 www.lahitapiola.fi
 secure.lahitapiola.fi
 tunnistus.lahitapiola.fi
+asiointi.lahitapiola.fi
+yrityspalvelu.tapiola.fi
 api.lahitapiola.fi
 *.lahitapiola.fi
 *.beta.lahitapiola.fi
@@ -3407,10 +3407,10 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.avecspotify.com
 *.atspotify.com
-*.fromspotify.com
+*.avecspotify.com
 *.forspotify.com
+*.fromspotify.com
 *.tospotify.com
 backstage.io
 assets.spotify.com
@@ -3456,11 +3456,11 @@ api.wordpress.org
 *.buddypress.org
 bbpress.org
 profiles.wordpress.org
-*.wordpress.org
 *.trac.wordpress.org
  *.svn.wordpress.org
  *.git.wordpress.org
  github.com/WordPress
+*.wordpress.org
 *.wordpress.net
 *.wordpress.org
 *.buddypress.org
@@ -3537,8 +3537,8 @@ login.starbucks.co.jp
 www.starbucks.co.uk
 www.starbucksreserve.com
 www.starbucks.com.sg
-app.starbucks.com
 www.starbucks.com.cn
+app.starbucks.com
 www.starbucks.com
 www.starbucks.co.jp
 www.starbucks.co.kr
@@ -3773,8 +3773,8 @@ map.snapchat.com
 www.bitmoji.com
 developer.playcanvas.com
 login.playcanvas.com
-blog.playcanvas.com
 app.snapchat.com
+blog.playcanvas.com
 playcanvas.com
 snappublisher.snapchat.com
 ads.snapchat.com
@@ -3851,6 +3851,7 @@ open.airbnb.com
 callbacks.airbnb.com
 *.atairbnb.com
 *.byairbnb.com
+www.airbnb.com
 assets.airbnb.com
 support-api.airbnb.com
 *.airbnb-aws.com
@@ -3859,7 +3860,6 @@ support-api.airbnb.com
 m.airbnb.com
 *.withairbnb.com
 api.airbnb.com
-www.airbnb.com
 www.hoteltonight.com
 *.luxuryretreats.com
 *.hoteltonight-test.com
@@ -3959,8 +3959,6 @@ t.umblr.com
 my.pressable.com
 simplenote.com
 simperium.com
-wordpress.com
-*.tumblr.com
 intensedebate.com
 safe.tumblr.com
 assets.tumblr.com
@@ -3969,6 +3967,8 @@ api.tumblr.com
 mailpoet.com
 happy.tools
 akismet.com
+wordpress.com
+*.tumblr.com
 www.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
@@ -4087,8 +4087,8 @@ hackerone-user-content.com
 app.pullrequest.com
 a5s.hackerone-ext-content.com
 api.hackerone.com
-hackerone.com
 www.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
