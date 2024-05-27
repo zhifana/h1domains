@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 27 16:20:48 UTC 2024)
+## Domains with Bounties (Last Updated Mon May 27 16:45:09 UTC 2024)
 ```
 *.varonis.net
 *.varonis.io
@@ -43,6 +43,7 @@ presentationtracking.netflix.com
 nmtracking.netflix.com
 meechum.netflix.com
 platform.cat.earlywarning.io
+*.clearxchange.com
 zellepay.force.com
 zelleservice.my.site.com
 ews-fusion.my.site.com
@@ -50,7 +51,6 @@ platformtest.cat.earlywarning.io
 api.zellepay.com
 *.zelle.com
 api.zmsp.earlywarning.com
-*.clearxchange.com
 *.earlywarning.com
 *.zellepay.com
 earlywarningapi.force.com
@@ -72,11 +72,11 @@ platform.cat.earlywarning.io
 api.americanwagering.com
 sportsbook.caesars.com
 *.us.williamhill.com
-caesarspalaceonline.com
 williamhill.us
+caesarspalaceonline.com
 *.williamhill.us
-wsop.com
 cms.wsop.com
+wsop.com
 www.wsop.com
 *.us.williamhill.com
 *.williamhill.us
@@ -444,12 +444,12 @@ bioid-management.app
 worldcoin.org
 customer-sessions.arkoselabs.com
 verify.arkoselabs.com
+iframe.arkoselabs.com
 cdn.arkoselabs.com
 client-api.arkoselabs.com
 demo.arkoselabs.com
 portal.arkoselabs.com
 www.arkoselabs.com
-iframe.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
@@ -463,8 +463,8 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.analvids.com
-www.ddfcontent.com
 www.pornworld.com
+www.ddfcontent.com
 www.pornbox.com
 www.pornbox.com
 www.analvids.com
@@ -526,6 +526,8 @@ store.23andme.com
 therapeutics.23andme.com
 you.23andme.com
 research.23andme.com
+api.mercadopago.com
+www.mercadopago.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadopago.com.uy
@@ -533,8 +535,6 @@ www.mercadolibre.com.pe
 www.mercadolibre.com.uy
 www.mercadolibre.com.co
 www.mercadopago.cl
-www.mercadopago.com.mx
-api.mercadopago.com
 www.mercadopago.com.br
 api.mercadolibre.com
 www.mercadolibre.com.mx
@@ -570,7 +570,6 @@ paynotifications.booking.com
 portal.taxi.booking.com
 secure-supply-xml.booking.com
 kyc-onboarding.booking.com
-fhdn.fareharbor.com
 spark.fareharbor.com
 flights.booking.com
 indicative-pricing.taxi.booking.com
@@ -588,12 +587,13 @@ widget.rentalcars.com
 cars.booking.com
 experiences.booking.com
 demo.fareharbor.com
+teleport.fareharbor.engineering
 account.booking.com
 webhooks.booking.com
 tableau.fareharbor.engineering
-teleport.fareharbor.engineering
 *.rentalcars.com
 secure.booking.com
+fhdn.fareharbor.com
 *.booking.com
 *.rentalcars.com
 *.fareharbor.engineering
@@ -738,9 +738,9 @@ gamma.redoxstage.com
 launch.gamma.redoxstage.com
 sftp.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
+www.redoxengine.com
 testapp.redoxengine.com
 dashboard.gamma.redoxstage.com
-www.redoxengine.com
 10x.redoxengine.com
 10x.redoxengine.com
 testapp.redoxengine.com
@@ -785,7 +785,6 @@ www.visa.co.uk
 visa.co.za
 www.fraedom.com
 www.practicalmoneyskills.org
-www.visa.co.ve
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
@@ -810,6 +809,7 @@ www.cybersource.com
 www.authorize.net
 www.practicalbusinessskills.org
 sandbox.authorize.net
+bm.visa.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -877,8 +877,8 @@ developer.visa.com
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
-yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1133,8 +1133,8 @@ uc.8x8pilot.com
 work-staging.8x8.com
 platform.8x8pilot.com
 user-profile-staging.8x8.com
-sso.8x8pilot.com
 platform.8x8.com
+sso.8x8pilot.com
 sso.8x8.com
 *.jitsi.net
 *.jit.si
@@ -1234,6 +1234,7 @@ hv-mtl.com
 *.wenewmoments.com
 dookeydash.com
 hv-mtl.com
+www.vrbo.com
 www.hotwirepartnercentral.com
 *.lastminute.co.nz
 www.bookabach.co.nz
@@ -1245,7 +1246,6 @@ www.mrjet.se
 *.carrentals.com
 www.ebookers.com
 *.expediapartnercentral.com
-www.vrbo.com
 www.orbitz.com
 www.expediapartnersolutions.com
 *.travelocity.ca
@@ -1253,8 +1253,8 @@ www.expediapartnersolutions.com
 www.expediagroup.com
 www.expedia.com
 *.lastminute.com.au
-www.stayz.com.au
 www.expediataap.com
+www.stayz.com.au
 *.travelocity.com
 www.flights.com
 *.hotwire.com
@@ -1675,8 +1675,8 @@ playwonderbox.com
 *.tinderwebstaging.com
 therecord.media
 hatching.io
-app.recordedfuture.com
 id.recordedfuture.com
+app.recordedfuture.com
 api.recordedfuture.com
 tria.ge
 securitytrails.com
@@ -1718,10 +1718,10 @@ www.fedramp.gov
 marketplace.fedramp.gov
 federalist.18f.gov
 federalist-docs.18f.gov
-cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
+cloud.gov
 catalog.data.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
@@ -1765,10 +1765,10 @@ bridge.codefi.network
 canary.activate.codefi.network
 webhooks-api-experimental.codefi.network
 staking.consensys.io
-app.infura.io
 on-ramp.metaswap-dev.codefi.network
 support.metamask.io
 tickets.metamask.io
+app.infura.io
 activate.codefi.network
 activate.codefi.network
 canary.activate.codefi.network
@@ -1859,8 +1859,8 @@ amp.reddit.com
 ads.reddit.com
 old.reddit.com
 *.reddit.com
-www.reddit.com
 ads-api.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1993,8 +1993,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-identity.yoti.com
 ccloud.yoti.com
+identity.yoti.com
 core.yoti.com
 code.yoti.com
 www.yotisign.com
@@ -2670,13 +2670,13 @@ dic.pixiv.net
 payment.pixiv.net
 novel.pixiv.net
 coban.pixiv.net
+www.pixiv.net
 neoket.net
 hub.vroid.com
 accounts.pixiv.net
 *.fanbox.cc
 vroid.com
 booth.pm
-www.pixiv.net
 sketch.pixiv.net
 *.fanbox.cc
 booth.pm
@@ -2840,10 +2840,10 @@ blueskytours.globalbookingsolutions.com
 booking.cheapcaribbean.com
 res.hyattinclusivecollection.com
 booking.applevacations.com
-res.en.travelbrandsagent.com
 res.vacations.united.com
-res.vacations.universalstudioshollywood.com
 vacations.united.com
+res.vacations.universalstudioshollywood.com
+res.en.travelbrandsagent.com
 www.hyattconnect.com
 res.vacations.discoverycove.com
 assets.hyatt.com
@@ -3005,22 +3005,22 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 *.braintree.tools
 *.paylution.com
-sandbox.braintreegateway.com
-swiftfinancial.com
-prequal.swiftfinancial.com
-www.swiftcapital.com
-swiftcapital.com
+decision.swiftfinancial.com
 partner.swiftfinancial.com
 pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 www.swiftfinancial.com
+swiftfinancial.com
+prequal.swiftfinancial.com
 my.loanbuilder.com
-decision.swiftfinancial.com
+www.swiftcapital.com
+swiftcapital.com
 py.pl
 www.loanbuilder.com
 api.swiftfinancial.com
 loanbuilder.com
 my.swiftfinancial.com
+sandbox.braintreegateway.com
 *.braintreepayments.com
 api.loanbuilder.com
 paypalobjects.com
@@ -3199,9 +3199,9 @@ app.mona.co
 *.mona.co
 auth.crypto.com
 merchant.crypto.com
-tax.crypto.com
-www.crypto.com
 pay.crypto.com
+www.crypto.com
+tax.crypto.com
 *.crypto.com
 *.crypto.com
 *.mona.co
@@ -3222,8 +3222,8 @@ bounty-node.rsk.co
 *.deliveroo.com.kw
 *.deliveroo.com.qa
 *.deliveroo.ie
-*.deliveroo.it
 *.deliveroo.com.sg
+*.deliveroo.it
 *.deliveroo.hk
 *.deliveroo.fr
 *.deliveroo.be
@@ -3300,9 +3300,9 @@ tunnistus.lahitapiola.fi
 asiointi.lahitapiola.fi
 yrityspalvelu.tapiola.fi
 api.lahitapiola.fi
-*.lahitapiola.fi
 *.beta.lahitapiola.fi
 *.lahitapiolarahoitus.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3484,12 +3484,12 @@ gutenberg.run
  *.git.wordpress.org
  github.com/WordPress
 rockstarnorth.com
-prod.ros.rockstargames.com
 store.rockstargames.com
 lifeinvader.com
 circolocorecords.com/
 socialclub.rockstargames.com
 support.rockstargames.com
+prod.ros.rockstargames.com
 *.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
@@ -3529,8 +3529,6 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-www.starbucks.com.cn
-app.starbucks.com
 gift.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.ca
@@ -3539,6 +3537,8 @@ login.starbucks.co.jp
 www.starbucks.co.uk
 www.starbucksreserve.com
 www.starbucks.com.sg
+www.starbucks.com.cn
+app.starbucks.com
 www.starbucks.com
 www.starbucks.co.jp
 www.starbucks.co.kr
@@ -3622,8 +3622,8 @@ education.github.com
 *.githubusercontent.com
 npmjs.com
 npmjs.org
-*.uberinternal.com
 *ubereats.com
+*.uberinternal.com
 *.uberinternal.com
 *ubereats.com
 api.mapbox.com
@@ -3817,10 +3817,10 @@ map.snapchat.com
 story.snapchat.com
 *.sc-corp.net
 fw-update.ubnt.com
+rma.ui.com
 careers.ui.com
 unifi.ui.com
 *.ubnt.com
-ispdesign.ui.com
 *.ubnt.com
 *.ui.com
 store.ui.com
@@ -3925,9 +3925,9 @@ gnip.com
 api.x.ai
 *.vine.co
 grok.x.ai
+x.com
 *.twitter.com
 *.twimg.com
-x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3959,6 +3959,8 @@ t.umblr.com
 my.pressable.com
 simplenote.com
 simperium.com
+wordpress.com
+*.tumblr.com
 intensedebate.com
 safe.tumblr.com
 assets.tumblr.com
@@ -3967,8 +3969,6 @@ api.tumblr.com
 mailpoet.com
 happy.tools
 akismet.com
-wordpress.com
-*.tumblr.com
 www.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
@@ -4038,11 +4038,11 @@ edgeapi.slack.com
 slackatwork.com
 slack-redir.net
 spaces.pm
+*.quip.com
 slack-imgs.com
 www.quip.com
 slack-status.com
 app.slack.com
-*.quip.com
 api.slack.com
 slack.com
 slack.com
@@ -4067,17 +4067,17 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
+cover-photos-us-east-2.hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
 *.vpn.hackerone.net
-cover-photos-us-east-2.hackerone-user-content.com
-hackerone-ext-content.com
 b5s.hackerone-ext-content.com
+hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 errors.hackerone.net
 mta-sts.wearehackerone.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone.live
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 profile-photos.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 reviewer.pullrequest.com
@@ -4086,8 +4086,8 @@ hackerone-user-content.com
 a5s.hackerone-ext-content.com
 api.hackerone.com
 app.pullrequest.com
-www.hackerone.com
 ctf.hacker101.com
+www.hackerone.com
 hackerone.com
 hackerone.com
 api.hackerone.com
