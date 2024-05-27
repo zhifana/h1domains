@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 27 04:22:02 UTC 2024)
+## Domains with Bounties (Last Updated Mon May 27 04:42:04 UTC 2024)
 ```
 *.varonis.net
 *.varonis.io
@@ -12,10 +12,10 @@ hackerone "in-scope" domains
 *.varonis.net
 *.nflxso.net
 *.prod.ftl.netflix.com
-customerevents.netflix.com
 *.prod.cloud.netflix.com
-meechum.netflix.com
+customerevents.netflix.com
 *.nflxvideo.net
+meechum.netflix.com
 beacon.netflix.com
 nmtracking.netflix.com
 *.nflximg.net
@@ -43,7 +43,6 @@ presentationtracking.netflix.com
 nmtracking.netflix.com
 meechum.netflix.com
 platform.cat.earlywarning.io
-*.clearxchange.com
 earlywarningapi.force.com
 zellepay.force.com
 zelleservice.my.site.com
@@ -52,6 +51,7 @@ platformtest.cat.earlywarning.io
 api.zellepay.com
 *.zelle.com
 api.zmsp.earlywarning.com
+*.clearxchange.com
 *.zellepay.com
 *.earlywarning.com
 *.zellepay.com
@@ -69,15 +69,15 @@ zellepay.force.com
 zelleservice.my.site.com
 ews-fusion.my.site.com
 platform.cat.earlywarning.io
-*.us.williamhill.com
 api.americanwagering.com
 sportsbook.caesars.com
-caesarspalaceonline.com
+*.us.williamhill.com
 wsop.com
 williamhill.us
+caesarspalaceonline.com
 www.wsop.com
-cms.wsop.com
 *.williamhill.us
+cms.wsop.com
 *.us.williamhill.com
 *.williamhill.us
 sportsbook.caesars.com
@@ -111,17 +111,17 @@ api.dyson.de
 api.dyson.ie
 shop.dyson.ru
 www.dyson.fr
-www.dyson.ch
 www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
-www.dyson.ie
 api.dyson.it
+www.dyson.ie
 www.dyson.se
 *.cp.dyson.com
-api.dysoncanada.ca
 www.dyson.co.nz
+api.dysoncanada.ca
 api.dyson.es
+www.dyson.com.tr
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -538,8 +538,8 @@ api.mercadopago.com
 www.mercadolivre.com.br
 www.mercadopago.com.ar
 www.mercadolibre.com.ar
-www.mercadopago.com.br
 api.mercadolibre.com
+www.mercadopago.com.br
 www.mercadolibre.com.mx
 www.mercadolibre.cl
 api.mercadopago.com
@@ -570,6 +570,7 @@ paynotifications.booking.com
 portal.taxi.booking.com
 secure-supply-xml.booking.com
 kyc-onboarding.booking.com
+fhdn.fareharbor.com
 spark.fareharbor.com
 flights.booking.com
 indicative-pricing.taxi.booking.com
@@ -593,7 +594,6 @@ tableau.fareharbor.engineering
 teleport.fareharbor.engineering
 www.fareharbor.com
 *.rentalcars.com
-secure.booking.com
 *.booking.com
 *.rentalcars.com
 *.fareharbor.engineering
@@ -659,8 +659,8 @@ api.mergify.com
 dashboard.mergify.com
 www.compass.com
 www.compass.com
-*.hypr.com
 *.gethypr.com
+*.hypr.com
 *.hypr.com
 *.gethypr.com
 cdn.moderntreasury.com
@@ -785,6 +785,7 @@ www.visa.co.uk
 visa.co.za
 www.fraedom.com
 www.practicalmoneyskills.org
+www.visa.co.ve
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
@@ -809,7 +810,6 @@ www.visa.com.cn
 www.cybersource.com
 www.authorize.net
 www.practicalbusinessskills.org
-sandbox.authorize.net
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -920,8 +920,8 @@ developer.mozilla.org
 sync.services.mozilla.com
 hg.mozilla.org
 community-tc.services.mozilla.com
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 firefox-ci-tc.services.mozilla.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 monitor.mozilla.org
 relay.firefox.com
 lando.services.mozilla.com
@@ -1235,6 +1235,7 @@ hv-mtl.com
 *.wenewmoments.com
 dookeydash.com
 hv-mtl.com
+www.vrbo.com
 www.hotwirepartnercentral.com
 *.lastminute.co.nz
 www.bookabach.co.nz
@@ -1250,10 +1251,9 @@ www.flights.com
 www.hotels.com
 *.wotif.com
 *.expediapartnercentral.com
-www.vrbo.com
 *.hotwire.com
-www.expediapartnersolutions.com
 www.orbitz.com
+www.expediapartnersolutions.com
 *.travelocity.ca
 *.vrbo.com
 www.expedia.com
@@ -1261,8 +1261,8 @@ www.expedia.com
 www.stayz.com.au
 www.expediataap.com
 *.expediacruises.com
-*.travelocity.com
 www.expediagroup.com
+*.travelocity.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1390,9 +1390,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 www.cheapflights.com
 www.hotelscombined.com
 www.momondo.com
@@ -1766,10 +1766,10 @@ bridge.codefi.network
 canary.activate.codefi.network
 webhooks-api-experimental.codefi.network
 staking.consensys.io
+app.infura.io
 on-ramp.metaswap-dev.codefi.network
 support.metamask.io
 tickets.metamask.io
-app.infura.io
 activate.codefi.network
 activate.codefi.network
 canary.activate.codefi.network
@@ -1811,10 +1811,10 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
-app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
+app.taxjar.com
 *.touchtechpayments.com
 api.stripe.com
 *.stripe.com
@@ -1994,10 +1994,10 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-identity.yoti.com
 ccloud.yoti.com
-code.yoti.com
+identity.yoti.com
 core.yoti.com
+code.yoti.com
 www.yotisign.com
 api.yoti.com
 hub.yoti.com
@@ -2079,6 +2079,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
+partner.tiktokshop.com
+business.tiktok.com
 careers.tiktok.com
 fp-sg.tiktokv.com
 academy-outbound-ads.tiktok.com
@@ -2087,17 +2089,15 @@ shop.tiktok.com
 shop-id.tokopedia.com
 developers.tiktok.com
 creatormarketplace.tiktok.com
-partner.tiktokshop.com
-business.tiktok.com
 seller-id.tokopedia.com
-www.pangleglobal.com
 affiliate-id.tokopedia.com
-ads.tiktok.com
+www.pangleglobal.com
 tiktok.com
 effecthouse.tiktok.com
 *.tiktokv.com
 live-backstage.tiktok.com
 *.tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2642,8 +2642,8 @@ app.nordpass.com
 app.nordpass.com
 *.line.naver.jp
 *.line-apps.com
-*.line.me
 *.line.biz
+*.line.me
 *.linecorp.com
 *.line.me
 *.line-apps.com
@@ -2765,10 +2765,10 @@ app.command.cysiv.com
 api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
-www.priceline.com
 cruises.priceline.com
 press.priceline.com
 www.bookingholdings.com
+secure.rezserver.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2933,26 +2933,26 @@ grammarly.ai
 *.grammarly.com
 grammarly.ai
 *.mgmt.fndlsb.net
-*.prod.fdbox.net
 *.prd.fndlsb.net
+*.prod.fdbox.net
 *inf.fndlsb.net
 *racing.fanduel.com
 4njbets.tvgnetwork.com
 b2b.tvgnetwork.com
 service.racing.fanduel.com
-4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
+4njbets.us.betfair.com
 mobile-prod.tvg.com
+m.4njbets.tvg.com
 pabets.tvg.com
+login.tvg.com
+www.4njbets.com
 service.tvg.com
 promos.tvg.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
 login-ia.tvg.com
-m.4njbets.tvg.com
-login.tvg.com
-www.4njbets.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
 com.fanduel.android.live
@@ -2960,8 +2960,8 @@ ia.tvg.com
 fdbox.net
 *.east.fdbox.net
 fanduel.com
-us.tvg.com
 tvg.com
+us.tvg.com
 sportsbook.fanduel.com
 www.tvg.com
 *.numberfire.com
@@ -3031,8 +3031,8 @@ paypalobjects.com
 *.braintree-api.com
 *.hyperwallet.com
 *.paypalcorp.com
-*.braintreegateway.com
 *.paypal.com
+*.braintreegateway.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3132,9 +3132,6 @@ marquee.gs.com
 *.goldmanpfm.com
 *.advisorsolutions.gs.com
 *.foliodigitalwealth.com
-api.foliofn.com
-www.rocaton.com
-apigw.foliofn.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3198,11 +3195,11 @@ developer.valvesoftware.com
 js.crypto.com
 app.mona.co
 *.mona.co
+auth.crypto.com
+merchant.crypto.com
+pay.crypto.com
 tax.crypto.com
 www.crypto.com
-auth.crypto.com
-pay.crypto.com
-merchant.crypto.com
 *.crypto.com
 *.crypto.com
 *.mona.co
@@ -3219,8 +3216,8 @@ https://crypto.com/price
 bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
-*.deliveroo.com.kw
 *.deliveroo.com.hk
+*.deliveroo.com.kw
 *.deliveroo.com.qa
 *.deliveroo.ie
 *.deliveroo.com.sg
@@ -3382,9 +3379,9 @@ bma.badoo.com
 translate.badoo.com
 ccardsus1.badoo.com
 bma.bumble.com
+ccardseu1.badoo.com
 us1.badoo.com
 eu1.badoo.com
-ccardseu1.badoo.com
 badoocdn.com
 hotornot.com
 getofficial.co
@@ -3410,9 +3407,9 @@ chatdate.app
 getofficial.co
 *.avecspotify.com
 *.atspotify.com
-*.tospotify.com
 *.fromspotify.com
 *.forspotify.com
+*.tospotify.com
 backstage.io
 assets.spotify.com
 *.withspotify.com
@@ -3530,6 +3527,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
+www.starbucks.com.cn
+app.starbucks.com
 gift.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.ca
@@ -3538,8 +3537,6 @@ login.starbucks.co.jp
 www.starbucks.co.uk
 www.starbucksreserve.com
 www.starbucks.com.sg
-app.starbucks.com
-www.starbucks.com.cn
 www.starbucks.com
 www.starbucks.co.jp
 www.starbucks.co.kr
@@ -3562,9 +3559,9 @@ cart.starbucks.co.jp
 openapi.starbucks.com
 secureui.starbucks.com
 www.blockchain.info
+*.blockchain.com
 api.blockchain.info
 ws.blockchain.info
-*.blockchain.com
 *.blockchain.com
 www.blockchain.info
 api.blockchain.info
@@ -3762,7 +3759,6 @@ launch.playcanvas.com
 msg.playcanvas.com
 relay.playcanvas.com
 playcanv.as
-www.bitstrips.com
 geofilters.snapchat.com
 rt.playcanvas.com
 store.playcanvas.com
@@ -3781,6 +3777,7 @@ playcanvas.com
 snappublisher.snapchat.com
 ads.snapchat.com
 web.snapchat.com
+www.bitstrips.com
 story.snapchat.com
 business.snapchat.com
 businesshelp.snapchat.com
@@ -3852,6 +3849,7 @@ open.airbnb.com
 callbacks.airbnb.com
 *.atairbnb.com
 *.byairbnb.com
+www.airbnb.com
 assets.airbnb.com
 support-api.airbnb.com
 *.airbnb-aws.com
@@ -3860,7 +3858,6 @@ support-api.airbnb.com
 m.airbnb.com
 *.withairbnb.com
 api.airbnb.com
-www.airbnb.com
 www.hoteltonight.com
 *.luxuryretreats.com
 *.hoteltonight-test.com
@@ -3943,6 +3940,7 @@ api.cloudflare.com
 cloudflareworkers.com
 dash.cloudflare.com
 *.cloudflarepartners.com
+waf.cumulusfire.net
 dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
@@ -4084,11 +4082,11 @@ reviewer.pullrequest.com
 ctf.hacker101.com
 www.wearehackerone.com
 hackerone-user-content.com
-hackerone.com
 www.hackerone.com
 api.hackerone.com
 app.pullrequest.com
 a5s.hackerone-ext-content.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4141,9 +4139,9 @@ node1.pivcac.prod.login.gov
 *.gravitational.io
 cloud.gravitational.io
 askpam.ai
+h1-your-domain.teleport.sh
 platform.teleport.sh
 *.goteleport.com
-h1-your-domain.teleport.sh
 *.teleportinfra.sh
 *.goteleport.com
 *.gravitational.com
