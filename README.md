@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 27 23:41:59 UTC 2024)
+## Domains with Bounties (Last Updated Tue May 28 01:04:05 UTC 2024)
 ```
 *.varonis.net
 *.varonis.io
@@ -43,6 +43,7 @@ presentationtracking.netflix.com
 nmtracking.netflix.com
 meechum.netflix.com
 platform.cat.earlywarning.io
+*.clearxchange.com
 zellepay.force.com
 zelleservice.my.site.com
 ews-fusion.my.site.com
@@ -50,7 +51,6 @@ platformtest.cat.earlywarning.io
 api.zellepay.com
 *.zelle.com
 api.zmsp.earlywarning.com
-*.clearxchange.com
 *.zellepay.com
 earlywarningapi.force.com
 *.earlywarning.com
@@ -424,8 +424,8 @@ media.remitly.io
 partner-webhook.remitly.io
 rates.rewire.com
 app3.rewire.to
-*.worldcoin-distributors.com
 getworldcoin.com
+*.worldcoin-distributors.com
 bioid-management.app
 *.consumer.worldcoin.org
 worldcoin.org
@@ -444,11 +444,11 @@ bioid-management.app
 worldcoin.org
 customer-sessions.arkoselabs.com
 verify.arkoselabs.com
+iframe.arkoselabs.com
 cdn.arkoselabs.com
 client-api.arkoselabs.com
 demo.arkoselabs.com
 portal.arkoselabs.com
-iframe.arkoselabs.com
 www.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
@@ -540,8 +540,8 @@ www.mercadopago.com.br
 www.mercadolibre.com.mx
 www.mercadopago.com.ar
 www.mercadolibre.com.ar
-www.mercadolivre.com.br
 www.mercadolibre.cl
+www.mercadolivre.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -570,6 +570,7 @@ paynotifications.booking.com
 portal.taxi.booking.com
 secure-supply-xml.booking.com
 kyc-onboarding.booking.com
+fhdn.fareharbor.com
 spark.fareharbor.com
 flights.booking.com
 indicative-pricing.taxi.booking.com
@@ -593,7 +594,6 @@ tableau.fareharbor.engineering
 teleport.fareharbor.engineering
 *.rentalcars.com
 secure.booking.com
-fhdn.fareharbor.com
 *.booking.com
 *.rentalcars.com
 *.fareharbor.engineering
@@ -695,8 +695,8 @@ manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 www.gocardless.com
-*.gocardless-staging.io
 api-sandbox.gocardless.com
+*.gocardless-staging.io
 *.gocardless-lab.io
 *.gocardless.io
 *.gocardless-banking.io
@@ -785,11 +785,11 @@ www.visa.co.uk
 visa.co.za
 www.fraedom.com
 www.practicalmoneyskills.org
+bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
-bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -891,8 +891,8 @@ app.krisha.kz
 kolesa.kz
 api.kolesa.kz
 m.kolesa.kz
-krisha.kz
 id.kolesa.kz
+krisha.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -919,8 +919,8 @@ developer.mozilla.org
 sync.services.mozilla.com
 hg.mozilla.org
 community-tc.services.mozilla.com
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 firefox-ci-tc.services.mozilla.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 monitor.mozilla.org
 relay.firefox.com
 lando.services.mozilla.com
@@ -1133,8 +1133,8 @@ uc.8x8pilot.com
 work-staging.8x8.com
 platform.8x8pilot.com
 user-profile-staging.8x8.com
-sso.8x8pilot.com
 platform.8x8.com
+sso.8x8pilot.com
 sso.8x8.com
 *.jitsi.net
 *.jit.si
@@ -1418,8 +1418,8 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
-api.excalls.mobi
 social-trading.exness.com
+api.excalls.mobi
 pay.ibex.exchange
 exnessaffiliates.com
 exness.com
@@ -1858,8 +1858,8 @@ amp.reddit.com
 *.redditmedia.com
 ads.reddit.com
 old.reddit.com
-*.reddit.com
 ads-api.reddit.com
+*.reddit.com
 www.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -1993,13 +1993,13 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-identity.yoti.com
 ccloud.yoti.com
-code.yoti.com
+identity.yoti.com
 core.yoti.com
-www.yotisign.com
+code.yoti.com
 api.yoti.com
 hub.yoti.com
+www.yotisign.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -2448,8 +2448,8 @@ itv7.itv.com
 amazonpayinsurance.in
 *.amazon.in
 *.amazon.com.co
-*.amazon.com
 *.amazon.es
+*.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2764,10 +2764,10 @@ app.command.cysiv.com
 api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
+www.priceline.com
 cruises.priceline.com
 press.priceline.com
 www.bookingholdings.com
-secure.rezserver.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2924,9 +2924,9 @@ res.hyattinclusivecollection.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
 *.grammarly.io
+*.grammarlyaws.com
 *.grammarly.com
 grammarly.ai
-*.grammarlyaws.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -2942,15 +2942,15 @@ service.racing.fanduel.com
 4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
-mobile-prod.tvg.com
-pabets.tvg.com
-service.tvg.com
-promos.tvg.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
 login-ia.tvg.com
 m.4njbets.tvg.com
 login.tvg.com
+mobile-prod.tvg.com
+pabets.tvg.com
+service.tvg.com
+promos.tvg.com
 www.4njbets.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
@@ -2959,10 +2959,10 @@ ia.tvg.com
 fdbox.net
 *.east.fdbox.net
 fanduel.com
-us.tvg.com
 tvg.com
-sportsbook.fanduel.com
+us.tvg.com
 www.tvg.com
+sportsbook.fanduel.com
 *.numberfire.com
 *racing.fanduel.com
 *.east.fdbox.net
@@ -3005,20 +3005,20 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 *.braintree.tools
 *.paylution.com
-decision.swiftfinancial.com
-partner.swiftfinancial.com
-pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 www.swiftfinancial.com
 swiftfinancial.com
-prequal.swiftfinancial.com
-my.loanbuilder.com
 www.swiftcapital.com
 swiftcapital.com
+decision.swiftfinancial.com
+partner.swiftfinancial.com
+pigeon.swiftfinancial.com
+prequal.swiftfinancial.com
+my.loanbuilder.com
 py.pl
 www.loanbuilder.com
-api.swiftfinancial.com
 loanbuilder.com
+api.swiftfinancial.com
 my.swiftfinancial.com
 sandbox.braintreegateway.com
 *.braintreepayments.com
@@ -3030,8 +3030,8 @@ paypalobjects.com
 *.paypalcorp.com
 paypal.me
 *.braintreegateway.com
-*.venmo.com
 *.paypal.com
+*.venmo.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3132,8 +3132,6 @@ marquee.gs.com
 *.advisorsolutions.gs.com
 *.foliodigitalwealth.com
 api.foliofn.com
-www.rocaton.com
-apigw.foliofn.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3170,6 +3168,7 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
+store.steampowered.com
 partner.steampowered.com
 help.steampowered.com
 www.counter-strike.net
@@ -3177,7 +3176,6 @@ www.teamfortress.com
 partner.steamgames.com
 www.dota2.com
 support.steampowered.com
-store.steampowered.com
 api.steampowered.com
 www.valvesoftware.com
 steamcommunity.com
@@ -3381,9 +3379,9 @@ bma.badoo.com
 translate.badoo.com
 ccardsus1.badoo.com
 bma.bumble.com
-ccardseu1.badoo.com
 us1.badoo.com
 eu1.badoo.com
+ccardseu1.badoo.com
 badoocdn.com
 hotornot.com
 getofficial.co
@@ -3407,11 +3405,11 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.atspotify.com
 *.avecspotify.com
-*.forspotify.com
-*.fromspotify.com
+*.atspotify.com
 *.tospotify.com
+*.fromspotify.com
+*.forspotify.com
 assets.spotify.com
 *.byspotify.com
 *.enspotify.com
@@ -3456,11 +3454,11 @@ api.wordpress.org
 *.buddypress.org
 bbpress.org
 profiles.wordpress.org
-*.wordpress.org
 *.trac.wordpress.org
  *.svn.wordpress.org
  *.git.wordpress.org
  github.com/WordPress
+*.wordpress.org
 *.wordpress.net
 *.wordpress.org
 *.buddypress.org
@@ -3484,12 +3482,12 @@ gutenberg.run
  *.git.wordpress.org
  github.com/WordPress
 rockstarnorth.com
+prod.ros.rockstargames.com
 store.rockstargames.com
 lifeinvader.com
 circolocorecords.com/
 socialclub.rockstargames.com
 support.rockstargames.com
-prod.ros.rockstargames.com
 *.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
@@ -3529,8 +3527,6 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-www.starbucks.com.cn
-app.starbucks.com
 gift.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.ca
@@ -3539,6 +3535,8 @@ login.starbucks.co.jp
 www.starbucks.co.uk
 www.starbucksreserve.com
 www.starbucks.com.sg
+www.starbucks.com.cn
+app.starbucks.com
 www.starbucks.com
 www.starbucks.co.kr
 www.starbucks.co.jp
@@ -3657,8 +3655,8 @@ api2.grofers.com
 winecellar.zomato.com
 *.runnr.in
 *.zomans.com
-*.hyperpure.com
 blinkit.com
+*.hyperpure.com
 *.zomato.com
 *.zomato.com
 *.zdev.net
@@ -3855,8 +3853,8 @@ assets.airbnb.com
 support-api.airbnb.com
 *.airbnb-aws.com
 *.muscache.com
-*.airbnbcitizen.com
 m.airbnb.com
+*.airbnbcitizen.com
 *.withairbnb.com
 api.airbnb.com
 www.hoteltonight.com
@@ -3864,8 +3862,8 @@ www.hoteltonight.com
 *.hoteltonight-test.com
 *.hoteltonight.com
 next.airbnb.com
-*.airbnb.com
 www.airbnb.com
+*.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3925,8 +3923,8 @@ gnip.com
 api.x.ai
 *.vine.co
 grok.x.ai
-*.twimg.com
 x.com
+*.twimg.com
 *.twitter.com
 *.twitter.com
 *.vine.co
@@ -3958,6 +3956,8 @@ t.umblr.com
 my.pressable.com
 simplenote.com
 simperium.com
+wordpress.com
+*.tumblr.com
 intensedebate.com
 safe.tumblr.com
 assets.tumblr.com
@@ -3966,8 +3966,6 @@ api.tumblr.com
 mailpoet.com
 happy.tools
 akismet.com
-wordpress.com
-*.tumblr.com
 www.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
@@ -4037,11 +4035,11 @@ edgeapi.slack.com
 slackatwork.com
 slack-redir.net
 spaces.pm
+*.quip.com
 slack-imgs.com
 www.quip.com
 slack-status.com
 app.slack.com
-*.quip.com
 api.slack.com
 slack.com
 slack.com
@@ -4066,17 +4064,17 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-cover-photos-us-east-2.hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
 *.vpn.hackerone.net
-b5s.hackerone-ext-content.com
+cover-photos-us-east-2.hackerone-user-content.com
 hackerone-ext-content.com
+b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 errors.hackerone.net
 mta-sts.wearehackerone.com
-hackerone.live
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
+hackerone.live
 profile-photos.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 reviewer.pullrequest.com
@@ -4084,10 +4082,10 @@ www.wearehackerone.com
 hackerone-user-content.com
 api.hackerone.com
 app.pullrequest.com
-ctf.hacker101.com
 www.hackerone.com
-a5s.hackerone-ext-content.com
+ctf.hacker101.com
 hackerone.com
+a5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
