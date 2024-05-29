@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 29 05:19:00 UTC 2024)
+## Domains with Bounties (Last Updated Wed May 29 05:41:30 UTC 2024)
 ```
 api.circle.com
 app.circle.com
@@ -47,7 +47,6 @@ presentationtracking.netflix.com
 nmtracking.netflix.com
 meechum.netflix.com
 platform.cat.earlywarning.io
-*.clearxchange.com
 zellepay.force.com
 zelleservice.my.site.com
 ews-fusion.my.site.com
@@ -55,6 +54,7 @@ platformtest.cat.earlywarning.io
 api.zellepay.com
 *.zelle.com
 api.zmsp.earlywarning.com
+*.clearxchange.com
 earlywarningapi.force.com
 *.earlywarning.com
 *.zellepay.com
@@ -78,8 +78,8 @@ sportsbook.caesars.com
 williamhill.us
 caesarspalaceonline.com
 wsop.com
-*.williamhill.us
 www.wsop.com
+*.williamhill.us
 *.us.williamhill.com
 cms.wsop.com
 *.us.williamhill.com
@@ -115,17 +115,17 @@ api.dyson.de
 api.dyson.ie
 shop.dyson.ru
 www.dyson.fr
+www.dyson.ch
 www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
-api.dyson.it
 www.dyson.ie
+api.dyson.it
 www.dyson.se
 *.cp.dyson.com
-www.dyson.co.nz
 api.dysoncanada.ca
+www.dyson.co.nz
 api.dyson.es
-www.dyson.com.tr
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -414,8 +414,8 @@ app3.rewire.to
 media.remitly.io
 cardpayments.remitly.io
 partner-webhook.remitly.io
-app.rewire.to
 ablink.info.remitly.com
+app.rewire.to
 remitly.com
 *.int.remitly.com
 *.dev.remitly.com
@@ -450,11 +450,11 @@ bioid-management.app
 worldcoin.org
 customer-sessions.arkoselabs.com
 verify.arkoselabs.com
+iframe.arkoselabs.com
 cdn.arkoselabs.com
 client-api.arkoselabs.com
 demo.arkoselabs.com
 portal.arkoselabs.com
-iframe.arkoselabs.com
 www.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
@@ -519,9 +519,9 @@ medical.23andme.com
 store.23andme.com
 blog.23andme.com
 api.23andme.com
+auth.23andme.com
 you.23andme.com
 therapeutics.23andme.com
-auth.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -897,8 +897,8 @@ m.krisha.kz
 app.krisha.kz
 kolesa.kz
 api.kolesa.kz
-id.kolesa.kz
 krisha.kz
+id.kolesa.kz
 m.kolesa.kz
 kolesa.kz
 m.kolesa.kz
@@ -939,9 +939,9 @@ api.profiler.firefox.com
 support.mozilla.org
 bugzilla.mozilla.org
 profiler.firefox.com
-mozilla-pontoon-staging.herokuapp.com
-firefox-ci-tc.services.mozilla.com
 www.mozilla.org
+firefox-ci-tc.services.mozilla.com
+mozilla-pontoon-staging.herokuapp.com
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
@@ -1186,9 +1186,9 @@ admin.8x8.com
 *.superbet.rs
 *.magicjackpot.ro
 *.luckydays.ca
-*.napoleongames.be
 *.luckydays.com
 *.superbet.ro
+*.napoleongames.be
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1351,9 +1351,9 @@ royal.checksw.com
 checksw.com
 royal.checksw.com
 *.cornershopapp.com/*
+*.superpal.com/*
 *.cornershop.io/*
 *.superpal.io/*
-*.superpal.com/*
 *.cornershopapp.com/*
 *.superpal.com/*
 *.cornershop.io/*
@@ -1425,8 +1425,8 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
-api.excalls.mobi
 social-trading.exness.com
+api.excalls.mobi
 pay.ibex.exchange
 exnessaffiliates.com
 exness.com
@@ -1725,10 +1725,10 @@ www.fedramp.gov
 marketplace.fedramp.gov
 federalist.18f.gov
 federalist-docs.18f.gov
+cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
-cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1922,8 +1922,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-www.chime.com
 wp-qa.chime.com
+www.chime.com
 *.chimebank.com
 *.1debit.com
 *.chime.com
@@ -1999,10 +1999,10 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-ccloud.yoti.com
 identity.yoti.com
-core.yoti.com
+ccloud.yoti.com
 code.yoti.com
+core.yoti.com
 api.yoti.com
 hub.yoti.com
 www.yotisign.com
@@ -2022,8 +2022,8 @@ internal-docs.netlify.com
 *.infra-prod.nsvcs.net
 netlify-rum.netlify.app
 screenshot-proxy.netlify.app
-internal.netlify.com
 *.onegraph.com
+internal.netlify.com
 api.netlify.com
 *.services.netlify.com
 app.netlify.com
@@ -2096,8 +2096,8 @@ live-backstage.tiktok.com
 seller-id.tokopedia.com
 creatormarketplace.tiktok.com
 *.tiktok.com
-tiktok.com
 ads.tiktok.com
+tiktok.com
 www.pangleglobal.com
 effecthouse.tiktok.com
 shop-id.tokopedia.com
@@ -2446,10 +2446,10 @@ itv7.itv.com
 *.amazon.pl
 amazonpayinsurance.in
 *.amazon.ca
-*.amazon.es
 *.amazon.it
-*.amazon.co.uk
 *.amazon.com.tr
+*.amazon.co.uk
+*.amazon.es
 *.amazon.ae
 *.amazon.sa
 *.amazon.co.jp
@@ -2493,10 +2493,10 @@ amazonpayinsurance.in
 *.aliyun.com
 *.aliexpress.com
 www.alibabagroup.com
-*.alibabacloud.com
-*.1688.com
 *.taobao.com
+*.1688.com
 *.alibaba.com
+*.alibabacloud.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2647,9 +2647,9 @@ app.nordpass.com
 app.nordpass.com
 *.line.naver.jp
 *.linecorp.com
-*.line.me
 *.line-apps.com
 *.line.biz
+*.line.me
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -3032,13 +3032,13 @@ sandbox.braintreegateway.com
 api.loanbuilder.com
 *.braintree-api.com
 paypal.me
-*.braintreegateway.com
-*.venmo.com
 *.paypalcorp.com
 *.hyperwallet.com
 paypalobjects.com
 *.xoom.com
 *.paypal.com
+*.braintreegateway.com
+*.venmo.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3225,8 +3225,8 @@ https://crypto.com/price
 bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
-*.deliveroo.com.hk
 *.deliveroo.com.kw
+*.deliveroo.com.hk
 *.deliveroo.ie
 *.deliveroo.com.sg
 *.deliveroo.it
@@ -3388,9 +3388,9 @@ bma.badoo.com
 translate.badoo.com
 ccardsus1.badoo.com
 bma.bumble.com
-ccardseu1.badoo.com
 us1.badoo.com
 eu1.badoo.com
+ccardseu1.badoo.com
 badoocdn.com
 hotornot.com
 getofficial.co
@@ -3414,17 +3414,17 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.avecspotify.com
 *.atspotify.com
-*.fromspotify.com
+*.avecspotify.com
 *.forspotify.com
+*.fromspotify.com
 *.tospotify.com
 assets.spotify.com
 *.byspotify.com
 *.enspotify.com
 backstage.io
-*.withspotify.com
 api.spotify.com
+*.withspotify.com
 *.withspotify.com
 *.byspotify.com
 *.atspotify.com
@@ -3505,8 +3505,8 @@ store.rockstargames.com
 rockstarnorth.com
 circolocorecords.com/
 www.files.com
-your-assigned-subdomain.files.com
 app.files.com
+your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
 www.files.com
@@ -3614,9 +3614,9 @@ npmjs.org
 classroom.github.com
 *.githubapp.com
 npmjs.com
-github.com
-*.githubusercontent.com
 api.github.com
+*.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3663,8 +3663,8 @@ winecellar.zomato.com
 *.runnr.in
 *.zomans.com
 *.hyperpure.com
-*.zomato.com
 blinkit.com
+*.zomato.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3766,6 +3766,7 @@ launch.playcanvas.com
 msg.playcanvas.com
 relay.playcanvas.com
 playcanv.as
+www.bitstrips.com
 geofilters.snapchat.com
 rt.playcanvas.com
 store.playcanvas.com
@@ -3781,14 +3782,13 @@ login.playcanvas.com
 blog.playcanvas.com
 playcanvas.com
 web.snapchat.com
-www.bitstrips.com
 story.snapchat.com
 businesshelp.snapchat.com
 business.snapchat.com
 snappublisher.snapchat.com
 accounts.snapchat.com
-app.snapchat.com
 ads.snapchat.com
+app.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -4011,12 +4011,12 @@ blog.irccloud.com
 custody.coinbase.com
 prime.coinbase.com
 international.coinbase.com
+*.coinbase.com
 pro.coinbase.com
 institutional.coinbase.com
 *.cbhq.net
 cloud.coinbase.com
 api.custody.coinbase.com
-*.coinbase.com
 nft.coinbase.com
 api.coinbase.com
 commerce.coinbase.com
