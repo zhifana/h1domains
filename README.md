@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 31 16:48:33 UTC 2024)
+## Domains with Bounties (Last Updated Fri May 31 17:17:58 UTC 2024)
 ```
 app.circle.com
 api.circle.com
@@ -17,7 +17,6 @@ app.circle.com
 *.nflxext.com
 *.prod.ftl.netflix.com
 *.prod.cloud.netflix.com
-*.nflxvideo.net
 *.prod.dradis.netflix.com
 beacon.netflix.com
 customerevents.netflix.com
@@ -30,6 +29,7 @@ presentationtracking.netflix.com
 nmtracking.netflix.com
 www.netflix.com
 meechum.netflix.com
+*.nflxvideo.net
 *.nflxext.com
 *.prod.ftl.netflix.com
 *.prod.cloud.netflix.com
@@ -451,8 +451,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-www.sheer.com
 my.sheer.com
+www.sheer.com
 www.sheer.com
 my.sheer.com
 www.analvids.com
@@ -529,12 +529,12 @@ www.mercadopago.com.pe
 www.mercadopago.com.uy
 www.mercadopago.cl
 www.mercadolibre.cl
-api.mercadolibre.com
 www.mercadopago.com.br
-www.mercadopago.com.ar
 www.mercadolivre.com.br
 www.mercadolibre.com.pe
+api.mercadolibre.com
 www.mercadolibre.com.ar
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -734,8 +734,8 @@ fhir.redoxengine.com
 explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
-testapp.redoxengine.com
 10x.redoxengine.com
+testapp.redoxengine.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -1184,13 +1184,13 @@ admin.8x8.com
 *.napoleondice.be
 *.napoleoncasino.be
 *.spinaway.com
-*.superbet.ro
 *.superbet.rs
 *.luckydays.ca
-*.superbet.com
+*.superbet.ro
 *.luckydays.com
 *.magicjackpot.ro
 *.superbet.pl
+*.superbet.com
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1449,7 +1449,6 @@ api.smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
-www.etoro.com
 aggregator.etoro.com
 api.etoro.com
 billing.etoro.com
@@ -1484,6 +1483,7 @@ rankings.etoro.com
 delta.app
 bullsheet.me
 etoropartners.com
+www.etoro.com
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -2097,7 +2097,6 @@ api.adm.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
 careers.tiktok.com
-creatormarketplace.tiktok.com
 developers.tiktok.com
 business.tiktok.com
 www.pangleglobal.com
@@ -2110,11 +2109,12 @@ seller-id.tokopedia.com
 shop-id.tokopedia.com
 pay.tokopediax.com
 affiliate-id.tokopedia.com
-ads.tiktok.com
+tiktok.com
 *.tiktok.com
 academy-outbound-ads.tiktok.com
 *.tiktokv.com
-tiktok.com
+creatormarketplace.tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2481,12 +2481,12 @@ itv7.itv.com
 *.amazon.co.jp
 *.amazon.com.br
 *.amazon.com.co
-amazonpayinsurance.in
 *.amazon.de
 *.amazon.fr
+amazonpayinsurance.in
 *.amazon.com.tr
-*.amazon.in
 *.amazon.co.uk
+*.amazon.in
 *.amazon.com
 *.amazon.cl
 *.amazon.co.za
@@ -2653,8 +2653,8 @@ app.nordpass.com
 app.nordpass.com
 *.line-apps.com
 *.line.naver.jp
-*.line.me
 *.linecorp.com
+*.line.me
 *.line.biz
 *.line.me
 *.line-apps.com
@@ -3045,13 +3045,13 @@ pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.paypalcorp.com
 *.xoom.com
-*.braintreegateway.com
 *.paydiant.com
 *.venmo.com
 *.hyperwallet.com
 *.paylution.com
 sandbox.braintreegateway.com
 *.paypal.com
+*.braintreegateway.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3084,12 +3084,12 @@ loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
 *.mmcdn.com
+secure.chaturbate.com
 chaturbate.com
 *.highwebmedia.com
 m.chaturbate.com
 *.securegatewayaccess.com
 billingsupport.chaturbate.com
-secure.chaturbate.com
 *.cb.dev
 *.mmwebc.dev
 *.highwebmedia.com
@@ -3679,8 +3679,8 @@ winecellar.zomato.com
 api.grofers.com
 api2.grofers.com
 blinkit.com
-*.zomato.com
 *.runnr.in
+*.zomato.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3707,8 +3707,8 @@ secure-dfadmin.deriv.com
 oauth.deriv.com
 api.deriv.com
 *.derivws.com
-*.deriv.com
 app.deriv.com
+*.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3755,10 +3755,10 @@ shopifyinbox.com
 shop.app
 *.shopifycs.com
 your-store.myshopify.com
-*.shopify.com
 admin.shopify.com
 *.shopify.io
 accounts.shopify.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3879,7 +3879,6 @@ omgpro.airbnb.com
 one.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
-*.airbnb.com
 *.airbnbcitizen.com
 *.atairbnb.com
 *.byairbnb.com
@@ -3890,6 +3889,7 @@ callbacks.airbnb.com
 www.hoteltonight.com
 *.hoteltonight.com
 *.withairbnb.com
+*.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -4042,7 +4042,6 @@ pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
-api.coinbase.com
 institutional.coinbase.com
 api.custody.coinbase.com
 *.coinbase.com
@@ -4051,6 +4050,7 @@ international.coinbase.com
 *.base.org
 nft.coinbase.com
 cloud.coinbase.com
+api.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -4115,11 +4115,11 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 *.vpn.hackerone.net
 www.wearehackerone.com
 mta-sts.wearehackerone.com
-api.hackerone.com
-errors.hackerone.net
 cover-photos-us-east-2.hackerone-user-content.com
-www.hackerone.com
+errors.hackerone.net
+api.hackerone.com
 hackerone.live
+www.hackerone.com
 app.pullrequest.com
 hackerone.com
 hackerone.com
