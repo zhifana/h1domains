@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 31 12:56:18 UTC 2024)
+## Domains with Bounties (Last Updated Fri May 31 13:19:59 UTC 2024)
 ```
 api.circle.com
 app.circle.com
@@ -441,8 +441,8 @@ customer-sessions.arkoselabs.com
 portal.arkoselabs.com
 verify.arkoselabs.com
 iframe.arkoselabs.com
-www.arkoselabs.com
 demo.arkoselabs.com
+www.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
@@ -556,7 +556,6 @@ www.temu.com
 booking.com
 careers.booking.com
 kyc-onboarding.booking.com
-*.rentalcars.com
 supplier.auth.toag.booking.com
 www.fareharbor.com
 taxi.booking.com
@@ -587,6 +586,7 @@ sites.fareharbor.com
 teleport.fareharbor.engineering
 compass.fareharbor.com
 fhdn.fareharbor.com
+spark.fareharbor.com
 *.booking.com
 *.rentalcars.com
 *.fareharbor.engineering
@@ -1095,10 +1095,10 @@ www.malwarebytes.com
 my.malwarebytes.com
 cloud.malwarebytes.com
 oneview.malwarebytes.com
-www.s-pankki.fi
+online.s-pankki.fi
 mobile.s-pankki.fi
 extranet.s-pankki.fi
-online.s-pankki.fi
+www.s-pankki.fi
 www.s-kaupat.fi
 tunnistus.s-ryhma.fi
 digili.s-cloud.fi
@@ -1179,18 +1179,18 @@ https://webrtc.8x8.com/
 cloud8.8x8.com
 pay.8x8.com
 admin.8x8.com
-*.luckydays.ca
 *.napoleongames.be
 *.superbet.rs
 *.superbet.pl
 *.magicjackpot.ro
-*.spinaway.com
-*.napoleonsports.be
-*.luckydays.com
 *.napoleondice.be
 *.napoleoncasino.be
+*.luckydays.com
+*.napoleonsports.be
+*.luckydays.ca
 *.superbet.ro
 *.superbet.com
+*.spinaway.com
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -2184,9 +2184,9 @@ api.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *.acronis.work
+account.acronis.com
 beta-cloud.acronis.com
 *-api-*.acronis.com
-account.acronis.com
 *.5nine.com
 *.devicelock.com
 *.acronis.com
@@ -2483,11 +2483,11 @@ amazonpayinsurance.in
 *.amazon.cn
 *.amazon.co.jp
 *.amazon.de
-*.amazon.in
-*.amazon.com.br
 *.amazon.co.uk
-*.amazon.com.co
+*.amazon.com.br
 *.amazon.com
+*.amazon.com.co
+*.amazon.in
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2654,8 +2654,8 @@ app.nordpass.com
 *.line-apps.com
 *.line.naver.jp
 *.line.biz
-*.line.me
 *.linecorp.com
+*.line.me
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -2819,7 +2819,8 @@ dashboard.omise.co
 offsite.omise.co
 www.omise.co
 www.opn.ooo
-world.hyatt.com
+hyatt.com
+www.hyatt.com
 assets.hyatt.com
 salesportal.hyatt.com
 meetings.hyatt.com
@@ -2831,8 +2832,7 @@ roominglist.hyatt.com
 soaext.oft.hyatt.com
 sso.oft.hyatt.com
 upsell.hyatt.com
-hyatt.com
-www.hyatt.com
+world.hyatt.com
 newsroom.images.hyatt.com
 www.hyattconnect.com
 jira.hyattdev.com
@@ -3018,11 +3018,9 @@ login-pabets.tvg.com
 matomo.cloud
 matomo.cloud
 https://github.com/matomo-org/docker
-*.xoom.com
-*.paypal.com
-*.braintreegateway.com
-*.paydiant.com
-*.venmo.com
+paypalobjects.com
+paypal.me
+py.pl
 www.swiftcapital.com
 www.loanbuilder.com
 www.swiftfinancial.com
@@ -3042,9 +3040,11 @@ decision.swiftfinancial.com
 pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.paypalcorp.com
-paypalobjects.com
-paypal.me
-py.pl
+*.xoom.com
+*.paypal.com
+*.braintreegateway.com
+*.paydiant.com
+*.venmo.com
 *.hyperwallet.com
 *.paylution.com
 sandbox.braintreegateway.com
@@ -3202,9 +3202,9 @@ api.foliofn.com
 *.folioinvesting.com
 playartifact.com
 help.steampowered.com
-developer.valvesoftware.com
 www.teamfortress.com
 www.counter-strike.net
+developer.valvesoftware.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3622,13 +3622,13 @@ moneybird.com
 moneybirdstorage.com
 *.github.net
 education.github.com
-npmjs.com
 npmjs.org
 api.github.com
 gist.github.com
 classroom.github.com
 *.githubapp.com
 *.githubusercontent.com
+npmjs.com
 github.com
 github.com
 api.github.com
@@ -3747,7 +3747,6 @@ arrive-server.shopifycloud.com
 *.shopifykloud.com
 your-store.myshopify.com
 partners.shopify.com
-accounts.shopify.com
 *.shopify.io
 *.shopify.com
 *.shopifycloud.com
@@ -3756,6 +3755,7 @@ shopifyinbox.com
 shop.app
 *.shopifycs.com
 admin.shopify.com
+accounts.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3880,7 +3880,6 @@ callbacks.airbnb.com
 *.airbnb.com
 *.airbnbcitizen.com
 *.atairbnb.com
-*.withairbnb.com
 *.byairbnb.com
 *.muscache.com
 *.airbnb-aws.com
@@ -3888,6 +3887,7 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 www.hoteltonight.com
 *.hoteltonight.com
+*.withairbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -4034,6 +4034,7 @@ irccloud.com
 irc.irccloud.com
 team-irc.irccloud.com
 blog.irccloud.com
+*.cbhq.net
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
@@ -4041,7 +4042,6 @@ prime.coinbase.com
 api.coinbase.com
 institutional.coinbase.com
 api.custody.coinbase.com
-*.cbhq.net
 *.coinbase.com
 coinbase.com
 international.coinbase.com
@@ -4113,9 +4113,9 @@ mta-sts.wearehackerone.com
 api.hackerone.com
 errors.hackerone.net
 cover-photos-us-east-2.hackerone-user-content.com
-www.hackerone.com
 app.pullrequest.com
 hackerone.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4143,9 +4143,9 @@ hackerone.live
 williamhill.us
 *.williamhill.us
 *.us.williamhill.com
-sportsbook.caesars.com
 api.americanwagering.com
 caesarspalaceonline.com
+sportsbook.caesars.com
 *.us.williamhill.com
 *.williamhill.us
 sportsbook.caesars.com
