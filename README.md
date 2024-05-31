@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 31 16:22:50 UTC 2024)
+## Domains with Bounties (Last Updated Fri May 31 16:48:33 UTC 2024)
 ```
 app.circle.com
 api.circle.com
@@ -451,8 +451,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-my.sheer.com
 www.sheer.com
+my.sheer.com
 www.sheer.com
 my.sheer.com
 www.analvids.com
@@ -519,7 +519,6 @@ store.23andme.com
 therapeutics.23andme.com
 you.23andme.com
 research.23andme.com
-www.mercadolibre.com.ar
 www.mercadolibre.com.mx
 www.mercadolibre.com.co
 www.mercadolibre.com.uy
@@ -535,6 +534,7 @@ www.mercadopago.com.br
 www.mercadopago.com.ar
 www.mercadolivre.com.br
 www.mercadolibre.com.pe
+www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -1051,9 +1051,9 @@ aws.indrive.tech
 debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
-*.grindr.com
 *.grindr.mobi
 web.grindr.com
+*.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1095,10 +1095,10 @@ www.malwarebytes.com
 my.malwarebytes.com
 cloud.malwarebytes.com
 oneview.malwarebytes.com
-www.s-pankki.fi
+online.s-pankki.fi
 mobile.s-pankki.fi
 extranet.s-pankki.fi
-online.s-pankki.fi
+www.s-pankki.fi
 www.s-kaupat.fi
 tunnistus.s-ryhma.fi
 digili.s-cloud.fi
@@ -1180,15 +1180,15 @@ cloud8.8x8.com
 pay.8x8.com
 admin.8x8.com
 *.napoleongames.be
-*.spinaway.com
+*.napoleonsports.be
 *.napoleondice.be
 *.napoleoncasino.be
-*.napoleonsports.be
+*.spinaway.com
+*.superbet.ro
+*.superbet.rs
 *.luckydays.ca
 *.superbet.com
 *.luckydays.com
-*.superbet.ro
-*.superbet.rs
 *.magicjackpot.ro
 *.superbet.pl
 *.superbet.ro
@@ -1479,11 +1479,11 @@ tapi-real.etoro.com
 uapi-front.etoro.com
 wallet.etoro.com
 watchlistapi.etoro.com
-etoropartners.com
 partners.etoro.com
 rankings.etoro.com
 delta.app
 bullsheet.me
+etoropartners.com
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -2100,7 +2100,6 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 developers.tiktok.com
 business.tiktok.com
-academy-outbound-ads.tiktok.com
 www.pangleglobal.com
 live-backstage.tiktok.com
 partner.tiktokshop.com
@@ -2110,11 +2109,12 @@ effecthouse.tiktok.com
 seller-id.tokopedia.com
 shop-id.tokopedia.com
 pay.tokopediax.com
-tiktok.com
+affiliate-id.tokopedia.com
 ads.tiktok.com
 *.tiktok.com
-affiliate-id.tokopedia.com
+academy-outbound-ads.tiktok.com
 *.tiktokv.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2179,8 +2179,8 @@ support.cs.money
 blog.cs.money
 wiki.cs.money
 3d.cs.money
-app.faraday.ai
 api.faraday.ai
+app.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *.acronis.work
@@ -2479,14 +2479,14 @@ itv7.itv.com
 *.amazon.sg
 *.amazon.cn
 *.amazon.co.jp
-*.amazon.co.uk
 *.amazon.com.br
 *.amazon.com.co
-*.amazon.in
+amazonpayinsurance.in
 *.amazon.de
 *.amazon.fr
-amazonpayinsurance.in
 *.amazon.com.tr
+*.amazon.in
+*.amazon.co.uk
 *.amazon.com
 *.amazon.cl
 *.amazon.co.za
@@ -2647,14 +2647,14 @@ www.datastax.com
 downloads.datastax.com
 docs.datastax.com
 astra.datastax.com
-*.nordvpn.com
 app.nordpass.com
+*.nordvpn.com
 *.nordvpn.com
 app.nordpass.com
 *.line-apps.com
 *.line.naver.jp
-*.linecorp.com
 *.line.me
+*.linecorp.com
 *.line.biz
 *.line.me
 *.line-apps.com
@@ -2716,6 +2716,10 @@ logstash-props.devicecloud.acceptance.forescoutcloud.net
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 datapod-2-query.acceptance.forescoutcloud.net
+datapod-1-ingest.production.forescoutcloud.net
+datapod-1-query.production.forescoutcloud.net
+mgmtpod-1-dashboard.production.forescoutcloud.net
+mgmtpod-1.production.forescoutcloud.net
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 datapod-2-query.acceptance.forescoutcloud.net
@@ -2819,7 +2823,8 @@ dashboard.omise.co
 offsite.omise.co
 www.omise.co
 www.opn.ooo
-world.hyatt.com
+hyatt.com
+www.hyatt.com
 assets.hyatt.com
 salesportal.hyatt.com
 meetings.hyatt.com
@@ -2831,8 +2836,7 @@ roominglist.hyatt.com
 soaext.oft.hyatt.com
 sso.oft.hyatt.com
 upsell.hyatt.com
-hyatt.com
-www.hyatt.com
+world.hyatt.com
 newsroom.images.hyatt.com
 www.hyattconnect.com
 jira.hyattdev.com
@@ -3018,10 +3022,9 @@ login-pabets.tvg.com
 matomo.cloud
 matomo.cloud
 https://github.com/matomo-org/docker
-*.xoom.com
-*.braintreegateway.com
-*.paydiant.com
-*.venmo.com
+paypalobjects.com
+paypal.me
+py.pl
 www.swiftcapital.com
 www.loanbuilder.com
 www.swiftfinancial.com
@@ -3041,9 +3044,10 @@ decision.swiftfinancial.com
 pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.paypalcorp.com
-paypalobjects.com
-paypal.me
-py.pl
+*.xoom.com
+*.braintreegateway.com
+*.paydiant.com
+*.venmo.com
 *.hyperwallet.com
 *.paylution.com
 sandbox.braintreegateway.com
@@ -3080,12 +3084,12 @@ loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
 *.mmcdn.com
-secure.chaturbate.com
 chaturbate.com
 *.highwebmedia.com
 m.chaturbate.com
 *.securegatewayaccess.com
 billingsupport.chaturbate.com
+secure.chaturbate.com
 *.cb.dev
 *.mmwebc.dev
 *.highwebmedia.com
@@ -3201,9 +3205,9 @@ api.foliofn.com
 *.folioinvesting.com
 playartifact.com
 help.steampowered.com
+developer.valvesoftware.com
 www.teamfortress.com
 www.counter-strike.net
-developer.valvesoftware.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3753,8 +3757,8 @@ shop.app
 your-store.myshopify.com
 *.shopify.com
 admin.shopify.com
-accounts.shopify.com
 *.shopify.io
+accounts.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -4088,6 +4092,8 @@ www.quip.com
 slack-status.com
 yimg.com
 data.mail.yahoo.com
+le.yahooapis.com
+onepush.query.yahoo.com
 data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
@@ -4112,9 +4118,9 @@ mta-sts.wearehackerone.com
 api.hackerone.com
 errors.hackerone.net
 cover-photos-us-east-2.hackerone-user-content.com
-app.pullrequest.com
 www.hackerone.com
 hackerone.live
+app.pullrequest.com
 hackerone.com
 hackerone.com
 api.hackerone.com
@@ -4365,15 +4371,15 @@ www.smartsheet.com
 *legal.trustpilot.com
 https://github.com/evolveum/midpoint
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
+marketplace.magento.com
+magentocommerce.com
+repo.magento.com
+magento.com
 account.magento.com
 u.magento.com
 imagine.magento.com
 magentolive.com
 accounts.magento.cloud
-marketplace.magento.com
-magentocommerce.com
-repo.magento.com
-magento.com
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
