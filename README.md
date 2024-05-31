@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 31 17:42:24 UTC 2024)
+## Domains with Bounties (Last Updated Fri May 31 18:23:17 UTC 2024)
 ```
 app.circle.com
 api.circle.com
@@ -451,8 +451,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-www.sheer.com
 my.sheer.com
+www.sheer.com
 www.sheer.com
 my.sheer.com
 www.analvids.com
@@ -528,10 +528,10 @@ www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadopago.com.uy
 www.mercadopago.cl
-api.mercadolibre.com
-www.mercadolibre.com.pe
 www.mercadopago.com.br
 www.mercadolivre.com.br
+www.mercadolibre.com.pe
+api.mercadolibre.com
 www.mercadolibre.com.ar
 www.mercadopago.com.ar
 www.mercadolibre.cl
@@ -1180,17 +1180,17 @@ cloud8.8x8.com
 pay.8x8.com
 admin.8x8.com
 *.napoleongames.be
-*.napoleonsports.be
-*.napoleondice.be
-*.napoleoncasino.be
 *.spinaway.com
-*.luckydays.ca
 *.superbet.ro
+*.superbet.rs
+*.luckydays.ca
 *.luckydays.com
 *.magicjackpot.ro
 *.superbet.pl
 *.superbet.com
-*.superbet.rs
+*.napoleonsports.be
+*.napoleoncasino.be
+*.napoleondice.be
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1389,8 +1389,8 @@ invoices.razorpay.com
 payroll.razorpay.com
 x.razorpay.com
 api.linkedin.com
-business.linkedin.com
 www.linkedin.com
+business.linkedin.com
 www.linkedin.com
 api.linkedin.com
 business.linkedin.com
@@ -1533,7 +1533,6 @@ admin.instacart.com
 shoppers.instacart.com
 databricks.com
 academy.databricks.com
-accounts.cloud.databricks.com
 demo.cloud.databricks.com
 docs.databricks.com
 help.databricks.com
@@ -1545,6 +1544,7 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
+accounts.cloud.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1589,11 +1589,11 @@ admin.wickr.com
 *.clubhouse.com
 *.joinclubhouse.com
 *.clubhouseapi.com
-judge.me
 shop.judge.me
 woocommerce-adapter.judge.me
 bigcommerce-adapter.judge.me
 cache.judge.me
+judge.me
 judge.me
 https://judge.me/reviews
 shop.judge.me
@@ -2109,9 +2109,9 @@ seller-id.tokopedia.com
 shop-id.tokopedia.com
 pay.tokopediax.com
 affiliate-id.tokopedia.com
+*.tiktokv.com
 *.tiktok.com
 academy-outbound-ads.tiktok.com
-*.tiktokv.com
 creatormarketplace.tiktok.com
 ads.tiktok.com
 tiktok.com
@@ -2184,9 +2184,9 @@ app.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *.acronis.work
-account.acronis.com
 beta-cloud.acronis.com
 *-api-*.acronis.com
+account.acronis.com
 *.5nine.com
 *.devicelock.com
 *.acronis.com
@@ -2471,23 +2471,23 @@ itv7.itv.com
 *.amazon.ae
 *.amazon.ca
 *.amazon.eg
-*.amazon.es
 *.amazon.it
 *.amazon.nl
 *.amazon.sa
 *.amazon.se
 *.amazon.sg
 *.amazon.cn
-*.amazon.co.jp
 *.amazon.com.br
 *.amazon.com.co
+amazonpayinsurance.in
 *.amazon.de
 *.amazon.fr
-amazonpayinsurance.in
 *.amazon.com.tr
-*.amazon.com
 *.amazon.co.uk
 *.amazon.in
+*.amazon.es
+*.amazon.com
+*.amazon.co.jp
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2716,6 +2716,10 @@ logstash-props.devicecloud.acceptance.forescoutcloud.net
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 datapod-2-query.acceptance.forescoutcloud.net
+datapod-1-ingest.production.forescoutcloud.net
+datapod-1-query.production.forescoutcloud.net
+mgmtpod-1-dashboard.production.forescoutcloud.net
+mgmtpod-1.production.forescoutcloud.net
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 datapod-2-query.acceptance.forescoutcloud.net
@@ -3046,8 +3050,8 @@ py.pl
 *.hyperwallet.com
 *.paylution.com
 sandbox.braintreegateway.com
-*.paypal.com
 *.braintreegateway.com
+*.paypal.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3134,14 +3138,14 @@ staging-shoppingcart.shipt.com
 shoppingcart.shipt.com
 www.shipt.com
 *.goldmanpfm.com
-*.marcus.co.uk
 research.gs.com
 *.gspublishing.com
 www.rocaton.com
+*.marcus.co.uk
 *.goldman.com
+*.goldmansachs.com
 *.marcus.com
 *.honestdollar.com
-*.goldmansachs.com
 *.ayco.com
 *.gsam.com
 *.gsselect.com
@@ -3544,10 +3548,6 @@ https://enterprise-demo.portswigger.net/
 www.starbucks.co.kr
 card.starbucks.com.sg
 www.starbucks.com.sg
-app.starbucks.com
-cart.starbucks.co.jp
-openapi.starbucks.com
-secureui.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3558,6 +3558,10 @@ www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
 www.starbucks.ca
+cart.starbucks.co.jp
+openapi.starbucks.com
+secureui.starbucks.com
+app.starbucks.com
 www.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
@@ -3619,8 +3623,8 @@ gist.github.com
 classroom.github.com
 *.githubapp.com
 *.githubusercontent.com
-github.com
 npmjs.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3667,8 +3671,8 @@ winecellar.zomato.com
 api.grofers.com
 api2.grofers.com
 blinkit.com
-*.zomato.com
 *.runnr.in
+*.zomato.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3694,9 +3698,9 @@ derivws.com
 secure-dfadmin.deriv.com
 oauth.deriv.com
 api.deriv.com
-*.derivws.com
 app.deriv.com
 *.deriv.com
+*.derivws.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3875,8 +3879,8 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 *.hoteltonight-test.com
 www.hoteltonight.com
-*.hoteltonight.com
 *.withairbnb.com
+*.hoteltonight.com
 *.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
@@ -3960,7 +3964,6 @@ dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
 api.cloudflare.com
-*.cloudflare.com
 *.cloudflarepartners.com
 one.dash.cloudflare.com
 waf.cumulusfire.net
@@ -4025,13 +4028,13 @@ irccloud.com
 irc.irccloud.com
 team-irc.irccloud.com
 blog.irccloud.com
+*.cbhq.net
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
 api.custody.coinbase.com
-*.cbhq.net
 *.coinbase.com
 coinbase.com
 international.coinbase.com
@@ -4082,6 +4085,8 @@ yimg.com
 data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
+proddata.xobni.yahoo.com
+apis.mail.yahoo.com
 data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
@@ -4359,15 +4364,15 @@ www.smartsheet.com
 *legal.trustpilot.com
 https://github.com/evolveum/midpoint
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
-marketplace.magento.com
-magentocommerce.com
-repo.magento.com
-magento.com
 account.magento.com
 u.magento.com
 imagine.magento.com
 magentolive.com
 accounts.magento.cloud
+marketplace.magento.com
+magentocommerce.com
+repo.magento.com
+magento.com
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
