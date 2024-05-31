@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 31 15:21:42 UTC 2024)
+## Domains with Bounties (Last Updated Fri May 31 15:41:18 UTC 2024)
 ```
 app.circle.com
 api.circle.com
@@ -531,10 +531,10 @@ www.mercadopago.com.uy
 www.mercadopago.cl
 www.mercadolibre.cl
 www.mercadopago.com.ar
-api.mercadolibre.com
-www.mercadolivre.com.br
 www.mercadopago.com.br
 www.mercadolibre.com.pe
+www.mercadolivre.com.br
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -584,9 +584,9 @@ readonly.fareharbor.com
 marketing.fareharbor.com
 sites.fareharbor.com
 teleport.fareharbor.engineering
-compass.fareharbor.com
 fhdn.fareharbor.com
 tableau.fareharbor.engineering
+fareharborsites.com
 *.booking.com
 *.rentalcars.com
 *.fareharbor.engineering
@@ -890,8 +890,8 @@ app.krisha.kz
 api.avtoelon.uz
 app.avtoelon.uz
 id.avtoelon.uz
-m.kolesa.kz
 kolesa.kz
+m.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -1121,9 +1121,9 @@ cfapi.voikukka.fi
 jobs.kiwi.com
 www.kiwi.com
 *.kiwi.com
-*.skypicker.com
 auth.skypicker.com
 tequila.kiwi.com
+*.skypicker.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1185,12 +1185,12 @@ admin.8x8.com
 *.napoleondice.be
 *.napoleoncasino.be
 *.spinaway.com
-*.superbet.pl
 *.magicjackpot.ro
 *.superbet.rs
 *.superbet.ro
 *.luckydays.ca
 *.superbet.com
+*.superbet.pl
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1311,10 +1311,10 @@ zerobounce.net
 zerobounce.net
 insights.deribit.com
 pb.deribit.com
-*.deribit.com
 tools.deribit.com
 metrics.deribit.com
 test.deribit.com
+*.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -2112,9 +2112,9 @@ shop-id.tokopedia.com
 pay.tokopediax.com
 tiktok.com
 *.tiktokv.com
-affiliate-id.tokopedia.com
-*.tiktok.com
 ads.tiktok.com
+*.tiktok.com
+affiliate-id.tokopedia.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2621,8 +2621,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2653,8 +2653,8 @@ app.nordpass.com
 app.nordpass.com
 *.line-apps.com
 *.line.naver.jp
-*.linecorp.com
 *.line.me
+*.linecorp.com
 *.line.biz
 *.line.me
 *.line-apps.com
@@ -3018,9 +3018,10 @@ login-pabets.tvg.com
 matomo.cloud
 matomo.cloud
 https://github.com/matomo-org/docker
-paypalobjects.com
-paypal.me
-py.pl
+*.xoom.com
+*.braintreegateway.com
+*.paydiant.com
+*.venmo.com
 www.swiftcapital.com
 www.loanbuilder.com
 www.swiftfinancial.com
@@ -3040,10 +3041,9 @@ decision.swiftfinancial.com
 pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.paypalcorp.com
-*.xoom.com
-*.braintreegateway.com
-*.paydiant.com
-*.venmo.com
+paypalobjects.com
+paypal.me
+py.pl
 *.hyperwallet.com
 *.paylution.com
 sandbox.braintreegateway.com
@@ -3080,12 +3080,12 @@ loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
 *.mmcdn.com
-secure.chaturbate.com
 chaturbate.com
 *.highwebmedia.com
 m.chaturbate.com
 *.securegatewayaccess.com
 billingsupport.chaturbate.com
+secure.chaturbate.com
 *.cb.dev
 *.mmwebc.dev
 *.highwebmedia.com
@@ -3445,10 +3445,10 @@ backstage.io
 *.byspotify.com
 *.atspotify.com
 *.avecspotify.com
-*.enspotify.com
 *.forspotify.com
 *.fromspotify.com
 *.tospotify.com
+*.enspotify.com
 *.withspotify.com
 *.byspotify.com
 *.atspotify.com
@@ -3554,11 +3554,11 @@ www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
 www.starbucks.ca
-www.starbucks.com
 cart.starbucks.co.jp
 openapi.starbucks.com
 secureui.starbucks.com
 app.starbucks.com
+www.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3627,8 +3627,8 @@ gist.github.com
 classroom.github.com
 *.githubapp.com
 *.githubusercontent.com
-github.com
 npmjs.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3675,8 +3675,8 @@ winecellar.zomato.com
 api.grofers.com
 api2.grofers.com
 blinkit.com
-*.zomato.com
 *.runnr.in
+*.zomato.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3750,8 +3750,8 @@ linkpop.com
 shopifyinbox.com
 shop.app
 *.shopifycs.com
-accounts.shopify.com
 *.shopify.io
+accounts.shopify.com
 your-store.myshopify.com
 *.shopify.com
 admin.shopify.com
@@ -3952,10 +3952,10 @@ donations.livestream.com
 *.vine.co
 *.twimg.com
 gnip.com
-x.com
 grok.x.ai
 ide.x.ai
 api.x.ai
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4109,13 +4109,13 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 *.vpn.hackerone.net
 www.wearehackerone.com
 mta-sts.wearehackerone.com
+api.hackerone.com
 cover-photos-us-east-2.hackerone-user-content.com
 errors.hackerone.net
-api.hackerone.com
 app.pullrequest.com
-www.hackerone.com
 hackerone.live
 hackerone.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4144,8 +4144,8 @@ williamhill.us
 *.us.williamhill.com
 api.americanwagering.com
 caesarspalaceonline.com
-sportsbook.caesars.com
 *.williamhill.us
+sportsbook.caesars.com
 *.us.williamhill.com
 *.williamhill.us
 sportsbook.caesars.com
