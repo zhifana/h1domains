@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 31 19:41:27 UTC 2024)
+## Domains with Bounties (Last Updated Fri May 31 20:19:07 UTC 2024)
 ```
 api.circle.com
 app.circle.com
@@ -26,9 +26,9 @@ secure.netflix.com
 ichnaea.netflix.com
 presentationtracking.netflix.com
 nmtracking.netflix.com
-meechum.netflix.com
 *.nflxvideo.net
 help.netflix.com
+meechum.netflix.com
 www.netflix.com
 *.nflxext.com
 *.prod.ftl.netflix.com
@@ -529,13 +529,13 @@ www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadopago.com.uy
 www.mercadopago.cl
-www.mercadolibre.com.ar
-www.mercadolibre.cl
-www.mercadopago.com.ar
-www.mercadopago.com.br
 www.mercadolibre.com.pe
-www.mercadolivre.com.br
+www.mercadolibre.cl
 api.mercadolibre.com
+www.mercadolivre.com.br
+www.mercadopago.com.br
+www.mercadolibre.com.ar
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -1183,14 +1183,14 @@ admin.8x8.com
 *.napoleongames.be
 *.spinaway.com
 *.napoleonsports.be
-*.napoleoncasino.be
 *.napoleondice.be
-*.superbet.ro
 *.superbet.rs
+*.superbet.ro
 *.luckydays.com
 *.magicjackpot.ro
 *.luckydays.ca
 *.superbet.com
+*.napoleoncasino.be
 *.superbet.pl
 *.superbet.ro
 *.superbet.rs
@@ -1593,8 +1593,8 @@ admin.wickr.com
 shop.judge.me
 woocommerce-adapter.judge.me
 bigcommerce-adapter.judge.me
-cache.judge.me
 judge.me
+cache.judge.me
 judge.me
 https://judge.me/reviews
 shop.judge.me
@@ -2112,10 +2112,10 @@ pay.tokopediax.com
 tiktok.com
 ads.tiktok.com
 affiliate-id.tokopedia.com
-*.tiktok.com
 academy-outbound-ads.tiktok.com
 *.tiktokv.com
 creatormarketplace.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2184,9 +2184,9 @@ app.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *.acronis.work
+account.acronis.com
 beta-cloud.acronis.com
 *-api-*.acronis.com
-account.acronis.com
 *.5nine.com
 *.devicelock.com
 *.acronis.com
@@ -2337,7 +2337,6 @@ mkapi.mackeeper.com
 mackeeper.com
 direct.playstation.com
 api.direct.playstation.com
-*.sonyentertainmentnetwork.com
 *.api.playstation.com
 my.playstation.com
 store.playstation.com
@@ -2346,6 +2345,7 @@ transact.playstation.com
 wallets.api.playstation.com
 ca.account.sony.com
 my.account.sony.com
+*.sonyentertainmentnetwork.com
 *.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2477,17 +2477,17 @@ itv7.itv.com
 *.amazon.cn
 *.amazon.com.br
 *.amazon.com.co
-*.amazon.co.uk
 *.amazon.co.jp
 *.amazon.fr
 *.amazon.ca
-*.amazon.de
-*.amazon.it
-*.amazon.es
 amazonpayinsurance.in
+*.amazon.de
+*.amazon.es
 *.amazon.com.tr
-*.amazon.com
 *.amazon.in
+*.amazon.it
+*.amazon.co.uk
+*.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2580,7 +2580,6 @@ marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 hotel-deals.marriott.com
 activities.marriott.com
-www.marriott.com
 moments.marriottbonvoy.com
 help.marriott.com
 traveler.marriott.com
@@ -2588,6 +2587,7 @@ travelagents.marriott.com/
 mipartnerprivileges.marriott.com
 *uat.marriott.com
 homes-and-villas.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2621,8 +2621,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3046,8 +3046,8 @@ py.pl
 *.hyperwallet.com
 *.paylution.com
 sandbox.braintreegateway.com
-*.paypal.com
 *.braintreegateway.com
+*.paypal.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3201,8 +3201,8 @@ api.foliofn.com
 *.folioinvesting.com
 playartifact.com
 help.steampowered.com
-www.counter-strike.net
 developer.valvesoftware.com
+www.counter-strike.net
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3354,11 +3354,11 @@ privatetarget-2-secure.zigzag
 privatetarget-1-www.zigzag
 *.semrush.com
 *.sellzone.com
-*.semrush.net
 *.seoquake.com
 *.seoab.io
 *.scatec.io
 *.myinsights.io
+*.semrush.net
 *.semrush.com
 *.semrush.net
 *.seoquake.com
@@ -3544,6 +3544,10 @@ https://enterprise-demo.portswigger.net/
 www.starbucks.co.kr
 card.starbucks.com.sg
 www.starbucks.com.sg
+app.starbucks.com
+cart.starbucks.co.jp
+openapi.starbucks.com
+secureui.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3554,10 +3558,6 @@ www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
 www.starbucks.ca
-cart.starbucks.co.jp
-openapi.starbucks.com
-secureui.starbucks.com
-app.starbucks.com
 www.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
@@ -3666,9 +3666,9 @@ winecellar.zomato.com
 *.hyperpure.com
 api.grofers.com
 api2.grofers.com
-blinkit.com
-*.runnr.in
 *.zomato.com
+*.runnr.in
+blinkit.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3742,11 +3742,11 @@ linkpop.com
 shopifyinbox.com
 shop.app
 *.shopifycs.com
-*.shopify.com
 your-store.myshopify.com
 admin.shopify.com
 *.shopify.io
 accounts.shopify.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3875,9 +3875,9 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 *.hoteltonight-test.com
 www.hoteltonight.com
+*.withairbnb.com
 *.hoteltonight.com
 *.airbnb.com
-*.withairbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -4023,13 +4023,13 @@ irccloud.com
 irc.irccloud.com
 team-irc.irccloud.com
 blog.irccloud.com
+*.cbhq.net
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
 api.custody.coinbase.com
-*.cbhq.net
 *.coinbase.com
 international.coinbase.com
 *.base.org
@@ -4359,15 +4359,15 @@ www.smartsheet.com
 *legal.trustpilot.com
 https://github.com/evolveum/midpoint
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
-marketplace.magento.com
-magentocommerce.com
-repo.magento.com
-magento.com
 account.magento.com
 u.magento.com
 imagine.magento.com
 magentolive.com
 accounts.magento.cloud
+marketplace.magento.com
+magentocommerce.com
+repo.magento.com
+magento.com
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
