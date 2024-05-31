@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 31 15:41:18 UTC 2024)
+## Domains with Bounties (Last Updated Fri May 31 16:22:50 UTC 2024)
 ```
 app.circle.com
 api.circle.com
@@ -451,8 +451,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-www.sheer.com
 my.sheer.com
+www.sheer.com
 www.sheer.com
 my.sheer.com
 www.analvids.com
@@ -530,11 +530,11 @@ www.mercadopago.com.pe
 www.mercadopago.com.uy
 www.mercadopago.cl
 www.mercadolibre.cl
-www.mercadopago.com.ar
-www.mercadopago.com.br
-www.mercadolibre.com.pe
-www.mercadolivre.com.br
 api.mercadolibre.com
+www.mercadopago.com.br
+www.mercadopago.com.ar
+www.mercadolivre.com.br
+www.mercadolibre.com.pe
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -734,8 +734,8 @@ fhir.redoxengine.com
 explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
-10x.redoxengine.com
 testapp.redoxengine.com
+10x.redoxengine.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -1095,17 +1095,17 @@ www.malwarebytes.com
 my.malwarebytes.com
 cloud.malwarebytes.com
 oneview.malwarebytes.com
-online.s-pankki.fi
+www.s-pankki.fi
 mobile.s-pankki.fi
 extranet.s-pankki.fi
-www.s-pankki.fi
+online.s-pankki.fi
 www.s-kaupat.fi
 tunnistus.s-ryhma.fi
 digili.s-cloud.fi
-cfapi.voikukka.fi
 www.prisma.fi
 www.sokos.fi
 api.sokos.fi
+cfapi.voikukka.fi
 online.s-pankki.fi
 www.s-pankki.fi
 https://crosskey.io/stores/s-pankki/apis
@@ -1180,16 +1180,16 @@ cloud8.8x8.com
 pay.8x8.com
 admin.8x8.com
 *.napoleongames.be
-*.napoleonsports.be
-*.luckydays.com
+*.spinaway.com
 *.napoleondice.be
 *.napoleoncasino.be
-*.spinaway.com
-*.magicjackpot.ro
-*.superbet.rs
-*.superbet.ro
+*.napoleonsports.be
 *.luckydays.ca
 *.superbet.com
+*.luckydays.com
+*.superbet.ro
+*.superbet.rs
+*.magicjackpot.ro
 *.superbet.pl
 *.superbet.ro
 *.superbet.rs
@@ -1421,8 +1421,8 @@ sorare.com
 api.sorare.com
 ws.sorare.com
 *.sheingsp.com
-*.shein.com
 *.romwe.com
+*.shein.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
@@ -1693,9 +1693,9 @@ api.recordedfuture.com
 app.recordedfuture.com
 id.recordedfuture.com
 securitytrails.com
-geminiadvisory.io
 hatching.io
 tria.ge
+geminiadvisory.io
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -2111,10 +2111,10 @@ seller-id.tokopedia.com
 shop-id.tokopedia.com
 pay.tokopediax.com
 tiktok.com
-*.tiktokv.com
 ads.tiktok.com
 *.tiktok.com
 affiliate-id.tokopedia.com
+*.tiktokv.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2165,8 +2165,8 @@ nft.io
 platform.enjin.io
 nft.io
 platform.enjin.io
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 cs.money
@@ -2472,7 +2472,6 @@ itv7.itv.com
 *.amazon.ca
 *.amazon.eg
 *.amazon.es
-*.amazon.fr
 *.amazon.it
 *.amazon.nl
 *.amazon.sa
@@ -2480,13 +2479,14 @@ itv7.itv.com
 *.amazon.sg
 *.amazon.cn
 *.amazon.co.jp
-*.amazon.de
 *.amazon.co.uk
 *.amazon.com.br
 *.amazon.com.co
+*.amazon.in
+*.amazon.de
+*.amazon.fr
 amazonpayinsurance.in
 *.amazon.com.tr
-*.amazon.in
 *.amazon.com
 *.amazon.cl
 *.amazon.co.za
@@ -2653,8 +2653,8 @@ app.nordpass.com
 app.nordpass.com
 *.line-apps.com
 *.line.naver.jp
-*.line.me
 *.linecorp.com
+*.line.me
 *.line.biz
 *.line.me
 *.line-apps.com
@@ -2819,8 +2819,7 @@ dashboard.omise.co
 offsite.omise.co
 www.omise.co
 www.opn.ooo
-hyatt.com
-www.hyatt.com
+world.hyatt.com
 assets.hyatt.com
 salesportal.hyatt.com
 meetings.hyatt.com
@@ -2832,7 +2831,8 @@ roominglist.hyatt.com
 soaext.oft.hyatt.com
 sso.oft.hyatt.com
 upsell.hyatt.com
-world.hyatt.com
+hyatt.com
+www.hyatt.com
 newsroom.images.hyatt.com
 www.hyattconnect.com
 jira.hyattdev.com
@@ -3080,12 +3080,12 @@ loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
 *.mmcdn.com
+secure.chaturbate.com
 chaturbate.com
 *.highwebmedia.com
 m.chaturbate.com
 *.securegatewayaccess.com
 billingsupport.chaturbate.com
-secure.chaturbate.com
 *.cb.dev
 *.mmwebc.dev
 *.highwebmedia.com
@@ -3675,8 +3675,8 @@ winecellar.zomato.com
 api.grofers.com
 api2.grofers.com
 blinkit.com
-*.runnr.in
 *.zomato.com
+*.runnr.in
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3750,11 +3750,11 @@ linkpop.com
 shopifyinbox.com
 shop.app
 *.shopifycs.com
-*.shopify.io
-accounts.shopify.com
 your-store.myshopify.com
 *.shopify.com
 admin.shopify.com
+accounts.shopify.com
+*.shopify.io
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -4110,12 +4110,12 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 api.hackerone.com
-cover-photos-us-east-2.hackerone-user-content.com
 errors.hackerone.net
+cover-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
+www.hackerone.com
 hackerone.live
 hackerone.com
-www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4144,8 +4144,8 @@ williamhill.us
 *.us.williamhill.com
 api.americanwagering.com
 caesarspalaceonline.com
-*.williamhill.us
 sportsbook.caesars.com
+*.williamhill.us
 *.us.williamhill.com
 *.williamhill.us
 sportsbook.caesars.com
