@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 31 13:19:59 UTC 2024)
+## Domains with Bounties (Last Updated Fri May 31 13:42:41 UTC 2024)
 ```
 api.circle.com
 app.circle.com
@@ -480,9 +480,9 @@ account-sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
-app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
+app.dynamic-preprod.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -530,11 +530,11 @@ www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadopago.com.uy
 www.mercadopago.cl
+www.mercadolibre.cl
 www.mercadolivre.com.br
 www.mercadopago.com.br
 www.mercadopago.com.ar
 api.mercadolibre.com
-www.mercadolibre.cl
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -1183,14 +1183,14 @@ admin.8x8.com
 *.superbet.rs
 *.superbet.pl
 *.magicjackpot.ro
+*.napoleonsports.be
+*.luckydays.com
 *.napoleondice.be
 *.napoleoncasino.be
-*.luckydays.com
-*.napoleonsports.be
-*.luckydays.ca
-*.superbet.ro
-*.superbet.com
 *.spinaway.com
+*.luckydays.ca
+*.superbet.com
+*.superbet.ro
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1421,8 +1421,8 @@ sorare.com
 api.sorare.com
 ws.sorare.com
 *.sheingsp.com
-*.shein.com
 *.romwe.com
+*.shein.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
@@ -1815,8 +1815,8 @@ https://www.xvideos.net/app/
 www.elastic.co
 *.elasticnet.co
 *.eops.nl
-cloud.elastic.co
 *.elastic.co
+cloud.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -2100,7 +2100,6 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 developers.tiktok.com
 business.tiktok.com
-ads.tiktok.com
 academy-outbound-ads.tiktok.com
 www.pangleglobal.com
 live-backstage.tiktok.com
@@ -2112,9 +2111,10 @@ affiliate-id.tokopedia.com
 seller-id.tokopedia.com
 shop-id.tokopedia.com
 pay.tokopediax.com
-*.tiktokv.com
 tiktok.com
+*.tiktokv.com
 *.tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2184,9 +2184,9 @@ api.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *.acronis.work
-account.acronis.com
 beta-cloud.acronis.com
 *-api-*.acronis.com
+account.acronis.com
 *.5nine.com
 *.devicelock.com
 *.acronis.com
@@ -2485,8 +2485,8 @@ amazonpayinsurance.in
 *.amazon.de
 *.amazon.co.uk
 *.amazon.com.br
-*.amazon.com
 *.amazon.com.co
+*.amazon.com
 *.amazon.in
 *.amazon.cl
 *.amazon.co.za
@@ -2654,8 +2654,8 @@ app.nordpass.com
 *.line-apps.com
 *.line.naver.jp
 *.line.biz
-*.linecorp.com
 *.line.me
+*.linecorp.com
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -3018,9 +3018,11 @@ login-pabets.tvg.com
 matomo.cloud
 matomo.cloud
 https://github.com/matomo-org/docker
-paypalobjects.com
-paypal.me
-py.pl
+*.xoom.com
+*.paypal.com
+*.braintreegateway.com
+*.paydiant.com
+*.venmo.com
 www.swiftcapital.com
 www.loanbuilder.com
 www.swiftfinancial.com
@@ -3040,11 +3042,9 @@ decision.swiftfinancial.com
 pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.paypalcorp.com
-*.xoom.com
-*.paypal.com
-*.braintreegateway.com
-*.paydiant.com
-*.venmo.com
+paypalobjects.com
+paypal.me
+py.pl
 *.hyperwallet.com
 *.paylution.com
 sandbox.braintreegateway.com
@@ -3080,12 +3080,12 @@ loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
 *.mmcdn.com
-secure.chaturbate.com
 chaturbate.com
 *.highwebmedia.com
 m.chaturbate.com
 *.securegatewayaccess.com
 billingsupport.chaturbate.com
+secure.chaturbate.com
 *.cb.dev
 *.mmwebc.dev
 *.highwebmedia.com
@@ -3628,8 +3628,8 @@ gist.github.com
 classroom.github.com
 *.githubapp.com
 *.githubusercontent.com
-npmjs.com
 github.com
+npmjs.com
 github.com
 api.github.com
 gist.github.com
@@ -3703,8 +3703,8 @@ derivws.com
 secure-dfadmin.deriv.com
 oauth.deriv.com
 api.deriv.com
-*.deriv.com
 *.derivws.com
+*.deriv.com
 app.deriv.com
 *.deriv.com
 *.deriv.cloud
@@ -3841,7 +3841,6 @@ account.ui.com
 fw-update.ubnt.com
 rma.ui.com
 design.ui.com
-uisp.com
 unifi.ui.com
 careers.ui.com
 ispdesign.ui.com
@@ -4107,15 +4106,15 @@ reviewer.pullrequest.com
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 *.vpn.hackerone.net
-hackerone.live
 www.wearehackerone.com
 mta-sts.wearehackerone.com
-api.hackerone.com
-errors.hackerone.net
 cover-photos-us-east-2.hackerone-user-content.com
+errors.hackerone.net
+api.hackerone.com
 app.pullrequest.com
-hackerone.com
 www.hackerone.com
+hackerone.com
+hackerone.live
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4141,11 +4140,11 @@ cover-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 *.vpn.hackerone.net
 williamhill.us
-*.williamhill.us
 *.us.williamhill.com
 api.americanwagering.com
 caesarspalaceonline.com
 sportsbook.caesars.com
+*.williamhill.us
 *.us.williamhill.com
 *.williamhill.us
 sportsbook.caesars.com
