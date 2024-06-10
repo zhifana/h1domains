@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 10 03:37:40 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jun 10 04:19:39 UTC 2024)
 ```
 api.circle.com
 app.circle.com
@@ -14,15 +14,15 @@ app.circle.com
 *.varonis.com
 *.varonis.io
 *.varonis.net
-*.nflxso.net
-nmtracking.netflix.com
+*.prod.ftl.netflix.com
+customerevents.netflix.com
+beacon.netflix.com
 *.nflxext.com
 presentationtracking.netflix.com
 *.nflxvideo.net
 *.prod.dradis.netflix.com
-*.prod.ftl.netflix.com
-customerevents.netflix.com
-beacon.netflix.com
+*.nflxso.net
+nmtracking.netflix.com
 help.netflix.com
 *.nflximg.net
 secure.netflix.com
@@ -85,7 +85,6 @@ app.koho.ca
 webgateway.koho.ca
 www.koho.ca
 usercontent.koho.ca
-shop.dyson.tw
 www.dyson.it
 www.dyson.ie
 www.dyson.ch
@@ -112,6 +111,10 @@ api.dyson.pt
 api.dyson.no
 api.dyson.de
 api.dyson.ch
+api.dyson.fr
+api.dyson.ie
+api.dyson.com
+api.fi.dyson.com
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -420,8 +423,8 @@ bioid-management.app
 *.worldcoin-distributors.com
 *.toolsforhumanity.com
 worldcoin.org
-*.consumer.worldcoin.org
 *.worldcoin.org
+*.consumer.worldcoin.org
 toolsforhumanity.com
 *.worldcoin.dev
 *.worldcoin.org
@@ -521,9 +524,9 @@ www.mercadopago.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.uy
 www.mercadopago.com.pe
+www.mercadolibre.com.mx
 www.mercadopago.cl
 www.mercadolibre.cl
-www.mercadolibre.com.mx
 api.mercadopago.com
 api.mercadolibre.com
 www.mercadolibre.com.pe
@@ -581,9 +584,9 @@ tableau.fareharbor.engineering
 fareharborsites.com
 spark.fareharbor.com
 compass.fareharbor.com
-careers.booking.com
-*.fareharbor.engineering
 demo.fareharbor.com
+*.fareharbor.engineering
+secure.booking.com
 *.booking.com
 *.rentalcars.com
 *.fareharbor.engineering
@@ -650,8 +653,8 @@ api.mergify.com
 dashboard.mergify.com
 www.compass.com
 www.compass.com
-*.hypr.com
 *.gethypr.com
+*.hypr.com
 *.hypr.com
 *.gethypr.com
 cdn.moderntreasury.com
@@ -677,9 +680,6 @@ lensa-ai.com
 prisma-ai.com
 appapi.neuralprisma.com
 https://simple-life-app.com/
-oauth-sandbox.gocardless.com
-xero-sandbox.gocardless.com
-*.gocardless-lab.io
 *.gocardless-cicd.io
 manage-sandbox.gocardless.com
 pay-sandbox.gocardless.com
@@ -687,6 +687,9 @@ api-sandbox.gocardless.com
 connect-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
+oauth-sandbox.gocardless.com
+xero-sandbox.gocardless.com
+*.gocardless-lab.io
 *.gocardless-staging.io
 www.gocardless.com
 *.gocardless.io
@@ -922,20 +925,20 @@ merino.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
 sync.services.mozilla.com
-api.profiler.firefox.com
-relay.firefox.com
-support.mozilla.org
-crash-stats.allizom.org
-push.services.mozilla.com
 addons.allizom.org
 firefox.settings.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
+api.profiler.firefox.com
+relay.firefox.com
+crash-stats.allizom.org
+support.mozilla.org
+push.services.mozilla.com
+monitor.mozilla.org
 developer.mozilla.org
 bugzilla.mozilla.org
-monitor.mozilla.org
-www.mozilla.org
 accounts.firefox.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
+www.mozilla.org
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
@@ -1016,11 +1019,11 @@ profile-api.eu-east-1.indriverapp.com
 messenger.eu-east-1.indriverapp.com
 ab-platform-api.eu-east-1.indriverapp.com
 cargo.indrive.com
+volans.tech
 watchdocs.indriverapp.com
 ci.indrive.dev
 injob.indriver.com
 *.indriver.com
-volans.tech
 *.indriverapp.com
 *.indrive.com
 *.indriverapp.com
@@ -1047,8 +1050,8 @@ auth2.indrive.tech
 aws.indrive.tech
 debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
-web.grindr.com
 *.grindr.mobi
+web.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.io
@@ -1092,12 +1095,12 @@ www.malwarebytes.com
 my.malwarebytes.com
 cloud.malwarebytes.com
 oneview.malwarebytes.com
+api.sokos.fi
 mobile.s-pankki.fi
 extranet.s-pankki.fi
 www.s-kaupat.fi
 tunnistus.s-ryhma.fi
 digili.s-cloud.fi
-api.sokos.fi
 cfapi.voikukka.fi
 www.prisma.fi
 www.s-pankki.fi
@@ -1344,8 +1347,8 @@ royal.checksw.com
 checksw.com
 royal.checksw.com
 *.cornershop.io/*
-*.cornershopapp.com/*
 *.superpal.com/*
+*.cornershopapp.com/*
 *.superpal.io/*
 *.cornershopapp.com/*
 *.superpal.com/*
@@ -1440,6 +1443,7 @@ smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
+bullsheet.me
 aggregator.etoro.com
 api.etoro.com
 billing.etoro.com
@@ -1471,7 +1475,6 @@ wallet.etoro.com
 watchlistapi.etoro.com
 partners.etoro.com
 rankings.etoro.com
-bullsheet.me
 www.etoro.com
 etoropartners.com
 delta.app
@@ -1552,4 +1555,26 @@ customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
 https://dbc-9a3f8ed1-7608.cloud.databricks.com
+payoneer.com.cn
+*.payoneer.com
+*.payoneer.com
+payoneer.com.cn
+krisp.ai
+account.krisp.ai
+api.krisp.ai
+teams.krisp.ai
+download.krisp.ai
+analytics.krisp.ai
+upld.krisp.ai
+*.krisp.ai
+*.krisp.ai
+krisp.ai
+account.krisp.ai
+api.krisp.ai
+teams.krisp.ai
+download.krisp.ai
+analytics.krisp.ai
+upld.krisp.ai
+admin.wickr.com
+admin.wickr.com
 ```
