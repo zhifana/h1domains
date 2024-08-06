@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Aug  6 04:22:52 UTC 2024)
+## Domains with Bounties (Last Updated Tue Aug  6 04:39:55 UTC 2024)
 ```
 cdn.nba.com
 stats.nba.com
