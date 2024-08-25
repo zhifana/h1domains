@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Aug 25 14:41:23 UTC 2024)
+## Domains with Bounties (Last Updated Sun Aug 25 15:14:59 UTC 2024)
 ```
 vfo03.vodafone.om
 vfo02.vodafone.om
