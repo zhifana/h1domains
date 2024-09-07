@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Sep  7 04:40:11 UTC 2024)
+## Domains with Bounties (Last Updated Sat Sep  7 05:14:46 UTC 2024)
 ```
 *.boardkingsgame.com
 *.houseoffun.com
-gnocchi-www.buffalo-ggn.net
 *.playwsop.com
+gnocchi-www.buffalo-ggn.net
 *.seriously.com
 *.slotomania.com
 *.playtika.com
@@ -46,8 +46,8 @@ identity.nba.com
 2kleague.nba.com
 core-api.nba.com
 www.nba.com
-cms.nba.com
 gleague.nba.com
+cms.nba.com
 www.nba.com
 gleague.nba.com
 2kleague.nba.com
@@ -73,16 +73,16 @@ console.circle.com
 *.varonis.com
 *.varonis.io
 *.varonis.net
+*.nflxso.net
+*.nflxvideo.net
+nmtracking.netflix.com
+customerevents.netflix.com
 presentationtracking.netflix.com
 *.nflximg.net
 beacon.netflix.com
 *.prod.dradis.netflix.com
-customerevents.netflix.com
-nmtracking.netflix.com
 *.prod.ftl.netflix.com
 *.nflxext.com
-*.nflxso.net
-*.nflxvideo.net
 ichnaea.netflix.com
 *.prod.cloud.netflix.com
 secure.netflix.com
@@ -107,13 +107,13 @@ nmtracking.netflix.com
 meechum.netflix.com
 platformtest.cat.earlywarning.io
 platform.cat.earlywarning.io
+api.zmsp.earlywarning.com
 zellepay.force.com
 ews-fusion.my.site.com
 api.zellepay.com
 zelleservice.my.site.com
 *.zelle.com
 earlywarningapi.force.com
-api.zmsp.earlywarning.com
 *.clearxchange.com
 *.zellepay.com
 *.earlywarning.com
@@ -484,8 +484,8 @@ getworldcoin.com
 toolsforhumanity.com
 worldcoin.org
 *.consumer.worldcoin.org
-*.worldcoin.org
 *.toolsforhumanity.com
+*.worldcoin.org
 bioid-management.app
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -517,8 +517,8 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.pornworld.com
-www.ddfcontent.com
 www.analvids.com
+www.ddfcontent.com
 www.pornbox.com
 www.pornbox.com
 www.analvids.com
@@ -529,8 +529,8 @@ sandbox.fireblocks.io
 http://sb-mobile-api.fireblocks.io
 http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
-university-staging.dynatracelabs.com
 account-sprint.dynatracelabs.com
+university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 *.sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
@@ -583,8 +583,8 @@ api.mercadolibre.com
 www.mercadopago.com.pe
 www.mercadolibre.com.mx
 www.mercadopago.com.ar
-www.mercadopago.cl
 www.mercadolibre.com.uy
+www.mercadopago.cl
 www.mercadolibre.com.co
 api.mercadopago.com
 www.mercadopago.com.uy
@@ -626,13 +626,13 @@ accommodations.booking.com
 flights.booking.com
 secure-supply-xml.booking.com
 tableau.fareharbor.engineering
+fareharborsites.com
+cars.booking.com
 taxis.booking.com
 *.fareharbor.engineering
 paymentcomponent.booking.com
 autocomplete.booking.com
 widget.rentalcars.com
-cars.booking.com
-fareharborsites.com
 spark.fareharbor.com
 readonly.fareharbor.com
 teleport.fareharbor.engineering
@@ -640,10 +640,10 @@ taxi.booking.com
 chat.booking.com
 marketing.fareharbor.com
 portal.taxi.booking.com
-secure.booking.com
 demo.fareharbor.com
 compass.fareharbor.com
 fhdn.fareharbor.com
+secure.booking.com
 *.fareharbor.com
 *.booking.com
 *.rentalcars.com
@@ -731,11 +731,11 @@ test.nicex.com
 connect-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 xero-sandbox.gocardless.com
-api-sandbox.gocardless.com
 pay-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 manage-sandbox.gocardless.com
+api-sandbox.gocardless.com
 *.gocardless-staging.io
 *.gocardless-cicd.io
 *.gocardless-lab.io
@@ -931,14 +931,14 @@ yourdomain.freshservice.com
 yourdomain.freshchat.com
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
-api.kolesa.kz
-app.avtoelon.uz
-m.krisha.kz
-m.kolesa.kz
-app.kolesa.kz
 m.avtoelon.uz
+app.kolesa.kz
+app.avtoelon.uz
+m.kolesa.kz
+m.krisha.kz
 id.avtoelon.uz
 app.krisha.kz
+api.kolesa.kz
 api.krisha.kz
 id.kolesa.kz
 avtoelon.uz
@@ -1054,9 +1054,9 @@ hiltonhotels.jp
 priority.eu-east-1.indriverapp.com
 messenger.eu-east-1.indriverapp.com
 ci.indrive.dev
+debug.clairvoyance.indrive.tech
 external.indrive.dev
 wga.volans.tech
-debug.clairvoyance.indrive.tech
 aws.indrive.tech
 ingest.clairvoyance.indrive.tech
 watchdocs.indriverapp.com
@@ -1069,12 +1069,12 @@ truck-api.eu-east-1.indriverapp.com
 cargo.indrive.com
 volans.tech
 profile-api.eu-east-1.indriverapp.com
+*.indriverapp.com
 auth.indrive.tech
 ab-platform-api.eu-east-1.indriverapp.com
-*.indriverapp.com
+*.indrive.com
 *.indriver.com
 new-order.eu-east-1.indriverapp.com
-*.indrive.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1146,11 +1146,11 @@ cloud.malwarebytes.com
 oneview.malwarebytes.com
 mobile.s-pankki.fi
 extranet.s-pankki.fi
-cfapi.voikukka.fi
-www.prisma.fi
-api.sokos.fi
-www.sokos.fi
 www.s-pankki.fi
+www.prisma.fi
+www.sokos.fi
+api.sokos.fi
+cfapi.voikukka.fi
 www.s-kaupat.fi
 online.s-pankki.fi
 digili.s-cloud.fi
@@ -1182,9 +1182,9 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 uc.8x8pilot.com
 work-staging.8x8.com
+sms.8x8.com
 *.p8t.us
 platform.8x8.com
-sms.8x8.com
 work.8x8.com
 *.jit.si
 *.packet8.net
@@ -1367,8 +1367,8 @@ tools.deribit.com
 metrics.deribit.com
 a4k.amazon.com
 skills-store.amazon.com
-creator.amazon.com
 read.amazon.com
+creator.amazon.com
 alexaanswers.amazon.com
 blueprints.amazon.com
 alexa.amazon.com
@@ -1414,11 +1414,4 @@ www.dolap.com
 www.trendyol-milla.com
 *.sidefx.com
 *.sidefx.com
-portfolio.metamask.io
-snaps.metamask.io
-metamask.io
-metamask.io
-snaps.metamask.io
-https://user-storage.api.cx.metamask.io
-portfolio.metamask.io
 ```
