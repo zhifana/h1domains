@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Sep  9 23:41:37 UTC 2024)
+## Domains with Bounties (Last Updated Tue Sep 10 01:12:53 UTC 2024)
 ```
 *.capitalone.ca
 *.capitalonegslbex.com
