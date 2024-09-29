@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Sep 29 19:16:59 UTC 2024)
+## Domains with Bounties (Last Updated Sun Sep 29 19:42:02 UTC 2024)
 ```
 ask.khealth.com
 start.khealth.com
@@ -12,8 +12,8 @@ www.kpharmacyllc.com
 api.khealth.io
 salesforce.khealth.com
 app.khealth.com
-api.khealth.com
 accounts.khealth.com
+api.khealth.com
 kaccount.khealth.com
 api.khealth.io
 accounts.khealth.com
@@ -156,10 +156,10 @@ nmtracking.netflix.com
 meechum.netflix.com
 platformtest.cat.earlywarning.io
 platform.cat.earlywarning.io
+api.zmsp.earlywarning.com
 zellepay.force.com
 ews-fusion.my.site.com
 zelleservice.my.site.com
-api.zmsp.earlywarning.com
 *.clearxchange.com
 api.zellepay.com
 earlywarningapi.force.com
@@ -206,11 +206,11 @@ api.fi.dyson.com
 shop.dyson.co.za
 *.cp.dyson.com
 shop.dyson.ru
-www.dyson.hu
-www.dyson.com.tr
+api.dyson.be
 www.dyson.com.ua
 api.dyson.de
 www.dyson.es
+www.dyson.ie
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -610,9 +610,9 @@ store.23andme.com
 therapeutics.23andme.com
 blog.23andme.com
 research.23andme.com
-auth.23andme.com
 mediacenter.23andme.com
 you.23andme.com
+auth.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -984,8 +984,8 @@ app.avtoelon.uz
 m.kolesa.kz
 app.krisha.kz
 avtoelon.uz
-app.kolesa.kz
 id.avtoelon.uz
+app.kolesa.kz
 api.krisha.kz
 krisha.kz
 api.avtoelon.uz
@@ -1014,8 +1014,8 @@ api.tideplatform.in
 crash-reports.allizom.org
 merino.services.mozilla.com
 api.profiler.firefox.com
-addons.allizom.org
 profiler.firefox.com
+addons.allizom.org
 aus5.mozilla.org
 phabricator.allizom.org
 shavar.services.mozilla.com
@@ -1024,15 +1024,15 @@ sync.services.mozilla.com
 community-tc.services.mozilla.com
 vpn.mozilla.org
 push.services.mozilla.com
-firefox.settings.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
-developer.mozilla.org
+firefox.settings.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
+developer.mozilla.org
 hg.mozilla.org
 support.mozilla.org
 lando.services.mozilla.com
-bugzilla.mozilla.org
 crash-stats.allizom.org
+bugzilla.mozilla.org
 accounts.firefox.com
 relay.firefox.com
 monitor.mozilla.org
@@ -1099,15 +1099,15 @@ hiltonhotels.jp
 *.oklink.com
 priority.eu-east-1.indriverapp.com
 messenger.eu-east-1.indriverapp.com
+file-storage-front.eu-east-1.indriverapp.com
 ci.indrive.dev
+debug.clairvoyance.indrive.tech
 external.indrive.dev
 wga.volans.tech
-debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 watchdocs.indriverapp.com
 argocd.indrive.dev
 injob.indriver.com
-file-storage-front.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
 auth.indrive.tech
@@ -1145,8 +1145,8 @@ auth2.indrive.tech
 aws.indrive.tech
 debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
-web.grindr.com
 *.grindr.mobi
+web.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.io
@@ -1321,7 +1321,6 @@ share.doppler.com
 *.10ktf.com
 *.wenewmoments.com
 *.lastminute.co.nz
-www.expediataap.com
 www.lastminute.com.au
 *.cheaptickets.com
 www.travelocity.ca
@@ -1347,6 +1346,7 @@ www.vrbo.com
 *.travelocity.com
 www.ebookers.com
 www.lastminute.co.nz
+www.fewo-direkt.de
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1482,9 +1482,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
-www.swoodoo.com
 www.checkfelix.com
 www.mundi.com.br
+www.swoodoo.com
 www.momondo.com
 www.cheapflights.com
 www.hotelscombined.com
@@ -1560,11 +1560,11 @@ uapi-front.etoro.com
 wallet.etoro.com
 watchlistapi.etoro.com
 rankings.etoro.com
+delta.app
 partners.etoro.com
 billing.etoro.com
 kyc.etoro.com
 api.etoro.com
-delta.app
 etoropartners.com
 bullsheet.me
 www.etoro.com
@@ -1649,9 +1649,9 @@ payoneer.com.cn
 *.payoneer.com
 *.payoneer.com
 payoneer.com.cn
-upld.krisp.ai
 download.krisp.ai
 teams.krisp.ai
+upld.krisp.ai
 analytics.krisp.ai
 app.krisp.ai
 account.krisp.ai
@@ -1692,8 +1692,6 @@ api.evernote.com
 www.evernote.com
 accounts.evernote.com
 api.evernote.com
-aquiris.com.br
-*.dancecentral.com
 *.singspacegame.com
 *.hmxwebservices.com
 *.epicgames.dev
@@ -1763,8 +1761,8 @@ therecord.media
 hatching.io
 app.recordedfuture.com
 geminiadvisory.io
-api.recordedfuture.com
 id.recordedfuture.com
+api.recordedfuture.com
 www.recordedfuture.com
 securitytrails.com
 www.recordedfuture.com
@@ -1848,8 +1846,8 @@ rubygems.org
 support.metamask.io
 tickets.metamask.io
 on-ramp.metaswap-dev.codefi.network
-staking.consensys.io
 *.api.cx.metamask.io
+staking.consensys.io
 webhook.metamask-institutional.io
 app.infura.io
 *.api.cx.metamask.io
@@ -1903,13 +1901,13 @@ www.urbanclap.com
 www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
+gql.reddit.com
+business.reddithelp.com
+matrix.redditspace.com
 meta-api.reddit.com
 *.redditblog.com
 amp.reddit.com
-business.reddithelp.com
-matrix.redditspace.com
 strapi.reddit.com
-gql.reddit.com
 m.reddit.com
 redditforbusiness.com
 *.redditmedia.com
@@ -1922,8 +1920,8 @@ api.reddit.com
 *.snooguts.net
 sh.reddit.com
 new.reddit.com
-mod.reddit.com
 ads.reddit.com
+mod.reddit.com
 *.memorable.io
 *.reddithelp.com
 *.reddit.com
@@ -1981,8 +1979,8 @@ wp-qa.chime.com
 *.chimebank.com
 www.chime.com
 *.1debit.com
-*.chime.com
 app.chime.com
+*.chime.com
 *.1debit.com
 *.chimebank.com
 *.chimecard.com
@@ -2426,10 +2424,10 @@ staking.polygon.technology
 ecosystem.polygon.technology
 ecosystem-api.polygon.technology
 *.xiaomiyoupin.com
-*.miwifi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
+*.miwifi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -2897,14 +2895,13 @@ www.globalhotelchoices.com
 blueskytours.globalbookingsolutions.com
 booking.cheapcaribbean.com
 booking.applevacations.com
-www.beachbound.com
-www.applevacations.com
-www.funjet.com
-vacations.universalstudioshollywood.com
-res.universalorlandovacations.com
-res.vacations.united.com
-res.vacations.universalstudioshollywood.com
 res.hyattinclusivecollection.com
+jira.hyattdev.com
+res.funjet.com
+www.hyattconnect.com
+newsroom.images.hyatt.com
+book.applevacations.com
+vacations.travelimpressions.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -3072,8 +3069,8 @@ www.loanbuilder.com
 my.loanbuilder.com
 www.swiftcapital.com
 swiftcapital.com
-paypal.me
 *.paylution.com
+paypal.me
 *.braintree.tools
 api.loanbuilder.com
 *.paydiant.com
@@ -3372,11 +3369,11 @@ grab.careers
 p.grabtaxi.com
 gamma.grab.co
 manage.grab.co
-api.grabpay.com
 xtramile.grabpay.com
 *.grab-sure.com
 *.taralite.com
 *.myteksi.com
+api.grabpay.com
 jira.grab.com
 gifts.grab.com
 wiki.grab.com
@@ -3627,8 +3624,8 @@ moneybirdstorage.com
 moneybird.com
 moneybird.com
 moneybirdstorage.com
-education.github.com
 *.githubapp.com
+education.github.com
 *.github.net
 gist.github.com
 npmjs.org
@@ -3696,8 +3693,8 @@ api2.grofers.com
 blinkit.com
 *.algolianet.com
 *.algolia.net
-www.algolia.com
 dashboard.algolia.com
+www.algolia.com
 *.algolia.net
 *.algolianet.com
 www.algolia.com
@@ -3783,8 +3780,8 @@ rt.playcanvas.com
 developer.playcanvas.com
 launch.playcanvas.com
 store.snapchat.com
-login.playcanvas.com
 *.sc-core.net
+login.playcanvas.com
 snappublisher.snapchat.com
 www.bitmoji.com
 *.sc-corp.net
@@ -3947,8 +3944,8 @@ app.interseller.io
 api.greenhouse.io
 www.greenhouse.io
 app.greenhouse.io
-interseller.io
 boards.greenhouse.io
+interseller.io
 support.greenhouse.io
 app.greenhouse.io
 boards.greenhouse.io
@@ -3962,9 +3959,9 @@ www.greenhouse.io
 ide.x.ai
 grok.x.ai
 gnip.com
-*.vine.co
 api.x.ai
 *.twimg.com
+*.vine.co
 x.com
 *.twitter.com
 *.twitter.com
@@ -3993,11 +3990,11 @@ secure.tumblr.com
 assets.tumblr.com
 embed.tumblr.com
 *.srvcs.tumblr.com
-akismet.com
+safe.tumblr.com
 api.tumblr.com
 t.umblr.com
 my.pressable.com
-safe.tumblr.com
+akismet.com
 mailpoet.com
 simplenote.com
 gravatar.com
@@ -4103,9 +4100,9 @@ apis.mail.yahoo.com
 yimg.com
 profile-photos-us-east-2.hackerone-user-content.com
 mta-sts.wearehackerone.com
-b5s.hackerone-ext-content.com
-hackathon-photos.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
+hackathon-photos.hackerone-user-content.com
+b5s.hackerone-ext-content.com
 *.vpn.hackerone.net
 hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -4113,9 +4110,9 @@ hackerone.live
 hackerone-ext-content.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
-app.pullrequest.com
 ctf.hacker101.com
 errors.hackerone.net
+app.pullrequest.com
 www.wearehackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4328,9 +4325,9 @@ www.alibabagroup.com
 *.aliyun.com
 *.tmall.com
 *.aliexpress.com
-*.taobao.com
 *.alibaba.com
 *.1688.com
+*.taobao.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -4348,8 +4345,8 @@ ota.helium.com
 ota.helium.com
 admin.smartsheet.com
 www.smartsheet.com
-app.smartsheet.com
 developers.smartsheet.com
+app.smartsheet.com
 app.smartsheet.com
 http://api.smartsheet.com/2.0
 admin.smartsheet.com
