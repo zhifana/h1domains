@@ -2,19 +2,19 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Oct  7 21:19:03 UTC 2024)
+## Domains with Bounties (Last Updated Mon Oct  7 21:41:05 UTC 2024)
 ```
 https://portal.3cx.com
 middle-force.khealth.io
 anthem.khealth.com
 www.kpharmacyllc.com
 kaccount.khealth.com
-accounts.khealth.com
 start.khealth.com
 app.khealth.com
 api.khealth.com
 api.khealth.io
 ask.khealth.com
+accounts.khealth.com
 salesforce.khealth.com
 api.khealth.io
 accounts.khealth.com
@@ -100,8 +100,8 @@ mobileapi.na1.insightly.com
 mobileapi.insightly.com
 marketing.na1.insightly.com
 login.insightly.com
-accounts.insightly.com
 crm.na1.insightly.com
+accounts.insightly.com
 crm.na1.insightly.com
 accounts.insightly.com
 outlook.insightly.com
@@ -123,9 +123,9 @@ console.circle.com
 *.varonis.com
 *.varonis.io
 *.varonis.net
-nmtracking.netflix.com
 presentationtracking.netflix.com
 *.prod.dradis.netflix.com
+nmtracking.netflix.com
 ichnaea.netflix.com
 *.nflxvideo.net
 customerevents.netflix.com
@@ -157,9 +157,9 @@ nmtracking.netflix.com
 meechum.netflix.com
 platformtest.cat.earlywarning.io
 platform.cat.earlywarning.io
-ews-fusion.my.site.com
-zellepay.force.com
 api.zmsp.earlywarning.com
+zellepay.force.com
+ews-fusion.my.site.com
 api.zellepay.com
 earlywarningapi.force.com
 *.zelle.com
@@ -204,7 +204,7 @@ api.dyson.ie
 api.fi.dyson.com
 *.cp.dyson.com
 shop.dyson.ru
-www.dyson.hu
+api.dyson.be
 api.dyson.de
 www.dyson.ie
 www.dyson.se
@@ -212,7 +212,7 @@ www.dyson.ch
 www.dyson.co.il
 www.dyson.com.ee
 www.dyson.nl
-api.dyson.be
+www.dyson.co.kr
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -502,10 +502,10 @@ access-sandbox.remitly.com
 cards.remitly.io
 app3.rewire.to
 rates.rewire.com
-ablink.info.remitly.com
 *.int.remitly.com
-access.remitly.com
+ablink.info.remitly.com
 app.rewire.to
+access.remitly.com
 news.remitly.com
 ir.remitly.com
 rewire.com
@@ -551,8 +551,8 @@ worldcoin.org
 customer-sessions.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
-verify.arkoselabs.com
 portal.arkoselabs.com
+verify.arkoselabs.com
 iframe.arkoselabs.com
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -612,9 +612,9 @@ mediacenter.23andme.com
 you.23andme.com
 education.23andme.com
 store.23andme.com
-auth.23andme.com
-medical.23andme.com
 therapeutics.23andme.com
+medical.23andme.com
+auth.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -633,13 +633,13 @@ www.mercadopago.com.pe
 www.mercadolibre.com.mx
 www.mercadopago.com.mx
 www.mercadopago.com.br
-www.mercadolibre.com.co
-www.mercadolibre.com.ar
-api.mercadopago.com
 api.mercadolibre.com
+www.mercadolibre.com.ar
+www.mercadolibre.com.co
+api.mercadopago.com
 www.mercadolivre.com.br
-www.mercadopago.com.ar
 www.mercadopago.cl
+www.mercadopago.com.ar
 www.mercadolibre.cl
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -781,10 +781,10 @@ pay-sandbox.gocardless.com
 *.gocardless-banking.io
 *.gocardless-staging.io
 *.gocardless-cicd.io
-api-sandbox.gocardless.com
+*.gocardless-lab.io
 connect-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
-*.gocardless-lab.io
+api-sandbox.gocardless.com
 manage-sandbox.gocardless.com
 www.gocardless.com
 *.gocardless.io
@@ -881,9 +881,7 @@ www.visa.co.nz
 www.visa.co.th
 www.fraedom.com
 www.tink.com
-www.visa.com.cn
-cw.visa.com
-www.visa.com.sg
+bd.visa.com
 www.visa.com.vn
 visa.co.za
 www.practicalmoneyskills.com
@@ -892,10 +890,12 @@ developer.authorize.net
 bm.visa.com
 www.authorize.net
 www.visa.com.tr
-bd.visa.com
+www.visa.com.sg
+www.visa.com.cn
+cw.visa.com
 www.currencycloud.com
-www.cardinalcommerce.com
 aw.visa.com
+www.cardinalcommerce.com
 developer.currencycloud.com
 developer.cybersource.com
 www.yellowpepper.com
@@ -1145,8 +1145,8 @@ auth2.indrive.tech
 aws.indrive.tech
 debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
-web.grindr.com
 *.grindr.mobi
+web.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.io
@@ -1405,8 +1405,8 @@ pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
 skills-store.amazon.com
-read.amazon.com
 creator.amazon.com
+read.amazon.com
 alexa.amazon.com
 a4k.amazon.com
 alexaanswers.amazon.com
@@ -1560,11 +1560,11 @@ uapi-front.etoro.com
 wallet.etoro.com
 watchlistapi.etoro.com
 rankings.etoro.com
+delta.app
 partners.etoro.com
 billing.etoro.com
 kyc.etoro.com
 api.etoro.com
-delta.app
 bullsheet.me
 etoropartners.com
 www.etoro.com
@@ -1649,8 +1649,8 @@ payoneer.com.cn
 *.payoneer.com
 *.payoneer.com
 payoneer.com.cn
-download.krisp.ai
 upld.krisp.ai
+download.krisp.ai
 teams.krisp.ai
 analytics.krisp.ai
 account.krisp.ai
@@ -1692,7 +1692,6 @@ accounts.evernote.com
 www.evernote.com
 accounts.evernote.com
 api.evernote.com
-hc2services.com
 *.singspacegame.com
 *.hmxwebservices.com
 *.epicgames.dev
@@ -1761,8 +1760,8 @@ tria.ge
 therecord.media
 hatching.io
 app.recordedfuture.com
-id.recordedfuture.com
 api.recordedfuture.com
+id.recordedfuture.com
 geminiadvisory.io
 securitytrails.com
 www.recordedfuture.com
@@ -1884,8 +1883,8 @@ api.taxjar.com
 *.link.co
 js.stripe.com
 api.stripe.com
-*.stripe.com
 app.taxjar.com
+*.stripe.com
 api.stripe.com
 *.stripe.com
 js.stripe.com
@@ -1901,9 +1900,9 @@ www.urbanclap.com
 www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
-amp.reddit.com
-*.redditblog.com
 meta-api.reddit.com
+*.redditblog.com
+amp.reddit.com
 business.reddithelp.com
 matrix.redditspace.com
 strapi.reddit.com
@@ -2142,13 +2141,13 @@ tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
 shop-id.tokopedia.com
-developers.tiktok.com
 *.tiktok.com
-www.pangleglobal.com
-affiliate-id.tokopedia.com
 seller-id.tokopedia.com
 ads.tiktok.com
 *.tiktokv.com
+developers.tiktok.com
+www.pangleglobal.com
+affiliate-id.tokopedia.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2216,8 +2215,8 @@ api.faraday.ai
 *.5nine.com
 *.acronis.work
 account.acronis.com
-*.acronis.com
 beta-cloud.acronis.com
+*.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2360,11 +2359,11 @@ webapi.clario.co
 api.account.clario.co
 api-ne.mackeeper.com
 mkapi.mackeeper.com
+clario.co
 dcs.clario.co
 inapp.clario.co
 kbill.mackeeper.com
 mackeeper.com
-clario.co
 yapi.clario.co
 account.mackeeper.com
 account.mackeeper.com
@@ -2411,8 +2410,8 @@ direct.playstation.com
 api.direct.playstation.com
 ca.account.sony.com
 my.account.sony.com
-faucet.polygon.technology
 staking-api.polygon.technology
+faucet.polygon.technology
 ecosystem-api.polygon.technology
 portal.polygon.technology
 ecosystem.polygon.technology
@@ -2569,8 +2568,8 @@ maria.casino
 *.ottokasino.com
 *.storspiller.com
 *.kindredext.net
-www.32red.com
 *.highrolling.nu
+www.32red.com
 *.kes.kindredext.net
 *.kolikkopelit.com
 *.casinohuone.com
@@ -2673,8 +2672,8 @@ kubernetes.io
 k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
-docs.datastax.com
 langflow.datastax.com
+docs.datastax.com
 langflow.org
 astra.datastax.com
 www.datastax.com
@@ -2847,8 +2846,8 @@ support.creditkarma.ca
 offsite.omise.co
 vault.omise.co
 api.omise.co
-www.opn.ooo
 www.omise.co
+www.opn.ooo
 dashboard.omise.co
 vault.omise.co
 api.omise.co
@@ -3182,8 +3181,8 @@ apigw.foliofn.com
 *.advisorsolutions.gs.com
 *.foliodigitalwealth.com
 *.foliofirst.com
-*.honestdollar.com
 *.gspublishing.com
+*.honestdollar.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3250,8 +3249,8 @@ js.crypto.com
 app.mona.co
 tax.crypto.com
 pay.crypto.com
-merchant.crypto.com
 auth.crypto.com
+merchant.crypto.com
 www.crypto.com
 *.crypto.com
 *.crypto.com
@@ -3325,12 +3324,12 @@ privatetarget-2-secure.zigzag
 api.lahitapiola.fi
 *.beta.lahitapiola.fi
 ext-gw.lahitapiola.fi
-*.lahitapiolarahoitus.fi
-*.tapiola.fi
 asiointi.lahitapiola.fi
-tunnistus.lahitapiola.fi
 secure.lahitapiola.fi
+*.tapiola.fi
 yrityspalvelu.tapiola.fi
+tunnistus.lahitapiola.fi
+*.lahitapiolarahoitus.fi
 www.lahitapiola.fi
 *.lahitapiola.fi
 *.lahitapiolarahoitus.fi
@@ -3379,9 +3378,9 @@ wiki.grab.com
 kartaview.org
 xtramile.grabpay.com
 *.myteksi.net
-*.grabtaxi.com
 *.ovo.id
 *.grab.co
+*.grabtaxi.com
 *.grab.com
 jira.grab.com
 *.myteksi.com
@@ -3561,10 +3560,10 @@ gift.starbucks.co.jp
 www.starbucks.com.br
 openapi.starbucks.com
 cart.starbucks.co.jp
-www.starbucksreserve.com
 www.starbucks.co.kr
 www.starbucks.com.sg
 www.starbucks.ca
+www.starbucksreserve.com
 login.starbucks.co.jp
 www.starbucks.de
 www.starbucks.co.jp
@@ -3590,8 +3589,8 @@ www.starbucks.com.sg
 cart.starbucks.co.jp
 openapi.starbucks.com
 secureui.starbucks.com
-www.blockchain.info
 ws.blockchain.info
+www.blockchain.info
 api.blockchain.info
 *.blockchain.com
 *.blockchain.com
@@ -3612,9 +3611,9 @@ talk.brave.com
 account.brave.com
 rubygems.org
 rubygems.org
-*.yelp-support.com
-yelptop100.com
 *.yelpwifi.com
+yelptop100.com
+*.yelp-support.com
 *.yelp.com
 *.yelp.com
 *.yelp-support.com
@@ -3632,8 +3631,8 @@ classroom.github.com
 npmjs.com
 *.githubusercontent.com
 api.github.com
-gist.github.com
 github.com
+gist.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3679,9 +3678,9 @@ api.grofers.com
 *.runnr.in
 winecellar.zomato.com
 *.zomans.com
-*.zomato.com
 *.hyperpure.com
 blinkit.com
+*.zomato.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3706,8 +3705,8 @@ smarttrader.deriv.com
 cashier.deriv.com
 app.deriv.com
 *.derivws.com
-*.binary.com
 oauth.deriv.com
+*.binary.com
 api.deriv.com
 *.deriv.com
 *.deriv.com
@@ -3772,6 +3771,7 @@ kit.snapchat.com
 geofilters.snapchat.com
 code.playcanvas.com
 store.playcanvas.com
+story.snapchat.com
 blog.playcanvas.com
 relay.playcanvas.com
 msg.playcanvas.com
@@ -3779,7 +3779,6 @@ rt.playcanvas.com
 developer.playcanvas.com
 launch.playcanvas.com
 store.snapchat.com
-story.snapchat.com
 *.sc-core.net
 login.playcanvas.com
 snappublisher.snapchat.com
@@ -3977,9 +3976,9 @@ ide.x.ai
 *.teams.cloudflare.com
 waf.cumulusfire.net
 *.cloudflare.com
+*.cloudflarepartners.com
 cloudflareworkers.com
 api.cloudflare.com
-*.cloudflarepartners.com
 dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
@@ -4053,8 +4052,8 @@ commerce.coinbase.com
 cloud.coinbase.com
 api.coinbase.com
 *.coinbase.com
-*.base.org
 coinbase.com
+*.base.org
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
