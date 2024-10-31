@@ -2,10 +2,10 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Oct 31 20:20:48 UTC 2024)
+## Domains with Bounties (Last Updated Thu Oct 31 20:43:06 UTC 2024)
 ```
-connect.secure.wellsfargo.com
 *.wellsfargo.com
+connect.secure.wellsfargo.com
 *.wellsfargo.com
 connect.secure.wellsfargo.com
 http://wellsfargo.com
@@ -17,9 +17,9 @@ salesforce.khealth.com
 ask.khealth.com
 treatments.khealth.com
 eligibility.khealth.com
-api.khealth.com
 www.kpharmacyllc.com
 anthem.khealth.com
+api.khealth.com
 accounts.khealth.com
 api.khealth.io
 app.khealth.com
@@ -52,6 +52,7 @@ gnocchi-www.buffalo-ggn.net
 *.houseoffun.com
 *.boardkingsgame.com
 *.caesarsgames.com
+*.playwsop.com
 *.slotomania.com
 *.playtika.com
 *.bingoblitz.com
@@ -81,9 +82,9 @@ vfo03.vodafone.om
 content-api-prod.nba.com
 stats-trafficcop-prod.nba.com
 content-api-nextgen-prod.nba.com
-2kleague.nba.com
 cdn.nba.com
 stats.nba.com
+2kleague.nba.com
 bal.nba.com
 gleague.nba.com
 core-api.nba.com
@@ -210,13 +211,13 @@ api.dyson.ch
 api.dyson.ie
 api.fi.dyson.com
 *.cp.dyson.com
-api.dyson.be
 api.dyson.de
 www.dyson.ie
 www.dyson.se
 www.dyson.ch
 www.dyson.co.il
 www.dyson.nl
+api.dyson.be
 www.dyson.be
 www.dyson.dk
 www.gr.dyson.com
@@ -511,7 +512,6 @@ cards.remitly.io
 ablink.info.remitly.com
 ir.remitly.com
 api.remitly.io
-app3.rewire.to
 rates.rewire.com
 blog.remitly.com
 auth.remitly.com
@@ -524,6 +524,7 @@ remitly.com
 careers.remitly.com
 rewire.com
 site.rewire.com
+app3.rewire.to
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -566,8 +567,8 @@ bioid-management.app
 worldcoin.org
 customer-sessions.arkoselabs.com
 cdn.arkoselabs.com
-verify.arkoselabs.com
 portal.arkoselabs.com
+verify.arkoselabs.com
 demo.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
@@ -580,8 +581,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-www.ddfcontent.com
 www.pornworld.com
+www.ddfcontent.com
 www.analvids.com
 www.pornbox.com
 www.pornbox.com
@@ -628,8 +629,8 @@ research.23andme.com
 blog.23andme.com
 therapeutics.23andme.com
 api.23andme.com
-auth.23andme.com
 you.23andme.com
+auth.23andme.com
 medical.23andme.com
 api.23andme.com
 auth.23andme.com
@@ -688,17 +689,17 @@ paynotifications.booking.com
 supply-xml.booking.com
 secure-supply-xml.booking.com
 tableau.fareharbor.engineering
-cars.booking.com
 taxis.booking.com
 paymentcomponent.booking.com
 autocomplete.booking.com
 widget.rentalcars.com
+cars.booking.com
 teleport.fareharbor.engineering
-chat.booking.com
 spark.fareharbor.com
+chat.booking.com
+sites.fareharbor.com
 readonly.fareharbor.com
 demo.fareharbor.com
-sites.fareharbor.com
 taxi.booking.com
 fareharborsites.com
 careers.booking.com
@@ -838,9 +839,9 @@ launch.gamma.redoxstage.com
 sftp.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
 help.redoxengine.com
+clientcert.gamma.redoxstage.com
 explore.redoxengine.com
 api.gamma.redoxstage.com
-clientcert.gamma.redoxstage.com
 app.gamma.redoxstage.com
 docs.redoxengine.com
 testapi.redoxengine.com
@@ -896,7 +897,9 @@ visa.co.ni
 www.visa.co.nz
 www.visa.co.th
 www.fraedom.com
-bd.visa.com
+www.visa.com.cn
+cw.visa.com
+www.visa.com.sg
 www.visa.com.vn
 visa.co.za
 www.practicalmoneyskills.com
@@ -905,9 +908,7 @@ developer.authorize.net
 bm.visa.com
 www.authorize.net
 www.visa.com.tr
-www.visa.com.sg
-www.visa.com.cn
-cw.visa.com
+bd.visa.com
 www.yellowpepper.com
 www.visa.com.mx
 bq.visa.com
@@ -1097,8 +1098,8 @@ hiltonhotels.jp
 hiltonlocalbiz.com
 hilton.io
 *.hilton.io
-*.hiltonhotels.jp
 *.hiltonbusinessonline.com
+*.hiltonhotels.jp
 *.hilton.com
 hilton.com
 *.hilton.com
@@ -1117,8 +1118,8 @@ hiltonhotels.jp
 *.oklink.com
 priority.eu-east-1.indriverapp.com
 messenger.eu-east-1.indriverapp.com
-external.indrive.dev
 debug.clairvoyance.indrive.tech
+external.indrive.dev
 ingest.clairvoyance.indrive.tech
 injob.indriver.com
 file-storage-front.eu-east-1.indriverapp.com
@@ -1126,8 +1127,8 @@ auth2.indrive.tech
 truck-api.eu-east-1.indriverapp.com
 super-services.indriverapp.com
 watchdocs.indriverapp.com
-ci.indrive.dev
 wga.volans.tech
+ci.indrive.dev
 profile-api.eu-east-1.indriverapp.com
 volans.tech
 *.indriver.com
@@ -1286,8 +1287,8 @@ admin.8x8.com
 *.napoleonsports.be
 *.superbet.rs
 *.superbet.pl
-*.napoleoncasino.be
 *.napoleongames.be
+*.napoleoncasino.be
 *.magicjackpot.ro
 *.superbet.ro
 *.superbet.com
@@ -1352,14 +1353,14 @@ www.expediaagents.com
 www.abritel.fr
 www.mrjet.se
 www.flights.com
-www.ebookers.fi
 www.fewo-direkt.de
-www.stayz.com.au
 www.bookabach.co.nz
+www.ebookers.fi
+www.stayz.com.au
 www.cheaptickets.com
-*.lastminute.com.au
-www.carrentals.com
 *.cheaptickets.com
+www.carrentals.com
+*.lastminute.com.au
 www.lastminute.com.au
 www.travelocity.ca
 *.vrbo.com
@@ -1431,8 +1432,8 @@ insights.deribit.com
 pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
-read.amazon.com
 creator.amazon.com
+read.amazon.com
 alexa.amazon.com
 a4k.amazon.com
 blueprints.amazon.com
@@ -1532,8 +1533,8 @@ sorare.com
 api.sorare.com
 ws.sorare.com
 *.romwe.com
-*.shein.com
 *.sheingsp.com
+*.shein.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
@@ -1588,8 +1589,8 @@ partners.etoro.com
 billing.etoro.com
 kyc.etoro.com
 api.etoro.com
-push-demo-lightstreamer.cloud.etoro.com
 delta.app
+push-demo-lightstreamer.cloud.etoro.com
 etoropartners.com
 aggregator.etoro.com
 wallet.etoro.com
@@ -1677,12 +1678,12 @@ payoneer.com.cn
 *.payoneer.com
 payoneer.com.cn
 download.krisp.ai
-upld.krisp.ai
 teams.krisp.ai
+upld.krisp.ai
 analytics.krisp.ai
 account.krisp.ai
-app.krisp.ai
 *.krisp.ai
+app.krisp.ai
 api.krisp.ai
 krisp.ai
 *.krisp.ai
@@ -1825,8 +1826,8 @@ tock.18f.gov
 marketplace.fedramp.gov
 federalist.18f.gov
 federalist-docs.18f.gov
-labs.data.gov
 login.fr.cloud.gov
+labs.data.gov
 inventory.data.gov
 ssh.fr.cloud.gov
 www.data.gov
@@ -1946,14 +1947,14 @@ new.reddit.com
 sh.reddit.com
 gql.reddit.com
 *.snooguts.net
-accounts.reddit.com
 *.reddithelp.com
+accounts.reddit.com
 developers.reddit.com
 gateway.reddit.com
 *.redditmedia.com
+strapi.reddit.com
 *.memorable.io
 ads.reddit.com
-strapi.reddit.com
 *.reddit.com
 *.snooguts.net
 *.reddit.com
@@ -2168,7 +2169,6 @@ affiliate-id.tokopedia.com
 seller-id.tokopedia.com
 partner.tiktokshop.com
 live-backstage.tiktok.com
-www.pangleglobal.com
 developers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
@@ -2177,6 +2177,7 @@ ads.tiktok.com
 *.tiktokv.com
 careers.tiktok.com
 tiktok.com
+www.pangleglobal.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2197,6 +2198,7 @@ seller-id.tokopedia.com
 shop-id.tokopedia.com
 pay.tokopediax.com
 meetiobook.com
+gaming.logicool.co.jp
 circle.logi.com
 accounts.logi.com
 *vc.logitech.com
@@ -2517,8 +2519,8 @@ ecosystem-api.polygon.technology
 *.ppbdev.com
 super6.skysports.com
 itv7.itv.com
-*.amazon.com.co
 *.amazon.com.ng
+*.amazon.com.co
 *.amazon.sg
 *.amazon.com.au
 *.amazon.com.be
@@ -2535,12 +2537,12 @@ amazonpayinsurance.in
 *.amazon.pl
 *.amazon.eg
 *.amazon.ae
+*.amazon.com.mx
 *.amazon.nl
 *.amazon.co.jp
-*.amazon.com.mx
 *.amazon.de
-*.amazon.com
 *.amazon.cn
+*.amazon.com
 *.amazon.co.uk
 *.amazon.fr
 *.amazon.in
@@ -2912,8 +2914,7 @@ www.globalhotelchoices.com
 blueskytours.globalbookingsolutions.com
 booking.cheapcaribbean.com
 booking.applevacations.com
-book.beachbound.com
-www.triseptsolutions.com
+www.beachbound.com
 www.funjet.com
 res.universalorlandovacations.com
 res.vacations.united.com
@@ -2924,7 +2925,8 @@ jira.hyattdev.com
 res.southwestvacations.com
 new.www.vaxvacationaccess.com
 www.hyattinclusivecollection.com
-www.beachbound.com
+www.triseptsolutions.com
+book.beachbound.com
 login.en.travelbrandsagent.com
 vacations.united.com
 hyatt.com
@@ -3246,9 +3248,9 @@ www.fitvermogen.nl
 *.foliofirst.com
 *.folioinvesting.com
 playartifact.com
-partner.steamgames.com
 partner.steampowered.com
 support.steampowered.com
+partner.steamgames.com
 store.steampowered.com
 developer.valvesoftware.com
 www.teamfortress.com
@@ -3470,10 +3472,10 @@ wordpressfoundation.org
 *.wordpress.net
 api.wordpress.org
 lists.wordpress.org
+*.wordpress.org
 *.buddypress.org
 bbpress.org
 profiles.wordpress.org
-*.wordpress.org
 *.wordpress.org
 *.buddypress.org
 bbpress.org
@@ -3582,8 +3584,8 @@ api.blockchain.info
 ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
-account.brave.com
 search.brave.com
+account.brave.com
 talk.brave.com
 brave.com
 brave.com
@@ -3594,8 +3596,8 @@ talk.brave.com
 account.brave.com
 rubygems.org
 rubygems.org
-yelptop100.com
 *.yelp-support.com
+yelptop100.com
 *.yelpwifi.com
 *.yelp.com
 *.yelp.com
@@ -3661,8 +3663,8 @@ winecellar.zomato.com
 blinkit.com
 api2.grofers.com
 *.runnr.in
-*.hyperpure.com
 *.zomato.com
+*.hyperpure.com
 *.zomans.com
 *.zomato.com
 *.zdev.net
@@ -3725,8 +3727,8 @@ shopify.plus
 *.shopifycs.com
 *.shopifykloud.com
 arrive-server.shopifycloud.com
-*.shopifycloud.com
 partners.shopify.com
+*.shopifycloud.com
 *.shopify.com
 your-store.myshopify.com
 shop.app
@@ -3754,13 +3756,13 @@ kit.snapchat.com
 geofilters.snapchat.com
 code.playcanvas.com
 store.playcanvas.com
-story.snapchat.com
 relay.playcanvas.com
 msg.playcanvas.com
 rt.playcanvas.com
 developer.playcanvas.com
 launch.playcanvas.com
 store.snapchat.com
+story.snapchat.com
 login.playcanvas.com
 *.sc-corp.net
 spectacles.com
@@ -3769,10 +3771,10 @@ my.snapchat.com
 snappublisher.snapchat.com
 forum.playcanvas.com
 blog.playcanvas.com
-www.bitmoji.com
-app.snapchat.com
 business.snapchat.com
 playcanvas.com
+www.bitmoji.com
+app.snapchat.com
 businesshelp.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
@@ -3952,8 +3954,8 @@ gnip.com
 x.com
 one.dash.cloudflare.com
 cloudflareworkers.com
-*.teams.cloudflare.com
 *.cloudflarepartners.com
+*.teams.cloudflare.com
 api.cloudflare.com
 *.cloudflare.com
 dash.cloudflare.com
@@ -4081,9 +4083,9 @@ apis.mail.yahoo.com
 yimg.com
 profile-photos-us-east-2.hackerone-user-content.com
 mta-sts.wearehackerone.com
-cover-photos.hackerone-user-content.com
-hackathon-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
+hackathon-photos.hackerone-user-content.com
+cover-photos.hackerone-user-content.com
 *.vpn.hackerone.net
 hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -4091,14 +4093,14 @@ hackerone-ext-content.com
 reviewer.pullrequest.com
 cover-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
-errors.hackerone.net
 a5s.hackerone-ext-content.com
+errors.hackerone.net
 hackerone.live
 hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com
 api.hackerone.com
 ctf.hacker101.com
-www.wearehackerone.com
 www.hackerone.com
+www.wearehackerone.com
 app.pullrequest.com
 hackerone.com
 hackerone.com
