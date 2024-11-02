@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov  2 10:15:57 UTC 2024)
+## Domains with Bounties (Last Updated Sat Nov  2 10:42:35 UTC 2024)
 ```
 connect.secure.wellsfargo.com
 *.wellsfargo.com
@@ -16,9 +16,9 @@ middle-force.khealth.io
 salesforce.khealth.com
 ask.khealth.com
 eligibility.khealth.com
-api.khealth.com
 www.kpharmacyllc.com
 anthem.khealth.com
+api.khealth.com
 api.khealth.io
 app.khealth.com
 treatments.khealth.com
@@ -79,8 +79,8 @@ apix.vodafone.om
 vfo01.vodafone.om
 vfo02.vodafone.om
 vfo03.vodafone.om
-content-api-prod.nba.com
 stats-trafficcop-prod.nba.com
+content-api-prod.nba.com
 content-api-nextgen-prod.nba.com
 cdn.nba.com
 stats.nba.com
@@ -88,8 +88,8 @@ gleague.nba.com
 core-api.nba.com
 cms.nba.com
 identity.nba.com
-2kleague.nba.com
 id.nba.com
+2kleague.nba.com
 bal.nba.com
 www.nba.com
 www.nba.com
@@ -108,9 +108,9 @@ identity.nba.com
 mobileapi.insightly.com
 outlook.insightly.com
 login.insightly.com
+mobileapi.na1.insightly.com
 marketing.na1.insightly.com
 accounts.insightly.com
-mobileapi.na1.insightly.com
 crm.na1.insightly.com
 crm.na1.insightly.com
 accounts.insightly.com
@@ -195,8 +195,8 @@ platform.cat.earlywarning.io
 usercontent.koho.ca
 webgateway.koho.ca
 www.koho.ca
-app.koho.ca
 web.koho.ca
+app.koho.ca
 web.koho.ca
 http://api.koho.ca/1.0
 http://api.koho.ca/partner
@@ -607,8 +607,8 @@ sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 demo.dynamic.xyz
-app.dynamic.xyz
 app.dynamic-preprod.xyz
+app.dynamic.xyz
 app.dynamic-preprod.xyz
 app.dynamic.xyz
 demo.dynamic.xyz
@@ -695,11 +695,11 @@ autocomplete.booking.com
 widget.rentalcars.com
 cars.booking.com
 teleport.fareharbor.engineering
-readonly.fareharbor.com
-demo.fareharbor.com
-sites.fareharbor.com
 spark.fareharbor.com
 chat.booking.com
+sites.fareharbor.com
+readonly.fareharbor.com
+demo.fareharbor.com
 taxi.booking.com
 fareharborsites.com
 careers.booking.com
@@ -800,8 +800,8 @@ pay-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-staging.io
-oauth-sandbox.gocardless.com
 connect-sandbox.gocardless.com
+oauth-sandbox.gocardless.com
 api-sandbox.gocardless.com
 *.gocardless-cicd.io
 *.gocardless-lab.io
@@ -839,9 +839,9 @@ launch.gamma.redoxstage.com
 sftp.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
 help.redoxengine.com
-clientcert.gamma.redoxstage.com
 explore.redoxengine.com
 api.gamma.redoxstage.com
+clientcert.gamma.redoxstage.com
 app.gamma.redoxstage.com
 docs.redoxengine.com
 dashboard.gamma.redoxstage.com
@@ -897,18 +897,18 @@ visa.co.ni
 www.visa.co.nz
 www.visa.co.th
 www.fraedom.com
+www.visa.com.cn
+cw.visa.com
+www.visa.com.sg
 www.visa.com.vn
 visa.co.za
 www.practicalmoneyskills.com
 visa.com.au
+developer.authorize.net
 bm.visa.com
 www.authorize.net
-developer.authorize.net
 www.visa.com.tr
-www.visa.com.sg
 bd.visa.com
-www.visa.com.cn
-cw.visa.com
 www.yellowpepper.com
 www.visa.com.mx
 bq.visa.com
@@ -990,9 +990,9 @@ developer.currencycloud.com
 direct-demo.currencycloud.com
 yourdomain.freshcaller.com
 yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshchat.com
 yourdomain.freshservice.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1053,10 +1053,10 @@ hg.mozilla.org
 merino.services.mozilla.com
 developer.mozilla.org
 bugzilla.mozilla.org
-www.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
+www.mozilla.org
 support.mozilla.org
 addons.allizom.org
 developer.mozilla.org
@@ -1103,9 +1103,9 @@ hiltonlocalbiz.com
 hilton.io
 *.hilton.io
 *.hiltonhotels.jp
+*.hiltonbusinessonline.com
 hilton.com
 *.hilton.com
-*.hiltonbusinessonline.com
 *.hilton.com
 *.hilton.io
 *.hiltonbusinessonline.com
@@ -1127,7 +1127,6 @@ external.indrive.dev
 ingest.clairvoyance.indrive.tech
 injob.indriver.com
 file-storage-front.eu-east-1.indriverapp.com
-auth2.indrive.tech
 truck-api.eu-east-1.indriverapp.com
 super-services.indriverapp.com
 watchdocs.indriverapp.com
@@ -1144,6 +1143,7 @@ ab-platform-api.eu-east-1.indriverapp.com
 *.indriverapp.com
 cargo.indrive.com
 *.indrive.com
+auth2.indrive.tech
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1177,8 +1177,8 @@ web.grindr.com
 *.grindr.mobi
 web.grindr.com
 skinport.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 app.skinport.com
 api.skinport.com
@@ -1240,8 +1240,8 @@ auth.skypicker.com
 tequila.kiwi.com
 jobs.kiwi.com
 *.kiwi.com
-*.skypicker.com
 www.kiwi.com
+*.skypicker.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1290,8 +1290,8 @@ admin.8x8.com
 *.napoleondice.be
 *.napoleonsports.be
 *.superbet.rs
-*.napoleoncasino.be
 *.superbet.pl
+*.napoleoncasino.be
 *.napoleongames.be
 *.magicjackpot.ro
 *.superbet.ro
@@ -1316,8 +1316,8 @@ auth.moonpay.com
 api.moonpay.com
 *.moonpaycloud.com
 *.moonpay.com
-app.moonpay.com
 buy.moonpay.com
+app.moonpay.com
 moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1505,8 +1505,8 @@ invoices.razorpay.com
 payroll.razorpay.com
 x.razorpay.com
 business.linkedin.com
-api.linkedin.com
 www.linkedin.com
+api.linkedin.com
 www.linkedin.com
 api.linkedin.com
 business.linkedin.com
@@ -1514,8 +1514,8 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
-www.mundi.com.br
 www.swoodoo.com
+www.mundi.com.br
 www.momondo.com
 www.kayak.com
 www.checkfelix.com
@@ -1682,8 +1682,8 @@ payoneer.com.cn
 *.payoneer.com
 payoneer.com.cn
 download.krisp.ai
-upld.krisp.ai
 teams.krisp.ai
+upld.krisp.ai
 analytics.krisp.ai
 account.krisp.ai
 *.krisp.ai
@@ -1830,8 +1830,8 @@ tock.18f.gov
 marketplace.fedramp.gov
 federalist.18f.gov
 federalist-docs.18f.gov
-login.fr.cloud.gov
 labs.data.gov
+login.fr.cloud.gov
 inventory.data.gov
 ssh.fr.cloud.gov
 www.data.gov
@@ -1901,8 +1901,8 @@ tickets.metamask.io
 *.found.io
 *.elstc.co
 www.elastic.co
-*.elastic.co
 cloud.elastic.co
+*.elastic.co
 *.swiftype.com
 *.elastic.co
 *.found.io
@@ -1993,8 +1993,8 @@ global-api.citymapper.com
 eu.remix.com
 platform.remix.com
 *.scopely.io
-*.withbuddies.com
 *.scopely.com
+*.withbuddies.com
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
@@ -2082,8 +2082,8 @@ internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
-*.exodus.io
 *.exodus.com
+*.exodus.io
 *.a.exodus.io
 *.exodus.io
 *.a.exodus.io
@@ -2172,7 +2172,6 @@ shop.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 partner.tiktokshop.com
-developers.tiktok.com
 live-backstage.tiktok.com
 seller-id.tokopedia.com
 business.tiktok.com
@@ -2180,6 +2179,7 @@ affiliate-id.tokopedia.com
 *.tiktok.com
 ads.tiktok.com
 www.pangleglobal.com
+developers.tiktok.com
 tiktok.com
 *.tiktokv.com
 *.tiktok.com
@@ -2202,8 +2202,8 @@ seller-id.tokopedia.com
 shop-id.tokopedia.com
 pay.tokopediax.com
 meetiobook.com
+gaming.logicool.co.jp
 circle.logi.com
-accounts.logi.com
 *vc.logitech.com
 *.streamlabs.com
 *.getmeetio.com
@@ -2522,8 +2522,8 @@ ecosystem-api.polygon.technology
 *.ppbdev.com
 super6.skysports.com
 itv7.itv.com
-*.amazon.com.co
 *.amazon.com.ng
+*.amazon.com.co
 *.amazon.sg
 *.amazon.com.au
 *.amazon.com.be
@@ -2539,9 +2539,9 @@ amazonpayinsurance.in
 *.amazon.pl
 *.amazon.eg
 *.amazon.ae
+*.amazon.com.mx
 *.amazon.nl
 *.amazon.co.jp
-*.amazon.com.mx
 *.amazon.de
 *.amazon.cn
 *.amazon.sa
@@ -2683,8 +2683,8 @@ www.goodrx.com
 *.ra.roblox.com
 *.guilded.gg
 blox.link
-*.roblox.com
 *.rbx.com
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2876,9 +2876,9 @@ https://www.creditkarma.com/savings
 support.creditkarma.ca
 vault.omise.co
 www.opn.ooo
-api.omise.co
 www.omise.co
 dashboard.omise.co
+api.omise.co
 offsite.omise.co
 vault.omise.co
 api.omise.co
@@ -2917,7 +2917,8 @@ www.globalhotelchoices.com
 blueskytours.globalbookingsolutions.com
 booking.cheapcaribbean.com
 booking.applevacations.com
-www.beachbound.com
+book.beachbound.com
+www.triseptsolutions.com
 www.funjet.com
 res.universalorlandovacations.com
 res.vacations.united.com
@@ -2928,8 +2929,7 @@ jira.hyattdev.com
 res.southwestvacations.com
 new.www.vaxvacationaccess.com
 www.hyattinclusivecollection.com
-www.triseptsolutions.com
-book.beachbound.com
+www.beachbound.com
 login.en.travelbrandsagent.com
 vacations.united.com
 hyatt.com
@@ -3102,9 +3102,9 @@ api.loanbuilder.com
 *.paydiant.com
 swiftcapital.com
 sandbox.braintreegateway.com
+paypal.me
 swiftfinancial.com
 loanbuilder.com
-paypal.me
 my.swiftfinancial.com
 *.braintreegateway.com
 *.hyperwallet.com
@@ -3112,9 +3112,9 @@ my.swiftfinancial.com
 *.braintreepayments.com
 *.braintree-api.com
 *.venmo.com
-*.paypalcorp.com
 paypalobjects.com
 *.paypal.com
+*.paypalcorp.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3211,8 +3211,8 @@ goldmansachsindices.com
 apigw.foliofn.com
 *.advisorsolutions.gs.com
 *.foliodigitalwealth.com
-*.honestdollar.com
 *.gspublishing.com
+*.honestdollar.com
 api.foliofn.com
 *.goldmansachs.com
 *.gs.com
@@ -3281,9 +3281,9 @@ tax.crypto.com
 merchant.crypto.com
 auth.crypto.com
 pay.crypto.com
+*.crypto.com
 www.crypto.com
 app.mona.co
-*.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3576,8 +3576,8 @@ www.starbucks.com.sg
 cart.starbucks.co.jp
 openapi.starbucks.com
 secureui.starbucks.com
-www.blockchain.info
 ws.blockchain.info
+www.blockchain.info
 api.blockchain.info
 *.blockchain.com
 *.blockchain.com
@@ -3586,8 +3586,8 @@ api.blockchain.info
 ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
-search.brave.com
 account.brave.com
+search.brave.com
 talk.brave.com
 brave.com
 brave.com
@@ -3615,8 +3615,8 @@ moneybirdstorage.com
 npmjs.org
 education.github.com
 classroom.github.com
-npmjs.com
 api.github.com
+npmjs.com
 gist.github.com
 *.githubusercontent.com
 github.com
@@ -3685,8 +3685,8 @@ dashboard.algolia.com
 *.algolianet.com
 www.algolia.com
 dashboard.algolia.com
-derivws.com
 secure-dfadmin.deriv.com
+derivws.com
 smarttrader.deriv.com
 *.derivws.com
 oauth.deriv.com
@@ -3949,16 +3949,16 @@ www.greenhouse.io
 *.twimg.com
 gnip.com
 *.twitter.com
-*.vine.co
 x.com
+*.vine.co
 *.twitter.com
 *.vine.co
 *.twimg.com
 gnip.com
 x.com
 cloudflareworkers.com
-*.teams.cloudflare.com
 *.cloudflarepartners.com
+*.teams.cloudflare.com
 api.cloudflare.com
 dash.cloudflare.com
 dash.cloudflare.com
