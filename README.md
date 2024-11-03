@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov  3 05:42:03 UTC 2024)
+## Domains with Bounties (Last Updated Sun Nov  3 06:26:47 UTC 2024)
 ```
 connect.secure.wellsfargo.com
 *.wellsfargo.com
@@ -16,13 +16,13 @@ middle-force.khealth.io
 salesforce.khealth.com
 ask.khealth.com
 eligibility.khealth.com
-anthem.khealth.com
 api.khealth.com
-api.khealth.io
+anthem.khealth.com
 app.khealth.com
 treatments.khealth.com
 accounts.khealth.com
 www.kpharmacyllc.com
+api.khealth.io
 api.khealth.io
 accounts.khealth.com
 eligibility.khealth.com
@@ -52,9 +52,7 @@ gnocchi-www.buffalo-ggn.net
 *.houseoffun.com
 *.boardkingsgame.com
 *.caesarsgames.com
-*.justfall.lol
-*.justplay.lol
-*.1v1.lol
+bestfiends.com
 *.slotomania.com
 *.playtika.com
 *.bingoblitz.com
@@ -89,10 +87,10 @@ stats.nba.com
 core-api.nba.com
 cms.nba.com
 identity.nba.com
-2kleague.nba.com
 id.nba.com
-gleague.nba.com
+2kleague.nba.com
 bal.nba.com
+gleague.nba.com
 www.nba.com
 www.nba.com
 gleague.nba.com
@@ -123,8 +121,8 @@ login.insightly.com
 mobileapi.insightly.com
 http://api.na1.insightly.com/v3.1/
 marketing.na1.insightly.com
-console.circle.com
 app.circle.com
+console.circle.com
 api.circle.com
 api.circle.com
 app.circle.com
@@ -149,8 +147,8 @@ ichnaea.netflix.com
 meechum.netflix.com
 help.netflix.com
 secure.netflix.com
-*.nflxext.com
 www.netflix.com
+*.nflxext.com
 *.nflxext.com
 *.prod.ftl.netflix.com
 *.prod.cloud.netflix.com
@@ -632,8 +630,8 @@ blog.23andme.com
 api.23andme.com
 auth.23andme.com
 medical.23andme.com
-you.23andme.com
 therapeutics.23andme.com
+you.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -841,9 +839,9 @@ launch.gamma.redoxstage.com
 sftp.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
 help.redoxengine.com
-clientcert.gamma.redoxstage.com
 explore.redoxengine.com
 api.gamma.redoxstage.com
+clientcert.gamma.redoxstage.com
 app.gamma.redoxstage.com
 docs.redoxengine.com
 dashboard.gamma.redoxstage.com
@@ -1009,9 +1007,9 @@ api.krisha.kz
 api.kolesa.kz
 id.avtoelon.uz
 m.kolesa.kz
+m.krisha.kz
 kolesa.kz
 krisha.kz
-m.krisha.kz
 id.kolesa.kz
 kolesa.kz
 m.kolesa.kz
@@ -1104,8 +1102,8 @@ hiltonlocalbiz.com
 hilton.io
 *.hilton.io
 *.hiltonhotels.jp
-*.hiltonbusinessonline.com
 hilton.com
+*.hiltonbusinessonline.com
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -1123,11 +1121,11 @@ hiltonhotels.jp
 *.oklink.com
 priority.eu-east-1.indriverapp.com
 messenger.eu-east-1.indriverapp.com
-external.indrive.dev
+file-storage-front.eu-east-1.indriverapp.com
 debug.clairvoyance.indrive.tech
+external.indrive.dev
 ingest.clairvoyance.indrive.tech
 injob.indriver.com
-file-storage-front.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 super-services.indriverapp.com
 watchdocs.indriverapp.com
@@ -1178,8 +1176,8 @@ web.grindr.com
 *.grindr.mobi
 web.grindr.com
 skinport.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 app.skinport.com
 api.skinport.com
@@ -1292,8 +1290,8 @@ admin.8x8.com
 *.napoleonsports.be
 *.superbet.rs
 *.superbet.pl
-*.napoleoncasino.be
 *.napoleongames.be
+*.napoleoncasino.be
 *.magicjackpot.ro
 *.superbet.ro
 *.superbet.com
@@ -1370,9 +1368,9 @@ www.lastminute.com.au
 www.travelocity.ca
 *.vrbo.com
 www.orbitz.com
+www.expediagroup.com
 www.lastminute.co.nz
 bookus.expediacruises.com
-www.expediagroup.com
 *.wotif.com
 www.travelocity.com
 *.lastminute.co.nz
@@ -1438,8 +1436,8 @@ insights.deribit.com
 pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
-read.amazon.com
 creator.amazon.com
+read.amazon.com
 alexa.amazon.com
 a4k.amazon.com
 blueprints.amazon.com
@@ -1651,9 +1649,9 @@ admin.instacart.com
 shoppers.instacart.com
 demo.cloud.databricks.com
 marketplace.databricks.com
+support.databricks.com
 advocates.databricks.com
 docs.databricks.com
-support.databricks.com
 kb.databricks.com
 academy.databricks.com
 labs.databricks.com
@@ -1902,8 +1900,8 @@ tickets.metamask.io
 *.elasticnet.co
 *.eops.nl
 *.found.io
-www.elastic.co
 *.elstc.co
+www.elastic.co
 cloud.elastic.co
 *.swiftype.com
 *.elastic.co
@@ -2052,8 +2050,8 @@ fetlife.com
 fetlife.com
 nvio.ar
 api.bitso.com
-bitso.com
 nvio.mx
+bitso.com
 bitso.com
 api.bitso.com
 http://bitso.com/alpha
@@ -2085,8 +2083,8 @@ internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
-*.exodus.com
 *.exodus.io
+*.exodus.com
 *.a.exodus.io
 *.exodus.io
 *.a.exodus.io
@@ -2205,8 +2203,8 @@ seller-id.tokopedia.com
 shop-id.tokopedia.com
 pay.tokopediax.com
 meetiobook.com
-gaming.logicool.co.jp
 circle.logi.com
+accounts.logi.com
 *vc.logitech.com
 *.streamlabs.com
 *.getmeetio.com
@@ -2249,8 +2247,8 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 account.acronis.com
-*.acronis.work
 *.5nine.com
+*.acronis.work
 beta-cloud.acronis.com
 *.acronis.com
 *-api-*.acronis.com
@@ -2427,10 +2425,10 @@ my.playstation.com
 direct.playstation.com
 store.playstation.com
 transact.playstation.com
-ca.account.sony.com
-*.playstation.net
 *.api.playstation.com
 my.account.sony.com
+ca.account.sony.com
+*.playstation.net
 api.direct.playstation.com
 *.sonyentertainmentnetwork.com
 *.playstation.net
@@ -2525,8 +2523,8 @@ ecosystem-api.polygon.technology
 *.ppbdev.com
 super6.skysports.com
 itv7.itv.com
-*.amazon.com.co
 *.amazon.com.ng
+*.amazon.com.co
 *.amazon.sg
 *.amazon.com.au
 *.amazon.com.be
@@ -2543,13 +2541,13 @@ amazonpayinsurance.in
 *.amazon.eg
 *.amazon.ae
 *.amazon.com.mx
-*.amazon.co.jp
 *.amazon.nl
+*.amazon.co.jp
 *.amazon.de
 *.amazon.cn
 *.amazon.sa
-*.amazon.co.uk
 *.amazon.fr
+*.amazon.co.uk
 *.amazon.in
 *.amazon.com
 *.amazon.cl
@@ -2646,8 +2644,8 @@ moments.marriottbonvoy.com
 jobs.marriott.com
 homes-and-villas.marriott.com
 *uat.marriott.com
-all-inclusive.marriott.com
 hotel-deals.marriott.com
+all-inclusive.marriott.com
 www.ritzcarlton.com
 careers.marriott.com
 www.marriott.com
@@ -2920,19 +2918,19 @@ www.globalhotelchoices.com
 blueskytours.globalbookingsolutions.com
 booking.cheapcaribbean.com
 booking.applevacations.com
-book.beachbound.com
-www.triseptsolutions.com
-www.funjet.com
-res.universalorlandovacations.com
-res.vacations.united.com
 res.hyattinclusivecollection.com
+jira.hyattdev.com
 res.funjet.com
 book.applevacations.com
-jira.hyattdev.com
 res.southwestvacations.com
 new.www.vaxvacationaccess.com
+res.universalorlandovacations.com
+www.funjet.com
+res.vacations.united.com
 www.hyattinclusivecollection.com
 www.beachbound.com
+book.beachbound.com
+www.triseptsolutions.com
 login.en.travelbrandsagent.com
 vacations.united.com
 hyatt.com
@@ -3104,9 +3102,9 @@ www.swiftcapital.com
 *.paydiant.com
 swiftcapital.com
 sandbox.braintreegateway.com
-paypal.me
 swiftfinancial.com
 loanbuilder.com
+paypal.me
 my.swiftfinancial.com
 *.braintreegateway.com
 *.hyperwallet.com
@@ -3284,9 +3282,9 @@ tax.crypto.com
 merchant.crypto.com
 auth.crypto.com
 pay.crypto.com
+*.crypto.com
 www.crypto.com
 app.mona.co
-*.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3477,10 +3475,10 @@ wordpressfoundation.org
 *.wordpress.net
 api.wordpress.org
 lists.wordpress.org
-*.wordpress.org
 *.buddypress.org
 bbpress.org
 profiles.wordpress.org
+*.wordpress.org
 *.wordpress.org
 *.buddypress.org
 bbpress.org
@@ -3711,8 +3709,8 @@ api.deriv.com
 derivws.com
 secure-dfadmin.deriv.com
 developer.zendesk.com
-zopim.com
 www.zendesk.com
+zopim.com
 h1-your-domain.zendesk.com
 www.zendesk.com
 h1-your-domain.zendesk.com
@@ -3780,11 +3778,11 @@ www.bitmoji.com
 app.snapchat.com
 businesshelp.snapchat.com
 accounts.snapchat.com
-business.snapchat.com
 playcanv.as
 ads.snapchat.com
 web.snapchat.com
 *.sc-core.net
+business.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3873,10 +3871,10 @@ next.airbnb.com
 *.muscache.com
 *.withairbnb.com
 *.hoteltonight-test.com
-www.hoteltonight.com
 www.airbnb.com
 *.airbnb.com
 *.hoteltonight.com
+www.hoteltonight.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3904,8 +3902,6 @@ applause1.magisto.com
 www.livestream.com
 embed.vhx.tv
 vimeo.magisto.com
-api.vhx.tv
-donations.livestream.com
 *.cloud.vimeo.com
 *.vimeo.com
 *.vhx.tv
@@ -3959,8 +3955,8 @@ x.com
 gnip.com
 x.com
 cloudflareworkers.com
-*.cloudflarepartners.com
 *.teams.cloudflare.com
+*.cloudflarepartners.com
 api.cloudflare.com
 dash.cloudflare.com
 one.dash.cloudflare.com
@@ -4013,9 +4009,9 @@ irc.irccloud.com
 team-irc.irccloud.com
 api.irccloud.com
 *.irccloud-cdn.com
-*.irccloud.com
 www.irccloud.com
 blog.irccloud.com
+*.irccloud.com
 irccloud.com
 *.irccloud-cdn.com
 *.irccloud.com
