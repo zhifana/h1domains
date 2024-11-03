@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov  3 15:40:30 UTC 2024)
+## Domains with Bounties (Last Updated Sun Nov  3 16:21:43 UTC 2024)
 ```
 connect.secure.wellsfargo.com
 *.wellsfargo.com
@@ -20,8 +20,8 @@ api.khealth.com
 anthem.khealth.com
 www.kpharmacyllc.com
 api.khealth.io
-treatments.khealth.com
 accounts.khealth.com
+treatments.khealth.com
 app.khealth.com
 api.khealth.io
 accounts.khealth.com
@@ -79,8 +79,8 @@ apix.vodafone.om
 vfo01.vodafone.om
 vfo02.vodafone.om
 vfo03.vodafone.om
-stats-trafficcop-prod.nba.com
 content-api-prod.nba.com
+stats-trafficcop-prod.nba.com
 content-api-nextgen-prod.nba.com
 cdn.nba.com
 stats.nba.com
@@ -121,8 +121,8 @@ login.insightly.com
 mobileapi.insightly.com
 http://api.na1.insightly.com/v3.1/
 marketing.na1.insightly.com
-app.circle.com
 console.circle.com
+app.circle.com
 api.circle.com
 api.circle.com
 app.circle.com
@@ -211,13 +211,13 @@ api.dyson.ch
 api.dyson.ie
 api.fi.dyson.com
 *.cp.dyson.com
+api.dyson.be
 api.dyson.de
 www.dyson.ie
 www.dyson.se
 www.dyson.ch
 www.dyson.co.il
 www.dyson.nl
-api.dyson.be
 www.dyson.be
 www.dyson.dk
 www.gr.dyson.com
@@ -654,9 +654,9 @@ www.mercadopago.cl
 api.mercadolibre.com
 www.mercadolibre.com.pe
 www.mercadopago.com.br
+www.mercadolibre.com.ar
 www.mercadolivre.com.br
 www.mercadolibre.cl
-www.mercadolibre.com.ar
 www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -689,17 +689,17 @@ paynotifications.booking.com
 supply-xml.booking.com
 secure-supply-xml.booking.com
 tableau.fareharbor.engineering
-cars.booking.com
 taxis.booking.com
 paymentcomponent.booking.com
 autocomplete.booking.com
 widget.rentalcars.com
+cars.booking.com
 teleport.fareharbor.engineering
-chat.booking.com
 spark.fareharbor.com
+chat.booking.com
+sites.fareharbor.com
 readonly.fareharbor.com
 demo.fareharbor.com
-sites.fareharbor.com
 taxi.booking.com
 fareharborsites.com
 careers.booking.com
@@ -988,10 +988,10 @@ console.tink.com
 developer.currencycloud.com
 direct-demo.currencycloud.com
 yourdomain.freshcaller.com
-yourdomain.myfreshworks.com
-yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshchat.com
+yourdomain.myfreshworks.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1121,16 +1121,16 @@ hiltonhotels.jp
 *.oklink.com
 priority.eu-east-1.indriverapp.com
 messenger.eu-east-1.indriverapp.com
-external.indrive.dev
 debug.clairvoyance.indrive.tech
+external.indrive.dev
 ingest.clairvoyance.indrive.tech
 injob.indriver.com
 file-storage-front.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 super-services.indriverapp.com
 watchdocs.indriverapp.com
-ci.indrive.dev
 wga.volans.tech
+ci.indrive.dev
 profile-api.eu-east-1.indriverapp.com
 volans.tech
 *.indriver.com
@@ -1176,8 +1176,8 @@ web.grindr.com
 *.grindr.mobi
 web.grindr.com
 skinport.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 app.skinport.com
 api.skinport.com
@@ -1216,8 +1216,8 @@ mobile.s-pankki.fi
 extranet.s-pankki.fi
 digili.s-cloud.fi
 tunnistus.s-ryhma.fi
-www.prisma.fi
 www.s-kaupat.fi
+www.prisma.fi
 api.sokos.fi
 www.s-pankki.fi
 www.sokos.fi
@@ -1289,9 +1289,9 @@ admin.8x8.com
 *.napoleondice.be
 *.napoleonsports.be
 *.superbet.rs
-*.napoleoncasino.be
 *.superbet.pl
 *.napoleongames.be
+*.napoleoncasino.be
 *.magicjackpot.ro
 *.superbet.ro
 *.superbet.com
@@ -1356,14 +1356,14 @@ www.expediaagents.com
 www.abritel.fr
 www.mrjet.se
 www.flights.com
-www.fewo-direkt.de
-www.bookabach.co.nz
 www.ebookers.fi
+www.fewo-direkt.de
 www.stayz.com.au
+www.bookabach.co.nz
 www.cheaptickets.com
-*.cheaptickets.com
-www.carrentals.com
 *.lastminute.com.au
+www.carrentals.com
+*.cheaptickets.com
 www.lastminute.com.au
 www.travelocity.ca
 *.vrbo.com
@@ -1515,8 +1515,8 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
-www.swoodoo.com
 www.mundi.com.br
+www.swoodoo.com
 www.momondo.com
 www.kayak.com
 www.checkfelix.com
@@ -1900,8 +1900,8 @@ tickets.metamask.io
 *.elasticnet.co
 *.eops.nl
 *.found.io
-*.elstc.co
 www.elastic.co
+*.elstc.co
 cloud.elastic.co
 *.swiftype.com
 *.elastic.co
@@ -1954,11 +1954,11 @@ gql.reddit.com
 developers.reddit.com
 gateway.reddit.com
 *.redditmedia.com
-strapi.reddit.com
 *.memorable.io
-ads.reddit.com
+strapi.reddit.com
 accounts.reddit.com
 *.snooguts.net
+ads.reddit.com
 m.reddit.com
 *.reddit.com
 *.snooguts.net
@@ -2181,8 +2181,8 @@ live-backstage.tiktok.com
 tiktok.com
 ads.tiktok.com
 www.pangleglobal.com
-*.tiktok.com
 business.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2247,8 +2247,8 @@ app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
-*.acronis.work
 *.5nine.com
+*.acronis.work
 *.acronis.com
 account.acronis.com
 beta-cloud.acronis.com
@@ -2426,9 +2426,9 @@ my.playstation.com
 direct.playstation.com
 store.playstation.com
 transact.playstation.com
-*.api.playstation.com
 ca.account.sony.com
 *.playstation.net
+*.api.playstation.com
 api.direct.playstation.com
 *.sonyentertainmentnetwork.com
 my.account.sony.com
@@ -2540,9 +2540,9 @@ amazonpayinsurance.in
 *.amazon.pl
 *.amazon.eg
 *.amazon.ae
-*.amazon.com.mx
-*.amazon.co.jp
 *.amazon.nl
+*.amazon.co.jp
+*.amazon.com.mx
 *.amazon.de
 *.amazon.cn
 *.amazon.sa
@@ -2645,8 +2645,8 @@ moments.marriottbonvoy.com
 jobs.marriott.com
 homes-and-villas.marriott.com
 *uat.marriott.com
-hotel-deals.marriott.com
 all-inclusive.marriott.com
+hotel-deals.marriott.com
 www.ritzcarlton.com
 careers.marriott.com
 www.marriott.com
@@ -3213,9 +3213,10 @@ goldmansachsindices.com
 apigw.foliofn.com
 *.advisorsolutions.gs.com
 *.foliodigitalwealth.com
-*.gspublishing.com
 *.honestdollar.com
+*.gspublishing.com
 api.foliofn.com
+*.vennhypotheken.nl
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3588,8 +3589,8 @@ api.blockchain.info
 ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
-account.brave.com
 search.brave.com
+account.brave.com
 talk.brave.com
 brave.com
 brave.com
@@ -3687,8 +3688,8 @@ dashboard.algolia.com
 *.algolianet.com
 www.algolia.com
 dashboard.algolia.com
-derivws.com
 secure-dfadmin.deriv.com
+derivws.com
 smarttrader.deriv.com
 *.derivws.com
 oauth.deriv.com
@@ -3732,8 +3733,8 @@ shopify.plus
 *.shopifykloud.com
 arrive-server.shopifycloud.com
 *.shopifycloud.com
-shop.app
 accounts.shopify.com
+shop.app
 your-store.myshopify.com
 *.shopify.com
 admin.shopify.com
@@ -3901,9 +3902,10 @@ checkout.vimeo.com
 staging.magisto.com
 applause1.magisto.com
 www.livestream.com
-donations.livestream.com
 embed.vhx.tv
 vimeo.magisto.com
+api.vhx.tv
+donations.livestream.com
 *.cloud.vimeo.com
 *.vimeo.com
 *.vhx.tv
@@ -3948,8 +3950,8 @@ app.interseller.io
 www.greenhouse.io
 *.twimg.com
 gnip.com
-*.vine.co
 *.twitter.com
+*.vine.co
 x.com
 *.twitter.com
 *.vine.co
@@ -4087,9 +4089,9 @@ apis.mail.yahoo.com
 yimg.com
 profile-photos-us-east-2.hackerone-user-content.com
 mta-sts.wearehackerone.com
-b5s.hackerone-ext-content.com
-hackathon-photos.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
+hackathon-photos.hackerone-user-content.com
+b5s.hackerone-ext-content.com
 *.vpn.hackerone.net
 hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -4100,9 +4102,9 @@ a5s.hackerone-ext-content.com
 hackerone.live
 ctf.hacker101.com
 app.pullrequest.com
+profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com
 errors.hackerone.net
-profile-photos.hackerone-user-content.com
 www.wearehackerone.com
 hackerone.com
 api.hackerone.com
