@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov  4 03:29:21 UTC 2024)
+## Domains with Bounties (Last Updated Mon Nov  4 03:49:14 UTC 2024)
 ```
 connect.secure.wellsfargo.com
 *.wellsfargo.com
@@ -20,9 +20,9 @@ api.khealth.com
 anthem.khealth.com
 api.khealth.io
 treatments.khealth.com
+www.kpharmacyllc.com
 app.khealth.com
 accounts.khealth.com
-www.kpharmacyllc.com
 api.khealth.io
 accounts.khealth.com
 eligibility.khealth.com
@@ -145,12 +145,12 @@ nmtracking.netflix.com
 presentationtracking.netflix.com
 *.prod.cloud.netflix.com
 ichnaea.netflix.com
+secure.netflix.com
 *.nflxvideo.net
 help.netflix.com
-secure.netflix.com
 *.nflxext.com
-www.netflix.com
 meechum.netflix.com
+www.netflix.com
 *.nflxext.com
 *.prod.ftl.netflix.com
 *.prod.cloud.netflix.com
@@ -510,7 +510,6 @@ partner-webhook.remitly.io
 metrics.int.remitly.com
 media.remitly.io
 access-sandbox.remitly.com
-cards.remitly.io
 ablink.info.remitly.com
 ir.remitly.com
 api.remitly.io
@@ -525,8 +524,9 @@ app.rewire.to
 app3.rewire.to
 site.rewire.com
 careers.remitly.com
-rewire.com
 remitly.com
+rewire.com
+cards.remitly.io
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -569,8 +569,8 @@ bioid-management.app
 worldcoin.org
 customer-sessions.arkoselabs.com
 cdn.arkoselabs.com
-portal.arkoselabs.com
 verify.arkoselabs.com
+portal.arkoselabs.com
 demo.arkoselabs.com
 iframe.arkoselabs.com
 client-api.arkoselabs.com
@@ -656,9 +656,9 @@ www.mercadopago.cl
 api.mercadolibre.com
 www.mercadolibre.com.pe
 www.mercadopago.com.br
+www.mercadolibre.cl
 www.mercadolibre.com.ar
 www.mercadolivre.com.br
-www.mercadolibre.cl
 www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -697,11 +697,11 @@ autocomplete.booking.com
 widget.rentalcars.com
 cars.booking.com
 teleport.fareharbor.engineering
-spark.fareharbor.com
 chat.booking.com
-sites.fareharbor.com
 readonly.fareharbor.com
 demo.fareharbor.com
+spark.fareharbor.com
+sites.fareharbor.com
 taxi.booking.com
 fareharborsites.com
 careers.booking.com
@@ -841,9 +841,9 @@ launch.gamma.redoxstage.com
 sftp.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
 help.redoxengine.com
-clientcert.gamma.redoxstage.com
 explore.redoxengine.com
 api.gamma.redoxstage.com
+clientcert.gamma.redoxstage.com
 app.gamma.redoxstage.com
 docs.redoxengine.com
 fhir.redoxengine.com
@@ -992,8 +992,8 @@ direct-demo.currencycloud.com
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
-yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1218,8 +1218,8 @@ mobile.s-pankki.fi
 extranet.s-pankki.fi
 digili.s-cloud.fi
 tunnistus.s-ryhma.fi
-www.prisma.fi
 www.s-kaupat.fi
+www.prisma.fi
 api.sokos.fi
 www.s-pankki.fi
 www.sokos.fi
@@ -1291,8 +1291,8 @@ admin.8x8.com
 *.napoleondice.be
 *.napoleonsports.be
 *.superbet.rs
-*.superbet.pl
 *.napoleoncasino.be
+*.superbet.pl
 *.napoleongames.be
 *.magicjackpot.ro
 *.superbet.com
@@ -1310,9 +1310,9 @@ admin.8x8.com
 *.napoleonsports.be
 *.superbet.pl
 web3.moonpay.com
-sell.moonpay.com
 *.hypermint.com
 hypermint.com
+sell.moonpay.com
 auth.moonpay.com
 api.moonpay.com
 *.moonpaycloud.com
@@ -1652,9 +1652,9 @@ admin.instacart.com
 shoppers.instacart.com
 demo.cloud.databricks.com
 marketplace.databricks.com
-support.databricks.com
 advocates.databricks.com
 docs.databricks.com
+support.databricks.com
 kb.databricks.com
 academy.databricks.com
 labs.databricks.com
@@ -1902,8 +1902,8 @@ tickets.metamask.io
 *.elasticnet.co
 *.eops.nl
 *.found.io
-www.elastic.co
 *.elstc.co
+www.elastic.co
 *.elastic.co
 *.swiftype.com
 cloud.elastic.co
@@ -1939,9 +1939,9 @@ www.urbanclap.com
 www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
-amp.reddit.com
-*.redditblog.com
 meta-api.reddit.com
+*.redditblog.com
+amp.reddit.com
 business.reddithelp.com
 matrix.redditspace.com
 *.redditinc.com
@@ -1956,8 +1956,8 @@ gql.reddit.com
 developers.reddit.com
 gateway.reddit.com
 *.redditmedia.com
-*.memorable.io
 strapi.reddit.com
+*.memorable.io
 accounts.reddit.com
 *.snooguts.net
 ads.reddit.com
@@ -2085,8 +2085,8 @@ internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
-*.exodus.com
 *.exodus.io
+*.exodus.com
 *.a.exodus.io
 *.exodus.io
 *.a.exodus.io
@@ -2175,13 +2175,13 @@ shop.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 partner.tiktokshop.com
-developers.tiktok.com
 seller-id.tokopedia.com
 affiliate-id.tokopedia.com
+developers.tiktok.com
 tiktok.com
 ads.tiktok.com
-business.tiktok.com
 www.pangleglobal.com
+business.tiktok.com
 *.tiktok.com
 live-backstage.tiktok.com
 *.tiktokv.com
@@ -2205,6 +2205,7 @@ seller-id.tokopedia.com
 shop-id.tokopedia.com
 pay.tokopediax.com
 meetiobook.com
+gaming.logicool.co.jp
 circle.logi.com
 accounts.logi.com
 *vc.logitech.com
@@ -2248,11 +2249,11 @@ app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
-*.5nine.com
 *.acronis.work
+*.5nine.com
 account.acronis.com
-*.acronis.com
 beta-cloud.acronis.com
+*.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2426,10 +2427,10 @@ my.playstation.com
 direct.playstation.com
 store.playstation.com
 transact.playstation.com
+api.direct.playstation.com
+*.api.playstation.com
 ca.account.sony.com
 *.playstation.net
-*.api.playstation.com
-api.direct.playstation.com
 *.sonyentertainmentnetwork.com
 my.account.sony.com
 *.playstation.net
@@ -2524,8 +2525,8 @@ ecosystem-api.polygon.technology
 *.ppbdev.com
 super6.skysports.com
 itv7.itv.com
-*.amazon.com.ng
 *.amazon.com.co
+*.amazon.com.ng
 *.amazon.sg
 *.amazon.com.au
 *.amazon.com.be
@@ -2540,15 +2541,15 @@ amazonpayinsurance.in
 *.amazon.eg
 *.amazon.ae
 *.amazon.com.mx
-*.amazon.nl
 *.amazon.co.jp
+*.amazon.nl
 *.amazon.de
 *.amazon.cn
 *.amazon.sa
 *.amazon.fr
 *.amazon.ca
-*.amazon.co.uk
 *.amazon.it
+*.amazon.co.uk
 *.amazon.in
 *.amazon.com
 *.amazon.cl
@@ -2705,8 +2706,8 @@ kubernetes.io
 k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
-langflow.datastax.com
 docs.datastax.com
+langflow.datastax.com
 langflow.org
 astra.datastax.com
 www.datastax.com
@@ -2755,8 +2756,8 @@ dic.pixiv.net
 novel.pixiv.net
 hub.vroid.com
 booth.pm
-accounts.pixiv.net
 coban.pixiv.net
+accounts.pixiv.net
 www.pixiv.net
 comic.pixiv.net
 payment.pixiv.net
@@ -2878,10 +2879,10 @@ https://www.creditkarma.com/savings
 support.creditkarma.ca
 vault.omise.co
 www.opn.ooo
-api.omise.co
 dashboard.omise.co
 www.omise.co
 offsite.omise.co
+api.omise.co
 vault.omise.co
 api.omise.co
 dashboard.omise.co
@@ -3213,8 +3214,8 @@ goldmansachsindices.com
 apigw.foliofn.com
 *.advisorsolutions.gs.com
 *.foliodigitalwealth.com
-*.honestdollar.com
 *.gspublishing.com
+*.honestdollar.com
 api.foliofn.com
 *.goldmansachs.com
 *.gs.com
@@ -3283,9 +3284,9 @@ tax.crypto.com
 merchant.crypto.com
 auth.crypto.com
 pay.crypto.com
+*.crypto.com
 www.crypto.com
 app.mona.co
-*.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3588,8 +3589,8 @@ api.blockchain.info
 ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
-search.brave.com
 account.brave.com
+search.brave.com
 talk.brave.com
 brave.com
 brave.com
@@ -3600,8 +3601,8 @@ talk.brave.com
 account.brave.com
 rubygems.org
 rubygems.org
-yelptop100.com
 *.yelp-support.com
+yelptop100.com
 *.yelp.com
 *.yelpwifi.com
 *.yelp.com
@@ -3687,14 +3688,14 @@ dashboard.algolia.com
 *.algolianet.com
 www.algolia.com
 dashboard.algolia.com
-derivws.com
 secure-dfadmin.deriv.com
+derivws.com
 smarttrader.deriv.com
 *.derivws.com
 oauth.deriv.com
 *.deriv.cloud
-api.deriv.com
 *.deriv.com
+api.deriv.com
 cashier.deriv.com
 app.deriv.com
 *.binary.com
@@ -3734,8 +3735,8 @@ shop.app
 your-store.myshopify.com
 admin.shopify.com
 partners.shopify.com
-*.shopify.io
 accounts.shopify.com
+*.shopify.io
 arrive-server.shopifycloud.com
 *.shopify.com
 *.shopifycs.com
@@ -3901,7 +3902,6 @@ checkout.vimeo.com
 staging.magisto.com
 applause1.magisto.com
 www.livestream.com
-donations.livestream.com
 embed.vhx.tv
 vimeo.magisto.com
 *.cloud.vimeo.com
