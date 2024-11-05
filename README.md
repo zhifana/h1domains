@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov  5 17:43:23 UTC 2024)
+## Domains with Bounties (Last Updated Tue Nov  5 18:24:19 UTC 2024)
 ```
 connect.secure.wellsfargo.com
 *.wellsfargo.com
@@ -19,8 +19,8 @@ api.khealth.com
 api.khealth.io
 treatments.khealth.com
 www.kpharmacyllc.com
-app.khealth.com
 kaccount.khealth.com
+app.khealth.com
 anthem.khealth.com
 accounts.khealth.com
 api.khealth.io
@@ -51,11 +51,12 @@ api.khealth.com
 gnocchi-www.buffalo-ggn.net
 *.boardkingsgame.com
 *.caesarsgames.com
-*.bingoblitz.com
 *.justfall.lol
 *.justplay.lol
 *.1v1.lol
+*.bingoblitz.com
 *.serious.li
+*.houseoffun.com
 *.slotomania.com
 *.playtika.com
 *.bingoblitz.com
@@ -197,9 +198,9 @@ ews-fusion.my.site.com
 platform.cat.earlywarning.io
 usercontent.koho.ca
 webgateway.koho.ca
-www.koho.ca
 web.koho.ca
 app.koho.ca
+www.koho.ca
 web.koho.ca
 http://api.koho.ca/1.0
 http://api.koho.ca/partner
@@ -214,13 +215,13 @@ api.dyson.ch
 api.dyson.ie
 api.fi.dyson.com
 *.cp.dyson.com
+api.dyson.be
 api.dyson.de
 www.dyson.ie
 www.dyson.se
 www.dyson.ch
 www.dyson.co.il
 www.dyson.nl
-api.dyson.be
 www.dyson.be
 www.dyson.dk
 www.gr.dyson.com
@@ -701,11 +702,11 @@ paymentcomponent.booking.com
 autocomplete.booking.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
-chat.booking.com
 spark.fareharbor.com
+chat.booking.com
+sites.fareharbor.com
 readonly.fareharbor.com
 demo.fareharbor.com
-sites.fareharbor.com
 taxi.booking.com
 careers.booking.com
 marketing.fareharbor.com
@@ -713,8 +714,8 @@ compass.fareharbor.com
 *.fareharbor.engineering
 www.fareharbor.com
 fhdn.fareharbor.com
-secure.booking.com
-flights.booking.com
+portal.taxi.booking.com
+accommodations.booking.com
 *.fareharbor.com
 *.booking.com
 *.rentalcars.com
@@ -846,9 +847,9 @@ launch.gamma.redoxstage.com
 sftp.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
 help.redoxengine.com
-clientcert.gamma.redoxstage.com
 explore.redoxengine.com
 api.gamma.redoxstage.com
+clientcert.gamma.redoxstage.com
 app.gamma.redoxstage.com
 docs.redoxengine.com
 fhir.redoxengine.com
@@ -908,9 +909,9 @@ www.visa.com.vn
 visa.co.za
 www.practicalmoneyskills.com
 visa.com.au
-developer.authorize.net
 bm.visa.com
 www.authorize.net
+developer.authorize.net
 www.visa.com.tr
 www.visa.com.sg
 www.visa.com.cn
@@ -1014,9 +1015,9 @@ api.krisha.kz
 api.kolesa.kz
 id.avtoelon.uz
 m.kolesa.kz
+m.krisha.kz
 kolesa.kz
 krisha.kz
-m.krisha.kz
 id.kolesa.kz
 kolesa.kz
 m.kolesa.kz
@@ -1046,8 +1047,8 @@ vpn.mozilla.org
 push.services.mozilla.com
 phabricator.allizom.org
 addons.allizom.org
-lando.services.mozilla.com
 crash-stats.allizom.org
+lando.services.mozilla.com
 community-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 relay.firefox.com
@@ -1297,8 +1298,8 @@ admin.8x8.com
 *.napoleonsports.be
 *.superbet.rs
 *.superbet.pl
-*.napoleoncasino.be
 *.napoleongames.be
+*.napoleoncasino.be
 *.magicjackpot.ro
 *.superbet.com
 *.superbet.ro
@@ -1373,9 +1374,9 @@ www.lastminute.com.au
 www.travelocity.ca
 *.vrbo.com
 www.orbitz.com
+www.expediagroup.com
 www.lastminute.co.nz
 bookus.expediacruises.com
-www.expediagroup.com
 *.wotif.com
 www.travelocity.com
 *.lastminute.co.nz
@@ -1386,6 +1387,7 @@ www.vrbo.com
 *.expediacruises.com
 *.expediapartnercentral.com
 www.expediataap.com
+*.hotwire.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1443,8 +1445,8 @@ insights.deribit.com
 pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
-read.amazon.com
 creator.amazon.com
+read.amazon.com
 alexa.amazon.com
 a4k.amazon.com
 blueprints.amazon.com
@@ -1600,8 +1602,8 @@ partners.etoro.com
 billing.etoro.com
 kyc.etoro.com
 api.etoro.com
-push-demo-lightstreamer.cloud.etoro.com
 delta.app
+push-demo-lightstreamer.cloud.etoro.com
 etoropartners.com
 aggregator.etoro.com
 wallet.etoro.com
@@ -1656,9 +1658,9 @@ admin.instacart.com
 shoppers.instacart.com
 demo.cloud.databricks.com
 marketplace.databricks.com
+support.databricks.com
 advocates.databricks.com
 docs.databricks.com
-support.databricks.com
 kb.databricks.com
 academy.databricks.com
 labs.databricks.com
@@ -1731,7 +1733,6 @@ accounts.evernote.com
 www.evernote.com
 accounts.evernote.com
 api.evernote.com
-hc2services.com
 *.singspacegame.com
 *.hmxwebservices.com
 *.epicgames.dev
@@ -1907,8 +1908,8 @@ tickets.metamask.io
 *.elasticnet.co
 *.eops.nl
 *.found.io
-*.elstc.co
 www.elastic.co
+*.elstc.co
 *.swiftype.com
 cloud.elastic.co
 *.elastic.co
@@ -1944,19 +1945,19 @@ www.urbanclap.com
 www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
+amp.reddit.com
+*.redditblog.com
+meta-api.reddit.com
 business.reddithelp.com
 matrix.redditspace.com
-meta-api.reddit.com
-*.redditblog.com
-amp.reddit.com
 *.redditinc.com
 *.spiketrap.io
 api.reddit.com
 mod.reddit.com
 redditforbusiness.com
 new.reddit.com
-gql.reddit.com
 sh.reddit.com
+gql.reddit.com
 *.reddithelp.com
 developers.reddit.com
 gateway.reddit.com
@@ -2077,8 +2078,8 @@ passport.larksuite.com
 internal-api-drive-stream.larksuite.com
 app.larksuite.com
 open.larksuite.com
-larksuite.com
 hackers_chosendomain.larksuite.com
+larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2092,8 +2093,8 @@ internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
-*.exodus.com
 *.exodus.io
+*.exodus.com
 *.a.exodus.io
 *.exodus.io
 *.a.exodus.io
@@ -2212,8 +2213,8 @@ seller-id.tokopedia.com
 shop-id.tokopedia.com
 pay.tokopediax.com
 meetiobook.com
-gaming.logicool.co.jp
 circle.logi.com
+accounts.logi.com
 *vc.logitech.com
 *.streamlabs.com
 *.getmeetio.com
@@ -2257,8 +2258,8 @@ api.faraday.ai
 *.devicelock.com
 *.acronis.work
 account.acronis.com
-*.5nine.com
 *.acronis.com
+*.5nine.com
 beta-cloud.acronis.com
 *-api-*.acronis.com
 *.acronis.com
@@ -2433,9 +2434,9 @@ wallets.api.playstation.com
 my.playstation.com
 store.playstation.com
 transact.playstation.com
-api.direct.playstation.com
-*.api.playstation.com
 ca.account.sony.com
+*.api.playstation.com
+api.direct.playstation.com
 *.sonyentertainmentnetwork.com
 my.account.sony.com
 direct.playstation.com
@@ -2552,13 +2553,13 @@ amazonpayinsurance.in
 *.amazon.sa
 *.amazon.fr
 *.amazon.it
-*.amazon.ae
 *.amazon.co.jp
-*.amazon.in
 *.amazon.co.uk
-*.amazon.com
 *.amazon.ca
 *.amazon.de
+*.amazon.ae
+*.amazon.in
+*.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2713,8 +2714,8 @@ kubernetes.io
 k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
-docs.datastax.com
 langflow.datastax.com
+docs.datastax.com
 langflow.org
 astra.datastax.com
 www.datastax.com
@@ -3221,10 +3222,9 @@ goldmansachsindices.com
 apigw.foliofn.com
 *.advisorsolutions.gs.com
 *.foliodigitalwealth.com
-*.honestdollar.com
 *.gspublishing.com
+*.honestdollar.com
 api.foliofn.com
-*.vennhypotheken.nl
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3378,9 +3378,9 @@ wiki.grab.com
 *.grab.com
 kartaview.org
 *.ovo.id
+*.grab-sure.com
 *.taralite.com
 *.grabtaxi.com
-*.grab-sure.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3565,9 +3565,9 @@ www.starbucks.co.jp
 www.starbucks.com.cn
 www.starbucks.co.uk
 www.starbucks.de
+www.starbucks.com.br
 app.starbucks.com
 www.starbucks.co.kr
-www.starbucks.com.br
 www.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
@@ -3626,9 +3626,9 @@ npmjs.org
 education.github.com
 gist.github.com
 *.githubapp.com
+classroom.github.com
 api.github.com
 *.githubusercontent.com
-classroom.github.com
 github.com
 npmjs.com
 github.com
@@ -3768,13 +3768,13 @@ scan.snapchat.com
 geofilters.snapchat.com
 code.playcanvas.com
 store.playcanvas.com
+story.snapchat.com
 relay.playcanvas.com
 msg.playcanvas.com
 rt.playcanvas.com
 developer.playcanvas.com
 launch.playcanvas.com
 store.snapchat.com
-story.snapchat.com
 login.playcanvas.com
 *.sc-corp.net
 spectacles.com
@@ -3783,7 +3783,6 @@ snappublisher.snapchat.com
 forum.playcanvas.com
 blog.playcanvas.com
 www.bitmoji.com
-app.snapchat.com
 playcanvas.com
 businesshelp.snapchat.com
 playcanv.as
@@ -3791,8 +3790,9 @@ accounts.snapchat.com
 business.snapchat.com
 *.sc-core.net
 web.snapchat.com
-ads.snapchat.com
 kit.snapchat.com
+app.snapchat.com
+ads.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -4020,9 +4020,9 @@ irc.irccloud.com
 team-irc.irccloud.com
 api.irccloud.com
 *.irccloud-cdn.com
-*.irccloud.com
 www.irccloud.com
 blog.irccloud.com
+*.irccloud.com
 irccloud.com
 *.irccloud-cdn.com
 *.irccloud.com
@@ -4096,9 +4096,9 @@ apis.mail.yahoo.com
 yimg.com
 profile-photos-us-east-2.hackerone-user-content.com
 mta-sts.wearehackerone.com
-b5s.hackerone-ext-content.com
-hackathon-photos.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
+hackathon-photos.hackerone-user-content.com
+b5s.hackerone-ext-content.com
 *.vpn.hackerone.net
 hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -4110,8 +4110,8 @@ errors.hackerone.net
 hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com
 www.wearehackerone.com
 profile-photos.hackerone-user-content.com
-a5s.hackerone-ext-content.com
 app.pullrequest.com
+a5s.hackerone-ext-content.com
 api.hackerone.com
 ctf.hacker101.com
 www.hackerone.com
