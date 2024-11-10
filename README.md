@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 10 11:13:06 UTC 2024)
+## Domains with Bounties (Last Updated Sun Nov 10 11:40:07 UTC 2024)
 ```
 connect.secure.wellsfargo.com
 *.wellsfargo.com
@@ -87,9 +87,9 @@ stats.nba.com
 2kleague.nba.com
 core-api.nba.com
 cdn.nba.com
+gleague.nba.com
 id.nba.com
 content-api-prod.nba.com
-gleague.nba.com
 identity.nba.com
 bal.nba.com
 cms.nba.com
@@ -213,13 +213,13 @@ api.dyson.ch
 api.dyson.ie
 api.fi.dyson.com
 *.cp.dyson.com
-api.dyson.be
 api.dyson.de
 www.dyson.ie
 www.dyson.se
 www.dyson.ch
 www.dyson.co.il
 www.dyson.nl
+api.dyson.be
 www.dyson.be
 www.dyson.dk
 www.gr.dyson.com
@@ -557,9 +557,9 @@ toolsforhumanity.com
 worldcoin.org
 bioid-management.app
 developer.worldcoin.org
+getworldcoin.com
 *.worldcoin.org
 *.toolsforhumanity.com
-getworldcoin.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -573,8 +573,8 @@ developer.worldcoin.org
 id.worldcoin.org
 customer-sessions.arkoselabs.com
 cdn.arkoselabs.com
-verify.arkoselabs.com
 portal.arkoselabs.com
+verify.arkoselabs.com
 demo.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
@@ -619,8 +619,8 @@ app.dynamic-preprod.xyz
 app.dynamic.xyz
 demo.dynamic.xyz
 www.hostinger.com
-cpanel.hostinger.com
 payments.hostinger.com
+cpanel.hostinger.com
 builder.hostinger.com
 hpanel.hostinger.com
 www.hostinger.com
@@ -700,11 +700,11 @@ paymentcomponent.booking.com
 autocomplete.booking.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
-spark.fareharbor.com
-chat.booking.com
-sites.fareharbor.com
 readonly.fareharbor.com
 demo.fareharbor.com
+sites.fareharbor.com
+spark.fareharbor.com
+chat.booking.com
 careers.booking.com
 marketing.fareharbor.com
 compass.fareharbor.com
@@ -1040,24 +1040,24 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 sync.services.mozilla.com
 vpn.mozilla.org
 push.services.mozilla.com
-addons.allizom.org
 phabricator.allizom.org
+addons.allizom.org
 crash-stats.allizom.org
 lando.services.mozilla.com
 firefox.settings.services.mozilla.com
 relay.firefox.com
 crash-reports.allizom.org
 merino.services.mozilla.com
-firefox-ci-tc.services.mozilla.com
 profiler.firefox.com
+firefox-ci-tc.services.mozilla.com
 support.mozilla.org
 hg.mozilla.org
 community-tc.services.mozilla.com
 monitor.mozilla.org
 developer.mozilla.org
 bugzilla.mozilla.org
-mozilla-pontoon-staging.herokuapp.com
 accounts.firefox.com
+mozilla-pontoon-staging.herokuapp.com
 aus5.mozilla.org
 www.mozilla.org
 addons.allizom.org
@@ -1132,8 +1132,8 @@ file-storage-front.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 super-services.indriverapp.com
 watchdocs.indriverapp.com
-wga.volans.tech
 ci.indrive.dev
+wga.volans.tech
 profile-api.eu-east-1.indriverapp.com
 volans.tech
 new-order.eu-east-1.indriverapp.com
@@ -1141,8 +1141,8 @@ auth.indrive.tech
 aws.indrive.tech
 cargo.indrive.com
 argocd.indrive.dev
-*.indriver.com
 auth2.indrive.tech
+*.indriver.com
 *.indrive.com
 ab-platform-api.eu-east-1.indriverapp.com
 *.indriverapp.com
@@ -1285,7 +1285,6 @@ https://webrtc.8x8.com/
 cloud8.8x8.com
 pay.8x8.com
 admin.8x8.com
-*.spinaway.com
 *.luckydays.ca
 *.luckydays.com
 *.napoleondice.be
@@ -1297,6 +1296,7 @@ admin.8x8.com
 *.superbet.com
 *.superbet.ro
 *.napoleoncasino.be
+*.spinaway.com
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1317,8 +1317,8 @@ api.moonpay.com
 buy.moonpay.com
 moonpay.com
 *.moonpay.com
-*.moonpaycloud.com
 hypermint.com
+*.moonpaycloud.com
 app.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1344,8 +1344,8 @@ share.doppler.com
 *.yugalabs.io
 *.boredapeyachtclub.com
 *.otherside.xyz
-*.yuga.com
 *.cryptopunks.app
+*.yuga.com
 *.boredapeyachtclub.com
 *.yuga.com
 *.yugalabs.io
@@ -1366,9 +1366,9 @@ www.carrentals.com
 www.lastminute.com.au
 www.travelocity.ca
 www.orbitz.com
-www.expediagroup.com
 www.lastminute.co.nz
 bookus.expediacruises.com
+www.expediagroup.com
 *.wotif.com
 *.lastminute.co.nz
 www.ebookers.com
@@ -1444,9 +1444,9 @@ read.amazon.com
 a4k.amazon.com
 blueprints.amazon.com
 skills-store.amazon.com
-creator.amazon.com
-alexa.amazon.com
 alexaanswers.amazon.com
+alexa.amazon.com
+creator.amazon.com
 read.amazon.com
 alexaanswers.amazon.com
 blueprints.amazon.com
@@ -1645,9 +1645,9 @@ admin.instacart.com
 shoppers.instacart.com
 demo.cloud.databricks.com
 marketplace.databricks.com
+support.databricks.com
 advocates.databricks.com
 docs.databricks.com
-support.databricks.com
 kb.databricks.com
 academy.databricks.com
 labs.databricks.com
@@ -1677,8 +1677,8 @@ payoneer.com.cn
 *.payoneer.com
 *.payoneer.com
 payoneer.com.cn
-upld.krisp.ai
 download.krisp.ai
+upld.krisp.ai
 teams.krisp.ai
 analytics.krisp.ai
 app.krisp.ai
@@ -1720,7 +1720,6 @@ accounts.evernote.com
 www.evernote.com
 accounts.evernote.com
 api.evernote.com
-hc2services.com
 *.singspacegame.com
 *.hmxwebservices.com
 *.epicgames.dev
@@ -1897,8 +1896,8 @@ tickets.metamask.io
 *.eops.nl
 *.found.io
 *.elstc.co
-*.swiftype.com
 cloud.elastic.co
+*.swiftype.com
 *.elastic.co
 www.elastic.co
 *.elastic.co
@@ -1933,9 +1932,9 @@ www.urbancompany.com
 www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
-amp.reddit.com
-*.redditblog.com
 meta-api.reddit.com
+*.redditblog.com
+amp.reddit.com
 matrix.redditspace.com
 *.redditinc.com
 *.spiketrap.io
@@ -1951,8 +1950,8 @@ strapi.reddit.com
 accounts.reddit.com
 m.reddit.com
 sh.reddit.com
-*.snooguts.net
 developers.reddit.com
+*.snooguts.net
 *.memorable.io
 business.reddithelp.com
 ads.reddit.com
@@ -2011,14 +2010,14 @@ wp-qa.chime.com
 www.chime.com
 *.chimebank.com
 app.chime.com
-*.1debit.com
 *.chimecard.com
 *.chmfin.com
-*.chime.com
-saltlabs.com
+*.1debit.com
 *.saltlabs.com
 app.saltlabs.com
 app.staging.saltlabs.com
+saltlabs.com
+*.chime.com
 *.1debit.com
 *.chimebank.com
 *.chimecard.com
@@ -2209,7 +2208,6 @@ seller-id.tokopedia.com
 shop-id.tokopedia.com
 pay.tokopediax.com
 meetiobook.com
-gaming.logicool.co.jp
 circle.logi.com
 accounts.logi.com
 *vc.logitech.com
@@ -2551,12 +2549,12 @@ amazonpayinsurance.in
 *.amazon.com.br
 *.amazon.co.uk
 *.amazon.cn
-*.amazon.in
 *.amazon.co.jp
 *.amazon.ae
 *.amazon.com.tr
 *.amazon.eg
 *.amazon.fr
+*.amazon.in
 *.amazon.com
 *.amazon.cl
 *.amazon.co.za
@@ -2662,8 +2660,8 @@ www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
 blox.link
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2699,9 +2697,9 @@ app.nordpass.com
 app.nordpass.com
 *.line.naver.jp
 *.line-apps.com
-*.linecorp.com
-*.line.biz
 *.line.me
+*.line.biz
+*.linecorp.com
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -2730,8 +2728,8 @@ sensei.pixiv.net
 vroid.com
 novel.pixiv.net
 booth.pm
-accounts.pixiv.net
 coban.pixiv.net
+accounts.pixiv.net
 dic.pixiv.net
 comic.pixiv.net
 hub.vroid.com
@@ -3089,8 +3087,8 @@ paypalobjects.com
 *.paypalcorp.com
 *.paydiant.com
 api.loanbuilder.com
-*.hyperwallet.com
 *.braintree-api.com
+*.hyperwallet.com
 *.braintreegateway.com
 sandbox.braintreegateway.com
 *.paypal.com
@@ -3189,8 +3187,8 @@ developer.gs.com
 apigw.foliofn.com
 *.advisorsolutions.gs.com
 *.foliodigitalwealth.com
-*.gspublishing.com
 *.honestdollar.com
+*.gspublishing.com
 api.foliofn.com
 *.vennhypotheken.nl
 *.goldmansachs.com
@@ -3234,10 +3232,10 @@ developer.valvesoftware.com
 www.teamfortress.com
 www.counter-strike.net
 api.steampowered.com
-help.steampowered.com
-partner.steampowered.com
 www.valvesoftware.com
 www.dota2.com
+help.steampowered.com
+partner.steampowered.com
 partner.steamgames.com
 steamcommunity.com
 store.steampowered.com
@@ -3262,9 +3260,9 @@ app.mona.co
 pay.crypto.com
 merchant.crypto.com
 tax.crypto.com
-web.crypto.com
 developer-platform-api.crypto.com
 *.crypto.com
+web.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3547,8 +3545,8 @@ api.blockchain.info
 ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
-account.brave.com
 search.brave.com
+account.brave.com
 talk.brave.com
 brave.com
 brave.com
@@ -3559,8 +3557,8 @@ talk.brave.com
 account.brave.com
 rubygems.org
 rubygems.org
-*.yelp-support.com
 yelptop100.com
+*.yelp-support.com
 *.yelpwifi.com
 *.yelp.com
 *.yelp.com
@@ -3651,12 +3649,12 @@ smarttrader.deriv.com
 *.deriv.cloud
 api.deriv.com
 cashier.deriv.com
-derivws.com
+oauth.deriv.com
 *.derivws.com
 *.binary.com
-oauth.deriv.com
 app.deriv.com
 *.deriv.com
+derivws.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3730,8 +3728,8 @@ login.playcanvas.com
 spectacles.com
 my.snapchat.com
 snappublisher.snapchat.com
-blog.playcanvas.com
 forum.playcanvas.com
+blog.playcanvas.com
 www.bitmoji.com
 businesshelp.snapchat.com
 playcanv.as
@@ -3866,9 +3864,10 @@ checkout.vimeo.com
 staging.magisto.com
 applause1.magisto.com
 www.livestream.com
-donations.livestream.com
 embed.vhx.tv
 vimeo.magisto.com
+api.vhx.tv
+donations.livestream.com
 *.cloud.vimeo.com
 *.vimeo.com
 *.vhx.tv
@@ -4063,7 +4062,6 @@ errors.hackerone.net
 www.wearehackerone.com
 profile-photos.hackerone-user-content.com
 a5s.hackerone-ext-content.com
-app.pullrequest.com
 reviewer.pullrequest.com
 hackerone.live
 ctf.hacker101.com
@@ -4071,6 +4069,7 @@ hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com
 www.hackerone.com
 api.hackerone.com
 hackerone.com
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
