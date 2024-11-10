@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 10 08:40:23 UTC 2024)
+## Domains with Bounties (Last Updated Sun Nov 10 09:15:35 UTC 2024)
 ```
 connect.secure.wellsfargo.com
 *.wellsfargo.com
@@ -52,7 +52,7 @@ gnocchi-www.buffalo-ggn.net
 *.boardkingsgame.com
 *.bingoblitz.com
 *.serious.li
-*.redecor.com
+*.seriously.com
 *.slotomania.com
 *.playtika.com
 *.bingoblitz.com
@@ -553,11 +553,11 @@ id.worldcoin.org
 toolsforhumanity.com
 *.worldcoin.dev
 worldcoin.org
-*.toolsforhumanity.com
 bioid-management.app
 developer.worldcoin.org
 getworldcoin.com
 *.worldcoin.org
+*.toolsforhumanity.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -619,8 +619,8 @@ demo.dynamic.xyz
 www.hostinger.com
 payments.hostinger.com
 cpanel.hostinger.com
-hpanel.hostinger.com
 builder.hostinger.com
+hpanel.hostinger.com
 www.hostinger.com
 cpanel.hostinger.com
 hpanel.hostinger.com
@@ -698,11 +698,11 @@ paymentcomponent.booking.com
 autocomplete.booking.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
-spark.fareharbor.com
-chat.booking.com
-sites.fareharbor.com
 readonly.fareharbor.com
 demo.fareharbor.com
+sites.fareharbor.com
+spark.fareharbor.com
+chat.booking.com
 careers.booking.com
 marketing.fareharbor.com
 compass.fareharbor.com
@@ -1139,11 +1139,11 @@ auth.indrive.tech
 aws.indrive.tech
 cargo.indrive.com
 argocd.indrive.dev
-*.indriverapp.com
 auth2.indrive.tech
 *.indriver.com
 *.indrive.com
 ab-platform-api.eu-east-1.indriverapp.com
+*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1176,15 +1176,15 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
 api.skinport.com
 http://skinport.com/blog/
-miro.com
 api.miro.com
+miro.com
 http://miro.com/app
 miro.com
 api.miro.com
@@ -1309,8 +1309,8 @@ admin.8x8.com
 *.napoleonsports.be
 *.superbet.pl
 web3.moonpay.com
-*.hypermint.com
 sell.moonpay.com
+*.hypermint.com
 auth.moonpay.com
 api.moonpay.com
 buy.moonpay.com
@@ -1355,13 +1355,13 @@ share.doppler.com
 www.hotwirepartnercentral.com
 www.abritel.fr
 www.flights.com
-www.ebookers.fi
 www.fewo-direkt.de
-www.stayz.com.au
 www.bookabach.co.nz
+www.ebookers.fi
+www.stayz.com.au
 www.cheaptickets.com
-*.lastminute.com.au
 www.carrentals.com
+*.lastminute.com.au
 www.lastminute.com.au
 www.travelocity.ca
 www.orbitz.com
@@ -1443,9 +1443,9 @@ read.amazon.com
 a4k.amazon.com
 blueprints.amazon.com
 skills-store.amazon.com
-alexaanswers.amazon.com
-alexa.amazon.com
 creator.amazon.com
+alexa.amazon.com
+alexaanswers.amazon.com
 read.amazon.com
 alexaanswers.amazon.com
 blueprints.amazon.com
