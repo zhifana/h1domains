@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 10 09:36:59 UTC 2024)
+## Domains with Bounties (Last Updated Sun Nov 10 10:15:52 UTC 2024)
 ```
 connect.secure.wellsfargo.com
 *.wellsfargo.com
@@ -53,6 +53,8 @@ gnocchi-www.buffalo-ggn.net
 *.bingoblitz.com
 *.serious.li
 *.seriously.com
+*.slotomania.com
+*.wooga.com
 *.slotomania.com
 *.playtika.com
 *.bingoblitz.com
@@ -555,9 +557,9 @@ toolsforhumanity.com
 worldcoin.org
 bioid-management.app
 developer.worldcoin.org
-getworldcoin.com
 *.worldcoin.org
 *.toolsforhumanity.com
+getworldcoin.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -571,8 +573,8 @@ developer.worldcoin.org
 id.worldcoin.org
 customer-sessions.arkoselabs.com
 cdn.arkoselabs.com
-verify.arkoselabs.com
 portal.arkoselabs.com
+verify.arkoselabs.com
 demo.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
@@ -619,8 +621,8 @@ demo.dynamic.xyz
 www.hostinger.com
 payments.hostinger.com
 cpanel.hostinger.com
-builder.hostinger.com
 hpanel.hostinger.com
+builder.hostinger.com
 www.hostinger.com
 cpanel.hostinger.com
 hpanel.hostinger.com
@@ -698,11 +700,11 @@ paymentcomponent.booking.com
 autocomplete.booking.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
-readonly.fareharbor.com
-demo.fareharbor.com
-sites.fareharbor.com
 spark.fareharbor.com
 chat.booking.com
+sites.fareharbor.com
+readonly.fareharbor.com
+demo.fareharbor.com
 careers.booking.com
 marketing.fareharbor.com
 compass.fareharbor.com
@@ -840,16 +842,16 @@ launch.gamma.redoxstage.com
 sftp.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
 help.redoxengine.com
+clientcert.gamma.redoxstage.com
 explore.redoxengine.com
 api.gamma.redoxstage.com
-clientcert.gamma.redoxstage.com
 app.gamma.redoxstage.com
 docs.redoxengine.com
 fhir.redoxengine.com
 blob.gamma.redoxstage.com
 testapi.redoxengine.com
-testapp.redoxengine.com
 10x.redoxengine.com
+testapp.redoxengine.com
 dashboard.gamma.redoxstage.com
 www.redoxengine.com
 10x.redoxengine.com
@@ -1217,12 +1219,12 @@ mobile.s-pankki.fi
 extranet.s-pankki.fi
 digili.s-cloud.fi
 tunnistus.s-ryhma.fi
-www.s-kaupat.fi
 www.prisma.fi
+www.s-kaupat.fi
 api.sokos.fi
 cfapi.voikukka.fi
-www.sokos.fi
 www.s-pankki.fi
+www.sokos.fi
 online.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
@@ -1259,7 +1261,6 @@ platform.8x8pilot.com
 sso.8x8pilot.com
 platform.8x8.com
 admin.8x8.com
-sso.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1309,8 +1310,8 @@ admin.8x8.com
 *.napoleonsports.be
 *.superbet.pl
 web3.moonpay.com
-sell.moonpay.com
 *.hypermint.com
+sell.moonpay.com
 auth.moonpay.com
 api.moonpay.com
 buy.moonpay.com
@@ -1343,8 +1344,8 @@ share.doppler.com
 *.yugalabs.io
 *.boredapeyachtclub.com
 *.otherside.xyz
-*.cryptopunks.app
 *.yuga.com
+*.cryptopunks.app
 *.boredapeyachtclub.com
 *.yuga.com
 *.yugalabs.io
@@ -1355,19 +1356,19 @@ share.doppler.com
 www.hotwirepartnercentral.com
 www.abritel.fr
 www.flights.com
-www.fewo-direkt.de
-www.bookabach.co.nz
 www.ebookers.fi
+www.fewo-direkt.de
 www.stayz.com.au
+www.bookabach.co.nz
 www.cheaptickets.com
-www.carrentals.com
 *.lastminute.com.au
+www.carrentals.com
 www.lastminute.com.au
 www.travelocity.ca
 www.orbitz.com
+www.expediagroup.com
 www.lastminute.co.nz
 bookus.expediacruises.com
-www.expediagroup.com
 *.wotif.com
 *.lastminute.co.nz
 www.ebookers.com
@@ -1443,9 +1444,9 @@ read.amazon.com
 a4k.amazon.com
 blueprints.amazon.com
 skills-store.amazon.com
-creator.amazon.com
-alexa.amazon.com
 alexaanswers.amazon.com
+alexa.amazon.com
+creator.amazon.com
 read.amazon.com
 alexaanswers.amazon.com
 blueprints.amazon.com
@@ -1509,4 +1510,32 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
+www.swoodoo.com
+www.mundi.com.br
+www.momondo.com
+www.kayak.com
+www.checkfelix.com
+www.hotelscombined.com
+business.kayak.com
+www.cheapflights.com
+www.kayak.com
+www.swoodoo.com
+www.checkfelix.com
+www.momondo.com
+www.cheapflights.com
+www.hotelscombined.com
+www.mundi.com.br
+business.kayak.com
+ws.sorare.com
+sorare.com
+api.sorare.com
+sorare.com
+api.sorare.com
+ws.sorare.com
+*.sheingsp.com
+*.romwe.com
+*.shein.com
+*.shein.com
+*.romwe.com
+*.sheingsp.com
 ```
