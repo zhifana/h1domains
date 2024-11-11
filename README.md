@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 11 03:24:46 UTC 2024)
+## Domains with Bounties (Last Updated Mon Nov 11 03:45:48 UTC 2024)
 ```
 connect.secure.wellsfargo.com
 *.wellsfargo.com
@@ -40,10 +40,10 @@ http://clinical-quality.khealth.com/api/v1
 middle-force.khealth.io
 anthem.khealth.com
 api.khealth.com
-*.capitaloneshopping.com
 *.capitalone.com
 *.capitalonegslbex.com
 *.capitalone.ca
+*.capitaloneshopping.com
 *.capitalone.com
 *.capitaloneshopping.com
 *.capitalonegslbex.com
@@ -53,8 +53,8 @@ gnocchi-www.buffalo-ggn.net
 *.bingoblitz.com
 *.serious.li
 *.seriously.com
-*.slotomania.com
 *.wooga.com
+*.slotomania.com
 *.slotomania.com
 *.playtika.com
 *.bingoblitz.com
@@ -573,8 +573,8 @@ developer.worldcoin.org
 id.worldcoin.org
 customer-sessions.arkoselabs.com
 cdn.arkoselabs.com
-portal.arkoselabs.com
 verify.arkoselabs.com
+portal.arkoselabs.com
 demo.arkoselabs.com
 iframe.arkoselabs.com
 client-api.arkoselabs.com
@@ -619,10 +619,10 @@ app.dynamic-preprod.xyz
 app.dynamic.xyz
 demo.dynamic.xyz
 cpanel.hostinger.com
-payments.hostinger.com
 builder.hostinger.com
 hpanel.hostinger.com
 www.hostinger.com
+payments.hostinger.com
 www.hostinger.com
 cpanel.hostinger.com
 hpanel.hostinger.com
@@ -701,17 +701,17 @@ autocomplete.booking.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
 chat.booking.com
-spark.fareharbor.com
 readonly.fareharbor.com
 demo.fareharbor.com
+spark.fareharbor.com
 sites.fareharbor.com
 careers.booking.com
 marketing.fareharbor.com
 compass.fareharbor.com
 *.fareharbor.engineering
 fhdn.fareharbor.com
-flights.booking.com
 accommodations.booking.com
+flights.booking.com
 *.fareharbor.com
 *.booking.com
 *.rentalcars.com
@@ -803,8 +803,8 @@ pay-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-staging.io
-connect-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
+connect-sandbox.gocardless.com
 api-sandbox.gocardless.com
 *.gocardless-lab.io
 manage-sandbox.gocardless.com
@@ -842,16 +842,16 @@ launch.gamma.redoxstage.com
 sftp.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
 help.redoxengine.com
+clientcert.gamma.redoxstage.com
 explore.redoxengine.com
 api.gamma.redoxstage.com
-clientcert.gamma.redoxstage.com
 app.gamma.redoxstage.com
 docs.redoxengine.com
 fhir.redoxengine.com
 blob.gamma.redoxstage.com
 testapi.redoxengine.com
-testapp.redoxengine.com
 10x.redoxengine.com
+testapp.redoxengine.com
 dashboard.gamma.redoxstage.com
 www.redoxengine.com
 10x.redoxengine.com
@@ -1040,8 +1040,8 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 sync.services.mozilla.com
 vpn.mozilla.org
 push.services.mozilla.com
-phabricator.allizom.org
 addons.allizom.org
+phabricator.allizom.org
 lando.services.mozilla.com
 firefox.settings.services.mozilla.com
 relay.firefox.com
@@ -1056,8 +1056,8 @@ bugzilla.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 accounts.firefox.com
 www.mozilla.org
-monitor.mozilla.org
 support.mozilla.org
+monitor.mozilla.org
 aus5.mozilla.org
 crash-stats.allizom.org
 addons.allizom.org
@@ -1124,11 +1124,11 @@ hiltonhotels.jp
 *.oklink.com
 priority.eu-east-1.indriverapp.com
 messenger.eu-east-1.indriverapp.com
-external.indrive.dev
+file-storage-front.eu-east-1.indriverapp.com
 debug.clairvoyance.indrive.tech
+external.indrive.dev
 ingest.clairvoyance.indrive.tech
 injob.indriver.com
-file-storage-front.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 super-services.indriverapp.com
 watchdocs.indriverapp.com
@@ -1178,8 +1178,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -1219,12 +1219,12 @@ mobile.s-pankki.fi
 extranet.s-pankki.fi
 digili.s-cloud.fi
 tunnistus.s-ryhma.fi
-www.s-kaupat.fi
 www.prisma.fi
+www.s-kaupat.fi
 api.sokos.fi
 cfapi.voikukka.fi
-www.sokos.fi
 www.s-pankki.fi
+www.sokos.fi
 online.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
@@ -1444,9 +1444,9 @@ read.amazon.com
 a4k.amazon.com
 blueprints.amazon.com
 skills-store.amazon.com
-alexaanswers.amazon.com
-alexa.amazon.com
 creator.amazon.com
+alexa.amazon.com
+alexaanswers.amazon.com
 read.amazon.com
 alexaanswers.amazon.com
 blueprints.amazon.com
@@ -1510,8 +1510,8 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
-www.swoodoo.com
 www.mundi.com.br
+www.swoodoo.com
 www.momondo.com
 www.kayak.com
 www.checkfelix.com
@@ -1589,8 +1589,8 @@ partners.etoro.com
 billing.etoro.com
 kyc.etoro.com
 api.etoro.com
-push-demo-lightstreamer.cloud.etoro.com
 delta.app
+push-demo-lightstreamer.cloud.etoro.com
 etoropartners.com
 aggregator.etoro.com
 wallet.etoro.com
@@ -1645,9 +1645,9 @@ admin.instacart.com
 shoppers.instacart.com
 demo.cloud.databricks.com
 marketplace.databricks.com
+support.databricks.com
 advocates.databricks.com
 docs.databricks.com
-support.databricks.com
 kb.databricks.com
 academy.databricks.com
 labs.databricks.com
@@ -1677,14 +1677,14 @@ payoneer.com.cn
 *.payoneer.com
 *.payoneer.com
 payoneer.com.cn
-upld.krisp.ai
 download.krisp.ai
+upld.krisp.ai
 teams.krisp.ai
 analytics.krisp.ai
 krisp.ai
 account.krisp.ai
-api.krisp.ai
 app.krisp.ai
+api.krisp.ai
 *.krisp.ai
 *.krisp.ai
 krisp.ai
@@ -1720,7 +1720,6 @@ accounts.evernote.com
 www.evernote.com
 accounts.evernote.com
 api.evernote.com
-aquiris.com.br
 *.singspacegame.com
 *.hmxwebservices.com
 *.epicgames.dev
@@ -1897,8 +1896,8 @@ tickets.metamask.io
 *.eops.nl
 *.found.io
 *.elstc.co
-*.swiftype.com
 cloud.elastic.co
+*.swiftype.com
 *.elastic.co
 www.elastic.co
 *.elastic.co
@@ -2209,7 +2208,6 @@ seller-id.tokopedia.com
 shop-id.tokopedia.com
 pay.tokopediax.com
 meetiobook.com
-gaming.logicool.co.jp
 circle.logi.com
 accounts.logi.com
 *vc.logitech.com
@@ -2622,8 +2620,8 @@ moments.marriottbonvoy.com
 jobs.marriott.com
 homes-and-villas.marriott.com
 *uat.marriott.com
-hotel-deals.marriott.com
 all-inclusive.marriott.com
+hotel-deals.marriott.com
 www.ritzcarlton.com
 careers.marriott.com
 www.marriott.com
@@ -2730,8 +2728,8 @@ sensei.pixiv.net
 vroid.com
 novel.pixiv.net
 booth.pm
-accounts.pixiv.net
 coban.pixiv.net
+accounts.pixiv.net
 dic.pixiv.net
 comic.pixiv.net
 hub.vroid.com
@@ -2896,7 +2894,8 @@ www.globalhotelchoices.com
 blueskytours.globalbookingsolutions.com
 booking.cheapcaribbean.com
 booking.applevacations.com
-www.beachbound.com
+book.beachbound.com
+www.triseptsolutions.com
 www.funjet.com
 res.universalorlandovacations.com
 res.vacations.united.com
@@ -2906,8 +2905,7 @@ jira.hyattdev.com
 res.southwestvacations.com
 new.www.vaxvacationaccess.com
 www.hyattinclusivecollection.com
-www.triseptsolutions.com
-book.beachbound.com
+www.beachbound.com
 login.en.travelbrandsagent.com
 vacations.united.com
 www.cheapcaribbean.com
@@ -3077,9 +3075,9 @@ my.loanbuilder.com
 www.swiftcapital.com
 *.braintree.tools
 swiftcapital.com
-paypal.me
 swiftfinancial.com
 loanbuilder.com
+paypal.me
 my.swiftfinancial.com
 *.xoom.com
 *.braintreepayments.com
@@ -3088,9 +3086,9 @@ paypalobjects.com
 *.paypalcorp.com
 *.paydiant.com
 api.loanbuilder.com
-sandbox.braintreegateway.com
 *.braintree-api.com
 *.braintreegateway.com
+sandbox.braintreegateway.com
 *.paylution.com
 *.hyperwallet.com
 *.paypal.com
@@ -3235,9 +3233,9 @@ www.teamfortress.com
 www.counter-strike.net
 api.steampowered.com
 help.steampowered.com
+www.dota2.com
 partner.steampowered.com
 www.valvesoftware.com
-www.dota2.com
 partner.steamgames.com
 steamcommunity.com
 store.steampowered.com
@@ -3339,12 +3337,12 @@ gamma.grab.co
 xtramile.grabpay.com
 wiki.grab.com
 *.taralite.com
-*.ovo.id
+*.grab-sure.com
 *.myteksi.com
 manage.grab.co
 *.grab.co
 kartaview.org
-*.grab-sure.com
+*.ovo.id
 *.grabpay.com
 api.grabpay.com
 jira.grab.com
@@ -3547,8 +3545,8 @@ api.blockchain.info
 ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
-search.brave.com
 account.brave.com
+search.brave.com
 talk.brave.com
 brave.com
 brave.com
@@ -3780,8 +3778,8 @@ ispdesign.ui.com
 careers.ui.com
 design.ui.com
 unifi.ui.com
-community.ui.com
 store.ui.com
+community.ui.com
 rma.ui.com
 *.ubnt.com
 *.ui.com
@@ -3939,9 +3937,9 @@ waf.cumulusfire.net
 secure.tumblr.com
 embed.tumblr.com
 *.srvcs.tumblr.com
-akismet.com
-t.umblr.com
 safe.tumblr.com
+t.umblr.com
+akismet.com
 gravatar.com
 simperium.com
 happy.tools
@@ -4025,8 +4023,8 @@ slack-imgs.com
 www.quip.com
 spaces.pm
 *.quip.com
-app.slack.com
 slack.com
+app.slack.com
 slackatwork.com
 api.slack.com
 slack.com
