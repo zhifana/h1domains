@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 11 22:17:20 UTC 2024)
+## Domains with Bounties (Last Updated Mon Nov 11 22:42:22 UTC 2024)
 ```
 connect.secure.wellsfargo.com
 *.wellsfargo.com
@@ -53,8 +53,8 @@ gnocchi-www.buffalo-ggn.net
 *.bingoblitz.com
 *.serious.li
 *.seriously.com
-*.wooga.com
 *.slotomania.com
+*.wooga.com
 *.slotomania.com
 *.playtika.com
 *.bingoblitz.com
@@ -143,9 +143,9 @@ nmtracking.netflix.com
 presentationtracking.netflix.com
 *.prod.cloud.netflix.com
 ichnaea.netflix.com
+secure.netflix.com
 *.nflxvideo.net
 help.netflix.com
-secure.netflix.com
 *.nflxext.com
 beacon.netflix.com
 *.prod.ftl.netflix.com
@@ -589,8 +589,8 @@ www.arkoselabs.com
 demo.arkoselabs.com
 www.pornworld.com
 www.ddfcontent.com
-www.pornbox.com
 www.analvids.com
+www.pornbox.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -657,13 +657,13 @@ www.mercadopago.com.pe
 www.mercadopago.com.co
 www.mercadopago.com.br
 api.mercadopago.com
-www.mercadopago.cl
 www.mercadolibre.com.co
 www.mercadolibre.cl
-api.mercadolibre.com
 www.mercadolibre.com.ar
 www.mercadopago.com.ar
+www.mercadopago.cl
 www.mercadolivre.com.br
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -700,11 +700,11 @@ paymentcomponent.booking.com
 autocomplete.booking.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
+spark.fareharbor.com
 chat.booking.com
+sites.fareharbor.com
 readonly.fareharbor.com
 demo.fareharbor.com
-spark.fareharbor.com
-sites.fareharbor.com
 careers.booking.com
 marketing.fareharbor.com
 compass.fareharbor.com
@@ -1132,16 +1132,16 @@ file-storage-front.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 super-services.indriverapp.com
 watchdocs.indriverapp.com
-ci.indrive.dev
 wga.volans.tech
+ci.indrive.dev
 profile-api.eu-east-1.indriverapp.com
 volans.tech
 new-order.eu-east-1.indriverapp.com
 auth.indrive.tech
 cargo.indrive.com
 argocd.indrive.dev
-auth2.indrive.tech
 *.indriver.com
+auth2.indrive.tech
 ab-platform-api.eu-east-1.indriverapp.com
 aws.indrive.tech
 *.indriverapp.com
@@ -1242,8 +1242,8 @@ www.kiwi.com
 jobs.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
-*.skypicker.com
 auth.skypicker.com
+*.skypicker.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1295,8 +1295,8 @@ admin.8x8.com
 *.napoleongames.be
 *.magicjackpot.ro
 *.superbet.com
-*.spinaway.com
 *.napoleoncasino.be
+*.spinaway.com
 *.superbet.ro
 *.superbet.ro
 *.superbet.rs
@@ -1345,8 +1345,8 @@ share.doppler.com
 *.yugalabs.io
 *.boredapeyachtclub.com
 *.otherside.xyz
-*.yuga.com
 *.cryptopunks.app
+*.yuga.com
 *.boredapeyachtclub.com
 *.yuga.com
 *.yugalabs.io
@@ -1358,9 +1358,9 @@ www.hotwirepartnercentral.com
 www.abritel.fr
 www.flights.com
 www.fewo-direkt.de
-www.stayz.com.au
-www.ebookers.fi
 www.bookabach.co.nz
+www.ebookers.fi
+www.stayz.com.au
 www.cheaptickets.com
 www.carrentals.com
 *.lastminute.com.au
@@ -1443,9 +1443,9 @@ read.amazon.com
 a4k.amazon.com
 blueprints.amazon.com
 skills-store.amazon.com
-creator.amazon.com
-alexa.amazon.com
 alexaanswers.amazon.com
+alexa.amazon.com
+creator.amazon.com
 read.amazon.com
 alexaanswers.amazon.com
 blueprints.amazon.com
@@ -1491,8 +1491,8 @@ invoices.razorpay.com
 payroll.razorpay.com
 x.razorpay.com
 checkout.razorpay.com
-dashboard.razorpay.com
 api.razorpay.com
+dashboard.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -1644,9 +1644,9 @@ admin.instacart.com
 shoppers.instacart.com
 demo.cloud.databricks.com
 marketplace.databricks.com
+support.databricks.com
 advocates.databricks.com
 docs.databricks.com
-support.databricks.com
 kb.databricks.com
 academy.databricks.com
 labs.databricks.com
@@ -1676,8 +1676,8 @@ payoneer.com.cn
 *.payoneer.com
 *.payoneer.com
 payoneer.com.cn
-download.krisp.ai
 upld.krisp.ai
+download.krisp.ai
 teams.krisp.ai
 analytics.krisp.ai
 krisp.ai
@@ -1719,7 +1719,6 @@ accounts.evernote.com
 www.evernote.com
 accounts.evernote.com
 api.evernote.com
-aquiris.com.br
 *.singspacegame.com
 *.hmxwebservices.com
 *.epicgames.dev
@@ -2051,9 +2050,9 @@ docs.launchdarkly.com
 fetlife.com
 *.fetlife.com
 fetlife.com
+api.bitso.com
 nvio.ar
 nvio.mx
-api.bitso.com
 bitso.com
 bitso.com
 api.bitso.com
@@ -2086,8 +2085,8 @@ internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
-*.exodus.io
 *.exodus.com
+*.exodus.io
 *.a.exodus.io
 *.exodus.io
 *.a.exodus.io
@@ -2182,10 +2181,10 @@ partner.tiktokshop.com
 careers.tiktok.com
 tiktok.com
 live-backstage.tiktok.com
-business.tiktok.com
-ads.tiktok.com
 *.tiktokv.com
 *.tiktok.com
+business.tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2250,10 +2249,10 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.acronis.work
-beta-cloud.acronis.com
 *.5nine.com
 account.acronis.com
 *.acronis.com
+beta-cloud.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2552,8 +2551,8 @@ amazonpayinsurance.in
 *.amazon.co.uk
 *.amazon.de
 *.amazon.cn
-*.amazon.in
 *.amazon.com
+*.amazon.in
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2618,8 +2617,8 @@ moments.marriottbonvoy.com
 jobs.marriott.com
 homes-and-villas.marriott.com
 *uat.marriott.com
-all-inclusive.marriott.com
 hotel-deals.marriott.com
+all-inclusive.marriott.com
 www.ritzcarlton.com
 careers.marriott.com
 www.marriott.com
@@ -2678,8 +2677,8 @@ kubernetes.io
 k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
-langflow.datastax.com
 docs.datastax.com
+langflow.datastax.com
 langflow.org
 www.datastax.com
 astra.datastax.com
@@ -2892,8 +2891,7 @@ www.globalhotelchoices.com
 blueskytours.globalbookingsolutions.com
 booking.cheapcaribbean.com
 booking.applevacations.com
-book.beachbound.com
-www.triseptsolutions.com
+www.beachbound.com
 www.funjet.com
 res.universalorlandovacations.com
 res.vacations.united.com
@@ -2903,7 +2901,8 @@ jira.hyattdev.com
 res.southwestvacations.com
 new.www.vaxvacationaccess.com
 www.hyattinclusivecollection.com
-www.beachbound.com
+www.triseptsolutions.com
+book.beachbound.com
 login.en.travelbrandsagent.com
 vacations.united.com
 www.cheapcaribbean.com
@@ -3185,8 +3184,8 @@ developer.gs.com
 apigw.foliofn.com
 *.advisorsolutions.gs.com
 *.foliodigitalwealth.com
-*.honestdollar.com
 *.gspublishing.com
+*.honestdollar.com
 api.foliofn.com
 *.vennhypotheken.nl
 *.goldmansachs.com
@@ -3231,8 +3230,8 @@ www.teamfortress.com
 www.counter-strike.net
 api.steampowered.com
 help.steampowered.com
-www.dota2.com
 partner.steampowered.com
+www.dota2.com
 partner.steamgames.com
 store.steampowered.com
 steamcommunity.com
@@ -3429,8 +3428,8 @@ backstage.io
 logs.dashlane.com
 ws1.dashlane.com
 console.dashlane.com
-www.dashlane.com
 api.dashlane.com
+www.dashlane.com
 app.dashlane.com
 ws1.dashlane.com
 www.dashlane.com
@@ -3604,8 +3603,8 @@ docs.gitlab.com
 *.gitlap.com
 *.gitlab.net
 gitlab.com
-about.gitlab.com
 registry.gitlab.com
+about.gitlab.com
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3689,10 +3688,10 @@ accounts.shopify.com
 *.shopifycs.com
 shop.app
 partners.shopify.com
-your-store.myshopify.com
-*.shopify.com
 admin.shopify.com
 *.shopify.io
+*.shopify.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3726,8 +3725,8 @@ login.playcanvas.com
 spectacles.com
 my.snapchat.com
 snappublisher.snapchat.com
-forum.playcanvas.com
 blog.playcanvas.com
+forum.playcanvas.com
 www.bitmoji.com
 businesshelp.snapchat.com
 playcanv.as
@@ -3865,6 +3864,7 @@ www.livestream.com
 embed.vhx.tv
 vimeo.magisto.com
 api.vhx.tv
+donations.livestream.com
 *.cloud.vimeo.com
 *.vimeo.com
 *.vhx.tv
@@ -3971,9 +3971,9 @@ irc.irccloud.com
 team-irc.irccloud.com
 api.irccloud.com
 *.irccloud-cdn.com
-*.irccloud.com
 www.irccloud.com
 blog.irccloud.com
+*.irccloud.com
 irccloud.com
 *.irccloud-cdn.com
 *.irccloud.com
@@ -4059,12 +4059,12 @@ errors.hackerone.net
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackerone.live
+app.pullrequest.com
 www.wearehackerone.com
 ctf.hacker101.com
-app.pullrequest.com
 a5s.hackerone-ext-content.com
-hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com
 www.hackerone.com
+hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com
 api.hackerone.com
 hackerone.com
 hackerone.com
