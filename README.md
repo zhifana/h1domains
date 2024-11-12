@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 12 19:40:59 UTC 2024)
+## Domains with Bounties (Last Updated Tue Nov 12 20:21:11 UTC 2024)
 ```
 connect.secure.wellsfargo.com
 *.wellsfargo.com
@@ -112,8 +112,8 @@ outlook.insightly.com
 marketing.na1.insightly.com
 mobileapi.na1.insightly.com
 accounts.insightly.com
-login.insightly.com
 crm.na1.insightly.com
+login.insightly.com
 crm.na1.insightly.com
 accounts.insightly.com
 outlook.insightly.com
@@ -130,8 +130,8 @@ api.circle.com
 app.circle.com
 console.circle.com
 *.varonis.io
-*.varonis.com
 *.varonis.net
+*.varonis.com
 *.varonis.com
 *.varonis.io
 *.varonis.net
@@ -657,11 +657,11 @@ www.mercadopago.com.pe
 www.mercadopago.com.co
 www.mercadopago.com.br
 api.mercadopago.com
-www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadolibre.com.co
-www.mercadolivre.com.br
 api.mercadolibre.com
+www.mercadolibre.cl
+www.mercadolivre.com.br
 www.mercadolibre.com.ar
 www.mercadopago.com.ar
 api.mercadopago.com
@@ -851,9 +851,9 @@ fhir.redoxengine.com
 blob.gamma.redoxstage.com
 testapi.redoxengine.com
 testapp.redoxengine.com
-10x.redoxengine.com
 www.redoxengine.com
 dashboard.gamma.redoxstage.com
+10x.redoxengine.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -904,9 +904,9 @@ www.visa.com.vn
 visa.co.za
 www.practicalmoneyskills.com
 visa.com.au
+developer.authorize.net
 bm.visa.com
 www.authorize.net
-developer.authorize.net
 www.visa.com.tr
 www.visa.com.sg
 www.visa.com.cn
@@ -1124,8 +1124,8 @@ hiltonhotels.jp
 *.oklink.com
 priority.eu-east-1.indriverapp.com
 messenger.eu-east-1.indriverapp.com
-debug.clairvoyance.indrive.tech
 external.indrive.dev
+debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 injob.indriver.com
 file-storage-front.eu-east-1.indriverapp.com
@@ -1241,9 +1241,9 @@ cfapi.voikukka.fi
 www.kiwi.com
 jobs.kiwi.com
 tequila.kiwi.com
-*.kiwi.com
 auth.skypicker.com
 *.skypicker.com
+*.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1345,8 +1345,8 @@ share.doppler.com
 *.yugalabs.io
 *.boredapeyachtclub.com
 *.otherside.xyz
-*.cryptopunks.app
 *.yuga.com
+*.cryptopunks.app
 *.boredapeyachtclub.com
 *.yuga.com
 *.yugalabs.io
@@ -1357,13 +1357,13 @@ share.doppler.com
 www.hotwirepartnercentral.com
 www.abritel.fr
 www.flights.com
+www.ebookers.fi
 www.fewo-direkt.de
 www.stayz.com.au
-www.ebookers.fi
 www.bookabach.co.nz
 www.cheaptickets.com
-www.carrentals.com
 *.lastminute.com.au
+www.carrentals.com
 www.lastminute.com.au
 www.lastminute.co.nz
 bookus.expediacruises.com
@@ -1382,7 +1382,6 @@ www.travelocity.ca
 www.orbitz.com
 *.expediacruises.com
 *.travelocity.com
-www.expedia.com
 *.vrbo.com
 *.vrbo.com
 *.hotwire.com
@@ -1511,8 +1510,8 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
-www.mundi.com.br
 www.swoodoo.com
+www.mundi.com.br
 www.momondo.com
 www.kayak.com
 www.checkfelix.com
@@ -1679,8 +1678,8 @@ payoneer.com.cn
 *.payoneer.com
 payoneer.com.cn
 download.krisp.ai
-upld.krisp.ai
 teams.krisp.ai
+upld.krisp.ai
 analytics.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1897,8 +1896,8 @@ tickets.metamask.io
 *.eops.nl
 *.found.io
 *.elstc.co
-*.swiftype.com
 cloud.elastic.co
+*.swiftype.com
 *.elastic.co
 www.elastic.co
 *.elastic.co
@@ -2071,9 +2070,9 @@ internal-api-lark-api.larksuite.com
 passport.larksuite.com
 app.larksuite.com
 open.larksuite.com
-hackers_chosendomain.larksuite.com
 larksuite.com
 internal-api-drive-stream.larksuite.com
+hackers_chosendomain.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2087,8 +2086,8 @@ internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
-*.exodus.io
 *.exodus.com
+*.exodus.io
 *.a.exodus.io
 *.exodus.io
 *.a.exodus.io
@@ -2207,6 +2206,7 @@ seller-id.tokopedia.com
 shop-id.tokopedia.com
 pay.tokopediax.com
 meetiobook.com
+gaming.logicool.co.jp
 circle.logi.com
 accounts.logi.com
 *vc.logitech.com
@@ -2428,8 +2428,8 @@ social.playstation.com
 wallets.api.playstation.com
 my.playstation.com
 transact.playstation.com
-ca.account.sony.com
 *.api.playstation.com
+ca.account.sony.com
 *.sonyentertainmentnetwork.com
 api.direct.playstation.com
 my.account.sony.com
@@ -2535,8 +2535,8 @@ itv7.itv.com
 *.amazon.cl
 amazonpayinsurance.in
 *.amazon.pl
-*.amazon.com.mx
 *.amazon.nl
+*.amazon.com.mx
 *.amazon.it
 *.amazon.es
 *.amazon.com.au
@@ -2545,16 +2545,16 @@ amazonpayinsurance.in
 *.amazon.fr
 *.amazon.co.jp
 *.amazon.sg
-*.amazon.co.uk
 *.amazon.sa
 *.amazon.ca
 *.amazon.cn
-*.amazon.com.br
-*.amazon.com.tr
 *.amazon.de
+*.amazon.com.tr
 *.amazon.ae
-*.amazon.com
+*.amazon.com.br
+*.amazon.co.uk
 *.amazon.in
+*.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2659,8 +2659,8 @@ www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
 blox.link
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2885,17 +2885,17 @@ www.globalhotelchoices.com
 blueskytours.globalbookingsolutions.com
 booking.cheapcaribbean.com
 booking.applevacations.com
-www.beachbound.com
-www.funjet.com
-res.universalorlandovacations.com
-res.vacations.united.com
 res.hyattinclusivecollection.com
-res.funjet.com
 jira.hyattdev.com
+res.funjet.com
 new.www.vaxvacationaccess.com
+res.universalorlandovacations.com
+www.funjet.com
+res.vacations.united.com
 www.hyattinclusivecollection.com
-www.triseptsolutions.com
+www.beachbound.com
 book.beachbound.com
+www.triseptsolutions.com
 login.en.travelbrandsagent.com
 vacations.united.com
 www.cheapcaribbean.com
@@ -3223,8 +3223,8 @@ developer.valvesoftware.com
 www.teamfortress.com
 www.counter-strike.net
 api.steampowered.com
-www.dota2.com
 help.steampowered.com
+www.dota2.com
 partner.steampowered.com
 partner.steamgames.com
 store.steampowered.com
@@ -3327,21 +3327,21 @@ p.grabtaxi.com
 gamma.grab.co
 xtramile.grabpay.com
 wiki.grab.com
-*.grab.co
 *.myteksi.com
+*.grab.co
 *.grabpay.com
 api.grabpay.com
 *.taralite.com
 kartaview.org
 jira.grab.com
-grab.careers
+*.myteksi.net
 manage.grab.co
 *.ovo.id
-*.myteksi.net
 gifts.grab.com
 *.grab-sure.com
 *.grab.com
 *.grabtaxi.com
+grab.careers
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3422,8 +3422,8 @@ backstage.io
 logs.dashlane.com
 ws1.dashlane.com
 console.dashlane.com
-api.dashlane.com
 www.dashlane.com
+api.dashlane.com
 app.dashlane.com
 ws1.dashlane.com
 www.dashlane.com
@@ -3566,8 +3566,8 @@ classroom.github.com
 npmjs.com
 api.github.com
 gist.github.com
-npmjs.org
 *.githubapp.com
+npmjs.org
 *.githubusercontent.com
 github.com
 github.com
@@ -3680,10 +3680,10 @@ partners.shopify.com
 *.shopifycloud.com
 arrive-server.shopifycloud.com
 *.shopifycs.com
+accounts.shopify.com
 admin.shopify.com
 your-store.myshopify.com
 shop.app
-accounts.shopify.com
 *.shopify.io
 *.shopify.com
 *.shopifycs.com
@@ -3718,8 +3718,8 @@ login.playcanvas.com
 spectacles.com
 my.snapchat.com
 snappublisher.snapchat.com
-blog.playcanvas.com
 forum.playcanvas.com
+blog.playcanvas.com
 www.bitmoji.com
 businesshelp.snapchat.com
 playcanv.as
@@ -3857,6 +3857,7 @@ www.livestream.com
 embed.vhx.tv
 vimeo.magisto.com
 api.vhx.tv
+donations.livestream.com
 *.cloud.vimeo.com
 *.vimeo.com
 *.vhx.tv
@@ -3926,9 +3927,9 @@ waf.cumulusfire.net
 secure.tumblr.com
 embed.tumblr.com
 *.srvcs.tumblr.com
-safe.tumblr.com
-t.umblr.com
 akismet.com
+t.umblr.com
+safe.tumblr.com
 gravatar.com
 simperium.com
 happy.tools
@@ -3963,9 +3964,9 @@ irc.irccloud.com
 team-irc.irccloud.com
 api.irccloud.com
 *.irccloud-cdn.com
+*.irccloud.com
 www.irccloud.com
 blog.irccloud.com
-*.irccloud.com
 irccloud.com
 *.irccloud-cdn.com
 *.irccloud.com
