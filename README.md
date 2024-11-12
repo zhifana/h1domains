@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 12 16:25:45 UTC 2024)
+## Domains with Bounties (Last Updated Tue Nov 12 16:49:45 UTC 2024)
 ```
 connect.secure.wellsfargo.com
 *.wellsfargo.com
@@ -40,9 +40,9 @@ http://clinical-quality.khealth.com/api/v1
 middle-force.khealth.io
 anthem.khealth.com
 api.khealth.com
-*.capitaloneshopping.com
 *.capitalonegslbex.com
 *.capitalone.ca
+*.capitaloneshopping.com
 *.capitalone.com
 *.capitalone.com
 *.capitaloneshopping.com
@@ -657,13 +657,13 @@ www.mercadopago.com.pe
 www.mercadopago.com.co
 www.mercadopago.com.br
 www.mercadopago.cl
-www.mercadolibre.com.co
 www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadolivre.com.br
 www.mercadolibre.cl
-api.mercadolibre.com
+www.mercadolibre.com.co
 www.mercadopago.com.ar
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -700,11 +700,11 @@ paymentcomponent.booking.com
 autocomplete.booking.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
-spark.fareharbor.com
 chat.booking.com
-sites.fareharbor.com
 readonly.fareharbor.com
 demo.fareharbor.com
+spark.fareharbor.com
+sites.fareharbor.com
 careers.booking.com
 marketing.fareharbor.com
 compass.fareharbor.com
@@ -803,8 +803,8 @@ pay-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-staging.io
-oauth-sandbox.gocardless.com
 connect-sandbox.gocardless.com
+oauth-sandbox.gocardless.com
 api-sandbox.gocardless.com
 *.gocardless-lab.io
 *.gocardless-cicd.io
@@ -850,8 +850,8 @@ docs.redoxengine.com
 fhir.redoxengine.com
 blob.gamma.redoxstage.com
 testapi.redoxengine.com
-10x.redoxengine.com
 testapp.redoxengine.com
+10x.redoxengine.com
 www.redoxengine.com
 dashboard.gamma.redoxstage.com
 10x.redoxengine.com
@@ -904,9 +904,9 @@ www.visa.com.vn
 visa.co.za
 www.practicalmoneyskills.com
 visa.com.au
-developer.authorize.net
 bm.visa.com
 www.authorize.net
+developer.authorize.net
 www.visa.com.tr
 www.visa.com.sg
 www.visa.com.cn
@@ -1645,9 +1645,9 @@ admin.instacart.com
 shoppers.instacart.com
 demo.cloud.databricks.com
 marketplace.databricks.com
+support.databricks.com
 advocates.databricks.com
 docs.databricks.com
-support.databricks.com
 kb.databricks.com
 academy.databricks.com
 labs.databricks.com
@@ -1720,7 +1720,6 @@ accounts.evernote.com
 www.evernote.com
 accounts.evernote.com
 api.evernote.com
-aquiris.com.br
 *.singspacegame.com
 *.hmxwebservices.com
 *.epicgames.dev
@@ -1897,8 +1896,8 @@ tickets.metamask.io
 *.eops.nl
 *.found.io
 *.elstc.co
-*.swiftype.com
 cloud.elastic.co
+*.swiftype.com
 *.elastic.co
 www.elastic.co
 *.elastic.co
@@ -2052,9 +2051,9 @@ docs.launchdarkly.com
 fetlife.com
 *.fetlife.com
 fetlife.com
-api.bitso.com
 nvio.ar
 nvio.mx
+api.bitso.com
 bitso.com
 bitso.com
 api.bitso.com
@@ -2087,8 +2086,8 @@ internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
-*.exodus.com
 *.exodus.io
+*.exodus.com
 *.a.exodus.io
 *.exodus.io
 *.a.exodus.io
@@ -2182,8 +2181,8 @@ partner.tiktokshop.com
 careers.tiktok.com
 tiktok.com
 www.pangleglobal.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 live-backstage.tiktok.com
 ads.tiktok.com
 business.tiktok.com
@@ -2207,7 +2206,6 @@ seller-id.tokopedia.com
 shop-id.tokopedia.com
 pay.tokopediax.com
 meetiobook.com
-gaming.logicool.co.jp
 circle.logi.com
 accounts.logi.com
 *vc.logitech.com
@@ -2539,12 +2537,12 @@ amazonpayinsurance.in
 *.amazon.com.mx
 *.amazon.nl
 *.amazon.it
-*.amazon.com.au
 *.amazon.es
+*.amazon.com.au
 *.amazon.com.be
 *.amazon.com.br
-*.amazon.fr
 *.amazon.eg
+*.amazon.fr
 *.amazon.co.jp
 *.amazon.sg
 *.amazon.co.uk
@@ -2553,9 +2551,9 @@ amazonpayinsurance.in
 *.amazon.ca
 *.amazon.com.tr
 *.amazon.com
-*.amazon.cn
 *.amazon.ae
 *.amazon.in
+*.amazon.cn
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -3179,8 +3177,8 @@ developer.gs.com
 apigw.foliofn.com
 *.advisorsolutions.gs.com
 *.foliodigitalwealth.com
-*.gspublishing.com
 *.honestdollar.com
+*.gspublishing.com
 api.foliofn.com
 *.vennhypotheken.nl
 *.goldmansachs.com
@@ -3224,8 +3222,8 @@ developer.valvesoftware.com
 www.teamfortress.com
 www.counter-strike.net
 api.steampowered.com
-www.dota2.com
 help.steampowered.com
+www.dota2.com
 partner.steampowered.com
 partner.steamgames.com
 store.steampowered.com
@@ -3328,18 +3326,18 @@ p.grabtaxi.com
 gamma.grab.co
 xtramile.grabpay.com
 wiki.grab.com
-*.myteksi.com
 *.grab.co
+*.myteksi.com
 *.grabpay.com
 api.grabpay.com
 *.taralite.com
 kartaview.org
 jira.grab.com
-*.myteksi.net
 grab.careers
 *.grabtaxi.com
 manage.grab.co
 *.ovo.id
+*.myteksi.net
 gifts.grab.com
 *.grab-sure.com
 *.grab.com
@@ -3423,8 +3421,8 @@ backstage.io
 logs.dashlane.com
 ws1.dashlane.com
 console.dashlane.com
-api.dashlane.com
 www.dashlane.com
+api.dashlane.com
 app.dashlane.com
 ws1.dashlane.com
 www.dashlane.com
@@ -3567,8 +3565,8 @@ classroom.github.com
 npmjs.com
 api.github.com
 gist.github.com
-npmjs.org
 *.githubapp.com
+npmjs.org
 *.githubusercontent.com
 github.com
 github.com
@@ -3639,8 +3637,8 @@ dashboard.algolia.com
 secure-dfadmin.deriv.com
 *.deriv.cloud
 api.deriv.com
-*.binary.com
 oauth.deriv.com
+*.binary.com
 smarttrader.deriv.com
 *.derivws.com
 app.deriv.com
@@ -3678,14 +3676,14 @@ shopifyinbox.com
 shopify.plus
 *.shopifykloud.com
 partners.shopify.com
+*.shopify.io
 *.shopifycloud.com
 arrive-server.shopifycloud.com
-shop.app
-*.shopify.io
-admin.shopify.com
 *.shopifycs.com
-your-store.myshopify.com
 *.shopify.com
+your-store.myshopify.com
+shop.app
+admin.shopify.com
 accounts.shopify.com
 *.shopifycs.com
 *.shopify.io
@@ -3707,20 +3705,20 @@ www.bitstrips.com
 scan.snapchat.com
 code.playcanvas.com
 store.playcanvas.com
-story.snapchat.com
 relay.playcanvas.com
 msg.playcanvas.com
 rt.playcanvas.com
 developer.playcanvas.com
 launch.playcanvas.com
 store.snapchat.com
+story.snapchat.com
 login.playcanvas.com
 *.sc-corp.net
 spectacles.com
 my.snapchat.com
 snappublisher.snapchat.com
-blog.playcanvas.com
 forum.playcanvas.com
+blog.playcanvas.com
 www.bitmoji.com
 businesshelp.snapchat.com
 playcanv.as
@@ -3858,7 +3856,6 @@ www.livestream.com
 embed.vhx.tv
 vimeo.magisto.com
 api.vhx.tv
-donations.livestream.com
 *.cloud.vimeo.com
 *.vimeo.com
 *.vhx.tv
@@ -4042,9 +4039,9 @@ apis.mail.yahoo.com
 yimg.com
 profile-photos-us-east-2.hackerone-user-content.com
 mta-sts.wearehackerone.com
-cover-photos.hackerone-user-content.com
-hackathon-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
+hackathon-photos.hackerone-user-content.com
+cover-photos.hackerone-user-content.com
 *.vpn.hackerone.net
 hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -4059,8 +4056,8 @@ app.pullrequest.com
 a5s.hackerone-ext-content.com
 hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com
 www.hackerone.com
-www.wearehackerone.com
 api.hackerone.com
+www.wearehackerone.com
 hackerone.com
 hackerone.com
 api.hackerone.com
