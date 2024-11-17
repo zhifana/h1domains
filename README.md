@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 17 08:44:10 UTC 2024)
+## Domains with Bounties (Last Updated Sun Nov 17 09:20:00 UTC 2024)
 ```
 connect.secure.wellsfargo.com
 *.wellsfargo.com
@@ -128,8 +128,8 @@ app.circle.com
 api.circle.com
 app.circle.com
 console.circle.com
-*.varonis.io
 *.varonis.net
+*.varonis.io
 *.varonis.com
 *.varonis.com
 *.varonis.io
@@ -142,9 +142,9 @@ nmtracking.netflix.com
 presentationtracking.netflix.com
 *.prod.cloud.netflix.com
 ichnaea.netflix.com
+secure.netflix.com
 *.nflxvideo.net
 help.netflix.com
-secure.netflix.com
 beacon.netflix.com
 *.prod.ftl.netflix.com
 meechum.netflix.com
@@ -521,9 +521,9 @@ app3.rewire.to
 *.int.remitly.com
 careers.remitly.com
 rewire.com
+cards.remitly.io
 auth.remitly.com
 app.rewire.to
-cards.remitly.io
 blog.remitly.com
 api.remitly.io
 remitly.com
@@ -555,8 +555,8 @@ getworldcoin.com
 id.worldcoin.org
 worldcoin.org
 *.worldcoin.dev
-*.consumer.worldcoin.org
 *.toolsforhumanity.com
+*.consumer.worldcoin.org
 toolsforhumanity.com
 developer.worldcoin.org
 *.worldcoin.org
@@ -572,8 +572,8 @@ worldcoin.org
 developer.worldcoin.org
 id.worldcoin.org
 customer-sessions.arkoselabs.com
-verify.arkoselabs.com
 portal.arkoselabs.com
+verify.arkoselabs.com
 iframe.arkoselabs.com
 demo.arkoselabs.com
 cdn.arkoselabs.com
@@ -664,8 +664,8 @@ api.mercadopago.com
 www.mercadopago.com.co
 www.mercadopago.com.br
 www.mercadolibre.cl
-api.mercadolibre.com
 www.mercadolivre.com.br
+api.mercadolibre.com
 www.mercadopago.cl
 www.mercadopago.com.ar
 api.mercadopago.com
@@ -704,17 +704,17 @@ paymentcomponent.booking.com
 autocomplete.booking.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
-spark.fareharbor.com
 readonly.fareharbor.com
 demo.fareharbor.com
+spark.fareharbor.com
 sites.fareharbor.com
 careers.booking.com
 marketing.fareharbor.com
 compass.fareharbor.com
 *.fareharbor.engineering
 fhdn.fareharbor.com
-flights.booking.com
 accommodations.booking.com
+flights.booking.com
 fareharborsites.com
 *.fareharbor.com
 *.booking.com
@@ -901,15 +901,15 @@ www.visa.co.ke
 visa.co.ni
 www.visa.co.th
 www.fraedom.com
+www.visa.com.cn
+cw.visa.com
 www.visa.com.vn
 visa.co.za
 www.practicalmoneyskills.com
 visa.com.au
+developer.authorize.net
 bm.visa.com
 www.authorize.net
-developer.authorize.net
-www.visa.com.cn
-cw.visa.com
 www.visa.com.mx
 bq.visa.com
 direct-demo.currencycloud.com
@@ -1043,14 +1043,14 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 sync.services.mozilla.com
 vpn.mozilla.org
 push.services.mozilla.com
-addons.allizom.org
 phabricator.allizom.org
+addons.allizom.org
 lando.services.mozilla.com
 relay.firefox.com
 crash-reports.allizom.org
 merino.services.mozilla.com
-firefox-ci-tc.services.mozilla.com
 profiler.firefox.com
+firefox-ci-tc.services.mozilla.com
 hg.mozilla.org
 community-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
@@ -1128,11 +1128,11 @@ hiltonhotels.jp
 *.oklink.com
 priority.eu-east-1.indriverapp.com
 messenger.eu-east-1.indriverapp.com
-file-storage-front.eu-east-1.indriverapp.com
-debug.clairvoyance.indrive.tech
 external.indrive.dev
+debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 injob.indriver.com
+file-storage-front.eu-east-1.indriverapp.com
 super-services.indriverapp.com
 watchdocs.indriverapp.com
 ci.indrive.dev
@@ -1182,8 +1182,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -1298,8 +1298,8 @@ admin.8x8.com
 *.napoleongames.be
 *.magicjackpot.ro
 *.superbet.com
-*.spinaway.com
 *.napoleoncasino.be
+*.spinaway.com
 *.superbet.ro
 *.napoleondice.be
 *.superbet.ro
@@ -1315,8 +1315,8 @@ admin.8x8.com
 *.napoleonsports.be
 *.superbet.pl
 web3.moonpay.com
-sell.moonpay.com
 *.hypermint.com
+sell.moonpay.com
 auth.moonpay.com
 api.moonpay.com
 buy.moonpay.com
@@ -1361,13 +1361,13 @@ share.doppler.com
 www.hotwirepartnercentral.com
 www.abritel.fr
 www.flights.com
+www.ebookers.fi
 www.fewo-direkt.de
 www.stayz.com.au
-www.ebookers.fi
 www.bookabach.co.nz
 www.cheaptickets.com
-www.carrentals.com
 *.lastminute.com.au
+www.carrentals.com
 www.lastminute.com.au
 www.lastminute.co.nz
 bookus.expediacruises.com
@@ -1382,8 +1382,8 @@ www.wotif.com
 www.expediaagents.com
 www.orbitz.com
 *.expediacruises.com
-*.cheaptickets.com
 www.mrjet.se
+*.cheaptickets.com
 www.travelocity.com
 *.vrbo.com
 *.hotwire.com
@@ -1512,8 +1512,8 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
-www.swoodoo.com
 www.mundi.com.br
+www.swoodoo.com
 www.momondo.com
 www.checkfelix.com
 www.hotelscombined.com
@@ -1722,6 +1722,7 @@ www.evernote.com
 www.evernote.com
 accounts.evernote.com
 api.evernote.com
+aquiris.com.br
 *.singspacegame.com
 *.hmxwebservices.com
 *.epicgames.dev
@@ -1962,8 +1963,8 @@ m.reddit.com
 *.snooguts.net
 ads.reddit.com
 *.memorable.io
-business.reddithelp.com
 api.reddit.com
+business.reddithelp.com
 sh.reddit.com
 developers.reddit.com
 *.reddit.com
@@ -2017,8 +2018,8 @@ wp-integ.chime.com
 wp-qa.chime.com
 *.chimecard.com
 *.1debit.com
-www.chime.com
 wp-dev5.chime.com
+www.chime.com
 app.staging.saltlabs.com
 app.chime.com
 *.chimebank.com
@@ -2088,8 +2089,8 @@ internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
-*.exodus.io
 *.exodus.com
+*.exodus.io
 *.a.exodus.io
 *.exodus.io
 *.a.exodus.io
@@ -2186,8 +2187,8 @@ pay.tokopediax.com
 tiktok.com
 partner.tiktokshop.com
 ads.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2529,8 +2530,8 @@ ecosystem-api.polygon.technology
 *.ppbdev.com
 super6.skysports.com
 itv7.itv.com
-*.amazon.com.co
 *.amazon.com.ng
+*.amazon.com.co
 *.amazon.co.za
 *.amazon.se
 *.amazon.cl
@@ -2547,8 +2548,8 @@ amazonpayinsurance.in
 *.amazon.com.br
 *.amazon.cn
 *.amazon.co.uk
-*.amazon.ae
 *.amazon.nl
+*.amazon.ae
 *.amazon.fr
 *.amazon.co.jp
 *.amazon.ca
@@ -2847,8 +2848,8 @@ vault.omise.co
 offsite.omise.co
 api.omise.co
 dashboard.omise.co
-www.omise.co
 www.opn.ooo
+www.omise.co
 vault.omise.co
 api.omise.co
 dashboard.omise.co
@@ -2886,17 +2887,17 @@ www.globalhotelchoices.com
 blueskytours.globalbookingsolutions.com
 booking.cheapcaribbean.com
 booking.applevacations.com
-res.hyattinclusivecollection.com
-jira.hyattdev.com
-res.funjet.com
-new.www.vaxvacationaccess.com
-res.universalorlandovacations.com
-www.funjet.com
-res.vacations.united.com
-www.hyattinclusivecollection.com
-www.beachbound.com
 book.beachbound.com
 www.triseptsolutions.com
+www.funjet.com
+res.universalorlandovacations.com
+res.vacations.united.com
+res.hyattinclusivecollection.com
+res.funjet.com
+jira.hyattdev.com
+new.www.vaxvacationaccess.com
+www.hyattinclusivecollection.com
+www.beachbound.com
 login.en.travelbrandsagent.com
 vacations.united.com
 www.cheapcaribbean.com
@@ -3074,8 +3075,8 @@ paypalobjects.com
 *.paypalcorp.com
 *.paydiant.com
 api.loanbuilder.com
-sandbox.braintreegateway.com
 *.braintree-api.com
+sandbox.braintreegateway.com
 *.paylution.com
 *.hyperwallet.com
 *.braintreegateway.com
@@ -3251,9 +3252,9 @@ app.mona.co
 pay.crypto.com
 tax.crypto.com
 merchant.crypto.com
+web.crypto.com
 www.crypto.com
 developer-platform-api.crypto.com
-web.crypto.com
 *.crypto.com
 *.crypto.com
 *.mona.co
@@ -3527,8 +3528,8 @@ www.starbucks.com
 app.starbucks.com
 openapi.starbucks.com
 secureui.starbucks.com
-ws.blockchain.info
 www.blockchain.info
+ws.blockchain.info
 api.blockchain.info
 *.blockchain.com
 *.blockchain.com
@@ -3641,10 +3642,10 @@ secure-dfadmin.deriv.com
 cashier.deriv.com
 derivws.com
 *.derivws.com
+oauth.deriv.com
 *.deriv.com
 app.deriv.com
 *.binary.com
-oauth.deriv.com
 smarttrader.deriv.com
 api.deriv.com
 *.deriv.com
@@ -3718,8 +3719,8 @@ login.playcanvas.com
 spectacles.com
 my.snapchat.com
 snappublisher.snapchat.com
-forum.playcanvas.com
 blog.playcanvas.com
+forum.playcanvas.com
 businesshelp.snapchat.com
 playcanv.as
 business.snapchat.com
@@ -3857,7 +3858,6 @@ www.livestream.com
 embed.vhx.tv
 vimeo.magisto.com
 api.vhx.tv
-donations.livestream.com
 *.cloud.vimeo.com
 *.vimeo.com
 *.vhx.tv
@@ -3926,9 +3926,9 @@ waf.cumulusfire.net
 secure.tumblr.com
 embed.tumblr.com
 *.srvcs.tumblr.com
-safe.tumblr.com
-t.umblr.com
 akismet.com
+t.umblr.com
+safe.tumblr.com
 gravatar.com
 simperium.com
 api.tumblr.com
@@ -3961,9 +3961,9 @@ irc.irccloud.com
 team-irc.irccloud.com
 api.irccloud.com
 *.irccloud-cdn.com
+*.irccloud.com
 www.irccloud.com
 blog.irccloud.com
-*.irccloud.com
 irccloud.com
 *.irccloud-cdn.com
 *.irccloud.com
@@ -3984,8 +3984,8 @@ commerce.coinbase.com
 api.coinbase.com
 *.base.org
 *.cbhq.net
-prime.coinbase.com
 *.coinbase.com
+prime.coinbase.com
 coinbase.com
 *.coinbase.com
 *.cbhq.net
