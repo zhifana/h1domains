@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 17 21:17:47 UTC 2024)
+## Domains with Bounties (Last Updated Sun Nov 17 21:40:03 UTC 2024)
 ```
 connect.secure.wellsfargo.com
 *.wellsfargo.com
@@ -142,8 +142,8 @@ nmtracking.netflix.com
 presentationtracking.netflix.com
 *.prod.cloud.netflix.com
 ichnaea.netflix.com
-secure.netflix.com
 help.netflix.com
+secure.netflix.com
 beacon.netflix.com
 *.prod.ftl.netflix.com
 meechum.netflix.com
@@ -523,8 +523,8 @@ careers.remitly.com
 rewire.com
 cards.remitly.io
 app.rewire.to
-remitly.com
 api.remitly.io
+remitly.com
 blog.remitly.com
 auth.remitly.com
 *.int.remitly.com
@@ -572,8 +572,8 @@ worldcoin.org
 developer.worldcoin.org
 id.worldcoin.org
 customer-sessions.arkoselabs.com
-verify.arkoselabs.com
 portal.arkoselabs.com
+verify.arkoselabs.com
 iframe.arkoselabs.com
 demo.arkoselabs.com
 cdn.arkoselabs.com
@@ -659,8 +659,8 @@ www.mercadolibre.com.uy
 www.mercadolibre.com.pe
 www.mercadopago.com.pe
 www.mercadolibre.com.co
-www.mercadolibre.com.ar
 api.mercadopago.com
+www.mercadolibre.com.ar
 www.mercadopago.com.co
 www.mercadopago.com.br
 www.mercadolivre.com.br
@@ -776,8 +776,8 @@ api2.frontapp.com
 *.boozt.com
 *.booztlet.com
 *.travix.io
-*.trip.com
 *.travix.com
+*.trip.com
 *.trip.com
 *.travix.com
 *.travix.io
@@ -846,8 +846,8 @@ launch.gamma.redoxstage.com
 sftp.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
 help.redoxengine.com
-clientcert.gamma.redoxstage.com
 explore.redoxengine.com
+clientcert.gamma.redoxstage.com
 docs.redoxengine.com
 fhir.redoxengine.com
 blob.gamma.redoxstage.com
@@ -905,9 +905,9 @@ www.visa.com.vn
 visa.co.za
 www.practicalmoneyskills.com
 visa.com.au
+developer.authorize.net
 bm.visa.com
 www.authorize.net
-developer.authorize.net
 www.visa.com.cn
 cw.visa.com
 www.visa.com.mx
@@ -1182,8 +1182,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -1360,12 +1360,12 @@ share.doppler.com
 *.mdvmm.xyz
 www.abritel.fr
 www.flights.com
-www.ebookers.fi
 www.fewo-direkt.de
+www.ebookers.fi
 www.bookabach.co.nz
 www.cheaptickets.com
-*.lastminute.com.au
 www.carrentals.com
+*.lastminute.com.au
 www.lastminute.com.au
 www.lastminute.co.nz
 bookus.expediacruises.com
@@ -1379,8 +1379,8 @@ www.wotif.com
 www.expediaagents.com
 www.orbitz.com
 *.expediacruises.com
-www.mrjet.se
 *.cheaptickets.com
+www.mrjet.se
 *.hotwire.com
 *.wotif.com
 www.vrbo.com
@@ -1513,8 +1513,8 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
-www.mundi.com.br
 www.swoodoo.com
+www.mundi.com.br
 www.momondo.com
 www.checkfelix.com
 www.hotelscombined.com
@@ -1592,8 +1592,8 @@ partners.etoro.com
 billing.etoro.com
 kyc.etoro.com
 api.etoro.com
-delta.app
 push-demo-lightstreamer.cloud.etoro.com
+delta.app
 aggregator.etoro.com
 wallet.etoro.com
 bullsheet.me
@@ -1681,8 +1681,8 @@ payoneer.com.cn
 *.payoneer.com
 payoneer.com.cn
 download.krisp.ai
-upld.krisp.ai
 teams.krisp.ai
+upld.krisp.ai
 analytics.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1945,10 +1945,10 @@ www.urbanclap.com
 www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
-amp.reddit.com
-*.redditblog.com
-meta-api.reddit.com
 matrix.redditspace.com
+meta-api.reddit.com
+*.redditblog.com
+amp.reddit.com
 *.redditinc.com
 *.spiketrap.io
 mod.reddit.com
@@ -2090,8 +2090,8 @@ internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
-*.exodus.io
 *.exodus.com
+*.exodus.io
 *.a.exodus.io
 *.exodus.io
 *.a.exodus.io
@@ -2140,8 +2140,8 @@ internal-docs.netlify.com
 supportal.netlify.app
 world.hey.com
 launchpad.37signals.com
-3.basecamp.com
 *.hey.com
+3.basecamp.com
 *.hey.com
 3.basecamp.com
 launchpad.37signals.com
@@ -2184,10 +2184,10 @@ affiliate-id.tokopedia.com
 www.pangleglobal.com
 creatormarketplace.tiktok.com
 pay.tokopediax.com
-tiktok.com
-ads.tiktok.com
-partner.tiktokshop.com
 *.tiktok.com
+tiktok.com
+partner.tiktokshop.com
+ads.tiktok.com
 business.tiktok.com
 *.tiktokv.com
 *.tiktok.com
@@ -2531,8 +2531,8 @@ ecosystem-api.polygon.technology
 *.ppbdev.com
 super6.skysports.com
 itv7.itv.com
-*.amazon.com.ng
 *.amazon.com.co
+*.amazon.com.ng
 *.amazon.co.za
 *.amazon.se
 *.amazon.cl
@@ -2546,8 +2546,8 @@ amazonpayinsurance.in
 *.amazon.sa
 *.amazon.com.tr
 *.amazon.de
-*.amazon.com.br
 *.amazon.cn
+*.amazon.com.br
 *.amazon.nl
 *.amazon.fr
 *.amazon.co.jp
@@ -2682,8 +2682,8 @@ kubernetes.io
 k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
-docs.datastax.com
 langflow.datastax.com
+docs.datastax.com
 langflow.org
 www.datastax.com
 astra.datastax.com
@@ -2888,7 +2888,8 @@ www.globalhotelchoices.com
 blueskytours.globalbookingsolutions.com
 booking.cheapcaribbean.com
 booking.applevacations.com
-www.beachbound.com
+book.beachbound.com
+www.triseptsolutions.com
 www.funjet.com
 res.universalorlandovacations.com
 res.vacations.united.com
@@ -2897,8 +2898,7 @@ res.funjet.com
 jira.hyattdev.com
 new.www.vaxvacationaccess.com
 www.hyattinclusivecollection.com
-www.triseptsolutions.com
-book.beachbound.com
+www.beachbound.com
 login.en.travelbrandsagent.com
 vacations.united.com
 www.cheapcaribbean.com
@@ -3225,13 +3225,13 @@ support.steampowered.com
 developer.valvesoftware.com
 www.teamfortress.com
 www.counter-strike.net
-www.dota2.com
 partner.steampowered.com
+www.dota2.com
 partner.steamgames.com
 store.steampowered.com
 steamcommunity.com
-api.steampowered.com
 help.steampowered.com
+api.steampowered.com
 www.valvesoftware.com
 www.dota2.com
 support.steampowered.com
@@ -3333,17 +3333,17 @@ wiki.grab.com
 kartaview.org
 manage.grab.co
 *.grab-sure.com
-*.grab.co
 grab.careers
+*.grab.co
 gifts.grab.com
 *.grabpay.com
 api.grabpay.com
 *.ovo.id
 p.grabtaxi.com
 *.taralite.com
-jira.grab.com
 *.grabtaxi.com
 *.myteksi.net
+jira.grab.com
 *.grab.com
 *.myteksi.com
 *.myteksi.net
@@ -3539,8 +3539,8 @@ api.blockchain.info
 ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
-account.brave.com
 search.brave.com
+account.brave.com
 talk.brave.com
 brave.com
 brave.com
@@ -3856,9 +3856,9 @@ checkout.vimeo.com
 staging.magisto.com
 applause1.magisto.com
 www.livestream.com
-donations.livestream.com
 embed.vhx.tv
 vimeo.magisto.com
+api.vhx.tv
 *.cloud.vimeo.com
 *.vimeo.com
 *.vhx.tv
