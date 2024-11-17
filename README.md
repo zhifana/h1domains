@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 17 07:40:56 UTC 2024)
+## Domains with Bounties (Last Updated Sun Nov 17 08:22:46 UTC 2024)
 ```
 connect.secure.wellsfargo.com
 *.wellsfargo.com
@@ -111,8 +111,8 @@ outlook.insightly.com
 marketing.na1.insightly.com
 mobileapi.na1.insightly.com
 login.insightly.com
-crm.na1.insightly.com
 accounts.insightly.com
+crm.na1.insightly.com
 crm.na1.insightly.com
 accounts.insightly.com
 outlook.insightly.com
@@ -128,8 +128,8 @@ console.circle.com
 api.circle.com
 app.circle.com
 console.circle.com
-*.varonis.net
 *.varonis.io
+*.varonis.net
 *.varonis.com
 *.varonis.com
 *.varonis.io
@@ -524,8 +524,8 @@ rewire.com
 cards.remitly.io
 auth.remitly.com
 app.rewire.to
-api.remitly.io
 blog.remitly.com
+api.remitly.io
 remitly.com
 *.int.remitly.com
 *.dev.remitly.com
@@ -555,11 +555,11 @@ getworldcoin.com
 id.worldcoin.org
 worldcoin.org
 *.worldcoin.dev
-*.consumer.worldcoin.org
 *.toolsforhumanity.com
-*.worldcoin.org
+*.consumer.worldcoin.org
 toolsforhumanity.com
 developer.worldcoin.org
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -704,17 +704,17 @@ paymentcomponent.booking.com
 autocomplete.booking.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
+spark.fareharbor.com
 readonly.fareharbor.com
 demo.fareharbor.com
-spark.fareharbor.com
 sites.fareharbor.com
 careers.booking.com
 marketing.fareharbor.com
 compass.fareharbor.com
 *.fareharbor.engineering
 fhdn.fareharbor.com
-accommodations.booking.com
 flights.booking.com
+accommodations.booking.com
 fareharborsites.com
 *.fareharbor.com
 *.booking.com
@@ -846,8 +846,8 @@ launch.gamma.redoxstage.com
 sftp.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
 help.redoxengine.com
-clientcert.gamma.redoxstage.com
 explore.redoxengine.com
+clientcert.gamma.redoxstage.com
 docs.redoxengine.com
 fhir.redoxengine.com
 blob.gamma.redoxstage.com
@@ -905,9 +905,9 @@ www.visa.com.vn
 visa.co.za
 www.practicalmoneyskills.com
 visa.com.au
-developer.authorize.net
 bm.visa.com
 www.authorize.net
+developer.authorize.net
 www.visa.com.cn
 cw.visa.com
 www.visa.com.mx
@@ -1043,14 +1043,14 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 sync.services.mozilla.com
 vpn.mozilla.org
 push.services.mozilla.com
-phabricator.allizom.org
 addons.allizom.org
+phabricator.allizom.org
 lando.services.mozilla.com
 relay.firefox.com
 crash-reports.allizom.org
 merino.services.mozilla.com
-profiler.firefox.com
 firefox-ci-tc.services.mozilla.com
+profiler.firefox.com
 hg.mozilla.org
 community-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
@@ -1128,11 +1128,11 @@ hiltonhotels.jp
 *.oklink.com
 priority.eu-east-1.indriverapp.com
 messenger.eu-east-1.indriverapp.com
-external.indrive.dev
+file-storage-front.eu-east-1.indriverapp.com
 debug.clairvoyance.indrive.tech
+external.indrive.dev
 ingest.clairvoyance.indrive.tech
 injob.indriver.com
-file-storage-front.eu-east-1.indriverapp.com
 super-services.indriverapp.com
 watchdocs.indriverapp.com
 ci.indrive.dev
@@ -1182,8 +1182,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -1201,12 +1201,12 @@ http://miro.com/blog
 oneview.malwarebytes.com
 *.cloud.malwarebytes.com
 cloud.malwarebytes.com
-*.mwbsys.com
 *.mbamupdates.com
 my.malwarebytes.com
 *.threatdown.com
 www.malwarebytes.com
 *.malwarebytes.com
+*.mwbsys.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1348,8 +1348,8 @@ share.doppler.com
 *.meebits.app
 *.yugalabs.io
 *.otherside.xyz
-*.yuga.com
 *.cryptopunks.app
+*.yuga.com
 *.boredapeyachtclub.com
 *.boredapeyachtclub.com
 *.yuga.com
@@ -1361,17 +1361,17 @@ share.doppler.com
 www.hotwirepartnercentral.com
 www.abritel.fr
 www.flights.com
+www.ebookers.fi
 www.fewo-direkt.de
 www.stayz.com.au
-www.ebookers.fi
 www.bookabach.co.nz
 www.cheaptickets.com
-www.carrentals.com
 *.lastminute.com.au
+www.carrentals.com
 www.lastminute.com.au
+www.expediagroup.com
 www.lastminute.co.nz
 bookus.expediacruises.com
-www.expediagroup.com
 *.lastminute.co.nz
 www.ebookers.com
 *.carrentals.com
@@ -1382,8 +1382,8 @@ www.wotif.com
 www.expediaagents.com
 www.orbitz.com
 *.expediacruises.com
-*.cheaptickets.com
 www.mrjet.se
+*.cheaptickets.com
 www.travelocity.com
 *.vrbo.com
 *.hotwire.com
@@ -1446,8 +1446,8 @@ read.amazon.com
 a4k.amazon.com
 blueprints.amazon.com
 skills-store.amazon.com
-alexaanswers.amazon.com
 creator.amazon.com
+alexaanswers.amazon.com
 alexa.amazon.com
 read.amazon.com
 alexaanswers.amazon.com
@@ -1647,9 +1647,9 @@ admin.instacart.com
 shoppers.instacart.com
 demo.cloud.databricks.com
 marketplace.databricks.com
-support.databricks.com
 advocates.databricks.com
 docs.databricks.com
+support.databricks.com
 kb.databricks.com
 labs.databricks.com
 community.databricks.com
@@ -1679,8 +1679,8 @@ payoneer.com.cn
 *.payoneer.com
 *.payoneer.com
 payoneer.com.cn
-download.krisp.ai
 upld.krisp.ai
+download.krisp.ai
 teams.krisp.ai
 analytics.krisp.ai
 krisp.ai
@@ -1722,6 +1722,7 @@ www.evernote.com
 www.evernote.com
 accounts.evernote.com
 api.evernote.com
+hc2services.com
 *.singspacegame.com
 *.hmxwebservices.com
 *.epicgames.dev
@@ -1962,8 +1963,8 @@ m.reddit.com
 *.snooguts.net
 ads.reddit.com
 *.memorable.io
-business.reddithelp.com
 api.reddit.com
+business.reddithelp.com
 sh.reddit.com
 developers.reddit.com
 *.reddit.com
@@ -2017,8 +2018,8 @@ wp-integ.chime.com
 wp-qa.chime.com
 *.chimecard.com
 *.1debit.com
-wp-dev5.chime.com
 www.chime.com
+wp-dev5.chime.com
 app.staging.saltlabs.com
 app.chime.com
 *.chimebank.com
@@ -2088,8 +2089,8 @@ internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
-*.exodus.com
 *.exodus.io
+*.exodus.com
 *.a.exodus.io
 *.exodus.io
 *.a.exodus.io
@@ -2181,13 +2182,13 @@ careers.tiktok.com
 affiliate-id.tokopedia.com
 www.pangleglobal.com
 creatormarketplace.tiktok.com
-*.tiktok.com
-*.tiktokv.com
 business.tiktok.com
 pay.tokopediax.com
 tiktok.com
 ads.tiktok.com
 partner.tiktokshop.com
+*.tiktok.com
+*.tiktokv.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2429,8 +2430,8 @@ social.playstation.com
 wallets.api.playstation.com
 my.playstation.com
 transact.playstation.com
-ca.account.sony.com
 *.api.playstation.com
+ca.account.sony.com
 *.sonyentertainmentnetwork.com
 my.account.sony.com
 direct.playstation.com
@@ -3082,8 +3083,8 @@ sandbox.braintreegateway.com
 *.venmo.com
 paypal.me
 *.xoom.com
-*.paypal.com
 *.braintreepayments.com
+*.paypal.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3223,8 +3224,8 @@ support.steampowered.com
 developer.valvesoftware.com
 www.teamfortress.com
 www.counter-strike.net
-www.dota2.com
 partner.steampowered.com
+www.dota2.com
 partner.steamgames.com
 www.valvesoftware.com
 store.steampowered.com
@@ -3251,9 +3252,9 @@ app.mona.co
 pay.crypto.com
 tax.crypto.com
 merchant.crypto.com
+developer-platform-api.crypto.com
 web.crypto.com
 www.crypto.com
-developer-platform-api.crypto.com
 *.crypto.com
 *.crypto.com
 *.mona.co
@@ -3527,8 +3528,8 @@ www.starbucks.com
 app.starbucks.com
 openapi.starbucks.com
 secureui.starbucks.com
-ws.blockchain.info
 www.blockchain.info
+ws.blockchain.info
 api.blockchain.info
 *.blockchain.com
 *.blockchain.com
@@ -3641,9 +3642,9 @@ secure-dfadmin.deriv.com
 cashier.deriv.com
 derivws.com
 *.derivws.com
-*.deriv.com
-*.binary.com
 app.deriv.com
+*.binary.com
+*.deriv.com
 oauth.deriv.com
 smarttrader.deriv.com
 api.deriv.com
@@ -3857,6 +3858,7 @@ www.livestream.com
 embed.vhx.tv
 vimeo.magisto.com
 api.vhx.tv
+donations.livestream.com
 *.cloud.vimeo.com
 *.vimeo.com
 *.vhx.tv
@@ -3925,9 +3927,9 @@ waf.cumulusfire.net
 secure.tumblr.com
 embed.tumblr.com
 *.srvcs.tumblr.com
-safe.tumblr.com
-t.umblr.com
 akismet.com
+t.umblr.com
+safe.tumblr.com
 gravatar.com
 simperium.com
 api.tumblr.com
@@ -4010,9 +4012,9 @@ spaces.pm
 slackatwork.com
 slack-imgs.com
 *.quip.com
-api.slack.com
 app.slack.com
 slack.com
+api.slack.com
 slack.com
 api.slack.com
 slackb.com
