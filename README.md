@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 17 08:22:46 UTC 2024)
+## Domains with Bounties (Last Updated Sun Nov 17 08:44:10 UTC 2024)
 ```
 connect.secure.wellsfargo.com
 *.wellsfargo.com
@@ -91,8 +91,8 @@ gleague.nba.com
 stats.nba.com
 cms.nba.com
 identity.nba.com
-www.nba.com
 bal.nba.com
+www.nba.com
 www.nba.com
 gleague.nba.com
 2kleague.nba.com
@@ -122,9 +122,9 @@ login.insightly.com
 mobileapi.insightly.com
 http://api.na1.insightly.com/v3.1/
 marketing.na1.insightly.com
-app.circle.com
 api.circle.com
 console.circle.com
+app.circle.com
 api.circle.com
 app.circle.com
 console.circle.com
@@ -521,9 +521,9 @@ app3.rewire.to
 *.int.remitly.com
 careers.remitly.com
 rewire.com
-cards.remitly.io
 auth.remitly.com
 app.rewire.to
+cards.remitly.io
 blog.remitly.com
 api.remitly.io
 remitly.com
@@ -555,8 +555,8 @@ getworldcoin.com
 id.worldcoin.org
 worldcoin.org
 *.worldcoin.dev
-*.toolsforhumanity.com
 *.consumer.worldcoin.org
+*.toolsforhumanity.com
 toolsforhumanity.com
 developer.worldcoin.org
 *.worldcoin.org
@@ -659,13 +659,13 @@ www.mercadolibre.com.uy
 www.mercadolibre.com.pe
 www.mercadopago.com.pe
 www.mercadolibre.com.co
-api.mercadopago.com
 www.mercadolibre.com.ar
+api.mercadopago.com
 www.mercadopago.com.co
 www.mercadopago.com.br
 www.mercadolibre.cl
-www.mercadolivre.com.br
 api.mercadolibre.com
+www.mercadolivre.com.br
 www.mercadopago.cl
 www.mercadopago.com.ar
 api.mercadopago.com
@@ -1182,8 +1182,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -1315,8 +1315,8 @@ admin.8x8.com
 *.napoleonsports.be
 *.superbet.pl
 web3.moonpay.com
-*.hypermint.com
 sell.moonpay.com
+*.hypermint.com
 auth.moonpay.com
 api.moonpay.com
 buy.moonpay.com
@@ -1361,17 +1361,17 @@ share.doppler.com
 www.hotwirepartnercentral.com
 www.abritel.fr
 www.flights.com
-www.ebookers.fi
 www.fewo-direkt.de
 www.stayz.com.au
+www.ebookers.fi
 www.bookabach.co.nz
 www.cheaptickets.com
-*.lastminute.com.au
 www.carrentals.com
+*.lastminute.com.au
 www.lastminute.com.au
-www.expediagroup.com
 www.lastminute.co.nz
 bookus.expediacruises.com
+www.expediagroup.com
 *.lastminute.co.nz
 www.ebookers.com
 *.carrentals.com
@@ -1382,8 +1382,8 @@ www.wotif.com
 www.expediaagents.com
 www.orbitz.com
 *.expediacruises.com
-www.mrjet.se
 *.cheaptickets.com
+www.mrjet.se
 www.travelocity.com
 *.vrbo.com
 *.hotwire.com
@@ -1512,8 +1512,8 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
-www.mundi.com.br
 www.swoodoo.com
+www.mundi.com.br
 www.momondo.com
 www.checkfelix.com
 www.hotelscombined.com
@@ -1591,8 +1591,8 @@ partners.etoro.com
 billing.etoro.com
 kyc.etoro.com
 api.etoro.com
-push-demo-lightstreamer.cloud.etoro.com
 delta.app
+push-demo-lightstreamer.cloud.etoro.com
 aggregator.etoro.com
 wallet.etoro.com
 bullsheet.me
@@ -1647,9 +1647,9 @@ admin.instacart.com
 shoppers.instacart.com
 demo.cloud.databricks.com
 marketplace.databricks.com
+support.databricks.com
 advocates.databricks.com
 docs.databricks.com
-support.databricks.com
 kb.databricks.com
 labs.databricks.com
 community.databricks.com
@@ -1722,7 +1722,6 @@ www.evernote.com
 www.evernote.com
 accounts.evernote.com
 api.evernote.com
-hc2services.com
 *.singspacegame.com
 *.hmxwebservices.com
 *.epicgames.dev
@@ -1963,8 +1962,8 @@ m.reddit.com
 *.snooguts.net
 ads.reddit.com
 *.memorable.io
-api.reddit.com
 business.reddithelp.com
+api.reddit.com
 sh.reddit.com
 developers.reddit.com
 *.reddit.com
@@ -2185,8 +2184,8 @@ creatormarketplace.tiktok.com
 business.tiktok.com
 pay.tokopediax.com
 tiktok.com
-ads.tiktok.com
 partner.tiktokshop.com
+ads.tiktok.com
 *.tiktok.com
 *.tiktokv.com
 *.tiktok.com
@@ -2681,8 +2680,8 @@ kubernetes.io
 k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
-langflow.datastax.com
 docs.datastax.com
+langflow.datastax.com
 langflow.org
 www.datastax.com
 astra.datastax.com
@@ -2887,17 +2886,17 @@ www.globalhotelchoices.com
 blueskytours.globalbookingsolutions.com
 booking.cheapcaribbean.com
 booking.applevacations.com
-book.beachbound.com
-www.triseptsolutions.com
-www.funjet.com
-res.universalorlandovacations.com
-res.vacations.united.com
 res.hyattinclusivecollection.com
-res.funjet.com
 jira.hyattdev.com
+res.funjet.com
 new.www.vaxvacationaccess.com
+res.universalorlandovacations.com
+www.funjet.com
+res.vacations.united.com
 www.hyattinclusivecollection.com
 www.beachbound.com
+book.beachbound.com
+www.triseptsolutions.com
 login.en.travelbrandsagent.com
 vacations.united.com
 www.cheapcaribbean.com
@@ -3075,8 +3074,8 @@ paypalobjects.com
 *.paypalcorp.com
 *.paydiant.com
 api.loanbuilder.com
-*.braintree-api.com
 sandbox.braintreegateway.com
+*.braintree-api.com
 *.paylution.com
 *.hyperwallet.com
 *.braintreegateway.com
@@ -3224,8 +3223,8 @@ support.steampowered.com
 developer.valvesoftware.com
 www.teamfortress.com
 www.counter-strike.net
-partner.steampowered.com
 www.dota2.com
+partner.steampowered.com
 partner.steamgames.com
 www.valvesoftware.com
 store.steampowered.com
@@ -3252,9 +3251,9 @@ app.mona.co
 pay.crypto.com
 tax.crypto.com
 merchant.crypto.com
+www.crypto.com
 developer-platform-api.crypto.com
 web.crypto.com
-www.crypto.com
 *.crypto.com
 *.crypto.com
 *.mona.co
@@ -3278,8 +3277,8 @@ demo.plaid.com
 my.plaid.com
 secure.plaid.com
 cdn.plaid.com
-plaid.com
 dashboard.plaid.com
+plaid.com
 production.plaid.com
 dashboard.plaid.com
 cdn.plaid.com
@@ -3528,8 +3527,8 @@ www.starbucks.com
 app.starbucks.com
 openapi.starbucks.com
 secureui.starbucks.com
-www.blockchain.info
 ws.blockchain.info
+www.blockchain.info
 api.blockchain.info
 *.blockchain.com
 *.blockchain.com
@@ -3550,8 +3549,8 @@ talk.brave.com
 account.brave.com
 rubygems.org
 rubygems.org
-yelptop100.com
 *.yelp-support.com
+yelptop100.com
 *.yelpwifi.com
 *.yelp.com
 *.yelp.com
@@ -3642,9 +3641,9 @@ secure-dfadmin.deriv.com
 cashier.deriv.com
 derivws.com
 *.derivws.com
+*.deriv.com
 app.deriv.com
 *.binary.com
-*.deriv.com
 oauth.deriv.com
 smarttrader.deriv.com
 api.deriv.com
@@ -3708,12 +3707,12 @@ www.bitstrips.com
 scan.snapchat.com
 code.playcanvas.com
 store.playcanvas.com
+story.snapchat.com
 relay.playcanvas.com
 msg.playcanvas.com
 rt.playcanvas.com
 launch.playcanvas.com
 store.snapchat.com
-story.snapchat.com
 login.playcanvas.com
 *.sc-corp.net
 spectacles.com
@@ -3927,9 +3926,9 @@ waf.cumulusfire.net
 secure.tumblr.com
 embed.tumblr.com
 *.srvcs.tumblr.com
-akismet.com
-t.umblr.com
 safe.tumblr.com
+t.umblr.com
+akismet.com
 gravatar.com
 simperium.com
 api.tumblr.com
@@ -3962,9 +3961,9 @@ irc.irccloud.com
 team-irc.irccloud.com
 api.irccloud.com
 *.irccloud-cdn.com
-*.irccloud.com
 www.irccloud.com
 blog.irccloud.com
+*.irccloud.com
 irccloud.com
 *.irccloud-cdn.com
 *.irccloud.com
