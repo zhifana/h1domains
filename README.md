@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 21 18:26:30 UTC 2024)
+## Domains with Bounties (Last Updated Thu Nov 21 18:49:40 UTC 2024)
 ```
 api.pab.porsche.com
 api.ppa.porsche.com
@@ -235,8 +235,8 @@ vfo03.vodafone.om
 stats-trafficcop-prod.nba.com
 content-api-nextgen-prod.nba.com
 core-api.nba.com
-stats.nba.com
 content-api-prod.nba.com
+stats.nba.com
 2kleague.nba.com
 gleague.nba.com
 id.nba.com
@@ -262,9 +262,9 @@ outlook.insightly.com
 marketing.na1.insightly.com
 mobileapi.insightly.com
 login.insightly.com
-accounts.insightly.com
-crm.na1.insightly.com
 mobileapi.na1.insightly.com
+crm.na1.insightly.com
+accounts.insightly.com
 crm.na1.insightly.com
 accounts.insightly.com
 outlook.insightly.com
@@ -787,9 +787,9 @@ builder.hostinger.com
 research.23andme.com
 store.23andme.com
 mediacenter.23andme.com
-api.23andme.com
-education.23andme.com
 medical.23andme.com
+education.23andme.com
+api.23andme.com
 blog.23andme.com
 you.23andme.com
 therapeutics.23andme.com
@@ -961,8 +961,8 @@ pay-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-staging.io
-connect-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
+connect-sandbox.gocardless.com
 api-sandbox.gocardless.com
 *.gocardless-lab.io
 *.gocardless-cicd.io
@@ -1261,8 +1261,8 @@ hiltonbusinessonline.com
 hiltonhotels.jp
 hiltonlocalbiz.com
 hilton.io
-*.hiltonbusinessonline.com
 *.hiltonhotels.jp
+*.hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com
 hilton.com
@@ -1282,8 +1282,8 @@ hiltonhotels.jp
 *.oklink.com
 priority.eu-east-1.indriverapp.com
 messenger.eu-east-1.indriverapp.com
-debug.clairvoyance.indrive.tech
 external.indrive.dev
+debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 injob.indriver.com
 super-services.indriverapp.com
@@ -1400,8 +1400,8 @@ jobs.kiwi.com
 tequila.kiwi.com
 auth.skypicker.com
 www.kiwi.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1499,9 +1499,9 @@ dashboard.doppler.com
 share.doppler.com
 *.mdvmm.xyz
 *.yugalabs.io
-*.cryptopunks.app
 *.boredapeyachtclub.com
 *.otherside.xyz
+*.cryptopunks.app
 *.meebits.app
 *.yuga.com
 *.boredapeyachtclub.com
@@ -1587,8 +1587,8 @@ zerobounce.net
 tools.deribit.com
 pb.deribit.com
 metrics.deribit.com
-insights.deribit.com
 *.deribit.com
+insights.deribit.com
 test.deribit.com
 *.deribit.com
 test.deribit.com
@@ -1791,8 +1791,8 @@ shoppers.instacart.com
 api.instacart.com
 admin.instacart.com
 *.instacart.tools
-*.instacart.com
 www.instacart.com
+*.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1801,9 +1801,9 @@ admin.instacart.com
 shoppers.instacart.com
 demo.cloud.databricks.com
 marketplace.databricks.com
-support.databricks.com
 advocates.databricks.com
 docs.databricks.com
+support.databricks.com
 kb.databricks.com
 labs.databricks.com
 community.databricks.com
@@ -1833,8 +1833,8 @@ payoneer.com.cn
 *.payoneer.com
 *.payoneer.com
 payoneer.com.cn
-download.krisp.ai
 upld.krisp.ai
+download.krisp.ai
 teams.krisp.ai
 analytics.krisp.ai
 krisp.ai
@@ -1854,8 +1854,8 @@ app.krisp.ai
 admin.wickr.com
 admin.wickr.com
 *.clubhouse.com
-*.joinclubhouse.com
 *.clubhouseapi.com
+*.joinclubhouse.com
 *.clubhouse.com
 *.joinclubhouse.com
 *.clubhouseapi.com
@@ -2167,8 +2167,8 @@ wp-integ.chime.com
 wp-qa.chime.com
 *.chimecard.com
 *.1debit.com
-www.chime.com
 wp-dev5.chime.com
+www.chime.com
 app.chime.com
 *.chimebank.com
 *.chmfin.com
@@ -2223,8 +2223,8 @@ internal-api-drive-stream.larksuite.com
 app.larksuite.com
 api.larksuite.com
 open.larksuite.com
-hackers_chosendomain.larksuite.com
 larksuite.com
+hackers_chosendomain.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2358,6 +2358,7 @@ seller-id.tokopedia.com
 shop-id.tokopedia.com
 pay.tokopediax.com
 meetiobook.com
+gaming.logicool.co.jp
 circle.logi.com
 accounts.logi.com
 *vc.logitech.com
@@ -2703,8 +2704,8 @@ amazonpayinsurance.in
 *.amazon.fr
 *.amazon.ae
 *.amazon.in
-*.amazon.de
 *.amazon.com
+*.amazon.de
 *.amazon.cn
 *.amazon.cl
 *.amazon.co.za
@@ -2830,8 +2831,8 @@ kubernetes.io
 k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
-langflow.datastax.com
 docs.datastax.com
+langflow.datastax.com
 langflow.org
 astra.datastax.com
 www.datastax.com
@@ -2995,8 +2996,8 @@ https://www.creditkarma.com/savings
 support.creditkarma.ca
 vault.omise.co
 offsite.omise.co
-www.opn.ooo
 www.omise.co
+www.opn.ooo
 dashboard.omise.co
 api.omise.co
 vault.omise.co
@@ -3376,8 +3377,8 @@ support.steampowered.com
 developer.valvesoftware.com
 www.teamfortress.com
 www.counter-strike.net
-partner.steampowered.com
 www.dota2.com
+partner.steampowered.com
 steamcommunity.com
 help.steampowered.com
 www.valvesoftware.com
@@ -3690,8 +3691,8 @@ api.blockchain.info
 ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
-search.brave.com
 account.brave.com
+search.brave.com
 talk.brave.com
 brave.com
 brave.com
@@ -3770,8 +3771,8 @@ api.grofers.com
 *.zomans.com
 *.runnr.in
 *.zomato.com
-*.hyperpure.com
 blinkit.com
+*.hyperpure.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3795,8 +3796,8 @@ cashier.deriv.com
 *.derivws.com
 oauth.deriv.com
 derivws.com
-api.deriv.com
 smarttrader.deriv.com
+api.deriv.com
 app.deriv.com
 *.binary.com
 *.deriv.com
@@ -3837,9 +3838,9 @@ shop.app
 accounts.shopify.com
 *.shopifycloud.com
 *.shopify.io
-admin.shopify.com
 *.shopify.com
 your-store.myshopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3871,8 +3872,8 @@ login.playcanvas.com
 spectacles.com
 my.snapchat.com
 snappublisher.snapchat.com
-forum.playcanvas.com
 blog.playcanvas.com
+forum.playcanvas.com
 businesshelp.snapchat.com
 playcanv.as
 kit.snapchat.com
@@ -3975,8 +3976,8 @@ next.airbnb.com
 *.airbnb-aws.com
 *.byairbnb.com
 api.airbnb.com
-*.hoteltonight.com
 *.hoteltonight-test.com
+*.hoteltonight.com
 *.muscache.com
 www.airbnb.com
 www.hoteltonight.com
@@ -4007,9 +4008,9 @@ checkout.vimeo.com
 staging.magisto.com
 applause1.magisto.com
 www.livestream.com
-donations.livestream.com
 embed.vhx.tv
 vimeo.magisto.com
+api.vhx.tv
 *.cloud.vimeo.com
 *.vimeo.com
 *.vhx.tv
@@ -4138,8 +4139,8 @@ prime.coinbase.com
 *.base.org
 *.coinbase.com
 api.coinbase.com
-coinbase.com
 commerce.coinbase.com
+coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
