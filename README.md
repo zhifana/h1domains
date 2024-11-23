@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov 23 11:16:56 UTC 2024)
+## Domains with Bounties (Last Updated Sat Nov 23 11:40:58 UTC 2024)
 ```
 api.pab.porsche.com
 api.ppa.porsche.com
@@ -51,7 +51,7 @@ connect-store.porsche.com
 api-frontend.pab.porsche.com
 capitalmarketsday.porsche.com
 porshedesign.com
-porsche-duesseldorf.de
+porschezentrumbremen.de
 porsche-zentrum-wuppertal.de
 api-frontend.pab.porsche.com
 api.emea.gravity.porsche.com
@@ -818,9 +818,9 @@ payments.hostinger.com
 builder.hostinger.com
 research.23andme.com
 store.23andme.com
-medical.23andme.com
-education.23andme.com
 api.23andme.com
+education.23andme.com
+medical.23andme.com
 therapeutics.23andme.com
 auth.23andme.com
 mediacenter.23andme.com
@@ -1243,11 +1243,11 @@ developer.mozilla.org
 crash-stats.allizom.org
 mozilla-pontoon-staging.herokuapp.com
 firefox.settings.services.mozilla.com
-www.mozilla.org
 accounts.firefox.com
 support.mozilla.org
 merino.services.mozilla.com
 addons.allizom.org
+www.mozilla.org
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
@@ -1366,8 +1366,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -1543,15 +1543,15 @@ share.doppler.com
 *.mdvmm.xyz
 www.abritel.fr
 www.flights.com
-www.ebookers.fi
 www.fewo-direkt.de
+www.ebookers.fi
 www.cheaptickets.com
-*.lastminute.com.au
 www.carrentals.com
+*.lastminute.com.au
 www.lastminute.com.au
-www.expediagroup.com
 www.lastminute.co.nz
 bookus.expediacruises.com
+www.expediagroup.com
 *.lastminute.co.nz
 *.carrentals.com
 *.travelocity.ca
@@ -1568,7 +1568,7 @@ www.hotels.com
 *.vrbo.com
 www.bookabach.co.nz
 *.expediacruises.com
-www.stayz.com.au
+www.travelocity.ca
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1629,8 +1629,8 @@ metrics.deribit.com
 read.amazon.com
 a4k.amazon.com
 skills-store.amazon.com
-alexaanswers.amazon.com
 creator.amazon.com
+alexaanswers.amazon.com
 alexa.amazon.com
 blueprints.amazon.com
 read.amazon.com
@@ -1906,7 +1906,7 @@ www.evernote.com
 www.evernote.com
 accounts.evernote.com
 api.evernote.com
-hc2services.com
+aquiris.com.br
 *.singspacegame.com
 *.hmxwebservices.com
 *.epicgames.dev
@@ -2124,10 +2124,10 @@ www.urbanclap.com
 www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
-matrix.redditspace.com
-meta-api.reddit.com
-*.redditblog.com
 amp.reddit.com
+*.redditblog.com
+meta-api.reddit.com
+matrix.redditspace.com
 *.redditinc.com
 mod.reddit.com
 redditforbusiness.com
@@ -2362,13 +2362,13 @@ creatormarketplace.tiktok.com
 partner.tiktokshop.com
 *.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 seller-id.tokopedia.com
 ads.tiktok.com
 www.pangleglobal.com
 *.tiktokv.com
 business.tiktok.com
 academy-outbound-ads.tiktok.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2389,6 +2389,7 @@ seller-id.tokopedia.com
 shop-id.tokopedia.com
 pay.tokopediax.com
 meetiobook.com
+gaming.logicool.co.jp
 circle.logi.com
 accounts.logi.com
 *vc.logitech.com
@@ -2614,8 +2615,8 @@ direct.playstation.com
 transact.playstation.com
 my.account.sony.com
 store.playstation.com
-api.direct.playstation.com
 ca.account.sony.com
+api.direct.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.playstation.net
@@ -2709,8 +2710,8 @@ ecosystem-api.polygon.technology
 *.ppbdev.com
 super6.skysports.com
 itv7.itv.com
-*.amazon.com.ng
 *.amazon.com.co
+*.amazon.com.ng
 *.amazon.co.za
 *.amazon.se
 *.amazon.cl
@@ -2720,9 +2721,9 @@ amazonpayinsurance.in
 *.amazon.eg
 *.amazon.sg
 *.amazon.com.br
-*.amazon.pl
 *.amazon.nl
 *.amazon.com.mx
+*.amazon.pl
 *.amazon.com.tr
 *.amazon.es
 *.amazon.sa
@@ -2732,10 +2733,10 @@ amazonpayinsurance.in
 *.amazon.ca
 *.amazon.com.au
 *.amazon.ae
-*.amazon.cn
-*.amazon.in
 *.amazon.com
 *.amazon.de
+*.amazon.in
+*.amazon.cn
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2860,8 +2861,8 @@ kubernetes.io
 k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
-docs.datastax.com
 langflow.datastax.com
+docs.datastax.com
 langflow.org
 astra.datastax.com
 www.datastax.com
@@ -3433,9 +3434,9 @@ app.mona.co
 pay.crypto.com
 tax.crypto.com
 merchant.crypto.com
-developer-platform-api.crypto.com
 web.crypto.com
 www.crypto.com
+developer-platform-api.crypto.com
 *.crypto.com
 auth.crypto.com
 *.crypto.com
@@ -3513,18 +3514,18 @@ wiki.grab.com
 *.myteksi.com
 kartaview.org
 manage.grab.co
+*.grabpay.com
 *.grab.co
 gifts.grab.com
-*.grabpay.com
 p.grabtaxi.com
 *.taralite.com
 *.grabtaxi.com
 grab.careers
 jira.grab.com
 *.myteksi.net
-*.ovo.id
-api.grabpay.com
 *.grab-sure.com
+api.grabpay.com
+*.ovo.id
 *.grab.com
 *.myteksi.com
 *.myteksi.net
@@ -3607,8 +3608,8 @@ logs.dashlane.com
 console.dashlane.com
 www.dashlane.com
 api.dashlane.com
-app.dashlane.com
 ws1.dashlane.com
+app.dashlane.com
 ws1.dashlane.com
 www.dashlane.com
 console.dashlane.com
@@ -3824,9 +3825,9 @@ secure-dfadmin.deriv.com
 cashier.deriv.com
 *.derivws.com
 oauth.deriv.com
+derivws.com
 api.deriv.com
 smarttrader.deriv.com
-derivws.com
 app.deriv.com
 *.binary.com
 *.deriv.com
@@ -3866,10 +3867,10 @@ arrive-server.shopifycloud.com
 *.shopify.io
 *.shopifycloud.com
 shop.app
-your-store.myshopify.com
 *.shopify.com
 accounts.shopify.com
 admin.shopify.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3890,18 +3891,18 @@ www.bitstrips.com
 scan.snapchat.com
 code.playcanvas.com
 store.playcanvas.com
+story.snapchat.com
 relay.playcanvas.com
 msg.playcanvas.com
 rt.playcanvas.com
 launch.playcanvas.com
 store.snapchat.com
-story.snapchat.com
 login.playcanvas.com
 spectacles.com
 my.snapchat.com
 snappublisher.snapchat.com
-forum.playcanvas.com
 blog.playcanvas.com
+forum.playcanvas.com
 businesshelp.snapchat.com
 playcanv.as
 kit.snapchat.com
@@ -3914,8 +3915,8 @@ www.bitmoji.com
 ads.snapchat.com
 business.snapchat.com
 accounts.snapchat.com
-*.sc-corp.net
 app.snapchat.com
+*.sc-corp.net
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -4071,8 +4072,8 @@ interseller.io
 support.greenhouse.io
 boards.greenhouse.io
 api.greenhouse.io
-www.greenhouse.io
 app.greenhouse.io
+www.greenhouse.io
 app.greenhouse.io
 boards.greenhouse.io
 api.greenhouse.io
@@ -4096,7 +4097,7 @@ cloudflareworkers.com
 *.teams.cloudflare.com
 *.cloudflarepartners.com
 one.dash.cloudflare.com
-api.cloudflare.com
+waf.cumulusfire.net
 dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
@@ -4109,8 +4110,8 @@ waf.cumulusfire.net
 secure.tumblr.com
 embed.tumblr.com
 *.srvcs.tumblr.com
-akismet.com
 t.umblr.com
+akismet.com
 gravatar.com
 simperium.com
 api.tumblr.com
@@ -4166,8 +4167,8 @@ pro.coinbase.com
 *.cbhq.net
 prime.coinbase.com
 *.base.org
-api.coinbase.com
 *.coinbase.com
+api.coinbase.com
 coinbase.com
 commerce.coinbase.com
 *.coinbase.com
