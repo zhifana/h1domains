@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 26 10:48:14 UTC 2024)
+## Domains with Bounties (Last Updated Tue Nov 26 11:17:57 UTC 2024)
 ```
 api.ppa.porsche.com
 es.porsche.com
@@ -194,8 +194,8 @@ middle-force.khealth.io
 anthem.khealth.com
 api.khealth.com
 *.capitalonegslbex.com
-*.capitalone.com
 *.capitaloneshopping.com
+*.capitalone.com
 *.capitalone.ca
 *.capitalone.com
 *.capitaloneshopping.com
@@ -206,7 +206,6 @@ gnocchi-www.buffalo-ggn.net
 *.wooga.com
 *.playwsop.com
 *.bingoblitz.com
-*.serious.li
 *.slotomania.com
 *.playtika.com
 *.bingoblitz.com
@@ -242,17 +241,17 @@ cdn.nba.com
 teamportal.nba.com
 syndication.nba.com
 cweb-ott.nba.com
+stats.wnba.com
 stats.gleague.nba.com
 stats.2kleague.nba.com
-stats.wnba.com
 corp-dev.nba.com
 manage-teams.nba.com
 vote.nba.com
 mcd.nba.com
 mcdalerts.nba.com
 elm.nba.com
-identity.nba.com
 gleague.nba.com
+identity.nba.com
 cdn-bal.nba.com
 www.nba.com
 www.wnba.com
@@ -316,8 +315,8 @@ api.circle.com
 app.circle.com
 console.circle.com
 *.varonis.net
-*.varonis.io
 *.varonis.com
+*.varonis.io
 *.varonis.com
 *.varonis.io
 *.varonis.net
@@ -399,13 +398,13 @@ api.dyson.ch
 api.dyson.ie
 api.fi.dyson.com
 *.cp.dyson.com
+api.dyson.be
 api.dyson.de
 www.dyson.ie
 www.dyson.se
 www.dyson.ch
 www.dyson.co.il
 www.dyson.nl
-api.dyson.be
 www.dyson.be
 www.dyson.dk
 www.gr.dyson.com
@@ -706,9 +705,9 @@ site.rewire.com
 ir.remitly.com
 *.int.remitly.com
 cards.remitly.io
-careers.remitly.com
 auth.remitly.com
 app.rewire.to
+careers.remitly.com
 api.remitly.io
 blog.remitly.com
 app3.rewire.to
@@ -820,9 +819,9 @@ hpanel.hostinger.com
 payments.hostinger.com
 builder.hostinger.com
 research.23andme.com
-medical.23andme.com
-education.23andme.com
 api.23andme.com
+education.23andme.com
+medical.23andme.com
 therapeutics.23andme.com
 auth.23andme.com
 mediacenter.23andme.com
@@ -873,7 +872,6 @@ www.mercadolibre.cl
 www.mercadopago.cl
 www.temu.com
 www.temu.com
-kyc-onboarding.booking.com
 supplier.auth.toag.booking.com
 metasearch-api.booking.com
 experiences.booking.com
@@ -902,7 +900,8 @@ accommodations.booking.com
 fareharborsites.com
 cars.booking.com
 taxi.booking.com
-portal.taxi.booking.com
+spark.fareharbor.com
+chat.booking.com
 *.fareharbor.com
 *.booking.com
 *.rentalcars.com
@@ -1039,9 +1038,9 @@ webhooks.gamma.redoxstage.com
 launch.gamma.redoxstage.com
 eets-sftp-listener.gamma.redoxstage.com
 www.redoxengine.com
+gamma.redoxstage.com
 10x.redoxengine.com
 testapi.redoxengine.com
-gamma.redoxstage.com
 dashboard.gamma.redoxstage.com
 app.gamma.redoxstage.com
 testapp.redoxengine.com
@@ -1182,10 +1181,10 @@ console.tink.com
 developer.currencycloud.com
 direct-demo.currencycloud.com
 yourdomain.freshcaller.com
-yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshchat.com
 yourdomain.myfreshworks.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1203,8 +1202,8 @@ api.avtoelon.uz
 krisha.kz
 id.avtoelon.uz
 avtoelon.uz
-m.avtoelon.uz
 id.kolesa.kz
+m.avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -1234,8 +1233,8 @@ phabricator.allizom.org
 lando.services.mozilla.com
 relay.firefox.com
 crash-reports.allizom.org
-profiler.firefox.com
 firefox-ci-tc.services.mozilla.com
+profiler.firefox.com
 hg.mozilla.org
 community-tc.services.mozilla.com
 shavar.services.mozilla.com
@@ -1321,8 +1320,8 @@ ingest.clairvoyance.indrive.tech
 injob.indriver.com
 super-services.indriverapp.com
 watchdocs.indriverapp.com
-wga.volans.tech
 ci.indrive.dev
+wga.volans.tech
 profile-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 auth.indrive.tech
@@ -1533,8 +1532,8 @@ share.doppler.com
 *.mdvmm.xyz
 *.yugalabs.io
 *.boredapeyachtclub.com
-*.cryptopunks.app
 *.otherside.xyz
+*.cryptopunks.app
 *.meebits.app
 *.yuga.com
 *.boredapeyachtclub.com
@@ -1620,8 +1619,8 @@ zerobounce.net
 tools.deribit.com
 pb.deribit.com
 metrics.deribit.com
-insights.deribit.com
 *.deribit.com
+insights.deribit.com
 test.deribit.com
 *.deribit.com
 test.deribit.com
@@ -1704,8 +1703,8 @@ www.momondo.com
 www.checkfelix.com
 www.cheapflights.com
 business.kayak.com
-www.swoodoo.com
 www.hotelscombined.com
+www.swoodoo.com
 www.kayak.com
 www.kayak.com
 www.swoodoo.com
@@ -1824,8 +1823,8 @@ shoppers.instacart.com
 api.instacart.com
 *.instacart.tools
 admin.instacart.com
-*.instacart.com
 www.instacart.com
+*.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1909,7 +1908,6 @@ www.evernote.com
 www.evernote.com
 accounts.evernote.com
 api.evernote.com
-hc2services.com
 *.singspacegame.com
 *.hmxwebservices.com
 *.epicgames.dev
@@ -2125,9 +2123,9 @@ www.urbanclap.com
 www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
-amp.reddit.com
-*.redditblog.com
 meta-api.reddit.com
+*.redditblog.com
+amp.reddit.com
 *.redditinc.com
 mod.reddit.com
 redditforbusiness.com
@@ -2146,9 +2144,9 @@ business.reddithelp.com
 *.reddit.com
 *.reddithelp.com
 matrix.redditspace.com
-ads.reddit.com
 developers.reddit.com
 accounts.reddit.com
+ads.reddit.com
 *.snooguts.net
 *.reddit.com
 *.redditmedia.com
@@ -2184,8 +2182,8 @@ platform.remix.com
 https://metroconnect.app.ridewithvia.com
 https://pt-runner.app.ridewithvia.com
 *.withbuddies.com
-*.scopely.com
 *.scopely.io
+*.scopely.com
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
@@ -2207,8 +2205,8 @@ app.chime.com
 app.staging.saltlabs.com
 app.saltlabs.com
 *.chimebank.com
-saltlabs.com
 *.chime.com
+saltlabs.com
 *.1debit.com
 *.chimebank.com
 *.chimecard.com
@@ -2437,8 +2435,8 @@ api.faraday.ai
 *.acronis.work
 *-api-*.acronis.com
 *.acronis.com
-beta-cloud.acronis.com
 account.acronis.com
+beta-cloud.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2733,8 +2731,8 @@ amazonpayinsurance.in
 *.amazon.ae
 *.amazon.de
 *.amazon.es
-*.amazon.fr
 *.amazon.it
+*.amazon.fr
 *.amazon.cn
 *.amazon.in
 *.amazon.com
@@ -2854,8 +2852,8 @@ kubernetes.io
 k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
-docs.datastax.com
 langflow.datastax.com
+docs.datastax.com
 langflow.org
 www.datastax.com
 astra.datastax.com
@@ -2892,8 +2890,8 @@ neoket.net
 sensei.pixiv.net
 vroid.com
 novel.pixiv.net
-coban.pixiv.net
 accounts.pixiv.net
+coban.pixiv.net
 hub.vroid.com
 payment.pixiv.net
 booth.pm
@@ -3060,23 +3058,23 @@ www.globalhotelchoices.com
 blueskytours.globalbookingsolutions.com
 booking.cheapcaribbean.com
 booking.applevacations.com
-res.hyattinclusivecollection.com
-jira.hyattdev.com
-res.funjet.com
-new.www.vaxvacationaccess.com
-res.universalorlandovacations.com
-www.funjet.com
-res.vacations.united.com
-www.beachbound.com
 book.beachbound.com
 www.triseptsolutions.com
+www.funjet.com
+res.universalorlandovacations.com
+res.vacations.united.com
+res.hyattinclusivecollection.com
+res.funjet.com
+jira.hyattdev.com
+new.www.vaxvacationaccess.com
+www.beachbound.com
 login.en.travelbrandsagent.com
 vacations.united.com
 res.en.travelbrandsagent.com
 res.skyteam.com
-res.blueskytours.globalbookingsolutions.com
-vacations.travelimpressions.com
 vacations.universalstudioshollywood.com
+login.fr.travelbrandsagent.com
+holidays-nz.fijiairways.com
 res.vacations.discoverycove.com
 hyatt.com
 www.hyatt.com
@@ -3262,9 +3260,9 @@ api.loanbuilder.com
 *.paypalcorp.com
 *.braintree-api.com
 paypal.me
-*.xoom.com
 *.paypal.com
 sandbox.braintreegateway.com
+*.xoom.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3303,8 +3301,8 @@ secure.chaturbate.com
 *.mmcdn.com
 billingsupport.chaturbate.com
 *.cb.dev
-chaturbate.com
 *.highwebmedia.com
+chaturbate.com
 *.highwebmedia.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -3519,8 +3517,8 @@ gifts.grab.com
 *.grabtaxi.com
 grab.careers
 jira.grab.com
-*.ovo.id
 api.grabpay.com
+*.ovo.id
 *.grab-sure.com
 p.grabtaxi.com
 *.grab.com
@@ -3701,8 +3699,8 @@ secureui.starbucks.com
 openapi.starbucks.com
 www.starbucks.ca
 app.starbucks.com
-www.starbucksreserve.com
 www.starbucks.com
+www.starbucksreserve.com
 www.starbucksreserve.com
 www.starbucks.ca
 www.starbucks.com
@@ -3719,8 +3717,8 @@ api.blockchain.info
 ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
-account.brave.com
 search.brave.com
+account.brave.com
 talk.brave.com
 brave.com
 brave.com
@@ -3763,8 +3761,8 @@ education.github.com
 *.githubusercontent.com
 npmjs.com
 npmjs.org
-*ubereats.com
 *.uberinternal.com
+*ubereats.com
 *.uberinternal.com
 *ubereats.com
 api.mapbox.com
@@ -3799,8 +3797,8 @@ api2.grofers.com
 *.zomans.com
 *.zomato.com
 *.hyperpure.com
-api.grofers.com
 blinkit.com
+api.grofers.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3898,8 +3896,8 @@ login.playcanvas.com
 spectacles.com
 my.snapchat.com
 snappublisher.snapchat.com
-forum.playcanvas.com
 blog.playcanvas.com
+forum.playcanvas.com
 businesshelp.snapchat.com
 playcanv.as
 kit.snapchat.com
@@ -3913,8 +3911,8 @@ www.bitmoji.com
 accounts.snapchat.com
 app.snapchat.com
 web.snapchat.com
-code.playcanvas.com
 *.sc-corp.net
+code.playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -4008,9 +4006,9 @@ api.airbnb.com
 *.muscache.com
 www.hoteltonight.com
 *.airbnbcitizen.com
+www.airbnb.com
 *.withairbnb.com
 *.airbnb.com
-www.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -4085,8 +4083,8 @@ www.greenhouse.io
 *.twimg.com
 *.vine.co
 gnip.com
-*.twitter.com
 x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4109,8 +4107,8 @@ waf.cumulusfire.net
 secure.tumblr.com
 embed.tumblr.com
 *.srvcs.tumblr.com
-akismet.com
 t.umblr.com
+akismet.com
 gravatar.com
 simperium.com
 api.tumblr.com
@@ -4144,9 +4142,9 @@ irc.irccloud.com
 team-irc.irccloud.com
 api.irccloud.com
 *.irccloud-cdn.com
+*.irccloud.com
 www.irccloud.com
 blog.irccloud.com
-*.irccloud.com
 irccloud.com
 *.irccloud-cdn.com
 *.irccloud.com
@@ -4195,8 +4193,8 @@ slack-imgs.com
 slack-status.com
 edgeapi.slack.com
 slack.com
-api.slack.com
 app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 slackb.com
@@ -4236,10 +4234,10 @@ ctf.hacker101.com
 www.wearehackerone.com
 errors.hackerone.net
 www.hackerone.com
-hackerone.com
 hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com
 api.hackerone.com
 app.pullrequest.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
