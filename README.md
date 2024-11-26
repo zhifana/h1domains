@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 26 18:27:21 UTC 2024)
+## Domains with Bounties (Last Updated Tue Nov 26 18:49:59 UTC 2024)
 ```
 api.ppa.porsche.com
 es.porsche.com
@@ -206,7 +206,6 @@ gnocchi-www.buffalo-ggn.net
 *.wooga.com
 *.playwsop.com
 *.bingoblitz.com
-*.serious.li
 *.slotomania.com
 *.playtika.com
 *.bingoblitz.com
@@ -298,8 +297,8 @@ marketing.na1.insightly.com
 mobileapi.insightly.com
 mobileapi.na1.insightly.com
 accounts.insightly.com
-crm.na1.insightly.com
 login.insightly.com
+crm.na1.insightly.com
 crm.na1.insightly.com
 accounts.insightly.com
 outlook.insightly.com
@@ -333,8 +332,8 @@ beacon.netflix.com
 meechum.netflix.com
 *.nflxext.com
 secure.netflix.com
-*.nflxvideo.net
 *.prod.dradis.netflix.com
+*.nflxvideo.net
 presentationtracking.netflix.com
 www.netflix.com
 *.nflxext.com
@@ -381,8 +380,8 @@ zelleservice.my.site.com
 ews-fusion.my.site.com
 platform.cat.earlywarning.io
 web.koho.ca
-webgateway.koho.ca
 usercontent.koho.ca
+webgateway.koho.ca
 app.koho.ca
 www.koho.ca
 web.koho.ca
@@ -706,14 +705,14 @@ site.rewire.com
 ir.remitly.com
 *.int.remitly.com
 cards.remitly.io
+careers.remitly.com
 auth.remitly.com
 app.rewire.to
-careers.remitly.com
 api.remitly.io
-rewire.com
 blog.remitly.com
 app3.rewire.to
 remitly.com
+rewire.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -890,8 +889,8 @@ paymentcomponent.booking.com
 autocomplete.booking.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
-readonly.fareharbor.com
 sites.fareharbor.com
+readonly.fareharbor.com
 careers.booking.com
 marketing.fareharbor.com
 compass.fareharbor.com
@@ -901,8 +900,8 @@ accommodations.booking.com
 fareharborsites.com
 cars.booking.com
 taxi.booking.com
-portal.taxi.booking.com
-spark.fareharbor.com
+chat.booking.com
+admin.booking.com
 *.fareharbor.com
 *.booking.com
 *.rentalcars.com
@@ -1042,9 +1041,9 @@ www.redoxengine.com
 gamma.redoxstage.com
 app.gamma.redoxstage.com
 evening-earth.gamma.redoxstage.com
+dashboard.gamma.redoxstage.com
 testapp.redoxengine.com
 testapi.redoxengine.com
-dashboard.gamma.redoxstage.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -1203,8 +1202,8 @@ api.avtoelon.uz
 krisha.kz
 id.avtoelon.uz
 avtoelon.uz
-m.avtoelon.uz
 id.kolesa.kz
+m.avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -1296,8 +1295,8 @@ hiltonlocalbiz.com
 hilton.io
 *.hiltonhotels.jp
 *.hilton.io
-*.hiltonbusinessonline.com
 hilton.com
+*.hiltonbusinessonline.com
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -1410,12 +1409,12 @@ mobile.s-pankki.fi
 extranet.s-pankki.fi
 digili.s-cloud.fi
 tunnistus.s-ryhma.fi
-www.prisma.fi
 www.s-kaupat.fi
+www.prisma.fi
 api.sokos.fi
 cfapi.voikukka.fi
-www.s-pankki.fi
 www.sokos.fi
+www.s-pankki.fi
 online.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
@@ -1501,8 +1500,8 @@ admin.8x8.com
 *.napoleonsports.be
 *.superbet.pl
 web3.moonpay.com
-sell.moonpay.com
 *.hypermint.com
+sell.moonpay.com
 auth.moonpay.com
 api.moonpay.com
 buy.moonpay.com
@@ -1532,9 +1531,9 @@ dashboard.doppler.com
 share.doppler.com
 *.mdvmm.xyz
 *.yugalabs.io
-*.cryptopunks.app
 *.boredapeyachtclub.com
 *.otherside.xyz
+*.cryptopunks.app
 *.meebits.app
 *.yuga.com
 *.boredapeyachtclub.com
@@ -1619,8 +1618,8 @@ zerobounce.net
 tools.deribit.com
 pb.deribit.com
 metrics.deribit.com
-*.deribit.com
 insights.deribit.com
+*.deribit.com
 test.deribit.com
 *.deribit.com
 test.deribit.com
@@ -1744,8 +1743,8 @@ social-trading.exness.com
 https://my.exness.com/pa/socialtrading
 exness.com
 api.smtp2go.com
-app.smtp2go.com
 smtp2go.com
+app.smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
@@ -1908,6 +1907,7 @@ www.evernote.com
 www.evernote.com
 accounts.evernote.com
 api.evernote.com
+aquiris.com.br
 *.singspacegame.com
 *.hmxwebservices.com
 *.epicgames.dev
@@ -2142,8 +2142,8 @@ sh.reddit.com
 business.reddithelp.com
 *.reddithelp.com
 matrix.redditspace.com
-developers.reddit.com
 accounts.reddit.com
+developers.reddit.com
 ads.reddit.com
 *.reddit.com
 *.redditmedia.com
@@ -2182,8 +2182,8 @@ platform.remix.com
 https://metroconnect.app.ridewithvia.com
 https://pt-runner.app.ridewithvia.com
 *.withbuddies.com
-*.scopely.io
 *.scopely.com
+*.scopely.io
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
@@ -2197,8 +2197,8 @@ wp-integ.chime.com
 wp-qa.chime.com
 *.chimecard.com
 *.1debit.com
-wp-dev5.chime.com
 www.chime.com
+wp-dev5.chime.com
 app.chime.com
 *.chmfin.com
 *.saltlabs.com
@@ -2357,16 +2357,16 @@ pay.tokopediax.com
 fp-sg.tiktokv.com
 seller-id.tokopedia.com
 creatormarketplace.tiktok.com
-academy-outbound-ads.tiktok.com
 affiliate-id.tokopedia.com
 developers.tiktok.com
-*.tiktokv.com
+academy-outbound-ads.tiktok.com
 live-backstage.tiktok.com
+*.tiktokv.com
 tiktok.com
 partner.tiktokshop.com
 www.pangleglobal.com
-ads.tiktok.com
 *.tiktok.com
+ads.tiktok.com
 business.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2433,8 +2433,8 @@ api.faraday.ai
 *.5nine.com
 *.acronis.work
 *-api-*.acronis.com
-account.acronis.com
 beta-cloud.acronis.com
+account.acronis.com
 *.acronis.com
 *-api-*.acronis.com
 *.acronis.com
@@ -2708,8 +2708,8 @@ ecosystem-api.polygon.technology
 *.ppbdev.com
 super6.skysports.com
 itv7.itv.com
-*.amazon.com.co
 *.amazon.com.ng
+*.amazon.com.co
 *.amazon.co.za
 *.amazon.se
 *.amazon.cl
@@ -2718,8 +2718,8 @@ amazonpayinsurance.in
 *.amazon.eg
 *.amazon.sg
 *.amazon.com.br
-*.amazon.com.mx
 *.amazon.pl
+*.amazon.com.mx
 *.amazon.com.tr
 *.amazon.sa
 *.amazon.co.jp
@@ -2732,9 +2732,9 @@ amazonpayinsurance.in
 *.amazon.ae
 *.amazon.fr
 *.amazon.in
+*.amazon.cn
 *.amazon.com
 *.amazon.ca
-*.amazon.cn
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2798,8 +2798,8 @@ moments.marriottbonvoy.com
 jobs.marriott.com
 homes-and-villas.marriott.com
 *uat.marriott.com
-hotel-deals.marriott.com
 all-inclusive.marriott.com
+hotel-deals.marriott.com
 www.ritzcarlton.com
 careers.marriott.com
 traveler.marriott.com
@@ -3057,24 +3057,24 @@ www.globalhotelchoices.com
 blueskytours.globalbookingsolutions.com
 booking.cheapcaribbean.com
 booking.applevacations.com
-res.hyattinclusivecollection.com
-jira.hyattdev.com
-res.funjet.com
-new.www.vaxvacationaccess.com
-res.universalorlandovacations.com
-www.funjet.com
-res.vacations.united.com
 www.beachbound.com
-book.beachbound.com
+www.funjet.com
+res.universalorlandovacations.com
+res.vacations.united.com
+res.hyattinclusivecollection.com
+res.funjet.com
+jira.hyattdev.com
+new.www.vaxvacationaccess.com
 www.triseptsolutions.com
+book.beachbound.com
 login.en.travelbrandsagent.com
 vacations.united.com
 res.en.travelbrandsagent.com
 res.skyteam.com
-res.blueskytours.globalbookingsolutions.com
 vacations.travelimpressions.com
-login.fr.travelbrandsagent.com
-vacations.universalstudioshollywood.com
+res.blueskytours.globalbookingsolutions.com
+holidays-nz.fijiairways.com
+world.hyatt.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -3429,9 +3429,9 @@ app.mona.co
 pay.crypto.com
 tax.crypto.com
 merchant.crypto.com
-www.crypto.com
 developer-platform-api.crypto.com
 web.crypto.com
+www.crypto.com
 auth.crypto.com
 *.crypto.com
 *.crypto.com
@@ -3748,8 +3748,8 @@ api.github.com
 *.githubusercontent.com
 gist.github.com
 npmjs.com
-github.com
 classroom.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3795,9 +3795,9 @@ api2.grofers.com
 *.runnr.in
 *.zomans.com
 *.hyperpure.com
-blinkit.com
-*.zomato.com
 api.grofers.com
+*.zomato.com
+blinkit.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3848,8 +3848,8 @@ http://h1-your-domain.zendesk.com/sell
 http://h1-your-domain.zendesk.com/wfm/
 http://h1-your-domain.zendesk.com/qa/
 developer.zendesk.com
-yourcompany.udemy.com
 www.udemy.com
+yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 linkpop.com
@@ -3909,9 +3909,9 @@ business.snapchat.com
 www.bitmoji.com
 *.sc-corp.net
 app.snapchat.com
-web.snapchat.com
 code.playcanvas.com
 accounts.snapchat.com
+web.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -4106,8 +4106,8 @@ waf.cumulusfire.net
 secure.tumblr.com
 embed.tumblr.com
 *.srvcs.tumblr.com
-akismet.com
 t.umblr.com
+akismet.com
 gravatar.com
 simperium.com
 api.tumblr.com
@@ -4217,9 +4217,9 @@ apis.mail.yahoo.com
 yimg.com
 profile-photos-us-east-2.hackerone-user-content.com
 mta-sts.wearehackerone.com
-b5s.hackerone-ext-content.com
-hackathon-photos.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
+hackathon-photos.hackerone-user-content.com
+b5s.hackerone-ext-content.com
 *.vpn.hackerone.net
 hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -4231,10 +4231,10 @@ hackerone.live
 a5s.hackerone-ext-content.com
 ctf.hacker101.com
 www.wearehackerone.com
-errors.hackerone.net
-www.hackerone.com
-hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com
 api.hackerone.com
+errors.hackerone.net
+hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com
+www.hackerone.com
 app.pullrequest.com
 hackerone.com
 hackerone.com
