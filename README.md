@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec  3 04:47:48 UTC 2024)
+## Domains with Bounties (Last Updated Tue Dec  3 05:21:05 UTC 2024)
 ```
 www.starbucks.com.cn/
 www.starbucks.com.cn/
@@ -20,8 +20,8 @@ anthem.khealth.com
 api.khealth.io
 www.kpharmacyllc.com
 accounts.khealth.com
-start.khealth.com
 api.khealth.com
+start.khealth.com
 app.khealth.com
 kaccount.khealth.com
 salesforce.khealth.com
@@ -58,6 +58,7 @@ api.khealth.com
 *.serious.li
 gnocchi-www.buffalo-ggn.net
 *.seriously.com
+*.playwsop.com
 *.slotomania.com
 *.playtika.com
 *.bingoblitz.com
@@ -75,9 +76,9 @@ gnocchi-www.buffalo-ggn.net
 gnocchi-www.buffalo-ggn.net
 bestfiends.com
 vfo01.vodafone.om
-vfo02.vodafone.om
-apix.vodafone.om
 vfo03.vodafone.om
+apix.vodafone.om
+vfo02.vodafone.om
 www.vodafone.om
 www.vodafone.om
 apix.vodafone.om
@@ -149,8 +150,8 @@ marketing.na1.insightly.com
 mobileapi.insightly.com
 mobileapi.na1.insightly.com
 login.insightly.com
-accounts.insightly.com
 crm.na1.insightly.com
+accounts.insightly.com
 crm.na1.insightly.com
 accounts.insightly.com
 outlook.insightly.com
@@ -181,8 +182,8 @@ ichnaea.netflix.com
 beacon.netflix.com
 *.prod.ftl.netflix.com
 *.nflxext.com
-*.prod.dradis.netflix.com
 *.nflxvideo.net
+*.prod.dradis.netflix.com
 presentationtracking.netflix.com
 help.netflix.com
 secure.netflix.com
@@ -610,8 +611,8 @@ worldcoin.org
 developer.worldcoin.org
 id.worldcoin.org
 customer-sessions.arkoselabs.com
-verify.arkoselabs.com
 portal.arkoselabs.com
+verify.arkoselabs.com
 iframe.arkoselabs.com
 cdn.arkoselabs.com
 demo.arkoselabs.com
@@ -671,14 +672,14 @@ hpanel.hostinger.com
 payments.hostinger.com
 builder.hostinger.com
 research.23andme.com
-education.23andme.com
 medical.23andme.com
+education.23andme.com
 therapeutics.23andme.com
 blog.23andme.com
-mediacenter.23andme.com
 store.23andme.com
 you.23andme.com
 auth.23andme.com
+mediacenter.23andme.com
 api.23andme.com
 api.23andme.com
 auth.23andme.com
@@ -694,18 +695,18 @@ www.mercadopago.com.uy
 www.mercadolibre.com.pe
 www.mercadopago.com.pe
 www.mercadopago.com.mx
-www.mercadolibre.com.co
 www.mercadopago.cl
+www.mercadolibre.com.co
 www.mercadolibre.com.mx
 www.mercadolibre.com.uy
 www.mercadopago.com.ar
 www.mercadolivre.com.br
 api.mercadopago.com
 www.mercadopago.com.br
-www.mercadopago.com.co
-api.mercadolibre.com
-www.mercadolibre.com.ar
 www.mercadolibre.cl
+api.mercadolibre.com
+www.mercadopago.com.co
+www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -799,8 +800,8 @@ tableau.fareharbor.engineering
 fareharborsites.com
 *.bybit.com
 *.bybit.com
-api.au.frontegg.com
 portal.au.frontegg.com
+api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 api2.frontapp.com
@@ -877,8 +878,8 @@ api.wisdomtreeprimeapp.com
 eets.gamma.redoxstage.com
 sftp.gamma.redoxstage.com
 help.redoxengine.com
-clientcert.gamma.redoxstage.com
 explore.redoxengine.com
+clientcert.gamma.redoxstage.com
 docs.redoxengine.com
 fhir.redoxengine.com
 blob.gamma.redoxstage.com
@@ -891,9 +892,9 @@ gamma.redoxstage.com
 launch.gamma.redoxstage.com
 evening-earth.gamma.redoxstage.com
 www.redoxengine.com
+app.gamma.redoxstage.com
 testapp.redoxengine.com
 dashboard.gamma.redoxstage.com
-app.gamma.redoxstage.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -1143,8 +1144,8 @@ hiltonbusinessonline.com
 hiltonhotels.jp
 hiltonlocalbiz.com
 hilton.io
-*.hiltonbusinessonline.com
 hilton.com
+*.hiltonbusinessonline.com
 *.hiltonhotels.jp
 *.hilton.io
 *.hilton.com
@@ -1164,14 +1165,14 @@ hiltonhotels.jp
 *.oklink.com
 priority.eu-east-1.indriverapp.com
 messenger.eu-east-1.indriverapp.com
-debug.clairvoyance.indrive.tech
 external.indrive.dev
+debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 injob.indriver.com
 super-services.indriverapp.com
 watchdocs.indriverapp.com
-wga.volans.tech
 ci.indrive.dev
+wga.volans.tech
 profile-api.eu-east-1.indriverapp.com
 auth.indrive.tech
 argocd.indrive.dev
@@ -1381,8 +1382,8 @@ dashboard.doppler.com
 share.doppler.com
 *.mdvmm.xyz
 *.yugalabs.io
-*.boredapeyachtclub.com
 *.cryptopunks.app
+*.boredapeyachtclub.com
 *.otherside.xyz
 *.meebits.app
 *.yuga.com
@@ -1552,8 +1553,8 @@ www.momondo.com
 www.checkfelix.com
 www.cheapflights.com
 business.kayak.com
-www.swoodoo.com
 www.hotelscombined.com
+www.swoodoo.com
 www.kayak.com
 www.kayak.com
 www.swoodoo.com
@@ -1593,8 +1594,8 @@ social-trading.exness.com
 https://my.exness.com/pa/socialtrading
 exness.com
 api.smtp2go.com
-app.smtp2go.com
 smtp2go.com
+app.smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
@@ -1629,8 +1630,8 @@ push-demo-lightstreamer.cloud.etoro.com
 aggregator.etoro.com
 wallet.etoro.com
 bullsheet.me
-etoropartners.com
 api.etoro.com
+etoropartners.com
 delta.app
 www.etoro.com
 www.etoro.com
@@ -1978,9 +1979,9 @@ www.urbanclap.com
 www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
-amp.reddit.com
-*.redditblog.com
 meta-api.reddit.com
+*.redditblog.com
+amp.reddit.com
 *.redditinc.com
 mod.reddit.com
 redditforbusiness.com
@@ -1991,8 +1992,8 @@ m.reddit.com
 *.snooguts.net
 api.reddit.com
 *.memorable.io
-matrix.redditspace.com
 *.redditmedia.com
+matrix.redditspace.com
 *.spiketrap.io
 sh.reddit.com
 accounts.reddit.com
@@ -2052,8 +2053,8 @@ wp-integ.chime.com
 wp-qa.chime.com
 *.chimecard.com
 *.1debit.com
-wp-dev5.chime.com
 www.chime.com
+wp-dev5.chime.com
 *.chmfin.com
 app.staging.saltlabs.com
 app.chime.com
@@ -2155,8 +2156,8 @@ internal.netlify.com
 *.infra-prod.nsvcs.net
 *.onegraph.com
 api.netlify.com
-*.services.netlify.com
 app.netlify.com
+*.services.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -2216,11 +2217,11 @@ academy-outbound-ads.tiktok.com
 live-backstage.tiktok.com
 tiktok.com
 partner.tiktokshop.com
-*.tiktok.com
-ads.tiktok.com
-business.tiktok.com
-*.tiktokv.com
 affiliate-id.tokopedia.com
+*.tiktok.com
+business.tiktok.com
+ads.tiktok.com
+*.tiktokv.com
 creatormarketplace.tiktok.com
 www.pangleglobal.com
 *.tiktok.com
@@ -2564,8 +2565,8 @@ ecosystem-api.polygon.technology
 *.ppbdev.com
 super6.skysports.com
 itv7.itv.com
-*.amazon.com.co
 *.amazon.com.ng
+*.amazon.com.co
 *.amazon.co.za
 *.amazon.se
 *.amazon.cl
@@ -2579,18 +2580,18 @@ itv7.itv.com
 *.amazon.nl
 *.amazon.es
 *.amazon.it
+amazonpayinsurance.in
 *.amazon.com.au
 *.amazon.pl
-amazonpayinsurance.in
 *.amazon.cn
 *.amazon.ae
-*.amazon.co.jp
-*.amazon.co.uk
 *.amazon.ca
 *.amazon.fr
 *.amazon.de
-*.amazon.com
+*.amazon.co.uk
+*.amazon.co.jp
 *.amazon.in
+*.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2695,8 +2696,8 @@ www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
 *.guilded.gg
-blox.link
 *.roblox.com
+blox.link
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3402,8 +3403,8 @@ hotornot.com
 badoocdn.com
 getofficial.co
 www.bumble.com
-eu1.badoo.com
 chatdate.app
+eu1.badoo.com
 corp.badoo.com
 badoo.com
 www.bumble.com
@@ -3668,8 +3669,8 @@ secure-dfadmin.deriv.com
 cashier.deriv.com
 *.derivws.com
 oauth.deriv.com
-smarttrader.deriv.com
 api.deriv.com
+smarttrader.deriv.com
 app.deriv.com
 *.binary.com
 derivws.com
@@ -3851,8 +3852,8 @@ next.airbnb.com
 www.hoteltonight.com
 *.airbnbcitizen.com
 *.hoteltonight.com
-*.withairbnb.com
 api.airbnb.com
+*.withairbnb.com
 www.airbnb.com
 *.airbnb.com
 *.hoteltonight.com
@@ -4061,9 +4062,9 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 profile-photos-us-east-2.hackerone-user-content.com
-cover-photos.hackerone-user-content.com
-hackathon-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
+hackathon-photos.hackerone-user-content.com
+cover-photos.hackerone-user-content.com
 *.vpn.hackerone.net
 hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -4074,9 +4075,9 @@ reviewer.pullrequest.com
 hackerone.live
 ctf.hacker101.com
 www.wearehackerone.com
-a5s.hackerone-ext-content.com
-errors.hackerone.net
 api.hackerone.com
+errors.hackerone.net
+a5s.hackerone-ext-content.com
 app.pullrequest.com
 mta-sts.wearehackerone.com
 www.hackerone.com
