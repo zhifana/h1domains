@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec  5 23:21:01 UTC 2024)
+## Domains with Bounties (Last Updated Thu Dec  5 23:42:15 UTC 2024)
 ```
 bcny.com
 thebrowser.company
@@ -60,11 +60,10 @@ api.khealth.com
 *.justfall.lol
 *.justplay.lol
 *.1v1.lol
+*.redecor.com
 gnocchi-www.buffalo-ggn.net
 *.serious.li
 *.caesarsgames.com
-*.playwsop.com
-bestfiends.com
 *.slotomania.com
 *.playtika.com
 *.bingoblitz.com
@@ -96,23 +95,23 @@ content-api-nextgen-prod.nba.com
 core-api.nba.com
 content-api-prod.nba.com
 stats.nba.com
-manage-teams.nba.com
-mcd.nba.com
-mcdalerts.nba.com
-elm.nba.com
 syndication.nba.com
 cweb-ott.nba.com
 stats.gleague.nba.com
 stats.2kleague.nba.com
 stats.wnba.com
+manage-teams.nba.com
+mcd.nba.com
+mcdalerts.nba.com
+elm.nba.com
 bal.nba.com
 nbafedsvc.nba.com
 id.nba.com
 vote.nba.com
 gleague.nba.com
+identity.nba.com
 cdn-bal.nba.com
 cdn.nba.com
-identity.nba.com
 corp-dev.nba.com
 teamportal.nba.com
 www.wnba.com
@@ -155,8 +154,8 @@ outlook.insightly.com
 marketing.na1.insightly.com
 mobileapi.insightly.com
 mobileapi.na1.insightly.com
-accounts.insightly.com
 login.insightly.com
+accounts.insightly.com
 crm.na1.insightly.com
 crm.na1.insightly.com
 accounts.insightly.com
@@ -270,6 +269,7 @@ www.dyson.com.mx
 www.dyson.ae
 api.dyson.se
 www.dyson.cz
+www.dyson.co.nz
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -338,8 +338,8 @@ business.truecaller.com
 web.truecaller.com
 business-resources.truecaller.com
 *-noneu.truecaller.com
-*-eu.truecaller.com
 www.truecaller.com
+*-eu.truecaller.com
 *-asia-south1.truecaller.com
 *-eu.truecaller.com
 *-noneu.truecaller.com
@@ -545,17 +545,17 @@ taxis.booking.com
 autocomplete.booking.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
-readonly.fareharbor.com
 sites.fareharbor.com
+readonly.fareharbor.com
 careers.booking.com
 marketing.fareharbor.com
 *.fareharbor.engineering
 fhdn.fareharbor.com
 fareharborsites.com
 taxi.booking.com
-spark.fareharbor.com
 chat.booking.com
 admin.booking.com
+spark.fareharbor.com
 *.fareharbor.com
 *.booking.com
 *.rentalcars.com
@@ -615,8 +615,8 @@ api2.frontapp.com
 *.booztlet.com
 *.boozt.com
 *.booztlet.com
-*.travix.com
 *.travix.io
+*.travix.com
 *.trip.com
 *.trip.com
 *.travix.com
@@ -651,9 +651,9 @@ api-sandbox.gocardless.com
 *.gocardless-cicd.io
 www.gocardless.com
 manage-sandbox.gocardless.com
+*.gocardless-staging.io
 *.gocardless.io
 *.gocardless-banking.io
-*.gocardless-staging.io
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -743,8 +743,8 @@ www.visa.com.vn
 visa.co.za
 www.practicalmoneyskills.com
 visa.com.au
-developer.authorize.net
 bm.visa.com
+developer.authorize.net
 www.visa.com.cn
 cw.visa.com
 www.visa.com.mx
@@ -836,8 +836,8 @@ developer.currencycloud.com
 direct-demo.currencycloud.com
 yourdomain.freshchat.com
 yourdomain.freshcaller.com
-yourdomain.myfreshworks.com
 yourdomain.freshservice.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -968,8 +968,8 @@ hiltonhotels.jp
 *.oklink.com
 priority.eu-east-1.indriverapp.com
 messenger.eu-east-1.indriverapp.com
-debug.clairvoyance.indrive.tech
 external.indrive.dev
+debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 injob.indriver.com
 super-services.indriverapp.com
@@ -1062,8 +1062,8 @@ oneview.malwarebytes.com
 mobile.s-pankki.fi
 extranet.s-pankki.fi
 tunnistus.s-ryhma.fi
-www.s-kaupat.fi
 www.prisma.fi
+www.s-kaupat.fi
 api.sokos.fi
 cfapi.voikukka.fi
 www.sokos.fi
@@ -1084,9 +1084,9 @@ api.sokos.fi
 cfapi.voikukka.fi
 auth.skypicker.com
 jobs.kiwi.com
+*.skypicker.com
 tequila.kiwi.com
 www.kiwi.com
-*.skypicker.com
 *.kiwi.com
 *.kiwi.com
 *.skypicker.com
@@ -1199,10 +1199,10 @@ share.doppler.com
 *.cryptopunks.app
 *.mdvmm.xyz
 www.abritel.fr
-www.fewo-direkt.de
 www.ebookers.fi
-www.carrentals.com
+www.fewo-direkt.de
 *.lastminute.com.au
+www.carrentals.com
 *.lastminute.co.nz
 *.travelocity.ca
 www.expediataap.com
@@ -1212,8 +1212,8 @@ www.orbitz.com
 www.mrjet.se
 *.travelocity.com
 *.expediapartnercentral.com
-www.travelocity.ca
 www.stayz.com.au
+www.travelocity.ca
 www.ebookers.com
 www.bookabach.co.nz
 *.wotif.com
@@ -1274,8 +1274,8 @@ tools.deribit.com
 metrics.deribit.com
 test.deribit.com
 insights.deribit.com
-pb.deribit.com
 *.deribit.com
+pb.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1487,9 +1487,9 @@ admin.instacart.com
 shoppers.instacart.com
 demo.cloud.databricks.com
 marketplace.databricks.com
+support.databricks.com
 advocates.databricks.com
 docs.databricks.com
-support.databricks.com
 kb.databricks.com
 labs.databricks.com
 community.databricks.com
@@ -1748,8 +1748,8 @@ https://www.xvideos.net/app/
 www.elastic.co
 *.swiftype.com
 cloud.elastic.co
-*.found.io
 *.elastic.co
+*.found.io
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1856,8 +1856,8 @@ wp-integ.chime.com
 wp-qa.chime.com
 *.chimecard.com
 *.1debit.com
-wp-dev5.chime.com
 www.chime.com
+wp-dev5.chime.com
 *.chmfin.com
 app.staging.saltlabs.com
 *.chime.com
@@ -2025,8 +2025,8 @@ seller-id.tokopedia.com
 *.tiktokv.com
 business.tiktok.com
 academy-outbound-ads.tiktok.com
-ads.tiktok.com
 *.tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2047,6 +2047,7 @@ seller-id.tokopedia.com
 shop-id.tokopedia.com
 pay.tokopediax.com
 meetiobook.com
+gaming.logicool.co.jp
 circle.logi.com
 accounts.logi.com
 *vc.logitech.com
@@ -2092,8 +2093,8 @@ api.faraday.ai
 *.5nine.com
 *-api-*.acronis.com
 *.acronis.work
-beta-cloud.acronis.com
 account.acronis.com
+beta-cloud.acronis.com
 *.acronis.com
 *-api-*.acronis.com
 *.acronis.com
@@ -2267,8 +2268,8 @@ mackeeper.com
 wallets.api.playstation.com
 *.api.playstation.com
 direct.playstation.com
-api.direct.playstation.com
 ca.account.sony.com
+api.direct.playstation.com
 transact.playstation.com
 my.account.sony.com
 my.playstation.com
@@ -3171,8 +3172,8 @@ jira.grab.com
 api.grabpay.com
 *.grabtaxi.com
 *.grab-sure.com
-*.grab.com
 *.ovo.id
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3205,8 +3206,8 @@ hotornot.com
 badoocdn.com
 getofficial.co
 www.bumble.com
-eu1.badoo.com
 chatdate.app
+eu1.badoo.com
 corp.badoo.com
 badoo.com
 www.bumble.com
@@ -3251,8 +3252,8 @@ assets.spotify.com
 assets.spotify.com
 backstage.io
 logs.dashlane.com
-ws1.dashlane.com
 app.dashlane.com
+ws1.dashlane.com
 www.dashlane.com
 console.dashlane.com
 api.dashlane.com
@@ -3367,8 +3368,8 @@ api.blockchain.info
 ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
-account.brave.com
 search.brave.com
+account.brave.com
 brave.com
 talk.brave.com
 brave.com
@@ -3514,8 +3515,8 @@ partners.shopify.com
 your-store.myshopify.com
 *.shopify.io
 shop.app
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 admin.shopify.com
 *.shopifycs.com
 *.shopify.io
@@ -3536,11 +3537,11 @@ map.snapchat.com
 www.bitstrips.com
 scan.snapchat.com
 store.playcanvas.com
-story.snapchat.com
 relay.playcanvas.com
 msg.playcanvas.com
 rt.playcanvas.com
 launch.playcanvas.com
+story.snapchat.com
 login.playcanvas.com
 spectacles.com
 snappublisher.snapchat.com
@@ -3553,15 +3554,15 @@ developer.playcanvas.com
 *.sc-core.net
 ads.snapchat.com
 www.bitmoji.com
-app.snapchat.com
 *.sc-corp.net
+app.snapchat.com
 code.playcanvas.com
 store.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
 web.snapchat.com
-playcanvas.com
 accounts.snapchat.com
+playcanvas.com
 business.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
@@ -3729,10 +3730,10 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 *.twimg.com
 gnip.com
 x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
