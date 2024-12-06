@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec  6 23:17:08 UTC 2024)
+## Domains with Bounties (Last Updated Fri Dec  6 23:38:56 UTC 2024)
 ```
 thebrowser.company
 bcny.com
@@ -24,8 +24,8 @@ eligibility.khealth.com
 treatments.khealth.com
 anthem.khealth.com
 api.khealth.io
-api.khealth.com
 start.khealth.com
+api.khealth.com
 app.khealth.com
 www.kpharmacyllc.com
 accounts.khealth.com
@@ -50,8 +50,8 @@ anthem.khealth.com
 api.khealth.com
 *.capitalone.ca
 *.capitalonegslbex.com
-*.capitalone.com
 *.capitaloneshopping.com
+*.capitalone.com
 *.capitalone.com
 *.capitaloneshopping.com
 *.capitalonegslbex.com
@@ -81,9 +81,9 @@ bestfiends.com
 *.seriously.com
 gnocchi-www.buffalo-ggn.net
 bestfiends.com
-vfo03.vodafone.om
-apix.vodafone.om
 vfo02.vodafone.om
+apix.vodafone.om
+vfo03.vodafone.om
 vfo01.vodafone.om
 www.vodafone.om
 www.vodafone.om
@@ -168,8 +168,8 @@ mobileapi.insightly.com
 http://api.na1.insightly.com/v3.1/
 marketing.na1.insightly.com
 api.circle.com
-console.circle.com
 app.circle.com
+console.circle.com
 api.circle.com
 app.circle.com
 console.circle.com
@@ -186,14 +186,14 @@ nmtracking.netflix.com
 ichnaea.netflix.com
 beacon.netflix.com
 *.prod.ftl.netflix.com
-*.prod.dradis.netflix.com
 *.nflxvideo.net
+*.prod.dradis.netflix.com
 presentationtracking.netflix.com
 secure.netflix.com
 meechum.netflix.com
+help.netflix.com
 www.netflix.com
 *.prod.cloud.netflix.com
-help.netflix.com
 *.nflxext.com
 *.nflxext.com
 *.prod.ftl.netflix.com
@@ -269,7 +269,8 @@ www.dyson.com.mx
 www.dyson.ae
 api.dyson.se
 www.dyson.cz
-www.dyson.com.ua
+www.dyson.co.nz
+www.dyson.com.tr
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -336,8 +337,8 @@ www.dyson.com.ee
 business.truecaller.com
 *-asia-south1.truecaller.com
 *-eu.truecaller.com
-web.truecaller.com
 *-noneu.truecaller.com
+web.truecaller.com
 business-resources.truecaller.com
 www.truecaller.com
 *-asia-south1.truecaller.com
@@ -400,9 +401,9 @@ toolsforhumanity.com
 worldcoin.org
 id.worldcoin.org
 *.toolsforhumanity.com
-developer.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin.org
+developer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -545,18 +546,18 @@ taxis.booking.com
 autocomplete.booking.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
-readonly.fareharbor.com
 sites.fareharbor.com
+readonly.fareharbor.com
 careers.booking.com
 marketing.fareharbor.com
 *.fareharbor.engineering
 fhdn.fareharbor.com
 fareharborsites.com
 taxi.booking.com
-spark.fareharbor.com
 chat.booking.com
 admin.booking.com
-kyc-onboarding.booking.com
+spark.fareharbor.com
+demo.fareharbor.com
 *.fareharbor.com
 *.booking.com
 *.rentalcars.com
@@ -617,8 +618,8 @@ api2.frontapp.com
 *.boozt.com
 *.booztlet.com
 *.travix.io
-*.travix.com
 *.trip.com
+*.travix.com
 *.trip.com
 *.travix.com
 *.travix.io
@@ -652,9 +653,9 @@ api-sandbox.gocardless.com
 *.gocardless-cicd.io
 www.gocardless.com
 manage-sandbox.gocardless.com
-*.gocardless-staging.io
 *.gocardless.io
 *.gocardless-banking.io
+*.gocardless-staging.io
 auth0.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -684,8 +685,8 @@ api.wisdomtreeprimeapp.com
 eets.gamma.redoxstage.com
 sftp.gamma.redoxstage.com
 help.redoxengine.com
-clientcert.gamma.redoxstage.com
 explore.redoxengine.com
+clientcert.gamma.redoxstage.com
 docs.redoxengine.com
 fhir.redoxengine.com
 blob.gamma.redoxstage.com
@@ -742,14 +743,14 @@ www.visa.co.ke
 visa.co.ni
 www.visa.co.th
 www.fraedom.com
+www.visa.com.cn
+cw.visa.com
 www.visa.com.vn
 visa.co.za
 www.practicalmoneyskills.com
 visa.com.au
 developer.authorize.net
 bm.visa.com
-www.visa.com.cn
-cw.visa.com
 www.visa.com.mx
 bq.visa.com
 www.visa.co.uk
@@ -884,23 +885,23 @@ api.tideplatform.in
 developer.mozilla.org
 push.services.mozilla.com
 sync.services.mozilla.com
+profiler.firefox.com
 vpn.mozilla.org
 api.profiler.firefox.com
 relay.firefox.com
-shavar.services.mozilla.com
+support.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
+merino.services.mozilla.com
+shavar.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 firefox-ci-tc.services.mozilla.com
-profiler.firefox.com
-support.mozilla.org
-merino.services.mozilla.com
 community-tc.services.mozilla.com
+hg.mozilla.org
 phabricator.allizom.org
 lando.services.mozilla.com
 crash-stats.allizom.org
 crash-reports.allizom.org
 aus5.mozilla.org
-hg.mozilla.org
 firefox.settings.services.mozilla.com
 bugzilla.mozilla.org
 addons.allizom.org
@@ -977,8 +978,8 @@ ingest.clairvoyance.indrive.tech
 injob.indriver.com
 super-services.indriverapp.com
 watchdocs.indriverapp.com
-ci.indrive.dev
 wga.volans.tech
+ci.indrive.dev
 profile-api.eu-east-1.indriverapp.com
 auth.indrive.tech
 argocd.indrive.dev
@@ -1065,8 +1066,8 @@ oneview.malwarebytes.com
 mobile.s-pankki.fi
 extranet.s-pankki.fi
 tunnistus.s-ryhma.fi
-www.s-kaupat.fi
 www.prisma.fi
+www.s-kaupat.fi
 api.sokos.fi
 cfapi.voikukka.fi
 www.sokos.fi
@@ -1087,10 +1088,10 @@ api.sokos.fi
 cfapi.voikukka.fi
 auth.skypicker.com
 jobs.kiwi.com
-tequila.kiwi.com
 *.skypicker.com
 www.kiwi.com
 *.kiwi.com
+tequila.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1190,8 +1191,8 @@ share.doppler.com
 *.mdvmm.xyz
 *.yugalabs.io
 *.boredapeyachtclub.com
-*.cryptopunks.app
 *.otherside.xyz
+*.cryptopunks.app
 *.meebits.app
 *.yuga.com
 *.boredapeyachtclub.com
@@ -1202,10 +1203,10 @@ share.doppler.com
 *.cryptopunks.app
 *.mdvmm.xyz
 www.abritel.fr
-www.fewo-direkt.de
 www.ebookers.fi
-www.carrentals.com
+www.fewo-direkt.de
 *.lastminute.com.au
+www.carrentals.com
 *.lastminute.co.nz
 *.travelocity.ca
 www.expediataap.com
@@ -1215,8 +1216,8 @@ www.orbitz.com
 www.mrjet.se
 *.travelocity.com
 *.expediapartnercentral.com
-www.travelocity.ca
 www.stayz.com.au
+www.travelocity.ca
 www.ebookers.com
 www.bookabach.co.nz
 *.wotif.com
@@ -1225,9 +1226,9 @@ www.travelocity.com
 *.expediacruises.com
 www.lastminute.com.au
 www.hotwirepartnercentral.com
+*.hotwire.com
 *.carrentals.com
 www.lastminute.co.nz
-*.hotwire.com
 www.hotels.com
 *.vrbo.com
 *.hotwire.com
@@ -1325,13 +1326,4 @@ www.trendyol.com
 m.trendyol.com
 www.dolap.com
 www.trendyol-milla.com
-*.sidefx.com
-*.sidefx.com
-portfolio.metamask.io
-snaps.metamask.io
-metamask.io
-metamask.io
-snaps.metamask.io
-https://user-storage.api.cx.metamask.io
-portfolio.metamask.io
 ```
