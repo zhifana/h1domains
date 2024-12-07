@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec  7 19:16:11 UTC 2024)
+## Domains with Bounties (Last Updated Sat Dec  7 19:40:36 UTC 2024)
 ```
 bcny.com
 thebrowser.company
@@ -63,6 +63,7 @@ api.khealth.com
 gnocchi-www.buffalo-ggn.net
 *.serious.li
 *.caesarsgames.com
+bestfiends.com
 *.slotomania.com
 *.playtika.com
 *.bingoblitz.com
@@ -79,9 +80,9 @@ gnocchi-www.buffalo-ggn.net
 *.seriously.com
 gnocchi-www.buffalo-ggn.net
 bestfiends.com
-vfo03.vodafone.om
-apix.vodafone.om
 vfo02.vodafone.om
+apix.vodafone.om
+vfo03.vodafone.om
 vfo01.vodafone.om
 www.vodafone.om
 www.vodafone.om
@@ -92,21 +93,21 @@ vfo03.vodafone.om
 stats-trafficcop-prod.nba.com
 content-api-nextgen-prod.nba.com
 core-api.nba.com
-content-api-prod.nba.com
 stats.nba.com
+content-api-prod.nba.com
 manage-teams.nba.com
-mcd.nba.com
-mcdalerts.nba.com
 elm.nba.com
 cweb-ott.nba.com
 stats.gleague.nba.com
 stats.2kleague.nba.com
+mcd.nba.com
+mcdalerts.nba.com
 nbafedsvc.nba.com
 id.nba.com
 vote.nba.com
+identity.nba.com
 cdn-bal.nba.com
 cdn.nba.com
-identity.nba.com
 cms.nba.com
 manage.nba.com
 syndication.nba.com
@@ -116,8 +117,8 @@ gleague.nba.com
 corp-dev.nba.com
 stats.wnba.com
 lockervision.nba.com
-www.wnba.com
 bal.nba.com
+www.wnba.com
 www.nba.com
 www.nba.com
 gleague.nba.com
@@ -184,13 +185,13 @@ nmtracking.netflix.com
 ichnaea.netflix.com
 beacon.netflix.com
 *.prod.ftl.netflix.com
-*.prod.dradis.netflix.com
 *.nflxvideo.net
+*.prod.dradis.netflix.com
 presentationtracking.netflix.com
 secure.netflix.com
 meechum.netflix.com
-*.prod.cloud.netflix.com
 help.netflix.com
+*.prod.cloud.netflix.com
 *.nflxext.com
 www.netflix.com
 *.nflxext.com
@@ -268,7 +269,6 @@ www.dyson.ae
 api.dyson.se
 www.dyson.cz
 www.dyson.co.nz
-www.dyson.com.tr
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -397,8 +397,8 @@ bioid-management.app
 toolsforhumanity.com
 worldcoin.org
 id.worldcoin.org
-*.consumer.worldcoin.org
 developer.worldcoin.org
+*.consumer.worldcoin.org
 *.worldcoin.org
 *.worldcoin.dev
 *.toolsforhumanity.com
@@ -480,8 +480,8 @@ therapeutics.23andme.com
 blog.23andme.com
 mediacenter.23andme.com
 api.23andme.com
-auth.23andme.com
 store.23andme.com
+auth.23andme.com
 medical.23andme.com
 you.23andme.com
 api.23andme.com
@@ -555,7 +555,7 @@ taxi.booking.com
 spark.fareharbor.com
 chat.booking.com
 admin.booking.com
-kyc-onboarding.booking.com
+demo.fareharbor.com
 *.fareharbor.com
 *.booking.com
 *.rentalcars.com
@@ -696,8 +696,8 @@ launch.gamma.redoxstage.com
 evening-earth.gamma.redoxstage.com
 www.redoxengine.com
 app.gamma.redoxstage.com
-testapi.redoxengine.com
 10x.redoxengine.com
+testapi.redoxengine.com
 testapp.redoxengine.com
 dashboard.gamma.redoxstage.com
 10x.redoxengine.com
@@ -740,14 +740,14 @@ www.visa.co.jp
 www.visa.co.ke
 visa.co.ni
 www.visa.co.th
+www.visa.com.cn
+cw.visa.com
 www.visa.com.vn
 visa.co.za
 www.practicalmoneyskills.com
 visa.com.au
 developer.authorize.net
 bm.visa.com
-www.visa.com.cn
-cw.visa.com
 www.visa.com.mx
 bq.visa.com
 www.visa.co.uk
@@ -765,8 +765,8 @@ developer.visa.com
 www.visa.co.in
 www.yellowpepper.com
 www.visa.com.br
-bb.visa.com
 www.visa.com.cy
+bb.visa.com
 test.payworks.io
 aw.visa.com
 bb.visa.com
@@ -976,8 +976,8 @@ ingest.clairvoyance.indrive.tech
 injob.indriver.com
 super-services.indriverapp.com
 watchdocs.indriverapp.com
-wga.volans.tech
 ci.indrive.dev
+wga.volans.tech
 profile-api.eu-east-1.indriverapp.com
 auth.indrive.tech
 argocd.indrive.dev
@@ -989,8 +989,8 @@ volans.tech
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 auth2.indrive.tech
-*.indriverapp.com
 *.indrive.com
+*.indriverapp.com
 *.indriver.com
 *.indriverapp.com
 *.indrive.com
@@ -1064,8 +1064,8 @@ oneview.malwarebytes.com
 mobile.s-pankki.fi
 extranet.s-pankki.fi
 tunnistus.s-ryhma.fi
-www.s-kaupat.fi
 www.prisma.fi
+www.s-kaupat.fi
 api.sokos.fi
 cfapi.voikukka.fi
 www.sokos.fi
@@ -1138,8 +1138,8 @@ admin.8x8.com
 *.superbet.pl
 *.napoleongames.be
 *.magicjackpot.ro
-*.napoleoncasino.be
 *.spinaway.com
+*.napoleoncasino.be
 *.luckydays.com
 *.napoleondice.be
 *.superbet.com
@@ -1188,8 +1188,8 @@ dashboard.doppler.com
 share.doppler.com
 *.mdvmm.xyz
 *.yugalabs.io
-*.cryptopunks.app
 *.boredapeyachtclub.com
+*.cryptopunks.app
 *.meebits.app
 *.yuga.com
 *.otherside.xyz
@@ -1277,8 +1277,8 @@ tools.deribit.com
 metrics.deribit.com
 test.deribit.com
 insights.deribit.com
-pb.deribit.com
 *.deribit.com
+pb.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1312,8 +1312,8 @@ artifactory.corp.mongodb.com/
 https://www.*mongodb.com/*
 mongodb.live/*
 artifactory.corp.mongodb.com/
-royal.checksw.com
 checksw.com
+royal.checksw.com
 checksw.com
 royal.checksw.com
 www.trendyol-milla.com
@@ -1750,8 +1750,8 @@ https://www.xvideos.net/app/
 *.elstc.co
 www.elastic.co
 *.swiftype.com
-*.elastic.co
 *.found.io
+*.elastic.co
 cloud.elastic.co
 *.elastic.co
 *.found.io
@@ -1859,8 +1859,8 @@ wp-integ.chime.com
 wp-qa.chime.com
 *.chimecard.com
 *.1debit.com
-wp-dev5.chime.com
 www.chime.com
+wp-dev5.chime.com
 *.chmfin.com
 app.staging.saltlabs.com
 *.chime.com
@@ -1940,8 +1940,8 @@ ccloud.yoti.com
 api.yoti.com
 www.yotisign.com
 code.yoti.com
-core.yoti.com
 hub.yoti.com
+core.yoti.com
 identity.yoti.com
 core.yoti.com
 api.yoti.com
@@ -1979,8 +1979,8 @@ list-v2--netlify-plugins.netlify.app
 internal-docs.netlify.com
 supportal.netlify.app
 3.basecamp.com
-*.hey.com
 world.hey.com
+*.hey.com
 launchpad.37signals.com
 *.hey.com
 3.basecamp.com
@@ -2024,8 +2024,8 @@ partner.tiktokshop.com
 seller-id.tokopedia.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
-*.tiktok.com
 live-backstage.tiktok.com
+*.tiktok.com
 *.tiktokv.com
 business.tiktok.com
 ads.tiktok.com
@@ -2050,6 +2050,7 @@ seller-id.tokopedia.com
 shop-id.tokopedia.com
 pay.tokopediax.com
 meetiobook.com
+gaming.logicool.co.jp
 circle.logi.com
 accounts.logi.com
 *vc.logitech.com
@@ -2379,11 +2380,11 @@ itv7.itv.com
 *.amazon.com.tr
 *.amazon.sa
 *.amazon.es
+amazonpayinsurance.in
 *.amazon.com.au
 *.amazon.pl
-amazonpayinsurance.in
-*.amazon.ca
 *.amazon.fr
+*.amazon.ca
 *.amazon.it
 *.amazon.co.uk
 *.amazon.ae
@@ -2394,8 +2395,8 @@ amazonpayinsurance.in
 *.amazon.cn
 *.amazon.com
 *.amazon.com.co
-*.amazon.in
 *.amazon.eg
+*.amazon.in
 *.amazon.co.jp
 *.amazon.cl
 *.amazon.co.za
@@ -2460,8 +2461,8 @@ moments.marriottbonvoy.com
 jobs.marriott.com
 homes-and-villas.marriott.com
 *uat.marriott.com
-all-inclusive.marriott.com
 hotel-deals.marriott.com
+all-inclusive.marriott.com
 www.ritzcarlton.com
 careers.marriott.com
 mgs.marriott.com
@@ -2501,8 +2502,8 @@ www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
 blox.link
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2566,8 +2567,8 @@ booth.pm
 dic.pixiv.net
 comic.pixiv.net
 hub.vroid.com
-www.pixiv.net
 accounts.pixiv.net
+www.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -2714,7 +2715,7 @@ www.globalhotelchoices.com
 blueskytours.globalbookingsolutions.com
 booking.cheapcaribbean.com
 booking.applevacations.com
-www.beachbound.com
+book.beachbound.com
 www.funjet.com
 res.universalorlandovacations.com
 res.vacations.united.com
@@ -2722,17 +2723,17 @@ res.hyattinclusivecollection.com
 res.funjet.com
 jira.hyattdev.com
 new.www.vaxvacationaccess.com
-book.beachbound.com
+www.beachbound.com
 login.en.travelbrandsagent.com
 res.en.travelbrandsagent.com
 res.skyteam.com
-vacations.travelimpressions.com
-res.blueskytours.globalbookingsolutions.com
+vacations.universalstudioshollywood.com
+login.fr.travelbrandsagent.com
 holidays-nz.fijiairways.com
+res.vacations.discoverycove.com
+holidays-us.fijiairways.com
 world.hyatt.com
 newsroom.images.hyatt.com
-login.fr.travelbrandsagent.com
-vacations.universalstudioshollywood.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -2848,9 +2849,9 @@ login.tvg.com
 www.tvg.com
 ia.tvg.com
 tvg.com
-sportsbook.fanduel.com
 *.numberfire.com
 fanduel.com
+sportsbook.fanduel.com
 fdbox.net
 *racing.fanduel.com
 *.east.fdbox.net
@@ -2917,8 +2918,8 @@ sandbox.braintreegateway.com
 *.braintreegateway.com
 *.paydiant.com
 *.braintree.tools
-paypalobjects.com
 *.paypal.com
+paypalobjects.com
 paypal.me
 *.xoom.com
 *.paypal.com
@@ -3058,8 +3059,8 @@ www.fitvermogen.nl
 playartifact.com
 support.steampowered.com
 www.teamfortress.com
-www.dota2.com
 partner.steampowered.com
+www.dota2.com
 help.steampowered.com
 api.steampowered.com
 partner.steamgames.com
@@ -3210,8 +3211,8 @@ getofficial.co
 www.bumble.com
 chatdate.app
 corp.badoo.com
-badoo.com
 eu1.badoo.com
+badoo.com
 www.bumble.com
 bma.bumble.com
 badoo.com
@@ -3450,8 +3451,8 @@ api.grofers.com
 *.runnr.in
 api2.grofers.com
 *.hyperpure.com
-*.zomato.com
 blinkit.com
+*.zomato.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3539,11 +3540,11 @@ map.snapchat.com
 www.bitstrips.com
 scan.snapchat.com
 store.playcanvas.com
-story.snapchat.com
 relay.playcanvas.com
 msg.playcanvas.com
 rt.playcanvas.com
 launch.playcanvas.com
+story.snapchat.com
 login.playcanvas.com
 spectacles.com
 snappublisher.snapchat.com
@@ -3555,8 +3556,8 @@ geofilters.snapchat.com
 developer.playcanvas.com
 *.sc-core.net
 ads.snapchat.com
-app.snapchat.com
 *.sc-corp.net
+app.snapchat.com
 code.playcanvas.com
 store.snapchat.com
 my.snapchat.com
@@ -3686,9 +3687,9 @@ checkout.vimeo.com
 staging.magisto.com
 applause1.magisto.com
 www.livestream.com
+donations.livestream.com
 embed.vhx.tv
 vimeo.magisto.com
-donations.livestream.com
 *.cloud.vimeo.com
 *.vimeo.com
 *.vhx.tv
@@ -3758,17 +3759,17 @@ waf.cumulusfire.net
 secure.tumblr.com
 embed.tumblr.com
 *.srvcs.tumblr.com
-t.umblr.com
 akismet.com
+t.umblr.com
 gravatar.com
 api.tumblr.com
 assets.tumblr.com
 safe.tumblr.com
 wordpress.com
-mailpoet.com
-simperium.com
 intensedebate.com
 *.tumblr.com
+simperium.com
+mailpoet.com
 my.pressable.com
 www.tumblr.com
 simplenote.com
@@ -3792,9 +3793,9 @@ intensedebate.com
 irc.irccloud.com
 team-irc.irccloud.com
 api.irccloud.com
-*.irccloud.com
 www.irccloud.com
 blog.irccloud.com
+*.irccloud.com
 irccloud.com
 *.irccloud-cdn.com
 *.irccloud-cdn.com
