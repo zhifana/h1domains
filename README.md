@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec  7 13:41:20 UTC 2024)
+## Domains with Bounties (Last Updated Sat Dec  7 14:14:49 UTC 2024)
 ```
 arc.net
 bcny.com
