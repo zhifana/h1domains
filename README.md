@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec  8 17:14:38 UTC 2024)
+## Domains with Bounties (Last Updated Sun Dec  8 17:41:57 UTC 2024)
 ```
 bcny.com
 arc.net
@@ -24,8 +24,8 @@ eligibility.khealth.com
 treatments.khealth.com
 anthem.khealth.com
 api.khealth.io
-api.khealth.com
 start.khealth.com
+api.khealth.com
 app.khealth.com
 www.kpharmacyllc.com
 accounts.khealth.com
@@ -154,8 +154,8 @@ outlook.insightly.com
 mobileapi.insightly.com
 mobileapi.na1.insightly.com
 accounts.insightly.com
-crm.na1.insightly.com
 login.insightly.com
+crm.na1.insightly.com
 marketing.na1.insightly.com
 crm.na1.insightly.com
 accounts.insightly.com
@@ -268,7 +268,7 @@ www.dyson.com.mx
 www.dyson.ae
 api.dyson.se
 www.dyson.cz
-www.dyson.com.ua
+www.dyson.co.nz
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -362,8 +362,8 @@ app3.rewire.to
 blog.remitly.com
 api.remitly.io
 *.dev.remitly.com
-careers.remitly.com
 *.int.remitly.com
+careers.remitly.com
 rewire.com
 remitly.com
 app.rewire.to
@@ -397,8 +397,8 @@ bioid-management.app
 toolsforhumanity.com
 worldcoin.org
 id.worldcoin.org
-developer.worldcoin.org
 *.consumer.worldcoin.org
+developer.worldcoin.org
 *.worldcoin.org
 *.worldcoin.dev
 *.toolsforhumanity.com
@@ -500,9 +500,9 @@ www.mercadolibre.com.pe
 www.mercadopago.com.pe
 www.mercadolibre.com.ar
 www.mercadolibre.com.co
+www.mercadolibre.com.uy
 www.mercadopago.com.mx
 www.mercadopago.cl
-www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadolivre.com.br
 api.mercadolibre.com
@@ -612,8 +612,8 @@ api2.frontapp.com
 app.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.travix.com
@@ -904,9 +904,9 @@ firefox.settings.services.mozilla.com
 addons.allizom.org
 www.mozilla.org
 community-tc.services.mozilla.com
-accounts.firefox.com
 bugzilla.mozilla.org
 monitor.mozilla.org
+accounts.firefox.com
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
@@ -977,8 +977,8 @@ ingest.clairvoyance.indrive.tech
 injob.indriver.com
 super-services.indriverapp.com
 watchdocs.indriverapp.com
-wga.volans.tech
 ci.indrive.dev
+wga.volans.tech
 profile-api.eu-east-1.indriverapp.com
 auth.indrive.tech
 argocd.indrive.dev
@@ -1203,8 +1203,8 @@ share.doppler.com
 *.mdvmm.xyz
 www.abritel.fr
 www.fewo-direkt.de
-*.lastminute.com.au
 www.carrentals.com
+*.lastminute.com.au
 *.lastminute.co.nz
 *.travelocity.ca
 www.expediataap.com
@@ -1219,8 +1219,8 @@ www.ebookers.com
 www.bookabach.co.nz
 *.wotif.com
 *.cheaptickets.com
-www.travelocity.com
 *.expediacruises.com
+www.travelocity.com
 www.lastminute.co.nz
 www.hotels.com
 *.vrbo.com
@@ -1264,8 +1264,8 @@ www.flights.com
 bookus.expediacruises.com
 www.expediataap.com
 *.magiceden.workers.dev
-*.magiceden.dev
 magiceden.io
+*.magiceden.dev
 *.magiceden.io
 magiceden.io
 *.magiceden.io
@@ -1490,9 +1490,9 @@ admin.instacart.com
 shoppers.instacart.com
 demo.cloud.databricks.com
 marketplace.databricks.com
-support.databricks.com
 advocates.databricks.com
 docs.databricks.com
+support.databricks.com
 labs.databricks.com
 help.databricks.com
 customer-academy.databricks.com
@@ -1523,8 +1523,8 @@ payoneer.com.cn
 *.payoneer.com
 payoneer.com.cn
 download.krisp.ai
-upld.krisp.ai
 teams.krisp.ai
+upld.krisp.ai
 analytics.krisp.ai
 account.krisp.ai
 *.krisp.ai
@@ -1565,6 +1565,7 @@ accounts.evernote.com
 www.evernote.com
 accounts.evernote.com
 api.evernote.com
+hc2services.com
 *.singspacegame.com
 *.hmxwebservices.com
 *.epicgames.dev
@@ -1807,8 +1808,8 @@ gql.reddit.com
 sh.reddit.com
 *.reddit.com
 business.reddithelp.com
-ads.reddit.com
 developers.reddit.com
+ads.reddit.com
 *.snooguts.net
 *.reddit.com
 *.redditmedia.com
@@ -1940,8 +1941,8 @@ ccloud.yoti.com
 api.yoti.com
 www.yotisign.com
 code.yoti.com
-hub.yoti.com
 core.yoti.com
+hub.yoti.com
 identity.yoti.com
 core.yoti.com
 api.yoti.com
@@ -2026,8 +2027,8 @@ careers.tiktok.com
 business.tiktok.com
 live-backstage.tiktok.com
 *.tiktokv.com
-tiktok.com
 *.tiktok.com
+tiktok.com
 www.pangleglobal.com
 ads.tiktok.com
 *.tiktok.com
@@ -2381,8 +2382,8 @@ itv7.itv.com
 *.amazon.es
 *.amazon.pl
 amazonpayinsurance.in
-*.amazon.ca
 *.amazon.fr
+*.amazon.ca
 *.amazon.it
 *.amazon.co.uk
 *.amazon.ae
@@ -2393,8 +2394,8 @@ amazonpayinsurance.in
 *.amazon.cn
 *.amazon.com.co
 *.amazon.co.jp
-*.amazon.eg
 *.amazon.com.au
+*.amazon.eg
 *.amazon.in
 *.amazon.com
 *.amazon.cl
@@ -2460,8 +2461,8 @@ moments.marriottbonvoy.com
 jobs.marriott.com
 homes-and-villas.marriott.com
 *uat.marriott.com
-all-inclusive.marriott.com
 hotel-deals.marriott.com
+all-inclusive.marriott.com
 www.ritzcarlton.com
 careers.marriott.com
 mgs.marriott.com
@@ -2566,8 +2567,8 @@ booth.pm
 dic.pixiv.net
 comic.pixiv.net
 hub.vroid.com
-www.pixiv.net
 accounts.pixiv.net
+www.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -2714,25 +2715,25 @@ www.globalhotelchoices.com
 blueskytours.globalbookingsolutions.com
 booking.cheapcaribbean.com
 booking.applevacations.com
-book.beachbound.com
-www.funjet.com
-res.universalorlandovacations.com
-res.vacations.united.com
 res.hyattinclusivecollection.com
-res.funjet.com
 jira.hyattdev.com
+res.funjet.com
 new.www.vaxvacationaccess.com
+res.universalorlandovacations.com
+www.funjet.com
+res.vacations.united.com
 www.beachbound.com
+book.beachbound.com
 login.en.travelbrandsagent.com
 res.en.travelbrandsagent.com
 res.skyteam.com
+res.blueskytours.globalbookingsolutions.com
+vacations.travelimpressions.com
 vacations.universalstudioshollywood.com
-login.fr.travelbrandsagent.com
-holidays-nz.fijiairways.com
 res.vacations.discoverycove.com
 holidays-us.fijiairways.com
-world.hyatt.com
 newsroom.images.hyatt.com
+login.fr.travelbrandsagent.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -2811,8 +2812,8 @@ capi.grammarly.com
 *.grammarlyaws.com
 *.grammarly.io
 app.grammarly.com
-grammarly.ai
 *.grammarly.com
+grammarly.ai
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -2848,9 +2849,9 @@ login.tvg.com
 www.tvg.com
 ia.tvg.com
 tvg.com
+sportsbook.fanduel.com
 *.numberfire.com
 fanduel.com
-sportsbook.fanduel.com
 fdbox.net
 *racing.fanduel.com
 *.east.fdbox.net
@@ -3370,8 +3371,8 @@ api.blockchain.info
 ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
-account.brave.com
 search.brave.com
+account.brave.com
 talk.brave.com
 brave.com
 brave.com
@@ -3450,8 +3451,8 @@ api.grofers.com
 *.runnr.in
 api2.grofers.com
 *.hyperpure.com
-*.zomato.com
 blinkit.com
+*.zomato.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3474,8 +3475,8 @@ secure-dfadmin.deriv.com
 cashier.deriv.com
 *.derivws.com
 oauth.deriv.com
-smarttrader.deriv.com
 api.deriv.com
+smarttrader.deriv.com
 *.binary.com
 derivws.com
 *.deriv.com
@@ -3515,11 +3516,11 @@ shopify.plus
 *.shopify.io
 partners.shopify.com
 *.shopifycloud.com
-*.shopify.com
 shop.app
 accounts.shopify.com
 your-store.myshopify.com
 admin.shopify.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3687,9 +3688,9 @@ checkout.vimeo.com
 staging.magisto.com
 applause1.magisto.com
 www.livestream.com
+donations.livestream.com
 embed.vhx.tv
 vimeo.magisto.com
-donations.livestream.com
 *.cloud.vimeo.com
 *.vimeo.com
 *.vhx.tv
@@ -3766,10 +3767,10 @@ api.tumblr.com
 assets.tumblr.com
 safe.tumblr.com
 wordpress.com
+mailpoet.com
+simperium.com
 intensedebate.com
 *.tumblr.com
-simperium.com
-mailpoet.com
 my.pressable.com
 www.tumblr.com
 simplenote.com
@@ -3870,8 +3871,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 profile-photos-us-east-2.hackerone-user-content.com
-hackathon-photos.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
+hackathon-photos.hackerone-user-content.com
 *.vpn.hackerone.net
 hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -3882,8 +3883,8 @@ reviewer.pullrequest.com
 hackerone.live
 ctf.hacker101.com
 www.wearehackerone.com
-errors.hackerone.net
 a5s.hackerone-ext-content.com
+errors.hackerone.net
 b5s.hackerone-ext-content.com
 app.pullrequest.com
 mta-sts.wearehackerone.com
