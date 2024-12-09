@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec  9 20:45:21 UTC 2024)
+## Domains with Bounties (Last Updated Mon Dec  9 21:20:41 UTC 2024)
 ```
 http://--your-own-1password-account--.1password.com
 https://bugbounty-ctf.1password.com/
@@ -37,8 +37,8 @@ eligibility.khealth.com
 treatments.khealth.com
 anthem.khealth.com
 api.khealth.io
-api.khealth.com
 start.khealth.com
+api.khealth.com
 app.khealth.com
 www.kpharmacyllc.com
 salesforce.khealth.com
@@ -280,8 +280,8 @@ www.dyson.no
 www.dyson.com.mx
 api.dyson.se
 www.dyson.cz
-www.dyson.co.nz
 www.dyson.com.ua
+shop.dyson.co.za
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -375,12 +375,12 @@ app3.rewire.to
 blog.remitly.com
 api.remitly.io
 *.dev.remitly.com
-*.int.remitly.com
 careers.remitly.com
+*.int.remitly.com
 app.rewire.to
 site.rewire.com
-rewire.com
 remitly.com
+rewire.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -630,10 +630,10 @@ api2.frontapp.com
 *.boozt.com
 *.booztlet.com
 *.travix.io
-*.travix.com
 *.trip.com
 *.trainpal.com
 *.mytrainpal.com
+*.travix.com
 *.trip.com
 *.travix.com
 *.travix.io
@@ -662,8 +662,8 @@ https://api-test.nicex.com
 https://api-test.nicehash.com
 test.nicex.com
 pay-sandbox.gocardless.com
-connect-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
+connect-sandbox.gocardless.com
 api-sandbox.gocardless.com
 *.gocardless-lab.io
 *.gocardless-cicd.io
@@ -701,8 +701,8 @@ api.wisdomtreeprimeapp.com
 eets.gamma.redoxstage.com
 sftp.gamma.redoxstage.com
 help.redoxengine.com
-clientcert.gamma.redoxstage.com
 explore.redoxengine.com
+clientcert.gamma.redoxstage.com
 docs.redoxengine.com
 fhir.redoxengine.com
 blob.gamma.redoxstage.com
@@ -714,8 +714,8 @@ launch.gamma.redoxstage.com
 evening-earth.gamma.redoxstage.com
 www.redoxengine.com
 app.gamma.redoxstage.com
-10x.redoxengine.com
 testapi.redoxengine.com
+10x.redoxengine.com
 testapp.redoxengine.com
 dashboard.gamma.redoxstage.com
 10x.redoxengine.com
@@ -900,21 +900,21 @@ api.tideplatform.in
 api.tideplatform.in
 push.services.mozilla.com
 sync.services.mozilla.com
-profiler.firefox.com
 vpn.mozilla.org
 api.profiler.firefox.com
 relay.firefox.com
-support.mozilla.org
-mozilla-pontoon-staging.herokuapp.com
-merino.services.mozilla.com
 shavar.services.mozilla.com
+mozilla-pontoon-staging.herokuapp.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 firefox-ci-tc.services.mozilla.com
-hg.mozilla.org
+profiler.firefox.com
+support.mozilla.org
+merino.services.mozilla.com
 phabricator.allizom.org
 lando.services.mozilla.com
 crash-stats.allizom.org
 crash-reports.allizom.org
+hg.mozilla.org
 firefox.settings.services.mozilla.com
 community-tc.services.mozilla.com
 bugzilla.mozilla.org
@@ -970,8 +970,8 @@ hilton.io
 *.hilton.io
 hilton.com
 hiltonhotels.jp
-*.hilton.com
 *.hiltonbusinessonline.com
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hiltonbusinessonline.com
@@ -988,8 +988,8 @@ hiltonhotels.jp
 *.oklink.com
 priority.eu-east-1.indriverapp.com
 messenger.eu-east-1.indriverapp.com
-external.indrive.dev
 debug.clairvoyance.indrive.tech
+external.indrive.dev
 ingest.clairvoyance.indrive.tech
 injob.indriver.com
 super-services.indriverapp.com
@@ -1082,8 +1082,8 @@ oneview.malwarebytes.com
 mobile.s-pankki.fi
 extranet.s-pankki.fi
 tunnistus.s-ryhma.fi
-www.s-kaupat.fi
 www.prisma.fi
+www.s-kaupat.fi
 api.sokos.fi
 cfapi.voikukka.fi
 www.sokos.fi
@@ -1156,8 +1156,8 @@ admin.8x8.com
 *.superbet.pl
 *.napoleongames.be
 *.magicjackpot.ro
-*.spinaway.com
 *.napoleoncasino.be
+*.spinaway.com
 *.luckydays.com
 *.napoleondice.be
 *.superbet.com
@@ -1281,8 +1281,8 @@ www.flights.com
 bookus.expediacruises.com
 www.expediataap.com
 *.magiceden.workers.dev
-*.magiceden.dev
 magiceden.io
+*.magiceden.dev
 *.magiceden.io
 magiceden.io
 *.magiceden.io
@@ -1306,9 +1306,9 @@ read.amazon.com
 skills-store.amazon.com
 creator.amazon.com
 a4k.amazon.com
-alexa.amazon.com
 blueprints.amazon.com
 alexaanswers.amazon.com
+alexa.amazon.com
 read.amazon.com
 alexaanswers.amazon.com
 blueprints.amazon.com
@@ -1539,8 +1539,8 @@ payoneer.com.cn
 *.payoneer.com
 *.payoneer.com
 payoneer.com.cn
-upld.krisp.ai
 download.krisp.ai
+upld.krisp.ai
 teams.krisp.ai
 analytics.krisp.ai
 account.krisp.ai
@@ -1582,7 +1582,6 @@ www.evernote.com
 www.evernote.com
 accounts.evernote.com
 api.evernote.com
-hc2services.com
 *.singspacegame.com
 *.hmxwebservices.com
 *.epicgames.dev
@@ -1643,8 +1642,8 @@ playwonderbox.com
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
-*.gotinder.com
 *.tinder.com
+*.gotinder.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1877,8 +1876,8 @@ wp-integ.chime.com
 wp-qa.chime.com
 *.chimecard.com
 *.1debit.com
-www.chime.com
 wp-dev5.chime.com
+www.chime.com
 *.chmfin.com
 app.staging.saltlabs.com
 *.chime.com
@@ -1958,8 +1957,8 @@ ccloud.yoti.com
 api.yoti.com
 www.yotisign.com
 code.yoti.com
-core.yoti.com
 hub.yoti.com
+core.yoti.com
 identity.yoti.com
 core.yoti.com
 api.yoti.com
@@ -2113,9 +2112,9 @@ api.faraday.ai
 *-api-*.acronis.com
 *.acronis.work
 *.5nine.com
-beta-cloud.acronis.com
-*.acronis.com
 account.acronis.com
+*.acronis.com
+beta-cloud.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2527,8 +2526,8 @@ blox.link
 *.ra.roblox.com
 blox.link
 cdn.localizestaging.com
-api.localizestaging.com
 app.localizestaging.com
+api.localizestaging.com
 localizestaging.com
 localizestaging.com
 api.localizestaging.com
@@ -2732,25 +2731,25 @@ www.globalhotelchoices.com
 blueskytours.globalbookingsolutions.com
 booking.cheapcaribbean.com
 booking.applevacations.com
-www.beachbound.com
-www.funjet.com
-res.universalorlandovacations.com
-res.vacations.united.com
 res.hyattinclusivecollection.com
-res.funjet.com
 jira.hyattdev.com
+res.funjet.com
 new.www.vaxvacationaccess.com
+res.universalorlandovacations.com
+www.funjet.com
+res.vacations.united.com
+www.beachbound.com
 book.beachbound.com
 login.en.travelbrandsagent.com
 res.en.travelbrandsagent.com
 res.skyteam.com
-vacations.travelimpressions.com
 res.blueskytours.globalbookingsolutions.com
-holidays-nz.fijiairways.com
-world.hyatt.com
-newsroom.images.hyatt.com
+vacations.travelimpressions.com
 login.fr.travelbrandsagent.com
 vacations.universalstudioshollywood.com
+holidays-nz.fijiairways.com
+newsroom.images.hyatt.com
+res.vacations.discoverycove.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -3228,8 +3227,8 @@ getofficial.co
 www.bumble.com
 chatdate.app
 corp.badoo.com
-eu1.badoo.com
 badoo.com
+eu1.badoo.com
 www.bumble.com
 bma.bumble.com
 badoo.com
@@ -3432,8 +3431,8 @@ education.github.com
 *.githubusercontent.com
 npmjs.com
 npmjs.org
-*ubereats.com
 *.uberinternal.com
+*ubereats.com
 *.uberinternal.com
 *ubereats.com
 api.mapbox.com
@@ -3492,8 +3491,8 @@ secure-dfadmin.deriv.com
 cashier.deriv.com
 *.derivws.com
 oauth.deriv.com
-smarttrader.deriv.com
 api.deriv.com
+smarttrader.deriv.com
 *.binary.com
 derivws.com
 *.deriv.com
@@ -3533,9 +3532,9 @@ shopify.plus
 partners.shopify.com
 *.shopify.io
 *.shopifycloud.com
-shop.app
 *.shopify.com
 accounts.shopify.com
+shop.app
 your-store.myshopify.com
 admin.shopify.com
 *.shopifycs.com
@@ -3557,11 +3556,11 @@ map.snapchat.com
 www.bitstrips.com
 scan.snapchat.com
 store.playcanvas.com
-story.snapchat.com
 relay.playcanvas.com
 msg.playcanvas.com
 rt.playcanvas.com
 launch.playcanvas.com
+story.snapchat.com
 login.playcanvas.com
 spectacles.com
 snappublisher.snapchat.com
@@ -3678,8 +3677,8 @@ api.airbnb.com
 *.hoteltonight-test.com
 *.hoteltonight.com
 *.withairbnb.com
-*.airbnb.com
 www.airbnb.com
+*.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3888,8 +3887,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 profile-photos-us-east-2.hackerone-user-content.com
-cover-photos.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
+cover-photos.hackerone-user-content.com
 *.vpn.hackerone.net
 hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -3900,8 +3899,8 @@ reviewer.pullrequest.com
 hackerone.live
 ctf.hacker101.com
 www.wearehackerone.com
-a5s.hackerone-ext-content.com
 errors.hackerone.net
+a5s.hackerone-ext-content.com
 b5s.hackerone-ext-content.com
 mta-sts.wearehackerone.com
 hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com
