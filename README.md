@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 15 19:40:14 UTC 2024)
+## Domains with Bounties (Last Updated Sun Dec 15 20:21:05 UTC 2024)
 ```
 http://--your-own-1password-account--.1password.com
 https://bugbounty-ctf.1password.com/
@@ -93,9 +93,9 @@ gnocchi-www.buffalo-ggn.net
 *.seriously.com
 gnocchi-www.buffalo-ggn.net
 bestfiends.com
-vfo03.vodafone.om
-apix.vodafone.om
 vfo02.vodafone.om
+apix.vodafone.om
+vfo03.vodafone.om
 vfo01.vodafone.om
 www.vodafone.om
 www.vodafone.om
@@ -197,8 +197,8 @@ nmtracking.netflix.com
 ichnaea.netflix.com
 beacon.netflix.com
 *.prod.ftl.netflix.com
-*.prod.dradis.netflix.com
 *.nflxvideo.net
+*.prod.dradis.netflix.com
 presentationtracking.netflix.com
 meechum.netflix.com
 *.nflxext.com
@@ -522,9 +522,9 @@ www.mercadopago.com.pe
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
 www.mercadopago.com.br
+api.mercadolibre.com
 www.mercadopago.com.mx
 www.mercadolibre.com.ar
-api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -559,17 +559,17 @@ taxis.booking.com
 autocomplete.booking.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
-readonly.fareharbor.com
 sites.fareharbor.com
+readonly.fareharbor.com
 careers.booking.com
 marketing.fareharbor.com
 *.fareharbor.engineering
 fareharborsites.com
 taxi.booking.com
-spark.fareharbor.com
 chat.booking.com
-kyc-onboarding.booking.com
+spark.fareharbor.com
 cars.booking.com
+kyc-onboarding.booking.com
 accommodations.booking.com
 www.fareharbor.com
 flights.booking.com
@@ -633,11 +633,11 @@ api2.frontapp.com
 *.boozt.com
 *.booztlet.com
 *.travix.io
-*.cheaptickets.nl
 *.trainpal.com
 *.mytrainpal.com
 *.travix.com
 *.trip.com
+*.cheaptickets.nl
 *.trip.com
 *.travix.com
 *.travix.io
@@ -667,8 +667,8 @@ https://api-test.nicex.com
 https://api-test.nicehash.com
 test.nicex.com
 pay-sandbox.gocardless.com
-oauth-sandbox.gocardless.com
 connect-sandbox.gocardless.com
+oauth-sandbox.gocardless.com
 api-sandbox.gocardless.com
 *.gocardless-staging.io
 *.gocardless.io
@@ -762,14 +762,14 @@ www.visa.co.jp
 www.visa.co.ke
 visa.co.ni
 www.visa.co.th
-www.visa.com.cn
-cw.visa.com
 www.visa.com.vn
 visa.co.za
 www.practicalmoneyskills.com
 visa.com.au
-developer.authorize.net
 bm.visa.com
+developer.authorize.net
+www.visa.com.cn
+cw.visa.com
 www.visa.com.mx
 bq.visa.com
 www.visa.co.uk
@@ -915,8 +915,8 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 firefox-ci-tc.services.mozilla.com
 phabricator.allizom.org
 lando.services.mozilla.com
-crash-reports.allizom.org
 crash-stats.allizom.org
+crash-reports.allizom.org
 community-tc.services.mozilla.com
 developer.mozilla.org
 aus5.mozilla.org
@@ -989,14 +989,14 @@ hiltonlocalbiz.com
 *.oklink.com
 priority.eu-east-1.indriverapp.com
 messenger.eu-east-1.indriverapp.com
-external.indrive.dev
 debug.clairvoyance.indrive.tech
+external.indrive.dev
 ingest.clairvoyance.indrive.tech
 injob.indriver.com
 super-services.indriverapp.com
 watchdocs.indriverapp.com
-wga.volans.tech
 ci.indrive.dev
+wga.volans.tech
 profile-api.eu-east-1.indriverapp.com
 auth.indrive.tech
 argocd.indrive.dev
@@ -1008,8 +1008,8 @@ new-order.eu-east-1.indriverapp.com
 auth2.indrive.tech
 *.indriver.com
 cargo.indrive.com
-ab-platform-api.eu-east-1.indriverapp.com
 *.indriverapp.com
+ab-platform-api.eu-east-1.indriverapp.com
 *.indrive.com
 *.indriverapp.com
 *.indrive.com
@@ -1083,8 +1083,8 @@ oneview.malwarebytes.com
 mobile.s-pankki.fi
 extranet.s-pankki.fi
 tunnistus.s-ryhma.fi
-www.prisma.fi
 www.s-kaupat.fi
+www.prisma.fi
 api.sokos.fi
 cfapi.voikukka.fi
 www.sokos.fi
@@ -1221,8 +1221,8 @@ share.doppler.com
 *.mdvmm.xyz
 www.abritel.fr
 www.fewo-direkt.de
-*.lastminute.com.au
 www.carrentals.com
+*.lastminute.com.au
 *.lastminute.co.nz
 www.expediataap.com
 www.expediaagents.com
@@ -1233,8 +1233,8 @@ www.stayz.com.au
 www.travelocity.ca
 www.bookabach.co.nz
 *.wotif.com
-www.travelocity.com
 *.expediacruises.com
+www.travelocity.com
 www.hotels.com
 www.flights.com
 www.hotwirepartnercentral.com
@@ -1244,8 +1244,8 @@ www.lastminute.com.au
 www.ebookers.com
 *.carrentals.com
 *.vrbo.com
-www.wotif.com
 www.vrbo.com
+www.wotif.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1295,8 +1295,8 @@ tools.deribit.com
 metrics.deribit.com
 test.deribit.com
 insights.deribit.com
-*.deribit.com
 pb.deribit.com
+*.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1364,8 +1364,8 @@ invoices.razorpay.com
 payroll.razorpay.com
 x.razorpay.com
 www.linkedin.com
-business.linkedin.com
 api.linkedin.com
+business.linkedin.com
 www.linkedin.com
 api.linkedin.com
 business.linkedin.com
@@ -1508,9 +1508,9 @@ admin.instacart.com
 shoppers.instacart.com
 demo.cloud.databricks.com
 marketplace.databricks.com
+support.databricks.com
 advocates.databricks.com
 docs.databricks.com
-support.databricks.com
 labs.databricks.com
 help.databricks.com
 customer-academy.databricks.com
@@ -1540,9 +1540,9 @@ payoneer.com.cn
 *.payoneer.com
 *.payoneer.com
 payoneer.com.cn
+upld.krisp.ai
 download.krisp.ai
 teams.krisp.ai
-upld.krisp.ai
 analytics.krisp.ai
 account.krisp.ai
 api.krisp.ai
@@ -1583,6 +1583,7 @@ www.evernote.com
 www.evernote.com
 accounts.evernote.com
 api.evernote.com
+hc2services.com
 *.singspacegame.com
 *.hmxwebservices.com
 *.epicgames.dev
@@ -1803,8 +1804,8 @@ www.urbanclap.com
 www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
-*.redditblog.com
 meta-api.reddit.com
+*.redditblog.com
 *.redditinc.com
 mod.reddit.com
 redditforbusiness.com
@@ -1813,8 +1814,8 @@ strapi.reddit.com
 m.reddit.com
 api.reddit.com
 *.memorable.io
-matrix.redditspace.com
 *.redditmedia.com
+matrix.redditspace.com
 *.spiketrap.io
 *.reddithelp.com
 sh.reddit.com
@@ -1877,8 +1878,8 @@ wp-integ.chime.com
 wp-qa.chime.com
 *.chimecard.com
 *.1debit.com
-www.chime.com
 wp-dev5.chime.com
+www.chime.com
 *.chmfin.com
 app.staging.saltlabs.com
 *.chime.com
@@ -2037,16 +2038,16 @@ academy-outbound-ads.tiktok.com
 shop-id.tokopedia.com
 effecthouse.tiktok.com
 affiliate-id.tokopedia.com
-seller-id.tokopedia.com
 careers.tiktok.com
-*.tiktokv.com
+seller-id.tokopedia.com
 business.tiktok.com
+*.tiktokv.com
 www.pangleglobal.com
 live-backstage.tiktok.com
 developers.tiktok.com
 partner.tiktokshop.com
-ads.tiktok.com
 tiktok.com
+ads.tiktok.com
 *.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2299,8 +2300,8 @@ my.playstation.com
 social.playstation.com
 my.account.sony.com
 *.playstation.net
-store.playstation.com
 *.sonyentertainmentnetwork.com
+store.playstation.com
 api.direct.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2412,14 +2413,14 @@ amazonpayinsurance.in
 *.amazon.co.jp
 *.amazon.fr
 *.amazon.cn
-*.amazon.co.uk
 *.amazon.ae
 *.amazon.com.mx
 *.amazon.ca
 *.amazon.de
 *.amazon.com.co
-*.amazon.in
 *.amazon.com
+*.amazon.in
+*.amazon.co.uk
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2481,8 +2482,8 @@ moments.marriottbonvoy.com
 jobs.marriott.com
 homes-and-villas.marriott.com
 *uat.marriott.com
-all-inclusive.marriott.com
 hotel-deals.marriott.com
+all-inclusive.marriott.com
 www.ritzcarlton.com
 mgs.marriott.com
 careers.marriott.com
@@ -2532,8 +2533,8 @@ blox.link
 *.ra.roblox.com
 blox.link
 cdn.localizestaging.com
-localizestaging.com
 api.localizestaging.com
+localizestaging.com
 app.localizestaging.com
 localizestaging.com
 api.localizestaging.com
@@ -3109,8 +3110,8 @@ developer.valvesoftware.com
 js.crypto.com
 developer-platform-api.crypto.com
 *.mona.co
-tax.crypto.com
 merchant.crypto.com
+tax.crypto.com
 app.mona.co
 web.crypto.com
 *.crypto.com
@@ -3627,6 +3628,7 @@ fw-update.ubnt.com
 ispdesign.ui.com
 careers.ui.com
 store.ui.com
+unifi.ui.com
 *.ubnt.com
 *.ui.com
 store.ui.com
@@ -3893,14 +3895,14 @@ ctf.hacker101.com
 www.wearehackerone.com
 errors.hackerone.net
 a5s.hackerone-ext-content.com
-app.pullrequest.com
 hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com
+app.pullrequest.com
 api.hackerone.com
 hackerone.live
 reviewer.pullrequest.com
 mta-sts.wearehackerone.com
-www.hackerone.com
 b5s.hackerone-ext-content.com
+www.hackerone.com
 hackerone.com
 hackerone.com
 api.hackerone.com
