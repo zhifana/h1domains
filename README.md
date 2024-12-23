@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec 23 07:19:15 UTC 2024)
+## Domains with Bounties (Last Updated Mon Dec 23 07:39:58 UTC 2024)
 ```
 http://--your-own-1password-account--.1password.com
 https://bugbounty-ctf.1password.com/
@@ -127,8 +127,8 @@ gnocchi-www.buffalo-ggn.net
 *.boardkingsgame.com
 *.caesarsgames.com
 *.seriously.com
-*.serious.li
 *.playwsop.com
+*.serious.li
 *.slotomania.com
 *.playtika.com
 *.bingoblitz.com
@@ -285,8 +285,8 @@ zelleservice.my.site.com
 zellepay.force.com
 *.clearxchange.com
 api.zmsp.earlywarning.com
-*.zellepay.com
 *.earlywarning.com
+*.zellepay.com
 *.zellepay.com
 *.earlywarning.com
 *.clearxchange.com
@@ -533,8 +533,8 @@ demo.dynamic.xyz
 www.hostinger.com
 payments.hostinger.com
 cpanel.hostinger.com
-builder.hostinger.com
 hpanel.hostinger.com
+builder.hostinger.com
 www.hostinger.com
 cpanel.hostinger.com
 hpanel.hostinger.com
@@ -548,8 +548,8 @@ you.23andme.com
 research.23andme.com
 store.23andme.com
 api.23andme.com
-blog.23andme.com
 auth.23andme.com
+blog.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -571,9 +571,9 @@ www.mercadopago.com.pe
 www.mercadolibre.com.pe
 api.mercadolibre.com
 www.mercadopago.cl
+www.mercadolibre.com.ar
 www.mercadopago.com.mx
 www.mercadopago.com.br
-www.mercadolibre.com.ar
 www.mercadopago.com.ar
 www.mercadolibre.com.mx
 api.mercadopago.com
@@ -818,8 +818,8 @@ www.visa.com.vn
 visa.co.za
 www.practicalmoneyskills.com
 visa.com.au
-developer.authorize.net
 bm.visa.com
+developer.authorize.net
 www.visa.com.cn
 cw.visa.com
 www.visa.com.mx
@@ -837,8 +837,8 @@ www.visa.com.kz
 www.visa.co.in
 www.yellowpepper.com
 www.visa.com.br
-bb.visa.com
 www.visa.com.cy
+bb.visa.com
 test.payworks.io
 www.visa.com.tr
 bd.visa.com
@@ -964,17 +964,17 @@ shavar.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 phabricator.allizom.org
 lando.services.mozilla.com
-crash-reports.allizom.org
 crash-stats.allizom.org
+crash-reports.allizom.org
 community-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 bugzilla.mozilla.org
 hg.mozilla.org
 push.services.mozilla.com
-support.mozilla.org
-profiler.firefox.com
 merino.services.mozilla.com
 monitor.mozilla.org
+support.mozilla.org
+profiler.firefox.com
 developer.mozilla.org
 www.mozilla.org
 addons.allizom.org
@@ -1035,8 +1035,8 @@ hilton.com
 hilton.io
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-*.okx.com
 *.oklink.com
+*.okx.com
 *.okx.com
 *.oklink.com
 priority.eu-east-1.indriverapp.com
@@ -1046,8 +1046,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 injob.indriver.com
 watchdocs.indriverapp.com
-ci.indrive.dev
 wga.volans.tech
+ci.indrive.dev
 profile-api.eu-east-1.indriverapp.com
 auth.indrive.tech
 argocd.indrive.dev
@@ -1059,9 +1059,9 @@ auth2.indrive.tech
 cargo.indrive.com
 ab-platform-api.eu-east-1.indriverapp.com
 *.indriver.com
+super-services.indriverapp.com
 volans.tech
 *.indriverapp.com
-super-services.indriverapp.com
 *.indrive.com
 *.indriverapp.com
 *.indrive.com
@@ -1279,12 +1279,12 @@ www.expediataap.com
 www.expediaagents.com
 www.orbitz.com
 www.mrjet.se
-www.travelocity.ca
 www.stayz.com.au
+www.travelocity.ca
 www.bookabach.co.nz
 *.wotif.com
-www.travelocity.com
 *.expediacruises.com
+www.travelocity.com
 www.flights.com
 www.hotwirepartnercentral.com
 *.travelocity.com
@@ -1548,9 +1548,9 @@ delta.app
 bullsheet.me
 *.instacart.tools
 *.instacart.com
+www.instacart.com
 admin.instacart.com
 api.instacart.com
-www.instacart.com
 shoppers.instacart.com
 *.instacart.com
 *.instacart.tools
@@ -1593,14 +1593,14 @@ payoneer.com.cn
 *.payoneer.com
 payoneer.com.cn
 download.krisp.ai
-upld.krisp.ai
 teams.krisp.ai
+upld.krisp.ai
 analytics.krisp.ai
 account.krisp.ai
 krisp.ai
 api.krisp.ai
-app.krisp.ai
 *.krisp.ai
+app.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1635,6 +1635,7 @@ www.evernote.com
 www.evernote.com
 accounts.evernote.com
 api.evernote.com
+hc2services.com
 *.singspacegame.com
 *.hmxwebservices.com
 *.epicgames.dev
@@ -1870,15 +1871,15 @@ business.reddithelp.com
 *.snooguts.net
 amp.reddit.com
 new.reddit.com
+ads.reddit.com
 gql.reddit.com
 *.memorable.io
-*.reddit.com
 developers.reddit.com
-ads.reddit.com
 accounts.reddit.com
 sh.reddit.com
 mod.reddit.com
 *.redditinc.com
+*.reddit.com
 *.snooguts.net
 *.reddit.com
 *.redditmedia.com
@@ -2083,8 +2084,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 academy-outbound-ads.tiktok.com
 shop.tiktok.com
-effecthouse.tiktok.com
 creatormarketplace.tiktok.com
+effecthouse.tiktok.com
 seller-id.tokopedia.com
 pay.tokopediax.com
 careers.tiktok.com
@@ -2094,8 +2095,8 @@ developers.tiktok.com
 business.tiktok.com
 fp-sg.tiktokv.com
 tiktok.com
-*.tiktok.com
 affiliate-id.tokopedia.com
+*.tiktok.com
 shop-id.tokopedia.com
 live-backstage.tiktok.com
 *.tiktokv.com
@@ -2120,6 +2121,7 @@ seller-id.tokopedia.com
 shop-id.tokopedia.com
 pay.tokopediax.com
 meetiobook.com
+gaming.logicool.co.jp
 circle.logi.com
 accounts.logi.com
 *vc.logitech.com
@@ -2162,8 +2164,8 @@ app.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
-*.5nine.com
 *.devicelock.com
+*.5nine.com
 account.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
@@ -2534,8 +2536,8 @@ homes-and-villas.marriott.com
 *uat.marriott.com
 hotel-deals.marriott.com
 www.ritzcarlton.com
-gatewaydsaptst2.marriott.com
 careers.marriott.com
+gatewaydsaptst2.marriott.com
 mgs.marriott.com
 activities.marriott.com
 www.marriott.com
@@ -2991,8 +2993,8 @@ paypalobjects.com
 *.hyperwallet.com
 *.braintreepayments.com
 *.xoom.com
-*.braintreegateway.com
 sandbox.braintreegateway.com
+*.braintreegateway.com
 *.paypal.com
 *.xoom.com
 *.paypal.com
@@ -3134,13 +3136,13 @@ www.fitvermogen.nl
 playartifact.com
 support.steampowered.com
 www.teamfortress.com
-www.dota2.com
 partner.steampowered.com
+www.dota2.com
 developer.valvesoftware.com
 api.steampowered.com
 store.steampowered.com
-partner.steamgames.com
 www.valvesoftware.com
+partner.steamgames.com
 steamcommunity.com
 help.steampowered.com
 www.counter-strike.net
@@ -3160,9 +3162,9 @@ developer.valvesoftware.com
 js.crypto.com
 app.mona.co
 *.mona.co
-merchant.crypto.com
 developer-platform-api.crypto.com
 tax.crypto.com
+merchant.crypto.com
 web.crypto.com
 *.crypto.com
 nadex.com
@@ -3387,8 +3389,8 @@ gutenberg.run
  github.com/WordPress
 store.rockstargames.com
 socialclub.rockstargames.com
-rockstarnorth.com
 support.rockstargames.com
+rockstarnorth.com
 *.rockstargames.com
 circolocorecords.com/
 prod.ros.rockstargames.com
@@ -3527,9 +3529,9 @@ api.grofers.com
 api2.grofers.com
 *.hyperpure.com
 winecellar.zomato.com
-*.zomato.com
 blinkit.com
 *.zomans.com
+*.zomato.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3596,8 +3598,8 @@ shopify.plus
 shop.app
 accounts.shopify.com
 your-store.myshopify.com
-partners.shopify.com
 admin.shopify.com
+partners.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3616,11 +3618,11 @@ create.snapchat.com
 map.snapchat.com
 scan.snapchat.com
 store.playcanvas.com
+story.snapchat.com
 relay.playcanvas.com
 msg.playcanvas.com
 rt.playcanvas.com
 launch.playcanvas.com
-story.snapchat.com
 login.playcanvas.com
 snappublisher.snapchat.com
 blog.playcanvas.com
@@ -3629,8 +3631,8 @@ geofilters.snapchat.com
 developer.playcanvas.com
 kit.snapchat.com
 forum.playcanvas.com
-*.sc-core.net
 playcanvas.com
+*.sc-core.net
 my.snapchat.com
 store.snapchat.com
 ads.snapchat.com
@@ -3639,8 +3641,8 @@ spectacles.com
 code.playcanvas.com
 businesshelp.snapchat.com
 *.sc-corp.net
-app.snapchat.com
 web.snapchat.com
+app.snapchat.com
 business.snapchat.com
 accounts.snapchat.com
 www.bitstrips.com
@@ -3812,9 +3814,9 @@ www.greenhouse.io
 *.twimg.com
 gnip.com
 *.vine.co
-*.twitter.com
 *.x.com
 *.x.ai
+*.twitter.com
 x.com
 *.twitter.com
 *.vine.co
@@ -3840,8 +3842,8 @@ waf.cumulusfire.net
 secure.tumblr.com
 embed.tumblr.com
 *.srvcs.tumblr.com
-akismet.com
 t.umblr.com
+akismet.com
 api.tumblr.com
 assets.tumblr.com
 safe.tumblr.com
@@ -3959,9 +3961,9 @@ ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com
 api.hackerone.com
 reviewer.pullrequest.com
-www.hackerone.com
 app.pullrequest.com
 hackerone.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
