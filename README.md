@@ -2,15 +2,15 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb  2 13:17:18 UTC 2025)
+## Domains with Bounties (Last Updated Sun Feb  2 13:36:59 UTC 2025)
 ```
 report-html-sight.stg.inspectorio.com
 docuflow.stg.inspectorio.com
 api.stg.inspectorio.com
-rise.stg.inspectorio.com
 rise-api.stg.inspectorio.com
 app.stg.inspectorio.com
 id.stg.inspectorio.com
+rise.stg.inspectorio.com
 app.stg.inspectorio.com
 rise.stg.inspectorio.com
 report-html-sight.stg.inspectorio.com
@@ -45,8 +45,8 @@ arc.net
 arc.net
 thebrowser.company
 bcny.com
-www.starbucks.co.th/
 www.starbucks.com.kh/
+www.starbucks.co.th/
 www.starbucks.com.bn/
 www.starbucks.la/
 www.starbucks.ph/
@@ -57,8 +57,8 @@ www.starbucks.com.hk/
 www.starbucks.com.my/
 www.starbucks.co.nz/
 www.starbucks.co.id/
-www.starbucks.in/
 www.starbucks.com.sg/
+www.starbucks.in/
 www.starbucks.com.tw/
 www.starbucks.com.au/
 www.starbucks.com.bn/
@@ -91,10 +91,10 @@ www.starbucks.nl
 www.starbucks.es
 www.starbucks.de
 www.starbucks.pl
-www.starbucks.com.kz
-www.starbucks.co.ma
 www.starbucks.com.bh
+www.starbucks.co.ma
 www.starbucks.com.om
+www.starbucks.com.kz
 www.roastery.starbucks.it
 www.starbucks.com.jo
 www.starbucks.com.lb
@@ -104,8 +104,8 @@ www.starbucks.mt
 www.starbucks.ie/
 www.starbucks.rs
 www.starbucks.qa
-www.starbucks.com.kw
 www.starbucksslovakia.sk/
+www.starbucks.com.kw
 www.starbucks.bg
 www.starbucks.hu
 www.starbucks.pt/
@@ -150,11 +150,11 @@ www.starbucks.sa
 www.starbucks.co.za
 www.starbucks.rs
 www.starbucks.com.ar/
-www.starbucks.co.cr/
 www.starbucks.com.mx/
 www.starbucks.pa/
 www.starbucks.com.py/
 www.starbucks.com.uy
+www.starbucks.co.cr/
 www.starbucks.com.sv
 www.starbucks.cl
 www.starbucks.tt
@@ -216,8 +216,8 @@ api.khealth.com
 gnocchi-www.buffalo-ggn.net
 *.boardkingsgame.com
 *.serious.li
-*.playwsop.com
 *.seriously.com
+*.playwsop.com
 *.slotomania.com
 *.playtika.com
 *.bingoblitz.com
@@ -261,8 +261,8 @@ stats.wnba.com
 mcd.nba.com
 www.wnba.com
 content-api-nextgen-prod.nba.com
-core-api.nba.com
 cdn-bal.nba.com
+core-api.nba.com
 bal.nba.com
 manage-teams.nba.com
 lockervision.nba.com
@@ -500,8 +500,8 @@ careers.remitly.com
 app.rewire.to
 api.remitly.io
 rewire.com
-rates.rewire.com
 ir.remitly.com
+rates.rewire.com
 blog.remitly.com
 remitly.com
 auth.remitly.com
@@ -658,13 +658,13 @@ www.mercadolibre.com.py
 *.gokangu.mx
 *.mercadoshops.com.mx
 *.mlstatic.com
-*.mercadopago.com
-www.mercadolibre.com.bo
-www.mercadolivre.com
-*.mercadopago.cl
 api.mercadopago.com
 *.gokangu.uy
 www.mercadolibre.com.ni
+*.mercadopago.cl
+*.mercadopago.com
+www.mercadolibre.com.bo
+www.mercadolivre.com
 *.mercadoshops.com.co
 *.adminml.com
 *.mercadopago.com.co
@@ -745,8 +745,8 @@ sites.fareharbor.com
 careers.booking.com
 *.fareharbor.engineering
 taxi.booking.com
-spark.fareharbor.com
 chat.booking.com
+spark.fareharbor.com
 cars.booking.com
 accommodations.booking.com
 fhdn.fareharbor.com
@@ -805,8 +805,8 @@ tableau.fareharbor.engineering
 fareharborsites.com
 *.bybit.com
 *.bybit.com
-portal.au.frontegg.com
 api.au.frontegg.com
+portal.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 api2.frontapp.com
@@ -855,10 +855,10 @@ auth0.gocardless.com
 *.gocardless-cicd.io
 *.gocardless.io
 *.gocardless-banking.io
-manage-sandbox.gocardless.com
+pay-sandbox.gocardless.com
 www.gocardless.com
 api-sandbox.gocardless.com
-pay-sandbox.gocardless.com
+manage-sandbox.gocardless.com
 *.gocardless-staging.io
 connect-sandbox.gocardless.com
 *.gocardless.io
@@ -942,12 +942,12 @@ www.visa.co.jp
 www.visa.co.ke
 visa.co.ni
 www.visa.co.th
+www.visa.com.cn
+cw.visa.com
 www.visa.com.vn
 www.practicalmoneyskills.com
 developer.authorize.net
 bm.visa.com
-www.visa.com.cn
-cw.visa.com
 www.visa.com.mx
 bq.visa.com
 www.visa.co.uk
@@ -959,8 +959,8 @@ developer.currencycloud.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
 www.visa.com.br
-bb.visa.com
 www.visa.com.cy
+bb.visa.com
 test.payworks.io
 www.visa.com.tr
 www.visa.com.sg
@@ -970,10 +970,10 @@ www.visa.co.nz
 sandbox.secure.checkout.visa.com
 developer.cybersource.com
 ht.visa.com
-www.cybersource.com
-console.tink.com
 www.fraedom.com
 direct-demo.currencycloud.com
+www.cybersource.com
+console.tink.com
 www.cardinalcommerce.com
 aw.visa.com
 bb.visa.com
@@ -1089,17 +1089,17 @@ api.tideplatform.in
 api.tideplatform.in
 sync.services.mozilla.com
 vpn.mozilla.org
-mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
+mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
 lando.services.mozilla.com
-crash-reports.allizom.org
 crash-stats.allizom.org
+crash-reports.allizom.org
 hg.mozilla.org
 push.services.mozilla.com
 merino.services.mozilla.com
-firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
+firefox-ci-tc.services.mozilla.com
 support.mozilla.org
 profiler.firefox.com
 community-tc.services.mozilla.com
@@ -1154,8 +1154,8 @@ api-eu.floqast.app
 *.hiltonlocalbiz.com
 hilton.io
 *.hiltonbusinessonline.com
-hiltonlocalbiz.com
 hiltonbusinessonline.com
+hiltonlocalbiz.com
 *.hilton.io
 *.hilton.com
 hilton.com
@@ -1364,8 +1364,8 @@ sell.moonpay.com
 web3.moonpay.com
 *.moonpay.com
 moonpay.com
-buy.moonpay.com
 app.moonpay.com
+buy.moonpay.com
 api.moonpay.com
 auth.moonpay.com
 *.moonpaycloud.com
@@ -1465,8 +1465,8 @@ www.flights.com
 bookus.expediacruises.com
 www.expediataap.com
 *.magiceden.dev
-magiceden.io
 *.magiceden.io
+magiceden.io
 *.magiceden.workers.dev
 magiceden.io
 *.magiceden.io
@@ -1509,4 +1509,8 @@ https://www.amazon.com/luna/*
 https://luna.amazon.com/*
 knox.beta.blendlabs.com
 knox.beta.blendlabs.com
+artifactory.corp.mongodb.com/
+https://www.*mongodb.com/*
+mongodb.live/*
+artifactory.corp.mongodb.com/
 ```
