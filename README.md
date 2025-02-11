@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 11 09:41:54 UTC 2025)
+## Domains with Bounties (Last Updated Tue Feb 11 10:23:24 UTC 2025)
 ```
 report-html-sight.stg.inspectorio.com
 api.stg.inspectorio.com
@@ -48,8 +48,8 @@ bcny.com
 www.starbucks.com.kh/
 www.starbucks.com.bn/
 www.starbucks.la/
-www.starbucks.vn/
 www.starbucks.co.kr/
+www.starbucks.vn/
 www.starbucks.com.my/
 www.starbucks.com.tw/
 www.starbucks.co.id/
@@ -90,10 +90,10 @@ www.starbucks.com.cn/
 www.starbucks.es
 www.starbucks.de
 www.starbucks.pl
-www.starbucks.com.bh
-www.starbucks.co.ma
 www.starbucks.com.om
 www.starbucks.com.kz
+www.starbucks.com.bh
+www.starbucks.co.ma
 www.roastery.starbucks.it
 www.starbucks.com.jo
 www.starbucks.com.lb
@@ -110,7 +110,7 @@ www.starbucks.pt/
 www.starbucks.co.za
 www.starbucks.ro
 www.starbucks.be
-www.starbucks.ae
+www.starbucks.cz/
 www.starbucks.fr/
 https://www.starbucks.at
 www.starbucks.be
@@ -149,11 +149,11 @@ www.starbucks.qa
 www.starbucks.sa
 www.starbucks.co.za
 www.starbucks.rs
-www.starbucks.co.cr/
 www.starbucks.com.mx/
 www.starbucks.pa/
 www.starbucks.com.py/
 www.starbucks.com.uy
+www.starbucks.co.cr/
 www.starbucks.com.sv
 www.starbucks.cl
 www.starbucks.com.ar/
@@ -331,8 +331,8 @@ ichnaea.netflix.com
 *.nflxvideo.net
 *.nflxext.com
 secure.netflix.com
-help.netflix.com
 meechum.netflix.com
+help.netflix.com
 www.netflix.com
 *.nflxext.com
 *.prod.ftl.netflix.com
@@ -415,9 +415,9 @@ site.rewire.com
 api.remitly.io
 blog.remitly.com
 auth.remitly.com
-metrics.int.remitly.com
 app.rewire.to
 rates.rewire.com
+metrics.int.remitly.com
 *.dev.remitly.com
 careers.remitly.com
 news.remitly.com
@@ -539,12 +539,12 @@ education.23andme.com
 therapeutics.23andme.com
 research.23andme.com
 mediacenter.23andme.com
-blog.23andme.com
 api.23andme.com
 auth.23andme.com
-store.23andme.com
 medical.23andme.com
+store.23andme.com
 you.23andme.com
+blog.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -567,9 +567,9 @@ www.mercadolibre.com.hn
 www.mercadolibre.com.py
 *.mercadoshops.com.mx
 *.mlstatic.com
-www.mercadolibre.com.ni
 *.mercadopago.com
 www.mercadolibre.com.bo
+www.mercadolibre.com.ni
 *.mercadoshops.com.co
 *.mercadolibre.com.uy
 *.mercadolibre.com.mx
@@ -578,10 +578,10 @@ www.mercadolibre.com.bo
 www.mercadolibre.co.cr
 *.mercadopago.cl
 *.mercadoshops.cl
-www.mercadolibre.com.gt
-www.mercadolibre.com.do
-*.mercadolibre.com.co
 *.mercadoshops.com
+www.mercadolibre.com.do
+www.mercadolibre.com.gt
+*.mercadolibre.com.co
 *.mercadopago.com.mx
 *.mercadoshops.com.pa
 www.mercadolibre.com.pa
@@ -663,10 +663,10 @@ kyc-onboarding.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 readonly.fareharbor.com
-tableau.fareharbor.engineering
 flights.booking.com
 compass.fareharbor.com
 fareharborsites.com
+tableau.fareharbor.engineering
 admin.booking.com
 marketing.fareharbor.com
 *.fareharbor.com
@@ -732,9 +732,9 @@ kronor.io
 kronor.io
 *.travix.io
 *.cheaptickets.nl
-*.trip.com
 *.trainpal.com
 *.mytrainpal.com
+*.trip.com
 *.travix.com
 *.trip.com
 *.travix.com
@@ -796,8 +796,8 @@ api.wisdomtreeprimeapp.com
 api.wisdomtreeprimeapp.com
 eets.gamma.redoxstage.com
 help.redoxengine.com
-explore.redoxengine.com
 clientcert.gamma.redoxstage.com
+explore.redoxengine.com
 fhir.redoxengine.com
 blob.gamma.redoxstage.com
 api.gamma.redoxstage.com
@@ -1100,7 +1100,6 @@ festival.alternativa.film
 indrive.alternativa.film
 auth2.indrive.tech
 *.indriverapp.com
-*.indriver.com
 debug.clairvoyance.indrive.tech
 file-storage-front.eu-east-1.indriverapp.com
 injob.indriver.com
@@ -1109,6 +1108,7 @@ auroratechaward.com
 alternativa.film
 ab-platform-api.eu-east-1.indriverapp.com
 *.indrive.com
+*.indriver.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1140,8 +1140,8 @@ indrive.alternativa.film
 auroratechaward.com
 *.grindr.io
 web.grindr.com
-*.grindr.com
 *.grindr.mobi
+*.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1189,8 +1189,8 @@ www.s-kaupat.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
-online.s-pankki.fi
 tunnistus.s-ryhma.fi
+online.s-pankki.fi
 www.sokos.fi
 www.s-pankki.fi
 www.prisma.fi
@@ -1259,11 +1259,11 @@ admin.8x8.com
 *.napoleonsports.be
 *.luckydays.ca
 *.spinaway.com
-*.napoleongames.be
 *.magicjackpot.ro
 *.superbet.pl
 *.superbet.ro
 *.superbet.com
+*.napoleongames.be
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1408,8 +1408,8 @@ metrics.deribit.com
 read.amazon.com
 skills-store.amazon.com
 a4k.amazon.com
-alexaanswers.amazon.com
 alexa.amazon.com
+alexaanswers.amazon.com
 creator.amazon.com
 blueprints.amazon.com
 read.amazon.com
@@ -1468,8 +1468,8 @@ invoices.razorpay.com
 payroll.razorpay.com
 x.razorpay.com
 api.linkedin.com
-business.linkedin.com
 www.linkedin.com
+business.linkedin.com
 www.linkedin.com
 api.linkedin.com
 business.linkedin.com
@@ -1687,7 +1687,6 @@ accounts.evernote.com
 www.evernote.com
 accounts.evernote.com
 api.evernote.com
-hc2services.com
 *.singspacegame.com
 *.hmxwebservices.com
 *.epicgames.dev
@@ -1931,14 +1930,14 @@ gateway.reddit.com
 matrix.redditspace.com
 *.memorable.io
 redditforbusiness.com
-*.redditinc.com
 new.reddit.com
+*.redditinc.com
 ads.reddit.com
-api.reddit.com
 strapi.reddit.com
+api.reddit.com
 developers.reddit.com
-*.reddit.com
 accounts.reddit.com
+*.reddit.com
 *.snooguts.net
 *.reddit.com
 *.redditmedia.com
@@ -2068,8 +2067,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.com
 core.yoti.com
 code.yoti.com
-api.yoti.com
 ccloud.yoti.com
+api.yoti.com
 www.yotisign.com
 identity.yoti.com
 hub.yoti.com
@@ -2145,7 +2144,6 @@ academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 developers.tiktok.com
 partner.tiktokshop.com
-creatormarketplace.tiktok.com
 live-backstage.tiktok.com
 careers.tiktok.com
 effecthouse.tiktok.com
@@ -2154,12 +2152,13 @@ business.tiktok.com
 seller-id.tokopedia.com
 shop-id.tokopedia.com
 pay.tokopediax.com
-*.tiktok.com
 ads.tiktok.com
-*.tiktokv.com
 tiktok.com
-affiliate-id.tokopedia.com
 shop.tiktok.com
+*.tiktokv.com
+*.tiktok.com
+creatormarketplace.tiktok.com
+affiliate-id.tokopedia.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2189,7 +2188,6 @@ id.logi.com
 accounts.logi.com
 www.logitech.com
 www.logitechg.com
-www.jaybirdsport.com
 www.ultimateears.com
 www.astrogaming.com
 www.logitech.com.cn
@@ -2244,21 +2242,21 @@ app.marionnaud.ro
 app.marionnaud.sk
 www20.watsons.co.th
 app.marionnaud.hu
-api.watsons.vn
 app.drogas.lv
 media.drogas.lv
-api.marionnaud.it
-media.marionnaud.it
 medias.watsons.co.th
 medias.watsons.co.id
 medias.watsons.com.my
+api.watsons.vn
+media.marionnaud.it
+api.marionnaud.it
+medias.watsons.com.tw
 www10.watsons.vn
 www10.watsons.com.tw
 www10.watsons.com.sg
 www10.watsons.com.my
 www10.watsons.co.id
 www10.watsons.co.th
-medias.watsons.com.tw
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2546,8 +2544,8 @@ api.magic.link
 api.fortmatic.com
 portal.magicnewton.com
 dashboard.magic.link
-fortmatic.com
 auth.magic.link
+fortmatic.com
 api.fortmatic.com
 auth.magic.link
 dashboard.magic.link
@@ -2653,8 +2651,8 @@ app.nordpass.com
 *.line-apps.com
 *.line.biz
 *.line.naver.jp
-*.line.me
 *.linecorp.com
+*.line.me
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -2842,12 +2840,12 @@ res.universalorlandovacations.com
 res.vacations.united.com
 res.hyattinclusivecollection.com
 jira.hyattdev.com
-vacations.travelimpressions.com
-res.blueskytours.globalbookingsolutions.com
-holidays-nz.fijiairways.com
-newsroom.images.hyatt.com
 vacations.universalstudioshollywood.com
+holidays-nz.fijiairways.com
 res.vacations.discoverycove.com
+newsroom.images.hyatt.com
+res.blueskytours.globalbookingsolutions.com
+vacations.travelimpressions.com
 soaext.oft.hyatt.com
 res.vacations.sesameplace.com
 res.southwestvacations.com
@@ -2858,6 +2856,7 @@ vacations.us.palladiumhotelgroup.com
 www.triseptsolutions.com
 meetings.hyatt.com
 res.secretsresorts.com
+book.cheapcaribbean.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -3391,16 +3390,16 @@ doaction.org
 bbpress.org
 profiles.wordpress.org
 *.wordpress.net
-api.wordpress.org
 codex.wordpress.org
 codex.bbpress.org
 codex.buddypress.org
+api.wordpress.org
 *.trac.wordpress.org
  *.svn.wordpress.org
  *.git.wordpress.org
  github.com/WordPress
-*.wordpress.org
 *.wordcamp.org
+*.wordpress.org
 *.wordpress.org
 *.buddypress.org
 bbpress.org
@@ -3468,8 +3467,8 @@ https://enterprise-demo.portswigger.net/
 secureui.starbucks.com
 openapi.starbucks.com
 www.starbucksreserve.com
-app.starbucks.com
 www.starbucks.ca
+app.starbucks.com
 www.starbucks.com
 www.starbucksreserve.com
 www.starbucks.ca
@@ -3519,8 +3518,8 @@ classroom.github.com
 npmjs.com
 education.github.com
 gist.github.com
-github.com
 api.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3571,9 +3570,9 @@ blinkit.com
 *.district.in
 *.ticketnew.com
 *.insider.in
-*.zomato.com
 *.zomans.com
 *.zdev.net
+*.zomato.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3646,8 +3645,8 @@ linkpop.com
 arrive-server.shopifycloud.com
 partners.shopify.com
 accounts.shopify.com
-admin.shopify.com
 your-store.myshopify.com
+admin.shopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3745,6 +3744,10 @@ uisp.com
 unifi.ui.com
 careers.ui.com
 ispdesign.ui.com
+magentolive.com
+adobeid-na1.services.adobe.com
+repo.magento.com
+u.magento.com
 account.adobe.com
 acrobat.adobe.com
 auth.services.adobe.com
@@ -3768,6 +3771,7 @@ http://federatedid-na1.services.adobe.com
 new.express.adobe.com
 net.s2stagehance.com
 learningmanagerstage4.adobe.com
+photos.adobe.io
 *.lightroom.adobe.com
 m.airbnb.com
 omgpro.airbnb.com
@@ -3864,9 +3868,9 @@ www.greenhouse.io
 gnip.com
 *.twitter.com
 *.twimg.com
-*.x.ai
 *.x.com
 x.com
+*.x.ai
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3903,8 +3907,8 @@ assets.tumblr.com
 gravatar.com
 my.pressable.com
 wordpress.com
-www.tumblr.com
 simplenote.com
+www.tumblr.com
 *.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
