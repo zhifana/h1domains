@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 27 08:25:04 UTC 2025)
+## Domains with Bounties (Last Updated Thu Feb 27 08:47:04 UTC 2025)
 ```
 api.prod.whoop.com
 *.whoop.com
@@ -110,8 +110,8 @@ thebrowser.company
 bcny.com
 gift.starbucks.co.jp
 www.cart.starbucks.co.jp/
-login.starbucks.co.jp
 cart.starbucks.co.jp
+login.starbucks.co.jp
 www.starbucks.co.jp
 www.starbucks.co.jp
 www.cart.starbucks.co.jp/
@@ -192,8 +192,8 @@ bestfiends.com
 vfo03.vodafone.om
 apix.vodafone.om
 www.vodafone.om
-vfo01.vodafone.om
 vfo02.vodafone.om
+vfo01.vodafone.om
 www.vodafone.om
 apix.vodafone.om
 vfo01.vodafone.om
@@ -202,8 +202,8 @@ vfo03.vodafone.om
 stats.2kleague.nba.com
 mcd.nba.com
 syndication.nba.com
-content-api-prod.nba.com
 stats-trafficcop-prod.nba.com
+content-api-prod.nba.com
 core-api.nba.com
 2kleague.nba.com
 nbafedsvc.nba.com
@@ -214,18 +214,18 @@ stats.gleague.nba.com
 manage-teams.nba.com
 manage.nba.com
 cdn.nba.com
-stats.wnba.com
 mcdalerts.nba.com
-cdn-bal.nba.com
+stats.wnba.com
 cms.nba.com
 elm.nba.com
+cdn-bal.nba.com
 stats.nba.com
 gleague.nba.com
 bal.nba.com
 www.wnba.com
+lockervision.nba.com
 id.nba.com
 corp-dev.nba.com
-lockervision.nba.com
 teamportal.nba.com
 www.nba.com
 identity.nba.com
@@ -282,8 +282,8 @@ secure.netflix.com
 *.prod.cloud.netflix.com
 meechum.netflix.com
 *.nflxvideo.net
-ichnaea.netflix.com
 help.netflix.com
+ichnaea.netflix.com
 beacon.netflix.com
 *.nflxso.net
 www.netflix.com
@@ -744,8 +744,8 @@ api.wisdomtreeprimeapp.com
 api.wisdomtreeprimeapp.com
 eets.gamma.redoxstage.com
 help.redoxengine.com
-clientcert.gamma.redoxstage.com
 explore.redoxengine.com
+clientcert.gamma.redoxstage.com
 fhir.redoxengine.com
 blob.gamma.redoxstage.com
 api.gamma.redoxstage.com
@@ -757,8 +757,8 @@ sftp.gamma.redoxstage.com
 testapi.redoxengine.com
 gamma.redoxstage.com
 www.redoxengine.com
-10x.redoxengine.com
 testapp.redoxengine.com
+10x.redoxengine.com
 dashboard.gamma.redoxstage.com
 docs.redoxengine.com
 app.gamma.redoxstage.com
@@ -798,12 +798,12 @@ www.visa.co.jp
 www.visa.co.ke
 visa.co.ni
 www.visa.co.th
-www.visa.com.cn
-cw.visa.com
 www.visa.com.vn
 www.practicalmoneyskills.com
-developer.authorize.net
 bm.visa.com
+developer.authorize.net
+www.visa.com.cn
+cw.visa.com
 www.visa.com.mx
 bq.visa.com
 www.visa.co.uk
@@ -822,8 +822,8 @@ www.visa.com.az
 www.visa.co.nz
 developer.cybersource.com
 ht.visa.com
-www.fraedom.com
 www.cybersource.com
+www.fraedom.com
 www.cardinalcommerce.com
 visa.co.za
 sandbox.authorize.net
@@ -914,7 +914,6 @@ m.avtoelon.uz
 api.kolesa.kz
 api.krisha.kz
 app.kolesa.kz
-api.avtoelon.uz
 id.kolesa.kz
 id.avtoelon.uz
 krisha.kz
@@ -922,6 +921,7 @@ m.krisha.kz
 m.kolesa.kz
 avtoelon.uz
 kolesa.kz
+api.avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -1283,8 +1283,6 @@ www.lastminute.com.au
 www.expediagroup.com
 www.ebookers.fi
 *.cheaptickets.com
-bookus.expediacruises.com
-www.carrentals.com
 *.lastminute.com.au
 *.carrentals.com
 www.fewo-direkt.de
@@ -1295,6 +1293,8 @@ www.cheaptickets.com
 *.wotif.com
 www.hotwirepartnercentral.com
 www.ebookers.com
+bookus.expediacruises.com
+www.carrentals.com
 *.vrbo.com
 *.carrentals.com
 *.wotif.com
@@ -1331,8 +1331,8 @@ www.flights.com
 bookus.expediacruises.com
 www.expediataap.com
 *.magiceden.workers.dev
-*.magiceden.dev
 magiceden.io
+*.magiceden.dev
 *.magiceden.io
 magiceden.io
 *.magiceden.io
@@ -1423,11 +1423,11 @@ business.linkedin.com
 www.momondo.com
 www.mundi.com.br
 business.kayak.com
-www.swoodoo.com
 www.cheapflights.com
-www.checkfelix.com
-www.hotelscombined.com
+www.swoodoo.com
 www.kayak.com
+www.hotelscombined.com
+www.checkfelix.com
 www.kayak.com
 www.swoodoo.com
 www.checkfelix.com
@@ -1587,10 +1587,10 @@ payoneer.com.cn
 *.payoneer.com
 *.payoneer.com
 payoneer.com.cn
+upld.krisp.ai
 analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
-upld.krisp.ai
 app.krisp.ai
 account.krisp.ai
 api.krisp.ai
@@ -1985,8 +1985,8 @@ status.larksuite.com
 open.larksuite.com
 lark-frontier.byteoversea.com
 internal-api-lark-api.larksuite.com
-hackers_chosendomain.larksuite.com
 api.larksuite.com
+hackers_chosendomain.larksuite.com
 app.larksuite.com
 larksuite.com
 larksuite.com
@@ -2010,8 +2010,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.com
 core.yoti.com
 code.yoti.com
-api.yoti.com
 ccloud.yoti.com
+api.yoti.com
 identity.yoti.com
 hub.yoti.com
 www.yotisign.com
@@ -2051,9 +2051,9 @@ list-v2--netlify-plugins.netlify.app
 internal-docs.netlify.com
 supportal.netlify.app
 world.hey.com
-3.basecamp.com
 launchpad.37signals.com
 *.hey.com
+3.basecamp.com
 *.hey.com
 3.basecamp.com
 launchpad.37signals.com
@@ -2064,9 +2064,9 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 onboarding.cloud.com
 (yoursubdomain).us.iws.cloud.com
-ap-s.cloud.com
-us.cloud.com
 adm.cloud.com
+us.cloud.com
+ap-s.cloud.com
 accounts.cloud.com
 *.citrixworkspacesapi.net
 (youriwssubdomain).cloud.com
@@ -2186,7 +2186,6 @@ app.marionnaud.sk
 www20.watsons.co.th
 app.marionnaud.hu
 api.watsons.vn
-app.drogas.lv
 media.drogas.lv
 api.marionnaud.it
 media.marionnaud.it
@@ -2359,8 +2358,8 @@ my.account.sony.com
 social.playstation.com
 ca.account.sony.com
 store.playstation.com
-transact.playstation.com
 *.api.playstation.com
+transact.playstation.com
 *.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2507,11 +2506,11 @@ gatewaydsaptst1.marriott.com
 jobs.marriott.com
 *uat.marriott.com
 www.ritzcarlton.com
-gatewaydsaptst2.marriott.com
 careers.marriott.com
+gatewaydsaptst2.marriott.com
 marrtool.com
-help.marriott.com
 reservations.all-inclusive.marriott.com
+help.marriott.com
 marriottfranchisetransactions.marriott.com
 homes-and-villas.marriott.com
 hotel-deals.marriott.com
@@ -2578,8 +2577,8 @@ docs.datastax.com
 downloads.datastax.com
 langflow.datastax.com
 langflow.org
-astra.datastax.com
 www.datastax.com
+astra.datastax.com
 www.datastax.com
 downloads.datastax.com
 docs.datastax.com
@@ -2784,16 +2783,16 @@ www.globalhotelchoices.com
 blueskytours.globalbookingsolutions.com
 booking.cheapcaribbean.com
 booking.applevacations.com
-www.funjet.com
-res.universalorlandovacations.com
-res.vacations.united.com
 res.hyattinclusivecollection.com
 jira.hyattdev.com
+res.universalorlandovacations.com
+www.funjet.com
+res.vacations.united.com
 res.blueskytours.globalbookingsolutions.com
-holidays-nz.fijiairways.com
-newsroom.images.hyatt.com
 vacations.universalstudioshollywood.com
 res.vacations.discoverycove.com
+newsroom.images.hyatt.com
+holidays-nz.fijiairways.com
 soaext.oft.hyatt.com
 res.vacations.sesameplace.com
 res.southwestvacations.com
@@ -3065,6 +3064,11 @@ staging-admin.shipt.com
 staging-shoppingcart.shipt.com
 shoppingcart.shipt.com
 www.shipt.com
+*.goldmanpfm.com
+*.marcus.co.uk
+*.qaglobal-liquidity.gs.com
+*.global-liquidity.gs.com
+apigw.foliofn.com
 *.goldmansachs.com
 *.goldman.com
 *.marcus.com
@@ -3083,13 +3087,6 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioclient.com
 *.foliodigitalwealth.com
-*.foliofirst.com
-*.foliofn.com
-*.folioidentity.com
-*.folioinstitutional.com
-*.folioinvesting.com
-*.nnip.com
-*.vennhypotheken.nl
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3135,8 +3132,8 @@ api.steampowered.com
 store.steampowered.com
 help.steampowered.com
 www.counter-strike.net
-steamcommunity.com
 partner.steamgames.com
+steamcommunity.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3157,8 +3154,8 @@ js.crypto.com
 nadex.com
 tax.crypto.com
 web.crypto.com
-merchant.crypto.com
 *.crypto.com
+merchant.crypto.com
 *.crypto.com
 *.mona.co
 https://crypto.com/exchange
@@ -3241,8 +3238,8 @@ api.grabpay.com
 *.ovo.id
 jira.grab.com
 *.grabtaxi.com
-*.grabpay.com
 *.myteksi.net
+*.grabpay.com
 kartaview.org
 *.grab-sure.com
 p.grabtaxi.com
@@ -3309,8 +3306,8 @@ chatdate.app
 assets.spotify.com
 backstage.io
 *.byspotify.com
-*.spotify.com
 api.spotify.com
+*.spotify.com
 *.spotify.com
 *.spotify.net
 *.withspotify.com
@@ -3381,8 +3378,8 @@ gutenberg.run
 rockstarnorth.com
 store.rockstargames.com
 prod.ros.rockstargames.com
-socialclub.rockstargames.com
 circolocorecords.com/
+socialclub.rockstargames.com
 support.rockstargames.com
 www.rockstargames.com
 *.rockstargames.com
@@ -3546,14 +3543,14 @@ api2.grofers.com
 blinkit.com
 secure-dfadmin.deriv.com
 *.derivws.com
-api.deriv.com
 smarttrader.deriv.com
+api.deriv.com
 *.binary.com
-app.deriv.com
-oauth.deriv.com
 cashier.deriv.com
 derivws.com
 *.deriv.cloud
+app.deriv.com
+oauth.deriv.com
 *.deriv.com
 *.deriv.com
 *.deriv.cloud
@@ -3589,9 +3586,9 @@ arrive-server.shopifycloud.com
 linkpop.com
 *.shopify.io
 *.shopifycloud.com
-accounts.shopify.com
-*.shopifycs.com
 *.shopify.com
+*.shopifycs.com
+accounts.shopify.com
 partners.shopify.com
 shop.app
 admin.shopify.com
@@ -3634,8 +3631,8 @@ code.playcanvas.com
 businesshelp.snapchat.com
 story.snapchat.com
 playcanvas.com
-store.snapchat.com
 spectacles.com
+store.snapchat.com
 *.sc-corp.net
 app.snapchat.com
 web.snapchat.com
@@ -3701,8 +3698,8 @@ adobeid-na1.services.adobe.com
 fonts.adobe.com
 auth.services.adobe.com
 repo.magento.com
-firefly.adobe.com
 *.lightroom.adobe.com
+firefly.adobe.com
 contributor.stock.adobe.com
 photoshop.adobe.com
 account.magento.com
@@ -3828,10 +3825,10 @@ www.greenhouse.io
 *.vine.co
 *.twimg.com
 gnip.com
-x.com
-*.twitter.com
-*.x.ai
 *.x.com
+x.com
+*.x.ai
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3864,8 +3861,8 @@ mailpoet.com
 assets.tumblr.com
 gravatar.com
 my.pressable.com
-www.tumblr.com
 simplenote.com
+www.tumblr.com
 wordpress.com
 *.tumblr.com
 akismet.com
@@ -3893,8 +3890,8 @@ team-irc.irccloud.com
 *.irccloud-cdn.com
 api.irccloud.com
 *.irccloud.com
-www.irccloud.com
 irccloud.com
+www.irccloud.com
 blog.irccloud.com
 *.irccloud-cdn.com
 *.irccloud.com
