@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar  2 08:40:44 UTC 2025)
+## Domains with Bounties (Last Updated Sun Mar  2 09:18:08 UTC 2025)
 ```
 https://console.neon.tech/api/v2/
 https://console.neon.tech/
