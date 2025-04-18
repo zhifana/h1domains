@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Apr 18 09:18:48 UTC 2025)
+## Domains with Bounties (Last Updated Fri Apr 18 09:40:57 UTC 2025)
 ```
 https://api.myntra.com
 https://payments.myntra.com
@@ -11,9 +11,9 @@ https://www.flipkart.com
 https://pay.payzippy.com
 https://uiscoop.payzippy.com
 zooplus.net
-www.zooplus.de
 www.zooplus.co.uk
 www.zooplus.com
+www.zooplus.de
 www.zooplus.de
 www.zooplus.co.uk
 www.zooplus.com
@@ -33,8 +33,8 @@ mark8.syfe.com
 https://console.neon.tech/api/v2/
 https://console.neon.tech/
 https://console-stage.neon.build/
-shop.whoop.com
 app.whoop.com
+shop.whoop.com
 api.prod.whoop.com
 api.prod.whoop.com
 app.whoop.com
@@ -76,11 +76,11 @@ http://engine.heytap.com
 https://nativepay.keke.cn
 https://spgw-pay.finzfin.com
 tb.toloka.dev
+experts-portal.toloka.ai
 ladybug.a9s.toloka.ai
 workspace.toloka.dev
-sso.auth.toloka.ai
 auth.toloka.ai
-experts-portal.toloka.ai
+sso.auth.toloka.ai
 workspace.toloka.ai
 mindrift.toloka.ai
 auth.toloka.ai
@@ -98,10 +98,10 @@ https://api-ui.toloka.ai
 rise-api.stg.inspectorio.com
 rise.stg.inspectorio.com
 docuflow.stg.inspectorio.com
-id.stg.inspectorio.com
-app.stg.inspectorio.com
 api.stg.inspectorio.com
 report-html-sight.stg.inspectorio.com
+id.stg.inspectorio.com
+app.stg.inspectorio.com
 app.stg.inspectorio.com
 rise.stg.inspectorio.com
 report-html-sight.stg.inspectorio.com
@@ -280,14 +280,14 @@ vote.nba.com
 elm.nba.com
 lockervision.nba.com
 app.circle.com
-console.circle.com
 api.circle.com
+console.circle.com
 api.circle.com
 app.circle.com
 console.circle.com
 *.varonis.net
-*.varonis.com
 *.varonis.io
+*.varonis.com
 *.varonis.com
 *.varonis.io
 *.varonis.net
@@ -328,8 +328,8 @@ earlywarningapi.force.com
 api.zmsp.earlywarning.com
 *.clearxchange.com
 ews-fusion.my.site.com
-zelleservice.my.site.com
 zellepay.force.com
+zelleservice.my.site.com
 api.zellepay.com
 platform.cat.earlywarning.io
 *.zelle.com
@@ -389,12 +389,12 @@ site.rewire.com
 rewire.com
 *.int.remitly.com
 remitly.com
-careers.remitly.com
-news.remitly.com
-auth.remitly.com
 blog.remitly.com
-app.rewire.to
+news.remitly.com
+careers.remitly.com
+auth.remitly.com
 ir.remitly.com
+app.rewire.to
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -481,8 +481,8 @@ university-staging.dynatracelabs.com
 account-sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 sso-sprint.dynatracelabs.com
-myaccount-hardening.dynatracelabs.com
 *.sprint.dynatracelabs.com
+myaccount-hardening.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -536,9 +536,9 @@ research.23andme.com
 *.mercadoshops.com.mx
 *.mercadoshops.com.do
 www.mercadopago.com.ec
+*.mercadopago.com.uy
 *.mercadoshops.com.br
 www.mercadolibre.com.hn
-*.mercadopago.com.uy
 www.mercadolibre.com.ni
 www.mercadolibre.co.cr
 *.mercadolibre.com.uy
@@ -731,13 +731,13 @@ https://api-test.nicehash.com
 *.gocardless-banking.io
 auth0.gocardless.com
 payer-details-sandbox.gocardless.com
-connect-sandbox.gocardless.com
 *.gocardless-cicd.io
+connect-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 ob.gocardless.com
 www.gocardless.com
-api-sandbox.gocardless.com
 *.gocardless.com
+api-sandbox.gocardless.com
 manage-sandbox.gocardless.com
 pay-sandbox.gocardless.com
 *.gocardless.io
@@ -977,20 +977,20 @@ firefox-ci-tc.services.mozilla.com
 profiler.firefox.com
 phabricator.allizom.org
 hg.mozilla.org
+mozilla-pontoon-staging.herokuapp.com
 bugzilla.mozilla.org
 firefox.settings.services.mozilla.com
-mozilla-pontoon-staging.herokuapp.com
 addons.allizom.org
 merino.services.mozilla.com
 push.services.mozilla.com
 monitor.mozilla.org
-support.mozilla.org
-community-tc.services.mozilla.com
 accounts.firefox.com
 relay.firefox.com
+support.mozilla.org
+community-tc.services.mozilla.com
 vpn.mozilla.org
-www.mozilla.org
 developer.mozilla.org
+www.mozilla.org
 aus5.mozilla.org
 addons.allizom.org
 developer.mozilla.org
@@ -1018,8 +1018,8 @@ mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
 push.services.mozilla.com
 sync.services.mozilla.com
-www.six-group.com
 www.bolsasymercados.es
+www.six-group.com
 www.six-group.com
 www.bolsasymercados.es
 https://www.sdx.com/
@@ -1030,4 +1030,20 @@ api-eu.floqast.app
 *.eu.floqast.app
 *.floqast.app
 api-eu.floqast.app
+hiltonbusinessonline.com
+hiltonlocalbiz.com
+hilton.io
+*.hiltonbusinessonline.com
+*.hiltonlocalbiz.com
+*.hilton.io
+hilton.com
+*.hilton.com
+*.hilton.com
+*.hilton.io
+*.hiltonbusinessonline.com
+*.hiltonlocalbiz.com
+hilton.com
+hilton.io
+hiltonbusinessonline.com
+hiltonlocalbiz.com
 ```
