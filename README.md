@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May  1 07:21:56 UTC 2025)
+## Domains with Bounties (Last Updated Thu May  1 07:38:50 UTC 2025)
 ```
 tax.audible.com
 *.audible.*
