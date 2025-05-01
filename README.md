@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May  1 04:02:19 UTC 2025)
+## Domains with Bounties (Last Updated Thu May  1 04:30:00 UTC 2025)
 ```
 *.acx.com
 *.audible.*
