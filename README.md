@@ -2,11 +2,11 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May  7 14:22:31 UTC 2025)
+## Domains with Bounties (Last Updated Wed May  7 14:50:06 UTC 2025)
 ```
 walletbot.me
-wallet.tg
 pay.wallet.tg
+wallet.tg
 walletbot.me
 pay.wallet.tg
 wallet.tg
@@ -442,12 +442,12 @@ ir.remitly.com
 *.int.remitly.com
 app.rewire.to
 access.remitly.com
+auth.remitly.com
 blog.remitly.com
 api.remitly.io
 app3.rewire.to
 rewire.com
 remitly.com
-auth.remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -483,8 +483,8 @@ getworldcoin.com
 *.toolsforhumanity.com
 bioid-management.app
 *.worldcoin.org
-*.worldcoin.dev
 developer.worldcoin.org
+*.worldcoin.dev
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -573,8 +573,8 @@ auth.23andme.com
 pd-api.polkadoc.com
 api.23andme.com
 you.23andme.com
-blog.23andme.com
 clinic.lemonaidhealth.com
+blog.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -1004,8 +1004,8 @@ https://www.visa.com.az/az_az/account/registration
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.myfreshworks.com
-yourdomain.freshdesk.com
 yourdomain.freshservice.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1205,8 +1205,8 @@ cloud.malwarebytes.com
 *.threatdown.com
 www.malwarebytes.com
 *.mwbsys.com
-*.cloud.malwarebytes.com
 *.malwarebytes.com
+*.cloud.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -2035,8 +2035,8 @@ open.larksuite.com
 file.larksuite.com
 app.larksuite.com
 status.larksuite.com
-api.larksuite.com
 larksuite.com
+api.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2212,11 +2212,11 @@ app.faraday.ai
 api.faraday.ai
 *.acronis.work
 *-api-*.acronis.com
-account.acronis.com
-beta-cloud.acronis.com
 *.devicelock.com
-*.acronis.com
 *.5nine.com
+account.acronis.com
+*.acronis.com
+beta-cloud.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2367,8 +2367,8 @@ store.playstation.com
 wallets.api.playstation.com
 my.account.sony.com
 ca.account.sony.com
-*.sonyentertainmentnetwork.com
 *.api.playstation.com
+*.sonyentertainmentnetwork.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -3225,8 +3225,8 @@ kartaview.org
 *.grabpay.com
 *.ovo.id
 *.grab.com
-*.myteksi.net
 *.myteksi.com
+*.myteksi.net
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3500,8 +3500,8 @@ npmjs.org
 *ubereats.com
 *.uberinternal.com
 *ubereats.com
-www.mapbox.com
 api.mapbox.com
+www.mapbox.com
 www.mapbox.com
 api.mapbox.com
 https://docs.mapbox.com/
@@ -3577,8 +3577,8 @@ derivws.com
 secure-dfadmin.deriv.com
 zopim.com
 developer.zendesk.com
-www.zendesk.com
 h1-your-domain.zendesk.com
+www.zendesk.com
 www.zendesk.com
 h1-your-domain.zendesk.com
 zopim.com
@@ -3599,12 +3599,12 @@ shopifyinbox.com
 arrive-server.shopifycloud.com
 *.shopify.io
 shop.app
-partners.shopify.com
-admin.shopify.com
 *.shopify.com
 accounts.shopify.com
-your-store.myshopify.com
 *.pci.shopifyinc.com
+partners.shopify.com
+admin.shopify.com
+your-store.myshopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3650,8 +3650,8 @@ business.snapchat.com
 forum.playcanvas.com
 web.snapchat.com
 app.snapchat.com
-accounts.snapchat.com
 playcanvas.com
+accounts.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
