@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May  7 14:50:06 UTC 2025)
+## Domains with Bounties (Last Updated Wed May  7 15:24:09 UTC 2025)
 ```
 walletbot.me
 pay.wallet.tg
@@ -21,9 +21,9 @@ https://www.flipkart.com
 https://pay.payzippy.com
 https://uiscoop.payzippy.com
 zooplus.net
-www.zooplus.com
 www.zooplus.de
 www.zooplus.co.uk
+www.zooplus.com
 www.zooplus.de
 www.zooplus.co.uk
 www.zooplus.com
@@ -442,12 +442,12 @@ ir.remitly.com
 *.int.remitly.com
 app.rewire.to
 access.remitly.com
-auth.remitly.com
+rewire.com
+remitly.com
 blog.remitly.com
 api.remitly.io
 app3.rewire.to
-rewire.com
-remitly.com
+auth.remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -483,8 +483,8 @@ getworldcoin.com
 *.toolsforhumanity.com
 bioid-management.app
 *.worldcoin.org
-developer.worldcoin.org
 *.worldcoin.dev
+developer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -613,7 +613,6 @@ www.mercadolibre.com.ec
 *.adminml.com
 *.mercadoshops.com.ar
 *.mercadoshops.com.pe
-*.mercadolibre.com.mx
 api.mercadopago.com
 api.mercadolibre.com
 *.mercadopago.cl
@@ -621,6 +620,7 @@ api.mercadolibre.com
 *.mercadolibre.com.uy
 *.mercadopago.com.uy
 *.mercadopago.com.co
+*.mercadopago.com.pe
 *.adminml.com
 *.mercadolibre.cl
 *.mercadolibre.com
@@ -1004,8 +1004,8 @@ https://www.visa.com.az/az_az/account/registration
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.myfreshworks.com
-yourdomain.freshservice.com
 yourdomain.freshdesk.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1205,8 +1205,8 @@ cloud.malwarebytes.com
 *.threatdown.com
 www.malwarebytes.com
 *.mwbsys.com
-*.malwarebytes.com
 *.cloud.malwarebytes.com
+*.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -2035,8 +2035,8 @@ open.larksuite.com
 file.larksuite.com
 app.larksuite.com
 status.larksuite.com
-larksuite.com
 api.larksuite.com
+larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2367,8 +2367,8 @@ store.playstation.com
 wallets.api.playstation.com
 my.account.sony.com
 ca.account.sony.com
-*.api.playstation.com
 *.sonyentertainmentnetwork.com
+*.api.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -3500,8 +3500,8 @@ npmjs.org
 *ubereats.com
 *.uberinternal.com
 *ubereats.com
-api.mapbox.com
 www.mapbox.com
+api.mapbox.com
 www.mapbox.com
 api.mapbox.com
 https://docs.mapbox.com/
@@ -3562,8 +3562,8 @@ oauth.deriv.com
 *.binary.com
 cashier.deriv.com
 derivws.com
-app.deriv.com
 *.deriv.com
+app.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3577,8 +3577,8 @@ derivws.com
 secure-dfadmin.deriv.com
 zopim.com
 developer.zendesk.com
-h1-your-domain.zendesk.com
 www.zendesk.com
+h1-your-domain.zendesk.com
 www.zendesk.com
 h1-your-domain.zendesk.com
 zopim.com
@@ -3600,11 +3600,11 @@ arrive-server.shopifycloud.com
 *.shopify.io
 shop.app
 *.shopify.com
-accounts.shopify.com
 *.pci.shopifyinc.com
 partners.shopify.com
 admin.shopify.com
 your-store.myshopify.com
+accounts.shopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3647,11 +3647,11 @@ ads.snapchat.com
 story.snapchat.com
 snappublisher.snapchat.com
 business.snapchat.com
+accounts.snapchat.com
 forum.playcanvas.com
 web.snapchat.com
 app.snapchat.com
 playcanvas.com
-accounts.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3717,6 +3717,7 @@ magento.com
 account.adobe.com
 photos.adobe.io
 fonts.adobe.com
+marketplace.magento.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3757,8 +3758,8 @@ next.airbnb.com
 *.muscache.com
 *.hoteltonight.com
 api.airbnb.com
-*.airbnb.com
 www.airbnb.com
+*.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3948,9 +3949,9 @@ slackb.com
 *.quip.com
 slack-status.com
 slackatwork.com
-api.slack.com
-app.slack.com
 slack.com
+app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 slackb.com
