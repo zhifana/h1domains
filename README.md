@@ -2,10 +2,10 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May  7 17:20:33 UTC 2025)
+## Domains with Bounties (Last Updated Wed May  7 17:47:14 UTC 2025)
 ```
-wallet.tg
 pay.wallet.tg
+wallet.tg
 walletbot.me
 walletbot.me
 pay.wallet.tg
@@ -30,9 +30,9 @@ www.zooplus.com
 zooplus.net
 mark8.syfe.com
 alfred.syfe.com
+api.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 uat-bugbounty.nonprod.syfe.com
-api.syfe.com
 www.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
@@ -439,15 +439,15 @@ careers.remitly.com
 news.remitly.com
 ir.remitly.com
 *.int.remitly.com
-app.rewire.to
 access.remitly.com
 blog.remitly.com
 api.remitly.io
 app3.rewire.to
 site.rewire.com
 auth.remitly.com
-rewire.com
 remitly.com
+rewire.com
+app.rewire.to
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -483,8 +483,8 @@ getworldcoin.com
 *.toolsforhumanity.com
 bioid-management.app
 *.worldcoin.org
-*.worldcoin.dev
 developer.worldcoin.org
+*.worldcoin.dev
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -1966,9 +1966,9 @@ ads.reddit.com
 developers.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
+*.redditinc.com
 *.reddit.com
 *.memorable.io
-*.redditinc.com
 *.snooguts.net
 *.reddit.com
 *.redditmedia.com
@@ -2035,8 +2035,8 @@ open.larksuite.com
 file.larksuite.com
 app.larksuite.com
 status.larksuite.com
-api.larksuite.com
 larksuite.com
+api.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2188,8 +2188,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-platform.enjin.io
 nft.io
+platform.enjin.io
 nft.io
 platform.enjin.io
 api.figma.com
@@ -3135,12 +3135,12 @@ developer.valvesoftware.com
 developer-platform-api.crypto.com
 tax.crypto.com
 js.crypto.com
-web.crypto.com
 app.mona.co
 nadex.com
 *.mona.co
 merchant.crypto.com
 *.crypto.com
+web.crypto.com
 *.crypto.com
 *.mona.co
 https://crypto.com/exchange
@@ -3427,8 +3427,8 @@ cdna.lystit.com
 mobileapi.lystit.com
 try.discourse.org
 try.discourse.org
-*.quora.com
 poe.com
+*.quora.com
 *.quora.com
 http://poe.com
 forum.portswigger.net
@@ -3597,7 +3597,6 @@ linkpop.com
 shopifyinbox.com
 *.shopifycs.com
 arrive-server.shopifycloud.com
-*.shopify.io
 shop.app
 *.shopify.com
 *.pci.shopifyinc.com
@@ -3605,6 +3604,7 @@ partners.shopify.com
 admin.shopify.com
 your-store.myshopify.com
 accounts.shopify.com
+*.shopify.io
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3647,9 +3647,9 @@ ads.snapchat.com
 story.snapchat.com
 snappublisher.snapchat.com
 business.snapchat.com
+accounts.snapchat.com
 forum.playcanvas.com
 app.snapchat.com
-accounts.snapchat.com
 web.snapchat.com
 playcanvas.com
 accounts.snapchat.com
@@ -3718,7 +3718,6 @@ account.adobe.com
 photos.adobe.io
 fonts.adobe.com
 marketplace.magento.com
-firefly.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3757,10 +3756,10 @@ www.hoteltonight.com
 *.hoteltonight-test.com
 *.muscache.com
 *.hoteltonight.com
-api.airbnb.com
 www.airbnb.com
 *.airbnb.com
 next.airbnb.com
+api.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3831,13 +3830,13 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 *.twimg.com
-*.x.ai
 x.com
 *.twitter.com
 grok.com
 *.x.com
 *.grok.com
 gnip.com
+*.x.ai
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3950,9 +3949,9 @@ slackb.com
 *.quip.com
 slack-status.com
 slackatwork.com
-app.slack.com
 slack.com
 api.slack.com
+app.slack.com
 slack.com
 api.slack.com
 slackb.com
