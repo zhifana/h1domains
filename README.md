@@ -2,10 +2,10 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May  7 16:53:31 UTC 2025)
+## Domains with Bounties (Last Updated Wed May  7 17:20:33 UTC 2025)
 ```
-pay.wallet.tg
 wallet.tg
+pay.wallet.tg
 walletbot.me
 walletbot.me
 pay.wallet.tg
@@ -441,13 +441,13 @@ ir.remitly.com
 *.int.remitly.com
 app.rewire.to
 access.remitly.com
-remitly.com
 blog.remitly.com
 api.remitly.io
 app3.rewire.to
-auth.remitly.com
 site.rewire.com
+auth.remitly.com
 rewire.com
+remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -483,8 +483,8 @@ getworldcoin.com
 *.toolsforhumanity.com
 bioid-management.app
 *.worldcoin.org
-developer.worldcoin.org
 *.worldcoin.dev
+developer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -1246,8 +1246,8 @@ auth.skypicker.com
 tequila.kiwi.com
 jobs.kiwi.com
 *.kiwi.com
-www.kiwi.com
 *.skypicker.com
+www.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1488,10 +1488,10 @@ https://user-storage.api.cx.metamask.io
 signature-insights.api.cx.metamask.io
 invoices.razorpay.com
 x.razorpay.com
-dashboard.razorpay.com
 payroll.razorpay.com
 checkout.razorpay.com
 api.razorpay.com
+dashboard.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -1966,9 +1966,9 @@ ads.reddit.com
 developers.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
-*.redditinc.com
 *.reddit.com
 *.memorable.io
+*.redditinc.com
 *.snooguts.net
 *.reddit.com
 *.redditmedia.com
@@ -2035,8 +2035,8 @@ open.larksuite.com
 file.larksuite.com
 app.larksuite.com
 status.larksuite.com
-larksuite.com
 api.larksuite.com
+larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2188,8 +2188,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-nft.io
 platform.enjin.io
+nft.io
 nft.io
 platform.enjin.io
 api.figma.com
@@ -2210,10 +2210,10 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
+*.acronis.work
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-*.acronis.work
 account.acronis.com
 beta-cloud.acronis.com
 *.acronis.com
@@ -3577,8 +3577,8 @@ derivws.com
 secure-dfadmin.deriv.com
 zopim.com
 developer.zendesk.com
-h1-your-domain.zendesk.com
 www.zendesk.com
+h1-your-domain.zendesk.com
 www.zendesk.com
 h1-your-domain.zendesk.com
 zopim.com
@@ -3647,11 +3647,11 @@ ads.snapchat.com
 story.snapchat.com
 snappublisher.snapchat.com
 business.snapchat.com
-accounts.snapchat.com
 forum.playcanvas.com
 app.snapchat.com
-playcanvas.com
+accounts.snapchat.com
 web.snapchat.com
+playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3831,13 +3831,13 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 *.twimg.com
+*.x.ai
 x.com
 *.twitter.com
 grok.com
 *.x.com
 *.grok.com
 gnip.com
-*.x.ai
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3950,8 +3950,8 @@ slackb.com
 *.quip.com
 slack-status.com
 slackatwork.com
-slack.com
 app.slack.com
+slack.com
 api.slack.com
 slack.com
 api.slack.com
