@@ -2,11 +2,11 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May  7 15:24:09 UTC 2025)
+## Domains with Bounties (Last Updated Wed May  7 15:49:06 UTC 2025)
 ```
-walletbot.me
 pay.wallet.tg
 wallet.tg
+walletbot.me
 walletbot.me
 pay.wallet.tg
 wallet.tg
@@ -30,10 +30,10 @@ www.zooplus.com
 zooplus.net
 mark8.syfe.com
 alfred.syfe.com
+api.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 uat-bugbounty.nonprod.syfe.com
 www.syfe.com
-api.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 www.syfe.com
@@ -442,11 +442,11 @@ ir.remitly.com
 *.int.remitly.com
 app.rewire.to
 access.remitly.com
-rewire.com
-remitly.com
 blog.remitly.com
 api.remitly.io
 app3.rewire.to
+rewire.com
+remitly.com
 auth.remitly.com
 *.int.remitly.com
 *.dev.remitly.com
@@ -548,12 +548,12 @@ app.dynamic.xyz
 app.dynamic-preprod.xyz
 app.dynamic.xyz
 demo.dynamic.xyz
-cpanel.hostinger.com
 payments.hostinger.com
 builder.hostinger.com
 horizons.hostinger.com
 hpanel.hostinger.com
 www.hostinger.com
+cpanel.hostinger.com
 www.hostinger.com
 cpanel.hostinger.com
 hpanel.hostinger.com
@@ -772,8 +772,8 @@ app.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 kronor.io
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 kronor.io
@@ -1004,8 +1004,8 @@ https://www.visa.com.az/az_az/account/registration
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.myfreshworks.com
-yourdomain.freshdesk.com
 yourdomain.freshservice.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1205,8 +1205,8 @@ cloud.malwarebytes.com
 *.threatdown.com
 www.malwarebytes.com
 *.mwbsys.com
-*.cloud.malwarebytes.com
 *.malwarebytes.com
+*.cloud.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1488,10 +1488,10 @@ https://user-storage.api.cx.metamask.io
 signature-insights.api.cx.metamask.io
 invoices.razorpay.com
 x.razorpay.com
-api.razorpay.com
 dashboard.razorpay.com
 payroll.razorpay.com
 checkout.razorpay.com
+api.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -2035,8 +2035,8 @@ open.larksuite.com
 file.larksuite.com
 app.larksuite.com
 status.larksuite.com
-api.larksuite.com
 larksuite.com
+api.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2588,8 +2588,8 @@ downloads.datastax.com
 langflow.org
 langflow.datastax.com
 docs.datastax.com
-www.datastax.com
 astra.datastax.com
+www.datastax.com
 www.datastax.com
 downloads.datastax.com
 docs.datastax.com
@@ -3484,8 +3484,8 @@ npmjs.org
 education.github.com
 gist.github.com
 *.githubapp.com
-github.com
 api.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3647,10 +3647,10 @@ ads.snapchat.com
 story.snapchat.com
 snappublisher.snapchat.com
 business.snapchat.com
-accounts.snapchat.com
 forum.playcanvas.com
 web.snapchat.com
 app.snapchat.com
+accounts.snapchat.com
 playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
@@ -3718,6 +3718,7 @@ account.adobe.com
 photos.adobe.io
 fonts.adobe.com
 marketplace.magento.com
+firefly.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3949,8 +3950,8 @@ slackb.com
 *.quip.com
 slack-status.com
 slackatwork.com
-slack.com
 app.slack.com
+slack.com
 api.slack.com
 slack.com
 api.slack.com
