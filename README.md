@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May  7 19:41:27 UTC 2025)
+## Domains with Bounties (Last Updated Wed May  7 20:23:35 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 pay.wallet.tg
@@ -31,9 +31,9 @@ www.zooplus.com
 zooplus.net
 mark8.syfe.com
 alfred.syfe.com
+api.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 uat-bugbounty.nonprod.syfe.com
-api.syfe.com
 www.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
@@ -484,8 +484,8 @@ getworldcoin.com
 *.toolsforhumanity.com
 bioid-management.app
 *.worldcoin.org
-developer.worldcoin.org
 *.worldcoin.dev
+developer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -2036,8 +2036,8 @@ open.larksuite.com
 file.larksuite.com
 app.larksuite.com
 status.larksuite.com
-api.larksuite.com
 larksuite.com
+api.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2211,10 +2211,10 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
+*.acronis.work
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-*.acronis.work
 account.acronis.com
 beta-cloud.acronis.com
 *.acronis.com
@@ -2367,8 +2367,8 @@ store.playstation.com
 wallets.api.playstation.com
 my.account.sony.com
 ca.account.sony.com
-*.api.playstation.com
 *.sonyentertainmentnetwork.com
+*.api.playstation.com
 *.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -3578,8 +3578,8 @@ derivws.com
 secure-dfadmin.deriv.com
 zopim.com
 developer.zendesk.com
-www.zendesk.com
 h1-your-domain.zendesk.com
+www.zendesk.com
 www.zendesk.com
 h1-your-domain.zendesk.com
 zopim.com
@@ -3599,13 +3599,13 @@ shopifyinbox.com
 *.shopifycs.com
 arrive-server.shopifycloud.com
 shop.app
-*.shopify.com
 *.pci.shopifyinc.com
+*.shopify.com
 *.shopify.io
 partners.shopify.com
-accounts.shopify.com
 your-store.myshopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3650,9 +3650,9 @@ snappublisher.snapchat.com
 business.snapchat.com
 forum.playcanvas.com
 app.snapchat.com
-accounts.snapchat.com
 web.snapchat.com
 playcanvas.com
+accounts.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3759,8 +3759,8 @@ www.hoteltonight.com
 *.hoteltonight.com
 www.airbnb.com
 *.airbnb.com
-api.airbnb.com
 next.airbnb.com
+api.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
