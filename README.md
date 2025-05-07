@@ -2,10 +2,11 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May  7 18:48:50 UTC 2025)
+## Domains with Bounties (Last Updated Wed May  7 19:19:28 UTC 2025)
 ```
-pay.wallet.tg
+https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 wallet.tg
+pay.wallet.tg
 walletbot.me
 walletbot.me
 pay.wallet.tg
@@ -30,9 +31,9 @@ www.zooplus.com
 zooplus.net
 mark8.syfe.com
 alfred.syfe.com
-api.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 uat-bugbounty.nonprod.syfe.com
+api.syfe.com
 www.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
@@ -43,9 +44,9 @@ mark8.syfe.com
 https://console.neon.tech/api/v2/
 https://console.neon.tech/
 https://console-stage.neon.build/
-app.whoop.com
-shop.whoop.com
 api.prod.whoop.com
+shop.whoop.com
+app.whoop.com
 api.prod.whoop.com
 app.whoop.com
 shop.whoop.com
@@ -127,8 +128,8 @@ http://app.lightspark.com
 https://link.uma.me
 lrc20.lightspark.com
 app.uma.money
-auth.privy.io
 dashboard.privy.io
+auth.privy.io
 auth.privy.io
 dashboard.privy.io
 http://--your-own-1password-account--.1password.com
@@ -444,9 +445,9 @@ blog.remitly.com
 api.remitly.io
 app3.rewire.to
 site.rewire.com
-auth.remitly.com
 remitly.com
 rewire.com
+auth.remitly.com
 app.rewire.to
 *.int.remitly.com
 *.dev.remitly.com
@@ -483,8 +484,8 @@ getworldcoin.com
 *.toolsforhumanity.com
 bioid-management.app
 *.worldcoin.org
-developer.worldcoin.org
 *.worldcoin.dev
+developer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -565,7 +566,6 @@ sapi-live.lh.us-west-2.prd.23andme.us
 mediacenter.23andme.com
 lemonaidhealth.com
 healthaid.lemonaidhealth.com
-research.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 store.23andme.com
@@ -575,6 +575,7 @@ api.23andme.com
 you.23andme.com
 blog.23andme.com
 clinic.lemonaidhealth.com
+research.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -1246,8 +1247,8 @@ auth.skypicker.com
 tequila.kiwi.com
 jobs.kiwi.com
 *.kiwi.com
-*.skypicker.com
 www.kiwi.com
+*.skypicker.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1634,9 +1635,9 @@ bullsheet.me
 api.instacart.com
 admin.instacart.com
 shoppers.instacart.com
-*.instacart.com
 *.instacart.tools
 www.instacart.com
+*.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1966,9 +1967,9 @@ ads.reddit.com
 developers.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
+*.memorable.io
 *.redditinc.com
 *.reddit.com
-*.memorable.io
 *.snooguts.net
 *.reddit.com
 *.redditmedia.com
@@ -2143,13 +2144,13 @@ creatormarketplace.tiktok.com
 www.pangleglobal.com
 shop-id.tokopedia.com
 business.tiktok.com
-tiktok.com
 *.tiktokv.com
 *.tiktok.com
 shop.tiktok.com
 live-backstage.tiktok.com
 ads.tiktok.com
 seller-id.tokopedia.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2210,10 +2211,10 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
-*.acronis.work
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
+*.acronis.work
 account.acronis.com
 beta-cloud.acronis.com
 *.acronis.com
@@ -2362,13 +2363,13 @@ direct.playstation.com
 api.direct.playstation.com
 my.playstation.com
 transact.playstation.com
-*.playstation.net
 store.playstation.com
 wallets.api.playstation.com
 my.account.sony.com
 ca.account.sony.com
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
+*.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -3409,9 +3410,9 @@ store.rockstargames.com
 www.rockstargames.com
 rockstarnorth.com
 circolocorecords.com/
-your-assigned-subdomain.files.com
 app.files.com
 www.files.com
+your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
 www.files.com
@@ -3427,8 +3428,8 @@ cdna.lystit.com
 mobileapi.lystit.com
 try.discourse.org
 try.discourse.org
-poe.com
 *.quora.com
+poe.com
 *.quora.com
 http://poe.com
 forum.portswigger.net
@@ -3577,8 +3578,8 @@ derivws.com
 secure-dfadmin.deriv.com
 zopim.com
 developer.zendesk.com
-www.zendesk.com
 h1-your-domain.zendesk.com
+www.zendesk.com
 www.zendesk.com
 h1-your-domain.zendesk.com
 zopim.com
@@ -3600,11 +3601,11 @@ arrive-server.shopifycloud.com
 shop.app
 *.shopify.com
 *.pci.shopifyinc.com
-partners.shopify.com
-admin.shopify.com
-your-store.myshopify.com
-accounts.shopify.com
 *.shopify.io
+your-store.myshopify.com
+admin.shopify.com
+accounts.shopify.com
+partners.shopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3647,9 +3648,9 @@ ads.snapchat.com
 story.snapchat.com
 snappublisher.snapchat.com
 business.snapchat.com
-accounts.snapchat.com
 forum.playcanvas.com
 app.snapchat.com
+accounts.snapchat.com
 web.snapchat.com
 playcanvas.com
 accounts.snapchat.com
@@ -3716,7 +3717,6 @@ learningmanagerstage4.adobe.com
 magento.com
 account.adobe.com
 photos.adobe.io
-fonts.adobe.com
 marketplace.magento.com
 *.acrobat.adobe.com
 account.adobe.com
@@ -3758,8 +3758,8 @@ www.hoteltonight.com
 *.hoteltonight.com
 www.airbnb.com
 *.airbnb.com
-next.airbnb.com
 api.airbnb.com
+next.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3833,10 +3833,10 @@ www.greenhouse.io
 x.com
 *.twitter.com
 grok.com
-*.x.com
 *.grok.com
 gnip.com
 *.x.ai
+*.x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3949,9 +3949,9 @@ slackb.com
 *.quip.com
 slack-status.com
 slackatwork.com
-slack.com
 api.slack.com
 app.slack.com
+slack.com
 slack.com
 api.slack.com
 slackb.com
@@ -3981,11 +3981,11 @@ hackathon-photos.hackerone-user-content.com
 *.vpn.hackerone.net
 hackerone.live
 api.hackerone.com
-www.hackerone.com
 reviewer.pullrequest.com
 app.pullrequest.com
-hackerone.com
 a5s.hackerone-ext-content.com
+www.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
