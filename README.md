@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May  8 15:19:57 UTC 2025)
+## Domains with Bounties (Last Updated Thu May  8 15:47:02 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 pay.wallet.tg
-wallet.tg
 walletbot.me
+wallet.tg
 walletbot.me
 pay.wallet.tg
 wallet.tg
-*.audible.(TLD)
 tax.audible.com
+*.audible.(TLD)
 tax.audible.com
 *.audible.(TLD)
 https://api.myntra.com
@@ -21,10 +21,10 @@ https://www.myntra.com
 https://www.flipkart.com
 https://pay.payzippy.com
 https://uiscoop.payzippy.com
-zooplus.net
 www.zooplus.co.uk
-www.zooplus.com
+zooplus.net
 www.zooplus.de
+www.zooplus.com
 www.zooplus.de
 www.zooplus.co.uk
 www.zooplus.com
@@ -128,8 +128,8 @@ http://app.lightspark.com
 https://link.uma.me
 lrc20.lightspark.com
 app.uma.money
-auth.privy.io
 dashboard.privy.io
+auth.privy.io
 auth.privy.io
 dashboard.privy.io
 http://--your-own-1password-account--.1password.com
@@ -207,9 +207,6 @@ api.khealth.com
 *.boardkingsgame.com
 *.serious.li
 *.playticorp.com
-*.justfall.lol
-*.justplay.lol
-*.1v1.lol
 *.slotomania.com
 *.playtika.com
 *.bingoblitz.com
@@ -446,9 +443,9 @@ site.rewire.com
 app.rewire.to
 careers.remitly.com
 rewire.com
-remitly.com
-access.remitly.com
 auth.remitly.com
+access.remitly.com
+remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -483,9 +480,9 @@ getworldcoin.com
 *.toolsforhumanity.com
 bioid-management.app
 *.worldcoin.org
-*.worldcoin.dev
 developer.worldcoin.org
 toolsforhumanity.com
+*.worldcoin.dev
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -622,6 +619,7 @@ api.mercadopago.com
 *.mercadopago.com.mx
 *.mercadoshops.com.br
 *.mercadopago.com
+mercadoplay.co
 *.adminml.com
 *.mercadolibre.cl
 *.mercadolibre.com
@@ -816,9 +814,9 @@ connect-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 ob.gocardless.com
 www.gocardless.com
-api-sandbox.gocardless.com
 manage-sandbox.gocardless.com
 *.gocardless.com
+api-sandbox.gocardless.com
 pay-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -1005,8 +1003,8 @@ https://www.visa.com.az/az_az/account/registration
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.myfreshworks.com
-yourdomain.freshdesk.com
 yourdomain.freshservice.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1062,7 +1060,6 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 aus5.mozilla.org
 lando.services.mozilla.com
 firefox.settings.services.mozilla.com
-bugzilla.mozilla.org
 firefox-ci-tc.services.mozilla.com
 www.mozilla.org
 community-tc.services.mozilla.com
@@ -1072,6 +1069,7 @@ monitor.mozilla.org
 addons.allizom.org
 profiler.firefox.com
 accounts.firefox.com
+bugzilla.mozilla.org
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
@@ -1204,10 +1202,10 @@ cloud.malwarebytes.com
 *.mbamupdates.com
 www.malwarebytes.com
 *.mwbsys.com
-*.cloud.malwarebytes.com
 my.malwarebytes.com
 *.threatdown.com
 *.malwarebytes.com
+*.cloud.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1488,10 +1486,10 @@ https://user-storage.api.cx.metamask.io
 signature-insights.api.cx.metamask.io
 invoices.razorpay.com
 x.razorpay.com
-payroll.razorpay.com
 api.razorpay.com
 dashboard.razorpay.com
 checkout.razorpay.com
+payroll.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -1700,12 +1698,6 @@ upld.krisp.ai
 app.krisp.ai
 admin.wickr.com
 admin.wickr.com
-*.joinclubhouse.com
-*.clubhouse.com
-*.clubhouseapi.com
-*.clubhouse.com
-*.joinclubhouse.com
-*.clubhouseapi.com
 bigcommerce-adapter.judge.me
 shop.judge.me
 woocommerce-adapter.judge.me
@@ -1784,9 +1776,9 @@ playwonderbox.com
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
-*.gotinder.com
-*.tinder.com
 *.tinderops.net
+*.tinder.com
+*.gotinder.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1967,10 +1959,10 @@ ads.reddit.com
 developers.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
-*.redditinc.com
 m.reddit.com
-*.memorable.io
+*.redditinc.com
 *.reddit.com
+*.memorable.io
 *.snooguts.net
 *.reddit.com
 *.redditmedia.com
@@ -2052,9 +2044,9 @@ internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
-*.exodus.com
 *.exodus.io
 *.a.exodus.io
+*.exodus.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
@@ -2190,8 +2182,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-nft.io
 platform.enjin.io
+nft.io
 nft.io
 platform.enjin.io
 api.figma.com
@@ -2217,8 +2209,8 @@ api.faraday.ai
 *.devicelock.com
 *.5nine.com
 account.acronis.com
-*.acronis.com
 beta-cloud.acronis.com
+*.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2364,13 +2356,13 @@ direct.playstation.com
 api.direct.playstation.com
 my.playstation.com
 transact.playstation.com
-store.playstation.com
 wallets.api.playstation.com
 my.account.sony.com
 ca.account.sony.com
 *.api.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
+store.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2558,10 +2550,10 @@ http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
-*.rbx.com
 blox.link
 *.roblox.com
 *.guilded.gg
+*.rbx.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3141,8 +3133,8 @@ nadex.com
 *.mona.co
 merchant.crypto.com
 web.crypto.com
-*.crypto.com
 developer.crypto.com
+*.crypto.com
 developer-api.crypto.com
 *.crypto.com
 *.mona.co
@@ -3488,8 +3480,8 @@ npmjs.com
 npmjs.org
 education.github.com
 api.github.com
-gist.github.com
 *.githubapp.com
+gist.github.com
 github.com
 github.com
 api.github.com
@@ -3567,8 +3559,8 @@ oauth.deriv.com
 *.binary.com
 cashier.deriv.com
 derivws.com
-app.deriv.com
 *.deriv.com
+app.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3602,14 +3594,14 @@ linkpop.com
 arrive-server.shopifycloud.com
 *.pci.shopifyinc.com
 *.shopify.io
-partners.shopify.com
 accounts.shopify.com
 shopifyinbox.com
-your-store.myshopify.com
-shop.app
-*.shopifycloud.com
+partners.shopify.com
 admin.shopify.com
+*.shopifycloud.com
 *.shopify.com
+shop.app
+your-store.myshopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3761,10 +3753,10 @@ www.hoteltonight.com
 *.muscache.com
 *.hoteltonight.com
 api.airbnb.com
-*.airbnb.com
 www.airbnb.com
-*.withairbnb.com
+*.airbnb.com
 next.airbnb.com
+*.withairbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3839,9 +3831,9 @@ www.greenhouse.io
 *.grok.com
 gnip.com
 *.x.com
-grok.com
 *.twitter.com
 x.com
+grok.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3955,9 +3947,9 @@ slackb.com
 *.quip.com
 slack-status.com
 slackatwork.com
+api.slack.com
 app.slack.com
 slack.com
-api.slack.com
 slack.com
 api.slack.com
 slackb.com
@@ -3988,9 +3980,9 @@ hackathon-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 app.pullrequest.com
 a5s.hackerone-ext-content.com
-www.hackerone.com
 api.hackerone.com
 hackerone.live
+www.hackerone.com
 hackerone.com
 hackerone.com
 api.hackerone.com
