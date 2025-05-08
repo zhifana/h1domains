@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May  8 05:22:22 UTC 2025)
+## Domains with Bounties (Last Updated Thu May  8 05:46:57 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 wallet.tg
-pay.wallet.tg
 walletbot.me
+pay.wallet.tg
 walletbot.me
 pay.wallet.tg
 wallet.tg
@@ -23,17 +23,17 @@ https://pay.payzippy.com
 https://uiscoop.payzippy.com
 zooplus.net
 www.zooplus.co.uk
-www.zooplus.com
 www.zooplus.de
+www.zooplus.com
 www.zooplus.de
 www.zooplus.co.uk
 www.zooplus.com
 zooplus.net
 mark8.syfe.com
 alfred.syfe.com
-api.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
+api.syfe.com
 www.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
@@ -504,8 +504,8 @@ cdn.arkoselabs.com
 iframe.arkoselabs.com
 portal.arkoselabs.com
 demo.arkoselabs.com
-www.arkoselabs.com
 client-api.arkoselabs.com
+www.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
@@ -1385,6 +1385,8 @@ www.hotwire.com
 www.lastminute.com.au
 www.wotif.com
 www.vrbo.com
+*.carrentals.com
+www.expedia.com
 *.vrbo.com
 *.carrentals.com
 *.wotif.com
@@ -1556,9 +1558,9 @@ https://my.exness.com/pa/pim/manager
 social-trading.exness.com
 https://my.exness.com/pa/socialtrading
 exness.com
-app.smtp2go.com
 smtp2go.com
 api.smtp2go.com
+app.smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
@@ -1966,8 +1968,8 @@ ads.reddit.com
 developers.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
-*.redditinc.com
 *.memorable.io
+*.redditinc.com
 m.reddit.com
 *.reddit.com
 *.snooguts.net
@@ -2144,13 +2146,13 @@ creatormarketplace.tiktok.com
 www.pangleglobal.com
 shop-id.tokopedia.com
 business.tiktok.com
-*.tiktokv.com
 shop.tiktok.com
 live-backstage.tiktok.com
 seller-id.tokopedia.com
 ads.tiktok.com
 *.tiktok.com
 tiktok.com
+*.tiktokv.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2189,8 +2191,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-platform.enjin.io
 nft.io
+platform.enjin.io
 nft.io
 platform.enjin.io
 api.figma.com
@@ -2211,10 +2213,10 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
+*.acronis.work
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-*.acronis.work
 account.acronis.com
 beta-cloud.acronis.com
 *.acronis.com
@@ -2560,8 +2562,8 @@ www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
 blox.link
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3140,8 +3142,8 @@ app.mona.co
 nadex.com
 *.mona.co
 merchant.crypto.com
-*.crypto.com
 web.crypto.com
+*.crypto.com
 *.crypto.com
 *.mona.co
 https://crypto.com/exchange
@@ -3343,9 +3345,9 @@ backstage.io
 logs.dashlane.com
 console.dashlane.com
 ws1.dashlane.com
-app.dashlane.com
 www.dashlane.com
 api.dashlane.com
+app.dashlane.com
 ws1.dashlane.com
 www.dashlane.com
 console.dashlane.com
@@ -3484,8 +3486,8 @@ npmjs.com
 npmjs.org
 education.github.com
 api.github.com
-*.githubapp.com
 gist.github.com
+*.githubapp.com
 github.com
 github.com
 api.github.com
@@ -3563,8 +3565,8 @@ oauth.deriv.com
 *.binary.com
 cashier.deriv.com
 derivws.com
-app.deriv.com
 *.deriv.com
+app.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3601,11 +3603,11 @@ arrive-server.shopifycloud.com
 *.shopify.io
 partners.shopify.com
 accounts.shopify.com
-*.shopify.com
 shopifyinbox.com
 your-store.myshopify.com
 admin.shopify.com
 shop.app
+*.shopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
