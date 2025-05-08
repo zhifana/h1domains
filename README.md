@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May  8 20:24:03 UTC 2025)
+## Domains with Bounties (Last Updated Thu May  8 20:46:54 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
-pay.wallet.tg
 walletbot.me
 wallet.tg
+pay.wallet.tg
 walletbot.me
 pay.wallet.tg
 wallet.tg
@@ -128,8 +128,8 @@ http://app.lightspark.com
 https://link.uma.me
 lrc20.lightspark.com
 app.uma.money
-dashboard.privy.io
 auth.privy.io
+dashboard.privy.io
 auth.privy.io
 dashboard.privy.io
 http://--your-own-1password-account--.1password.com
@@ -197,8 +197,8 @@ middle-force.khealth.io
 api.khealth.com
 *.capitalonegslbex.com
 *.capitalone.ca
-*.capitalone.com
 *.capitaloneshopping.com
+*.capitalone.com
 *.capitalone.com
 *.capitaloneshopping.com
 *.capitalonegslbex.com
@@ -436,16 +436,16 @@ metrics.int.remitly.com
 ir.remitly.com
 app.rewire.to
 rewire.com
+access.remitly.com
 *.int.remitly.com
-blog.remitly.com
-api.remitly.io
-app3.rewire.to
-auth.remitly.com
 site.rewire.com
 careers.remitly.com
 remitly.com
-access.remitly.com
+blog.remitly.com
+api.remitly.io
+app3.rewire.to
 news.remitly.com
+auth.remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -478,9 +478,9 @@ world.org
 getworldcoin.com
 *.toolsforhumanity.com
 bioid-management.app
-*.worldcoin.dev
 *.consumer.worldcoin.org
 *.worldcoin.org
+*.worldcoin.dev
 toolsforhumanity.com
 developer.worldcoin.org
 *.worldcoin.org
@@ -549,8 +549,8 @@ demo.dynamic.xyz
 payments.hostinger.com
 builder.hostinger.com
 horizons.hostinger.com
-hpanel.hostinger.com
 www.hostinger.com
+hpanel.hostinger.com
 cpanel.hostinger.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -570,9 +570,9 @@ auth.23andme.com
 pd-api.polkadoc.com
 api.23andme.com
 research.23andme.com
+clinic.lemonaidhealth.com
 blog.23andme.com
 you.23andme.com
-clinic.lemonaidhealth.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -771,8 +771,8 @@ app.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 kronor.io
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 kronor.io
@@ -814,10 +814,10 @@ connect-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 ob.gocardless.com
 www.gocardless.com
-manage-sandbox.gocardless.com
 *.gocardless.com
 api-sandbox.gocardless.com
 pay-sandbox.gocardless.com
+manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -1635,8 +1635,8 @@ api.instacart.com
 admin.instacart.com
 shoppers.instacart.com
 *.instacart.tools
-www.instacart.com
 *.instacart.com
+www.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1776,8 +1776,8 @@ playwonderbox.com
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
-*.tinder.com
 *.gotinder.com
+*.tinder.com
 *.tinderops.net
 *.tinder.com
 *.gotinder.com
@@ -2138,10 +2138,10 @@ shop-id.tokopedia.com
 business.tiktok.com
 shop.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 seller-id.tokopedia.com
 tiktok.com
 live-backstage.tiktok.com
+*.tiktok.com
 ads.tiktok.com
 developers.tiktok.com
 *.tiktok.com
@@ -2204,8 +2204,8 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
-*-api-*.acronis.com
 *.acronis.work
+*-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
 account.acronis.com
@@ -2551,8 +2551,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 blox.link
-*.guilded.gg
 *.rbx.com
+*.guilded.gg
 *.roblox.com
 *.roblox.com
 *.rbx.com
@@ -2632,8 +2632,8 @@ sketch.pixiv.net
 accounts.pixiv.net
 *.fanbox.cc
 comic.pixiv.net
-www.pixiv.net
 dic.pixiv.net
+www.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -3133,9 +3133,9 @@ nadex.com
 *.mona.co
 merchant.crypto.com
 web.crypto.com
-developer.crypto.com
-*.crypto.com
 developer-api.crypto.com
+*.crypto.com
+developer.crypto.com
 *.crypto.com
 *.mona.co
 https://crypto.com/exchange
@@ -3176,8 +3176,8 @@ falcon-sandbox.com
 *.bionic.ai
 www.crowdstrike.com
 *.flowsecurity.app
-*.crowdstrike.com
 *.securecircle.com
+*.crowdstrike.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3599,9 +3599,9 @@ shopifyinbox.com
 partners.shopify.com
 *.shopify.io
 accounts.shopify.com
-shop.app
 admin.shopify.com
 your-store.myshopify.com
+shop.app
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3645,10 +3645,10 @@ snappublisher.snapchat.com
 business.snapchat.com
 forum.playcanvas.com
 web.snapchat.com
-accounts.snapchat.com
 playcanvas.com
-ads.snapchat.com
 app.snapchat.com
+ads.snapchat.com
+accounts.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3713,7 +3713,7 @@ magento.com
 photos.adobe.io
 marketplace.magento.com
 fonts.adobe.com
-stock.adobe.com
+contributor.stock.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3830,9 +3830,9 @@ www.greenhouse.io
 *.grok.com
 gnip.com
 *.x.com
-*.twitter.com
 x.com
 grok.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3848,7 +3848,6 @@ cloudflareworkers.com
 waf.cumulusfire.net
 one.dash.cloudflare.com
 dash.cloudflare.com
-*.cloudflarepartners.com
 dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
