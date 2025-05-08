@@ -2,11 +2,11 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May  8 16:27:12 UTC 2025)
+## Domains with Bounties (Last Updated Thu May  8 16:52:35 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
-pay.wallet.tg
 walletbot.me
+pay.wallet.tg
 wallet.tg
 walletbot.me
 pay.wallet.tg
@@ -45,8 +45,8 @@ https://console.neon.tech/api/v2/
 https://console.neon.tech/
 https://console-stage.neon.build/
 api.prod.whoop.com
-app.whoop.com
 shop.whoop.com
+app.whoop.com
 api.prod.whoop.com
 app.whoop.com
 shop.whoop.com
@@ -436,16 +436,16 @@ metrics.int.remitly.com
 news.remitly.com
 ir.remitly.com
 blog.remitly.com
-api.remitly.io
 app3.rewire.to
 site.rewire.com
 app.rewire.to
 careers.remitly.com
 rewire.com
-auth.remitly.com
 access.remitly.com
 remitly.com
 *.int.remitly.com
+api.remitly.io
+auth.remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -478,11 +478,11 @@ world.org
 getworldcoin.com
 *.toolsforhumanity.com
 bioid-management.app
-developer.worldcoin.org
 toolsforhumanity.com
 *.worldcoin.dev
 *.consumer.worldcoin.org
 *.worldcoin.org
+developer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -771,8 +771,8 @@ app.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 kronor.io
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 kronor.io
@@ -1002,8 +1002,8 @@ direct-demo.currencycloud.com
 https://www.visa.com.az/az_az/account/registration
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
-yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
+yourdomain.myfreshworks.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -1593,8 +1593,8 @@ bullsheet.me
 api.etoro.com
 etoropartners.com
 billing-pci.etoro.com
-www.etoro.com
 helpers.bullsheet.me
+www.etoro.com
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -1777,8 +1777,8 @@ playwonderbox.com
 *.tstaging.tools
 *.tinderwebstaging.com
 *.tinderops.net
-*.gotinder.com
 *.tinder.com
+*.gotinder.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -2205,9 +2205,9 @@ app.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
-*.acronis.work
 *.devicelock.com
 *.5nine.com
+*.acronis.work
 account.acronis.com
 *.acronis.com
 beta-cloud.acronis.com
@@ -2552,8 +2552,8 @@ www.goodrx.com
 *.ra.roblox.com
 blox.link
 *.roblox.com
-*.guilded.gg
 *.rbx.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3222,8 +3222,8 @@ kartaview.org
 *.grabpay.com
 *.myteksi.net
 *.myteksi.com
-*.grab.com
 *.ovo.id
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3559,8 +3559,8 @@ oauth.deriv.com
 *.binary.com
 cashier.deriv.com
 derivws.com
-app.deriv.com
 *.deriv.com
+app.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3647,8 +3647,8 @@ forum.playcanvas.com
 web.snapchat.com
 accounts.snapchat.com
 playcanvas.com
-app.snapchat.com
 ads.snapchat.com
+app.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3753,8 +3753,8 @@ www.hoteltonight.com
 *.muscache.com
 *.hoteltonight.com
 api.airbnb.com
-next.airbnb.com
 *.airbnb.com
+next.airbnb.com
 *.withairbnb.com
 www.airbnb.com
 *.hoteltonight.com
@@ -3827,9 +3827,9 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 *.twimg.com
-*.x.ai
 *.grok.com
 gnip.com
+*.x.ai
 *.x.com
 *.twitter.com
 x.com
@@ -3981,9 +3981,9 @@ reviewer.pullrequest.com
 app.pullrequest.com
 a5s.hackerone-ext-content.com
 api.hackerone.com
+hackerone.com
 hackerone.live
 www.hackerone.com
-hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
