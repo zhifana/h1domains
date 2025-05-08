@@ -9,8 +9,8 @@ wallet_on_telegram,wallet.tg,True
 recreation_gov_vdp,cdn.recreation.gov,False
 recreation_gov_vdp,manage-cdn.recreation.gov,False
 recreation_gov_vdp,recreation.gov,False
-recreation_gov_vdp,manage.recreation.gov,False
 recreation_gov_vdp,www.recreation.gov,False
+recreation_gov_vdp,manage.recreation.gov,False
 recreation_gov_vdp,manage.recreation.gov,False
 recreation_gov_vdp,recreation.gov,False
 recreation_gov_vdp,www.recreation.gov,False
@@ -214,8 +214,8 @@ lichess,bookd.lichess.ovh,False
 lichess,eight.lichess.ovh,False
 lichess,cerebro.lichess.ovh,False
 lichess,deb.lichess.ovh,False
-zooplus,www.zooplus.co.uk,True
 zooplus,zooplus.net,True
+zooplus,www.zooplus.co.uk,True
 zooplus,www.zooplus.com,True
 zooplus,www.zooplus.de,True
 zooplus,www.zooplus.de,True
@@ -238,8 +238,8 @@ neon_bbp,https://console.neon.tech/api/v2/,True
 neon_bbp,https://console.neon.tech/,True
 neon_bbp,https://console-stage.neon.build/,True
 whoop_bug_bounty,api.prod.whoop.com,True
-whoop_bug_bounty,shop.whoop.com,True
 whoop_bug_bounty,app.whoop.com,True
+whoop_bug_bounty,shop.whoop.com,True
 whoop_bug_bounty,api.prod.whoop.com,True
 whoop_bug_bounty,app.whoop.com,True
 whoop_bug_bounty,shop.whoop.com,True
@@ -4643,9 +4643,9 @@ remitly,site.rewire.com,True
 remitly,app.rewire.to,True
 remitly,careers.remitly.com,True
 remitly,rewire.com,True
-remitly,auth.remitly.com,True
-remitly,access.remitly.com,True
 remitly,remitly.com,True
+remitly,access.remitly.com,True
+remitly,auth.remitly.com,True
 remitly,*.int.remitly.com,True
 remitly,*.dev.remitly.com,True
 remitly,remitly.com,True
@@ -4715,7 +4715,6 @@ toolsforhumanity,*.worldcoin-distributors.com,True
 toolsforhumanity,worldcoin.org,True
 toolsforhumanity,id.worldcoin.org,True
 toolsforhumanity,world.org,True
-toolsforhumanity,toolsforhumanity.com,True
 toolsforhumanity,*.consumer.worldcoin.org,True
 toolsforhumanity,getworldcoin.com,True
 toolsforhumanity,*.toolsforhumanity.com,True
@@ -4723,6 +4722,7 @@ toolsforhumanity,bioid-management.app,True
 toolsforhumanity,*.worldcoin.org,True
 toolsforhumanity,*.worldcoin.dev,True
 toolsforhumanity,developer.worldcoin.org,True
+toolsforhumanity,toolsforhumanity.com,True
 toolsforhumanity,*.worldcoin.org,True
 toolsforhumanity,*.consumer.worldcoin.org,True
 toolsforhumanity,*.worldcoin-distributors.com,True
@@ -4872,8 +4872,8 @@ wellhive,corporate-okta.wellhive.com,False
 hostinger,payments.hostinger.com,True
 hostinger,builder.hostinger.com,True
 hostinger,horizons.hostinger.com,True
-hostinger,www.hostinger.com,True
 hostinger,hpanel.hostinger.com,True
+hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
@@ -6118,8 +6118,8 @@ gocardless_bbp,ob.gocardless.com,True
 gocardless_bbp,www.gocardless.com,True
 gocardless_bbp,*.gocardless.dev,False
 gocardless_bbp,api-sandbox.gocardless.com,True
-gocardless_bbp,*.gocardless.com,True
 gocardless_bbp,manage-sandbox.gocardless.com,True
+gocardless_bbp,*.gocardless.com,True
 gocardless_bbp,pay-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.io,True
 gocardless_bbp,*.gocardless-banking.io,True
@@ -7663,8 +7663,8 @@ clarivate,biosis.org,False
 clarivate,biosis.org.uk,False
 freshworks,yourdomain.freshcaller.com,True
 freshworks,yourdomain.freshchat.com,True
-freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.myfreshworks.com,True
+freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshservice.com,True
@@ -9349,8 +9349,8 @@ instacart,api.instacart.com,True
 instacart,admin.instacart.com,True
 instacart,shoppers.instacart.com,True
 instacart,*.instacart.tools,True
-instacart,*.instacart.com,True
 instacart,www.instacart.com,True
+instacart,*.instacart.com,True
 instacart,*.instacart.com,True
 instacart,*.instacart.tools,True
 instacart,api.instacart.com,True
@@ -11407,10 +11407,10 @@ reddit,ads.reddit.com,True
 reddit,developers.reddit.com,True
 reddit,accounts.reddit.com,True
 reddit,matrix.redditspace.com,True
-reddit,m.reddit.com,True
-reddit,*.reddit.com,True
 reddit,*.redditinc.com,True
+reddit,m.reddit.com,True
 reddit,*.memorable.io,True
+reddit,*.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.reddit.com,True
 reddit,*.redditmedia.com,True
@@ -12155,8 +12155,8 @@ tiktok,business.tiktok.com,True
 tiktok,shop.tiktok.com,True
 tiktok,ads.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,tiktok.com,True
 tiktok,seller-id.tokopedia.com,True
+tiktok,tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,*.tiktok.com,True
@@ -13907,8 +13907,8 @@ capital-one,*.luma.co.uk,False
 capital-one,*.theunioncard.com,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.capitalone.ca,False
-capital-one,*.capitaloneshopping.com,False
 capital-one,*.capitalone.com,False
+capital-one,*.capitaloneshopping.com,False
 capital-one,*.capitalone.com,False
 capital-one,*.wikibuy.com,False
 capital-one,*.capitalone.ca,False
@@ -14177,9 +14177,9 @@ paypal,*.venmo.com,True
 paypal,*.hyperwallet.com,True
 paypal,*.braintree-api.com,True
 paypal,*.braintreegateway.com,True
-paypal,*.xoom.com,True
 paypal,*.paylution.com,True
 paypal,*.paypal.com,True
+paypal,*.xoom.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True
 paypal,*.braintreegateway.com,True
@@ -14343,8 +14343,8 @@ crypto,nadex.com,True
 crypto,*.mona.co,True
 crypto,merchant.crypto.com,True
 crypto,web.crypto.com,True
-crypto,developer.crypto.com,True
 crypto,*.crypto.com,True
+crypto,developer.crypto.com,True
 crypto,developer-api.crypto.com,True
 crypto,*.crypto.com,True
 crypto,*.mona.co,True
@@ -14500,8 +14500,8 @@ grab,kartaview.org,True
 grab,*.grabpay.com,True
 grab,*.myteksi.net,True
 grab,*.myteksi.com,True
-grab,*.grab.com,True
 grab,*.ovo.id,True
+grab,*.grab.com,True
 grab,*.myteksi.com,True
 grab,*.myteksi.net,True
 grab,*.grab.com,True
@@ -15071,6 +15071,7 @@ adobe,magento.com,True
 adobe,photos.adobe.io,True
 adobe,marketplace.magento.com,True
 adobe,contributor.stock.adobe.com,True
+adobe,fonts.adobe.com,True
 adobe,*.acrobat.adobe.com,True
 adobe,account.adobe.com,True
 adobe,auth.services.adobe.com,True
@@ -15109,10 +15110,10 @@ airbnb,*.hoteltonight-test.com,True
 airbnb,*.muscache.com,True
 airbnb,*.hoteltonight.com,True
 airbnb,api.airbnb.com,True
-airbnb,next.airbnb.com,True
 airbnb,*.airbnb.com,True
 airbnb,www.airbnb.com,True
 airbnb,*.withairbnb.com,True
+airbnb,next.airbnb.com,True
 airbnb,*.hoteltonight.com,True
 airbnb,www.airbnb.com,True
 airbnb,next.airbnb.com,True
@@ -15189,13 +15190,13 @@ x,t.co,False
 x,xadsacademy.com,False
 x,*.vine.co,True
 x,*.twimg.com,True
+x,*.x.ai,True
 x,*.grok.com,True
 x,gnip.com,True
-x,*.x.ai,True
 x,*.x.com,True
+x,grok.com,True
 x,*.twitter.com,True
 x,x.com,True
-x,grok.com,True
 x,*.twitter.com,True
 x,*.vine.co,True
 x,*.twimg.com,True

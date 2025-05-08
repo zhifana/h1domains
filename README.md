@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May  8 13:33:36 UTC 2025)
+## Domains with Bounties (Last Updated Thu May  8 13:48:47 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 pay.wallet.tg
@@ -21,8 +21,8 @@ https://www.myntra.com
 https://www.flipkart.com
 https://pay.payzippy.com
 https://uiscoop.payzippy.com
-www.zooplus.co.uk
 zooplus.net
+www.zooplus.co.uk
 www.zooplus.com
 www.zooplus.de
 www.zooplus.de
@@ -45,8 +45,8 @@ https://console.neon.tech/api/v2/
 https://console.neon.tech/
 https://console-stage.neon.build/
 api.prod.whoop.com
-shop.whoop.com
 app.whoop.com
+shop.whoop.com
 api.prod.whoop.com
 app.whoop.com
 shop.whoop.com
@@ -446,9 +446,9 @@ site.rewire.com
 app.rewire.to
 careers.remitly.com
 rewire.com
-auth.remitly.com
-access.remitly.com
 remitly.com
+access.remitly.com
+auth.remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -478,7 +478,6 @@ api.vault.chiatest.net
 worldcoin.org
 id.worldcoin.org
 world.org
-toolsforhumanity.com
 *.consumer.worldcoin.org
 getworldcoin.com
 *.toolsforhumanity.com
@@ -486,6 +485,7 @@ bioid-management.app
 *.worldcoin.org
 *.worldcoin.dev
 developer.worldcoin.org
+toolsforhumanity.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -552,8 +552,8 @@ demo.dynamic.xyz
 payments.hostinger.com
 builder.hostinger.com
 horizons.hostinger.com
-www.hostinger.com
 hpanel.hostinger.com
+www.hostinger.com
 cpanel.hostinger.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -817,8 +817,8 @@ oauth-sandbox.gocardless.com
 ob.gocardless.com
 www.gocardless.com
 api-sandbox.gocardless.com
-*.gocardless.com
 manage-sandbox.gocardless.com
+*.gocardless.com
 pay-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -1004,8 +1004,8 @@ direct-demo.currencycloud.com
 https://www.visa.com.az/az_az/account/registration
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
-yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -1637,8 +1637,8 @@ api.instacart.com
 admin.instacart.com
 shoppers.instacart.com
 *.instacart.tools
-*.instacart.com
 www.instacart.com
+*.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1967,10 +1967,10 @@ ads.reddit.com
 developers.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
-m.reddit.com
-*.reddit.com
 *.redditinc.com
+m.reddit.com
 *.memorable.io
+*.reddit.com
 *.snooguts.net
 *.reddit.com
 *.redditmedia.com
@@ -2148,8 +2148,8 @@ business.tiktok.com
 shop.tiktok.com
 ads.tiktok.com
 *.tiktokv.com
-tiktok.com
 seller-id.tokopedia.com
+tiktok.com
 live-backstage.tiktok.com
 *.tiktok.com
 *.tiktok.com
@@ -2987,9 +2987,9 @@ loanbuilder.com
 *.hyperwallet.com
 *.braintree-api.com
 *.braintreegateway.com
-*.xoom.com
 *.paylution.com
 *.paypal.com
+*.xoom.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3141,8 +3141,8 @@ nadex.com
 *.mona.co
 merchant.crypto.com
 web.crypto.com
-developer.crypto.com
 *.crypto.com
+developer.crypto.com
 developer-api.crypto.com
 *.crypto.com
 *.mona.co
@@ -3230,8 +3230,8 @@ kartaview.org
 *.grabpay.com
 *.myteksi.net
 *.myteksi.com
-*.grab.com
 *.ovo.id
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3722,6 +3722,7 @@ magento.com
 photos.adobe.io
 marketplace.magento.com
 contributor.stock.adobe.com
+fonts.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3760,10 +3761,10 @@ www.hoteltonight.com
 *.muscache.com
 *.hoteltonight.com
 api.airbnb.com
-next.airbnb.com
 *.airbnb.com
 www.airbnb.com
 *.withairbnb.com
+next.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3834,13 +3835,13 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 *.twimg.com
+*.x.ai
 *.grok.com
 gnip.com
-*.x.ai
 *.x.com
+grok.com
 *.twitter.com
 x.com
-grok.com
 *.twitter.com
 *.vine.co
 *.twimg.com
