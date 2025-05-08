@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
 braze_inc,https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/,True
 wallet_on_telegram,wallet.tg,True
-wallet_on_telegram,walletbot.me,True
 wallet_on_telegram,pay.wallet.tg,True
+wallet_on_telegram,walletbot.me,True
 wallet_on_telegram,walletbot.me,True
 wallet_on_telegram,pay.wallet.tg,True
 wallet_on_telegram,wallet.tg,True
@@ -16,8 +16,8 @@ recreation_gov_vdp,recreation.gov,False
 recreation_gov_vdp,www.recreation.gov,False
 recreation_gov_vdp,cdn.recreation.gov,False
 recreation_gov_vdp,manage-cdn.recreation.gov,False
-audible,*.audible.(TLD),True
 audible,tax.audible.com,True
+audible,*.audible.(TLD),True
 audible,tax.audible.com,True
 audible,*.audible.(TLD),True
 silabs,cpms.silabs.com,False
@@ -78,9 +78,9 @@ ferrero,*.butterfinger.com,False
 ferrero,*.crunchbar.com,False
 ferrero,*.thorntons.com,False
 ferrero,*.fiestaferrero.it,False
+ferrero,*.ferrerorocher.com,False
 ferrero,*.keebler.com,False
 ferrero,*.kinder.com,False
-ferrero,*.ferrerorocher.com,False
 ferrero,*.nutella.com,False
 ferrero,*.kinder.com,False
 ferrero,*.nutella.com,False
@@ -214,10 +214,10 @@ lichess,bookd.lichess.ovh,False
 lichess,eight.lichess.ovh,False
 lichess,cerebro.lichess.ovh,False
 lichess,deb.lichess.ovh,False
-zooplus,zooplus.net,True
 zooplus,www.zooplus.co.uk,True
 zooplus,www.zooplus.de,True
 zooplus,www.zooplus.com,True
+zooplus,zooplus.net,True
 zooplus,www.zooplus.de,True
 zooplus,www.zooplus.co.uk,True
 zooplus,www.zooplus.com,True
@@ -4644,8 +4644,8 @@ remitly,site.rewire.com,True
 remitly,app.rewire.to,True
 remitly,careers.remitly.com,True
 remitly,rewire.com,True
-remitly,remitly.com,True
 remitly,auth.remitly.com,True
+remitly,remitly.com,True
 remitly,*.int.remitly.com,True
 remitly,*.dev.remitly.com,True
 remitly,remitly.com,True
@@ -4900,8 +4900,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,api.23andme.com,True
 23andme_bbp,you.23andme.com,True
 23andme_bbp,research.23andme.com,True
-23andme_bbp,clinic.lemonaidhealth.com,True
 23andme_bbp,blog.23andme.com,True
+23andme_bbp,clinic.lemonaidhealth.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,blog.23andme.com,True
@@ -6042,12 +6042,12 @@ boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 boozt,kronor.io,True
 trip_com,*.staging.travix.com,False
-trip_com,*.trainpal.com,True
-trip_com,*.mytrainpal.com,True
 trip_com,*.travix.io,True
 trip_com,*.travix.com,True
 trip_com,*.cheaptickets.nl,True
 trip_com,*.trip.com,True
+trip_com,*.trainpal.com,True
+trip_com,*.mytrainpal.com,True
 trip_com,*.trip.com,True
 trip_com,*.travix.com,True
 trip_com,*.travix.io,True
@@ -6119,8 +6119,8 @@ gocardless_bbp,www.gocardless.com,True
 gocardless_bbp,*.gocardless.dev,False
 gocardless_bbp,api-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.com,True
-gocardless_bbp,pay-sandbox.gocardless.com,True
 gocardless_bbp,manage-sandbox.gocardless.com,True
+gocardless_bbp,pay-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.io,True
 gocardless_bbp,*.gocardless-banking.io,True
 gocardless_bbp,*.gocardless-cicd.io,True
@@ -7663,8 +7663,8 @@ clarivate,biosis.org,False
 clarivate,biosis.org.uk,False
 freshworks,yourdomain.freshcaller.com,True
 freshworks,yourdomain.freshchat.com,True
-freshworks,yourdomain.myfreshworks.com,True
 freshworks,yourdomain.freshservice.com,True
+freshworks,yourdomain.myfreshworks.com,True
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshservice.com,True
@@ -7847,8 +7847,8 @@ hilton,hilton.io,True
 hilton,*.hiltonbusinessonline.com,True
 hilton,*.hiltonlocalbiz.com,True
 hilton,*.hilton.io,True
-hilton,*.hilton.com,True
 hilton,hilton.com,True
+hilton,*.hilton.com,True
 hilton,*.hilton.com,True
 hilton,*.hilton.io,True
 hilton,*.hiltonbusinessonline.com,True
@@ -12108,8 +12108,8 @@ netlify,internal-docs.netlify.com,True
 netlify,supportal.netlify.app,True
 basecamp,world.hey.com,True
 basecamp,launchpad.37signals.com,True
-basecamp,3.basecamp.com,True
 basecamp,*.hey.com,True
+basecamp,3.basecamp.com,True
 basecamp,*.hey.com,True
 basecamp,3.basecamp.com,True
 basecamp,launchpad.37signals.com,True
@@ -12157,9 +12157,9 @@ tiktok,shop.tiktok.com,True
 tiktok,ads.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,seller-id.tokopedia.com,True
+tiktok,*.tiktok.com,True
 tiktok,tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
-tiktok,*.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -12308,10 +12308,10 @@ rebellion-defense,*.rebellion.dev,False
 rebellion-defense,*.moochirp.io,False
 rebellion-defense,*.mooch.rip,False
 rebellion-defense,www.rebelliondefense.com,False
+acronis,*.acronis.work,True
 acronis,*-api-*.acronis.com,True
 acronis,*.devicelock.com,True
 acronis,*.5nine.com,True
-acronis,*.acronis.work,True
 acronis,account.acronis.com,True
 acronis,beta-cloud.acronis.com,True
 acronis,*.acronis.com,True
@@ -14219,9 +14219,9 @@ chaturbate,*.highwebmedia.com,True
 chaturbate,*.securegatewayaccess.com,True
 chaturbate,*.cb.dev,True
 chaturbate,billingsupport.chaturbate.com,True
-chaturbate,chaturbate.com,True
 chaturbate,*.mmcdn.com,True
 chaturbate,m.chaturbate.com,True
+chaturbate,chaturbate.com,True
 chaturbate,*.highwebmedia.com,True
 chaturbate,*.securegatewayaccess.com,True
 chaturbate,*.mmcdn.com,True
@@ -14501,8 +14501,8 @@ grab,*.grab-sure.com,True
 grab,kartaview.org,True
 grab,*.grabpay.com,True
 grab,*.myteksi.net,True
-grab,*.grab.com,True
 grab,*.myteksi.com,True
+grab,*.grab.com,True
 grab,*.ovo.id,True
 grab,*.myteksi.com,True
 grab,*.myteksi.net,True
@@ -14814,8 +14814,8 @@ github,npmjs.com,True
 github,npmjs.org,True
 github,education.github.com,True
 github,api.github.com,True
-github,*.githubapp.com,True
 github,gist.github.com,True
+github,*.githubapp.com,True
 github,github.com,True
 github,github.com,True
 github,api.github.com,True
@@ -14935,7 +14935,6 @@ udemy,yourcompany.udemy.com,True
 shopify,shopify.plus,True
 shopify,linkpop.com,True
 shopify,*.shopifykloud.com,True
-shopify,*.shopifycloud.com,True
 shopify,*.shopifycs.com,True
 shopify,arrive-server.shopifycloud.com,True
 shopify,*.pci.shopifyinc.com,True
@@ -14947,6 +14946,7 @@ shopify,your-store.myshopify.com,True
 shopify,admin.shopify.com,True
 shopify,shop.app,True
 shopify,*.shopify.com,True
+shopify,*.shopifycloud.com,True
 shopify,*.shopifycs.com,True
 shopify,*.pci.shopifyinc.com,True
 shopify,*.shopify.io,True
@@ -15214,8 +15214,6 @@ cloudflare,*.teams.cloudflare.com,True
 cloudflare,cloudflareworkers.com,True
 cloudflare,waf.cumulusfire.net,True
 cloudflare,one.dash.cloudflare.com,True
-cloudflare,dash.cloudflare.com,True
-cloudflare,*.cloudflarepartners.com,True
 cloudflare,dash.cloudflare.com,True
 cloudflare,cloudflareworkers.com,True
 cloudflare,*.teams.cloudflare.com,True

@@ -1,7 +1,7 @@
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 wallet.tg
-walletbot.me
 pay.wallet.tg
+walletbot.me
 walletbot.me
 pay.wallet.tg
 wallet.tg
@@ -15,8 +15,8 @@ recreation.gov
 www.recreation.gov
 cdn.recreation.gov
 manage-cdn.recreation.gov
-*.audible.(TLD)
 tax.audible.com
+*.audible.(TLD)
 tax.audible.com
 *.audible.(TLD)
 cpms.silabs.com
@@ -77,9 +77,9 @@ about.espnbet.com
 *.crunchbar.com
 *.thorntons.com
 *.fiestaferrero.it
+*.ferrerorocher.com
 *.keebler.com
 *.kinder.com
-*.ferrerorocher.com
 *.nutella.com
 *.kinder.com
 *.nutella.com
@@ -213,10 +213,10 @@ bookd.lichess.ovh
 eight.lichess.ovh
 cerebro.lichess.ovh
 deb.lichess.ovh
-zooplus.net
 www.zooplus.co.uk
 www.zooplus.de
 www.zooplus.com
+zooplus.net
 www.zooplus.de
 www.zooplus.co.uk
 www.zooplus.com
@@ -4643,8 +4643,8 @@ site.rewire.com
 app.rewire.to
 careers.remitly.com
 rewire.com
-remitly.com
 auth.remitly.com
+remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -4899,8 +4899,8 @@ pd-api.polkadoc.com
 api.23andme.com
 you.23andme.com
 research.23andme.com
-clinic.lemonaidhealth.com
 blog.23andme.com
+clinic.lemonaidhealth.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -6041,12 +6041,12 @@ kronor.io
 *.booztlet.com
 kronor.io
 *.staging.travix.com
-*.trainpal.com
-*.mytrainpal.com
 *.travix.io
 *.travix.com
 *.cheaptickets.nl
 *.trip.com
+*.trainpal.com
+*.mytrainpal.com
 *.trip.com
 *.travix.com
 *.travix.io
@@ -6118,8 +6118,8 @@ www.gocardless.com
 *.gocardless.dev
 api-sandbox.gocardless.com
 *.gocardless.com
-pay-sandbox.gocardless.com
 manage-sandbox.gocardless.com
+pay-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -7662,8 +7662,8 @@ biosis.org
 biosis.org.uk
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
-yourdomain.myfreshworks.com
 yourdomain.freshservice.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -7846,8 +7846,8 @@ hilton.io
 *.hiltonbusinessonline.com
 *.hiltonlocalbiz.com
 *.hilton.io
-*.hilton.com
 hilton.com
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hiltonbusinessonline.com
@@ -12107,8 +12107,8 @@ internal-docs.netlify.com
 supportal.netlify.app
 world.hey.com
 launchpad.37signals.com
-3.basecamp.com
 *.hey.com
+3.basecamp.com
 *.hey.com
 3.basecamp.com
 launchpad.37signals.com
@@ -12156,9 +12156,9 @@ shop.tiktok.com
 ads.tiktok.com
 *.tiktokv.com
 seller-id.tokopedia.com
+*.tiktok.com
 tiktok.com
 live-backstage.tiktok.com
-*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -12307,10 +12307,10 @@ www.rebelliondefense.com
 *.moochirp.io
 *.mooch.rip
 www.rebelliondefense.com
+*.acronis.work
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-*.acronis.work
 account.acronis.com
 beta-cloud.acronis.com
 *.acronis.com
@@ -14218,9 +14218,9 @@ secure.chaturbate.com
 *.securegatewayaccess.com
 *.cb.dev
 billingsupport.chaturbate.com
-chaturbate.com
 *.mmcdn.com
 m.chaturbate.com
+chaturbate.com
 *.highwebmedia.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -14500,8 +14500,8 @@ grab.careers
 kartaview.org
 *.grabpay.com
 *.myteksi.net
-*.grab.com
 *.myteksi.com
+*.grab.com
 *.ovo.id
 *.myteksi.com
 *.myteksi.net
@@ -14813,8 +14813,8 @@ npmjs.com
 npmjs.org
 education.github.com
 api.github.com
-*.githubapp.com
 gist.github.com
+*.githubapp.com
 github.com
 github.com
 api.github.com
@@ -14934,7 +14934,6 @@ yourcompany.udemy.com
 shopify.plus
 linkpop.com
 *.shopifykloud.com
-*.shopifycloud.com
 *.shopifycs.com
 arrive-server.shopifycloud.com
 *.pci.shopifyinc.com
@@ -14946,6 +14945,7 @@ your-store.myshopify.com
 admin.shopify.com
 shop.app
 *.shopify.com
+*.shopifycloud.com
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -15213,8 +15213,6 @@ api.cloudflare.com
 cloudflareworkers.com
 waf.cumulusfire.net
 one.dash.cloudflare.com
-dash.cloudflare.com
-*.cloudflarepartners.com
 dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
