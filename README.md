@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May  9 15:45:11 UTC 2025)
+## Domains with Bounties (Last Updated Fri May  9 16:25:33 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 walletbot.me
@@ -128,8 +128,8 @@ http://app.lightspark.com
 https://link.uma.me
 lrc20.lightspark.com
 app.uma.money
-dashboard.privy.io
 auth.privy.io
+dashboard.privy.io
 auth.privy.io
 dashboard.privy.io
 http://--your-own-1password-account--.1password.com
@@ -161,8 +161,8 @@ gift.starbucks.co.jp
 login.starbucks.co.jp
 www.starbucks.com.cn/
 www.starbucks.com.cn/
-connect.secure.wellsfargo.com
 *.wellsfargo.com
+connect.secure.wellsfargo.com
 *.wellsfargo.com
 connect.secure.wellsfargo.com
 http://wellsfargo.com
@@ -565,14 +565,14 @@ healthaid.lemonaidhealth.com
 medical.23andme.com
 therapeutics.23andme.com
 store.23andme.com
-pd-api.polkadoc.com
 research.23andme.com
-clinic.lemonaidhealth.com
 blog.23andme.com
 lemonaidhealth.com
 api.23andme.com
 you.23andme.com
 auth.23andme.com
+pd-api.polkadoc.com
+clinic.lemonaidhealth.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -788,8 +788,8 @@ kronor.io
 *.trainpal.com
 *.mytrainpal.com
 *.cheaptickets.nl
-dashboard.mergify.com
 api.mergify.com
+dashboard.mergify.com
 api.mergify.com
 dashboard.mergify.com
 www.compass.com
@@ -1776,8 +1776,8 @@ playwonderbox.com
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
-*.gotinder.com
 *.tinder.com
+*.gotinder.com
 *.tinderops.net
 *.tinder.com
 *.gotinder.com
@@ -1794,8 +1794,8 @@ app.recordedfuture.com
 therecord.media
 id.recordedfuture.com
 www.recordedfuture.com
-tria.ge
 securitytrails.com
+tria.ge
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -2140,8 +2140,8 @@ seller-id.tokopedia.com
 live-backstage.tiktok.com
 *.tiktokv.com
 *.tiktok.com
-ads.tiktok.com
 developers.tiktok.com
+ads.tiktok.com
 business.tiktok.com
 tiktok.com
 *.tiktok.com
@@ -2182,8 +2182,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-platform.enjin.io
 nft.io
+platform.enjin.io
 nft.io
 platform.enjin.io
 api.figma.com
@@ -2204,10 +2204,10 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
+*.acronis.work
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-*.acronis.work
 account.acronis.com
 *.acronis.com
 beta-cloud.acronis.com
@@ -2516,8 +2516,8 @@ sso.marriott.com
 mgs.marriott.com
 help.marriott.com
 traveler.marriott.com
-all-inclusive.marriott.com
 www.marriott.com
+all-inclusive.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2596,8 +2596,8 @@ app.nordpass.com
 *.line.naver.jp
 *.line.biz
 *.line.me
-*.line-apps.com
 *.linecorp.com
+*.line-apps.com
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -2631,8 +2631,8 @@ hub.vroid.com
 sketch.pixiv.net
 accounts.pixiv.net
 comic.pixiv.net
-www.pixiv.net
 dic.pixiv.net
+www.pixiv.net
 *.fanbox.cc
 *.fanbox.cc
 booth.pm
@@ -3020,8 +3020,8 @@ secure.chaturbate.com
 *.securegatewayaccess.com
 *.cb.dev
 billingsupport.chaturbate.com
-*.mmcdn.com
 m.chaturbate.com
+*.mmcdn.com
 chaturbate.com
 *.highwebmedia.com
 *.securegatewayaccess.com
@@ -3510,9 +3510,9 @@ design.gitlab.com
 *.gitlap.com
 customers.gitlab.com
 about.gitlab.com
-*.gitlab.net
 docs.gitlab.com
 gitlab.com
+*.gitlab.net
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3533,10 +3533,10 @@ winecellar.zomato.com
 blinkit.com
 *.zomans.com
 *.hyperpure.com
-*.insider.in
 *.district.in
 *.tktnew.com
 *.zomato.com
+*.insider.in
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3594,15 +3594,15 @@ linkpop.com
 *.shopifycs.com
 arrive-server.shopifycloud.com
 *.pci.shopifyinc.com
-shopifyinbox.com
-*.shopifycloud.com
 partners.shopify.com
 *.shopify.io
 shop.app
-accounts.shopify.com
-admin.shopify.com
+*.shopifycloud.com
 *.shopify.com
+accounts.shopify.com
+shopifyinbox.com
 your-store.myshopify.com
+admin.shopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3646,10 +3646,10 @@ snappublisher.snapchat.com
 forum.playcanvas.com
 web.snapchat.com
 ads.snapchat.com
-business.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 playcanvas.com
+business.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3714,8 +3714,8 @@ marketplace.magento.com
 stock.adobe.com
 account.adobe.com
 contributor.stock.adobe.com
-auth.services.adobe.com
 firefly.adobe.com
+auth.services.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3948,9 +3948,9 @@ slackb.com
 *.quip.com
 slack-status.com
 slackatwork.com
-slack.com
 api.slack.com
 app.slack.com
+slack.com
 slack.com
 api.slack.com
 slackb.com
@@ -3982,8 +3982,8 @@ reviewer.pullrequest.com
 app.pullrequest.com
 a5s.hackerone-ext-content.com
 api.hackerone.com
-hackerone.live
 www.hackerone.com
+hackerone.live
 hackerone.com
 hackerone.com
 api.hackerone.com
