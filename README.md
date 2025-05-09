@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May  9 10:19:33 UTC 2025)
+## Domains with Bounties (Last Updated Fri May  9 10:48:07 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 walletbot.me
@@ -44,9 +44,9 @@ mark8.syfe.com
 https://console.neon.tech/api/v2/
 https://console.neon.tech/
 https://console-stage.neon.build/
+app.whoop.com
 api.prod.whoop.com
 shop.whoop.com
-app.whoop.com
 api.prod.whoop.com
 app.whoop.com
 shop.whoop.com
@@ -356,8 +356,8 @@ help.netflix.com
 *.prod.ftl.netflix.com
 *.nflximg.net
 ichnaea.netflix.com
-www.netflix.com
 meechum.netflix.com
+www.netflix.com
 *.nflxext.com
 *.prod.ftl.netflix.com
 *.prod.cloud.netflix.com
@@ -401,8 +401,8 @@ platform.cat.earlywarning.io
 usercontent.koho.ca
 app.koho.ca
 web.koho.ca
-www.koho.ca
 webgateway.koho.ca
+www.koho.ca
 web.koho.ca
 http://api.koho.ca/1.0
 http://api.koho.ca/partner
@@ -435,16 +435,16 @@ metrics.int.remitly.com
 ir.remitly.com
 app.rewire.to
 rewire.com
-news.remitly.com
-*.int.remitly.com
+access.remitly.com
+site.rewire.com
 blog.remitly.com
 api.remitly.io
 app3.rewire.to
-site.rewire.com
-access.remitly.com
+news.remitly.com
+*.int.remitly.com
+ablink.info.remitly.com
 careers.remitly.com
 auth.remitly.com
-ablink.info.remitly.com
 remitly.com
 *.int.remitly.com
 *.dev.remitly.com
@@ -788,8 +788,8 @@ kronor.io
 *.trainpal.com
 *.mytrainpal.com
 *.cheaptickets.nl
-api.mergify.com
 dashboard.mergify.com
+api.mergify.com
 api.mergify.com
 dashboard.mergify.com
 www.compass.com
@@ -2045,8 +2045,8 @@ internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
 *.exodus.io
-*.exodus.com
 *.a.exodus.io
+*.exodus.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
@@ -2138,12 +2138,12 @@ business.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
 creatormarketplace.tiktok.com
-ads.tiktok.com
 tiktok.com
 *.tiktok.com
 seller-id.tokopedia.com
 live-backstage.tiktok.com
 *.tiktokv.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2204,10 +2204,10 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
+*.acronis.work
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-*.acronis.work
 account.acronis.com
 beta-cloud.acronis.com
 *.acronis.com
@@ -2596,8 +2596,8 @@ app.nordpass.com
 *.line.naver.jp
 *.line.biz
 *.line-apps.com
-*.line.me
 *.linecorp.com
+*.line.me
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -3134,9 +3134,9 @@ nadex.com
 *.mona.co
 merchant.crypto.com
 developer.crypto.com
+web.crypto.com
 developer-api.crypto.com
 *.crypto.com
-web.crypto.com
 *.crypto.com
 *.mona.co
 https://crypto.com/exchange
@@ -3595,13 +3595,13 @@ linkpop.com
 arrive-server.shopifycloud.com
 *.pci.shopifyinc.com
 shopifyinbox.com
+*.shopifycloud.com
+*.shopify.com
 partners.shopify.com
 *.shopify.io
 admin.shopify.com
-your-store.myshopify.com
 shop.app
-*.shopifycloud.com
-*.shopify.com
+your-store.myshopify.com
 accounts.shopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
@@ -3706,7 +3706,6 @@ adobeid-na1.services.adobe.com
 *.lightroom.adobe.com
 net.s2stagehance.com
 portfolio.ccpsx.com
-*.acrobat.adobe.com
 account.magento.com
 photoshop.adobe.com
 learningmanagerstage4.adobe.com
@@ -3757,8 +3756,8 @@ www.hoteltonight.com
 api.airbnb.com
 next.airbnb.com
 *.withairbnb.com
-www.airbnb.com
 *.airbnb.com
+www.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3829,9 +3828,9 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 *.twimg.com
+*.x.ai
 *.grok.com
 gnip.com
-*.x.ai
 *.twitter.com
 grok.com
 *.x.com
@@ -3949,8 +3948,8 @@ slackb.com
 *.quip.com
 slack-status.com
 slackatwork.com
-api.slack.com
 app.slack.com
+api.slack.com
 slack.com
 slack.com
 api.slack.com
@@ -3983,8 +3982,8 @@ reviewer.pullrequest.com
 app.pullrequest.com
 a5s.hackerone-ext-content.com
 api.hackerone.com
-hackerone.live
 www.hackerone.com
+hackerone.live
 hackerone.com
 hackerone.com
 api.hackerone.com
