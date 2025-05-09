@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
 braze_inc,https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/,True
-wallet_on_telegram,walletbot.me,True
 wallet_on_telegram,pay.wallet.tg,True
 wallet_on_telegram,wallet.tg,True
+wallet_on_telegram,walletbot.me,True
 wallet_on_telegram,walletbot.me,True
 wallet_on_telegram,pay.wallet.tg,True
 wallet_on_telegram,wallet.tg,True
@@ -1319,8 +1319,8 @@ ishosting,my.ishosting.com,False
 mintel,*.mintel.co.uk,False
 mintel,*.mintel.cloud,False
 mintel,*.gnpd.com,False
-mintel,*.comperemedia.com,False
 mintel,*.mintel.com,False
+mintel,*.comperemedia.com,False
 mintel,*.mintel.com,False
 mintel,*.mintel.cloud,False
 mintel,*.gnpd.com,False
@@ -4637,9 +4637,9 @@ remitly,api.remitly.io,True
 remitly,app3.rewire.to,True
 remitly,site.rewire.com,True
 remitly,news.remitly.com,True
+remitly,careers.remitly.com,True
 remitly,*.int.remitly.com,True
 remitly,ablink.info.remitly.com,True
-remitly,careers.remitly.com,True
 remitly,auth.remitly.com,True
 remitly,remitly.com,True
 remitly,*.int.remitly.com,True
@@ -4868,9 +4868,9 @@ wellhive,corporate-okta.wellhive.com,False
 hostinger,builder.hostinger.com,True
 hostinger,hpanel.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
+hostinger,www.hostinger.com,True
 hostinger,horizons.hostinger.com,True
 hostinger,payments.hostinger.com,True
-hostinger,www.hostinger.com,True
 hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,hpanel.hostinger.com,True
@@ -4895,8 +4895,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,research.23andme.com,True
 23andme_bbp,clinic.lemonaidhealth.com,True
 23andme_bbp,blog.23andme.com,True
-23andme_bbp,lemonaidhealth.com,True
 23andme_bbp,you.23andme.com,True
+23andme_bbp,lemonaidhealth.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
@@ -4922,7 +4922,6 @@ mercadolibre,*.mercadoshops.com.do,True
 mercadolibre,www.mercadopago.com.ec,True
 mercadolibre,www.mercadolibre.com.ni,True
 mercadolibre,*.mercadoshops.com.py,True
-mercadolibre,www.mercadolibre.com.sv,True
 mercadolibre,*.mercadoshops.co.cr,True
 mercadolibre,www.mercadolibre.com.pa,True
 mercadolibre,logistica.redelcom.cl,True
@@ -4945,6 +4944,7 @@ mercadolibre,*.mercadoshops.com.br,True
 mercadolibre,*.mercadopago.com,True
 mercadolibre,mercadoplay.co,True
 mercadolibre,biolibre.ar,True
+mercadolibre,biolibre.mx,True
 mercadolibre,*.adminml.com,True
 mercadolibre,*.mercadolibre.cl,True
 mercadolibre,*.mercadolibre.com,True
@@ -7633,8 +7633,8 @@ clarivate,biosis.org.uk,False
 freshworks,yourdomain.freshcaller.com,True
 freshworks,yourdomain.freshchat.com,True
 freshworks,yourdomain.freshservice.com,True
-freshworks,yourdomain.myfreshworks.com,True
 freshworks,yourdomain.freshdesk.com,True
+freshworks,yourdomain.myfreshworks.com,True
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshchat.com,True
@@ -7750,8 +7750,8 @@ shutterfly_vdp,shutterfly.com,False
 shutterfly_vdp,blog.spoonflower.com,False
 shutterfly_vdp,www.spoonflower.com,False
 shutterfly_vdp,snapfish.ie,False
-shutterfly_vdp,*.snapfish.com,False
 shutterfly_vdp,photo.walgreens.com,False
+shutterfly_vdp,*.snapfish.com,False
 shutterfly_vdp,*.shutterfly.com,False
 shutterfly_vdp,*.snapfish.com,False
 shutterfly_vdp,*.sf-cdn.com,False
@@ -8767,8 +8767,8 @@ resmed,https://myapp.somnoware.com/login,False
 resmed,http://www.matrixcare.com,False
 deribit,insights.deribit.com,True
 deribit,pb.deribit.com,True
-deribit,test.deribit.com,True
 deribit,*.deribit.com,True
+deribit,test.deribit.com,True
 deribit,*.deribit.com,True
 deribit,test.deribit.com,True
 deribit,insights.deribit.com,True
@@ -9406,8 +9406,8 @@ payoneer,http://greenchannel.payoneer.com.cn/gcportal,True
 redis-vdp,api.redislabs.com,False
 redis-vdp,www.redislabs.com,False
 redis-vdp,redis.io,False
-redis-vdp,app.redislabs.com,False
 redis-vdp,www.redis.com,False
+redis-vdp,app.redislabs.com,False
 redis-vdp,app.redislabs.com,False
 redis-vdp,www.redis.com,False
 redis-vdp,www.redislabs.com,False
@@ -11370,8 +11370,8 @@ reddit,ads.reddit.com,True
 reddit,developers.reddit.com,True
 reddit,accounts.reddit.com,True
 reddit,matrix.redditspace.com,True
-reddit,m.reddit.com,True
 reddit,*.redditinc.com,True
+reddit,m.reddit.com,True
 reddit,*.reddit.com,True
 reddit,*.memorable.io,True
 reddit,*.snooguts.net,True
@@ -12021,8 +12021,8 @@ mendix,k8s-licbrk-licenseb-11d216e80e-384217420.eu-central-1.elb.amazonaws.com,F
 mendix,marketplaceadmin.mendixcloud.com,False
 mendix,notification.billing.appservices.mendix.com,False
 exodus,*.exodus.io,True
-exodus,*.exodus.com,True
 exodus,*.a.exodus.io,True
+exodus,*.exodus.com,True
 exodus,*.exodus.io,True
 exodus,*.a.exodus.io,True
 exodus,*.exodus.com,True
@@ -12119,9 +12119,9 @@ tiktok,creatormarketplace.tiktok.com,True
 tiktok,ads.tiktok.com,True
 tiktok,tiktok.com,True
 tiktok,*.tiktok.com,True
-tiktok,*.tiktokv.com,True
 tiktok,live-backstage.tiktok.com,True
 tiktok,seller-id.tokopedia.com,True
+tiktok,*.tiktokv.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -12231,8 +12231,8 @@ logitech,select.logitech.com,False
 logitech,https://www.logitech.com/blog,False
 logitech,alert.logitech.com,False
 enjin,*.enjinusercontent.com,False
-enjin,nft.io,True
 enjin,platform.enjin.io,True
+enjin,nft.io,True
 enjin,nft.io,True
 enjin,platform.enjin.io,True
 enjin,*.enjinusercontent.com,False
@@ -13302,8 +13302,8 @@ datastax,downloads.datastax.com,True
 datastax,langflow.org,True
 datastax,langflow.datastax.com,True
 datastax,docs.datastax.com,True
-datastax,www.datastax.com,True
 datastax,astra.datastax.com,True
+datastax,www.datastax.com,True
 datastax,www.datastax.com,True
 datastax,downloads.datastax.com,True
 datastax,docs.datastax.com,True
@@ -14139,10 +14139,10 @@ paypal,*.paydiant.com,True
 paypal,*.venmo.com,True
 paypal,*.braintree-api.com,True
 paypal,*.hyperwallet.com,True
-paypal,*.braintreegateway.com,True
-paypal,*.paylution.com,True
-paypal,*.paypal.com,True
 paypal,*.xoom.com,True
+paypal,*.braintreegateway.com,True
+paypal,*.paypal.com,True
+paypal,*.paylution.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True
 paypal,*.braintreegateway.com,True
@@ -14180,8 +14180,8 @@ chaturbate,*.highwebmedia.com,True
 chaturbate,*.securegatewayaccess.com,True
 chaturbate,*.cb.dev,True
 chaturbate,billingsupport.chaturbate.com,True
-chaturbate,*.mmcdn.com,True
 chaturbate,m.chaturbate.com,True
+chaturbate,*.mmcdn.com,True
 chaturbate,chaturbate.com,True
 chaturbate,*.highwebmedia.com,True
 chaturbate,*.securegatewayaccess.com,True
@@ -14773,8 +14773,8 @@ github,classroom.github.com,True
 github,npmjs.com,True
 github,npmjs.org,True
 github,education.github.com,True
-github,gist.github.com,True
 github,*.githubapp.com,True
+github,gist.github.com,True
 github,*.githubusercontent.com,True
 github,api.github.com,True
 github,github.com,True
@@ -14852,7 +14852,6 @@ deriv,dx.deriv.com,False
 deriv,smarttrader.deriv.com,True
 deriv,dx-demo.deriv.com,False
 deriv,*.derivws.com,True
-deriv,api.deriv.com,True
 deriv,*.deriv.cloud,True
 deriv,oauth.deriv.com,True
 deriv,*.binary.com,True
@@ -14860,6 +14859,7 @@ deriv,cashier.deriv.com,True
 deriv,derivws.com,True
 deriv,app.deriv.com,True
 deriv,*.deriv.com,True
+deriv,api.deriv.com,True
 deriv,*.deriv.com,True
 deriv,*.deriv.cloud,True
 deriv,*.derivws.com,True
@@ -14948,13 +14948,13 @@ snapchat,businesshelp.snapchat.com,True
 snapchat,*.sc-core.net,True
 snapchat,story.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
-snapchat,business.snapchat.com,True
 snapchat,forum.playcanvas.com,True
 snapchat,web.snapchat.com,True
 snapchat,ads.snapchat.com,True
-snapchat,accounts.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,app.snapchat.com,True
+snapchat,accounts.snapchat.com,True
+snapchat,business.snapchat.com,True
 snapchat,accounts.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,*.sc-core.net,True
@@ -15178,6 +15178,7 @@ cloudflare,cloudflareworkers.com,True
 cloudflare,waf.cumulusfire.net,True
 cloudflare,one.dash.cloudflare.com,True
 cloudflare,dash.cloudflare.com,True
+cloudflare,*.cloudflarepartners.com,True
 cloudflare,dash.cloudflare.com,True
 cloudflare,cloudflareworkers.com,True
 cloudflare,*.teams.cloudflare.com,True
@@ -15275,8 +15276,8 @@ slack,slackb.com,True
 slack,*.quip.com,True
 slack,slack-status.com,True
 slack,slackatwork.com,True
-slack,app.slack.com,True
 slack,api.slack.com,True
+slack,app.slack.com,True
 slack,slack.com,True
 slack,slack.com,True
 slack,api.slack.com,True

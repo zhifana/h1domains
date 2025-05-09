@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May  9 06:30:05 UTC 2025)
+## Domains with Bounties (Last Updated Fri May  9 06:53:28 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
-walletbot.me
 pay.wallet.tg
 wallet.tg
+walletbot.me
 walletbot.me
 pay.wallet.tg
 wallet.tg
@@ -441,9 +441,9 @@ api.remitly.io
 app3.rewire.to
 site.rewire.com
 news.remitly.com
+careers.remitly.com
 *.int.remitly.com
 ablink.info.remitly.com
-careers.remitly.com
 auth.remitly.com
 remitly.com
 *.int.remitly.com
@@ -549,9 +549,9 @@ demo.dynamic.xyz
 builder.hostinger.com
 hpanel.hostinger.com
 cpanel.hostinger.com
+www.hostinger.com
 horizons.hostinger.com
 payments.hostinger.com
-www.hostinger.com
 www.hostinger.com
 cpanel.hostinger.com
 hpanel.hostinger.com
@@ -570,8 +570,8 @@ pd-api.polkadoc.com
 research.23andme.com
 clinic.lemonaidhealth.com
 blog.23andme.com
-lemonaidhealth.com
 you.23andme.com
+lemonaidhealth.com
 api.23andme.com
 api.23andme.com
 auth.23andme.com
@@ -597,7 +597,6 @@ research.23andme.com
 www.mercadopago.com.ec
 www.mercadolibre.com.ni
 *.mercadoshops.com.py
-www.mercadolibre.com.sv
 *.mercadoshops.co.cr
 www.mercadolibre.com.pa
 logistica.redelcom.cl
@@ -620,6 +619,7 @@ api.mercadopago.com
 *.mercadopago.com
 mercadoplay.co
 biolibre.ar
+biolibre.mx
 *.adminml.com
 *.mercadolibre.cl
 *.mercadolibre.com
@@ -1003,8 +1003,8 @@ https://www.visa.com.az/az_az/account/registration
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshservice.com
-yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1428,8 +1428,8 @@ zerobounce.net
 zerobounce.net
 insights.deribit.com
 pb.deribit.com
-test.deribit.com
 *.deribit.com
+test.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1959,8 +1959,8 @@ ads.reddit.com
 developers.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
-m.reddit.com
 *.redditinc.com
+m.reddit.com
 *.reddit.com
 *.memorable.io
 *.snooguts.net
@@ -2045,8 +2045,8 @@ internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
 *.exodus.io
-*.exodus.com
 *.a.exodus.io
+*.exodus.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
@@ -2141,9 +2141,9 @@ creatormarketplace.tiktok.com
 ads.tiktok.com
 tiktok.com
 *.tiktok.com
-*.tiktokv.com
 live-backstage.tiktok.com
 seller-id.tokopedia.com
+*.tiktokv.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2182,8 +2182,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-nft.io
 platform.enjin.io
+nft.io
 nft.io
 platform.enjin.io
 api.figma.com
@@ -2581,8 +2581,8 @@ downloads.datastax.com
 langflow.org
 langflow.datastax.com
 docs.datastax.com
-www.datastax.com
 astra.datastax.com
+www.datastax.com
 www.datastax.com
 downloads.datastax.com
 docs.datastax.com
@@ -2978,10 +2978,10 @@ loanbuilder.com
 *.venmo.com
 *.braintree-api.com
 *.hyperwallet.com
-*.braintreegateway.com
-*.paylution.com
-*.paypal.com
 *.xoom.com
+*.braintreegateway.com
+*.paypal.com
+*.paylution.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3019,8 +3019,8 @@ secure.chaturbate.com
 *.securegatewayaccess.com
 *.cb.dev
 billingsupport.chaturbate.com
-*.mmcdn.com
 m.chaturbate.com
+*.mmcdn.com
 chaturbate.com
 *.highwebmedia.com
 *.securegatewayaccess.com
@@ -3478,8 +3478,8 @@ classroom.github.com
 npmjs.com
 npmjs.org
 education.github.com
-gist.github.com
 *.githubapp.com
+gist.github.com
 *.githubusercontent.com
 api.github.com
 github.com
@@ -3553,7 +3553,6 @@ blinkit.com
 secure-dfadmin.deriv.com
 smarttrader.deriv.com
 *.derivws.com
-api.deriv.com
 *.deriv.cloud
 oauth.deriv.com
 *.binary.com
@@ -3561,6 +3560,7 @@ cashier.deriv.com
 derivws.com
 app.deriv.com
 *.deriv.com
+api.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3642,13 +3642,13 @@ businesshelp.snapchat.com
 *.sc-core.net
 story.snapchat.com
 snappublisher.snapchat.com
-business.snapchat.com
 forum.playcanvas.com
 web.snapchat.com
 ads.snapchat.com
-accounts.snapchat.com
 playcanvas.com
 app.snapchat.com
+accounts.snapchat.com
+business.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3850,6 +3850,7 @@ cloudflareworkers.com
 waf.cumulusfire.net
 one.dash.cloudflare.com
 dash.cloudflare.com
+*.cloudflarepartners.com
 dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
@@ -3947,8 +3948,8 @@ slackb.com
 *.quip.com
 slack-status.com
 slackatwork.com
-app.slack.com
 api.slack.com
+app.slack.com
 slack.com
 slack.com
 api.slack.com
