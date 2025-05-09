@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May  9 14:47:16 UTC 2025)
+## Domains with Bounties (Last Updated Fri May  9 15:22:24 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 pay.wallet.tg
-wallet.tg
 walletbot.me
+wallet.tg
 walletbot.me
 pay.wallet.tg
 wallet.tg
-tax.audible.com
 *.audible.(TLD)
+tax.audible.com
 tax.audible.com
 *.audible.(TLD)
 https://api.myntra.com
@@ -436,16 +436,16 @@ ir.remitly.com
 app.rewire.to
 rewire.com
 access.remitly.com
-blog.remitly.com
+site.rewire.com
 api.remitly.io
 app3.rewire.to
-site.rewire.com
-careers.remitly.com
 *.int.remitly.com
 ablink.info.remitly.com
+careers.remitly.com
 auth.remitly.com
 remitly.com
 news.remitly.com
+blog.remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -569,8 +569,8 @@ pd-api.polkadoc.com
 research.23andme.com
 clinic.lemonaidhealth.com
 blog.23andme.com
-api.23andme.com
 lemonaidhealth.com
+api.23andme.com
 you.23andme.com
 auth.23andme.com
 api.23andme.com
@@ -1382,8 +1382,8 @@ www.wotif.com
 www.vrbo.com
 *.carrentals.com
 *.expediapartnercentral.com
+www.lastminute.co.nz
 *.travelocity.com
-*.cheaptickets.com
 *.vrbo.com
 *.carrentals.com
 *.wotif.com
@@ -1541,8 +1541,8 @@ pwapi.ex2b.com
 api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
-my.exness.com
 exness.com
+my.exness.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1959,8 +1959,8 @@ ads.reddit.com
 developers.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
-m.reddit.com
 *.redditinc.com
+m.reddit.com
 *.reddit.com
 *.memorable.io
 *.snooguts.net
@@ -2045,8 +2045,8 @@ internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
 *.exodus.io
-*.exodus.com
 *.a.exodus.io
+*.exodus.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
@@ -2134,16 +2134,16 @@ academy-outbound-ads.tiktok.com
 affiliate-id.tokopedia.com
 www.pangleglobal.com
 shop-id.tokopedia.com
-business.tiktok.com
 shop.tiktok.com
 creatormarketplace.tiktok.com
 seller-id.tokopedia.com
 live-backstage.tiktok.com
 *.tiktokv.com
 *.tiktok.com
-ads.tiktok.com
 developers.tiktok.com
+ads.tiktok.com
 tiktok.com
+business.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2182,8 +2182,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-platform.enjin.io
 nft.io
+platform.enjin.io
 nft.io
 platform.enjin.io
 api.figma.com
@@ -2204,8 +2204,8 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
-*-api-*.acronis.com
 *.acronis.work
+*-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
 account.acronis.com
@@ -2361,8 +2361,8 @@ my.account.sony.com
 ca.account.sony.com
 *.api.playstation.com
 *.sonyentertainmentnetwork.com
-store.playstation.com
 *.playstation.net
+store.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2595,9 +2595,9 @@ app.nordpass.com
 app.nordpass.com
 *.line.naver.jp
 *.line.biz
-*.linecorp.com
 *.line.me
 *.line-apps.com
+*.linecorp.com
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -2883,9 +2883,9 @@ booking.applevacations.com
 grammarly.ai
 *.grammarlyaws.com
 capi.grammarly.com
-app.grammarly.com
 *.grammarly.io
 *.grammarly.com
+app.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -3131,11 +3131,11 @@ tax.crypto.com
 js.crypto.com
 nadex.com
 *.mona.co
+web.crypto.com
 developer-api.crypto.com
 *.crypto.com
 merchant.crypto.com
 developer.crypto.com
-web.crypto.com
 app.mona.co
 *.crypto.com
 *.mona.co
@@ -3511,8 +3511,8 @@ design.gitlab.com
 customers.gitlab.com
 about.gitlab.com
 *.gitlab.net
-gitlab.com
 docs.gitlab.com
+gitlab.com
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3646,10 +3646,10 @@ snappublisher.snapchat.com
 forum.playcanvas.com
 web.snapchat.com
 ads.snapchat.com
-playcanvas.com
 business.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
+playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3714,8 +3714,8 @@ marketplace.magento.com
 stock.adobe.com
 account.adobe.com
 contributor.stock.adobe.com
-firefly.adobe.com
 auth.services.adobe.com
+firefly.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3755,9 +3755,9 @@ www.hoteltonight.com
 *.hoteltonight.com
 api.airbnb.com
 next.airbnb.com
-www.airbnb.com
-*.airbnb.com
 *.withairbnb.com
+*.airbnb.com
+www.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3828,9 +3828,9 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 *.twimg.com
+*.x.ai
 *.grok.com
 gnip.com
-*.x.ai
 *.twitter.com
 grok.com
 *.x.com
@@ -3948,9 +3948,9 @@ slackb.com
 *.quip.com
 slack-status.com
 slackatwork.com
+slack.com
 api.slack.com
 app.slack.com
-slack.com
 slack.com
 api.slack.com
 slackb.com
