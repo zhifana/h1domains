@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May  9 02:56:54 UTC 2025)
+## Domains with Bounties (Last Updated Fri May  9 03:40:58 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 wallet.tg
@@ -30,9 +30,9 @@ www.zooplus.co.uk
 www.zooplus.com
 zooplus.net
 mark8.syfe.com
-api.syfe.com
 alfred.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
+api.syfe.com
 www.syfe.com
 uat-bugbounty.nonprod.syfe.com
 uat-bugbounty.nonprod.syfe.com
@@ -337,8 +337,8 @@ api.circle.com
 app.circle.com
 console.circle.com
 *.varonis.net
-*.varonis.io
 *.varonis.com
+*.varonis.io
 *.varonis.com
 *.varonis.io
 *.varonis.net
@@ -435,16 +435,16 @@ metrics.int.remitly.com
 ir.remitly.com
 app.rewire.to
 rewire.com
-access.remitly.com
-site.rewire.com
+news.remitly.com
+*.int.remitly.com
 blog.remitly.com
 api.remitly.io
 app3.rewire.to
-news.remitly.com
-*.int.remitly.com
-ablink.info.remitly.com
+site.rewire.com
+access.remitly.com
 careers.remitly.com
 auth.remitly.com
+ablink.info.remitly.com
 remitly.com
 *.int.remitly.com
 *.dev.remitly.com
@@ -571,8 +571,8 @@ pd-api.polkadoc.com
 api.23andme.com
 research.23andme.com
 clinic.lemonaidhealth.com
-blog.23andme.com
 you.23andme.com
+blog.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -815,8 +815,8 @@ oauth-sandbox.gocardless.com
 ob.gocardless.com
 www.gocardless.com
 manage-sandbox.gocardless.com
-api-sandbox.gocardless.com
 pay-sandbox.gocardless.com
+api-sandbox.gocardless.com
 *.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -1003,8 +1003,8 @@ https://www.visa.com.az/az_az/account/registration
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshservice.com
-yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
