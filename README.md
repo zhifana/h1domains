@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May  9 09:22:52 UTC 2025)
+## Domains with Bounties (Last Updated Fri May  9 09:45:07 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
+walletbot.me
 pay.wallet.tg
 wallet.tg
-walletbot.me
 walletbot.me
 pay.wallet.tg
 wallet.tg
@@ -435,16 +435,16 @@ metrics.int.remitly.com
 ir.remitly.com
 app.rewire.to
 rewire.com
-access.remitly.com
+news.remitly.com
+*.int.remitly.com
 blog.remitly.com
 api.remitly.io
 app3.rewire.to
 site.rewire.com
-news.remitly.com
+access.remitly.com
 careers.remitly.com
-*.int.remitly.com
-ablink.info.remitly.com
 auth.remitly.com
+ablink.info.remitly.com
 remitly.com
 *.int.remitly.com
 *.dev.remitly.com
@@ -478,11 +478,11 @@ world.org
 getworldcoin.com
 *.toolsforhumanity.com
 bioid-management.app
-*.consumer.worldcoin.org
-*.worldcoin.org
-*.worldcoin.dev
 toolsforhumanity.com
 developer.worldcoin.org
+*.worldcoin.dev
+*.worldcoin.org
+*.consumer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -565,7 +565,6 @@ healthaid.lemonaidhealth.com
 medical.23andme.com
 therapeutics.23andme.com
 store.23andme.com
-auth.23andme.com
 pd-api.polkadoc.com
 research.23andme.com
 clinic.lemonaidhealth.com
@@ -573,6 +572,7 @@ blog.23andme.com
 lemonaidhealth.com
 api.23andme.com
 you.23andme.com
+auth.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -788,8 +788,8 @@ kronor.io
 *.trainpal.com
 *.mytrainpal.com
 *.cheaptickets.nl
-dashboard.mergify.com
 api.mergify.com
+dashboard.mergify.com
 api.mergify.com
 dashboard.mergify.com
 www.compass.com
@@ -815,9 +815,9 @@ oauth-sandbox.gocardless.com
 ob.gocardless.com
 www.gocardless.com
 manage-sandbox.gocardless.com
-api-sandbox.gocardless.com
 pay-sandbox.gocardless.com
 *.gocardless.com
+api-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -1923,8 +1923,8 @@ api.taxjar.com
 app.taxjar.com
 js.stripe.com
 api.stripe.com
-*.stripe.com
 *.lemonsqueezy.com
+*.stripe.com
 *.lemonsqueezy.com
 api.stripe.com
 *.stripe.com
@@ -1959,8 +1959,8 @@ ads.reddit.com
 developers.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
-*.redditinc.com
 m.reddit.com
+*.redditinc.com
 *.reddit.com
 *.memorable.io
 *.snooguts.net
@@ -2045,8 +2045,8 @@ internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
 *.exodus.io
-*.a.exodus.io
 *.exodus.com
+*.a.exodus.io
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
@@ -2142,8 +2142,8 @@ ads.tiktok.com
 tiktok.com
 *.tiktok.com
 seller-id.tokopedia.com
-*.tiktokv.com
 live-backstage.tiktok.com
+*.tiktokv.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2204,10 +2204,10 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
-*.acronis.work
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
+*.acronis.work
 account.acronis.com
 beta-cloud.acronis.com
 *.acronis.com
@@ -3020,8 +3020,8 @@ secure.chaturbate.com
 *.securegatewayaccess.com
 *.cb.dev
 billingsupport.chaturbate.com
-m.chaturbate.com
 *.mmcdn.com
+m.chaturbate.com
 chaturbate.com
 *.highwebmedia.com
 *.securegatewayaccess.com
@@ -3134,9 +3134,9 @@ nadex.com
 *.mona.co
 merchant.crypto.com
 developer.crypto.com
-web.crypto.com
 developer-api.crypto.com
 *.crypto.com
+web.crypto.com
 *.crypto.com
 *.mona.co
 https://crypto.com/exchange
@@ -3223,8 +3223,8 @@ kartaview.org
 *.grabpay.com
 *.myteksi.com
 *.ovo.id
-*.myteksi.net
 *.grab.com
+*.myteksi.net
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3714,9 +3714,9 @@ photos.adobe.io
 marketplace.magento.com
 stock.adobe.com
 account.adobe.com
-contributor.stock.adobe.com
 auth.services.adobe.com
 firefly.adobe.com
+contributor.stock.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3829,9 +3829,9 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 *.twimg.com
-*.x.ai
 *.grok.com
 gnip.com
+*.x.ai
 *.twitter.com
 grok.com
 *.x.com
