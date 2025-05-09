@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May  9 23:20:15 UTC 2025)
+## Domains with Bounties (Last Updated Fri May  9 23:41:24 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 wallet.tg
@@ -45,8 +45,8 @@ https://console.neon.tech/api/v2/
 https://console.neon.tech/
 https://console-stage.neon.build/
 app.whoop.com
-api.prod.whoop.com
 shop.whoop.com
+api.prod.whoop.com
 api.prod.whoop.com
 app.whoop.com
 shop.whoop.com
@@ -478,9 +478,9 @@ world.org
 getworldcoin.com
 *.toolsforhumanity.com
 bioid-management.app
+*.worldcoin.dev
 *.consumer.worldcoin.org
 *.worldcoin.org
-*.worldcoin.dev
 toolsforhumanity.com
 developer.worldcoin.org
 *.worldcoin.org
@@ -1381,10 +1381,10 @@ www.wotif.com
 www.vrbo.com
 *.carrentals.com
 *.expediapartnercentral.com
+www.lastminute.co.nz
 *.travelocity.com
 *.cheaptickets.com
 www.ebookers.fi
-www.lastminute.co.nz
 *.vrbo.com
 *.carrentals.com
 *.wotif.com
@@ -1418,9 +1418,9 @@ www.expediagroup.com
 www.flights.com
 www.expediataap.com
 *.magiceden.workers.dev
-*.magiceden.dev
 magiceden.io
 *.magiceden.io
+*.magiceden.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1962,8 +1962,8 @@ matrix.redditspace.com
 m.reddit.com
 *.redditinc.com
 *.memorable.io
-*.reddit.com
 developers.reddit.com
+*.reddit.com
 *.snooguts.net
 *.reddit.com
 *.redditmedia.com
@@ -2205,8 +2205,8 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
-*-api-*.acronis.com
 *.acronis.work
+*-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
 account.acronis.com
@@ -2517,8 +2517,8 @@ sso.marriott.com
 mgs.marriott.com
 help.marriott.com
 traveler.marriott.com
-www.marriott.com
 all-inclusive.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2596,8 +2596,8 @@ app.nordpass.com
 app.nordpass.com
 *.line.naver.jp
 *.line.biz
-*.line.me
 *.linecorp.com
+*.line.me
 *.line-apps.com
 *.line.me
 *.line-apps.com
@@ -2745,8 +2745,8 @@ www.bookingholdings.com
 api.creditkarma.com
 blog.creditkarma.com
 www.creditkarma.ca
-support.creditkarma.ca
 accounts.creditkarma.com
+support.creditkarma.ca
 accounts.creditkarma.com
 www.creditkarma.ca
 api.creditkarma.com
@@ -3021,8 +3021,8 @@ secure.chaturbate.com
 *.securegatewayaccess.com
 *.cb.dev
 billingsupport.chaturbate.com
-m.chaturbate.com
 *.mmcdn.com
+m.chaturbate.com
 chaturbate.com
 *.highwebmedia.com
 *.securegatewayaccess.com
@@ -3034,9 +3034,9 @@ m.chaturbate.com
 billingsupport.chaturbate.com
 secure.chaturbate.com
 www.bitmex.com
-blog.bitmex.com
 testnet.bitmex.com
 *.bitmex.com
+blog.bitmex.com
 *.bitmex.com
 testnet.bitmex.com
 www.bitmex.com
@@ -3132,12 +3132,12 @@ tax.crypto.com
 js.crypto.com
 nadex.com
 *.mona.co
-developer-api.crypto.com
 web.crypto.com
+developer-api.crypto.com
 app.mona.co
+*.crypto.com
 developer.crypto.com
 merchant.crypto.com
-*.crypto.com
 *.crypto.com
 *.mona.co
 https://crypto.com/exchange
@@ -3478,8 +3478,8 @@ moneybirdstorage.com
 *.github.net
 npmjs.com
 npmjs.org
-gist.github.com
 *.githubapp.com
+gist.github.com
 *.githubusercontent.com
 api.github.com
 classroom.github.com
@@ -3649,8 +3649,8 @@ web.snapchat.com
 ads.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
-playcanvas.com
 business.snapchat.com
+playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3714,9 +3714,8 @@ photos.adobe.io
 marketplace.magento.com
 stock.adobe.com
 account.adobe.com
-auth.services.adobe.com
-firefly.adobe.com
 contributor.stock.adobe.com
+firefly.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3949,9 +3948,9 @@ slackb.com
 *.quip.com
 slack-status.com
 slackatwork.com
-api.slack.com
-app.slack.com
 slack.com
+app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 slackb.com
