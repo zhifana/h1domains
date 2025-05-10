@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 10 04:48:19 UTC 2025)
+## Domains with Bounties (Last Updated Sat May 10 05:20:30 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 walletbot.me
@@ -11,8 +11,8 @@ pay.wallet.tg
 walletbot.me
 pay.wallet.tg
 wallet.tg
-*.audible.(TLD)
 tax.audible.com
+*.audible.(TLD)
 tax.audible.com
 *.audible.(TLD)
 https://api.myntra.com
@@ -23,8 +23,8 @@ https://pay.payzippy.com
 https://uiscoop.payzippy.com
 zooplus.net
 www.zooplus.co.uk
-www.zooplus.com
 www.zooplus.de
+www.zooplus.com
 www.zooplus.de
 www.zooplus.co.uk
 www.zooplus.com
@@ -32,8 +32,8 @@ zooplus.net
 mark8.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 api.syfe.com
-alfred.syfe.com
 uat-bugbounty.nonprod.syfe.com
+alfred.syfe.com
 www.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
@@ -128,8 +128,8 @@ http://app.lightspark.com
 https://link.uma.me
 lrc20.lightspark.com
 app.uma.money
-dashboard.privy.io
 auth.privy.io
+dashboard.privy.io
 auth.privy.io
 dashboard.privy.io
 http://--your-own-1password-account--.1password.com
@@ -1366,7 +1366,6 @@ www.bookabach.co.nz
 www.mrjet.se
 www.hotwirepartnercentral.com
 *.travelocity.ca
-www.travelocity.com
 www.travelocity.ca
 www.carrentals.com
 www.flights.com
@@ -1961,8 +1960,8 @@ business.reddithelp.com
 ads.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
-m.reddit.com
 *.redditinc.com
+m.reddit.com
 *.memorable.io
 *.reddit.com
 developers.reddit.com
@@ -2141,12 +2140,12 @@ creatormarketplace.tiktok.com
 seller-id.tokopedia.com
 developers.tiktok.com
 live-backstage.tiktok.com
-careers.tiktok.com
 *.tiktokv.com
-business.tiktok.com
-tiktok.com
+careers.tiktok.com
 *.tiktok.com
+tiktok.com
 ads.tiktok.com
+business.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2634,8 +2633,8 @@ hub.vroid.com
 sketch.pixiv.net
 accounts.pixiv.net
 comic.pixiv.net
-www.pixiv.net
 dic.pixiv.net
+www.pixiv.net
 *.fanbox.cc
 *.fanbox.cc
 booth.pm
@@ -2747,8 +2746,8 @@ www.bookingholdings.com
 api.creditkarma.com
 blog.creditkarma.com
 www.creditkarma.ca
-accounts.creditkarma.com
 support.creditkarma.ca
+accounts.creditkarma.com
 accounts.creditkarma.com
 www.creditkarma.ca
 api.creditkarma.com
@@ -2981,9 +2980,9 @@ loanbuilder.com
 *.paydiant.com
 *.venmo.com
 *.hyperwallet.com
-*.xoom.com
 *.braintreegateway.com
 *.paylution.com
+*.xoom.com
 *.braintree-api.com
 *.paypal.com
 *.xoom.com
@@ -3136,10 +3135,10 @@ nadex.com
 *.mona.co
 web.crypto.com
 developer-api.crypto.com
-merchant.crypto.com
-*.crypto.com
 app.mona.co
 developer.crypto.com
+merchant.crypto.com
+*.crypto.com
 *.crypto.com
 *.mona.co
 https://crypto.com/exchange
@@ -3480,12 +3479,12 @@ moneybirdstorage.com
 *.github.net
 npmjs.com
 npmjs.org
-gist.github.com
 *.githubapp.com
+gist.github.com
 *.githubusercontent.com
 api.github.com
-education.github.com
 classroom.github.com
+education.github.com
 github.com
 github.com
 api.github.com
@@ -3562,8 +3561,8 @@ oauth.deriv.com
 *.binary.com
 cashier.deriv.com
 derivws.com
-*.deriv.com
 app.deriv.com
+*.deriv.com
 api.deriv.com
 *.deriv.com
 *.deriv.cloud
@@ -3599,13 +3598,13 @@ arrive-server.shopifycloud.com
 *.shopifycloud.com
 *.shopify.io
 shopifyinbox.com
+*.shopify.com
 partners.shopify.com
 your-store.myshopify.com
-*.shopify.com
 admin.shopify.com
-shop.app
-accounts.shopify.com
 linkpop.com
+accounts.shopify.com
+shop.app
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3871,13 +3870,13 @@ embed.tumblr.com
 t.umblr.com
 mailpoet.com
 intensedebate.com
-*.tumblr.com
 akismet.com
 my.pressable.com
 gravatar.com
 secure.tumblr.com
 www.tumblr.com
 wordpress.com
+*.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
