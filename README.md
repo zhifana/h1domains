@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 10 13:45:02 UTC 2025)
+## Domains with Bounties (Last Updated Sat May 10 14:18:40 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 walletbot.me
@@ -44,8 +44,8 @@ mark8.syfe.com
 https://console.neon.tech/api/v2/
 https://console.neon.tech/
 https://console-stage.neon.build/
-shop.whoop.com
 api.prod.whoop.com
+shop.whoop.com
 app.whoop.com
 api.prod.whoop.com
 app.whoop.com
@@ -357,8 +357,8 @@ help.netflix.com
 *.prod.ftl.netflix.com
 ichnaea.netflix.com
 meechum.netflix.com
-*.nflximg.net
 www.netflix.com
+*.nflximg.net
 *.nflxext.com
 *.prod.ftl.netflix.com
 *.prod.cloud.netflix.com
@@ -436,8 +436,8 @@ metrics.int.remitly.com
 ir.remitly.com
 app.rewire.to
 rewire.com
-api.remitly.io
 site.rewire.com
+api.remitly.io
 blog.remitly.com
 access.remitly.com
 news.remitly.com
@@ -1777,8 +1777,8 @@ playwonderbox.com
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
-*.tinder.com
 *.gotinder.com
+*.tinder.com
 *.tinderops.net
 *.tinder.com
 *.gotinder.com
@@ -1925,8 +1925,8 @@ api.taxjar.com
 app.taxjar.com
 js.stripe.com
 *.lemonsqueezy.com
-api.stripe.com
 *.stripe.com
+api.stripe.com
 *.lemonsqueezy.com
 api.stripe.com
 *.stripe.com
@@ -2633,8 +2633,8 @@ hub.vroid.com
 sketch.pixiv.net
 accounts.pixiv.net
 comic.pixiv.net
-www.pixiv.net
 dic.pixiv.net
+www.pixiv.net
 *.fanbox.cc
 *.fanbox.cc
 booth.pm
@@ -2971,7 +2971,6 @@ paypal.me
 api.swiftfinancial.com
 swiftcapital.com
 sandbox.braintreegateway.com
-paypalobjects.com
 py.pl
 *.paypalcorp.com
 api.loanbuilder.com
@@ -2980,11 +2979,12 @@ loanbuilder.com
 *.paydiant.com
 *.venmo.com
 *.hyperwallet.com
-*.xoom.com
 *.braintreegateway.com
 *.paylution.com
+*.xoom.com
 *.paypal.com
 *.braintree-api.com
+paypalobjects.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3022,8 +3022,8 @@ secure.chaturbate.com
 *.securegatewayaccess.com
 *.cb.dev
 billingsupport.chaturbate.com
-*.mmcdn.com
 m.chaturbate.com
+*.mmcdn.com
 chaturbate.com
 *.highwebmedia.com
 *.securegatewayaccess.com
@@ -3479,8 +3479,8 @@ moneybirdstorage.com
 *.github.net
 npmjs.com
 npmjs.org
-*.githubapp.com
 gist.github.com
+*.githubapp.com
 *.githubusercontent.com
 api.github.com
 classroom.github.com
@@ -3595,15 +3595,15 @@ shopify.plus
 *.shopifycs.com
 arrive-server.shopifycloud.com
 *.pci.shopifyinc.com
-*.shopify.io
 *.shopifycloud.com
+*.shopify.io
 shopifyinbox.com
 your-store.myshopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
+shop.app
 accounts.shopify.com
 linkpop.com
-shop.app
 partners.shopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
@@ -3648,10 +3648,10 @@ forum.playcanvas.com
 web.snapchat.com
 ads.snapchat.com
 accounts.snapchat.com
-business.snapchat.com
 playcanvas.com
-app.snapchat.com
+business.snapchat.com
 snappublisher.snapchat.com
+app.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3717,6 +3717,7 @@ stock.adobe.com
 account.adobe.com
 contributor.stock.adobe.com
 firefly.adobe.com
+fonts.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3755,8 +3756,8 @@ www.hoteltonight.com
 *.muscache.com
 api.airbnb.com
 next.airbnb.com
-*.airbnb.com
 *.withairbnb.com
+*.airbnb.com
 www.airbnb.com
 *.hoteltonight.com
 *.hoteltonight.com
