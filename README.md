@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 10 05:20:30 UTC 2025)
+## Domains with Bounties (Last Updated Sat May 10 05:43:54 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 walletbot.me
@@ -11,8 +11,8 @@ pay.wallet.tg
 walletbot.me
 pay.wallet.tg
 wallet.tg
-tax.audible.com
 *.audible.(TLD)
+tax.audible.com
 tax.audible.com
 *.audible.(TLD)
 https://api.myntra.com
@@ -23,8 +23,8 @@ https://pay.payzippy.com
 https://uiscoop.payzippy.com
 zooplus.net
 www.zooplus.co.uk
-www.zooplus.de
 www.zooplus.com
+www.zooplus.de
 www.zooplus.de
 www.zooplus.co.uk
 www.zooplus.com
@@ -44,8 +44,8 @@ mark8.syfe.com
 https://console.neon.tech/api/v2/
 https://console.neon.tech/
 https://console-stage.neon.build/
-api.prod.whoop.com
 shop.whoop.com
+api.prod.whoop.com
 app.whoop.com
 api.prod.whoop.com
 app.whoop.com
@@ -128,8 +128,8 @@ http://app.lightspark.com
 https://link.uma.me
 lrc20.lightspark.com
 app.uma.money
-auth.privy.io
 dashboard.privy.io
+auth.privy.io
 auth.privy.io
 dashboard.privy.io
 http://--your-own-1password-account--.1password.com
@@ -442,10 +442,10 @@ blog.remitly.com
 access.remitly.com
 news.remitly.com
 *.int.remitly.com
+remitly.com
 ablink.info.remitly.com
 careers.remitly.com
 auth.remitly.com
-remitly.com
 app3.rewire.to
 *.int.remitly.com
 *.dev.remitly.com
@@ -791,8 +791,8 @@ kronor.io
 *.trainpal.com
 *.mytrainpal.com
 *.cheaptickets.nl
-api.mergify.com
 dashboard.mergify.com
+api.mergify.com
 api.mergify.com
 dashboard.mergify.com
 www.compass.com
@@ -1005,9 +1005,9 @@ direct-demo.currencycloud.com
 https://www.visa.com.az/az_az/account/registration
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
-yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1127,8 +1127,8 @@ hilton.com
 hilton.io
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-*.okx.com
 *.oklink.com
+*.okx.com
 *.okx.com
 *.oklink.com
 bridekidnapping.alternativa.film
@@ -1206,9 +1206,9 @@ www.malwarebytes.com
 *.mwbsys.com
 *.cloud.malwarebytes.com
 cloud.malwarebytes.com
-my.malwarebytes.com
 *.threatdown.com
 *.malwarebytes.com
+my.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1533,8 +1533,8 @@ sorare.com
 api.sorare.com
 ws.sorare.com
 *.sheingsp.com
-*.romwe.com
 *.shein.com
+*.romwe.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
@@ -1944,7 +1944,6 @@ www.urbanclap.com
 *.redditblog.com
 strapi.reddit.com
 meta-api.reddit.com
-api.reddit.com
 new.reddit.com
 *.spiketrap.io
 mod.reddit.com
@@ -1965,6 +1964,7 @@ m.reddit.com
 *.memorable.io
 *.reddit.com
 developers.reddit.com
+api.reddit.com
 *.snooguts.net
 *.reddit.com
 *.redditmedia.com
@@ -2140,12 +2140,12 @@ creatormarketplace.tiktok.com
 seller-id.tokopedia.com
 developers.tiktok.com
 live-backstage.tiktok.com
-*.tiktokv.com
 careers.tiktok.com
-*.tiktok.com
+*.tiktokv.com
 tiktok.com
 ads.tiktok.com
 business.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2184,8 +2184,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-nft.io
 platform.enjin.io
+nft.io
 nft.io
 platform.enjin.io
 api.figma.com
@@ -2206,8 +2206,8 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
-*.acronis.work
 *-api-*.acronis.com
+*.acronis.work
 *.devicelock.com
 *.5nine.com
 account.acronis.com
@@ -2518,8 +2518,8 @@ sso.marriott.com
 mgs.marriott.com
 help.marriott.com
 traveler.marriott.com
-www.marriott.com
 all-inclusive.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2633,8 +2633,8 @@ hub.vroid.com
 sketch.pixiv.net
 accounts.pixiv.net
 comic.pixiv.net
-dic.pixiv.net
 www.pixiv.net
+dic.pixiv.net
 *.fanbox.cc
 *.fanbox.cc
 booth.pm
@@ -2980,9 +2980,9 @@ loanbuilder.com
 *.paydiant.com
 *.venmo.com
 *.hyperwallet.com
+*.xoom.com
 *.braintreegateway.com
 *.paylution.com
-*.xoom.com
 *.braintree-api.com
 *.paypal.com
 *.xoom.com
@@ -3479,12 +3479,12 @@ moneybirdstorage.com
 *.github.net
 npmjs.com
 npmjs.org
-*.githubapp.com
 gist.github.com
+*.githubapp.com
 *.githubusercontent.com
 api.github.com
-classroom.github.com
 education.github.com
+classroom.github.com
 github.com
 github.com
 api.github.com
@@ -3598,13 +3598,13 @@ arrive-server.shopifycloud.com
 *.shopifycloud.com
 *.shopify.io
 shopifyinbox.com
-*.shopify.com
 partners.shopify.com
 your-store.myshopify.com
+*.shopify.com
 admin.shopify.com
-linkpop.com
-accounts.shopify.com
 shop.app
+accounts.shopify.com
+linkpop.com
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3648,10 +3648,10 @@ forum.playcanvas.com
 web.snapchat.com
 ads.snapchat.com
 accounts.snapchat.com
-playcanvas.com
 business.snapchat.com
-snappublisher.snapchat.com
+playcanvas.com
 app.snapchat.com
+snappublisher.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3715,8 +3715,8 @@ photos.adobe.io
 marketplace.magento.com
 stock.adobe.com
 account.adobe.com
-firefly.adobe.com
 contributor.stock.adobe.com
+firefly.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3757,8 +3757,8 @@ www.hoteltonight.com
 api.airbnb.com
 next.airbnb.com
 *.withairbnb.com
-*.airbnb.com
 www.airbnb.com
+*.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3874,9 +3874,9 @@ akismet.com
 my.pressable.com
 gravatar.com
 secure.tumblr.com
-www.tumblr.com
 wordpress.com
 *.tumblr.com
+www.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
