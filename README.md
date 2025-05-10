@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May  9 23:41:24 UTC 2025)
+## Domains with Bounties (Last Updated Sat May 10 01:23:44 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
-wallet.tg
-walletbot.me
-pay.wallet.tg
 walletbot.me
 pay.wallet.tg
 wallet.tg
-tax.audible.com
+walletbot.me
+pay.wallet.tg
+wallet.tg
 *.audible.(TLD)
+tax.audible.com
 tax.audible.com
 *.audible.(TLD)
 https://api.myntra.com
@@ -22,9 +22,9 @@ https://www.flipkart.com
 https://pay.payzippy.com
 https://uiscoop.payzippy.com
 zooplus.net
-www.zooplus.de
 www.zooplus.co.uk
 www.zooplus.com
+www.zooplus.de
 www.zooplus.de
 www.zooplus.co.uk
 www.zooplus.com
@@ -33,8 +33,8 @@ mark8.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 api.syfe.com
 www.syfe.com
-uat-bugbounty.nonprod.syfe.com
 alfred.syfe.com
+uat-bugbounty.nonprod.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 www.syfe.com
@@ -1204,9 +1204,9 @@ www.malwarebytes.com
 *.mwbsys.com
 *.cloud.malwarebytes.com
 cloud.malwarebytes.com
-*.malwarebytes.com
 my.malwarebytes.com
 *.threatdown.com
+*.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1381,10 +1381,10 @@ www.wotif.com
 www.vrbo.com
 *.carrentals.com
 *.expediapartnercentral.com
-www.lastminute.co.nz
 *.travelocity.com
 *.cheaptickets.com
 www.ebookers.fi
+www.lastminute.co.nz
 *.vrbo.com
 *.carrentals.com
 *.wotif.com
@@ -1959,11 +1959,11 @@ business.reddithelp.com
 ads.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
-m.reddit.com
 *.redditinc.com
+m.reddit.com
 *.memorable.io
-developers.reddit.com
 *.reddit.com
+developers.reddit.com
 *.snooguts.net
 *.reddit.com
 *.redditmedia.com
@@ -2139,12 +2139,12 @@ creatormarketplace.tiktok.com
 seller-id.tokopedia.com
 developers.tiktok.com
 business.tiktok.com
-live-backstage.tiktok.com
-ads.tiktok.com
 tiktok.com
-*.tiktok.com
-careers.tiktok.com
 *.tiktokv.com
+live-backstage.tiktok.com
+careers.tiktok.com
+*.tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2517,8 +2517,8 @@ sso.marriott.com
 mgs.marriott.com
 help.marriott.com
 traveler.marriott.com
-all-inclusive.marriott.com
 www.marriott.com
+all-inclusive.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2596,8 +2596,8 @@ app.nordpass.com
 app.nordpass.com
 *.line.naver.jp
 *.line.biz
-*.linecorp.com
 *.line.me
+*.linecorp.com
 *.line-apps.com
 *.line.me
 *.line-apps.com
@@ -2632,8 +2632,8 @@ hub.vroid.com
 sketch.pixiv.net
 accounts.pixiv.net
 comic.pixiv.net
-www.pixiv.net
 dic.pixiv.net
+www.pixiv.net
 *.fanbox.cc
 *.fanbox.cc
 booth.pm
@@ -2745,8 +2745,8 @@ www.bookingholdings.com
 api.creditkarma.com
 blog.creditkarma.com
 www.creditkarma.ca
-accounts.creditkarma.com
 support.creditkarma.ca
+accounts.creditkarma.com
 accounts.creditkarma.com
 www.creditkarma.ca
 api.creditkarma.com
@@ -2982,8 +2982,8 @@ loanbuilder.com
 *.xoom.com
 *.braintreegateway.com
 *.paylution.com
-*.paypal.com
 *.braintree-api.com
+*.paypal.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3135,9 +3135,9 @@ nadex.com
 web.crypto.com
 developer-api.crypto.com
 app.mona.co
-*.crypto.com
 developer.crypto.com
 merchant.crypto.com
+*.crypto.com
 *.crypto.com
 *.mona.co
 https://crypto.com/exchange
@@ -3478,8 +3478,8 @@ moneybirdstorage.com
 *.github.net
 npmjs.com
 npmjs.org
-*.githubapp.com
 gist.github.com
+*.githubapp.com
 *.githubusercontent.com
 api.github.com
 classroom.github.com
@@ -3560,8 +3560,8 @@ oauth.deriv.com
 *.binary.com
 cashier.deriv.com
 derivws.com
-app.deriv.com
 *.deriv.com
+app.deriv.com
 api.deriv.com
 *.deriv.com
 *.deriv.cloud
@@ -3585,8 +3585,8 @@ http://h1-your-domain.zendesk.com/sell
 http://h1-your-domain.zendesk.com/wfm/
 http://h1-your-domain.zendesk.com/qa/
 developer.zendesk.com
-www.udemy.com
 yourcompany.udemy.com
+www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopify.plus
@@ -3600,10 +3600,10 @@ arrive-server.shopifycloud.com
 shopifyinbox.com
 *.shopify.com
 accounts.shopify.com
+shop.app
 partners.shopify.com
 your-store.myshopify.com
 admin.shopify.com
-shop.app
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3649,8 +3649,8 @@ web.snapchat.com
 ads.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
-business.snapchat.com
 playcanvas.com
+business.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3831,10 +3831,10 @@ www.greenhouse.io
 *.grok.com
 gnip.com
 *.twitter.com
-grok.com
 x.com
 *.x.com
 *.x.ai
+grok.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3948,9 +3948,9 @@ slackb.com
 *.quip.com
 slack-status.com
 slackatwork.com
-slack.com
-app.slack.com
 api.slack.com
+app.slack.com
+slack.com
 slack.com
 api.slack.com
 slackb.com
@@ -3983,8 +3983,8 @@ app.pullrequest.com
 a5s.hackerone-ext-content.com
 hackerone.live
 api.hackerone.com
-hackerone.com
 www.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
