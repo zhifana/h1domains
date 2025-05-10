@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 10 15:17:46 UTC 2025)
+## Domains with Bounties (Last Updated Sat May 10 15:42:32 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 walletbot.me
@@ -31,10 +31,10 @@ www.zooplus.com
 zooplus.net
 mark8.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
-api.syfe.com
-uat-bugbounty.nonprod.syfe.com
 alfred.syfe.com
+uat-bugbounty.nonprod.syfe.com
 www.syfe.com
+api.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 www.syfe.com
@@ -44,8 +44,8 @@ mark8.syfe.com
 https://console.neon.tech/api/v2/
 https://console.neon.tech/
 https://console-stage.neon.build/
-api.prod.whoop.com
 shop.whoop.com
+api.prod.whoop.com
 app.whoop.com
 api.prod.whoop.com
 app.whoop.com
@@ -352,13 +352,13 @@ beacon.netflix.com
 *.nflxext.com
 *.prod.dradis.netflix.com
 secure.netflix.com
-*.prod.cloud.netflix.com
 help.netflix.com
 *.prod.ftl.netflix.com
 ichnaea.netflix.com
 meechum.netflix.com
-www.netflix.com
 *.nflximg.net
+www.netflix.com
+*.prod.cloud.netflix.com
 *.nflxext.com
 *.prod.ftl.netflix.com
 *.prod.cloud.netflix.com
@@ -478,9 +478,9 @@ id.worldcoin.org
 world.org
 getworldcoin.com
 bioid-management.app
-*.worldcoin.dev
 *.consumer.worldcoin.org
 *.worldcoin.org
+*.worldcoin.dev
 toolsforhumanity.com
 developer.worldcoin.org
 *.toolsforhumanity.com
@@ -518,8 +518,8 @@ www.sheer.com
 my.sheer.com
 www.ddfcontent.com
 www.pornworld.com
-www.analvids.com
 www.pornbox.com
+www.analvids.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -1206,9 +1206,9 @@ www.malwarebytes.com
 *.mwbsys.com
 *.cloud.malwarebytes.com
 cloud.malwarebytes.com
-my.malwarebytes.com
 *.threatdown.com
 *.malwarebytes.com
+my.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1777,8 +1777,8 @@ playwonderbox.com
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
-*.gotinder.com
 *.tinder.com
+*.gotinder.com
 *.tinderops.net
 *.tinder.com
 *.gotinder.com
@@ -1795,8 +1795,8 @@ app.recordedfuture.com
 therecord.media
 id.recordedfuture.com
 www.recordedfuture.com
-tria.ge
 securitytrails.com
+tria.ge
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1924,9 +1924,9 @@ cloud.elastic.co
 api.taxjar.com
 app.taxjar.com
 js.stripe.com
-*.lemonsqueezy.com
-*.stripe.com
 api.stripe.com
+*.stripe.com
+*.lemonsqueezy.com
 *.lemonsqueezy.com
 api.stripe.com
 *.stripe.com
@@ -2137,7 +2137,6 @@ www.pangleglobal.com
 shop-id.tokopedia.com
 shop.tiktok.com
 creatormarketplace.tiktok.com
-seller-id.tokopedia.com
 developers.tiktok.com
 live-backstage.tiktok.com
 careers.tiktok.com
@@ -2146,6 +2145,7 @@ business.tiktok.com
 *.tiktok.com
 *.tiktokv.com
 tiktok.com
+seller-id.tokopedia.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2206,10 +2206,10 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
-*.acronis.work
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
+*.acronis.work
 *.acronis.com
 beta-cloud.acronis.com
 account.acronis.com
@@ -2355,16 +2355,16 @@ https://www.drogas.lv/ru/blog
 ps5.np.playstation.net
 direct.playstation.com
 api.direct.playstation.com
-my.playstation.com
 transact.playstation.com
 wallets.api.playstation.com
 *.api.playstation.com
 store.playstation.com
 social.playstation.com
-*.sonyentertainmentnetwork.com
-ca.account.sony.com
 my.account.sony.com
+ca.account.sony.com
+my.playstation.com
 *.playstation.net
+*.sonyentertainmentnetwork.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2597,8 +2597,8 @@ app.nordpass.com
 app.nordpass.com
 *.line.naver.jp
 *.line.biz
-*.line.me
 *.linecorp.com
+*.line.me
 *.line-apps.com
 *.line.me
 *.line-apps.com
@@ -2633,8 +2633,8 @@ hub.vroid.com
 sketch.pixiv.net
 accounts.pixiv.net
 comic.pixiv.net
-dic.pixiv.net
 www.pixiv.net
+dic.pixiv.net
 *.fanbox.cc
 *.fanbox.cc
 booth.pm
@@ -2746,8 +2746,8 @@ www.bookingholdings.com
 api.creditkarma.com
 blog.creditkarma.com
 www.creditkarma.ca
-support.creditkarma.ca
 accounts.creditkarma.com
+support.creditkarma.ca
 accounts.creditkarma.com
 www.creditkarma.ca
 api.creditkarma.com
@@ -2979,9 +2979,9 @@ loanbuilder.com
 *.paydiant.com
 *.venmo.com
 *.hyperwallet.com
+*.xoom.com
 *.braintreegateway.com
 *.paylution.com
-*.xoom.com
 *.paypal.com
 *.braintree-api.com
 paypalobjects.com
@@ -3022,8 +3022,8 @@ secure.chaturbate.com
 *.securegatewayaccess.com
 *.cb.dev
 billingsupport.chaturbate.com
-m.chaturbate.com
 *.mmcdn.com
+m.chaturbate.com
 chaturbate.com
 *.highwebmedia.com
 *.securegatewayaccess.com
@@ -3482,10 +3482,10 @@ npmjs.org
 gist.github.com
 *.githubapp.com
 *.githubusercontent.com
-api.github.com
 classroom.github.com
 education.github.com
 github.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3512,9 +3512,9 @@ design.gitlab.com
 *.gitlap.com
 customers.gitlab.com
 about.gitlab.com
-gitlab.com
 *.gitlab.net
 docs.gitlab.com
+gitlab.com
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3598,12 +3598,12 @@ arrive-server.shopifycloud.com
 *.shopifycloud.com
 *.shopify.io
 shopifyinbox.com
-your-store.myshopify.com
 *.shopify.com
+your-store.myshopify.com
 admin.shopify.com
-shop.app
-accounts.shopify.com
 linkpop.com
+accounts.shopify.com
+shop.app
 partners.shopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
@@ -3646,12 +3646,12 @@ businesshelp.snapchat.com
 story.snapchat.com
 forum.playcanvas.com
 web.snapchat.com
-ads.snapchat.com
 accounts.snapchat.com
 playcanvas.com
 business.snapchat.com
 snappublisher.snapchat.com
 app.snapchat.com
+ads.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3717,7 +3717,6 @@ stock.adobe.com
 account.adobe.com
 contributor.stock.adobe.com
 firefly.adobe.com
-fonts.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3754,12 +3753,12 @@ assets.airbnb.com
 www.hoteltonight.com
 *.hoteltonight-test.com
 *.muscache.com
-api.airbnb.com
 next.airbnb.com
 *.withairbnb.com
 *.airbnb.com
 www.airbnb.com
 *.hoteltonight.com
+api.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3949,8 +3948,8 @@ slackb.com
 *.quip.com
 slack-status.com
 slackatwork.com
-slack.com
 app.slack.com
+slack.com
 api.slack.com
 slack.com
 api.slack.com
@@ -3968,7 +3967,6 @@ cover-photos-us-east-2.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 hackerone-user-content.com
-mta-sts.wearehackerone.com
 hackerone-ext-content.com
 www.wearehackerone.com
 cover-photos.hackerone-user-content.com
@@ -3983,9 +3981,10 @@ reviewer.pullrequest.com
 app.pullrequest.com
 a5s.hackerone-ext-content.com
 hackerone.live
-api.hackerone.com
 www.hackerone.com
+api.hackerone.com
 hackerone.com
+mta-sts.wearehackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
