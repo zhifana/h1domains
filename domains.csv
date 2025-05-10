@@ -8,9 +8,9 @@ wallet_on_telegram,pay.wallet.tg,True
 wallet_on_telegram,wallet.tg,True
 recreation_gov_vdp,manage-cdn.recreation.gov,False
 recreation_gov_vdp,manage.recreation.gov,False
-recreation_gov_vdp,www.recreation.gov,False
 recreation_gov_vdp,recreation.gov,False
 recreation_gov_vdp,cdn.recreation.gov,False
+recreation_gov_vdp,www.recreation.gov,False
 recreation_gov_vdp,manage.recreation.gov,False
 recreation_gov_vdp,recreation.gov,False
 recreation_gov_vdp,www.recreation.gov,False
@@ -216,8 +216,8 @@ lichess,cerebro.lichess.ovh,False
 lichess,deb.lichess.ovh,False
 zooplus,zooplus.net,True
 zooplus,www.zooplus.co.uk,True
-zooplus,www.zooplus.de,True
 zooplus,www.zooplus.com,True
+zooplus,www.zooplus.de,True
 zooplus,www.zooplus.de,True
 zooplus,www.zooplus.co.uk,True
 zooplus,www.zooplus.com,True
@@ -237,8 +237,8 @@ syfe_bbp,mark8.syfe.com,True
 neon_bbp,https://console.neon.tech/api/v2/,True
 neon_bbp,https://console.neon.tech/,True
 neon_bbp,https://console-stage.neon.build/,True
-whoop_bug_bounty,api.prod.whoop.com,True
 whoop_bug_bounty,shop.whoop.com,True
+whoop_bug_bounty,api.prod.whoop.com,True
 whoop_bug_bounty,app.whoop.com,True
 whoop_bug_bounty,api.prod.whoop.com,True
 whoop_bug_bounty,app.whoop.com,True
@@ -4714,10 +4714,10 @@ toolsforhumanity,id.worldcoin.org,True
 toolsforhumanity,world.org,True
 toolsforhumanity,getworldcoin.com,True
 toolsforhumanity,bioid-management.app,True
-toolsforhumanity,toolsforhumanity.com,True
 toolsforhumanity,*.worldcoin.dev,True
-toolsforhumanity,*.worldcoin.org,True
 toolsforhumanity,*.consumer.worldcoin.org,True
+toolsforhumanity,*.worldcoin.org,True
+toolsforhumanity,toolsforhumanity.com,True
 toolsforhumanity,developer.worldcoin.org,True
 toolsforhumanity,*.toolsforhumanity.com,True
 toolsforhumanity,*.worldcoin.org,True
@@ -6055,8 +6055,8 @@ trip_com,*.trainpal.com,True
 trip_com,*.mytrainpal.com,True
 trip_com,*.cheaptickets.nl,True
 trip_com,*.staging.travix.com,False
-mergify,api.mergify.com,True
 mergify,dashboard.mergify.com,True
+mergify,api.mergify.com,True
 mergify,api.mergify.com,True
 mergify,dashboard.mergify.com,True
 compass-bbp,www.compass.com,True
@@ -7879,8 +7879,8 @@ apnic,rpki.apnic.net,False
 apnic,submission.apnic.net,False
 apnic,* IPv4 addresses,False
 apnic,* IPv6 addresses,False
-okg,*.oklink.com,True
 okg,*.okx.com,True
+okg,*.oklink.com,True
 okg,*.okx.com,True
 okg,*.oklink.com,True
 city_of_los_angeles_vdp,*.lacity.org,False
@@ -8515,12 +8515,11 @@ expediagroup_bbp,www.hotwire.com,True
 expediagroup_bbp,www.lastminute.com.au,True
 expediagroup_bbp,www.wotif.com,True
 expediagroup_bbp,www.vrbo.com,True
-expediagroup_bbp,*.carrentals.com,True
 expediagroup_bbp,*.expediapartnercentral.com,True
-expediagroup_bbp,www.lastminute.co.nz,True
 expediagroup_bbp,*.travelocity.com,True
 expediagroup_bbp,*.cheaptickets.com,True
 expediagroup_bbp,www.ebookers.fi,True
+expediagroup_bbp,www.lastminute.co.nz,True
 expediagroup_bbp,*.vrbo.com,True
 expediagroup_bbp,*.carrentals.com,True
 expediagroup_bbp,*.wotif.com,True
@@ -8575,7 +8574,6 @@ expediagroup,*.fewo-direkt.de,False
 expediagroup,*.abritel.fr,False
 expediagroup,*.expediagroup.com,False
 expediagroup,*.ean.com,False
-expediagroup,*.carrentals.com,False
 expediagroup,*.homeaway.com,False
 expediagroup,*.expediapartnercentral.com,False
 expediagroup,*.travelocity.com,False
@@ -8583,6 +8581,7 @@ expediagroup,*.cheaptickets.com,False
 expediagroup,www.ebookers.fi,False
 expediagroup,*.expedia.com,False
 expediagroup,*.wotif.com,False
+expediagroup,*.carrentals.com,False
 expediagroup,*.expedia.com,False
 expediagroup,*.hotwire.com,False
 expediagroup,*.orbitz.com,False
@@ -9350,8 +9349,8 @@ anywhererealestate,*.corcoran.com,False
 anywhererealestate,*.coldwellbanker.com,False
 anywhererealestate,*.century21global.com,False
 anywhererealestate,*.c21.com,False
-anywhererealestate,*.anywhere.re,False
 anywhererealestate,*.sothebysrealty.com,False
+anywhererealestate,*.anywhere.re,False
 anywhererealestate,*.era.com,False
 anywhererealestate,*.trgc.com,False
 anywhererealestate,*.leadrouter.com,False
@@ -11375,8 +11374,8 @@ reddit,*.redditinc.com,True
 reddit,*.memorable.io,True
 reddit,*.reddit.com,True
 reddit,developers.reddit.com,True
-reddit,m.reddit.com,True
 reddit,api.reddit.com,True
+reddit,m.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.reddit.com,True
 reddit,*.redditmedia.com,True
@@ -12024,8 +12023,8 @@ mendix,k8s-licbrk-licenseb-11d216e80e-384217420.eu-central-1.elb.amazonaws.com,F
 mendix,marketplaceadmin.mendixcloud.com,False
 mendix,notification.billing.appservices.mendix.com,False
 exodus,*.exodus.io,True
-exodus,*.a.exodus.io,True
 exodus,*.exodus.com,True
+exodus,*.a.exodus.io,True
 exodus,*.exodus.io,True
 exodus,*.a.exodus.io,True
 exodus,*.exodus.com,True
@@ -12277,9 +12276,9 @@ acronis,*.acronis.work,True
 acronis,*-api-*.acronis.com,True
 acronis,*.devicelock.com,True
 acronis,*.5nine.com,True
-acronis,account.acronis.com,True
 acronis,*.acronis.com,True
 acronis,beta-cloud.acronis.com,True
+acronis,account.acronis.com,True
 acronis,*-api-*.acronis.com,True
 acronis,*.acronis.com,True
 acronis,*.5nine.com,True
@@ -12675,8 +12674,8 @@ marriott,sso.marriott.com,True
 marriott,mgs.marriott.com,True
 marriott,help.marriott.com,True
 marriott,traveler.marriott.com,True
-marriott,www.marriott.com,True
 marriott,all-inclusive.marriott.com,True
+marriott,www.marriott.com,True
 marriott,homes-and-villas.marriott.com,True
 marriott,careers.marriott.com,True
 marriott,sso.marriott.com,True
@@ -13332,8 +13331,8 @@ streak_com,streaklinks.com,False
 line,*.line.naver.jp,True
 line,*.line.biz,True
 line,*.line.me,True
-line,*.line-apps.com,True
 line,*.linecorp.com,True
+line,*.line-apps.com,True
 line,*.line.me,True
 line,*.line-apps.com,True
 line,*.line.naver.jp,True
@@ -13417,8 +13416,8 @@ pixiv,hub.vroid.com,True
 pixiv,sketch.pixiv.net,True
 pixiv,accounts.pixiv.net,True
 pixiv,comic.pixiv.net,True
-pixiv,dic.pixiv.net,True
 pixiv,www.pixiv.net,True
+pixiv,dic.pixiv.net,True
 pixiv,*.fanbox.cc,True
 pixiv,*.fanbox.cc,True
 pixiv,booth.pm,True
@@ -13898,8 +13897,8 @@ starling_bank,www.starlingbank.com,False
 creditkarma,api.creditkarma.com,True
 creditkarma,blog.creditkarma.com,True
 creditkarma,www.creditkarma.ca,True
-creditkarma,accounts.creditkarma.com,True
 creditkarma,support.creditkarma.ca,True
+creditkarma,accounts.creditkarma.com,True
 creditkarma,accounts.creditkarma.com,True
 creditkarma,www.creditkarma.ca,True
 creditkarma,api.creditkarma.com,True
@@ -14471,8 +14470,8 @@ grab,kartaview.org,True
 grab,*.grabpay.com,True
 grab,*.myteksi.com,True
 grab,*.ovo.id,True
-grab,*.grab.com,True
 grab,*.myteksi.net,True
+grab,*.grab.com,True
 grab,*.myteksi.com,True
 grab,*.myteksi.net,True
 grab,*.grab.com,True
@@ -14669,9 +14668,9 @@ files,your-assigned-subdomain.files.com,True
 files,www.files.com,True
 lyst,cdna.lystit.com,True
 lyst,mobileapi.lystit.com,True
-lyst,*.lyst.co,True
 lyst,*.lystit.com,True
 lyst,*.lyst.com,True
+lyst,*.lyst.co,True
 lyst,*.lyst.com,True
 lyst,*.lystit.com,True
 lyst,*.lyst.co,True
@@ -14812,9 +14811,9 @@ gitlab,*.gitlab.org,True
 gitlab,*.gitlap.com,True
 gitlab,customers.gitlab.com,True
 gitlab,about.gitlab.com,True
-gitlab,docs.gitlab.com,True
-gitlab,*.gitlab.net,True
 gitlab,gitlab.com,True
+gitlab,*.gitlab.net,True
+gitlab,docs.gitlab.com,True
 gitlab,*.gitlab.net,True
 gitlab,*.gitlab.org,True
 gitlab,*.gitlap.com,True
@@ -14906,15 +14905,15 @@ shopify,*.shopifykloud.com,True
 shopify,*.shopifycs.com,True
 shopify,arrive-server.shopifycloud.com,True
 shopify,*.pci.shopifyinc.com,True
-shopify,*.shopifycloud.com,True
 shopify,*.shopify.io,True
+shopify,*.shopifycloud.com,True
 shopify,shopifyinbox.com,True
 shopify,your-store.myshopify.com,True
-shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
-shopify,shop.app,True
+shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,linkpop.com,True
+shopify,shop.app,True
 shopify,partners.shopify.com,True
 shopify,*.shopifycs.com,True
 shopify,*.pci.shopifyinc.com,True
@@ -15040,8 +15039,8 @@ adobe,photos.adobe.io,True
 adobe,marketplace.magento.com,True
 adobe,stock.adobe.com,True
 adobe,account.adobe.com,True
-adobe,firefly.adobe.com,True
 adobe,contributor.stock.adobe.com,True
+adobe,firefly.adobe.com,True
 adobe,*.acrobat.adobe.com,True
 adobe,account.adobe.com,True
 adobe,auth.services.adobe.com,True
