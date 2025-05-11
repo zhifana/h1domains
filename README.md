@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 11 11:15:33 UTC 2025)
+## Domains with Bounties (Last Updated Sun May 11 11:40:46 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 wallet.tg
@@ -356,8 +356,8 @@ help.netflix.com
 ichnaea.netflix.com
 meechum.netflix.com
 *.nflximg.net
-*.prod.cloud.netflix.com
 *.prod.ftl.netflix.com
+*.prod.cloud.netflix.com
 www.netflix.com
 *.nflxext.com
 *.prod.ftl.netflix.com
@@ -440,8 +440,8 @@ site.rewire.com
 blog.remitly.com
 ablink.info.remitly.com
 careers.remitly.com
-app3.rewire.to
 *.int.remitly.com
+app3.rewire.to
 news.remitly.com
 remitly.com
 api.remitly.io
@@ -1380,11 +1380,10 @@ www.hotwire.com
 www.lastminute.com.au
 www.wotif.com
 www.vrbo.com
-*.expediapartnercentral.com
+www.lastminute.co.nz
 *.travelocity.com
 *.cheaptickets.com
 www.ebookers.fi
-www.lastminute.co.nz
 *.vrbo.com
 *.carrentals.com
 *.wotif.com
@@ -1541,9 +1540,9 @@ pay.ibex.exchange
 pwapi.ex2b.com
 social-trading.exness.com
 exnessaffiliates.com
-my.exness.com
 exness.com
 api.excalls.mobi
+my.exness.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1795,8 +1794,8 @@ app.recordedfuture.com
 therecord.media
 id.recordedfuture.com
 www.recordedfuture.com
-securitytrails.com
 tria.ge
+securitytrails.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -2184,8 +2183,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-nft.io
 platform.enjin.io
+nft.io
 nft.io
 platform.enjin.io
 api.figma.com
@@ -2359,10 +2358,10 @@ transact.playstation.com
 wallets.api.playstation.com
 *.api.playstation.com
 store.playstation.com
-my.playstation.com
-social.playstation.com
 ca.account.sony.com
 *.sonyentertainmentnetwork.com
+my.playstation.com
+social.playstation.com
 my.account.sony.com
 *.playstation.net
 *.playstation.net
@@ -2517,8 +2516,8 @@ sso.marriott.com
 mgs.marriott.com
 help.marriott.com
 traveler.marriott.com
-www.marriott.com
 all-inclusive.marriott.com
+www.marriott.com
 marrtool.com
 homes-and-villas.marriott.com
 careers.marriott.com
@@ -2746,8 +2745,8 @@ www.bookingholdings.com
 api.creditkarma.com
 blog.creditkarma.com
 www.creditkarma.ca
-support.creditkarma.ca
 accounts.creditkarma.com
+support.creditkarma.ca
 accounts.creditkarma.com
 www.creditkarma.ca
 api.creditkarma.com
@@ -3132,12 +3131,12 @@ tax.crypto.com
 js.crypto.com
 nadex.com
 web.crypto.com
-app.mona.co
 merchant.crypto.com
-developer.crypto.com
+app.mona.co
 *.mona.co
 developer-api.crypto.com
 *.crypto.com
+developer.crypto.com
 *.crypto.com
 *.mona.co
 https://crypto.com/exchange
@@ -3323,8 +3322,8 @@ backstage.io
 *.byspotify.com
 assets.spotify.com
 *.withspotify.com
-*.spotify.com
 api.spotify.com
+*.spotify.com
 *.spotify.com
 *.spotify.net
 *.withspotify.com
@@ -3560,8 +3559,8 @@ oauth.deriv.com
 *.binary.com
 cashier.deriv.com
 derivws.com
-*.deriv.com
 app.deriv.com
+*.deriv.com
 api.deriv.com
 *.deriv.com
 *.deriv.cloud
@@ -3597,8 +3596,8 @@ arrive-server.shopifycloud.com
 *.shopifycloud.com
 shopifyinbox.com
 your-store.myshopify.com
-accounts.shopify.com
 linkpop.com
+accounts.shopify.com
 shop.app
 *.shopify.com
 *.shopify.io
@@ -3646,8 +3645,8 @@ story.snapchat.com
 forum.playcanvas.com
 accounts.snapchat.com
 snappublisher.snapchat.com
-playcanvas.com
 app.snapchat.com
+playcanvas.com
 business.snapchat.com
 web.snapchat.com
 ads.snapchat.com
@@ -3715,8 +3714,8 @@ photos.adobe.io
 marketplace.magento.com
 stock.adobe.com
 account.adobe.com
-firefly.adobe.com
 contributor.stock.adobe.com
+firefly.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
