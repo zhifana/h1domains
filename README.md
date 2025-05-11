@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 11 18:23:21 UTC 2025)
+## Domains with Bounties (Last Updated Sun May 11 18:48:09 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 wallet.tg
@@ -11,8 +11,8 @@ pay.wallet.tg
 walletbot.me
 pay.wallet.tg
 wallet.tg
-*.audible.(TLD)
 tax.audible.com
+*.audible.(TLD)
 tax.audible.com
 *.audible.(TLD)
 https://api.myntra.com
@@ -22,9 +22,9 @@ https://www.flipkart.com
 https://pay.payzippy.com
 https://uiscoop.payzippy.com
 zooplus.net
-www.zooplus.de
 www.zooplus.co.uk
 www.zooplus.com
+www.zooplus.de
 www.zooplus.de
 www.zooplus.co.uk
 www.zooplus.com
@@ -44,9 +44,9 @@ mark8.syfe.com
 https://console.neon.tech/api/v2/
 https://console.neon.tech/
 https://console-stage.neon.build/
-shop.whoop.com
 app.whoop.com
 api.prod.whoop.com
+shop.whoop.com
 api.prod.whoop.com
 app.whoop.com
 shop.whoop.com
@@ -332,8 +332,8 @@ bal-dev.nba.com
 bal-qa.nba.com
 bal-uat.nba.com
 api.circle.com
-app.circle.com
 console.circle.com
+app.circle.com
 api.circle.com
 app.circle.com
 console.circle.com
@@ -355,8 +355,8 @@ help.netflix.com
 ichnaea.netflix.com
 meechum.netflix.com
 *.nflximg.net
-*.prod.ftl.netflix.com
 *.prod.cloud.netflix.com
+*.prod.ftl.netflix.com
 www.netflix.com
 nmtracking.netflix.com
 *.nflxext.com
@@ -440,8 +440,8 @@ site.rewire.com
 blog.remitly.com
 ablink.info.remitly.com
 careers.remitly.com
-app3.rewire.to
 *.int.remitly.com
+app3.rewire.to
 news.remitly.com
 remitly.com
 api.remitly.io
@@ -604,7 +604,6 @@ www.mercadolibre.com.gt
 www.mercadolibre.co.cr
 www.mercadolibre.com.hn
 www.mercadolibre.com.ec
-*.mercadoshops.com.ar
 *.mercadoshops.com.pe
 *.mercadopago.cl
 *.mercadolibre.com.pe
@@ -623,6 +622,7 @@ meliplay.com.pe
 meliplay.com.uy
 mercadoplay.com.pe
 portalinmobiliario.cl
+mercadoplay.com.uy
 *.adminml.com
 *.mercadolibre.cl
 *.mercadolibre.com
@@ -1200,15 +1200,15 @@ web.grindr.com
 *.mwb-threatintel.com
 *.mb-cosmos.com
 *.cyrus-security.com
-oneview.malwarebytes.com
 *.mbamupdates.com
 www.malwarebytes.com
 *.mwbsys.com
 *.cloud.malwarebytes.com
 cloud.malwarebytes.com
+my.malwarebytes.com
 *.threatdown.com
 *.malwarebytes.com
-my.malwarebytes.com
+oneview.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1384,6 +1384,7 @@ www.vrbo.com
 *.cheaptickets.com
 www.ebookers.fi
 www.lastminute.co.nz
+www.expedia.com
 *.vrbo.com
 *.carrentals.com
 *.wotif.com
@@ -1794,8 +1795,8 @@ app.recordedfuture.com
 therecord.media
 id.recordedfuture.com
 tria.ge
-www.recordedfuture.com
 securitytrails.com
+www.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1960,8 +1961,8 @@ matrix.redditspace.com
 *.redditinc.com
 *.memorable.io
 developers.reddit.com
-m.reddit.com
 api.reddit.com
+m.reddit.com
 *.reddit.com
 accounts.reddit.com
 *.snooguts.net
@@ -2030,8 +2031,8 @@ file.larksuite.com
 app.larksuite.com
 status.larksuite.com
 api.larksuite.com
-hackers_chosendomain.larksuite.com
 larksuite.com
+hackers_chosendomain.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2137,8 +2138,8 @@ shop-id.tokopedia.com
 shop.tiktok.com
 creatormarketplace.tiktok.com
 developers.tiktok.com
-careers.tiktok.com
 live-backstage.tiktok.com
+careers.tiktok.com
 business.tiktok.com
 *.tiktokv.com
 seller-id.tokopedia.com
@@ -2516,8 +2517,8 @@ sso.marriott.com
 mgs.marriott.com
 help.marriott.com
 traveler.marriott.com
-www.marriott.com
 all-inclusive.marriott.com
+www.marriott.com
 marrtool.com
 homes-and-villas.marriott.com
 careers.marriott.com
@@ -3016,13 +3017,13 @@ swiftfinancial.com
 swiftcapital.com
 *.mmwebc.dev
 secure.chaturbate.com
-*.highwebmedia.com
 *.securegatewayaccess.com
 *.cb.dev
 billingsupport.chaturbate.com
 *.mmcdn.com
 m.chaturbate.com
 chaturbate.com
+*.highwebmedia.com
 *.highwebmedia.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -3110,8 +3111,8 @@ developer.valvesoftware.com
 help.steampowered.com
 api.steampowered.com
 www.counter-strike.net
-partner.steamgames.com
 steamcommunity.com
+partner.steamgames.com
 store.steampowered.com
 www.dota2.com
 support.steampowered.com
@@ -3130,8 +3131,8 @@ tax.crypto.com
 js.crypto.com
 nadex.com
 web.crypto.com
-merchant.crypto.com
 app.mona.co
+merchant.crypto.com
 *.mona.co
 developer.crypto.com
 developer-platform-api.crypto.com
@@ -3479,8 +3480,8 @@ npmjs.org
 gist.github.com
 *.githubapp.com
 *.githubusercontent.com
-classroom.github.com
 education.github.com
+classroom.github.com
 api.github.com
 npmjs.com
 github.com
@@ -3599,9 +3600,9 @@ your-store.myshopify.com
 linkpop.com
 shop.app
 *.shopify.io
-accounts.shopify.com
 admin.shopify.com
 *.shopify.com
+accounts.shopify.com
 partners.shopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
@@ -3756,8 +3757,8 @@ next.airbnb.com
 api.airbnb.com
 *.withairbnb.com
 www.hoteltonight.com
-www.airbnb.com
 *.airbnb.com
+www.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3946,8 +3947,8 @@ slackb.com
 *.quip.com
 slack-status.com
 slackatwork.com
-slack.com
 app.slack.com
+slack.com
 api.slack.com
 slack.com
 api.slack.com
@@ -3979,10 +3980,10 @@ reviewer.pullrequest.com
 app.pullrequest.com
 hackerone.live
 api.hackerone.com
-mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
 www.hackerone.com
 hackerone.com
+mta-sts.wearehackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
