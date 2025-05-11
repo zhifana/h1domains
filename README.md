@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 11 17:17:45 UTC 2025)
+## Domains with Bounties (Last Updated Sun May 11 17:41:43 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 wallet.tg
@@ -1206,9 +1206,9 @@ www.malwarebytes.com
 *.mwbsys.com
 *.cloud.malwarebytes.com
 cloud.malwarebytes.com
-my.malwarebytes.com
 *.threatdown.com
 *.malwarebytes.com
+my.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1776,8 +1776,8 @@ playwonderbox.com
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
-*.gotinder.com
 *.tinder.com
+*.gotinder.com
 *.tinderops.net
 *.tinder.com
 *.gotinder.com
@@ -1794,8 +1794,8 @@ app.recordedfuture.com
 therecord.media
 id.recordedfuture.com
 tria.ge
-securitytrails.com
 www.recordedfuture.com
+securitytrails.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1960,8 +1960,8 @@ matrix.redditspace.com
 *.redditinc.com
 *.memorable.io
 developers.reddit.com
-api.reddit.com
 m.reddit.com
+api.reddit.com
 *.reddit.com
 accounts.reddit.com
 *.snooguts.net
@@ -2137,12 +2137,12 @@ shop-id.tokopedia.com
 shop.tiktok.com
 creatormarketplace.tiktok.com
 developers.tiktok.com
-live-backstage.tiktok.com
 careers.tiktok.com
+live-backstage.tiktok.com
 business.tiktok.com
 *.tiktokv.com
-ads.tiktok.com
 seller-id.tokopedia.com
+ads.tiktok.com
 tiktok.com
 *.tiktok.com
 *.tiktok.com
@@ -2205,10 +2205,10 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
+*.acronis.work
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-*.acronis.work
 beta-cloud.acronis.com
 account.acronis.com
 *.acronis.com
@@ -2360,9 +2360,9 @@ store.playstation.com
 ca.account.sony.com
 social.playstation.com
 my.account.sony.com
+my.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
-my.playstation.com
 *.api.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2597,8 +2597,8 @@ app.nordpass.com
 *.line.naver.jp
 *.line.biz
 *.line.me
-*.line-apps.com
 *.linecorp.com
+*.line-apps.com
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -2745,8 +2745,8 @@ www.bookingholdings.com
 api.creditkarma.com
 blog.creditkarma.com
 www.creditkarma.ca
-support.creditkarma.ca
 accounts.creditkarma.com
+support.creditkarma.ca
 accounts.creditkarma.com
 www.creditkarma.ca
 api.creditkarma.com
@@ -3020,8 +3020,8 @@ secure.chaturbate.com
 *.securegatewayaccess.com
 *.cb.dev
 billingsupport.chaturbate.com
-m.chaturbate.com
 *.mmcdn.com
+m.chaturbate.com
 chaturbate.com
 *.highwebmedia.com
 *.securegatewayaccess.com
@@ -3110,8 +3110,8 @@ developer.valvesoftware.com
 help.steampowered.com
 api.steampowered.com
 www.counter-strike.net
-steamcommunity.com
 partner.steamgames.com
+steamcommunity.com
 store.steampowered.com
 www.dota2.com
 support.steampowered.com
@@ -3130,8 +3130,8 @@ tax.crypto.com
 js.crypto.com
 nadex.com
 web.crypto.com
-app.mona.co
 merchant.crypto.com
+app.mona.co
 *.mona.co
 developer.crypto.com
 developer-platform-api.crypto.com
@@ -3479,8 +3479,8 @@ npmjs.org
 gist.github.com
 *.githubapp.com
 *.githubusercontent.com
-education.github.com
 classroom.github.com
+education.github.com
 api.github.com
 npmjs.com
 github.com
@@ -3494,8 +3494,8 @@ education.github.com
 *.githubusercontent.com
 npmjs.com
 npmjs.org
-*.uberinternal.com
 *ubereats.com
+*.uberinternal.com
 *.uberinternal.com
 *ubereats.com
 www.mapbox.com
@@ -3599,9 +3599,9 @@ your-store.myshopify.com
 linkpop.com
 shop.app
 *.shopify.io
+accounts.shopify.com
 admin.shopify.com
 *.shopify.com
-accounts.shopify.com
 partners.shopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
@@ -3755,9 +3755,9 @@ next.airbnb.com
 *.hoteltonight.com
 api.airbnb.com
 *.withairbnb.com
-*.airbnb.com
 www.hoteltonight.com
 www.airbnb.com
+*.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
