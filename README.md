@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 11 16:20:34 UTC 2025)
+## Domains with Bounties (Last Updated Sun May 11 16:48:14 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 wallet.tg
@@ -23,18 +23,18 @@ https://pay.payzippy.com
 https://uiscoop.payzippy.com
 zooplus.net
 www.zooplus.de
-www.zooplus.com
 www.zooplus.co.uk
+www.zooplus.com
 www.zooplus.de
 www.zooplus.co.uk
 www.zooplus.com
 zooplus.net
 api-uat-bugbounty.nonprod.syfe.com
-alfred.syfe.com
 api.syfe.com
-uat-bugbounty.nonprod.syfe.com
 mark8.syfe.com
 www.syfe.com
+alfred.syfe.com
+uat-bugbounty.nonprod.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 www.syfe.com
@@ -44,8 +44,8 @@ mark8.syfe.com
 https://console.neon.tech/api/v2/
 https://console.neon.tech/
 https://console-stage.neon.build/
-app.whoop.com
 shop.whoop.com
+app.whoop.com
 api.prod.whoop.com
 api.prod.whoop.com
 app.whoop.com
@@ -355,8 +355,8 @@ help.netflix.com
 ichnaea.netflix.com
 meechum.netflix.com
 *.nflximg.net
-*.prod.ftl.netflix.com
 *.prod.cloud.netflix.com
+*.prod.ftl.netflix.com
 www.netflix.com
 nmtracking.netflix.com
 *.nflxext.com
@@ -440,8 +440,8 @@ site.rewire.com
 blog.remitly.com
 ablink.info.remitly.com
 careers.remitly.com
-*.int.remitly.com
 app3.rewire.to
+*.int.remitly.com
 news.remitly.com
 remitly.com
 api.remitly.io
@@ -791,14 +791,14 @@ kronor.io
 *.trainpal.com
 *.mytrainpal.com
 *.cheaptickets.nl
-dashboard.mergify.com
 api.mergify.com
+dashboard.mergify.com
 api.mergify.com
 dashboard.mergify.com
 www.compass.com
 www.compass.com
-*.gethypr.com
 *.hypr.com
+*.gethypr.com
 *.hypr.com
 *.gethypr.com
 cdn.moderntreasury.com
@@ -1127,8 +1127,8 @@ hilton.com
 hilton.io
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-*.oklink.com
 *.okx.com
+*.oklink.com
 *.okx.com
 *.oklink.com
 bridekidnapping.alternativa.film
@@ -1206,9 +1206,9 @@ www.malwarebytes.com
 *.mwbsys.com
 *.cloud.malwarebytes.com
 cloud.malwarebytes.com
-my.malwarebytes.com
 *.threatdown.com
 *.malwarebytes.com
+my.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -2137,8 +2137,8 @@ shop-id.tokopedia.com
 shop.tiktok.com
 creatormarketplace.tiktok.com
 developers.tiktok.com
-careers.tiktok.com
 live-backstage.tiktok.com
+careers.tiktok.com
 business.tiktok.com
 *.tiktokv.com
 seller-id.tokopedia.com
@@ -2745,8 +2745,8 @@ www.bookingholdings.com
 api.creditkarma.com
 blog.creditkarma.com
 www.creditkarma.ca
-support.creditkarma.ca
 accounts.creditkarma.com
+support.creditkarma.ca
 accounts.creditkarma.com
 www.creditkarma.ca
 api.creditkarma.com
@@ -3135,8 +3135,8 @@ merchant.crypto.com
 *.mona.co
 developer.crypto.com
 developer-platform-api.crypto.com
-developer-api.crypto.com
 *.crypto.com
+developer-api.crypto.com
 *.crypto.com
 *.mona.co
 https://crypto.com/exchange
@@ -3322,8 +3322,8 @@ backstage.io
 *.byspotify.com
 assets.spotify.com
 *.withspotify.com
-api.spotify.com
 *.spotify.com
+api.spotify.com
 *.spotify.com
 *.spotify.net
 *.withspotify.com
@@ -3599,10 +3599,10 @@ your-store.myshopify.com
 linkpop.com
 shop.app
 *.shopify.io
-partners.shopify.com
 admin.shopify.com
 *.shopify.com
 accounts.shopify.com
+partners.shopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3645,8 +3645,8 @@ story.snapchat.com
 forum.playcanvas.com
 accounts.snapchat.com
 snappublisher.snapchat.com
-playcanvas.com
 app.snapchat.com
+playcanvas.com
 business.snapchat.com
 web.snapchat.com
 ads.snapchat.com
@@ -3716,6 +3716,7 @@ stock.adobe.com
 account.adobe.com
 contributor.stock.adobe.com
 firefly.adobe.com
+fonts.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3755,8 +3756,8 @@ next.airbnb.com
 *.hoteltonight.com
 api.airbnb.com
 *.withairbnb.com
-www.hoteltonight.com
 *.airbnb.com
+www.hoteltonight.com
 www.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
