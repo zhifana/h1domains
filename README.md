@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 11 23:19:56 UTC 2025)
+## Domains with Bounties (Last Updated Sun May 11 23:41:29 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 wallet.tg
@@ -476,10 +476,10 @@ worldcoin.org
 id.worldcoin.org
 getworldcoin.com
 bioid-management.app
-toolsforhumanity.com
-*.worldcoin.dev
-*.worldcoin.org
 *.consumer.worldcoin.org
+*.worldcoin.org
+*.worldcoin.dev
+toolsforhumanity.com
 *.toolsforhumanity.com
 world.org
 developer.worldcoin.org
@@ -1776,8 +1776,8 @@ playwonderbox.com
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
-*.gotinder.com
 *.tinder.com
+*.gotinder.com
 *.tinderops.net
 *.tinder.com
 *.gotinder.com
@@ -2046,8 +2046,8 @@ internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
 *.exodus.io
-*.a.exodus.io
 *.exodus.com
+*.a.exodus.io
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
@@ -2141,8 +2141,8 @@ live-backstage.tiktok.com
 careers.tiktok.com
 business.tiktok.com
 *.tiktokv.com
-ads.tiktok.com
 seller-id.tokopedia.com
+ads.tiktok.com
 tiktok.com
 *.tiktok.com
 *.tiktok.com
@@ -2205,10 +2205,10 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
-*.acronis.work
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
+*.acronis.work
 beta-cloud.acronis.com
 account.acronis.com
 *.acronis.com
@@ -2362,8 +2362,8 @@ my.account.sony.com
 *.playstation.net
 my.playstation.com
 *.api.playstation.com
-*.sonyentertainmentnetwork.com
 ca.account.sony.com
+*.sonyentertainmentnetwork.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2516,8 +2516,8 @@ sso.marriott.com
 mgs.marriott.com
 help.marriott.com
 traveler.marriott.com
-www.marriott.com
 all-inclusive.marriott.com
+www.marriott.com
 marrtool.com
 homes-and-villas.marriott.com
 careers.marriott.com
@@ -2976,11 +2976,11 @@ loanbuilder.com
 *.braintreepayments.com
 *.paydiant.com
 *.venmo.com
-*.xoom.com
 *.braintreegateway.com
+*.xoom.com
 *.braintree-api.com
-*.paylution.com
 paypalobjects.com
+*.paylution.com
 *.hyperwallet.com
 *.paypal.com
 *.xoom.com
@@ -3559,8 +3559,8 @@ oauth.deriv.com
 *.binary.com
 cashier.deriv.com
 derivws.com
-*.deriv.com
 app.deriv.com
+*.deriv.com
 api.deriv.com
 *.deriv.com
 *.deriv.cloud
@@ -3714,8 +3714,8 @@ photos.adobe.io
 marketplace.magento.com
 stock.adobe.com
 account.adobe.com
-contributor.stock.adobe.com
 firefly.adobe.com
+contributor.stock.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3755,9 +3755,9 @@ next.airbnb.com
 *.hoteltonight.com
 api.airbnb.com
 *.withairbnb.com
+www.hoteltonight.com
 *.airbnb.com
 www.airbnb.com
-www.hoteltonight.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
