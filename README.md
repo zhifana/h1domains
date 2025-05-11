@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 10 23:40:41 UTC 2025)
+## Domains with Bounties (Last Updated Sun May 11 01:31:17 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 pay.wallet.tg
@@ -11,8 +11,8 @@ walletbot.me
 walletbot.me
 pay.wallet.tg
 wallet.tg
-*.audible.(TLD)
 tax.audible.com
+*.audible.(TLD)
 tax.audible.com
 *.audible.(TLD)
 https://api.myntra.com
@@ -31,10 +31,10 @@ www.zooplus.com
 zooplus.net
 mark8.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
-alfred.syfe.com
 uat-bugbounty.nonprod.syfe.com
-api.syfe.com
+alfred.syfe.com
 www.syfe.com
+api.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 www.syfe.com
@@ -436,17 +436,17 @@ metrics.int.remitly.com
 ir.remitly.com
 app.rewire.to
 rewire.com
-api.remitly.io
 site.rewire.com
 blog.remitly.com
 access.remitly.com
 ablink.info.remitly.com
 careers.remitly.com
 auth.remitly.com
-*.int.remitly.com
 app3.rewire.to
+*.int.remitly.com
 news.remitly.com
 remitly.com
+api.remitly.io
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -478,9 +478,9 @@ id.worldcoin.org
 world.org
 getworldcoin.com
 bioid-management.app
+*.worldcoin.dev
 *.consumer.worldcoin.org
 *.worldcoin.org
-*.worldcoin.dev
 toolsforhumanity.com
 developer.worldcoin.org
 *.toolsforhumanity.com
@@ -512,8 +512,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-www.sheer.com
 my.sheer.com
+www.sheer.com
 www.sheer.com
 my.sheer.com
 www.ddfcontent.com
@@ -1206,9 +1206,9 @@ www.malwarebytes.com
 *.mwbsys.com
 *.cloud.malwarebytes.com
 cloud.malwarebytes.com
-my.malwarebytes.com
 *.threatdown.com
 *.malwarebytes.com
+my.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1381,10 +1381,10 @@ www.lastminute.com.au
 www.wotif.com
 www.vrbo.com
 *.expediapartnercentral.com
-www.lastminute.co.nz
 *.travelocity.com
 *.cheaptickets.com
 www.ebookers.fi
+www.lastminute.co.nz
 *.vrbo.com
 *.carrentals.com
 *.wotif.com
@@ -1777,8 +1777,8 @@ playwonderbox.com
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
-*.tinder.com
 *.gotinder.com
+*.tinder.com
 *.tinderops.net
 *.tinder.com
 *.gotinder.com
@@ -1795,8 +1795,8 @@ app.recordedfuture.com
 therecord.media
 id.recordedfuture.com
 www.recordedfuture.com
-tria.ge
 securitytrails.com
+tria.ge
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1924,8 +1924,8 @@ cloud.elastic.co
 api.taxjar.com
 app.taxjar.com
 js.stripe.com
-*.stripe.com
 api.stripe.com
+*.stripe.com
 *.lemonsqueezy.com
 *.lemonsqueezy.com
 api.stripe.com
@@ -2206,8 +2206,8 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
-*.acronis.work
 *-api-*.acronis.com
+*.acronis.work
 *.devicelock.com
 *.5nine.com
 *.acronis.com
@@ -2359,12 +2359,12 @@ transact.playstation.com
 wallets.api.playstation.com
 *.api.playstation.com
 store.playstation.com
-ca.account.sony.com
-my.account.sony.com
-*.playstation.net
-*.sonyentertainmentnetwork.com
 my.playstation.com
 social.playstation.com
+ca.account.sony.com
+my.account.sony.com
+*.sonyentertainmentnetwork.com
+*.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2518,8 +2518,8 @@ sso.marriott.com
 mgs.marriott.com
 help.marriott.com
 traveler.marriott.com
-all-inclusive.marriott.com
 www.marriott.com
+all-inclusive.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2632,10 +2632,10 @@ novel.pixiv.net
 hub.vroid.com
 sketch.pixiv.net
 accounts.pixiv.net
-comic.pixiv.net
 www.pixiv.net
 dic.pixiv.net
 *.fanbox.cc
+comic.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -2981,10 +2981,10 @@ loanbuilder.com
 *.hyperwallet.com
 *.xoom.com
 *.braintreegateway.com
-*.paylution.com
 paypalobjects.com
 *.paypal.com
 *.braintree-api.com
+*.paylution.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3022,8 +3022,8 @@ secure.chaturbate.com
 *.securegatewayaccess.com
 *.cb.dev
 billingsupport.chaturbate.com
-*.mmcdn.com
 m.chaturbate.com
+*.mmcdn.com
 chaturbate.com
 *.highwebmedia.com
 *.securegatewayaccess.com
@@ -3133,9 +3133,9 @@ tax.crypto.com
 js.crypto.com
 nadex.com
 web.crypto.com
+merchant.crypto.com
 app.mona.co
 developer.crypto.com
-merchant.crypto.com
 developer-api.crypto.com
 *.crypto.com
 *.mona.co
@@ -3225,8 +3225,8 @@ kartaview.org
 *.grabpay.com
 *.myteksi.com
 *.ovo.id
-*.grab.com
 *.myteksi.net
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3717,6 +3717,7 @@ stock.adobe.com
 account.adobe.com
 contributor.stock.adobe.com
 firefly.adobe.com
+fonts.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3755,10 +3756,10 @@ www.hoteltonight.com
 *.muscache.com
 next.airbnb.com
 *.hoteltonight.com
-www.airbnb.com
 *.airbnb.com
 api.airbnb.com
 *.withairbnb.com
+www.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3834,8 +3835,8 @@ gnip.com
 *.twitter.com
 *.x.com
 grok.com
-x.com
 *.x.ai
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3921,9 +3922,9 @@ prime.coinbase.com
 international.coinbase.com
 api.coinbase.com
 *.base.org
-coinbase.com
 commerce.coinbase.com
 *.coinbase.com
+coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -3979,11 +3980,11 @@ hackathon-photos.hackerone-user-content.com
 *.vpn.hackerone.net
 reviewer.pullrequest.com
 app.pullrequest.com
-a5s.hackerone-ext-content.com
 hackerone.live
 api.hackerone.com
 mta-sts.wearehackerone.com
 www.hackerone.com
+a5s.hackerone-ext-content.com
 hackerone.com
 hackerone.com
 api.hackerone.com
