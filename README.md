@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 11 12:35:46 UTC 2025)
+## Domains with Bounties (Last Updated Sun May 11 13:27:31 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 wallet.tg
@@ -356,8 +356,8 @@ help.netflix.com
 ichnaea.netflix.com
 meechum.netflix.com
 *.nflximg.net
-*.prod.cloud.netflix.com
 *.prod.ftl.netflix.com
+*.prod.cloud.netflix.com
 www.netflix.com
 *.nflxext.com
 *.prod.ftl.netflix.com
@@ -477,10 +477,10 @@ worldcoin.org
 id.worldcoin.org
 getworldcoin.com
 bioid-management.app
-*.worldcoin.dev
-*.consumer.worldcoin.org
-*.worldcoin.org
 toolsforhumanity.com
+*.worldcoin.dev
+*.worldcoin.org
+*.consumer.worldcoin.org
 *.toolsforhumanity.com
 developer.worldcoin.org
 world.org
@@ -1206,9 +1206,9 @@ www.malwarebytes.com
 *.mwbsys.com
 *.cloud.malwarebytes.com
 cloud.malwarebytes.com
-my.malwarebytes.com
 *.threatdown.com
 *.malwarebytes.com
+my.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1380,10 +1380,10 @@ www.hotwire.com
 www.lastminute.com.au
 www.wotif.com
 www.vrbo.com
+www.lastminute.co.nz
 *.travelocity.com
 *.cheaptickets.com
 www.ebookers.fi
-www.lastminute.co.nz
 *.vrbo.com
 *.carrentals.com
 *.wotif.com
@@ -2137,8 +2137,8 @@ shop-id.tokopedia.com
 shop.tiktok.com
 creatormarketplace.tiktok.com
 developers.tiktok.com
-live-backstage.tiktok.com
 careers.tiktok.com
+live-backstage.tiktok.com
 business.tiktok.com
 *.tiktokv.com
 seller-id.tokopedia.com
@@ -2183,8 +2183,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-nft.io
 platform.enjin.io
+nft.io
 nft.io
 platform.enjin.io
 api.figma.com
@@ -2205,10 +2205,10 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
+*.acronis.work
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-*.acronis.work
 beta-cloud.acronis.com
 account.acronis.com
 *.acronis.com
@@ -2359,9 +2359,9 @@ wallets.api.playstation.com
 *.api.playstation.com
 store.playstation.com
 ca.account.sony.com
+social.playstation.com
 *.sonyentertainmentnetwork.com
 my.playstation.com
-social.playstation.com
 my.account.sony.com
 *.playstation.net
 *.playstation.net
@@ -2516,8 +2516,8 @@ sso.marriott.com
 mgs.marriott.com
 help.marriott.com
 traveler.marriott.com
-www.marriott.com
 all-inclusive.marriott.com
+www.marriott.com
 marrtool.com
 homes-and-villas.marriott.com
 careers.marriott.com
@@ -2976,13 +2976,13 @@ loanbuilder.com
 *.braintreepayments.com
 *.paydiant.com
 *.venmo.com
-*.hyperwallet.com
 *.xoom.com
 *.braintreegateway.com
-paypalobjects.com
 *.braintree-api.com
-*.paypal.com
+*.hyperwallet.com
 *.paylution.com
+*.paypal.com
+paypalobjects.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3110,9 +3110,9 @@ developer.valvesoftware.com
 help.steampowered.com
 api.steampowered.com
 www.counter-strike.net
-store.steampowered.com
 partner.steamgames.com
 steamcommunity.com
+store.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3130,8 +3130,8 @@ tax.crypto.com
 js.crypto.com
 nadex.com
 web.crypto.com
-merchant.crypto.com
 app.mona.co
+merchant.crypto.com
 *.mona.co
 developer-api.crypto.com
 *.crypto.com
@@ -3559,8 +3559,8 @@ oauth.deriv.com
 *.binary.com
 cashier.deriv.com
 derivws.com
-*.deriv.com
 app.deriv.com
+*.deriv.com
 api.deriv.com
 *.deriv.com
 *.deriv.cloud
@@ -3599,10 +3599,10 @@ your-store.myshopify.com
 linkpop.com
 accounts.shopify.com
 shop.app
-*.shopify.com
 *.shopify.io
 partners.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3645,8 +3645,8 @@ story.snapchat.com
 forum.playcanvas.com
 accounts.snapchat.com
 snappublisher.snapchat.com
-app.snapchat.com
 playcanvas.com
+app.snapchat.com
 business.snapchat.com
 web.snapchat.com
 ads.snapchat.com
@@ -3714,8 +3714,8 @@ photos.adobe.io
 marketplace.magento.com
 stock.adobe.com
 account.adobe.com
-firefly.adobe.com
 contributor.stock.adobe.com
+firefly.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3755,9 +3755,9 @@ next.airbnb.com
 *.hoteltonight.com
 api.airbnb.com
 *.withairbnb.com
-www.airbnb.com
 www.hoteltonight.com
 *.airbnb.com
+www.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3844,7 +3844,6 @@ x.com
 gnip.com
 x.com
 grok.com
-api.cloudflare.com
 *.teams.cloudflare.com
 cloudflareworkers.com
 waf.cumulusfire.net
@@ -3911,7 +3910,6 @@ team-irc.irccloud.com
 blog.irccloud.com
 custody.coinbase.com
 institutional.coinbase.com
-*.cbhq.net
 nft.coinbase.com
 cloud.coinbase.com
 pro.coinbase.com
@@ -3923,6 +3921,7 @@ api.coinbase.com
 commerce.coinbase.com
 *.coinbase.com
 coinbase.com
+*.cbhq.net
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
