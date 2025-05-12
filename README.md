@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 12 07:43:15 UTC 2025)
+## Domains with Bounties (Last Updated Mon May 12 08:28:41 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 wallet.tg
@@ -11,8 +11,8 @@ walletbot.me
 walletbot.me
 pay.wallet.tg
 wallet.tg
-tax.audible.com
 *.audible.(TLD)
+tax.audible.com
 tax.audible.com
 *.audible.(TLD)
 https://api.myntra.com
@@ -30,11 +30,11 @@ www.zooplus.co.uk
 www.zooplus.com
 zooplus.net
 mark8.syfe.com
-api-uat-bugbounty.nonprod.syfe.com
-api.syfe.com
-uat-bugbounty.nonprod.syfe.com
-alfred.syfe.com
 www.syfe.com
+api.syfe.com
+alfred.syfe.com
+uat-bugbounty.nonprod.syfe.com
+api-uat-bugbounty.nonprod.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 www.syfe.com
@@ -354,8 +354,8 @@ meechum.netflix.com
 *.nflximg.net
 nmtracking.netflix.com
 *.nflxso.net
-*.nflxext.com
 *.prod.cloud.netflix.com
+*.nflxext.com
 *.prod.ftl.netflix.com
 www.netflix.com
 *.nflxext.com
@@ -436,8 +436,8 @@ ir.remitly.com
 app.rewire.to
 ablink.info.remitly.com
 careers.remitly.com
-*.int.remitly.com
 app3.rewire.to
+*.int.remitly.com
 api.remitly.io
 access.remitly.com
 auth.remitly.com
@@ -477,8 +477,8 @@ id.worldcoin.org
 getworldcoin.com
 bioid-management.app
 *.worldcoin.dev
-*.worldcoin.org
 *.consumer.worldcoin.org
+*.worldcoin.org
 *.toolsforhumanity.com
 toolsforhumanity.com
 developer.worldcoin.org
@@ -549,9 +549,9 @@ demo.dynamic.xyz
 payments.hostinger.com
 horizons.hostinger.com
 cpanel.hostinger.com
-hpanel.hostinger.com
 builder.hostinger.com
 www.hostinger.com
+hpanel.hostinger.com
 www.hostinger.com
 cpanel.hostinger.com
 hpanel.hostinger.com
@@ -570,9 +570,9 @@ pd-api.polkadoc.com
 clinic.lemonaidhealth.com
 lemonaidhealth.com
 healthaid.lemonaidhealth.com
-store.23andme.com
 auth.23andme.com
 you.23andme.com
+store.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -796,8 +796,8 @@ api.mergify.com
 dashboard.mergify.com
 www.compass.com
 www.compass.com
-*.gethypr.com
 *.hypr.com
+*.gethypr.com
 *.hypr.com
 *.gethypr.com
 cdn.moderntreasury.com
@@ -1005,8 +1005,8 @@ https://www.visa.com.az/az_az/account/registration
 yourdomain.freshcaller.com
 yourdomain.freshdesk.com
 yourdomain.freshchat.com
-yourdomain.myfreshworks.com
 yourdomain.freshservice.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1067,11 +1067,11 @@ developer.mozilla.org
 relay.firefox.com
 monitor.mozilla.org
 addons.allizom.org
-profiler.firefox.com
 bugzilla.mozilla.org
 www.mozilla.org
-accounts.firefox.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
+profiler.firefox.com
+accounts.firefox.com
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
@@ -1156,9 +1156,9 @@ ab-platform-api.eu-east-1.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 cargo.indrive.com
 *.indriver.com
-new-order.eu-east-1.indriverapp.com
 *.indriverapp.com
 *.indrive.com
+new-order.eu-east-1.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1376,10 +1376,10 @@ www.hotels.com
 www.lastminute.com.au
 www.wotif.com
 www.vrbo.com
+www.lastminute.co.nz
 *.travelocity.com
 *.cheaptickets.com
 www.ebookers.fi
-www.lastminute.co.nz
 www.expedia.com
 www.fewo-direkt.de
 *.wotif.com
@@ -1540,8 +1540,8 @@ pay.ibex.exchange
 pwapi.ex2b.com
 social-trading.exness.com
 api.excalls.mobi
-exnessaffiliates.com
 exness.com
+exnessaffiliates.com
 my.exness.com
 my.exness.com
 pay.ibex.exchange
@@ -1794,8 +1794,8 @@ app.recordedfuture.com
 therecord.media
 id.recordedfuture.com
 tria.ge
-www.recordedfuture.com
 securitytrails.com
+www.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1922,8 +1922,8 @@ cloud.elastic.co
 *.link.co
 api.taxjar.com
 js.stripe.com
-api.stripe.com
 *.stripe.com
+api.stripe.com
 *.lemonsqueezy.com
 app.taxjar.com
 *.lemonsqueezy.com
@@ -1958,12 +1958,12 @@ business.reddithelp.com
 ads.reddit.com
 matrix.redditspace.com
 *.redditinc.com
-*.memorable.io
 developers.reddit.com
-api.reddit.com
-m.reddit.com
-*.reddit.com
 accounts.reddit.com
+m.reddit.com
+*.memorable.io
+*.reddit.com
+api.reddit.com
 *.snooguts.net
 *.reddit.com
 *.redditmedia.com
@@ -2136,15 +2136,15 @@ www.pangleglobal.com
 shop-id.tokopedia.com
 shop.tiktok.com
 creatormarketplace.tiktok.com
-developers.tiktok.com
 live-backstage.tiktok.com
 business.tiktok.com
 *.tiktokv.com
 ads.tiktok.com
-seller-id.tokopedia.com
-*.tiktok.com
 tiktok.com
 careers.tiktok.com
+seller-id.tokopedia.com
+*.tiktok.com
+developers.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2359,11 +2359,11 @@ wallets.api.playstation.com
 store.playstation.com
 social.playstation.com
 my.account.sony.com
-my.playstation.com
 *.playstation.net
+my.playstation.com
 *.api.playstation.com
-*.sonyentertainmentnetwork.com
 ca.account.sony.com
+*.sonyentertainmentnetwork.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2595,8 +2595,8 @@ app.nordpass.com
 *.nordvpn.com
 app.nordpass.com
 *.line.naver.jp
-*.line.me
 *.linecorp.com
+*.line.me
 *.line-apps.com
 *.line.biz
 *.line.me
@@ -3019,8 +3019,8 @@ secure.chaturbate.com
 *.securegatewayaccess.com
 *.cb.dev
 billingsupport.chaturbate.com
-m.chaturbate.com
 *.mmcdn.com
+m.chaturbate.com
 chaturbate.com
 *.highwebmedia.com
 *.highwebmedia.com
@@ -3479,8 +3479,8 @@ npmjs.org
 gist.github.com
 *.githubapp.com
 *.githubusercontent.com
-education.github.com
 classroom.github.com
+education.github.com
 api.github.com
 npmjs.com
 github.com
@@ -3599,10 +3599,10 @@ your-store.myshopify.com
 linkpop.com
 shop.app
 *.shopify.io
-admin.shopify.com
 partners.shopify.com
 *.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3644,12 +3644,12 @@ businesshelp.snapchat.com
 story.snapchat.com
 forum.playcanvas.com
 accounts.snapchat.com
-playcanvas.com
-business.snapchat.com
 web.snapchat.com
-ads.snapchat.com
-app.snapchat.com
 snappublisher.snapchat.com
+ads.snapchat.com
+business.snapchat.com
+app.snapchat.com
+playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3716,6 +3716,7 @@ stock.adobe.com
 account.adobe.com
 contributor.stock.adobe.com
 firefly.adobe.com
+fonts.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3755,9 +3756,9 @@ next.airbnb.com
 *.hoteltonight.com
 api.airbnb.com
 *.withairbnb.com
+www.hoteltonight.com
 *.airbnb.com
 www.airbnb.com
-www.hoteltonight.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
