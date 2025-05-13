@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 13 16:23:48 UTC 2025)
+## Domains with Bounties (Last Updated Tue May 13 16:53:06 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 walletbot.me
@@ -11,8 +11,8 @@ wallet.tg
 walletbot.me
 pay.wallet.tg
 wallet.tg
-*.audible.(TLD)
 tax.audible.com
+*.audible.(TLD)
 tax.audible.com
 *.audible.(TLD)
 https://api.myntra.com
@@ -256,7 +256,6 @@ coalition.nba.com
 gamenotes.nba.com
 grae.nba.com
 cl.nba.com
-2kleague-qa.nba.com
 gleague-dev.nba.com
 gleague-qa.nba.com
 www-qa.nba.com
@@ -279,6 +278,7 @@ identity.nba.com
 content-api-nextgen-prod.nba.com
 2kleague-dev.nba.com
 corp-dev.nba.com
+www-dev.wnba.com
 www.nba.com
 gleague.nba.com
 2kleague.nba.com
@@ -435,16 +435,16 @@ ir.remitly.com
 app.rewire.to
 ablink.info.remitly.com
 careers.remitly.com
-*.int.remitly.com
 app3.rewire.to
+*.int.remitly.com
 api.remitly.io
 site.rewire.com
+rewire.com
 news.remitly.com
 blog.remitly.com
-rewire.com
+*.dev.remitly.com
 remitly.com
 access.remitly.com
-*.dev.remitly.com
 auth.remitly.com
 *.int.remitly.com
 *.dev.remitly.com
@@ -478,11 +478,11 @@ getworldcoin.com
 bioid-management.app
 toolsforhumanity.com
 world.org
-*.worldcoin.dev
 *.consumer.worldcoin.org
 *.worldcoin.org
 *.toolsforhumanity.com
 developer.worldcoin.org
+*.worldcoin.dev
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -599,7 +599,6 @@ www.mercadolibre.com.pa
 www.mercadolibre.com.do
 www.mercadolibre.com.gt
 *.mercadoshops.com
-www.mercadolibre.co.cr
 www.mercadolibre.com.hn
 www.mercadolibre.com.ec
 *.mercadoshops.com.pe
@@ -622,6 +621,7 @@ portalinmobiliario.cl
 mercadoplay.com.uy
 mercadoplay.pe
 mercadoplay.uy
+tucarro.com
 *.adminml.com
 *.mercadolibre.cl
 *.mercadolibre.com
@@ -1021,11 +1021,11 @@ m.avtoelon.uz
 api.krisha.kz
 app.kolesa.kz
 api.kolesa.kz
-id.kolesa.kz
 avtoelon.uz
-krisha.kz
-m.kolesa.kz
 kolesa.kz
+m.kolesa.kz
+krisha.kz
+id.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -1066,13 +1066,13 @@ community-tc.services.mozilla.com
 relay.firefox.com
 monitor.mozilla.org
 addons.allizom.org
-developer.mozilla.org
 profiler.firefox.com
-mozilla-pontoon-staging.herokuapp.com
 support.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
-www.mozilla.org
+developer.mozilla.org
+mozilla-pontoon-staging.herokuapp.com
 accounts.firefox.com
+www.mozilla.org
 bugzilla.mozilla.org
 addons.allizom.org
 developer.mozilla.org
@@ -1205,11 +1205,11 @@ web.grindr.com
 *.mwbsys.com
 *.cloud.malwarebytes.com
 my.malwarebytes.com
-oneview.malwarebytes.com
 cloud.malwarebytes.com
+oneview.malwarebytes.com
 www.malwarebytes.com
-*.malwarebytes.com
 *.threatdown.com
+*.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1231,8 +1231,8 @@ tunnistus.s-ryhma.fi
 api.sokos.fi
 www.s-pankki.fi
 online.s-pankki.fi
-www.s-kaupat.fi
 api.s-kaupat.fi
+www.s-kaupat.fi
 online.s-pankki.fi
 www.s-pankki.fi
 https://crosskey.io/stores/s-pankki/apis
@@ -1324,8 +1324,8 @@ sell.moonpay.com
 moonpay.com
 buy.moonpay.com
 *.hypermint.com
-api.moonpay.com
 *.moonpay.com
+api.moonpay.com
 app.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1530,8 +1530,8 @@ www.mundi.com.br
 business.kayak.com
 kayak.ai
 ws.sorare.com
-api.sorare.com
 sorare.com
+api.sorare.com
 sorare.com
 api.sorare.com
 ws.sorare.com
@@ -1545,9 +1545,9 @@ pay.ibex.exchange
 pwapi.ex2b.com
 social-trading.exness.com
 api.excalls.mobi
-exness.com
 exnessaffiliates.com
 my.exness.com
+exness.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1897,8 +1897,8 @@ https://docs.metamask.io/developer-tools/faucet
 support.metamask.io
 tickets.metamask.io
 www.xvideos.red
-www.xnxx.com
 www.xnxx.gold
+www.xnxx.com
 www.xvideos.com
 www.xvideos.com
 www.xvideos.red
@@ -1926,11 +1926,11 @@ cloud.elastic.co
 *.recko.io
 *.link.co
 api.taxjar.com
-*.lemonsqueezy.com
-api.stripe.com
 js.stripe.com
 app.taxjar.com
+api.stripe.com
 *.stripe.com
+*.lemonsqueezy.com
 *.lemonsqueezy.com
 api.stripe.com
 *.stripe.com
@@ -2036,8 +2036,8 @@ file.larksuite.com
 app.larksuite.com
 status.larksuite.com
 api.larksuite.com
-hackers_chosendomain.larksuite.com
 larksuite.com
+hackers_chosendomain.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2147,10 +2147,10 @@ developers.tiktok.com
 *.tiktok.com
 *.tiktokv.com
 business.tiktok.com
-ads.tiktok.com
 seller-id.tokopedia.com
 affiliate-id.tokopedia.com
 tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2211,9 +2211,9 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
-*.acronis.work
 *-api-*.acronis.com
 *.devicelock.com
+*.acronis.work
 *.5nine.com
 account.acronis.com
 *.acronis.com
@@ -2364,10 +2364,10 @@ transact.playstation.com
 wallets.api.playstation.com
 store.playstation.com
 *.api.playstation.com
+my.account.sony.com
+my.playstation.com
 social.playstation.com
 *.sonyentertainmentnetwork.com
-my.playstation.com
-my.account.sony.com
 ca.account.sony.com
 *.playstation.net
 *.playstation.net
@@ -2387,8 +2387,8 @@ faucet.polygon.technology
 ecosystem-api.polygon.technology
 portal.polygon.technology
 staking-api.polygon.technology
-ecosystem.polygon.technology
 staking.polygon.technology
+ecosystem.polygon.technology
 staking-api.polygon.technology
 faucet.polygon.technology
 portal.polygon.technology
@@ -3226,11 +3226,11 @@ grab.careers
 *.grab-sure.com
 *.grabpay.com
 *.ovo.id
-hungrygowhere.com
 kartaview.org
-*.myteksi.com
-*.myteksi.net
+hungrygowhere.com
 *.grab.com
+*.myteksi.net
+*.myteksi.com
 *.taralite.com
 *.myteksi.com
 *.myteksi.net
@@ -3277,9 +3277,8 @@ chatdate.app
 us1.badoo.com
 sockets.geneva-staging.chat
 sockets.geneva-staging.com
-gateway.geneva-staging.chat
-api.geneva-staging.com
 deeplinks.geneva-staging.chat
+mus1.badoo.com
 www.bumble.com
 bma.bumble.com
 badoo.com
@@ -3457,10 +3456,10 @@ openapi.starbucks.com
 secureui.starbucks.com
 talk.brave.com
 creators.basicattentiontoken.org
-account.brave.com
 basicattentiontoken.org
 brave.com
 search.brave.com
+account.brave.com
 brave.com
 basicattentiontoken.org
 creators.basicattentiontoken.org
@@ -3722,10 +3721,11 @@ marketplace.magento.com
 stock.adobe.com
 account.adobe.com
 contributor.stock.adobe.com
-firefly.adobe.com
 fonts.adobe.com
 magento.com
 auth.services.adobe.com
+*.acrobat.adobe.com
+new.express.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3762,11 +3762,11 @@ assets.airbnb.com
 *.hoteltonight-test.com
 *.muscache.com
 next.airbnb.com
-*.hoteltonight.com
 api.airbnb.com
 www.hoteltonight.com
-*.withairbnb.com
 *.airbnb.com
+*.withairbnb.com
+*.hoteltonight.com
 www.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
@@ -3951,13 +3951,13 @@ spaces.pm
 www.quip.com
 edgeapi.slack.com
 slackb.com
-*.quip.com
 slack-status.com
 slackatwork.com
 slack-imgs.com
 app.slack.com
 slack.com
 api.slack.com
+*.quip.com
 slack.com
 api.slack.com
 slackb.com
@@ -3986,11 +3986,11 @@ reviewer.pullrequest.com
 app.pullrequest.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
-www.hackerone.com
 a5s.hackerone-ext-content.com
 api.hackerone.com
 hackerone.live
 www.wearehackerone.com
+www.hackerone.com
 hackerone.com
 hackerone.com
 api.hackerone.com
