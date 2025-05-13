@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 13 15:23:08 UTC 2025)
+## Domains with Bounties (Last Updated Tue May 13 15:47:20 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 walletbot.me
@@ -435,10 +435,10 @@ ir.remitly.com
 app.rewire.to
 ablink.info.remitly.com
 careers.remitly.com
-site.rewire.com
-app3.rewire.to
 *.int.remitly.com
+app3.rewire.to
 api.remitly.io
+site.rewire.com
 news.remitly.com
 blog.remitly.com
 rewire.com
@@ -531,8 +531,8 @@ http://sandbox-api.fireblocks.io
 sso-sprint.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 *.sprint.dynatracelabs.com
-*.sprint.apps.dynatracelabs.com
 university-staging.dynatracelabs.com
+*.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
@@ -548,10 +548,10 @@ app.dynamic.xyz
 demo.dynamic.xyz
 builder.hostinger.com
 cpanel.hostinger.com
-horizons.hostinger.com
 payments.hostinger.com
 hpanel.hostinger.com
 www.hostinger.com
+horizons.hostinger.com
 www.hostinger.com
 cpanel.hostinger.com
 hpanel.hostinger.com
@@ -568,11 +568,11 @@ blog.23andme.com
 api.23andme.com
 lemonaidhealth.com
 you.23andme.com
+healthaid.lemonaidhealth.com
+auth.23andme.com
+clinic.lemonaidhealth.com
 pd-api.polkadoc.com
 store.23andme.com
-healthaid.lemonaidhealth.com
-clinic.lemonaidhealth.com
-auth.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -1019,8 +1019,8 @@ id.avtoelon.uz
 app.krisha.kz
 m.avtoelon.uz
 api.krisha.kz
-api.kolesa.kz
 app.kolesa.kz
+api.kolesa.kz
 id.kolesa.kz
 avtoelon.uz
 krisha.kz
@@ -1071,9 +1071,9 @@ profiler.firefox.com
 mozilla-pontoon-staging.herokuapp.com
 support.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
-bugzilla.mozilla.org
 www.mozilla.org
 accounts.firefox.com
+bugzilla.mozilla.org
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
@@ -1159,8 +1159,8 @@ cargo.indrive.com
 *.indriver.com
 *.indriverapp.com
 new-order.eu-east-1.indriverapp.com
-*.indrive.com
 volans.tech
+*.indrive.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1205,8 +1205,8 @@ web.grindr.com
 *.mwbsys.com
 *.cloud.malwarebytes.com
 my.malwarebytes.com
-cloud.malwarebytes.com
 oneview.malwarebytes.com
+cloud.malwarebytes.com
 www.malwarebytes.com
 *.malwarebytes.com
 *.threatdown.com
@@ -1231,8 +1231,8 @@ tunnistus.s-ryhma.fi
 api.sokos.fi
 www.s-pankki.fi
 online.s-pankki.fi
-api.s-kaupat.fi
 www.s-kaupat.fi
+api.s-kaupat.fi
 online.s-pankki.fi
 www.s-pankki.fi
 https://crosskey.io/stores/s-pankki/apis
@@ -1249,8 +1249,8 @@ auth.skypicker.com
 tequila.kiwi.com
 *.kiwi.com
 www.kiwi.com
-*.skypicker.com
 jobs.kiwi.com
+*.skypicker.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1351,8 +1351,8 @@ share.doppler.com
 *.cryptopunks.app
 *.yuga.com
 *.otherside.xyz
-*.boredapeyachtclub.com
 *.meebits.app
+*.boredapeyachtclub.com
 *.boredapeyachtclub.com
 *.yuga.com
 *.yugalabs.io
@@ -1377,16 +1377,16 @@ www.hotels.com
 www.lastminute.com.au
 www.wotif.com
 www.vrbo.com
-www.lastminute.co.nz
 *.travelocity.com
 *.cheaptickets.com
+www.lastminute.co.nz
 www.fewo-direkt.de
 *.wotif.com
-www.orbitz.com
-www.expediagroup.com
-*.carrentals.com
-www.stayz.com.au
 www.travelocity.com
+www.orbitz.com
+www.stayz.com.au
+*.carrentals.com
+www.hotwire.com
 *.vrbo.com
 *.carrentals.com
 *.wotif.com
@@ -1420,9 +1420,9 @@ www.expediagroup.com
 www.flights.com
 www.expediataap.com
 *.magiceden.workers.dev
-*.magiceden.io
 magiceden.io
 *.magiceden.dev
+*.magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1545,9 +1545,9 @@ pay.ibex.exchange
 pwapi.ex2b.com
 social-trading.exness.com
 api.excalls.mobi
+exness.com
 exnessaffiliates.com
 my.exness.com
-exness.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1927,9 +1927,9 @@ cloud.elastic.co
 *.link.co
 api.taxjar.com
 *.lemonsqueezy.com
+api.stripe.com
 js.stripe.com
 app.taxjar.com
-api.stripe.com
 *.stripe.com
 *.lemonsqueezy.com
 api.stripe.com
@@ -2144,10 +2144,10 @@ creatormarketplace.tiktok.com
 live-backstage.tiktok.com
 careers.tiktok.com
 developers.tiktok.com
-ads.tiktok.com
 *.tiktok.com
 *.tiktokv.com
 business.tiktok.com
+ads.tiktok.com
 seller-id.tokopedia.com
 affiliate-id.tokopedia.com
 tiktok.com
@@ -2211,8 +2211,8 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
-*-api-*.acronis.com
 *.acronis.work
+*-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
 account.acronis.com
@@ -2890,8 +2890,8 @@ grammarly.ai
 *.grammarlyaws.com
 capi.grammarly.com
 *.grammarly.io
-*.grammarly.com
 app.grammarly.com
+*.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -2975,7 +2975,6 @@ api.swiftfinancial.com
 swiftcapital.com
 sandbox.braintreegateway.com
 py.pl
-*.paypalcorp.com
 api.loanbuilder.com
 loanbuilder.com
 *.braintreepayments.com
@@ -2989,6 +2988,7 @@ paypalobjects.com
 *.braintree-api.com
 *.venmo.com
 *.paypal.com
+*.paypalcorp.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3040,16 +3040,16 @@ billingsupport.chaturbate.com
 secure.chaturbate.com
 *.bitmex.com
 blog.bitmex.com
-testnet.bitmex.com
 www.bitmex.com
+testnet.bitmex.com
 *.bitmex.com
 testnet.bitmex.com
 www.bitmex.com
 blog.bitmex.com
 *.staging-airtableblocks.com
 api-staging.airtable.com
-*.staging.airtable.com
 staging.airtable.com
+*.staging.airtable.com
 *.staging-airtableblocks.com
 *.staging.airtable.com
 staging.airtable.com
@@ -3226,11 +3226,11 @@ grab.careers
 *.grab-sure.com
 *.grabpay.com
 *.ovo.id
-kartaview.org
 hungrygowhere.com
-*.grab.com
-*.myteksi.net
+kartaview.org
 *.myteksi.com
+*.myteksi.net
+*.grab.com
 *.taralite.com
 *.myteksi.com
 *.myteksi.net
@@ -3486,10 +3486,10 @@ npmjs.org
 gist.github.com
 *.githubapp.com
 *.githubusercontent.com
-classroom.github.com
 education.github.com
-api.github.com
+classroom.github.com
 npmjs.com
+api.github.com
 github.com
 github.com
 api.github.com
@@ -3566,8 +3566,8 @@ oauth.deriv.com
 *.binary.com
 cashier.deriv.com
 derivws.com
-*.deriv.com
 app.deriv.com
+*.deriv.com
 api.deriv.com
 *.deriv.com
 *.deriv.cloud
@@ -3606,9 +3606,9 @@ linkpop.com
 *.shopify.io
 partners.shopify.com
 shop.app
-admin.shopify.com
 accounts.shopify.com
 your-store.myshopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
@@ -3650,8 +3650,8 @@ businesshelp.snapchat.com
 story.snapchat.com
 forum.playcanvas.com
 playcanvas.com
-web.snapchat.com
 *.sc-core.net
+web.snapchat.com
 snappublisher.snapchat.com
 app.snapchat.com
 business.snapchat.com
@@ -3721,10 +3721,10 @@ photos.adobe.io
 marketplace.magento.com
 stock.adobe.com
 account.adobe.com
-firefly.adobe.com
 contributor.stock.adobe.com
-magento.com
+firefly.adobe.com
 fonts.adobe.com
+magento.com
 auth.services.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
@@ -3837,14 +3837,14 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twimg.com
 *.grok.com
 gnip.com
 *.twitter.com
-x.com
 *.x.ai
 *.x.com
 grok.com
+*.twimg.com
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3858,7 +3858,6 @@ grok.com
 cloudflareworkers.com
 one.dash.cloudflare.com
 *.cloudflarepartners.com
-api.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
@@ -3985,11 +3984,11 @@ hackathon-photos.hackerone-user-content.com
 *.vpn.hackerone.net
 reviewer.pullrequest.com
 app.pullrequest.com
+mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 www.hackerone.com
-mta-sts.wearehackerone.com
-api.hackerone.com
 a5s.hackerone-ext-content.com
+api.hackerone.com
 hackerone.live
 www.wearehackerone.com
 hackerone.com
