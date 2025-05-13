@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 13 21:42:24 UTC 2025)
+## Domains with Bounties (Last Updated Tue May 13 22:21:35 UTC 2025)
 ```
 connect.com
 *.hs-sites(-eu1)?.com
@@ -11,9 +11,9 @@ connect.com
 *.hubspotemail.net
 api.hubspot.com
 api.hubapi.com
-app.hubspot.com
 app-eu1.hubspot.com
 chatspot.ai
+app.hubspot.com
 *.hubspotemail.net
 *.hs-sites(-eu1)?.com
 *.hubspotpagebuilder.com
@@ -43,8 +43,8 @@ https://pay.payzippy.com
 https://uiscoop.payzippy.com
 zooplus.net
 www.zooplus.co.uk
-www.zooplus.de
 www.zooplus.com
+www.zooplus.de
 www.zooplus.de
 www.zooplus.co.uk
 www.zooplus.com
@@ -112,8 +112,8 @@ workspace.toloka.ai
 sso.auth.toloka.ai
 mindrift.toloka.ai
 experts-portal.toloka.ai
-auth.toloka.ai
 ladybug.a9s.toloka.ai
+auth.toloka.ai
 auth.toloka.ai
 sso.auth.toloka.ai
 ladybug.a9s.toloka.ai
@@ -373,8 +373,8 @@ meechum.netflix.com
 *.nflximg.net
 *.prod.cloud.netflix.com
 *.nflxso.net
-*.nflxext.com
 ichnaea.netflix.com
+*.nflxext.com
 nmtracking.netflix.com
 *.prod.ftl.netflix.com
 www.netflix.com
@@ -498,11 +498,11 @@ getworldcoin.com
 bioid-management.app
 world.org
 *.consumer.worldcoin.org
-*.worldcoin.org
 *.toolsforhumanity.com
 toolsforhumanity.com
 *.worldcoin.dev
 developer.worldcoin.org
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -551,8 +551,8 @@ http://sandbox-api.fireblocks.io
 sso-sprint.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 *.sprint.dynatracelabs.com
-university-staging.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
+university-staging.dynatracelabs.com
 account-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
@@ -570,8 +570,8 @@ builder.hostinger.com
 cpanel.hostinger.com
 payments.hostinger.com
 hpanel.hostinger.com
-horizons.hostinger.com
 www.hostinger.com
+horizons.hostinger.com
 www.hostinger.com
 cpanel.hostinger.com
 hpanel.hostinger.com
@@ -588,11 +588,11 @@ blog.23andme.com
 api.23andme.com
 lemonaidhealth.com
 you.23andme.com
-healthaid.lemonaidhealth.com
-auth.23andme.com
-clinic.lemonaidhealth.com
 pd-api.polkadoc.com
 store.23andme.com
+healthaid.lemonaidhealth.com
+clinic.lemonaidhealth.com
+auth.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -1043,8 +1043,8 @@ app.kolesa.kz
 api.kolesa.kz
 avtoelon.uz
 krisha.kz
-kolesa.kz
 m.kolesa.kz
+kolesa.kz
 id.kolesa.kz
 api.krisha.kz
 kolesa.kz
@@ -1226,8 +1226,8 @@ web.grindr.com
 *.mwbsys.com
 *.cloud.malwarebytes.com
 my.malwarebytes.com
-oneview.malwarebytes.com
 cloud.malwarebytes.com
+oneview.malwarebytes.com
 *.threatdown.com
 *.malwarebytes.com
 www.malwarebytes.com
@@ -1268,8 +1268,8 @@ api.sokos.fi
 api.s-kaupat.fi
 auth.skypicker.com
 tequila.kiwi.com
-*.kiwi.com
 www.kiwi.com
+*.kiwi.com
 jobs.kiwi.com
 *.skypicker.com
 *.kiwi.com
@@ -1566,9 +1566,9 @@ pay.ibex.exchange
 pwapi.ex2b.com
 social-trading.exness.com
 api.excalls.mobi
-exness.com
 exnessaffiliates.com
 my.exness.com
+exness.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1984,8 +1984,8 @@ ads.reddit.com
 matrix.redditspace.com
 *.redditinc.com
 developers.reddit.com
-m.reddit.com
 accounts.reddit.com
+m.reddit.com
 api.reddit.com
 *.memorable.io
 *.snooguts.net
@@ -2232,9 +2232,9 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
-*.acronis.work
 *-api-*.acronis.com
 *.devicelock.com
+*.acronis.work
 *.5nine.com
 account.acronis.com
 *.acronis.com
@@ -2771,8 +2771,8 @@ www.bookingholdings.com
 api.creditkarma.com
 blog.creditkarma.com
 www.creditkarma.ca
-support.creditkarma.ca
 accounts.creditkarma.com
+support.creditkarma.ca
 accounts.creditkarma.com
 www.creditkarma.ca
 api.creditkarma.com
@@ -2910,8 +2910,8 @@ grammarly.ai
 *.grammarlyaws.com
 capi.grammarly.com
 *.grammarly.io
-*.grammarly.com
 app.grammarly.com
+*.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -2993,7 +2993,6 @@ www.loanbuilder.com
 *.braintree.tools
 api.swiftfinancial.com
 swiftcapital.com
-sandbox.braintreegateway.com
 py.pl
 api.loanbuilder.com
 loanbuilder.com
@@ -3009,6 +3008,7 @@ paypal.me
 *.venmo.com
 *.paypal.com
 paypalobjects.com
+sandbox.braintreegateway.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3136,9 +3136,9 @@ developer.valvesoftware.com
 help.steampowered.com
 api.steampowered.com
 www.counter-strike.net
-partner.steamgames.com
 steamcommunity.com
 store.steampowered.com
+partner.steamgames.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3156,13 +3156,13 @@ tax.crypto.com
 js.crypto.com
 nadex.com
 *.mona.co
-developer-platform-api.crypto.com
 app.mona.co
 developer.crypto.com
 web.crypto.com
+developer-platform-api.crypto.com
 developer-api.crypto.com
-*.crypto.com
 merchant.crypto.com
+*.crypto.com
 *.crypto.com
 *.mona.co
 https://crypto.com/exchange
@@ -3622,11 +3622,11 @@ arrive-server.shopifycloud.com
 shopifyinbox.com
 linkpop.com
 partners.shopify.com
-*.shopify.io
-admin.shopify.com
-accounts.shopify.com
 your-store.myshopify.com
 *.shopify.com
+accounts.shopify.com
+*.shopify.io
+admin.shopify.com
 shop.app
 *.shopifycs.com
 *.shopifycs.com
@@ -3741,8 +3741,8 @@ marketplace.magento.com
 stock.adobe.com
 account.adobe.com
 contributor.stock.adobe.com
-magento.com
 fonts.adobe.com
+magento.com
 auth.services.adobe.com
 *.acrobat.adobe.com
 new.express.adobe.com
@@ -3782,12 +3782,12 @@ assets.airbnb.com
 *.hoteltonight-test.com
 *.muscache.com
 next.airbnb.com
-www.hoteltonight.com
 api.airbnb.com
+www.hoteltonight.com
 *.airbnb.com
+www.airbnb.com
 *.withairbnb.com
 *.hoteltonight.com
-www.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3861,10 +3861,10 @@ www.greenhouse.io
 gnip.com
 *.x.ai
 *.x.com
-x.com
-grok.com
 *.twimg.com
 *.twitter.com
+x.com
+grok.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3949,9 +3949,9 @@ international.coinbase.com
 api.coinbase.com
 *.base.org
 commerce.coinbase.com
-*.cbhq.net
 coinbase.com
 *.coinbase.com
+*.cbhq.net
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -4004,10 +4004,10 @@ profile-photos.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
 *.vpn.hackerone.net
 reviewer.pullrequest.com
-mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
-a5s.hackerone-ext-content.com
+mta-sts.wearehackerone.com
 api.hackerone.com
+a5s.hackerone-ext-content.com
 hackerone.live
 www.wearehackerone.com
 www.hackerone.com
