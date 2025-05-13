@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 13 10:49:57 UTC 2025)
+## Domains with Bounties (Last Updated Tue May 13 11:19:22 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 wallet.tg
@@ -352,11 +352,11 @@ help.netflix.com
 meechum.netflix.com
 *.nflximg.net
 *.prod.cloud.netflix.com
-*.prod.ftl.netflix.com
 *.nflxso.net
+nmtracking.netflix.com
 ichnaea.netflix.com
 *.nflxext.com
-nmtracking.netflix.com
+*.prod.ftl.netflix.com
 www.netflix.com
 *.nflxext.com
 *.prod.ftl.netflix.com
@@ -435,16 +435,16 @@ ir.remitly.com
 app.rewire.to
 ablink.info.remitly.com
 careers.remitly.com
-app3.rewire.to
 *.int.remitly.com
+app3.rewire.to
 api.remitly.io
 site.rewire.com
-rewire.com
 news.remitly.com
 blog.remitly.com
-*.dev.remitly.com
+rewire.com
 remitly.com
 access.remitly.com
+*.dev.remitly.com
 auth.remitly.com
 *.int.remitly.com
 *.dev.remitly.com
@@ -478,11 +478,11 @@ getworldcoin.com
 bioid-management.app
 toolsforhumanity.com
 world.org
-developer.worldcoin.org
 *.worldcoin.dev
 *.consumer.worldcoin.org
 *.worldcoin.org
 *.toolsforhumanity.com
+developer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -568,9 +568,9 @@ blog.23andme.com
 api.23andme.com
 lemonaidhealth.com
 you.23andme.com
-clinic.lemonaidhealth.com
 healthaid.lemonaidhealth.com
 auth.23andme.com
+clinic.lemonaidhealth.com
 pd-api.polkadoc.com
 store.23andme.com
 api.23andme.com
@@ -772,8 +772,8 @@ api2.frontapp.com
 app.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-kronor.io
 *.booztlet.com
+kronor.io
 *.boozt.com
 *.boozt.com
 *.booztlet.com
@@ -790,8 +790,8 @@ kronor.io
 *.trainpal.com
 *.mytrainpal.com
 *.cheaptickets.nl
-dashboard.mergify.com
 api.mergify.com
+dashboard.mergify.com
 api.mergify.com
 dashboard.mergify.com
 www.compass.com
@@ -833,8 +833,8 @@ payer-details-sandbox.gocardless.com
 www.gocardless.com
 ob.gocardless.com
 auth0.gocardless.com
-rei.com
 login.rei.com
+rei.com
 rei.com
 login.rei.com
 http://www.rei.com/learn/expert-advice
@@ -1005,8 +1005,8 @@ https://www.visa.com.az/az_az/account/registration
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.myfreshworks.com
-yourdomain.freshservice.com
 yourdomain.freshdesk.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1118,8 +1118,8 @@ hilton.io
 *.hiltonbusinessonline.com
 *.hiltonlocalbiz.com
 *.hilton.io
-hilton.com
 *.hilton.com
+hilton.com
 *.hilton.com
 *.hilton.io
 *.hiltonbusinessonline.com
@@ -1205,8 +1205,8 @@ web.grindr.com
 *.mwbsys.com
 *.cloud.malwarebytes.com
 my.malwarebytes.com
-cloud.malwarebytes.com
 oneview.malwarebytes.com
+cloud.malwarebytes.com
 *.threatdown.com
 www.malwarebytes.com
 *.malwarebytes.com
@@ -1324,8 +1324,8 @@ sell.moonpay.com
 moonpay.com
 buy.moonpay.com
 *.hypermint.com
-*.moonpay.com
 api.moonpay.com
+*.moonpay.com
 app.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1377,16 +1377,15 @@ www.hotels.com
 www.lastminute.com.au
 www.wotif.com
 www.vrbo.com
+www.lastminute.co.nz
 *.travelocity.com
 *.cheaptickets.com
-www.lastminute.co.nz
 www.fewo-direkt.de
 *.wotif.com
 www.orbitz.com
-www.travelocity.com
-www.stayz.com.au
+www.expediagroup.com
 *.carrentals.com
-www.hotwire.com
+www.stayz.com.au
 *.vrbo.com
 *.carrentals.com
 *.wotif.com
@@ -1926,11 +1925,11 @@ cloud.elastic.co
 *.recko.io
 *.link.co
 api.taxjar.com
-js.stripe.com
 api.stripe.com
 *.lemonsqueezy.com
 *.stripe.com
 app.taxjar.com
+js.stripe.com
 *.lemonsqueezy.com
 api.stripe.com
 *.stripe.com
@@ -1966,8 +1965,8 @@ developers.reddit.com
 m.reddit.com
 *.reddit.com
 accounts.reddit.com
-*.memorable.io
 api.reddit.com
+*.memorable.io
 *.snooguts.net
 *.snooguts.net
 *.reddit.com
@@ -3040,8 +3039,8 @@ billingsupport.chaturbate.com
 secure.chaturbate.com
 *.bitmex.com
 blog.bitmex.com
-testnet.bitmex.com
 www.bitmex.com
+testnet.bitmex.com
 *.bitmex.com
 testnet.bitmex.com
 www.bitmex.com
@@ -3137,10 +3136,10 @@ js.crypto.com
 nadex.com
 merchant.crypto.com
 *.mona.co
-developer-platform-api.crypto.com
 app.mona.co
 developer.crypto.com
 web.crypto.com
+developer-platform-api.crypto.com
 developer-api.crypto.com
 *.crypto.com
 *.crypto.com
@@ -3203,8 +3202,8 @@ www.crowdstrike.com
 *.sellzone.com
 *.seoquake.com
 *.myinsights.io
-*.semrush.net
 *.semrush.com
+*.semrush.net
 *.semrush.com
 *.semrush.net
 *.seoquake.com
@@ -3219,7 +3218,6 @@ manage.grab.co
 gifts.grab.com
 api.grabpay.com
 *.grab.co
-*.taralite.com
 *.grabtaxi.com
 jira.grab.com
 p.grabtaxi.com
@@ -3232,6 +3230,7 @@ hungrygowhere.com
 *.grab.com
 *.myteksi.net
 *.myteksi.com
+*.taralite.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3328,9 +3327,9 @@ backstage.io
 *.spotify.net
 *.byspotify.com
 assets.spotify.com
+*.spotify.com
 api.spotify.com
 *.withspotify.com
-*.spotify.com
 *.spotify.com
 *.spotify.net
 *.withspotify.com
@@ -3346,10 +3345,10 @@ api.spotify.com
 backstage.io
 logs.dashlane.com
 ws1.dashlane.com
-www.dashlane.com
 console.dashlane.com
 app.dashlane.com
 api.dashlane.com
+www.dashlane.com
 ws1.dashlane.com
 www.dashlane.com
 console.dashlane.com
@@ -3649,10 +3648,10 @@ my.snapchat.com
 businesshelp.snapchat.com
 story.snapchat.com
 forum.playcanvas.com
-*.sc-core.net
 playcanvas.com
-web.snapchat.com
+*.sc-core.net
 ads.snapchat.com
+web.snapchat.com
 snappublisher.snapchat.com
 app.snapchat.com
 business.snapchat.com
@@ -3723,8 +3722,8 @@ stock.adobe.com
 account.adobe.com
 contributor.stock.adobe.com
 firefly.adobe.com
-magento.com
 fonts.adobe.com
+magento.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3989,8 +3988,8 @@ www.hackerone.com
 a5s.hackerone-ext-content.com
 api.hackerone.com
 hackerone.live
-hackerone.com
 www.wearehackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
