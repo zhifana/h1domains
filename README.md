@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 13 19:18:57 UTC 2025)
+## Domains with Bounties (Last Updated Tue May 13 19:41:07 UTC 2025)
 ```
 connect.com
 *.hs-sites(-eu1)?.com
@@ -11,8 +11,8 @@ connect.com
 *.hubspotemail.net
 api.hubspot.com
 chatspot.ai
-app.hubspot.com
 api.hubapi.com
+app.hubspot.com
 app-eu1.hubspot.com
 *.hubspotemail.net
 *.hs-sites(-eu1)?.com
@@ -53,8 +53,8 @@ mark8.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 uat-bugbounty.nonprod.syfe.com
 alfred.syfe.com
-api.syfe.com
 www.syfe.com
+api.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 www.syfe.com
@@ -112,8 +112,8 @@ workspace.toloka.ai
 sso.auth.toloka.ai
 mindrift.toloka.ai
 experts-portal.toloka.ai
-ladybug.a9s.toloka.ai
 auth.toloka.ai
+ladybug.a9s.toloka.ai
 auth.toloka.ai
 sso.auth.toloka.ai
 ladybug.a9s.toloka.ai
@@ -462,10 +462,10 @@ api.remitly.io
 news.remitly.com
 blog.remitly.com
 rewire.com
-remitly.com
 access.remitly.com
 *.dev.remitly.com
 auth.remitly.com
+remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -588,11 +588,11 @@ blog.23andme.com
 api.23andme.com
 lemonaidhealth.com
 you.23andme.com
+clinic.lemonaidhealth.com
+healthaid.lemonaidhealth.com
+auth.23andme.com
 pd-api.polkadoc.com
 store.23andme.com
-healthaid.lemonaidhealth.com
-clinic.lemonaidhealth.com
-auth.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -1043,9 +1043,9 @@ api.krisha.kz
 app.kolesa.kz
 api.kolesa.kz
 avtoelon.uz
-krisha.kz
 kolesa.kz
 m.kolesa.kz
+krisha.kz
 id.kolesa.kz
 kolesa.kz
 m.kolesa.kz
@@ -1087,13 +1087,13 @@ community-tc.services.mozilla.com
 relay.firefox.com
 monitor.mozilla.org
 addons.allizom.org
-developer.mozilla.org
 profiler.firefox.com
-mozilla-pontoon-staging.herokuapp.com
 support.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
-www.mozilla.org
+developer.mozilla.org
+mozilla-pontoon-staging.herokuapp.com
 accounts.firefox.com
+www.mozilla.org
 bugzilla.mozilla.org
 addons.allizom.org
 developer.mozilla.org
@@ -1178,8 +1178,8 @@ ab-platform-api.eu-east-1.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 cargo.indrive.com
 *.indriver.com
-new-order.eu-east-1.indriverapp.com
 *.indriverapp.com
+new-order.eu-east-1.indriverapp.com
 volans.tech
 *.indrive.com
 *.indriverapp.com
@@ -1228,9 +1228,9 @@ web.grindr.com
 my.malwarebytes.com
 cloud.malwarebytes.com
 oneview.malwarebytes.com
-www.malwarebytes.com
-*.malwarebytes.com
 *.threatdown.com
+*.malwarebytes.com
+www.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1566,9 +1566,9 @@ pay.ibex.exchange
 pwapi.ex2b.com
 social-trading.exness.com
 api.excalls.mobi
-exness.com
 exnessaffiliates.com
 my.exness.com
+exness.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1947,8 +1947,8 @@ cloud.elastic.co
 *.recko.io
 *.link.co
 api.taxjar.com
-js.stripe.com
 app.taxjar.com
+js.stripe.com
 api.stripe.com
 *.lemonsqueezy.com
 *.stripe.com
@@ -2168,8 +2168,8 @@ developers.tiktok.com
 *.tiktokv.com
 business.tiktok.com
 seller-id.tokopedia.com
-affiliate-id.tokopedia.com
 tiktok.com
+affiliate-id.tokopedia.com
 ads.tiktok.com
 *.tiktok.com
 *.tiktok.com
@@ -2232,9 +2232,9 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
+*.acronis.work
 *-api-*.acronis.com
 *.devicelock.com
-*.acronis.work
 *.5nine.com
 account.acronis.com
 *.acronis.com
@@ -2388,9 +2388,9 @@ store.playstation.com
 my.playstation.com
 social.playstation.com
 ca.account.sony.com
-*.playstation.net
 my.account.sony.com
 *.sonyentertainmentnetwork.com
+*.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2515,8 +2515,8 @@ amazonpayinsurance.in
 auth.magic.link
 api.fortmatic.com
 api.magic.link
-dashboard.magic.link
 portal.magicnewton.com
+dashboard.magic.link
 api.fortmatic.com
 auth.magic.link
 dashboard.magic.link
@@ -3007,9 +3007,9 @@ paypal.me
 *.braintreegateway.com
 *.braintree-api.com
 *.paypal.com
-*.venmo.com
 *.paypalcorp.com
 paypalobjects.com
+*.venmo.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3061,8 +3061,8 @@ billingsupport.chaturbate.com
 secure.chaturbate.com
 *.bitmex.com
 blog.bitmex.com
-testnet.bitmex.com
 www.bitmex.com
+testnet.bitmex.com
 *.bitmex.com
 testnet.bitmex.com
 www.bitmex.com
@@ -3452,8 +3452,8 @@ cdna.lystit.com
 mobileapi.lystit.com
 try.discourse.org
 try.discourse.org
-*.quora.com
 poe.com
+*.quora.com
 *.quora.com
 http://poe.com
 forum.portswigger.net
@@ -3503,12 +3503,12 @@ moneybird.com
 moneybirdstorage.com
 *.github.net
 npmjs.org
-gist.github.com
 *.githubapp.com
+gist.github.com
 classroom.github.com
 education.github.com
-api.github.com
 npmjs.com
+api.github.com
 *.githubusercontent.com
 github.com
 github.com
@@ -3538,8 +3538,8 @@ design.gitlab.com
 about.gitlab.com
 customers.gitlab.com
 docs.gitlab.com
-*.gitlab.net
 gitlab.com
+*.gitlab.net
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3586,8 +3586,8 @@ oauth.deriv.com
 *.binary.com
 cashier.deriv.com
 derivws.com
-*.deriv.com
 app.deriv.com
+*.deriv.com
 api.deriv.com
 *.deriv.com
 *.deriv.cloud
@@ -3625,10 +3625,10 @@ shopifyinbox.com
 linkpop.com
 partners.shopify.com
 shop.app
-admin.shopify.com
-*.shopify.io
 your-store.myshopify.com
 *.shopify.com
+*.shopify.io
+admin.shopify.com
 accounts.shopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
@@ -3670,8 +3670,8 @@ businesshelp.snapchat.com
 story.snapchat.com
 forum.playcanvas.com
 playcanvas.com
-*.sc-core.net
 web.snapchat.com
+*.sc-core.net
 snappublisher.snapchat.com
 business.snapchat.com
 app.snapchat.com
@@ -3742,8 +3742,8 @@ marketplace.magento.com
 stock.adobe.com
 account.adobe.com
 contributor.stock.adobe.com
-magento.com
 fonts.adobe.com
+magento.com
 auth.services.adobe.com
 *.acrobat.adobe.com
 new.express.adobe.com
@@ -3784,8 +3784,8 @@ assets.airbnb.com
 *.hoteltonight-test.com
 *.muscache.com
 next.airbnb.com
-api.airbnb.com
 www.hoteltonight.com
+api.airbnb.com
 *.airbnb.com
 *.withairbnb.com
 *.hoteltonight.com
@@ -3863,10 +3863,10 @@ www.greenhouse.io
 gnip.com
 *.x.ai
 *.x.com
-x.com
-grok.com
 *.twimg.com
 *.twitter.com
+x.com
+grok.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4006,10 +4006,10 @@ profile-photos.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
 *.vpn.hackerone.net
 reviewer.pullrequest.com
-hackathon-photos-us-east-2.hackerone-user-content.com
 mta-sts.wearehackerone.com
-api.hackerone.com
+hackathon-photos-us-east-2.hackerone-user-content.com
 a5s.hackerone-ext-content.com
+api.hackerone.com
 hackerone.live
 www.wearehackerone.com
 www.hackerone.com
