@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 13 22:21:35 UTC 2025)
+## Domains with Bounties (Last Updated Tue May 13 22:46:39 UTC 2025)
 ```
 connect.com
 *.hs-sites(-eu1)?.com
@@ -11,9 +11,9 @@ connect.com
 *.hubspotemail.net
 api.hubspot.com
 api.hubapi.com
+app.hubspot.com
 app-eu1.hubspot.com
 chatspot.ai
-app.hubspot.com
 *.hubspotemail.net
 *.hs-sites(-eu1)?.com
 *.hubspotpagebuilder.com
@@ -43,8 +43,8 @@ https://pay.payzippy.com
 https://uiscoop.payzippy.com
 zooplus.net
 www.zooplus.co.uk
-www.zooplus.com
 www.zooplus.de
+www.zooplus.com
 www.zooplus.de
 www.zooplus.co.uk
 www.zooplus.com
@@ -372,12 +372,12 @@ help.netflix.com
 meechum.netflix.com
 *.nflximg.net
 *.prod.cloud.netflix.com
-*.nflxso.net
 ichnaea.netflix.com
 *.nflxext.com
 nmtracking.netflix.com
 *.prod.ftl.netflix.com
 www.netflix.com
+*.nflxso.net
 *.nflxext.com
 *.prod.ftl.netflix.com
 *.prod.cloud.netflix.com
@@ -455,7 +455,6 @@ ir.remitly.com
 app.rewire.to
 ablink.info.remitly.com
 careers.remitly.com
-app3.rewire.to
 *.int.remitly.com
 api.remitly.io
 news.remitly.com
@@ -466,6 +465,7 @@ access.remitly.com
 auth.remitly.com
 remitly.com
 site.rewire.com
+app3.rewire.to
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -548,12 +548,12 @@ sandbox.fireblocks.io
 http://sb-mobile-api.fireblocks.io
 http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
-sso-sprint.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 *.sprint.dynatracelabs.com
-*.sprint.apps.dynatracelabs.com
 university-staging.dynatracelabs.com
+*.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
+sso-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -570,8 +570,8 @@ builder.hostinger.com
 cpanel.hostinger.com
 payments.hostinger.com
 hpanel.hostinger.com
-www.hostinger.com
 horizons.hostinger.com
+www.hostinger.com
 www.hostinger.com
 cpanel.hostinger.com
 hpanel.hostinger.com
@@ -803,8 +803,8 @@ kronor.io
 *.travix.com
 *.trainpal.com
 *.mytrainpal.com
-*.trip.com
 *.cheaptickets.nl
+*.trip.com
 *.trip.com
 *.travix.com
 *.travix.io
@@ -817,8 +817,8 @@ api.mergify.com
 dashboard.mergify.com
 www.compass.com
 www.compass.com
-*.gethypr.com
 *.hypr.com
+*.gethypr.com
 *.hypr.com
 *.gethypr.com
 cdn.moderntreasury.com
@@ -1087,13 +1087,13 @@ community-tc.services.mozilla.com
 relay.firefox.com
 monitor.mozilla.org
 addons.allizom.org
+developer.mozilla.org
 profiler.firefox.com
+mozilla-pontoon-staging.herokuapp.com
 support.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
-developer.mozilla.org
-mozilla-pontoon-staging.herokuapp.com
-accounts.firefox.com
 www.mozilla.org
+accounts.firefox.com
 bugzilla.mozilla.org
 addons.allizom.org
 developer.mozilla.org
@@ -1178,8 +1178,8 @@ ab-platform-api.eu-east-1.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 cargo.indrive.com
 *.indriver.com
-new-order.eu-east-1.indriverapp.com
 *.indriverapp.com
+new-order.eu-east-1.indriverapp.com
 volans.tech
 *.indrive.com
 *.indriverapp.com
@@ -1226,8 +1226,8 @@ web.grindr.com
 *.mwbsys.com
 *.cloud.malwarebytes.com
 my.malwarebytes.com
-cloud.malwarebytes.com
 oneview.malwarebytes.com
+cloud.malwarebytes.com
 *.threatdown.com
 *.malwarebytes.com
 www.malwarebytes.com
@@ -1252,8 +1252,8 @@ tunnistus.s-ryhma.fi
 api.sokos.fi
 www.s-pankki.fi
 online.s-pankki.fi
-api.s-kaupat.fi
 www.s-kaupat.fi
+api.s-kaupat.fi
 online.s-pankki.fi
 www.s-pankki.fi
 https://crosskey.io/stores/s-pankki/apis
@@ -1398,16 +1398,16 @@ www.hotels.com
 www.lastminute.com.au
 www.wotif.com
 www.vrbo.com
-www.lastminute.co.nz
 *.travelocity.com
 *.cheaptickets.com
+www.lastminute.co.nz
 www.fewo-direkt.de
 *.wotif.com
 www.orbitz.com
-www.expediagroup.com
-*.carrentals.com
-www.stayz.com.au
 www.travelocity.com
+www.stayz.com.au
+*.carrentals.com
+www.expediagroup.com
 *.vrbo.com
 *.carrentals.com
 *.wotif.com
@@ -1947,9 +1947,9 @@ cloud.elastic.co
 *.recko.io
 *.link.co
 api.taxjar.com
+api.stripe.com
 js.stripe.com
 app.taxjar.com
-api.stripe.com
 *.lemonsqueezy.com
 *.stripe.com
 *.lemonsqueezy.com
@@ -1981,7 +1981,6 @@ gql.reddit.com
 *.redditmedia.com
 business.reddithelp.com
 ads.reddit.com
-matrix.redditspace.com
 *.redditinc.com
 developers.reddit.com
 accounts.reddit.com
@@ -1990,6 +1989,7 @@ api.reddit.com
 *.memorable.io
 *.snooguts.net
 *.reddit.com
+matrix.redditspace.com
 *.snooguts.net
 *.reddit.com
 *.redditmedia.com
@@ -2385,12 +2385,12 @@ transact.playstation.com
 wallets.api.playstation.com
 store.playstation.com
 *.api.playstation.com
-my.playstation.com
 social.playstation.com
+my.playstation.com
 ca.account.sony.com
 *.playstation.net
-my.account.sony.com
 *.sonyentertainmentnetwork.com
+my.account.sony.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2771,8 +2771,8 @@ www.bookingholdings.com
 api.creditkarma.com
 blog.creditkarma.com
 www.creditkarma.ca
-accounts.creditkarma.com
 support.creditkarma.ca
+accounts.creditkarma.com
 accounts.creditkarma.com
 www.creditkarma.ca
 api.creditkarma.com
@@ -2910,8 +2910,8 @@ grammarly.ai
 *.grammarlyaws.com
 capi.grammarly.com
 *.grammarly.io
-app.grammarly.com
 *.grammarly.com
+app.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -3007,8 +3007,8 @@ paypal.me
 *.paypalcorp.com
 *.venmo.com
 *.paypal.com
-paypalobjects.com
 sandbox.braintreegateway.com
+paypalobjects.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3060,8 +3060,8 @@ billingsupport.chaturbate.com
 secure.chaturbate.com
 *.bitmex.com
 blog.bitmex.com
-www.bitmex.com
 testnet.bitmex.com
+www.bitmex.com
 *.bitmex.com
 testnet.bitmex.com
 www.bitmex.com
@@ -3156,13 +3156,13 @@ tax.crypto.com
 js.crypto.com
 nadex.com
 *.mona.co
+developer-platform-api.crypto.com
 app.mona.co
 developer.crypto.com
 web.crypto.com
-developer-platform-api.crypto.com
 developer-api.crypto.com
-merchant.crypto.com
 *.crypto.com
+merchant.crypto.com
 *.crypto.com
 *.mona.co
 https://crypto.com/exchange
@@ -3451,8 +3451,8 @@ cdna.lystit.com
 mobileapi.lystit.com
 try.discourse.org
 try.discourse.org
-*.quora.com
 poe.com
+*.quora.com
 *.quora.com
 http://poe.com
 forum.portswigger.net
@@ -3504,10 +3504,10 @@ moneybirdstorage.com
 npmjs.org
 gist.github.com
 *.githubapp.com
-classroom.github.com
 education.github.com
-api.github.com
+classroom.github.com
 npmjs.com
+api.github.com
 *.githubusercontent.com
 github.com
 github.com
@@ -3624,10 +3624,10 @@ linkpop.com
 partners.shopify.com
 your-store.myshopify.com
 *.shopify.com
-accounts.shopify.com
 *.shopify.io
 admin.shopify.com
 shop.app
+accounts.shopify.com
 *.shopifycs.com
 *.shopifycs.com
 *.pci.shopifyinc.com
@@ -3785,9 +3785,9 @@ next.airbnb.com
 api.airbnb.com
 www.hoteltonight.com
 *.airbnb.com
-www.airbnb.com
 *.withairbnb.com
 *.hoteltonight.com
+www.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
