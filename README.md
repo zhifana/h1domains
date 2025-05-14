@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 14 20:20:56 UTC 2025)
+## Domains with Bounties (Last Updated Wed May 14 20:42:35 UTC 2025)
 ```
 connect.com
 *.hs-sites(-eu1)?.com
@@ -51,9 +51,9 @@ www.zooplus.com
 zooplus.net
 mark8.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
-alfred.syfe.com
 uat-bugbounty.nonprod.syfe.com
 www.syfe.com
+alfred.syfe.com
 api.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
@@ -372,10 +372,10 @@ help.netflix.com
 meechum.netflix.com
 *.nflximg.net
 *.prod.cloud.netflix.com
+*.nflxext.com
+ichnaea.netflix.com
 nmtracking.netflix.com
 *.prod.ftl.netflix.com
-ichnaea.netflix.com
-*.nflxext.com
 *.nflxso.net
 www.netflix.com
 *.nflxext.com
@@ -570,8 +570,8 @@ cpanel.hostinger.com
 builder.hostinger.com
 horizons.hostinger.com
 payments.hostinger.com
-hpanel.hostinger.com
 www.hostinger.com
+hpanel.hostinger.com
 www.hostinger.com
 cpanel.hostinger.com
 hpanel.hostinger.com
@@ -586,9 +586,9 @@ therapeutics.23andme.com
 research.23andme.com
 api.23andme.com
 you.23andme.com
-clinic.lemonaidhealth.com
 healthaid.lemonaidhealth.com
 auth.23andme.com
+clinic.lemonaidhealth.com
 pd-api.polkadoc.com
 store.23andme.com
 blog.23andme.com
@@ -794,8 +794,8 @@ api2.frontapp.com
 app.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.booztlet.com
 kronor.io
+*.booztlet.com
 *.boozt.com
 *.boozt.com
 *.booztlet.com
@@ -818,8 +818,8 @@ api.mergify.com
 dashboard.mergify.com
 www.compass.com
 www.compass.com
-*.gethypr.com
 *.hypr.com
+*.gethypr.com
 *.hypr.com
 *.gethypr.com
 cdn.moderntreasury.com
@@ -1227,8 +1227,8 @@ web.grindr.com
 *.mwbsys.com
 *.cloud.malwarebytes.com
 my.malwarebytes.com
-oneview.malwarebytes.com
 cloud.malwarebytes.com
+oneview.malwarebytes.com
 *.malwarebytes.com
 www.malwarebytes.com
 *.threatdown.com
@@ -1408,7 +1408,6 @@ www.stayz.com.au
 www.expediagroup.com
 www.hotwirepartnercentral.com
 *.expediapartnercentral.com
-www.expedia.com
 *.vrbo.com
 *.carrentals.com
 *.wotif.com
@@ -1442,9 +1441,9 @@ www.expediagroup.com
 www.flights.com
 www.expediataap.com
 *.magiceden.workers.dev
-*.magiceden.io
 magiceden.io
 *.magiceden.dev
+*.magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1513,8 +1512,8 @@ invoices.razorpay.com
 x.razorpay.com
 payroll.razorpay.com
 checkout.razorpay.com
-dashboard.razorpay.com
 api.razorpay.com
+dashboard.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -1567,9 +1566,9 @@ pay.ibex.exchange
 pwapi.ex2b.com
 social-trading.exness.com
 api.excalls.mobi
-exness.com
 exnessaffiliates.com
 my.exness.com
+exness.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1948,9 +1947,9 @@ cloud.elastic.co
 *.recko.io
 *.link.co
 api.taxjar.com
-api.stripe.com
 js.stripe.com
 app.taxjar.com
+api.stripe.com
 *.lemonsqueezy.com
 *.stripe.com
 *.lemonsqueezy.com
@@ -1983,10 +1982,10 @@ gql.reddit.com
 business.reddithelp.com
 *.redditinc.com
 developers.reddit.com
-accounts.reddit.com
 m.reddit.com
-api.reddit.com
+accounts.reddit.com
 *.memorable.io
+api.reddit.com
 *.snooguts.net
 *.reddit.com
 matrix.redditspace.com
@@ -2385,13 +2384,13 @@ api.direct.playstation.com
 transact.playstation.com
 wallets.api.playstation.com
 store.playstation.com
-my.playstation.com
 social.playstation.com
+my.playstation.com
 *.sonyentertainmentnetwork.com
 ca.account.sony.com
 *.playstation.net
-my.account.sony.com
 *.api.playstation.com
+my.account.sony.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2911,8 +2910,8 @@ booking.applevacations.com
 *.grammarlyaws.com
 capi.grammarly.com
 *.grammarly.io
-grammarly.ai
 app.grammarly.com
+grammarly.ai
 *.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
@@ -3163,8 +3162,8 @@ app.mona.co
 developer.crypto.com
 web.crypto.com
 developer-api.crypto.com
-merchant.crypto.com
 *.crypto.com
+merchant.crypto.com
 *.crypto.com
 *.mona.co
 https://crypto.com/exchange
@@ -3251,8 +3250,8 @@ kartaview.org
 hungrygowhere.com
 *.myteksi.com
 *.grab-sure.com
-*.grab.com
 *.taralite.com
+*.grab.com
 *.myteksi.net
 *.myteksi.com
 *.myteksi.net
@@ -3504,10 +3503,10 @@ moneybird.com
 moneybirdstorage.com
 *.github.net
 npmjs.org
-*.githubapp.com
 gist.github.com
-classroom.github.com
+*.githubapp.com
 education.github.com
+classroom.github.com
 npmjs.com
 api.github.com
 *.githubusercontent.com
@@ -3626,11 +3625,11 @@ linkpop.com
 partners.shopify.com
 *.shopifycs.com
 *.shopify.io
-*.shopify.com
-shop.app
 admin.shopify.com
+shop.app
 accounts.shopify.com
 your-store.myshopify.com
+*.shopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3879,7 +3878,7 @@ cloudflareworkers.com
 one.dash.cloudflare.com
 *.cloudflarepartners.com
 api.cloudflare.com
-dash.cloudflare.com
+waf.cumulusfire.net
 dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
@@ -4012,8 +4011,8 @@ api.hackerone.com
 hackerone.live
 www.wearehackerone.com
 app.pullrequest.com
-hackerone.com
 www.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
