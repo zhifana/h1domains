@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 14 16:27:21 UTC 2025)
+## Domains with Bounties (Last Updated Wed May 14 16:52:26 UTC 2025)
 ```
 connect.com
 *.hs-sites(-eu1)?.com
@@ -11,9 +11,9 @@ connect.com
 api.hubapi.com
 *.hubspotemail.net
 chatspot.ai
-api.hubspot.com
 app.hubspot.com
 app-eu1.hubspot.com
+api.hubspot.com
 *.hubspotemail.net
 *.hs-sites(-eu1)?.com
 *.hubspotpagebuilder.com
@@ -112,8 +112,8 @@ workspace.toloka.ai
 sso.auth.toloka.ai
 mindrift.toloka.ai
 experts-portal.toloka.ai
-auth.toloka.ai
 ladybug.a9s.toloka.ai
+auth.toloka.ai
 auth.toloka.ai
 sso.auth.toloka.ai
 ladybug.a9s.toloka.ai
@@ -372,8 +372,8 @@ help.netflix.com
 meechum.netflix.com
 *.nflximg.net
 *.prod.cloud.netflix.com
-ichnaea.netflix.com
 *.nflxext.com
+ichnaea.netflix.com
 nmtracking.netflix.com
 *.prod.ftl.netflix.com
 *.nflxso.net
@@ -587,12 +587,12 @@ research.23andme.com
 api.23andme.com
 lemonaidhealth.com
 you.23andme.com
-pd-api.polkadoc.com
-healthaid.lemonaidhealth.com
 clinic.lemonaidhealth.com
+healthaid.lemonaidhealth.com
 auth.23andme.com
-blog.23andme.com
+pd-api.polkadoc.com
 store.23andme.com
+blog.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -794,8 +794,8 @@ api2.frontapp.com
 app.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.booztlet.com
 kronor.io
+*.booztlet.com
 *.boozt.com
 *.boozt.com
 *.booztlet.com
@@ -818,8 +818,8 @@ api.mergify.com
 dashboard.mergify.com
 www.compass.com
 www.compass.com
-*.hypr.com
 *.gethypr.com
+*.hypr.com
 *.hypr.com
 *.gethypr.com
 cdn.moderntreasury.com
@@ -1179,8 +1179,8 @@ ab-platform-api.eu-east-1.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 cargo.indrive.com
 *.indriver.com
-new-order.eu-east-1.indriverapp.com
 *.indriverapp.com
+new-order.eu-east-1.indriverapp.com
 volans.tech
 *.indrive.com
 *.indriverapp.com
@@ -1230,8 +1230,8 @@ my.malwarebytes.com
 cloud.malwarebytes.com
 oneview.malwarebytes.com
 *.malwarebytes.com
-www.malwarebytes.com
 *.threatdown.com
+www.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1661,9 +1661,9 @@ helpers.bullsheet.me
 api.instacart.com
 admin.instacart.com
 shoppers.instacart.com
-*.instacart.com
-www.instacart.com
 *.instacart.tools
+www.instacart.com
+*.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1804,8 +1804,8 @@ playwonderbox.com
 *.tstaging.tools
 *.tinderwebstaging.com
 *.tinder.com
-*.gotinder.com
 *.tinderops.net
+*.gotinder.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1920,8 +1920,8 @@ support.metamask.io
 tickets.metamask.io
 www.xvideos.red
 www.xnxx.gold
-www.xvideos.com
 www.xnxx.com
+www.xvideos.com
 www.xvideos.com
 www.xvideos.red
 www.xnxx.com
@@ -1948,11 +1948,11 @@ cloud.elastic.co
 *.recko.io
 *.link.co
 api.taxjar.com
-api.stripe.com
 js.stripe.com
 app.taxjar.com
-*.lemonsqueezy.com
+api.stripe.com
 *.stripe.com
+*.lemonsqueezy.com
 *.lemonsqueezy.com
 api.stripe.com
 *.stripe.com
@@ -1988,9 +1988,9 @@ m.reddit.com
 accounts.reddit.com
 *.memorable.io
 api.reddit.com
-matrix.redditspace.com
 *.snooguts.net
 *.reddit.com
+matrix.redditspace.com
 *.snooguts.net
 *.reddit.com
 *.redditmedia.com
@@ -2166,10 +2166,10 @@ careers.tiktok.com
 developers.tiktok.com
 business.tiktok.com
 shop.tiktok.com
-live-backstage.tiktok.com
 affiliate-id.tokopedia.com
-*.tiktok.com
+live-backstage.tiktok.com
 ads.tiktok.com
+*.tiktok.com
 *.tiktokv.com
 seller-id.tokopedia.com
 tiktok.com
@@ -2409,8 +2409,8 @@ faucet.polygon.technology
 ecosystem-api.polygon.technology
 portal.polygon.technology
 staking-api.polygon.technology
-staking.polygon.technology
 ecosystem.polygon.technology
+staking.polygon.technology
 staking-api.polygon.technology
 faucet.polygon.technology
 portal.polygon.technology
@@ -3139,8 +3139,8 @@ help.steampowered.com
 www.counter-strike.net
 steamcommunity.com
 api.steampowered.com
-store.steampowered.com
 partner.steamgames.com
+store.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3158,11 +3158,11 @@ tax.crypto.com
 js.crypto.com
 nadex.com
 *.mona.co
-developer-platform-api.crypto.com
 app.mona.co
 developer.crypto.com
 web.crypto.com
 merchant.crypto.com
+developer-platform-api.crypto.com
 developer-api.crypto.com
 *.crypto.com
 *.crypto.com
@@ -3350,8 +3350,8 @@ backstage.io
 *.byspotify.com
 assets.spotify.com
 api.spotify.com
-*.spotify.com
 *.withspotify.com
+*.spotify.com
 *.spotify.com
 *.spotify.net
 *.withspotify.com
@@ -3509,9 +3509,9 @@ gist.github.com
 classroom.github.com
 education.github.com
 npmjs.com
-github.com
 api.github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3626,8 +3626,8 @@ linkpop.com
 partners.shopify.com
 shop.app
 *.shopify.io
-*.shopifycs.com
 accounts.shopify.com
+*.shopifycs.com
 *.shopify.com
 admin.shopify.com
 your-store.myshopify.com
@@ -3743,8 +3743,8 @@ marketplace.magento.com
 stock.adobe.com
 account.adobe.com
 contributor.stock.adobe.com
-magento.com
 fonts.adobe.com
+magento.com
 *.acrobat.adobe.com
 firefly.adobe.com
 *.acrobat.adobe.com
@@ -3861,8 +3861,8 @@ www.greenhouse.io
 *.grok.com
 gnip.com
 *.x.com
-grok.com
 *.twimg.com
+grok.com
 *.x.ai
 x.com
 *.twitter.com
