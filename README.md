@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 14 16:52:26 UTC 2025)
+## Domains with Bounties (Last Updated Wed May 14 17:19:36 UTC 2025)
 ```
 connect.com
 *.hs-sites(-eu1)?.com
@@ -12,8 +12,8 @@ api.hubapi.com
 *.hubspotemail.net
 chatspot.ai
 app.hubspot.com
-app-eu1.hubspot.com
 api.hubspot.com
+app-eu1.hubspot.com
 *.hubspotemail.net
 *.hs-sites(-eu1)?.com
 *.hubspotpagebuilder.com
@@ -372,8 +372,8 @@ help.netflix.com
 meechum.netflix.com
 *.nflximg.net
 *.prod.cloud.netflix.com
-*.nflxext.com
 ichnaea.netflix.com
+*.nflxext.com
 nmtracking.netflix.com
 *.prod.ftl.netflix.com
 *.nflxso.net
@@ -455,16 +455,16 @@ app.rewire.to
 ablink.info.remitly.com
 careers.remitly.com
 api.remitly.io
+rewire.com
 news.remitly.com
 blog.remitly.com
-rewire.com
-access.remitly.com
 *.dev.remitly.com
+access.remitly.com
 auth.remitly.com
 remitly.com
 app3.rewire.to
-rates.rewire.com
 *.int.remitly.com
+rates.rewire.com
 site.rewire.com
 *.int.remitly.com
 *.dev.remitly.com
@@ -587,9 +587,9 @@ research.23andme.com
 api.23andme.com
 lemonaidhealth.com
 you.23andme.com
-clinic.lemonaidhealth.com
 healthaid.lemonaidhealth.com
 auth.23andme.com
+clinic.lemonaidhealth.com
 pd-api.polkadoc.com
 store.23andme.com
 blog.23andme.com
@@ -818,8 +818,8 @@ api.mergify.com
 dashboard.mergify.com
 www.compass.com
 www.compass.com
-*.gethypr.com
 *.hypr.com
+*.gethypr.com
 *.hypr.com
 *.gethypr.com
 cdn.moderntreasury.com
@@ -839,8 +839,8 @@ oauth-sandbox.gocardless.com
 ob.gocardless.com
 pay-sandbox.gocardless.com
 www.gocardless.com
-manage-sandbox.gocardless.com
 api-sandbox.gocardless.com
+manage-sandbox.gocardless.com
 *.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -1039,13 +1039,13 @@ api.avtoelon.uz
 m.krisha.kz
 app.krisha.kz
 m.avtoelon.uz
-api.kolesa.kz
 app.kolesa.kz
+api.kolesa.kz
 avtoelon.uz
 m.kolesa.kz
 api.krisha.kz
-kolesa.kz
 krisha.kz
+kolesa.kz
 id.avtoelon.uz
 id.kolesa.kz
 kolesa.kz
@@ -1227,8 +1227,8 @@ web.grindr.com
 *.mwbsys.com
 *.cloud.malwarebytes.com
 my.malwarebytes.com
-cloud.malwarebytes.com
 oneview.malwarebytes.com
+cloud.malwarebytes.com
 *.malwarebytes.com
 *.threatdown.com
 www.malwarebytes.com
@@ -1269,8 +1269,8 @@ api.sokos.fi
 api.s-kaupat.fi
 auth.skypicker.com
 tequila.kiwi.com
-*.kiwi.com
 www.kiwi.com
+*.kiwi.com
 *.skypicker.com
 jobs.kiwi.com
 *.kiwi.com
@@ -1398,14 +1398,14 @@ www.hotels.com
 www.lastminute.com.au
 www.wotif.com
 www.vrbo.com
+www.lastminute.co.nz
 *.travelocity.com
 *.cheaptickets.com
-www.lastminute.co.nz
 *.wotif.com
-www.travelocity.com
-www.stayz.com.au
-*.carrentals.com
 www.expediagroup.com
+*.carrentals.com
+www.stayz.com.au
+www.travelocity.com
 www.hotwirepartnercentral.com
 *.expediapartnercentral.com
 www.expedia.com
@@ -1512,9 +1512,9 @@ signature-insights.api.cx.metamask.io
 invoices.razorpay.com
 x.razorpay.com
 api.razorpay.com
+dashboard.razorpay.com
 payroll.razorpay.com
 checkout.razorpay.com
-dashboard.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -1567,9 +1567,9 @@ pay.ibex.exchange
 pwapi.ex2b.com
 social-trading.exness.com
 api.excalls.mobi
+exness.com
 exnessaffiliates.com
 my.exness.com
-exness.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1804,8 +1804,8 @@ playwonderbox.com
 *.tstaging.tools
 *.tinderwebstaging.com
 *.tinder.com
-*.tinderops.net
 *.gotinder.com
+*.tinderops.net
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1948,11 +1948,11 @@ cloud.elastic.co
 *.recko.io
 *.link.co
 api.taxjar.com
-js.stripe.com
 app.taxjar.com
+js.stripe.com
 api.stripe.com
-*.stripe.com
 *.lemonsqueezy.com
+*.stripe.com
 *.lemonsqueezy.com
 api.stripe.com
 *.stripe.com
@@ -1986,8 +1986,8 @@ ads.reddit.com
 developers.reddit.com
 m.reddit.com
 accounts.reddit.com
-*.memorable.io
 api.reddit.com
+*.memorable.io
 *.snooguts.net
 *.reddit.com
 matrix.redditspace.com
@@ -2409,8 +2409,8 @@ faucet.polygon.technology
 ecosystem-api.polygon.technology
 portal.polygon.technology
 staking-api.polygon.technology
-ecosystem.polygon.technology
 staking.polygon.technology
+ecosystem.polygon.technology
 staking-api.polygon.technology
 faucet.polygon.technology
 portal.polygon.technology
@@ -2753,9 +2753,9 @@ de.forescout.cloud
 cloud.forescout.com
 reservations.rezserver.com
 www.getaroom.com
+admin.rezserver.com
 secure.rezserver.com
 www.bookingholdings.com
-admin.rezserver.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2773,8 +2773,8 @@ www.bookingholdings.com
 api.creditkarma.com
 blog.creditkarma.com
 www.creditkarma.ca
-support.creditkarma.ca
 accounts.creditkarma.com
+support.creditkarma.ca
 accounts.creditkarma.com
 www.creditkarma.ca
 api.creditkarma.com
@@ -2911,8 +2911,8 @@ booking.applevacations.com
 *.grammarlyaws.com
 capi.grammarly.com
 *.grammarly.io
-grammarly.ai
 app.grammarly.com
+grammarly.ai
 *.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
@@ -3158,11 +3158,11 @@ tax.crypto.com
 js.crypto.com
 nadex.com
 *.mona.co
+developer-platform-api.crypto.com
 app.mona.co
 developer.crypto.com
 web.crypto.com
 merchant.crypto.com
-developer-platform-api.crypto.com
 developer-api.crypto.com
 *.crypto.com
 *.crypto.com
@@ -3251,8 +3251,8 @@ kartaview.org
 hungrygowhere.com
 *.myteksi.com
 *.grab-sure.com
-*.taralite.com
 *.grab.com
+*.taralite.com
 *.myteksi.net
 *.myteksi.com
 *.myteksi.net
@@ -3506,8 +3506,8 @@ moneybirdstorage.com
 npmjs.org
 gist.github.com
 *.githubapp.com
-classroom.github.com
 education.github.com
+classroom.github.com
 npmjs.com
 api.github.com
 *.githubusercontent.com
@@ -3624,13 +3624,13 @@ arrive-server.shopifycloud.com
 shopifyinbox.com
 linkpop.com
 partners.shopify.com
-shop.app
 *.shopify.io
-accounts.shopify.com
 *.shopifycs.com
+shop.app
+accounts.shopify.com
+your-store.myshopify.com
 *.shopify.com
 admin.shopify.com
-your-store.myshopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3672,12 +3672,12 @@ forum.playcanvas.com
 *.sc-core.net
 snappublisher.snapchat.com
 playcanvas.com
-login.playcanvas.com
 app.snapchat.com
-ads.snapchat.com
+login.playcanvas.com
 business.snapchat.com
 accounts.snapchat.com
 web.snapchat.com
+ads.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3787,8 +3787,8 @@ api.airbnb.com
 www.hoteltonight.com
 *.hoteltonight.com
 *.withairbnb.com
-*.airbnb.com
 www.airbnb.com
+*.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3863,8 +3863,8 @@ gnip.com
 *.x.com
 *.twimg.com
 grok.com
-*.x.ai
 x.com
+*.x.ai
 *.twitter.com
 *.twitter.com
 *.vine.co
