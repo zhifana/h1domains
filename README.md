@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 18 09:17:54 UTC 2025)
+## Domains with Bounties (Last Updated Sun May 18 09:42:06 UTC 2025)
 ```
 *.hubspotpagebuilder.com
 *.hs-sites(-eu1)?.com
@@ -10,10 +10,10 @@ hackerone "in-scope" domains
 chatspot.ai
 connect.com
 *.hubspotpagebuilder.eu
-api.hubapi.com
 api.hubspot.com
 app-eu1.hubspot.com
 app.hubspot.com
+api.hubapi.com
 *.hubspotemail.net
 *.hs-sites(-eu1)?.com
 *.hubspotpagebuilder.com
@@ -26,8 +26,8 @@ chatspot.ai
 connect.com
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 pay.wallet.tg
-wallet.tg
 walletbot.me
+wallet.tg
 walletbot.me
 pay.wallet.tg
 wallet.tg
@@ -109,10 +109,10 @@ https://spgw-pay.finzfin.com
 workspace.toloka.dev
 workspace.toloka.ai
 sso.auth.toloka.ai
-experts-portal.toloka.ai
-ladybug.a9s.toloka.ai
-auth.toloka.ai
 tb.toloka.dev
+experts-portal.toloka.ai
+auth.toloka.ai
+ladybug.a9s.toloka.ai
 mindrift.toloka.ai
 auth.toloka.ai
 sso.auth.toloka.ai
@@ -370,9 +370,9 @@ help.netflix.com
 meechum.netflix.com
 *.nflximg.net
 *.prod.cloud.netflix.com
+ichnaea.netflix.com
 nmtracking.netflix.com
 *.prod.ftl.netflix.com
-ichnaea.netflix.com
 *.nflxso.net
 customerevents.netflix.com
 *.nflxext.com
@@ -461,11 +461,11 @@ app3.rewire.to
 *.int.remitly.com
 site.rewire.com
 rewire.com
-ir.remitly.com
 news.remitly.com
 rates.rewire.com
 media.remitly.io
 remitly.com
+ir.remitly.com
 auth.remitly.com
 *.int.remitly.com
 *.dev.remitly.com
@@ -584,14 +584,14 @@ sapi-live.lh.us-west-2.prd.23andme.us
 mediacenter.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
-api.23andme.com
-clinic.lemonaidhealth.com
-healthaid.lemonaidhealth.com
-auth.23andme.com
 lemonaidhealth.com
 store.23andme.com
-pd-api.polkadoc.com
+api.23andme.com
+healthaid.lemonaidhealth.com
+clinic.lemonaidhealth.com
+auth.23andme.com
 blog.23andme.com
+pd-api.polkadoc.com
 you.23andme.com
 research.23andme.com
 api.23andme.com
@@ -642,7 +642,7 @@ mercadoplay.pe
 mercadoplay.uy
 tucarro.com
 www.mercadolibre.com.py
-*.mercadopago.com.co
+biolibre.co
 *.adminml.com
 *.mercadolibre.cl
 *.mercadolibre.com
@@ -793,8 +793,8 @@ api2.frontapp.com
 app.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.booztlet.com
 kronor.io
+*.booztlet.com
 *.boozt.com
 *.boozt.com
 *.booztlet.com
@@ -837,10 +837,10 @@ connect-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 ob.gocardless.com
 pay-sandbox.gocardless.com
-www.gocardless.com
-api-sandbox.gocardless.com
-manage-sandbox.gocardless.com
 *.gocardless.com
+www.gocardless.com
+manage-sandbox.gocardless.com
+api-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -1024,9 +1024,9 @@ developer.currencycloud.com
 direct-demo.currencycloud.com
 https://www.visa.com.az/az_az/account/registration
 yourdomain.freshcaller.com
-yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshchat.com
+yourdomain.freshservice.com
 yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -1321,8 +1321,8 @@ superbet.bet.br
 *.napoleoncasino.be
 *.superbet.rs
 *.napoleondice.be
-*.superbet.ro
 *.superbet.com
+*.superbet.ro
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1372,8 +1372,8 @@ share.doppler.com
 *.cryptopunks.app
 *.yuga.com
 *.meebits.app
-*.boredapeyachtclub.com
 *.otherside.xyz
+*.boredapeyachtclub.com
 *.boredapeyachtclub.com
 *.yuga.com
 *.yugalabs.io
@@ -1402,11 +1402,12 @@ www.hotwirepartnercentral.com
 *.expediapartnercentral.com
 www.ebookers.fi
 www.fewo-direkt.de
-www.hotwire.com
 *.travelocity.ca
+www.hotwire.com
 www.hotels.com
 www.bookabach.co.nz
 *.carrentals.com
+www.carrentals.com
 *.vrbo.com
 *.carrentals.com
 *.wotif.com
@@ -1440,8 +1441,8 @@ www.expediagroup.com
 www.flights.com
 www.expediataap.com
 *.magiceden.workers.dev
-slingshot.app
 magiceden.io
+slingshot.app
 slingshot.finance
 *.magiceden.io
 *.magiceden.dev
@@ -1494,8 +1495,8 @@ sandbox.securegateway.com
 sandbox-royal.securegateway.com
 www.dolap.com
 m.trendyol.com
-www.trendyol-milla.com
 www.trendyol.com
+www.trendyol-milla.com
 www.trendyol.com
 m.trendyol.com
 www.dolap.com
@@ -1514,8 +1515,8 @@ signature-insights.api.cx.metamask.io
 invoices.razorpay.com
 x.razorpay.com
 api.razorpay.com
-checkout.razorpay.com
 payroll.razorpay.com
+checkout.razorpay.com
 dashboard.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
@@ -1537,8 +1538,8 @@ www.checkfelix.com
 www.mundi.com.br
 www.swoodoo.com
 www.hotelscombined.com
-*.kayak.com
 www.momondo.com
+*.kayak.com
 business.kayak.com
 www.kayak.com
 www.cheapflights.com
@@ -1805,8 +1806,8 @@ playwonderbox.com
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
-*.gotinder.com
 *.tinderops.net
+*.gotinder.com
 *.tinder.com
 *.tinder.com
 *.gotinder.com
@@ -1950,10 +1951,10 @@ cloud.elastic.co
 *.recko.io
 *.link.co
 api.taxjar.com
-app.taxjar.com
 api.stripe.com
-js.stripe.com
+app.taxjar.com
 *.lemonsqueezy.com
+js.stripe.com
 *.stripe.com
 *.lemonsqueezy.com
 api.stripe.com
@@ -1982,14 +1983,14 @@ sh.reddit.com
 gql.reddit.com
 *.redditmedia.com
 developers.reddit.com
-matrix.redditspace.com
-ads.reddit.com
-accounts.reddit.com
 m.reddit.com
+accounts.reddit.com
 api.reddit.com
+ads.reddit.com
+matrix.redditspace.com
 *.snooguts.net
-*.memorable.io
 business.reddithelp.com
+*.memorable.io
 *.reddit.com
 *.redditinc.com
 meta-api.reddit.com
@@ -2104,9 +2105,9 @@ internal.netlify.com
 netlify-cdp-loader.netlify.app
 *.ops.netlify.com
 *.infra-prod.nsvcs.net
-*.services-prod.nsvcs.net
-app.netlify.com
 api.netlify.com
+app.netlify.com
+*.services-prod.nsvcs.net
 screenshot-proxy.netlify.app
 *.services.netlify.com
 *.services.netlify.com
@@ -2217,8 +2218,8 @@ nft.io
 platform.enjin.io
 nft.io
 platform.enjin.io
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 3d.cs.money
@@ -2238,8 +2239,8 @@ api.faraday.ai
 *.acronis.work
 *.devicelock.com
 *.5nine.com
-*-api-*.acronis.com
 account.acronis.com
+*-api-*.acronis.com
 beta-cloud.acronis.com
 *.acronis.com
 *-api-*.acronis.com
@@ -2391,9 +2392,9 @@ wallets.api.playstation.com
 ca.account.sony.com
 store.playstation.com
 *.api.playstation.com
-*.sonyentertainmentnetwork.com
 *.playstation.net
 my.account.sony.com
+*.sonyentertainmentnetwork.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2615,8 +2616,8 @@ downloads.datastax.com
 langflow.org
 langflow.datastax.com
 docs.datastax.com
-www.datastax.com
 astra.datastax.com
+www.datastax.com
 www.datastax.com
 downloads.datastax.com
 docs.datastax.com
@@ -3053,8 +3054,8 @@ m.chaturbate.com
 billingsupport.chaturbate.com
 secure.chaturbate.com
 blog.bitmex.com
-www.bitmex.com
 testnet.bitmex.com
+www.bitmex.com
 *.bitmex.com
 *.bitmex.com
 testnet.bitmex.com
@@ -3149,8 +3150,8 @@ developer.valvesoftware.com
 tax.crypto.com
 js.crypto.com
 *.mona.co
-developer-platform-api.crypto.com
 app.mona.co
+developer-platform-api.crypto.com
 nadex.com
 merchant.crypto.com
 *.crypto.com
@@ -3435,9 +3436,9 @@ your-assigned-subdomain.files.com
 www.files.com
 cdna.lystit.com
 mobileapi.lystit.com
+*.lyst.co
 *.lyst.com
 *.lystit.com
-*.lyst.co
 *.lyst.com
 *.lystit.com
 *.lyst.co
@@ -3497,10 +3498,10 @@ moneybirdstorage.com
 *.github.net
 gist.github.com
 *.githubapp.com
-education.github.com
 classroom.github.com
-npmjs.com
+education.github.com
 *.githubusercontent.com
+npmjs.com
 api.github.com
 npmjs.org
 github.com
@@ -3616,11 +3617,11 @@ arrive-server.shopifycloud.com
 shopifyinbox.com
 linkpop.com
 *.shopifycs.com
-*.shopify.io
 accounts.shopify.com
+*.shopify.io
 *.shopify.com
-admin.shopify.com
 shop.app
+admin.shopify.com
 your-store.myshopify.com
 partners.shopify.com
 *.shopifycs.com
@@ -3732,8 +3733,8 @@ photos.adobe.io
 marketplace.magento.com
 stock.adobe.com
 contributor.stock.adobe.com
-magento.com
 fonts.adobe.com
+magento.com
 *.acrobat.adobe.com
 firefly.adobe.com
 learningmanagerstage4.adobe.com
@@ -3833,11 +3834,11 @@ jss.greenhouse.io
 app.interseller.io
 onboarding.greenhouse.io
 boards.greenhouse.io
-support.greenhouse.io
 api.greenhouse.io
 interseller.io
 app.greenhouse.io
 www.greenhouse.io
+support.greenhouse.io
 app.greenhouse.io
 boards.greenhouse.io
 api.greenhouse.io
@@ -3969,8 +3970,8 @@ slackatwork.com
 slack-imgs.com
 api.slack.com
 app.slack.com
-slack.com
 edgeapi.slack.com
+slack.com
 slack.com
 api.slack.com
 slackb.com
