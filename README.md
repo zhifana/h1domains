@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Sep 28 18:46:52 UTC 2025)
+## Domains with Bounties (Last Updated Sun Sep 28 19:13:58 UTC 2025)
 ```
 trade.ripio.com
 defi.ripio.com
