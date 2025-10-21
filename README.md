@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Oct 21 18:29:36 UTC 2025)
+## Domains with Bounties (Last Updated Tue Oct 21 18:50:57 UTC 2025)
 ```
 minerva.robinhood.com
 cashier.robinhood.com
