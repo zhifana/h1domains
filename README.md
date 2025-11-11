@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 11 09:46:35 UTC 2025)
+## Domains with Bounties (Last Updated Tue Nov 11 10:21:58 UTC 2025)
 ```
 go.stripchat.com
 *.stripchat.com
