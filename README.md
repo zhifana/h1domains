@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 28 10:56:36 UTC 2026)
+## Domains with Bounties (Last Updated Wed Jan 28 11:24:15 UTC 2026)
 ```
 mc.sendgrid.com
 app.sendgrid.com
