@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 20 15:11:18 UTC 2026)
+## Domains with Bounties (Last Updated Fri Feb 20 16:03:05 UTC 2026)
 ```
 superstoreapp.meesho.com
 www.valmo.in
