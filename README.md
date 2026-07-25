@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul 25 16:06:49 UTC 2026)
+## Domains with Bounties (Last Updated Sat Jul 25 17:31:03 UTC 2026)
 ```
 corporate.abercrombie.com
 abercrombie.com
