@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Sep 23 19:50:59 UTC 2026)
+## Domains with Bounties (Last Updated Wed Sep 23 22:42:36 UTC 2026)
 ```
 vercel.app
 *.vercel.live
